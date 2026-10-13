@@ -1,6 +1,138 @@
 {
- "updated": "2026-10-13T22:49:40+00:00",
+ "updated": "2026-10-13T23:49:33+00:00",
  "items": [
+  {
+   "key": "MAR_LEHMANN_MICHAEL_2026-10-13",
+   "name": "Michael John Lehmann",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Felony",
+   "more": 4,
+   "ts": 1791935107,
+   "photo": "photos/MAR_LEHMANN_MICHAEL_2026-10-13.jpg"
+  },
+  {
+   "key": "MAR_HER_JACY_2026-10-13",
+   "name": "Jacy Her",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1791935107,
+   "photo": "photos/MAR_HER_JACY_2026-10-13.jpg"
+  },
+  {
+   "key": "MAR_DIGANGI_BENJAMIN_2026-10-13",
+   "name": "Benjamin Digangi",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Theft-Movable Property From Motor Vehicle",
+   "more": 2,
+   "ts": 1791935107,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_LAVONTAE_623530",
+   "name": "Lavontae Michael Williams",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 7,
+   "ts": 1791934232,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHUMPERT_TOMERE_611558",
+   "name": "Tomere Shondell Shumpert",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791934230,
+   "photo": null
+  },
+  {
+   "key": "MKE_REIS_ANDREW_642971",
+   "name": "Andrew John Reis",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating w/ PAC (2nd)",
+   "more": 0,
+   "ts": 1791934228,
+   "photo": null
+  },
+  {
+   "key": "MKE_LIENHARDT_KEVIN_647759",
+   "name": "Kevin M Lienhardt",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1791934226,
+   "photo": null
+  },
+  {
+   "key": "MKE_LANGE_ROBERT_647760",
+   "name": "Robert Lange",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1791934225,
+   "photo": null
+  },
+  {
+   "key": "MKE_HINES_KENYON_299149",
+   "name": "Kenyon Jovan Hines",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1791934223,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_QURAN_410918",
+   "name": "Quran Shakur Davis",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1791934221,
+   "photo": null
+  },
+  {
+   "key": "FDL_BOYSEN_WILLIAM_2026-10-13",
+   "name": "William Noah Boysen",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Felony Intimidation Of A Victim - Domestic Abuse",
+   "more": 2,
+   "ts": 1791933388,
+   "photo": "photos/FDL_BOYSEN_WILLIAM_2026-10-13.jpg"
+  },
+  {
+   "key": "STARK_ROBERT_2026-10-13",
+   "name": "Robert S Stark",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Burglary-Building Or Dwelling",
+   "more": 2,
+   "ts": 1791932142,
+   "photo": null
+  },
   {
    "key": "MKE_JOHNIKIN_DEONTAE_371060",
    "name": "Deontae Deshawn Johnikin",
@@ -277,83 +409,6 @@
    "photo": "photos/DOU_LANDFRIED_ALEXANDER_2026-10-13.jpg"
   },
   {
-   "key": "RC_SMITH_JAMAL_120011075242744",
-   "name": "Jamal A Smith",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791919945,
-   "photo": "photos/RC_SMITH_JAMAL_120011075242744.jpg"
-  },
-  {
-   "key": "RC_SALDIVAR_FRANCISCO_120011075243618",
-   "name": "Francisco Javier Saldivar",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791919943,
-   "photo": "photos/RC_SALDIVAR_FRANCISCO_120011075243618.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_LAURA_642931",
-   "name": "Laura R Williams",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Take and Drive Vehicle w/o Consent",
-   "more": 0,
-   "ts": 1791919869,
-   "photo": null
-  },
-  {
-   "key": "MKE_THORNTON_SHAMARI_647758",
-   "name": "Shamari Thornton",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791919867,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUSSLEIN_MICHAEL_2018489",
-   "name": "Michael Lee Husslein",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 5,
-   "ts": 1791919865,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARDMAN_TREVIS_2068419",
-   "name": "Trevis Dijon Hardman",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1791919863,
-   "photo": null
-  },
-  {
-   "key": "MKE_GRIFFIN_FABIAN_344488",
-   "name": "Fabian DL Griffin",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery to Public Officers",
-   "more": 1,
-   "ts": 1791919861,
-   "photo": null
-  },
-  {
    "key": "GRANT_JORDAN_2026-10-13",
    "name": "Jordan M Grant",
    "age": "32",
@@ -473,39 +528,6 @@
    "more": 0,
    "ts": 1791797317,
    "photo": "photos/TREM_MAASSEN_MARK_4839.jpg"
-  },
-  {
-   "key": "TREM_LUCASCARRILLO_ADILIO_4864",
-   "name": "Adilio Lucas Carrillo",
-   "age": "22",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated - 1st Offense",
-   "more": 3,
-   "ts": 1791797315,
-   "photo": "photos/TREM_LUCASCARRILLO_ADILIO_4864.jpg"
-  },
-  {
-   "key": "TREM_CRUZMALDONADO_ANTONIO_2334",
-   "name": "Antonio Cruz Maldonado",
-   "age": "30",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated - 2nd Offense",
-   "more": 4,
-   "ts": 1791797314,
-   "photo": "photos/TREM_CRUZMALDONADO_ANTONIO_2334.jpg"
-  },
-  {
-   "key": "TREM_BLAS_ADRIAN_5855",
-   "name": "Adrian Blas",
-   "age": "21",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Appear Warrant",
-   "more": 1,
-   "ts": 1791797312,
-   "photo": "photos/TREM_BLAS_ADRIAN_5855.jpg"
   }
  ]
 }
