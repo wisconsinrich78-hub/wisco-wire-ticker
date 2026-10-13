@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-13T20:15:14+00:00",
+ "updated": "2026-10-13T20:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_BROWN_ALONZO_260498",
+   "name": "Alonzo Willis Brown",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791923350,
+   "photo": null
+  },
   {
    "key": "FDL_SILVA_SCOTT_2026-10-13",
    "name": "Scott D Silva",
@@ -230,17 +241,6 @@
    "charge": "Battery",
    "more": 5,
    "ts": 1791916165,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCGHEE_TERRELL_647756",
-   "name": "Terrell Anthony McGhee",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791912558,
    "photo": null
   },
   {
