@@ -1,6 +1,160 @@
 {
- "updated": "2026-10-13T20:49:28+00:00",
+ "updated": "2026-10-13T21:49:49+00:00",
  "items": [
+  {
+   "key": "RC_DAVISROOT_SUMMER_120011075246511",
+   "name": "Summer Caroline Davis Root",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791927070,
+   "photo": "photos/RC_DAVISROOT_SUMMER_120011075246511.jpg"
+  },
+  {
+   "key": "RC_BARNEY_DARIUS_120011075246447",
+   "name": "Darius L Barney",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791927067,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANTIAGOMORALES_CARLOS_622219",
+   "name": "Carlos Jose Santiago-Morales",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 7,
+   "ts": 1791926977,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_JOHN_397405",
+   "name": "John T Lewis",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1791926975,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_EMMANUEL_618689",
+   "name": "Emmanuel Deshawn Davis",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791926974,
+   "photo": null
+  },
+  {
+   "key": "WILLIAMS_CARTRELL_2026-10-13",
+   "name": "Cartrell C Williams",
+   "age": "17",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Court",
+   "more": 0,
+   "ts": 1791926499,
+   "photo": null
+  },
+  {
+   "key": "FDL_GRANDE_HEATHER_2026-10-13",
+   "name": "Heather Anne Grande",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Felony Bail Jumping",
+   "more": 4,
+   "ts": 1791926206,
+   "photo": "photos/FDL_GRANDE_HEATHER_2026-10-13.jpg"
+  },
+  {
+   "key": "DOU_WALLACE_DYLAN_2025-12-07",
+   "name": "Dylan C Wallace",
+   "age": "28",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 7,
+   "ts": 1791926183,
+   "photo": "photos/DOU_WALLACE_DYLAN_2025-12-07.jpg"
+  },
+  {
+   "key": "DOU_SWANSON_AUSTIN_2026-06-29",
+   "name": "Austin J Swanson",
+   "age": "32",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1791926181,
+   "photo": "photos/DOU_SWANSON_AUSTIN_2026-06-29.jpg"
+  },
+  {
+   "key": "DOU_RABOIN_RYAN_2026-08-19",
+   "name": "Ryan J Raboin",
+   "age": "48",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1791926179,
+   "photo": "photos/DOU_RABOIN_RYAN_2026-08-19.jpg"
+  },
+  {
+   "key": "DOU_TATE_LARRY_2026-09-22",
+   "name": "Larry Tate",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1791926178,
+   "photo": "photos/DOU_TATE_LARRY_2026-09-22.jpg"
+  },
+  {
+   "key": "DOU_STANNY_PHILIP_2026-10-02",
+   "name": "Philip M Stanny",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1791926176,
+   "photo": "photos/DOU_STANNY_PHILIP_2026-10-02.jpg"
+  },
+  {
+   "key": "DOU_CHILDS_KENNETH_2026-10-13",
+   "name": "Kenneth L Childs",
+   "age": "44",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1791926174,
+   "photo": "photos/DOU_CHILDS_KENNETH_2026-10-13.jpg"
+  },
+  {
+   "key": "HARPER_BRANDON_2026-10-13",
+   "name": "Brandon P Harper",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1791925645,
+   "photo": null
+  },
   {
    "key": "MKE_BROWN_ALONZO_260498",
    "name": "Alonzo Willis Brown",
@@ -189,61 +343,6 @@
    "photo": "photos/RC_CHAMBLISS_TREVON_120011075240459.jpg"
   },
   {
-   "key": "RC_BENJAMIN_DOMINICK_120011075240538",
-   "name": "Dominick I Benjamin",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791916253,
-   "photo": "photos/RC_BENJAMIN_DOMINICK_120011075240538.jpg"
-  },
-  {
-   "key": "RC_ADKINS_AARON_120011075239466",
-   "name": "Aaron Adkins",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791916250,
-   "photo": null
-  },
-  {
-   "key": "MKE_SPYCHALA_DION_230303",
-   "name": "Dion John Spychala",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791916170,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUMPHRIES_MICHELLE_511199",
-   "name": "Michelle Marie Humphries",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791916168,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARRIS_ANGELIQUE_612411",
-   "name": "Angelique Mone Harris",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 5,
-   "ts": 1791916165,
-   "photo": null
-  },
-  {
    "key": "GRANT_JORDAN_2026-10-13",
    "name": "Jordan M Grant",
    "age": "32",
@@ -396,28 +495,6 @@
    "more": 1,
    "ts": 1791797312,
    "photo": "photos/TREM_BLAS_ADRIAN_5855.jpg"
-  },
-  {
-   "key": "HOU_ARENZ_KALEBMICHAEL_6301",
-   "name": "Kaleb Michael Arenz",
-   "age": "28",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Domestic Assault-Misdemeanor-Intentionally In (1-Court Pending)",
-   "more": 0,
-   "ts": 1791793714,
-   "photo": "photos/HOU_ARENZ_KALEBMICHAEL_6301.jpg"
-  },
-  {
-   "key": "KUYKENDALL_DEVON_2026-10-12",
-   "name": "Devon L Kuykendall",
-   "age": "27",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Burglary-Building Or Dwelling",
-   "more": 0,
-   "ts": 1791790111,
-   "photo": null
   }
  ]
 }
