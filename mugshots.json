@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-14T17:49:46+00:00",
+ "updated": "2026-10-14T18:49:29+00:00",
  "items": [
+  {
+   "key": "FDL_PUENTE_MARCO_2026-10-14",
+   "name": "Marco Anthony Puente",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792003016,
+   "photo": "photos/FDL_PUENTE_MARCO_2026-10-14.jpg"
+  },
+  {
+   "key": "FDL_ANDREWS_JOSEPH_2026-10-14",
+   "name": "Joseph John Andrews",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Resisting Or Obstructing Officer",
+   "more": 2,
+   "ts": 1792002971,
+   "photo": "photos/FDL_ANDREWS_JOSEPH_2026-10-14.jpg"
+  },
+  {
+   "key": "DOU_BROWN_JERAMY_2026-10-14",
+   "name": "Jeramy G Brown",
+   "age": "51",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792002942,
+   "photo": null
+  },
+  {
+   "key": "RC_BUDZISZEK_BRANDON_120011075273741",
+   "name": "Brandon Lee Budziszek",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792002690,
+   "photo": null
+  },
+  {
+   "key": "RC_ANDREWS_DANA_120011075273655",
+   "name": "Dana D Andrews",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792002687,
+   "photo": "photos/RC_ANDREWS_DANA_120011075273655.jpg"
+  },
+  {
+   "key": "MKE_URENA_AIDEN_647775",
+   "name": "Aiden Urena",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792002597,
+   "photo": null
+  },
+  {
+   "key": "MKE_SAYPANYA_RANDY_404898",
+   "name": "Randy Phonesay Saypanya",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792002595,
+   "photo": null
+  },
+  {
+   "key": "MKE_KUCHARSKI_CORRINE_647774",
+   "name": "Corrine A Kucharski",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792002593,
+   "photo": null
+  },
+  {
+   "key": "MKE_KOUTSIOS_ANGELO_646724",
+   "name": "Angelo A Koutsios",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1792002591,
+   "photo": null
+  },
   {
    "key": "MKE_LUND_PETER_628296",
    "name": "Peter J Lund",
@@ -145,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "RC_OSTRANDER_KALEB_120011075264286",
-   "name": "Kaleb S Ostrander",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791988278,
-   "photo": null
-  },
-  {
    "key": "FDL_BASTIAN_SHANNA_2026-10-14",
    "name": "Shanna Renea Bastian",
    "age": "",
@@ -165,61 +253,6 @@
    "more": 0,
    "ts": 1791987365,
    "photo": null
-  },
-  {
-   "key": "RC_OLIVER_KENNETH_120011075260642",
-   "name": "Kenneth Allen Oliver",
-   "age": "65",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Burglary - Building Or Dwelling",
-   "more": 3,
-   "ts": 1791986974,
-   "photo": "photos/RC_OLIVER_KENNETH_120011075260642.jpg"
-  },
-  {
-   "key": "RC_MAULL_DESHAWN_120011075257054",
-   "name": "Deshawn Robert Maull",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1791986971,
-   "photo": "photos/RC_MAULL_DESHAWN_120011075257054.jpg"
-  },
-  {
-   "key": "MKE_WARREN_CARL_647770",
-   "name": "Carl Lester Warren",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1791986900,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROSE_NATHAN_2040441",
-   "name": "Nathan Lee Rose",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1791986898,
-   "photo": null
-  },
-  {
-   "key": "MKE_NEITMAN_FELICITY_633436",
-   "name": "Felicity Victoria Neitman",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1791986897,
-   "photo": "photos/MKE_NEITMAN_FELICITY_633436.jpg"
   },
   {
    "key": "TREM_ZILLMER_CHRISTEL_6174",
@@ -494,39 +527,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 1,
    "ts": 1791937718,
-   "photo": null
-  },
-  {
-   "key": "OVERBYCHAPMAN_RILEY_2026-10-13",
-   "name": "Riley L Overby Chapman",
-   "age": "33",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791937717,
-   "photo": null
-  },
-  {
-   "key": "FDL_ORR_KEYARIUS_2026-10-13",
-   "name": "Keyarius M Orr",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 1,
-   "ts": 1791937024,
-   "photo": "photos/FDL_ORR_KEYARIUS_2026-10-13.jpg"
-  },
-  {
-   "key": "GRUENDER_SCOTT_2026-10-13",
-   "name": "Scott A Gruender",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1791935507,
    "photo": null
   }
  ]
