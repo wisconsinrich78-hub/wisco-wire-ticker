@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-13T23:49:33+00:00",
+ "updated": "2026-10-14T00:49:36+00:00",
  "items": [
+  {
+   "key": "MKE_WILKS_EUGENE_644619",
+   "name": "Eugene Delmonte Wilks",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 0,
+   "ts": 1791937756,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_JAVION_621097",
+   "name": "Javion Deshawn Thomas",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1791937754,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOGGLE_DEVONTE_634405",
+   "name": "Devonte Darrell Noggle",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791937752,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_JOHNNY_280453",
+   "name": "Johnny Quinell Harris",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791937751,
+   "photo": null
+  },
+  {
+   "key": "SULLIVAN_NALEIGH_2026-10-13",
+   "name": "Naleigh J Sullivan",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1791937718,
+   "photo": null
+  },
+  {
+   "key": "OVERBYCHAPMAN_RILEY_2026-10-13",
+   "name": "Riley L Overby Chapman",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1791937717,
+   "photo": null
+  },
+  {
+   "key": "FDL_ORR_KEYARIUS_2026-10-13",
+   "name": "Keyarius M Orr",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 1,
+   "ts": 1791937024,
+   "photo": "photos/FDL_ORR_KEYARIUS_2026-10-13.jpg"
+  },
+  {
+   "key": "GRUENDER_SCOTT_2026-10-13",
+   "name": "Scott A Gruender",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1791935507,
+   "photo": null
+  },
   {
    "key": "MAR_LEHMANN_MICHAEL_2026-10-13",
    "name": "Michael John Lehmann",
@@ -200,39 +288,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SANTIAGOMORALES_CARLOS_622219",
-   "name": "Carlos Jose Santiago-Morales",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 7,
-   "ts": 1791926977,
-   "photo": null
-  },
-  {
-   "key": "MKE_LEWIS_JOHN_397405",
-   "name": "John T Lewis",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1791926975,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_EMMANUEL_618689",
-   "name": "Emmanuel Deshawn Davis",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791926974,
-   "photo": null
-  },
-  {
    "key": "WILLIAMS_CARTRELL_2026-10-13",
    "name": "Cartrell C Williams",
    "age": "17",
@@ -329,17 +384,6 @@
    "charge": "",
    "more": 0,
    "ts": 1791925645,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROWN_ALONZO_260498",
-   "name": "Alonzo Willis Brown",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791923350,
    "photo": null
   },
   {
@@ -484,50 +528,6 @@
    "more": 3,
    "ts": 1791845506,
    "photo": null
-  },
-  {
-   "key": "CARSON_HANAH_2026-10-12",
-   "name": "Hanah M Carson",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1791822102,
-   "photo": null
-  },
-  {
-   "key": "BUE_DAYNA_2026-10-12",
-   "name": "Dayna K Bue",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791819395,
-   "photo": null
-  },
-  {
-   "key": "TREM_WOOD_BRADLEY_6173",
-   "name": "Bradley Joe Wood",
-   "age": "51",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791797319,
-   "photo": "photos/TREM_WOOD_BRADLEY_6173.jpg"
-  },
-  {
-   "key": "TREM_MAASSEN_MARK_4839",
-   "name": "Mark Donald Maassen",
-   "age": "62",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791797317,
-   "photo": "photos/TREM_MAASSEN_MARK_4839.jpg"
   }
  ]
 }
