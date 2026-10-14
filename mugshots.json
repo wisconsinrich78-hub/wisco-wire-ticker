@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-14T01:49:32+00:00",
+ "updated": "2026-10-14T02:49:31+00:00",
  "items": [
+  {
+   "key": "HEROD_JASMINE_2026-10-13",
+   "name": "Jasmine A Herod",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1791944495,
+   "photo": null
+  },
+  {
+   "key": "FDL_CARLSON_SHANNON_2026-10-13",
+   "name": "Shannon Michael Carlson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1791944178,
+   "photo": null
+  },
+  {
+   "key": "FDL_BRUNET_GRAHAM_2026-10-13",
+   "name": "Graham John Brunet",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 2,
+   "ts": 1791944174,
+   "photo": null
+  },
+  {
+   "key": "TSCHIRLEY_ANDREA_2026-10-13",
+   "name": "Andrea K Tschirley",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1791943598,
+   "photo": null
+  },
   {
    "key": "MKE_TUN_ZIN_647764",
    "name": "Zin Mar Tun",
@@ -483,50 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1791873784,
-   "photo": null
-  },
-  {
-   "key": "DOYLE_KENNETH_2026-10-12",
-   "name": "Kenneth A Doyle",
-   "age": "70",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1791867098,
-   "photo": null
-  },
-  {
-   "key": "HOU_COTTRELL_CHASEALLEN_6302",
-   "name": "Chase Allen Cottrell",
-   "age": "25",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Fleeing a Peace Officer in a Motor Vehicle (1-Court Pending)",
-   "more": 2,
-   "ts": 1791865721,
-   "photo": "photos/HOU_COTTRELL_CHASEALLEN_6302.jpg"
-  },
-  {
-   "key": "FUENGER_DANIEL_2026-10-12",
-   "name": "Daniel L Fuenger",
-   "age": "48",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 1,
-   "ts": 1791865718,
-   "photo": null
-  },
-  {
-   "key": "HODYNIAK_BRANDON_2026-10-12",
-   "name": "Brandon K Hodyniak",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1791864399,
    "photo": null
   }
  ]
