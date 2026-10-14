@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T02:49:31+00:00",
+ "updated": "2026-10-14T03:49:31+00:00",
  "items": [
+  {
+   "key": "FDL_FOSTER_MAY_2026-10-13",
+   "name": "May Marie Foster",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 2,
+   "ts": 1791947782,
+   "photo": null
+  },
   {
    "key": "HEROD_JASMINE_2026-10-13",
    "name": "Jasmine A Herod",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1791922292,
    "photo": "photos/DOU_LANDFRIED_ALEXANDER_2026-10-13.jpg"
-  },
-  {
-   "key": "GRANT_JORDAN_2026-10-13",
-   "name": "Jordan M Grant",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791873784,
-   "photo": null
   }
  ]
 }
