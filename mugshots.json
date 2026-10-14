@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T05:49:37+00:00",
+ "updated": "2026-10-14T06:49:30+00:00",
  "items": [
+  {
+   "key": "MOUA_NANCY_2026-10-14",
+   "name": "Nancy L Moua",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 2,
+   "ts": 1791958899,
+   "photo": null
+  },
   {
    "key": "DOU_JUSTICE_BRAYDEN_2025-12-09",
    "name": "Brayden M Justice",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1791926174,
    "photo": "photos/DOU_CHILDS_KENNETH_2026-10-13.jpg"
-  },
-  {
-   "key": "HARPER_BRANDON_2026-10-13",
-   "name": "Brandon P Harper",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791925645,
-   "photo": null
   }
  ]
 }
