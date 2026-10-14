@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-14T11:49:32+00:00",
+ "updated": "2026-10-14T13:49:33+00:00",
  "items": [
+  {
+   "key": "NOTT_ELIJAH_2026-10-14",
+   "name": "Elijah T Nott",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1791983636,
+   "photo": null
+  },
   {
    "key": "MAR_LOVEJOY_CHRISTIAN_2026-10-14",
    "name": "Christian Keashawn Daunte Lovejoy",
@@ -517,17 +528,6 @@
    "more": 4,
    "ts": 1791926206,
    "photo": "photos/FDL_GRANDE_HEATHER_2026-10-13.jpg"
-  },
-  {
-   "key": "DOU_WALLACE_DYLAN_2025-12-07",
-   "name": "Dylan C Wallace",
-   "age": "28",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 7,
-   "ts": 1791926183,
-   "photo": "photos/DOU_WALLACE_DYLAN_2025-12-07.jpg"
   }
  ]
 }
