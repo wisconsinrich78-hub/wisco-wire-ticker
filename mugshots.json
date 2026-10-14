@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-14T18:49:29+00:00",
+ "updated": "2026-10-14T19:49:31+00:00",
  "items": [
+  {
+   "key": "RC_TELLO_DANIEL_120011075275562",
+   "name": "Daniel Tello",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792006240,
+   "photo": "photos/RC_TELLO_DANIEL_120011075275562.jpg"
+  },
+  {
+   "key": "MKE_SANFORD_LATASHA_399813",
+   "name": "Latasha Ann Sanford",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792006160,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUSHING_NATHANIEL_230912",
+   "name": "Nathaniel Daron Rushing",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792006157,
+   "photo": null
+  },
+  {
+   "key": "MKE_KINER_DEMETRICE_533250",
+   "name": "Demetrice L Kiner",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 12,
+   "ts": 1792006155,
+   "photo": null
+  },
+  {
+   "key": "MKE_HALSELL_KENNETH_371282",
+   "name": "Kenneth Michael Halsell",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 15,
+   "ts": 1792006154,
+   "photo": null
+  },
+  {
+   "key": "MKE_GANDY_HARVEY_620416",
+   "name": "Harvey Earl Gandy",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Intimidate Victim/Domestic Abuse Crime",
+   "more": 1,
+   "ts": 1792006152,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_DARRELL_523592",
+   "name": "Darrell Leroy Carter",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 15,
+   "ts": 1792006150,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENSON_LEE_647776",
+   "name": "Lee Benson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792006147,
+   "photo": null
+  },
   {
    "key": "FDL_PUENTE_MARCO_2026-10-14",
    "name": "Marco Anthony Puente",
@@ -123,61 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_FOX_JOE_367165",
-   "name": "Joe Willie Fox",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791998951,
-   "photo": null
-  },
-  {
-   "key": "RC_SPAULDING_ANGELICA_120011075268258",
-   "name": "Angelica Katherine Marie Spaulding",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791995456,
-   "photo": "photos/RC_SPAULDING_ANGELICA_120011075268258.jpg"
-  },
-  {
-   "key": "MKE_WILDER_LANDON_637756",
-   "name": "Landon Lee Wilder",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1791995387,
-   "photo": null
-  },
-  {
-   "key": "MKE_SANCHEZTERAN_NAYELI_647773",
-   "name": "Nayeli Saray Sanchez-Teran",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791995386,
-   "photo": null
-  },
-  {
-   "key": "MKE_JEMISON_TAMMY_606305",
-   "name": "Tammy M Jemison",
-   "age": "57",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791995384,
-   "photo": null
-  },
-  {
    "key": "FDL_ROCKOW_KALLY_2026-10-14",
    "name": "Kally Andon Rockow",
    "age": "",
@@ -186,39 +219,6 @@
    "charge": "",
    "more": 0,
    "ts": 1791994619,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_CASSIUS_394124",
-   "name": "Cassius Ray Thomas",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1791991744,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARLISLE_MARQUIS_404275",
-   "name": "Marquis D Carlisle",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1791991742,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROWN_JOSHUA_647772",
-   "name": "Joshua A Brown",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1791991740,
    "photo": null
   },
   {
