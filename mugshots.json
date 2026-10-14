@@ -1,6 +1,182 @@
 {
- "updated": "2026-10-14T06:49:30+00:00",
+ "updated": "2026-10-14T07:49:26+00:00",
  "items": [
+  {
+   "key": "RC_WALKER_TREMEIL_120011075255228",
+   "name": "Tremeil Darquan Walker",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1791963198,
+   "photo": "photos/RC_WALKER_TREMEIL_120011075255228.jpg"
+  },
+  {
+   "key": "RC_MCCLURE_JORDAN_120011075256195",
+   "name": "Jordan M Mcclure",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791963195,
+   "photo": "photos/RC_MCCLURE_JORDAN_120011075256195.jpg"
+  },
+  {
+   "key": "RC_ANGELOFF_SHEENA_120011075252273",
+   "name": "Sheena Lynn Angeloff",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1791963192,
+   "photo": "photos/RC_ANGELOFF_SHEENA_120011075252273.jpg"
+  },
+  {
+   "key": "MKE_YAEGER_NATHANIEL_620932",
+   "name": "Nathaniel L Yaeger",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 12,
+   "ts": 1791963120,
+   "photo": null
+  },
+  {
+   "key": "MKE_WRIGHT_CHARLES_633991",
+   "name": "Charles Anthony Wright",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 4,
+   "ts": 1791963119,
+   "photo": "photos/MKE_WRIGHT_CHARLES_633991.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_TERRY_355771",
+   "name": "Terry L Williams",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1791963117,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILKERSON_CRAIGE_640821",
+   "name": "Craige T Wilkerson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of THC",
+   "more": 1,
+   "ts": 1791963115,
+   "photo": null
+  },
+  {
+   "key": "MKE_WEBBER_TRAVIS_2035194",
+   "name": "Travis Jay Webber",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1791963112,
+   "photo": null
+  },
+  {
+   "key": "MKE_THEN_JOSE_605713",
+   "name": "Jose Eugenio Then",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1791963111,
+   "photo": null
+  },
+  {
+   "key": "MKE_MEMMEL_SAMANTHA_604046",
+   "name": "Samantha Kristine Memmel",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791963109,
+   "photo": null
+  },
+  {
+   "key": "MKE_MATTHEWS_MARCUS_2026427",
+   "name": "Marcus Matthews",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Strangulation and Suffocation",
+   "more": 7,
+   "ts": 1791963107,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSONHAYWOOD_KINYETTA_647765",
+   "name": "Kinyetta P Johnson-Haywood",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791963105,
+   "photo": "photos/MKE_JOHNSONHAYWOOD_KINYETTA_647765.jpg"
+  },
+  {
+   "key": "MKE_JENNINGS_RAMONE_359243",
+   "name": "Ramone D Jennings",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1791963103,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_AMBER_647767",
+   "name": "Amber Marie Harris",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Business Setting <=$2500",
+   "more": 0,
+   "ts": 1791963102,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRAY_JUSTIN_295981",
+   "name": "Justin Covellie Gray",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1791963100,
+   "photo": null
+  },
+  {
+   "key": "MKE_CONN_LAWRENCE_635633",
+   "name": "Lawrence Darnell Conn",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
+   "more": 7,
+   "ts": 1791963098,
+   "photo": null
+  },
   {
    "key": "MOUA_NANCY_2026-10-14",
    "name": "Nancy L Moua",
@@ -134,105 +310,6 @@
    "photo": null
   },
   {
-   "key": "MKE_TUN_ZIN_647764",
-   "name": "Zin Mar Tun",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1791941358,
-   "photo": null
-  },
-  {
-   "key": "MKE_TOMINSEK_ERIC_647761",
-   "name": "Eric John Tominsek",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1791941356,
-   "photo": null
-  },
-  {
-   "key": "MKE_STAPLES_DEAJZANE_622932",
-   "name": "Deajzane Kejuan Staples",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791941355,
-   "photo": null
-  },
-  {
-   "key": "MKE_RUFFIN_DIANE_647762",
-   "name": "Diane Maria Lynn Ruffin",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791941353,
-   "photo": null
-  },
-  {
-   "key": "MKE_POINTER_MARQ_642207",
-   "name": "Marq Anthony Pointer",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 2,
-   "ts": 1791941351,
-   "photo": null
-  },
-  {
-   "key": "MKE_NEUSER_RILEY_647763",
-   "name": "Riley Jordan Neuser",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1791941350,
-   "photo": null
-  },
-  {
-   "key": "MKE_LUCKETT_LORRAINE_361798",
-   "name": "Lorraine Michelle Luckett",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Misappropriate ID Info - Obtain Money",
-   "more": 1,
-   "ts": 1791941349,
-   "photo": null
-  },
-  {
-   "key": "MKE_KELLEY_THOMAS_389097",
-   "name": "Thomas Kelley",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1791941347,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUDSON_ANDRE_284940",
-   "name": "Andre Lemar Hudson",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 3,
-   "ts": 1791941346,
-   "photo": null
-  },
-  {
    "key": "CARTER_PRINCE_2026-10-13",
    "name": "Prince A Carter",
    "age": "32",
@@ -252,50 +329,6 @@
    "charge": "",
    "more": 0,
    "ts": 1791940005,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILKS_EUGENE_644619",
-   "name": "Eugene Delmonte Wilks",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1791937756,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_JAVION_621097",
-   "name": "Javion Deshawn Thomas",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1791937754,
-   "photo": null
-  },
-  {
-   "key": "MKE_NOGGLE_DEVONTE_634405",
-   "name": "Devonte Darrell Noggle",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791937752,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARRIS_JOHNNY_280453",
-   "name": "Johnny Quinell Harris",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791937751,
    "photo": null
   },
   {
@@ -373,39 +406,6 @@
    "charge": "Theft-Movable Property From Motor Vehicle",
    "more": 2,
    "ts": 1791935107,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_LAVONTAE_623530",
-   "name": "Lavontae Michael Williams",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 7,
-   "ts": 1791934232,
-   "photo": null
-  },
-  {
-   "key": "MKE_SHUMPERT_TOMERE_611558",
-   "name": "Tomere Shondell Shumpert",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791934230,
-   "photo": null
-  },
-  {
-   "key": "MKE_REIS_ANDREW_642971",
-   "name": "Andrew John Reis",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating w/ PAC (2nd)",
-   "more": 0,
-   "ts": 1791934228,
    "photo": null
   },
   {
