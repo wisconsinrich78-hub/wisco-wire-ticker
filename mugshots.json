@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-14T22:49:31+00:00",
+ "updated": "2026-10-14T23:49:35+00:00",
  "items": [
+  {
+   "key": "FUENGER_DANIEL_2026-10-14",
+   "name": "Daniel L Fuenger",
+   "age": "48",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792020998,
+   "photo": null
+  },
+  {
+   "key": "RC_CANADY_INDIA_120011075282294",
+   "name": "India M Canady",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792020627,
+   "photo": null
+  },
+  {
+   "key": "MKE_MANNERY_VANESSA_316444",
+   "name": "Vanessa D Mannery",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792020561,
+   "photo": null
+  },
+  {
+   "key": "MKE_LARRY_PIERRE_625955",
+   "name": "Pierre Lasalle Larry",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792020559,
+   "photo": null
+  },
+  {
+   "key": "STOECKLY_JACOB_2026-10-14",
+   "name": "Jacob R Stoeckly",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Serving A Sentence Without Huber",
+   "more": 0,
+   "ts": 1792020117,
+   "photo": null
+  },
   {
    "key": "RC_RAY_DEVION_120011075281294",
    "name": "Devion D Ray",
@@ -175,39 +230,6 @@
    "charge": "Charges:",
    "more": 1,
    "ts": 1792012690,
-   "photo": null
-  },
-  {
-   "key": "RC_NALLS_JAHAVA_120011075276178",
-   "name": "Jahava Denise Nalls",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792009833,
-   "photo": null
-  },
-  {
-   "key": "RC_MILLER_PHOENIX_120011075277609",
-   "name": "Phoenix Xander Miller",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792009831,
-   "photo": null
-  },
-  {
-   "key": "RC_ETOBIL_LUCIEN_120011075277411",
-   "name": "Lucien G Etobil",
-   "age": "63",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792009829,
    "photo": null
   },
   {
@@ -505,28 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1791944495,
-   "photo": null
-  },
-  {
-   "key": "FDL_CARLSON_SHANNON_2026-10-13",
-   "name": "Shannon Michael Carlson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1791944178,
-   "photo": null
-  },
-  {
-   "key": "FDL_BRUNET_GRAHAM_2026-10-13",
-   "name": "Graham John Brunet",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 2,
-   "ts": 1791944174,
    "photo": null
   }
  ]
