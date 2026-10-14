@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-14T15:49:28+00:00",
+ "updated": "2026-10-14T16:49:31+00:00",
  "items": [
+  {
+   "key": "RC_SPAULDING_ANGELICA_120011075268258",
+   "name": "Angelica Katherine Marie Spaulding",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791995456,
+   "photo": "photos/RC_SPAULDING_ANGELICA_120011075268258.jpg"
+  },
+  {
+   "key": "MKE_WILDER_LANDON_637756",
+   "name": "Landon Lee Wilder",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1791995387,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANCHEZTERAN_NAYELI_647773",
+   "name": "Nayeli Saray Sanchez-Teran",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791995386,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEMISON_TAMMY_606305",
+   "name": "Tammy M Jemison",
+   "age": "57",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791995384,
+   "photo": null
+  },
+  {
+   "key": "FDL_ROCKOW_KALLY_2026-10-14",
+   "name": "Kally Andon Rockow",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791994619,
+   "photo": null
+  },
   {
    "key": "MKE_THOMAS_CASSIUS_394124",
    "name": "Cassius Ray Thomas",
@@ -164,50 +219,6 @@
    "charge": "",
    "more": 0,
    "ts": 1791986891,
-   "photo": null
-  },
-  {
-   "key": "MKE_DRAPER_AUDIE_175234",
-   "name": "Audie Alan Draper",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1791986889,
-   "photo": null
-  },
-  {
-   "key": "MKE_COLEMAN_KYMARION_647771",
-   "name": "Kymarion D Coleman",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1791986888,
-   "photo": null
-  },
-  {
-   "key": "MKE_BENFORD_MICHAEL_639891",
-   "name": "Michael Santana Benford",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Act to Create Fear",
-   "more": 4,
-   "ts": 1791986886,
-   "photo": null
-  },
-  {
-   "key": "MKE_BARNES_DEVOND_647768",
-   "name": "Devond Barnes",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1791986883,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1791935507,
    "photo": null
-  },
-  {
-   "key": "MAR_LEHMANN_MICHAEL_2026-10-13",
-   "name": "Michael John Lehmann",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Felony",
-   "more": 4,
-   "ts": 1791935107,
-   "photo": "photos/MAR_LEHMANN_MICHAEL_2026-10-13.jpg"
   }
  ]
 }
