@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-14T21:49:29+00:00",
+ "updated": "2026-10-14T22:49:31+00:00",
  "items": [
+  {
+   "key": "RC_RAY_DEVION_120011075281294",
+   "name": "Devion D Ray",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792017107,
+   "photo": "photos/RC_RAY_DEVION_120011075281294.jpg"
+  },
+  {
+   "key": "MKE_MILLER_DURELL_377574",
+   "name": "Durell Ivy Miller",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 31,
+   "ts": 1792016961,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERNANDEZ_MIREYDA_647780",
+   "name": "Mireyda Hernandez",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792016959,
+   "photo": null
+  },
+  {
+   "key": "MKE_GREEN_EMMANUEL_617551",
+   "name": "Emmanuel Isreal Green",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792016957,
+   "photo": null
+  },
+  {
+   "key": "MKE_GORDON_CIERRA_647779",
+   "name": "Cierra Janee Gordon",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792016956,
+   "photo": null
+  },
+  {
+   "key": "MKE_FLANAGAN_DYLAN_625903",
+   "name": "Dylan Jay Flanagan",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1792016954,
+   "photo": null
+  },
+  {
+   "key": "FDL_PUTZER_JOHN_2026-10-14",
+   "name": "John Joseph Putzer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792016432,
+   "photo": "photos/FDL_PUTZER_JOHN_2026-10-14.jpg"
+  },
   {
    "key": "RC_TILSON_RAMON_120011075280111",
    "name": "Ramon Adrian Tilson",
@@ -134,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JORDAN_AQWAUN_647777",
-   "name": "Aqwaun L Jordan",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792009749,
-   "photo": null
-  },
-  {
    "key": "FREITAG_JACK_2026-10-14",
    "name": "Jack A Freitag",
    "age": "55",
@@ -153,61 +219,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792007504,
-   "photo": null
-  },
-  {
-   "key": "RC_TELLO_DANIEL_120011075275562",
-   "name": "Daniel Tello",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792006240,
-   "photo": "photos/RC_TELLO_DANIEL_120011075275562.jpg"
-  },
-  {
-   "key": "MKE_SANFORD_LATASHA_399813",
-   "name": "Latasha Ann Sanford",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792006160,
-   "photo": null
-  },
-  {
-   "key": "MKE_RUSHING_NATHANIEL_230912",
-   "name": "Nathaniel Daron Rushing",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792006157,
-   "photo": null
-  },
-  {
-   "key": "MKE_KINER_DEMETRICE_533250",
-   "name": "Demetrice L Kiner",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 12,
-   "ts": 1792006155,
-   "photo": null
-  },
-  {
-   "key": "MKE_HALSELL_KENNETH_371282",
-   "name": "Kenneth Michael Halsell",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 15,
-   "ts": 1792006154,
    "photo": null
   },
   {
@@ -516,17 +527,6 @@
    "charge": "Possession Of Methamphetamine",
    "more": 2,
    "ts": 1791944174,
-   "photo": null
-  },
-  {
-   "key": "TSCHIRLEY_ANDREA_2026-10-13",
-   "name": "Andrea K Tschirley",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791943598,
    "photo": null
   }
  ]
