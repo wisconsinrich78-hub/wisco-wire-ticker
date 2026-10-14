@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-14T03:49:31+00:00",
+ "updated": "2026-10-14T05:49:37+00:00",
  "items": [
+  {
+   "key": "DOU_JUSTICE_BRAYDEN_2025-12-09",
+   "name": "Brayden M Justice",
+   "age": "20",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1791955056,
+   "photo": null
+  },
+  {
+   "key": "DOU_VIDOVIC_TYLER_2026-06-29",
+   "name": "Tyler V Vidovic",
+   "age": "25",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1791955055,
+   "photo": "photos/DOU_VIDOVIC_TYLER_2026-06-29.jpg"
+  },
+  {
+   "key": "DOU_MYERS_JERRAMY_2026-08-20",
+   "name": "Jerramy J Myers",
+   "age": "40",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1791955052,
+   "photo": null
+  },
+  {
+   "key": "DOU_COOK_TRENT_2026-09-22",
+   "name": "Trent Cook",
+   "age": "28",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1791955049,
+   "photo": "photos/DOU_COOK_TRENT_2026-09-22.jpg"
+  },
+  {
+   "key": "DOU_CHRISTIANSEN_JACK_2026-10-03",
+   "name": "Jack R Christiansen",
+   "age": "23",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1791955048,
+   "photo": null
+  },
+  {
+   "key": "DOU_DEVEAU_RUSSELL_2026-10-13",
+   "name": "Russell L Deveau",
+   "age": "40",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1791955046,
+   "photo": "photos/DOU_DEVEAU_RUSSELL_2026-10-13.jpg"
+  },
   {
    "key": "FDL_FOSTER_MAY_2026-10-13",
    "name": "May Marie Foster",
@@ -462,72 +528,6 @@
    "more": 0,
    "ts": 1791925645,
    "photo": null
-  },
-  {
-   "key": "FDL_SILVA_SCOTT_2026-10-13",
-   "name": "Scott D Silva",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping",
-   "more": 1,
-   "ts": 1791922478,
-   "photo": "photos/FDL_SILVA_SCOTT_2026-10-13.jpg"
-  },
-  {
-   "key": "FDL_HAIMA_DANIEL_2026-10-13",
-   "name": "Daniel Roger Haima",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
-   "more": 3,
-   "ts": 1791922452,
-   "photo": "photos/FDL_HAIMA_DANIEL_2026-10-13.jpg"
-  },
-  {
-   "key": "FDL_BAGUIO_BRITTANY_2026-10-13",
-   "name": "Brittany Anne Baguio",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 4,
-   "ts": 1791922434,
-   "photo": "photos/FDL_BAGUIO_BRITTANY_2026-10-13.jpg"
-  },
-  {
-   "key": "DOU_GRAY_CHRISTOPHER_2026-09-22",
-   "name": "Christopher Gray",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1791922296,
-   "photo": "photos/DOU_GRAY_CHRISTOPHER_2026-09-22.jpg"
-  },
-  {
-   "key": "DOU_SANDBERG_EUGENE_2026-10-05",
-   "name": "Eugene D Sandberg",
-   "age": "65",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1791922294,
-   "photo": "photos/DOU_SANDBERG_EUGENE_2026-10-05.jpg"
-  },
-  {
-   "key": "DOU_LANDFRIED_ALEXANDER_2026-10-13",
-   "name": "Alexander C Landfried",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1791922292,
-   "photo": "photos/DOU_LANDFRIED_ALEXANDER_2026-10-13.jpg"
   }
  ]
 }
