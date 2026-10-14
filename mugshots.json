@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-14T10:49:28+00:00",
+ "updated": "2026-10-14T11:49:32+00:00",
  "items": [
+  {
+   "key": "MAR_LOVEJOY_CHRISTIAN_2026-10-14",
+   "name": "Christian Keashawn Daunte Lovejoy",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 4,
+   "ts": 1791978172,
+   "photo": "photos/MAR_LOVEJOY_CHRISTIAN_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_LANDWEHR_ROBERT_2026-10-13",
+   "name": "Robert James Landwehr",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1791978172,
+   "photo": "photos/MAR_LANDWEHR_ROBERT_2026-10-13.jpg"
+  },
+  {
+   "key": "MAR_PEDRAZA_TRISTIAN_2026-10-13",
+   "name": "Tristian Xavier Pedraza",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1791978172,
+   "photo": "photos/MAR_PEDRAZA_TRISTIAN_2026-10-13.jpg"
+  },
+  {
+   "key": "FDL_SCOTT_MAURICE_2026-10-13",
+   "name": "Maurice Scott",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Theft - Misdemeanor",
+   "more": 4,
+   "ts": 1791976633,
+   "photo": null
+  },
   {
    "key": "FDL_RATAJCZAK_REBECCA_2026-10-14",
    "name": "Rebecca Rae Ratajczak",
@@ -484,50 +528,6 @@
    "more": 7,
    "ts": 1791926183,
    "photo": "photos/DOU_WALLACE_DYLAN_2025-12-07.jpg"
-  },
-  {
-   "key": "DOU_SWANSON_AUSTIN_2026-06-29",
-   "name": "Austin J Swanson",
-   "age": "32",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1791926181,
-   "photo": "photos/DOU_SWANSON_AUSTIN_2026-06-29.jpg"
-  },
-  {
-   "key": "DOU_RABOIN_RYAN_2026-08-19",
-   "name": "Ryan J Raboin",
-   "age": "48",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1791926179,
-   "photo": "photos/DOU_RABOIN_RYAN_2026-08-19.jpg"
-  },
-  {
-   "key": "DOU_TATE_LARRY_2026-09-22",
-   "name": "Larry Tate",
-   "age": "41",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
-   "ts": 1791926178,
-   "photo": "photos/DOU_TATE_LARRY_2026-09-22.jpg"
-  },
-  {
-   "key": "DOU_STANNY_PHILIP_2026-10-02",
-   "name": "Philip M Stanny",
-   "age": "38",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
-   "ts": 1791926176,
-   "photo": "photos/DOU_STANNY_PHILIP_2026-10-02.jpg"
   }
  ]
 }
