@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-14T00:49:36+00:00",
+ "updated": "2026-10-14T01:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_TUN_ZIN_647764",
+   "name": "Zin Mar Tun",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1791941358,
+   "photo": null
+  },
+  {
+   "key": "MKE_TOMINSEK_ERIC_647761",
+   "name": "Eric John Tominsek",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1791941356,
+   "photo": null
+  },
+  {
+   "key": "MKE_STAPLES_DEAJZANE_622932",
+   "name": "Deajzane Kejuan Staples",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791941355,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUFFIN_DIANE_647762",
+   "name": "Diane Maria Lynn Ruffin",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791941353,
+   "photo": null
+  },
+  {
+   "key": "MKE_POINTER_MARQ_642207",
+   "name": "Marq Anthony Pointer",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 2,
+   "ts": 1791941351,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEUSER_RILEY_647763",
+   "name": "Riley Jordan Neuser",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1791941350,
+   "photo": null
+  },
+  {
+   "key": "MKE_LUCKETT_LORRAINE_361798",
+   "name": "Lorraine Michelle Luckett",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Misappropriate ID Info - Obtain Money",
+   "more": 1,
+   "ts": 1791941349,
+   "photo": null
+  },
+  {
+   "key": "MKE_KELLEY_THOMAS_389097",
+   "name": "Thomas Kelley",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1791941347,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUDSON_ANDRE_284940",
+   "name": "Andre Lemar Hudson",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 3,
+   "ts": 1791941346,
+   "photo": null
+  },
+  {
+   "key": "CARTER_PRINCE_2026-10-13",
+   "name": "Prince A Carter",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lewd, Lascivious Behavior-Exposure",
+   "more": 0,
+   "ts": 1791940005,
+   "photo": null
+  },
+  {
+   "key": "MCCOY_WILLIAM_2026-10-13",
+   "name": "William E Mccoy",
+   "age": "50",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1791940005,
+   "photo": null
+  },
   {
    "key": "MKE_WILKS_EUGENE_644619",
    "name": "Eugene Delmonte Wilks",
@@ -156,50 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_LIENHARDT_KEVIN_647759",
-   "name": "Kevin M Lienhardt",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1791934226,
-   "photo": null
-  },
-  {
-   "key": "MKE_LANGE_ROBERT_647760",
-   "name": "Robert Lange",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1791934225,
-   "photo": null
-  },
-  {
-   "key": "MKE_HINES_KENYON_299149",
-   "name": "Kenyon Jovan Hines",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1791934223,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_QURAN_410918",
-   "name": "Quran Shakur Davis",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1791934221,
-   "photo": null
-  },
-  {
    "key": "FDL_BOYSEN_WILLIAM_2026-10-13",
    "name": "William Noah Boysen",
    "age": "",
@@ -222,39 +299,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JOHNIKIN_DEONTAE_371060",
-   "name": "Deontae Deshawn Johnikin",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791930556,
-   "photo": null
-  },
-  {
-   "key": "MKE_JENKINS_DESMEN_622704",
-   "name": "Desmen Delon Jenkins",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 1,
-   "ts": 1791930553,
-   "photo": null
-  },
-  {
-   "key": "MKE_DIAZ_RAFEAL_643323",
-   "name": "Rafeal Manuel Diaz",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1791930552,
-   "photo": null
-  },
-  {
    "key": "FDL_KIRBY_JULIUS_2026-10-13",
    "name": "Julius Q Kirby",
    "age": "",
@@ -264,28 +308,6 @@
    "more": 2,
    "ts": 1791929804,
    "photo": "photos/FDL_KIRBY_JULIUS_2026-10-13.jpg"
-  },
-  {
-   "key": "RC_DAVISROOT_SUMMER_120011075246511",
-   "name": "Summer Caroline Davis Root",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791927070,
-   "photo": "photos/RC_DAVISROOT_SUMMER_120011075246511.jpg"
-  },
-  {
-   "key": "RC_BARNEY_DARIUS_120011075246447",
-   "name": "Darius L Barney",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791927067,
-   "photo": null
   },
   {
    "key": "WILLIAMS_CARTRELL_2026-10-13",
@@ -505,28 +527,6 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1791864399,
-   "photo": null
-  },
-  {
-   "key": "INDERBERG_TOREK_2026-10-12",
-   "name": "Torek Cameron Inderberg",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Out Of County Warrant",
-   "more": 0,
-   "ts": 1791853599,
-   "photo": null
-  },
-  {
-   "key": "RIECK_JONATHON_2026-10-12",
-   "name": "Jonathon A Rieck",
-   "age": "33",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1791845506,
    "photo": null
   }
  ]
