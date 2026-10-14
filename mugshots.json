@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-14T14:49:58+00:00",
+ "updated": "2026-10-14T15:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_THOMAS_CASSIUS_394124",
+   "name": "Cassius Ray Thomas",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1791991744,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARLISLE_MARQUIS_404275",
+   "name": "Marquis D Carlisle",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1791991742,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_JOSHUA_647772",
+   "name": "Joshua A Brown",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1791991740,
+   "photo": null
+  },
+  {
+   "key": "DOU_GREER_CHRISTINA_2026-10-14",
+   "name": "Christina M Greer",
+   "age": "39",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1791991050,
+   "photo": "photos/DOU_GREER_CHRISTINA_2026-10-14.jpg"
+  },
+  {
+   "key": "FDL_REED_DONAJA_2026-10-14",
+   "name": "Donaja Roshell Reed",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1791991020,
+   "photo": null
+  },
   {
    "key": "RC_OSTRANDER_KALEB_120011075264286",
    "name": "Kaleb S Ostrander",
@@ -266,39 +321,6 @@
    "photo": null
   },
   {
-   "key": "RC_WALKER_TREMEIL_120011075255228",
-   "name": "Tremeil Darquan Walker",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1791963198,
-   "photo": "photos/RC_WALKER_TREMEIL_120011075255228.jpg"
-  },
-  {
-   "key": "RC_MCCLURE_JORDAN_120011075256195",
-   "name": "Jordan M Mcclure",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791963195,
-   "photo": "photos/RC_MCCLURE_JORDAN_120011075256195.jpg"
-  },
-  {
-   "key": "RC_ANGELOFF_SHEENA_120011075252273",
-   "name": "Sheena Lynn Angeloff",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1791963192,
-   "photo": "photos/RC_ANGELOFF_SHEENA_120011075252273.jpg"
-  },
-  {
    "key": "MOUA_NANCY_2026-10-14",
    "name": "Nancy L Moua",
    "age": "36",
@@ -506,28 +528,6 @@
    "more": 4,
    "ts": 1791935107,
    "photo": "photos/MAR_LEHMANN_MICHAEL_2026-10-13.jpg"
-  },
-  {
-   "key": "MAR_HER_JACY_2026-10-13",
-   "name": "Jacy Her",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1791935107,
-   "photo": "photos/MAR_HER_JACY_2026-10-13.jpg"
-  },
-  {
-   "key": "MAR_DIGANGI_BENJAMIN_2026-10-13",
-   "name": "Benjamin Digangi",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Theft-Movable Property From Motor Vehicle",
-   "more": 2,
-   "ts": 1791935107,
-   "photo": null
   }
  ]
 }
