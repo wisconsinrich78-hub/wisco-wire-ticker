@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-14T19:49:31+00:00",
+ "updated": "2026-10-14T20:49:33+00:00",
  "items": [
+  {
+   "key": "RC_NALLS_JAHAVA_120011075276178",
+   "name": "Jahava Denise Nalls",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792009833,
+   "photo": null
+  },
+  {
+   "key": "RC_MILLER_PHOENIX_120011075277609",
+   "name": "Phoenix Xander Miller",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792009831,
+   "photo": null
+  },
+  {
+   "key": "RC_ETOBIL_LUCIEN_120011075277411",
+   "name": "Lucien G Etobil",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792009829,
+   "photo": null
+  },
+  {
+   "key": "MKE_JORDAN_AQWAUN_647777",
+   "name": "Aqwaun L Jordan",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792009749,
+   "photo": null
+  },
+  {
+   "key": "FREITAG_JACK_2026-10-14",
+   "name": "Jack A Freitag",
+   "age": "55",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792007504,
+   "photo": null
+  },
   {
    "key": "RC_TELLO_DANIEL_120011075275562",
    "name": "Daniel Tello",
@@ -164,50 +219,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792002595,
-   "photo": null
-  },
-  {
-   "key": "MKE_KUCHARSKI_CORRINE_647774",
-   "name": "Corrine A Kucharski",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792002593,
-   "photo": null
-  },
-  {
-   "key": "MKE_KOUTSIOS_ANGELO_646724",
-   "name": "Angelo A Koutsios",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1792002591,
-   "photo": null
-  },
-  {
-   "key": "MKE_LUND_PETER_628296",
-   "name": "Peter J Lund",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1791998955,
-   "photo": "photos/MKE_LUND_PETER_628296.jpg"
-  },
-  {
-   "key": "MKE_JELKSJONES_TOMMIEZINE_408970",
-   "name": "Tommiezine Ebony Jelks-Jones",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1791998953,
    "photo": null
   },
   {
@@ -516,17 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1791940005,
-   "photo": null
-  },
-  {
-   "key": "SULLIVAN_NALEIGH_2026-10-13",
-   "name": "Naleigh J Sullivan",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1791937718,
    "photo": null
   }
  ]
