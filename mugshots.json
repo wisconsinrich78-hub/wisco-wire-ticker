@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-15T17:50:01+00:00",
+ "updated": "2026-10-15T18:49:31+00:00",
  "items": [
+  {
+   "key": "RC_THOMAS_PRENTICE_120011075302729",
+   "name": "Prentice Javonte Thomas",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
+   "ts": 1792089031,
+   "photo": "photos/RC_THOMAS_PRENTICE_120011075302729.jpg"
+  },
+  {
+   "key": "RC_ESTRADA_FELIPE_120011075303145",
+   "name": "Felipe Estrada",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792089023,
+   "photo": "photos/RC_ESTRADA_FELIPE_120011075303145.jpg"
+  },
+  {
+   "key": "MKE_LYKINS_RANDY_396305",
+   "name": "Randy James Lykins",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1792088951,
+   "photo": null
+  },
+  {
+   "key": "MKE_FREDRICK_ANDRAE_647800",
+   "name": "Andrae Fredrick",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Enticement-Expose Sex Organ",
+   "more": 3,
+   "ts": 1792088949,
+   "photo": null
+  },
+  {
+   "key": "DOU_LOPEZ_NICODEMUS_2026-10-15",
+   "name": "Nicodemus L Lopez",
+   "age": "42",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792088331,
+   "photo": "photos/DOU_LOPEZ_NICODEMUS_2026-10-15.jpg"
+  },
   {
    "key": "RC_MONDAY_RACHEL_120011075301207",
    "name": "Rachel V Monday",
@@ -178,28 +233,6 @@
    "photo": null
   },
   {
-   "key": "RC_DUNK_BRANDON_120011075297796",
-   "name": "Brandon Dunk",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792078229,
-   "photo": "photos/RC_DUNK_BRANDON_120011075297796.jpg"
-  },
-  {
-   "key": "MKE_CASTILLO_YEIDRYLEN_647794",
-   "name": "Yeidrylen Castillo",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792078164,
-   "photo": null
-  },
-  {
    "key": "FDL_SNORTUM_PAUL_2026-10-15",
    "name": "Paul Michael Snortum",
    "age": "",
@@ -211,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_CINTADO_SANTIAGO_607526",
-   "name": "Santiago Rena Cintado",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 0,
-   "ts": 1792074547,
-   "photo": "photos/MKE_CINTADO_SANTIAGO_607526.jpg"
-  },
-  {
    "key": "FDL_JORE_BREE_2026-10-15",
    "name": "Bree Annamarie Jore",
    "age": "",
@@ -231,17 +253,6 @@
    "more": 0,
    "ts": 1792073845,
    "photo": "photos/FDL_JORE_BREE_2026-10-15.jpg"
-  },
-  {
-   "key": "MKE_TATE_TONY_359181",
-   "name": "Tony Curtis Tate",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Prisoner Throw/Expel Bodily Substances",
-   "more": 0,
-   "ts": 1792070955,
-   "photo": null
   },
   {
    "key": "MAR_HOFFMAN_RICHARD_2026-10-14",
@@ -516,17 +527,6 @@
    "charge": "Charges:",
    "more": 1,
    "ts": 1792002942,
-   "photo": null
-  },
-  {
-   "key": "FDL_ROCKOW_KALLY_2026-10-14",
-   "name": "Kally Andon Rockow",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1791994619,
    "photo": null
   }
  ]
