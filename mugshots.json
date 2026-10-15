@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-15T13:49:34+00:00",
+ "updated": "2026-10-15T14:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_CINTADO_SANTIAGO_607526",
+   "name": "Santiago Rena Cintado",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1792074547,
+   "photo": "photos/MKE_CINTADO_SANTIAGO_607526.jpg"
+  },
+  {
+   "key": "FDL_JORE_BREE_2026-10-15",
+   "name": "Bree Annamarie Jore",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - DETAINER (x0)",
+   "more": 0,
+   "ts": 1792073845,
+   "photo": "photos/FDL_JORE_BREE_2026-10-15.jpg"
+  },
   {
    "key": "MKE_TATE_TONY_359181",
    "name": "Tony Curtis Tate",
@@ -310,17 +332,6 @@
    "photo": null
   },
   {
-   "key": "MKE_THOMAS_KERRIA_647789",
-   "name": "Kerria Monae Thomas",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792052947,
-   "photo": null
-  },
-  {
    "key": "WENZEL_LUKE_2026-10-15",
    "name": "Luke G Wenzel",
    "age": "22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1791986855,
    "photo": "photos/TREM_PEREGRIN_TYLER_4470.jpg"
-  },
-  {
-   "key": "TREM_ELVAKER_ZACHARY_4519",
-   "name": "Zachary Allen Elvaker",
-   "age": "39",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 4,
-   "ts": 1791986853,
-   "photo": "photos/TREM_ELVAKER_ZACHARY_4519.jpg"
   }
  ]
 }
