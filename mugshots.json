@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-15T14:49:31+00:00",
+ "updated": "2026-10-15T15:49:31+00:00",
  "items": [
+  {
+   "key": "RC_DUNK_BRANDON_120011075297796",
+   "name": "Brandon Dunk",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792078229,
+   "photo": "photos/RC_DUNK_BRANDON_120011075297796.jpg"
+  },
+  {
+   "key": "MKE_CASTILLO_YEIDRYLEN_647794",
+   "name": "Yeidrylen Castillo",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792078164,
+   "photo": null
+  },
+  {
+   "key": "FDL_SNORTUM_PAUL_2026-10-15",
+   "name": "Paul Michael Snortum",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1792077488,
+   "photo": null
+  },
   {
    "key": "MKE_CINTADO_SANTIAGO_607526",
    "name": "Santiago Rena Cintado",
@@ -277,17 +310,6 @@
    "photo": "photos/RC_HOOPS_AMANDA_120011075291310.jpg"
   },
   {
-   "key": "MKE_LEE_JACOB_647790",
-   "name": "Jacob James Lee",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792056542,
-   "photo": null
-  },
-  {
    "key": "TREM_MUSZYNSKI_MARSHA_6071",
    "name": "Marsha Ann Muszynski",
    "age": "42",
@@ -318,17 +340,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1792056512,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILDER_BRANDON_642653",
-   "name": "Brandon Deandre Wilder",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1792052949,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1791986856,
    "photo": "photos/TREM_ZILLMER_CHRISTEL_6174.jpg"
-  },
-  {
-   "key": "TREM_PEREGRIN_TYLER_4470",
-   "name": "Tyler David Peregrin",
-   "age": "28",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791986855,
-   "photo": "photos/TREM_PEREGRIN_TYLER_4470.jpg"
   }
  ]
 }
