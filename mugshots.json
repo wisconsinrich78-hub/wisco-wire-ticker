@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-15T05:49:37+00:00",
+ "updated": "2026-10-15T06:49:45+00:00",
  "items": [
+  {
+   "key": "WENZEL_LUKE_2026-10-15",
+   "name": "Luke G Wenzel",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792045714,
+   "photo": null
+  },
   {
    "key": "MKE_HORNE_LENARD_637820",
    "name": "Lenard Lonelle Horne",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1791955048,
    "photo": null
-  },
-  {
-   "key": "DOU_DEVEAU_RUSSELL_2026-10-13",
-   "name": "Russell L Deveau",
-   "age": "40",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1791955046,
-   "photo": "photos/DOU_DEVEAU_RUSSELL_2026-10-13.jpg"
   }
  ]
 }
