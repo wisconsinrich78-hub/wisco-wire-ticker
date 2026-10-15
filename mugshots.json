@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-15T03:49:52+00:00",
+ "updated": "2026-10-15T04:49:34+00:00",
  "items": [
+  {
+   "key": "RC_JOHNSON_HUBERT_120011075287573",
+   "name": "Hubert Henry Johnson",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792038606,
+   "photo": "photos/RC_JOHNSON_HUBERT_120011075287573.jpg"
+  },
+  {
+   "key": "MKE_SANDERS_KERIYANNA_647786",
+   "name": "Keriyanna Monique Sanders",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792038541,
+   "photo": null
+  },
+  {
+   "key": "MKE_MILLS_JACQUES_404568",
+   "name": "Jacques Martese Mills",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 17,
+   "ts": 1792038539,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUTCHINS_KYLER_647785",
+   "name": "Kyler T Hutchins",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792038537,
+   "photo": null
+  },
   {
    "key": "RC_NUNO_KARINA_120011075286586",
    "name": "Karina Nuno",
@@ -156,28 +200,6 @@
    "photo": null
   },
   {
-   "key": "RC_GARLAND_ASHLEY_120011075283378",
-   "name": "Ashley L Garland",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Battery- Misd A",
-   "more": 0,
-   "ts": 1792024210,
-   "photo": null
-  },
-  {
-   "key": "MKE_SEPULVEDA_CARLOS_624585",
-   "name": "Carlos Lewis Sepulveda",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792024144,
-   "photo": null
-  },
-  {
    "key": "FUENGER_DANIEL_2026-10-14",
    "name": "Daniel L Fuenger",
    "age": "48",
@@ -186,28 +208,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792020998,
-   "photo": null
-  },
-  {
-   "key": "RC_CANADY_INDIA_120011075282294",
-   "name": "India M Canady",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792020627,
-   "photo": null
-  },
-  {
-   "key": "MKE_MANNERY_VANESSA_316444",
-   "name": "Vanessa D Mannery",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792020561,
    "photo": null
   },
   {
