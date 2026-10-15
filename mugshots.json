@@ -1,6 +1,149 @@
 {
- "updated": "2026-10-15T10:49:35+00:00",
+ "updated": "2026-10-15T11:50:01+00:00",
  "items": [
+  {
+   "key": "MAR_HOFFMAN_RICHARD_2026-10-14",
+   "name": "Richard Clair Hoffman",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 1,
+   "ts": 1792064677,
+   "photo": "photos/MAR_HOFFMAN_RICHARD_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_LANGERUD_TIMOTHY_2026-10-14",
+   "name": "Timothy James Langerud",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist Obstruct An Officer",
+   "more": 1,
+   "ts": 1792064677,
+   "photo": "photos/MAR_LANGERUD_TIMOTHY_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_DEJONG_CHRISTIAN_2026-10-14",
+   "name": "Christian Powell James De Jong",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792064677,
+   "photo": "photos/MAR_DEJONG_CHRISTIAN_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_BONKE_JESSIE_2026-10-14",
+   "name": "Jessie Lou Bonke",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792064677,
+   "photo": "photos/MAR_BONKE_JESSIE_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_HEFTER_ANDREW_2026-10-14",
+   "name": "Andrew James Hefter",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft > $500.00",
+   "more": 0,
+   "ts": 1792064677,
+   "photo": "photos/MAR_HEFTER_ANDREW_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_KENNEDY_ROGER_2026-10-14",
+   "name": "Roger Allen Kennedy",
+   "age": "69",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792064677,
+   "photo": "photos/MAR_KENNEDY_ROGER_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_ROBINSON_AMANDA_2026-10-14",
+   "name": "Amanda Roberta Robinson",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 1,
+   "ts": 1792064677,
+   "photo": "photos/MAR_ROBINSON_AMANDA_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_ERICSON_OLAF_2026-10-14",
+   "name": "Olaf Lee Ericson",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1792064677,
+   "photo": "photos/MAR_ERICSON_OLAF_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_HEFTER_TYLER_2026-10-14",
+   "name": "Tyler James Hefter",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft > $500.00",
+   "more": 0,
+   "ts": 1792064677,
+   "photo": "photos/MAR_HEFTER_TYLER_2026-10-14.jpg"
+  },
+  {
+   "key": "MAR_LO_ALLAN_2026-10-14",
+   "name": "Allan Leonard Lo",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1792064677,
+   "photo": "photos/MAR_LO_ALLAN_2026-10-14.jpg"
+  },
+  {
+   "key": "MKE_VARNADO_SHERARD_645039",
+   "name": "Sherard Varnado",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792063742,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCONIERS_SHAMARI_647792",
+   "name": "Shamari C Sconiers",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792063740,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARROLL_RANDELL_168580",
+   "name": "Randell Carroll",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792063739,
+   "photo": null
+  },
   {
    "key": "MKE_PHABSOMPHOU_DONIVEN_647791",
    "name": "Doniven Hutsady Phabsomphou",
@@ -178,17 +321,6 @@
    "photo": null
   },
   {
-   "key": "MKE_CUNNINGHAM_CHRISTOPHER_630187",
-   "name": "Christopher C Cunningham",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792049347,
-   "photo": null
-  },
-  {
    "key": "WENZEL_LUKE_2026-10-15",
    "name": "Luke G Wenzel",
    "age": "22",
@@ -198,28 +330,6 @@
    "more": 0,
    "ts": 1792045714,
    "photo": null
-  },
-  {
-   "key": "MKE_HORNE_LENARD_637820",
-   "name": "Lenard Lonelle Horne",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792042141,
-   "photo": null
-  },
-  {
-   "key": "RC_JOHNSON_HUBERT_120011075287573",
-   "name": "Hubert Henry Johnson",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792038606,
-   "photo": "photos/RC_JOHNSON_HUBERT_120011075287573.jpg"
   },
   {
    "key": "FDL_HAYWOOD_LADONTE_2026-10-14",
@@ -418,116 +528,6 @@
    "more": 4,
    "ts": 1791986853,
    "photo": "photos/TREM_ELVAKER_ZACHARY_4519.jpg"
-  },
-  {
-   "key": "RAY_SAMARAH_2026-10-14",
-   "name": "Samarah J Ray",
-   "age": "19",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1791985902,
-   "photo": null
-  },
-  {
-   "key": "NOTT_ELIJAH_2026-10-14",
-   "name": "Elijah T Nott",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1791983636,
-   "photo": null
-  },
-  {
-   "key": "MAR_LOVEJOY_CHRISTIAN_2026-10-14",
-   "name": "Christian Keashawn Daunte Lovejoy",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 4,
-   "ts": 1791978172,
-   "photo": "photos/MAR_LOVEJOY_CHRISTIAN_2026-10-14.jpg"
-  },
-  {
-   "key": "MAR_LANDWEHR_ROBERT_2026-10-13",
-   "name": "Robert James Landwehr",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1791978172,
-   "photo": "photos/MAR_LANDWEHR_ROBERT_2026-10-13.jpg"
-  },
-  {
-   "key": "MAR_PEDRAZA_TRISTIAN_2026-10-13",
-   "name": "Tristian Xavier Pedraza",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1791978172,
-   "photo": "photos/MAR_PEDRAZA_TRISTIAN_2026-10-13.jpg"
-  },
-  {
-   "key": "FDL_SCOTT_MAURICE_2026-10-13",
-   "name": "Maurice Scott",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Theft - Misdemeanor",
-   "more": 4,
-   "ts": 1791976633,
-   "photo": null
-  },
-  {
-   "key": "FDL_RATAJCZAK_REBECCA_2026-10-14",
-   "name": "Rebecca Rae Ratajczak",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 0,
-   "ts": 1791973012,
-   "photo": null
-  },
-  {
-   "key": "MOUA_NANCY_2026-10-14",
-   "name": "Nancy L Moua",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 2,
-   "ts": 1791958899,
-   "photo": null
-  },
-  {
-   "key": "DOU_JUSTICE_BRAYDEN_2025-12-09",
-   "name": "Brayden M Justice",
-   "age": "20",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
-   "ts": 1791955056,
-   "photo": null
-  },
-  {
-   "key": "DOU_VIDOVIC_TYLER_2026-06-29",
-   "name": "Tyler V Vidovic",
-   "age": "25",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1791955055,
-   "photo": "photos/DOU_VIDOVIC_TYLER_2026-06-29.jpg"
   }
  ]
 }
