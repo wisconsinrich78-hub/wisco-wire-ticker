@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-15T21:49:30+00:00",
+ "updated": "2026-10-15T22:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_SHARLOW_WALTER_638937",
+   "name": "Walter David Sharlow",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 3,
+   "ts": 1792103357,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARIZETTE_MYRELL_646605",
+   "name": "Myrell Marizette",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 5,
+   "ts": 1792103355,
+   "photo": null
+  },
+  {
+   "key": "MKE_KOLLMAN_KEVIN_647802",
+   "name": "Kevin W Kollman",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792103353,
+   "photo": null
+  },
+  {
+   "key": "MKE_GREGORY_JANIYA_646689",
+   "name": "Janiya Denaya Gregory",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792103351,
+   "photo": null
+  },
+  {
+   "key": "MKE_ADAMS_TREMELL_638620",
+   "name": "Tremell Amir Adams",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792103349,
+   "photo": null
+  },
+  {
+   "key": "PETERSON_TREVOR_2026-10-15",
+   "name": "Trevor Lee Peterson",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792103316,
+   "photo": null
+  },
+  {
+   "key": "FDL_KORTH_ADAM_2026-10-15",
+   "name": "Adam Ronald Korth",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792103127,
+   "photo": "photos/FDL_KORTH_ADAM_2026-10-15.jpg"
+  },
+  {
+   "key": "DOU_DICKENSON_STEVEN_2026-09-22",
+   "name": "Steven J Dickenson",
+   "age": "32",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792102785,
+   "photo": "photos/DOU_DICKENSON_STEVEN_2026-09-22.jpg"
+  },
+  {
+   "key": "DOU_DAVENPORT_RACHEL_2026-10-07",
+   "name": "Rachel L Davenport",
+   "age": "48",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792102782,
+   "photo": "photos/DOU_DAVENPORT_RACHEL_2026-10-07.jpg"
+  },
+  {
+   "key": "DOU_MAUCIERI_MARLENA_2026-10-15",
+   "name": "Marlena R Maucieri",
+   "age": "32",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792102778,
+   "photo": null
+  },
+  {
+   "key": "AUSTIN_ANDREW_2026-10-15",
+   "name": "Andrew S Austin",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Drug Court",
+   "more": 0,
+   "ts": 1792102001,
+   "photo": null
+  },
   {
    "key": "RC_OROZCO_DIANE_120011075309689",
    "name": "Diane Marie Orozco",
@@ -123,39 +244,6 @@
    "photo": "photos/RC_CAPLES_DEVONTA_120011075308614.jpg"
   },
   {
-   "key": "MKE_TYLER_HENRY_374263",
-   "name": "Henry Edward Tyler",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792096162,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOPSON_DEANDRE_390405",
-   "name": "Deandre Love Hopson",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1792096160,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARSON_DAYVIEON_615069",
-   "name": "Dayvieon Marquell Carson",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1792096154,
-   "photo": null
-  },
-  {
    "key": "FDL_MYERS_DANIEL_2026-10-15",
    "name": "Daniel Earl Myers",
    "age": "",
@@ -175,28 +263,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792095556,
-   "photo": null
-  },
-  {
-   "key": "RC_OROZCO_DIANE_120011075305444",
-   "name": "Diane L Orozco",
-   "age": "69",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792092616,
-   "photo": null
-  },
-  {
-   "key": "MKE_SPORS_LAUREN_603836",
-   "name": "Lauren Elizabeth Spors",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Act to Create Fear",
-   "more": 1,
-   "ts": 1792092550,
    "photo": null
   },
   {
@@ -462,72 +528,6 @@
    "more": 0,
    "ts": 1792020998,
    "photo": null
-  },
-  {
-   "key": "STOECKLY_JACOB_2026-10-14",
-   "name": "Jacob R Stoeckly",
-   "age": "31",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Serving A Sentence Without Huber",
-   "more": 0,
-   "ts": 1792020117,
-   "photo": null
-  },
-  {
-   "key": "FDL_PUTZER_JOHN_2026-10-14",
-   "name": "John Joseph Putzer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792016432,
-   "photo": "photos/FDL_PUTZER_JOHN_2026-10-14.jpg"
-  },
-  {
-   "key": "FDL_GARCIA_JUAN_2026-10-14",
-   "name": "Juan Antonio Garcia",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792012767,
-   "photo": null
-  },
-  {
-   "key": "DOU_ALLEN_MARY_2026-10-14",
-   "name": "Mary R Allen",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792012690,
-   "photo": null
-  },
-  {
-   "key": "FREITAG_JACK_2026-10-14",
-   "name": "Jack A Freitag",
-   "age": "55",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792007504,
-   "photo": null
-  },
-  {
-   "key": "FDL_PUENTE_MARCO_2026-10-14",
-   "name": "Marco Anthony Puente",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792003016,
-   "photo": "photos/FDL_PUENTE_MARCO_2026-10-14.jpg"
   }
  ]
 }
