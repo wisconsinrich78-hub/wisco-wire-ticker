@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-15T19:49:38+00:00",
+ "updated": "2026-10-15T20:49:36+00:00",
  "items": [
+  {
+   "key": "RC_WARD_DONALD_120011075308846",
+   "name": "Donald Ray Ward",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792096240,
+   "photo": "photos/RC_WARD_DONALD_120011075308846.jpg"
+  },
+  {
+   "key": "RC_STEWART_SUNNY_120011075304928",
+   "name": "Sunny S Stewart",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792096237,
+   "photo": "photos/RC_STEWART_SUNNY_120011075304928.jpg"
+  },
+  {
+   "key": "RC_FUNCHES_JAYLEN_120011075308775",
+   "name": "Jaylen Cortez Funches",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792096234,
+   "photo": "photos/RC_FUNCHES_JAYLEN_120011075308775.jpg"
+  },
+  {
+   "key": "RC_CAPLES_DEVONTA_120011075308614",
+   "name": "Devonta Ivory Caples",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792096232,
+   "photo": "photos/RC_CAPLES_DEVONTA_120011075308614.jpg"
+  },
+  {
+   "key": "MKE_TYLER_HENRY_374263",
+   "name": "Henry Edward Tyler",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792096162,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOPSON_DEANDRE_390405",
+   "name": "Deandre Love Hopson",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1792096160,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARSON_DAYVIEON_615069",
+   "name": "Dayvieon Marquell Carson",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1792096154,
+   "photo": null
+  },
+  {
+   "key": "FDL_MYERS_DANIEL_2026-10-15",
+   "name": "Daniel Earl Myers",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1792095656,
+   "photo": "photos/FDL_MYERS_DANIEL_2026-10-15.jpg"
+  },
+  {
+   "key": "FDL_HOUSE_CATHY_2026-10-15",
+   "name": "Cathy Lynn House",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792095556,
+   "photo": null
+  },
   {
    "key": "RC_OROZCO_DIANE_120011075305444",
    "name": "Diane L Orozco",
@@ -101,17 +200,6 @@
    "photo": null
   },
   {
-   "key": "MKE_FREDRICK_ANDRAE_647800",
-   "name": "Andrae Fredrick",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Enticement-Expose Sex Organ",
-   "more": 3,
-   "ts": 1792088949,
-   "photo": null
-  },
-  {
    "key": "DOU_LOPEZ_NICODEMUS_2026-10-15",
    "name": "Nicodemus L Lopez",
    "age": "42",
@@ -121,61 +209,6 @@
    "more": 1,
    "ts": 1792088331,
    "photo": "photos/DOU_LOPEZ_NICODEMUS_2026-10-15.jpg"
-  },
-  {
-   "key": "RC_MONDAY_RACHEL_120011075301207",
-   "name": "Rachel V Monday",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792085465,
-   "photo": "photos/RC_MONDAY_RACHEL_120011075301207.jpg"
-  },
-  {
-   "key": "MKE_SCONIERS_DARIUS_647798",
-   "name": "Darius Sconiers",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792085379,
-   "photo": null
-  },
-  {
-   "key": "MKE_RODRIGUEZ_MICHAEL_647797",
-   "name": "Michael Adrian Rodriguez",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1792085375,
-   "photo": null
-  },
-  {
-   "key": "MKE_HODGES_DEAJAI_625915",
-   "name": "Deajai Renee Hodges",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792085373,
-   "photo": null
-  },
-  {
-   "key": "MKE_BISHOP_JOHNNY_647799",
-   "name": "Johnny Bishop",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792085370,
-   "photo": null
   },
   {
    "key": "FDL_WEYANT_JARON_2026-10-15",
@@ -208,17 +241,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792083105,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILSON_MARTELL_646934",
-   "name": "Martell Leon Wilson",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792081770,
    "photo": null
   },
   {
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792003016,
    "photo": "photos/FDL_PUENTE_MARCO_2026-10-14.jpg"
-  },
-  {
-   "key": "FDL_ANDREWS_JOSEPH_2026-10-14",
-   "name": "Joseph John Andrews",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Resisting Or Obstructing Officer",
-   "more": 2,
-   "ts": 1792002971,
-   "photo": "photos/FDL_ANDREWS_JOSEPH_2026-10-14.jpg"
-  },
-  {
-   "key": "DOU_BROWN_JERAMY_2026-10-14",
-   "name": "Jeramy G Brown",
-   "age": "51",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792002942,
-   "photo": null
   }
  ]
 }
