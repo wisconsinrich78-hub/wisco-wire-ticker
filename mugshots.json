@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-15T23:49:31+00:00",
+ "updated": "2026-10-16T00:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_MACK_BRANDON_647803",
+   "name": "Brandon E Mack",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 9,
+   "ts": 1792110550,
+   "photo": null
+  },
+  {
+   "key": "MKE_KEY_TEON_605351",
+   "name": "Teon O Key",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Drive or Operate Vehicle w/o Consent",
+   "more": 5,
+   "ts": 1792110548,
+   "photo": null
+  },
+  {
+   "key": "MKE_GALLATIN_ALEXANDER_623308",
+   "name": "Alexander Yuri Gallatin",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1792110546,
+   "photo": null
+  },
+  {
+   "key": "CHESTNUT_DEVIN_2026-10-15",
+   "name": "Devin J Chestnut",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792108300,
+   "photo": null
+  },
   {
    "key": "MAR_NEMETZ_STEPHAN_2026-10-15",
    "name": "Stephan Michael Nemetz",
@@ -343,39 +387,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GARZA_JOSE_647801",
-   "name": "Jose Luis Garza",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792099748,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAMATO_VINCENZO_298028",
-   "name": "Vincenzo Damato",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1792099746,
-   "photo": null
-  },
-  {
-   "key": "RC_WARD_DONALD_120011075308846",
-   "name": "Donald Ray Ward",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792096240,
-   "photo": "photos/RC_WARD_DONALD_120011075308846.jpg"
-  },
-  {
    "key": "FDL_MYERS_DANIEL_2026-10-15",
    "name": "Daniel Earl Myers",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792034199,
    "photo": "photos/FDL_HAYWOOD_LADONTE_2026-10-14.jpg"
-  },
-  {
-   "key": "FDL_RECINOSMONZON_ERASMO_2026-10-14",
-   "name": "Erasmo Recinos Monzon",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 1,
-   "ts": 1792030628,
-   "photo": "photos/FDL_RECINOSMONZON_ERASMO_2026-10-14.jpg"
   }
  ]
 }
