@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-16T08:49:28+00:00",
+ "updated": "2026-10-16T09:49:26+00:00",
  "items": [
+  {
+   "key": "RC_THOMAS_LOVELL_120011075321113",
+   "name": "Lovell Thomas",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1792143008,
+   "photo": "photos/RC_THOMAS_LOVELL_120011075321113.jpg"
+  },
+  {
+   "key": "MKE_SALINASALANIS_RENE_647813",
+   "name": "Rene Salinas Alanis",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792142954,
+   "photo": null
+  },
+  {
+   "key": "MKE_PREMETZ_JOHNNIE_266974",
+   "name": "Johnnie Diamond Premetz",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792142952,
+   "photo": null
+  },
+  {
+   "key": "MKE_GUTIERREZCHICO_FRANCISCO_647812",
+   "name": "Francisco Jose Gutierrez Chico",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792142950,
+   "photo": null
+  },
+  {
+   "key": "TREM_WALKER_JEFFREY_1990",
+   "name": "Jeffrey Scott Walker",
+   "age": "67",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792142925,
+   "photo": "photos/TREM_WALKER_JEFFREY_1990.jpg"
+  },
+  {
+   "key": "TREM_HANSON_SEAN_5501",
+   "name": "Sean Dwight Hanson",
+   "age": "36",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792142923,
+   "photo": "photos/TREM_HANSON_SEAN_5501.jpg"
+  },
+  {
+   "key": "TREM_HAMPTON_WAYNE_6032",
+   "name": "Wayne Isaca Hampton",
+   "age": "40",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Bench Warrant",
+   "more": 0,
+   "ts": 1792142921,
+   "photo": "photos/TREM_HAMPTON_WAYNE_6032.jpg"
+  },
   {
    "key": "MKE_OLMEDA_ALEX_374349",
    "name": "Alex J Olmeda",
@@ -167,28 +244,6 @@
    "photo": "photos/FDL_HIBBLER_EDYON_2026-10-15.jpg"
   },
   {
-   "key": "MKE_HARMON_MARVELL_377860",
-   "name": "Marvell Harmon",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792124939,
-   "photo": null
-  },
-  {
-   "key": "MKE_BONES_TERON_616717",
-   "name": "Teron Arthez Bones",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 13,
-   "ts": 1792124937,
-   "photo": null
-  },
-  {
    "key": "FDL_SELTRECHT_JESSE_2026-10-15",
    "name": "Jesse Jean Seltrecht",
    "age": "",
@@ -263,28 +318,6 @@
    "charge": "Charges:",
    "more": 2,
    "ts": 1792124168,
-   "photo": null
-  },
-  {
-   "key": "MKE_COSEY_WARREN_209621",
-   "name": "Warren Harding Cosey",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 7,
-   "ts": 1792121352,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROWN_MICHAEL_647806",
-   "name": "Michael K Brown",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792121351,
    "photo": null
   },
   {
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792083105,
    "photo": null
-  },
-  {
-   "key": "FDL_SNORTUM_PAUL_2026-10-15",
-   "name": "Paul Michael Snortum",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1792077488,
-   "photo": null
-  },
-  {
-   "key": "FDL_JORE_BREE_2026-10-15",
-   "name": "Bree Annamarie Jore",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - DETAINER (x0)",
-   "more": 0,
-   "ts": 1792073845,
-   "photo": "photos/FDL_JORE_BREE_2026-10-15.jpg"
-  },
-  {
-   "key": "TREM_MUSZYNSKI_MARSHA_6071",
-   "name": "Marsha Ann Muszynski",
-   "age": "42",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792056517,
-   "photo": "photos/TREM_MUSZYNSKI_MARSHA_6071.jpg"
   }
  ]
 }
