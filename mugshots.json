@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-16T06:49:44+00:00",
+ "updated": "2026-10-16T07:49:26+00:00",
  "items": [
+  {
+   "key": "MKE_STAPLETON_AMBER_647808",
+   "name": "Amber Jade Stapleton",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Conceal (<=$500)",
+   "more": 2,
+   "ts": 1792135760,
+   "photo": null
+  },
+  {
+   "key": "MKE_POPP_KAYLA_546813",
+   "name": "Kayla Marie Popp",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792135759,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOSLEY_DEMARIO_647810",
+   "name": "Demario C Mosley",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property-Special Facts",
+   "more": 3,
+   "ts": 1792135757,
+   "photo": null
+  },
+  {
+   "key": "MKE_JENKINS_TRENTON_308226",
+   "name": "Trenton Alen Jenkins",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792135755,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLT_PARIZ_620557",
+   "name": "Pariz Shammel Holt",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792135753,
+   "photo": null
+  },
+  {
+   "key": "MKE_HALL_CAMERON_631586",
+   "name": "Cameron JM Hall",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792135752,
+   "photo": null
+  },
+  {
+   "key": "MKE_CORREA_JESUS_362592",
+   "name": "Jesus Daniel Correa",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792135750,
+   "photo": null
+  },
+  {
+   "key": "MKE_AKINSANYA_AKINYEMI_647809",
+   "name": "Akinyemi Samuel Akinsanya",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792135748,
+   "photo": null
+  },
   {
    "key": "CHACON_BRANDON_2026-10-16",
    "name": "Brandon A Chacon",
@@ -200,72 +288,6 @@
    "photo": null
   },
   {
-   "key": "MKE_CAMPBELL_ANDRE_646165",
-   "name": "Andre Antonio Campbell",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792117760,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARTERMURPHYJR_MARK_647804",
-   "name": "Mark Edward Carter Murphy Jr",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792114146,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALANIS_JORGE_635608",
-   "name": "Jorge Emmanuel Alanis",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 1,
-   "ts": 1792114144,
-   "photo": "photos/MKE_ALANIS_JORGE_635608.jpg"
-  },
-  {
-   "key": "MKE_MACK_BRANDON_647803",
-   "name": "Brandon E Mack",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 9,
-   "ts": 1792110550,
-   "photo": null
-  },
-  {
-   "key": "MKE_KEY_TEON_605351",
-   "name": "Teon O Key",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Drive or Operate Vehicle w/o Consent",
-   "more": 5,
-   "ts": 1792110548,
-   "photo": null
-  },
-  {
-   "key": "MKE_GALLATIN_ALEXANDER_623308",
-   "name": "Alexander Yuri Gallatin",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 3,
-   "ts": 1792110546,
-   "photo": null
-  },
-  {
    "key": "CHESTNUT_DEVIN_2026-10-15",
    "name": "Devin J Chestnut",
    "age": "33",
@@ -341,28 +363,6 @@
    "more": 0,
    "ts": 1792108049,
    "photo": "photos/MAR_DAVIS_DEWL_2026-10-15.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_MARQUISE_633196",
-   "name": "Marquise Deangleo Williams",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 5,
-   "ts": 1792106954,
-   "photo": null
-  },
-  {
-   "key": "MKE_SHEAD_JERRELL_639732",
-   "name": "Jerrell K Shead",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 10,
-   "ts": 1792106952,
-   "photo": null
   },
   {
    "key": "DOU_CERIO_TARA_2025-12-15",
