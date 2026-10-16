@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-16T15:49:33+00:00",
+ "updated": "2026-10-16T16:49:27+00:00",
  "items": [
+  {
+   "key": "FISCHER_MARK_2026-10-16",
+   "name": "Mark Edwin Fischer",
+   "age": "68",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792168609,
+   "photo": null
+  },
+  {
+   "key": "RC_LANG_MARKESHA_120011075330381",
+   "name": "Markesha Syilia Lang",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take - Exceeds $500 but does not exceed $",
+   "more": 0,
+   "ts": 1792168246,
+   "photo": "photos/RC_LANG_MARKESHA_120011075330381.jpg"
+  },
+  {
+   "key": "MKE_PUSTELAK_AIDAN_647818",
+   "name": "Aidan Pustelak",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792168183,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOROCHO_ENRIQUETA_2041869",
+   "name": "Enriqueta R Morocho",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792168181,
+   "photo": null
+  },
+  {
+   "key": "MKE_EVANS_JONTE_397882",
+   "name": "Jonte Laquan Evans",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792168179,
+   "photo": null
+  },
+  {
+   "key": "MKE_CIUMEICA_GRIGORII_637885",
+   "name": "Grigorii Ciumeica",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1792168177,
+   "photo": null
+  },
+  {
+   "key": "FDL_PAASCH_MASON_2026-10-16",
+   "name": "Mason R Paasch",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 4Th Offense",
+   "more": 4,
+   "ts": 1792167681,
+   "photo": "photos/FDL_PAASCH_MASON_2026-10-16.jpg"
+  },
   {
    "key": "RC_JOHNSON_NATASHA_120011075327363",
    "name": "Natasha Johnson",
@@ -209,61 +286,6 @@
    "more": 1,
    "ts": 1792150758,
    "photo": "photos/MAR_LAO_BOBBY_2026-10-15.jpg"
-  },
-  {
-   "key": "RC_GARDNER_SHAKYA_120011075322454",
-   "name": "Shakya Jane Lee Gardner",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792150195,
-   "photo": null
-  },
-  {
-   "key": "RC_GARDNER_SHAKAYLA_120011075322420",
-   "name": "Shakayla Rose Gardner",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792150193,
-   "photo": null
-  },
-  {
-   "key": "MKE_HILL_AMBER_647815",
-   "name": "Amber Lynn Hill",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792150135,
-   "photo": null
-  },
-  {
-   "key": "MKE_DANLEY_JONATHAN_279289",
-   "name": "Jonathan Danley",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1792150134,
-   "photo": null
-  },
-  {
-   "key": "RC_SCHWICHTENBERG_COTY_120011075321610",
-   "name": "Coty Jene Schwichtenberg",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792146603,
-   "photo": null
   },
   {
    "key": "TREM_WALKER_JEFFREY_1990",
@@ -505,28 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792103316,
-   "photo": null
-  },
-  {
-   "key": "FDL_KORTH_ADAM_2026-10-15",
-   "name": "Adam Ronald Korth",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792103127,
-   "photo": "photos/FDL_KORTH_ADAM_2026-10-15.jpg"
-  },
-  {
-   "key": "AUSTIN_ANDREW_2026-10-15",
-   "name": "Andrew S Austin",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Drug Court",
-   "more": 0,
-   "ts": 1792102001,
    "photo": null
   }
  ]
