@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-16T11:49:29+00:00",
+ "updated": "2026-10-16T12:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_JOINER_BYRON_606079",
+   "name": "Byron Joiner",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1792153982,
+   "photo": null
+  },
+  {
+   "key": "MKE_BLUNTSON_ANTOINE_647816",
+   "name": "Antoine Deshun Bluntson",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792153980,
+   "photo": null
+  },
+  {
+   "key": "GRIFFIN_GARY_2026-10-16",
+   "name": "Gary M Griffin",
+   "age": "63",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792153951,
+   "photo": null
+  },
   {
    "key": "MAR_FULLER_JOSHUA_2026-10-16",
    "name": "Joshua Michael Fuller",
@@ -208,28 +241,6 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792139339,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOPGOOD_RANDY_375126",
-   "name": "Randy Romero Hopgood",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Armed Robbery",
-   "more": 1,
-   "ts": 1792139338,
-   "photo": null
-  },
-  {
-   "key": "MKE_STAPLETON_AMBER_647808",
-   "name": "Amber Jade Stapleton",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Conceal (<=$500)",
-   "more": 2,
-   "ts": 1792135760,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 4,
    "ts": 1792084755,
    "photo": "photos/FDL_IRELAND_KEVIN_2026-10-15.jpg"
-  },
-  {
-   "key": "HUBER_DEREK_2026-10-15",
-   "name": "Derek E Huber",
-   "age": "52",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792083105,
-   "photo": null
   }
  ]
 }
