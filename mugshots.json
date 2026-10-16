@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-16T19:49:33+00:00",
+ "updated": "2026-10-16T20:49:33+00:00",
  "items": [
+  {
+   "key": "RC_COCROFT_DETREVON_120011075338224",
+   "name": "Detrevon Cocroft",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792182618,
+   "photo": "photos/RC_COCROFT_DETREVON_120011075338224.jpg"
+  },
+  {
+   "key": "MKE_MEYER_DAVID_260766",
+   "name": "David C Meyer",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 0,
+   "ts": 1792182549,
+   "photo": null
+  },
   {
    "key": "RC_GARCIA_JOSE_120011075337761",
    "name": "Jose Angel Garcia",
@@ -253,28 +275,6 @@
    "more": 0,
    "ts": 1792168246,
    "photo": "photos/RC_LANG_MARKESHA_120011075330381.jpg"
-  },
-  {
-   "key": "MKE_PUSTELAK_AIDAN_647818",
-   "name": "Aidan Pustelak",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792168183,
-   "photo": null
-  },
-  {
-   "key": "MKE_MOROCHO_ENRIQUETA_2041869",
-   "name": "Enriqueta R Morocho",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792168181,
-   "photo": null
   },
   {
    "key": "FDL_PAASCH_MASON_2026-10-16",
