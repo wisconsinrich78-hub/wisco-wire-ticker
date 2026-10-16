@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-16T17:49:32+00:00",
+ "updated": "2026-10-16T18:49:30+00:00",
  "items": [
+  {
+   "key": "RC_LOCKHART_ABRIANA_120011075334404",
+   "name": "Abriana Lockhart",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1792175408,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMPSON_CHRISTOPHER_501626",
+   "name": "Christopher Thompson",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 2,
+   "ts": 1792175349,
+   "photo": null
+  },
+  {
+   "key": "MKE_QUINLAN_JORDAN_637892",
+   "name": "Jordan Nathaniel Quinlan",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 9,
+   "ts": 1792175346,
+   "photo": null
+  },
+  {
+   "key": "WENZEL_LUKE_2026-10-16",
+   "name": "Luke G Wenzel",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792174910,
+   "photo": null
+  },
+  {
+   "key": "DOU_MANGERSON_TAYLOR_2026-10-16",
+   "name": "Taylor N Mangerson",
+   "age": "29",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792174670,
+   "photo": "photos/DOU_MANGERSON_TAYLOR_2026-10-16.jpg"
+  },
+  {
+   "key": "FDL_WERTH_MATTHEW_2026-10-16",
+   "name": "Matthew Alan Werth",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 2,
+   "ts": 1792174661,
+   "photo": "photos/FDL_WERTH_MATTHEW_2026-10-16.jpg"
+  },
   {
    "key": "XIONG_CHONG_2026-10-16",
    "name": "Chong Xiong",
@@ -178,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_ALLEN_CHRISTOPHER_635710",
-   "name": "Christopher James Allen",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792164566,
-   "photo": null
-  },
-  {
    "key": "ECHEVERRIA_JOSE_2026-10-16",
    "name": "Jose R Echeverria",
    "age": "39",
@@ -220,28 +275,6 @@
    "more": 1,
    "ts": 1792163775,
    "photo": "photos/DOU_GORDON_CARMEN_2026-10-15.jpg"
-  },
-  {
-   "key": "RC_PARRETT_MICHAEL_120011075326310",
-   "name": "Michael Joseph Parrett",
-   "age": "Height",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792161019,
-   "photo": null
-  },
-  {
-   "key": "RC_HOPPE_JAYDEN_120011075326128",
-   "name": "Jayden J Hoppe",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1792161016,
-   "photo": "photos/RC_HOPPE_JAYDEN_120011075326128.jpg"
   },
   {
    "key": "CRAIL_JENNIFER_2026-10-16",
@@ -495,39 +528,6 @@
    "more": 1,
    "ts": 1792108049,
    "photo": "photos/MAR_HICKMAN_KURT_2026-10-15.jpg"
-  },
-  {
-   "key": "MAR_ALTUZ_NICHOLAS_2026-10-15",
-   "name": "Nicholas Carlos Altuz",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 3,
-   "ts": 1792108049,
-   "photo": "photos/MAR_ALTUZ_NICHOLAS_2026-10-15.jpg"
-  },
-  {
-   "key": "MAR_DAVIS_DEWL_2026-10-15",
-   "name": "Dewl Tanner Davis",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Felony",
-   "more": 0,
-   "ts": 1792108049,
-   "photo": "photos/MAR_DAVIS_DEWL_2026-10-15.jpg"
-  },
-  {
-   "key": "DOU_CERIO_TARA_2025-12-15",
-   "name": "Tara N Cerio",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792106331,
-   "photo": "photos/DOU_CERIO_TARA_2025-12-15.jpg"
   }
  ]
 }
