@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-16T12:49:28+00:00",
+ "updated": "2026-10-16T13:49:32+00:00",
  "items": [
+  {
+   "key": "RC_GEE_JEREMY_120011075324652",
+   "name": "Jeremy Gee",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1792157405,
+   "photo": "photos/RC_GEE_JEREMY_120011075324652.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_COVEONTE_638610",
+   "name": "Coveonte C Williams",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792157341,
+   "photo": null
+  },
+  {
+   "key": "FDL_LUTZ_MATTHEW_2026-10-16",
+   "name": "Matthew Gordon Lutz",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1792156775,
+   "photo": "photos/FDL_LUTZ_MATTHEW_2026-10-16.jpg"
+  },
   {
    "key": "MKE_JOINER_BYRON_606079",
    "name": "Byron Joiner",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1792142921,
    "photo": "photos/TREM_HAMPTON_WAYNE_6032.jpg"
-  },
-  {
-   "key": "MKE_OLMEDA_ALEX_374349",
-   "name": "Alex J Olmeda",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792139341,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNS_RANDY_647811",
-   "name": "Randy Jay Johns",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792139339,
-   "photo": null
   },
   {
    "key": "CHACON_BRANDON_2026-10-16",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792085008,
    "photo": "photos/FDL_WEYANT_JARON_2026-10-15.jpg"
-  },
-  {
-   "key": "FDL_IRELAND_KEVIN_2026-10-15",
-   "name": "Kevin Francis Ireland",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 4,
-   "ts": 1792084755,
-   "photo": "photos/FDL_IRELAND_KEVIN_2026-10-15.jpg"
   }
  ]
 }
