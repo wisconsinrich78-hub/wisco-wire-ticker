@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-16T05:49:33+00:00",
+ "updated": "2026-10-16T06:49:44+00:00",
  "items": [
+  {
+   "key": "CHACON_BRANDON_2026-10-16",
+   "name": "Brandon A Chacon",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792129907,
+   "photo": null
+  },
   {
    "key": "MKE_SHELTON_SHAMON_647807",
    "name": "Shamon Isiah Shelton",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792056517,
    "photo": "photos/TREM_MUSZYNSKI_MARSHA_6071.jpg"
-  },
-  {
-   "key": "TREM_MUSICOGUERRA_JUAN_6177",
-   "name": "Juan Francisco Musico Guerra",
-   "age": "28",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792056516,
-   "photo": "photos/TREM_MUSICOGUERRA_JUAN_6177.jpg"
   }
  ]
 }
