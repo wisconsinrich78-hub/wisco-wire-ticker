@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-16T18:49:30+00:00",
+ "updated": "2026-10-16T19:49:33+00:00",
  "items": [
+  {
+   "key": "RC_GARCIA_JOSE_120011075337761",
+   "name": "Jose Angel Garcia",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792179050,
+   "photo": "photos/RC_GARCIA_JOSE_120011075337761.jpg"
+  },
+  {
+   "key": "MKE_WHITE_CHRISTOPHER_647357",
+   "name": "Christopher White",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1792178977,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_DEANTHONY_600035",
+   "name": "DeAnthony DeZohn Johnson",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792178975,
+   "photo": null
+  },
+  {
+   "key": "MKE_DIXON_SINA_361985",
+   "name": "Sina Dianne Dixon",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792178974,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLEMENTS_MARVIN_273832",
+   "name": "Marvin Dewayne Clements",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1792178973,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_TRINA_2061012",
+   "name": "Trina Marie Brown",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792178970,
+   "photo": null
+  },
+  {
+   "key": "DOU_RANDALL_MYRANDA_2026-09-24",
+   "name": "Myranda N Randall",
+   "age": "21",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792178292,
+   "photo": "photos/DOU_RANDALL_MYRANDA_2026-09-24.jpg"
+  },
+  {
+   "key": "DOU_LAAKSO_RAY_2026-10-09",
+   "name": "Ray E Laakso",
+   "age": "50",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792178290,
+   "photo": "photos/DOU_LAAKSO_RAY_2026-10-09.jpg"
+  },
+  {
+   "key": "DOU_OJALA_ROBERT_2026-10-16",
+   "name": "Robert E Ojala",
+   "age": "52",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1792178288,
+   "photo": null
+  },
+  {
+   "key": "FDL_GARCIACASTRO_CARLOS_2026-10-16",
+   "name": "Carlos J Garcia Castro",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 0,
+   "ts": 1792178196,
+   "photo": "photos/FDL_GARCIACASTRO_CARLOS_2026-10-16.jpg"
+  },
   {
    "key": "RC_LOCKHART_ABRIANA_120011075334404",
    "name": "Abriana Lockhart",
@@ -167,28 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_EVANS_JONTE_397882",
-   "name": "Jonte Laquan Evans",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792168179,
-   "photo": null
-  },
-  {
-   "key": "MKE_CIUMEICA_GRIGORII_637885",
-   "name": "Grigorii Ciumeica",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1792168177,
-   "photo": null
-  },
-  {
    "key": "FDL_PAASCH_MASON_2026-10-16",
    "name": "Mason R Paasch",
    "age": "",
@@ -198,50 +286,6 @@
    "more": 4,
    "ts": 1792167681,
    "photo": "photos/FDL_PAASCH_MASON_2026-10-16.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_NATASHA_120011075327363",
-   "name": "Natasha Johnson",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1792164642,
-   "photo": "photos/RC_JOHNSON_NATASHA_120011075327363.jpg"
-  },
-  {
-   "key": "MKE_LYONS_ROBERT_402837",
-   "name": "Robert H Lyons",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 3,
-   "ts": 1792164572,
-   "photo": "photos/MKE_LYONS_ROBERT_402837.jpg"
-  },
-  {
-   "key": "MKE_LLOYD_NASHAUNNA_647817",
-   "name": "Nashaunna N Lloyd",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792164571,
-   "photo": null
-  },
-  {
-   "key": "MKE_CLEMMER_TERRANCE_417061",
-   "name": "Terrance M Clemmer",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792164568,
-   "photo": null
   },
   {
    "key": "ECHEVERRIA_JOSE_2026-10-16",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1792108300,
    "photo": null
-  },
-  {
-   "key": "MAR_NEMETZ_STEPHAN_2026-10-15",
-   "name": "Stephan Michael Nemetz",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1792108049,
-   "photo": "photos/MAR_NEMETZ_STEPHAN_2026-10-15.jpg"
-  },
-  {
-   "key": "MAR_FIRKUS_KRISTOPHER_2026-10-15",
-   "name": "Kristopher Lee Anthony Firkus",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 0,
-   "ts": 1792108049,
-   "photo": "photos/MAR_FIRKUS_KRISTOPHER_2026-10-15.jpg"
-  },
-  {
-   "key": "MAR_HEGNA_KENDRA_2026-10-15",
-   "name": "Kendra Denae Hegna",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 3,
-   "ts": 1792108049,
-   "photo": "photos/MAR_HEGNA_KENDRA_2026-10-15.jpg"
-  },
-  {
-   "key": "MAR_HICKMAN_KURT_2026-10-15",
-   "name": "Kurt Alva Hickman",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1792108049,
-   "photo": "photos/MAR_HICKMAN_KURT_2026-10-15.jpg"
   }
  ]
 }
