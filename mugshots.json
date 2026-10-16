@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-16T16:49:27+00:00",
+ "updated": "2026-10-16T17:49:32+00:00",
  "items": [
+  {
+   "key": "XIONG_CHONG_2026-10-16",
+   "name": "Chong Xiong",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1792172211,
+   "photo": null
+  },
+  {
+   "key": "RC_LIQUIA_RILEY_120011075332326",
+   "name": "Riley Kevin Liquia",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of Child Pornography",
+   "more": 14,
+   "ts": 1792171814,
+   "photo": null
+  },
+  {
+   "key": "MKE_SULEMAN_MOHAMED_628410",
+   "name": "Mohamed Awil Suleman",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating w/ PAC (3rd)",
+   "more": 4,
+   "ts": 1792171757,
+   "photo": "photos/MKE_SULEMAN_MOHAMED_628410.jpg"
+  },
+  {
+   "key": "MKE_SKILLOM_AVERY_614086",
+   "name": "Avery Saquan Skillom",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Misappropriate ID Info - Obtain Money",
+   "more": 3,
+   "ts": 1792171755,
+   "photo": null
+  },
+  {
+   "key": "MKE_ADAMS_TEONTE_414064",
+   "name": "Teonte D Adams",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Intimidate Victim/Conspiracy",
+   "more": 5,
+   "ts": 1792171753,
+   "photo": "photos/MKE_ADAMS_TEONTE_414064.jpg"
+  },
   {
    "key": "FISCHER_MARK_2026-10-16",
    "name": "Mark Edwin Fischer",
@@ -200,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "RC_GEE_JEREMY_120011075324652",
-   "name": "Jeremy Gee",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792157405,
-   "photo": "photos/RC_GEE_JEREMY_120011075324652.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_COVEONTE_638610",
-   "name": "Coveonte C Williams",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792157341,
-   "photo": null
-  },
-  {
    "key": "FDL_LUTZ_MATTHEW_2026-10-16",
    "name": "Matthew Gordon Lutz",
    "age": "",
@@ -231,28 +264,6 @@
    "more": 0,
    "ts": 1792156775,
    "photo": "photos/FDL_LUTZ_MATTHEW_2026-10-16.jpg"
-  },
-  {
-   "key": "MKE_JOINER_BYRON_606079",
-   "name": "Byron Joiner",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1792153982,
-   "photo": null
-  },
-  {
-   "key": "MKE_BLUNTSON_ANTOINE_647816",
-   "name": "Antoine Deshun Bluntson",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792153980,
-   "photo": null
   },
   {
    "key": "GRIFFIN_GARY_2026-10-16",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1792106331,
    "photo": "photos/DOU_CERIO_TARA_2025-12-15.jpg"
-  },
-  {
-   "key": "PETERSON_TREVOR_2026-10-15",
-   "name": "Trevor Lee Peterson",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792103316,
-   "photo": null
   }
  ]
 }
