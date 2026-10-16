@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-16T13:49:32+00:00",
+ "updated": "2026-10-16T14:49:34+00:00",
  "items": [
+  {
+   "key": "RC_PARRETT_MICHAEL_120011075326310",
+   "name": "Michael Joseph Parrett",
+   "age": "Height",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792161019,
+   "photo": null
+  },
+  {
+   "key": "RC_HOPPE_JAYDEN_120011075326128",
+   "name": "Jayden J Hoppe",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 0,
+   "ts": 1792161016,
+   "photo": "photos/RC_HOPPE_JAYDEN_120011075326128.jpg"
+  },
+  {
+   "key": "CRAIL_JENNIFER_2026-10-16",
+   "name": "Jennifer I Crail",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792160500,
+   "photo": null
+  },
   {
    "key": "RC_GEE_JEREMY_120011075324652",
    "name": "Jeremy Gee",
@@ -197,28 +230,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792142954,
-   "photo": null
-  },
-  {
-   "key": "MKE_PREMETZ_JOHNNIE_266974",
-   "name": "Johnnie Diamond Premetz",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792142952,
-   "photo": null
-  },
-  {
-   "key": "MKE_GUTIERREZCHICO_FRANCISCO_647812",
-   "name": "Francisco Jose Gutierrez Chico",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792142950,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792095556,
    "photo": null
-  },
-  {
-   "key": "FDL_WEYANT_JARON_2026-10-15",
-   "name": "Jaron Scott Weyant",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792085008,
-   "photo": "photos/FDL_WEYANT_JARON_2026-10-15.jpg"
   }
  ]
 }
