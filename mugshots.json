@@ -1,6 +1,149 @@
 {
- "updated": "2026-10-16T22:49:31+00:00",
+ "updated": "2026-10-16T23:49:28+00:00",
  "items": [
+  {
+   "key": "MAR_VANG_CHIONG_2026-10-16",
+   "name": "Chiong Vang",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792194295,
+   "photo": "photos/MAR_VANG_CHIONG_2026-10-16.jpg"
+  },
+  {
+   "key": "MAR_LO_JACOB_2026-10-16",
+   "name": "Jacob Allen Lo",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1St-Degree Intentional Homicide Attempt Aggravated Assault",
+   "more": 14,
+   "ts": 1792194295,
+   "photo": "photos/MAR_LO_JACOB_2026-10-16.jpg"
+  },
+  {
+   "key": "MAR_CARVER_DAKOTA_2026-10-16",
+   "name": "Dakota Leviticus Carver",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792194295,
+   "photo": "photos/MAR_CARVER_DAKOTA_2026-10-16.jpg"
+  },
+  {
+   "key": "MAR_KOEPKE_TYLER_2026-10-16",
+   "name": "Tyler Ray Koepke",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 1,
+   "ts": 1792194295,
+   "photo": "photos/MAR_KOEPKE_TYLER_2026-10-16.jpg"
+  },
+  {
+   "key": "MAR_TRAVIA_THOMAS_2026-10-16",
+   "name": "Thomas Joseph Travia",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Threat To Law Enforcement",
+   "more": 1,
+   "ts": 1792194295,
+   "photo": "photos/MAR_TRAVIA_THOMAS_2026-10-16.jpg"
+  },
+  {
+   "key": "MAR_HEINE_SETH_2026-10-16",
+   "name": "Seth Tylor Heine",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Capias - Felony",
+   "more": 3,
+   "ts": 1792194295,
+   "photo": null
+  },
+  {
+   "key": "RC_FARMER_JOSIAH_120011075340735",
+   "name": "Josiah J Farmer",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 11,
+   "ts": 1792193415,
+   "photo": "photos/RC_FARMER_JOSIAH_120011075340735.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_SHANIKA_534805",
+   "name": "Shanika Ann Williams",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792193356,
+   "photo": null
+  },
+  {
+   "key": "MKE_WENDT_RONALD_2046376",
+   "name": "Ronald Ja Wendt",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1792193353,
+   "photo": null
+  },
+  {
+   "key": "MKE_TRAWICK_DARIUS_398716",
+   "name": "Darius Marquel Trawick",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>15-40g)",
+   "more": 2,
+   "ts": 1792193350,
+   "photo": null
+  },
+  {
+   "key": "MKE_SEALS_LANARREA_627252",
+   "name": "Lanarrea Antwon Seals",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1792193349,
+   "photo": "photos/MKE_SEALS_LANARREA_627252.jpg"
+  },
+  {
+   "key": "MKE_CARTER_LARRY_191513",
+   "name": "Larry James Carter",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 2,
+   "ts": 1792193346,
+   "photo": null
+  },
+  {
+   "key": "FDL_BARRERA_BRANDON_2026-10-16",
+   "name": "Brandon Rodriguez Barrera",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 1,
+   "ts": 1792192567,
+   "photo": "photos/FDL_BARRERA_BRANDON_2026-10-16.jpg"
+  },
   {
    "key": "RC_FRISCHMUTH_TREVOR_120011075341811",
    "name": "Trevor M Frischmuth",
@@ -121,72 +264,6 @@
    "more": 0,
    "ts": 1792186220,
    "photo": "photos/RC_WAGENER_BRANDON_120011075339770.jpg"
-  },
-  {
-   "key": "RC_COOPER_ROMEO_120011075340761",
-   "name": "Romeo T Cooper",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792186216,
-   "photo": "photos/RC_COOPER_ROMEO_120011075340761.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_DONTE_503085",
-   "name": "Donte Martez Johnson",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd/Sub. Drug Off.-Class E/F/G/H/I Fel.",
-   "more": 9,
-   "ts": 1792186152,
-   "photo": null
-  },
-  {
-   "key": "MKE_HINES_TROY_385142",
-   "name": "Troy Montez Hines",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 11,
-   "ts": 1792186150,
-   "photo": null
-  },
-  {
-   "key": "MKE_ECFORD_DEMETRIE_541457",
-   "name": "Demetrie Darshawn Ecford",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 10,
-   "ts": 1792186148,
-   "photo": null
-  },
-  {
-   "key": "MKE_DEMPSEY_JOEL_347656",
-   "name": "Joel Dethanyail Dempsey",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792186147,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARTER_ZYSEAN_622255",
-   "name": "Zysean Lemarea Carter",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 7,
-   "ts": 1792186145,
-   "photo": null
   },
   {
    "key": "DOU_RANDALL_MYRANDA_2026-09-24",
@@ -451,83 +528,6 @@
    "more": 1,
    "ts": 1792127918,
    "photo": "photos/FDL_HIBBLER_EDYON_2026-10-15.jpg"
-  },
-  {
-   "key": "FDL_SELTRECHT_JESSE_2026-10-15",
-   "name": "Jesse Jean Seltrecht",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WRIT (x0)",
-   "more": 0,
-   "ts": 1792124473,
-   "photo": "photos/FDL_SELTRECHT_JESSE_2026-10-15.jpg"
-  },
-  {
-   "key": "DOU_FELLER_EDMUND_2026-01-19",
-   "name": "Edmund M Feller",
-   "age": "49",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
-   "ts": 1792124184,
-   "photo": "photos/DOU_FELLER_EDMUND_2026-01-19.jpg"
-  },
-  {
-   "key": "DOU_HENRY_TRAEVONTE_2026-07-02",
-   "name": "Traevonte O Henry",
-   "age": "19",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792124180,
-   "photo": "photos/DOU_HENRY_TRAEVONTE_2026-07-02.jpg"
-  },
-  {
-   "key": "DOU_BUCHANAN_AMY_2026-08-30",
-   "name": "Amy J Buchanan",
-   "age": "53",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 7,
-   "ts": 1792124177,
-   "photo": "photos/DOU_BUCHANAN_AMY_2026-08-30.jpg"
-  },
-  {
-   "key": "DOU_BEAR_MARCUS_2026-09-24",
-   "name": "Marcus J Bear",
-   "age": "53",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792124174,
-   "photo": "photos/DOU_BEAR_MARCUS_2026-09-24.jpg"
-  },
-  {
-   "key": "DOU_VOLKMUTH_DAREN_2026-10-10",
-   "name": "Daren R Volkmuth",
-   "age": "24",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
-   "ts": 1792124172,
-   "photo": "photos/DOU_VOLKMUTH_DAREN_2026-10-10.jpg"
-  },
-  {
-   "key": "DOU_HOLLIDAY_BRANDON_2026-10-15",
-   "name": "Brandon L Holliday",
-   "age": "25",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792124168,
-   "photo": null
   }
  ]
 }
