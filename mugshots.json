@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-16T14:49:34+00:00",
+ "updated": "2026-10-16T15:49:33+00:00",
  "items": [
+  {
+   "key": "RC_JOHNSON_NATASHA_120011075327363",
+   "name": "Natasha Johnson",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 0,
+   "ts": 1792164642,
+   "photo": "photos/RC_JOHNSON_NATASHA_120011075327363.jpg"
+  },
+  {
+   "key": "MKE_LYONS_ROBERT_402837",
+   "name": "Robert H Lyons",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 3,
+   "ts": 1792164572,
+   "photo": "photos/MKE_LYONS_ROBERT_402837.jpg"
+  },
+  {
+   "key": "MKE_LLOYD_NASHAUNNA_647817",
+   "name": "Nashaunna N Lloyd",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792164571,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLEMMER_TERRANCE_417061",
+   "name": "Terrance M Clemmer",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792164568,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_CHRISTOPHER_635710",
+   "name": "Christopher James Allen",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792164566,
+   "photo": null
+  },
+  {
+   "key": "ECHEVERRIA_JOSE_2026-10-16",
+   "name": "Jose R Echeverria",
+   "age": "39",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Fin.Transaction Card-Fraudulent Use <=$2,500",
+   "more": 0,
+   "ts": 1792164111,
+   "photo": null
+  },
+  {
+   "key": "FDL_GARCIACASTRO_CARLOS_2025-09-14",
+   "name": "Carlos J Garcia Castro",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 0,
+   "ts": 1792163896,
+   "photo": "photos/FDL_GARCIACASTRO_CARLOS_2025-09-14.jpg"
+  },
+  {
+   "key": "DOU_GORDON_CARMEN_2026-10-15",
+   "name": "Carmen S Gordon",
+   "age": "23",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792163775,
+   "photo": "photos/DOU_GORDON_CARMEN_2026-10-15.jpg"
+  },
   {
    "key": "RC_PARRETT_MICHAEL_120011075326310",
    "name": "Michael Joseph Parrett",
@@ -175,61 +263,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792146603,
-   "photo": null
-  },
-  {
-   "key": "MKE_WEBER_JASON_645866",
-   "name": "Jason Mario Weber",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1792146544,
-   "photo": null
-  },
-  {
-   "key": "MKE_CABALUNA_MARYANNE_411377",
-   "name": "Maryanne Joy Cabaluna",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792146542,
-   "photo": "photos/MKE_CABALUNA_MARYANNE_411377.jpg"
-  },
-  {
-   "key": "MKE_AGURCIACALDERON_DANI_647814",
-   "name": "Dani Neptali Agurcia Calderon",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792146540,
-   "photo": null
-  },
-  {
-   "key": "RC_THOMAS_LOVELL_120011075321113",
-   "name": "Lovell Thomas",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1792143008,
-   "photo": "photos/RC_THOMAS_LOVELL_120011075321113.jpg"
-  },
-  {
-   "key": "MKE_SALINASALANIS_RENE_647813",
-   "name": "Rene Salinas Alanis",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792142954,
    "photo": null
   },
   {
@@ -464,17 +497,6 @@
    "photo": "photos/DOU_CERIO_TARA_2025-12-15.jpg"
   },
   {
-   "key": "DOU_VANANDA_MATHEW_2026-06-29",
-   "name": "Mathew J Vananda",
-   "age": "25",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792106326,
-   "photo": "photos/DOU_VANANDA_MATHEW_2026-06-29.jpg"
-  },
-  {
    "key": "PETERSON_TREVOR_2026-10-15",
    "name": "Trevor Lee Peterson",
    "age": "36",
@@ -505,28 +527,6 @@
    "charge": "Hold For Drug Court",
    "more": 0,
    "ts": 1792102001,
-   "photo": null
-  },
-  {
-   "key": "FDL_MYERS_DANIEL_2026-10-15",
-   "name": "Daniel Earl Myers",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1792095656,
-   "photo": "photos/FDL_MYERS_DANIEL_2026-10-15.jpg"
-  },
-  {
-   "key": "FDL_HOUSE_CATHY_2026-10-15",
-   "name": "Cathy Lynn House",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792095556,
    "photo": null
   }
  ]
