@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-16T04:49:35+00:00",
+ "updated": "2026-10-16T05:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_SHELTON_SHAMON_647807",
+   "name": "Shamon Isiah Shelton",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792128546,
+   "photo": null
+  },
+  {
+   "key": "FDL_WALLOW_CHANCE_2026-10-16",
+   "name": "Chance Lee Wallow",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792128150,
+   "photo": "photos/FDL_WALLOW_CHANCE_2026-10-16.jpg"
+  },
+  {
+   "key": "FDL_HIBBLER_EDYON_2026-10-15",
+   "name": "Edyon Magic Hibbler",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Felony Bail Jumping No Drugs Or Alc",
+   "more": 1,
+   "ts": 1792127918,
+   "photo": "photos/FDL_HIBBLER_EDYON_2026-10-15.jpg"
+  },
   {
    "key": "MKE_HARMON_MARVELL_377860",
    "name": "Marvell Harmon",
@@ -321,17 +354,6 @@
    "photo": null
   },
   {
-   "key": "MKE_DANIELS_JUSTIN_369858",
-   "name": "Justin Lee Daniels",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery to Certain Individuals Involved in a Court or Legal System",
-   "more": 3,
-   "ts": 1792106949,
-   "photo": null
-  },
-  {
    "key": "DOU_CERIO_TARA_2025-12-15",
    "name": "Tara N Cerio",
    "age": "35",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792056516,
    "photo": "photos/TREM_MUSICOGUERRA_JUAN_6177.jpg"
-  },
-  {
-   "key": "BUE_DAYNA_2026-10-15",
-   "name": "Dayna K Bue",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792056512,
-   "photo": null
-  },
-  {
-   "key": "WENZEL_LUKE_2026-10-15",
-   "name": "Luke G Wenzel",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792045714,
-   "photo": null
   }
  ]
 }
