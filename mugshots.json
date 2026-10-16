@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-16T20:49:33+00:00",
+ "updated": "2026-10-16T21:49:31+00:00",
  "items": [
+  {
+   "key": "RC_WAGENER_BRANDON_120011075339770",
+   "name": "Brandon Scott Wagener",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792186220,
+   "photo": "photos/RC_WAGENER_BRANDON_120011075339770.jpg"
+  },
+  {
+   "key": "RC_COOPER_ROMEO_120011075340761",
+   "name": "Romeo T Cooper",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792186216,
+   "photo": "photos/RC_COOPER_ROMEO_120011075340761.jpg"
+  },
+  {
+   "key": "MKE_JOHNSON_DONTE_503085",
+   "name": "Donte Martez Johnson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd/Sub. Drug Off.-Class E/F/G/H/I Fel.",
+   "more": 9,
+   "ts": 1792186152,
+   "photo": null
+  },
+  {
+   "key": "MKE_HINES_TROY_385142",
+   "name": "Troy Montez Hines",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 11,
+   "ts": 1792186150,
+   "photo": null
+  },
+  {
+   "key": "MKE_ECFORD_DEMETRIE_541457",
+   "name": "Demetrie Darshawn Ecford",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 10,
+   "ts": 1792186148,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEMPSEY_JOEL_347656",
+   "name": "Joel Dethanyail Dempsey",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792186147,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_ZYSEAN_622255",
+   "name": "Zysean Lemarea Carter",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 7,
+   "ts": 1792186145,
+   "photo": null
+  },
+  {
+   "key": "MKE_CAMPBELL_DEWAUNCE_280939",
+   "name": "Dewaunce Sylvester Campbell",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Unlawful Phone Use-Threatens Harm",
+   "more": 2,
+   "ts": 1792186143,
+   "photo": null
+  },
   {
    "key": "RC_COCROFT_DETREVON_120011075338224",
    "name": "Detrevon Cocroft",
@@ -134,39 +222,6 @@
    "photo": "photos/FDL_GARCIACASTRO_CARLOS_2026-10-16.jpg"
   },
   {
-   "key": "RC_LOCKHART_ABRIANA_120011075334404",
-   "name": "Abriana Lockhart",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792175408,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMPSON_CHRISTOPHER_501626",
-   "name": "Christopher Thompson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 2,
-   "ts": 1792175349,
-   "photo": null
-  },
-  {
-   "key": "MKE_QUINLAN_JORDAN_637892",
-   "name": "Jordan Nathaniel Quinlan",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 9,
-   "ts": 1792175346,
-   "photo": null
-  },
-  {
    "key": "WENZEL_LUKE_2026-10-16",
    "name": "Luke G Wenzel",
    "age": "22",
@@ -211,50 +266,6 @@
    "photo": null
   },
   {
-   "key": "RC_LIQUIA_RILEY_120011075332326",
-   "name": "Riley Kevin Liquia",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Child Pornography",
-   "more": 14,
-   "ts": 1792171814,
-   "photo": null
-  },
-  {
-   "key": "MKE_SULEMAN_MOHAMED_628410",
-   "name": "Mohamed Awil Suleman",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating w/ PAC (3rd)",
-   "more": 4,
-   "ts": 1792171757,
-   "photo": "photos/MKE_SULEMAN_MOHAMED_628410.jpg"
-  },
-  {
-   "key": "MKE_SKILLOM_AVERY_614086",
-   "name": "Avery Saquan Skillom",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Misappropriate ID Info - Obtain Money",
-   "more": 3,
-   "ts": 1792171755,
-   "photo": null
-  },
-  {
-   "key": "MKE_ADAMS_TEONTE_414064",
-   "name": "Teonte D Adams",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Intimidate Victim/Conspiracy",
-   "more": 5,
-   "ts": 1792171753,
-   "photo": "photos/MKE_ADAMS_TEONTE_414064.jpg"
-  },
-  {
    "key": "FISCHER_MARK_2026-10-16",
    "name": "Mark Edwin Fischer",
    "age": "68",
@@ -264,17 +275,6 @@
    "more": 0,
    "ts": 1792168609,
    "photo": null
-  },
-  {
-   "key": "RC_LANG_MARKESHA_120011075330381",
-   "name": "Markesha Syilia Lang",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take - Exceeds $500 but does not exceed $",
-   "more": 0,
-   "ts": 1792168246,
-   "photo": "photos/RC_LANG_MARKESHA_120011075330381.jpg"
   },
   {
    "key": "FDL_PAASCH_MASON_2026-10-16",
