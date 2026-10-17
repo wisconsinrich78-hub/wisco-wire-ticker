@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-17T10:49:35+00:00",
+ "updated": "2026-10-17T11:49:47+00:00",
  "items": [
+  {
+   "key": "MAR_RAMOSSANDOVAL_REBECCA_2026-10-17",
+   "name": "Rebecca Ramos Sandoval",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1792237228,
+   "photo": null
+  },
+  {
+   "key": "MAR_GRETHEN_ISABELL_2026-10-17",
+   "name": "Isabell Agenes Grethen",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Cause Injury/Operate While Und.Influence",
+   "more": 0,
+   "ts": 1792237228,
+   "photo": null
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-10-16",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792237228,
+   "photo": null
+  },
+  {
+   "key": "DOU_TOLLEFSON_NOLAN_2026-10-17",
+   "name": "Nolan C Tollefson",
+   "age": "20",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792235863,
+   "photo": "photos/DOU_TOLLEFSON_NOLAN_2026-10-17.jpg"
+  },
+  {
+   "key": "FDL_PITTS_KEVIN_2026-10-17",
+   "name": "Kevin C Pitts",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792235832,
+   "photo": "photos/FDL_PITTS_KEVIN_2026-10-17.jpg"
+  },
+  {
+   "key": "FDL_LOPEZMERLO_PEDRO_2026-10-17",
+   "name": "Pedro L Lopez-Merlo",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1792235816,
+   "photo": "photos/FDL_LOPEZMERLO_PEDRO_2026-10-17.jpg"
+  },
   {
    "key": "MKE_VAUGHNS_ANTONIO_619514",
    "name": "Antonio M Vaughns",
@@ -462,72 +528,6 @@
    "more": 1,
    "ts": 1792163775,
    "photo": "photos/DOU_GORDON_CARMEN_2026-10-15.jpg"
-  },
-  {
-   "key": "CRAIL_JENNIFER_2026-10-16",
-   "name": "Jennifer I Crail",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792160500,
-   "photo": null
-  },
-  {
-   "key": "FDL_LUTZ_MATTHEW_2026-10-16",
-   "name": "Matthew Gordon Lutz",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1792156775,
-   "photo": "photos/FDL_LUTZ_MATTHEW_2026-10-16.jpg"
-  },
-  {
-   "key": "GRIFFIN_GARY_2026-10-16",
-   "name": "Gary M Griffin",
-   "age": "63",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792153951,
-   "photo": null
-  },
-  {
-   "key": "MAR_FULLER_JOSHUA_2026-10-16",
-   "name": "Joshua Michael Fuller",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 3,
-   "ts": 1792150758,
-   "photo": "photos/MAR_FULLER_JOSHUA_2026-10-16.jpg"
-  },
-  {
-   "key": "MAR_LAO_BOBBY_2026-10-15",
-   "name": "Bobby Lao",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 1,
-   "ts": 1792150758,
-   "photo": "photos/MAR_LAO_BOBBY_2026-10-15.jpg"
-  },
-  {
-   "key": "TREM_WALKER_JEFFREY_1990",
-   "name": "Jeffrey Scott Walker",
-   "age": "67",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792142925,
-   "photo": "photos/TREM_WALKER_JEFFREY_1990.jpg"
   }
  ]
 }
