@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-17T22:49:34+00:00",
+ "updated": "2026-10-17T23:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_SANCHEZ_PEDRO_364851",
+   "name": "Pedro Luis Sanchez",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792280743,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUPRIESTHILL_MISHAYIA_647834",
+   "name": "Mishayia Racquel Dupriest Hill",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792280741,
+   "photo": null
+  },
+  {
+   "key": "RC_ZARAGOZA_FEDERICO_120011075362323",
+   "name": "Federico M Zaragoza",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1792279764,
+   "photo": null
+  },
+  {
+   "key": "RC_CRAWFORD_AARON_120011075363312",
+   "name": "Aaron Decarreo Crawford",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792279762,
+   "photo": null
+  },
   {
    "key": "RC_VAZQUEZGUTIERREZ_URIEL_120011075361154",
    "name": "Uriel Vazquez-Gutierrez",
@@ -65,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792264551,
-   "photo": null
+   "photo": "photos/MKE_COOK_TIARRA_647833.jpg"
   },
   {
    "key": "MKE_RIBOTA_ALEXIE_647832",
@@ -87,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792261852,
-   "photo": null
+   "photo": "photos/MKE_AKINS_TIMOTHY_397590.jpg"
   },
   {
    "key": "FDL_CASTELLONVASQUEZ_DEIVIN_2026-10-17",
@@ -187,50 +231,6 @@
    "more": 4,
    "ts": 1792251057,
    "photo": "photos/MKE_ELLISON_ROMELLO_613780.jpg"
-  },
-  {
-   "key": "MKE_FREE_JAYLIN_647829",
-   "name": "Jaylin Jameez Free",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792248360,
-   "photo": "photos/MKE_FREE_JAYLIN_647829.jpg"
-  },
-  {
-   "key": "RC_POWELL_LARRICE_120011075354872",
-   "name": "Larrice James Powell",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 0,
-   "ts": 1792247361,
-   "photo": "photos/RC_POWELL_LARRICE_120011075354872.jpg"
-  },
-  {
-   "key": "RC_MUNIZ_EFRAIN_120011075354850",
-   "name": "Efrain M Muniz",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Owi (1St W/Passenger < 16 Yrs Old)",
-   "more": 1,
-   "ts": 1792247359,
-   "photo": "photos/RC_MUNIZ_EFRAIN_120011075354850.jpg"
-  },
-  {
-   "key": "RC_KARLIK_ALISSA_120011075355524",
-   "name": "Alissa Jo Karlik",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1792247356,
-   "photo": "photos/RC_KARLIK_ALISSA_120011075355524.jpg"
   },
   {
    "key": "MAR_RAMOSSANDOVAL_REBECCA_2026-10-17",
