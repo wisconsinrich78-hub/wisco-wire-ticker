@@ -1,14 +1,47 @@
 {
- "updated": "2026-10-17T18:49:31+00:00",
+ "updated": "2026-10-17T19:49:26+00:00",
  "items": [
+  {
+   "key": "FDL_SOMERSETT_TYRICE_2026-10-17",
+   "name": "Tyrice Markell Somersett",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "FAILURE TO APPEAR / WARRANTS (x0)",
+   "more": 0,
+   "ts": 1792264655,
+   "photo": "photos/FDL_SOMERSETT_TYRICE_2026-10-17.jpg"
+  },
+  {
+   "key": "FDL_MARTINEZRAMIREZ_ANTONINO_2026-10-17",
+   "name": "Antonino Martinez Ramirez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "OPERATE W/O VALID LICNSE (2ND OFFENSE W/IN 3 YEARS) (x0)",
+   "more": 0,
+   "ts": 1792264625,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOK_TIARRA_647833",
+   "name": "Tiarra Ashley Cook",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792264551,
+   "photo": null
+  },
   {
    "key": "MKE_RIBOTA_ALEXIE_647832",
    "name": "Alexie Megan Ribota",
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792261854,
    "photo": null
   },
@@ -255,17 +288,6 @@
    "photo": "photos/FDL_LOPEZMERLO_PEDRO_2026-10-17.jpg"
   },
   {
-   "key": "MKE_VAUGHNS_ANTONIO_619514",
-   "name": "Antonio M Vaughns",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792232955,
-   "photo": "photos/MKE_VAUGHNS_ANTONIO_619514.jpg"
-  },
-  {
    "key": "TREM_VOELKER_ALLEN_6179",
    "name": "Allen Edward Voelker",
    "age": "64",
@@ -505,28 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792168609,
-   "photo": null
-  },
-  {
-   "key": "FDL_PAASCH_MASON_2026-10-16",
-   "name": "Mason R Paasch",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 4Th Offense",
-   "more": 4,
-   "ts": 1792167681,
-   "photo": "photos/FDL_PAASCH_MASON_2026-10-16.jpg"
-  },
-  {
-   "key": "ECHEVERRIA_JOSE_2026-10-16",
-   "name": "Jose R Echeverria",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Fin.Transaction Card-Fraudulent Use <=$2,500",
-   "more": 0,
-   "ts": 1792164111,
    "photo": null
   }
  ]
