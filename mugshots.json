@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-17T00:49:28+00:00",
+ "updated": "2026-10-17T01:49:25+00:00",
  "items": [
+  {
+   "key": "CLARK_AUSTIN_2026-10-16",
+   "name": "Austin J Clark",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792201006,
+   "photo": null
+  },
+  {
+   "key": "MKE_WAGNER_JONMICHAEL_608443",
+   "name": "Jon-Michael David Wagner",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792200546,
+   "photo": null
+  },
+  {
+   "key": "MKE_TILLMAN_JERMAINE_633096",
+   "name": "Jermaine Andre Tillman",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792200544,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_MARISSA_617017",
+   "name": "Marissa L Jones",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1792200542,
+   "photo": null
+  },
+  {
+   "key": "SPEK_COREY_2026-10-16",
+   "name": "Corey M Spek",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 2,
+   "ts": 1792198304,
+   "photo": null
+  },
   {
    "key": "RC_BONNER_KIMYRON_120011075344268",
    "name": "Kimyron Roosante Bonner",
@@ -219,39 +274,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792189757,
-   "photo": null
-  },
-  {
-   "key": "MKE_PARKER_DAMARIUS_622426",
-   "name": "Damarius Parker",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792189756,
-   "photo": null
-  },
-  {
-   "key": "MKE_KAZMERCHEK_AARON_2067008",
-   "name": "Aaron Thomas Kazmerchek",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia (Forfeiture)",
-   "more": 0,
-   "ts": 1792189753,
-   "photo": null
-  },
-  {
-   "key": "MKE_JENKINS_CORNELL_625764",
-   "name": "Cornell James Jenkins",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792189752,
    "photo": null
   },
   {
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792129907,
    "photo": null
-  },
-  {
-   "key": "FDL_WALLOW_CHANCE_2026-10-16",
-   "name": "Chance Lee Wallow",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792128150,
-   "photo": "photos/FDL_WALLOW_CHANCE_2026-10-16.jpg"
-  },
-  {
-   "key": "FDL_HIBBLER_EDYON_2026-10-15",
-   "name": "Edyon Magic Hibbler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping No Drugs Or Alc",
-   "more": 1,
-   "ts": 1792127918,
-   "photo": "photos/FDL_HIBBLER_EDYON_2026-10-15.jpg"
   }
  ]
 }
