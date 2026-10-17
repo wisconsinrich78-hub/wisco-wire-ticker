@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-17T17:49:30+00:00",
+ "updated": "2026-10-17T18:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_RIBOTA_ALEXIE_647832",
+   "name": "Alexie Megan Ribota",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792261854,
+   "photo": null
+  },
+  {
+   "key": "MKE_AKINS_TIMOTHY_397590",
+   "name": "Timothy Akins",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792261852,
+   "photo": null
+  },
+  {
+   "key": "FDL_CASTELLONVASQUEZ_DEIVIN_2026-10-17",
+   "name": "Deivin Eliuth Castellon Vasquez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792260974,
+   "photo": null
+  },
   {
    "key": "MKE_VOIT_JESSE_366856",
    "name": "Jesse James Voit",
@@ -231,28 +264,6 @@
    "more": 1,
    "ts": 1792232955,
    "photo": "photos/MKE_VAUGHNS_ANTONIO_619514.jpg"
-  },
-  {
-   "key": "MKE_VANG_TONNEE_647827",
-   "name": "Tonnee Vang",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792232953,
-   "photo": "photos/MKE_VANG_TONNEE_647827.jpg"
-  },
-  {
-   "key": "MKE_KIPP_DAVID_259335",
-   "name": "David Melvin Kipp",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792232950,
-   "photo": "photos/MKE_KIPP_DAVID_259335.jpg"
   },
   {
    "key": "TREM_VOELKER_ALLEN_6179",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792164111,
    "photo": null
-  },
-  {
-   "key": "FDL_GARCIACASTRO_CARLOS_2025-09-14",
-   "name": "Carlos J Garcia Castro",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
-   "more": 0,
-   "ts": 1792163896,
-   "photo": "photos/FDL_GARCIACASTRO_CARLOS_2025-09-14.jpg"
   }
  ]
 }
