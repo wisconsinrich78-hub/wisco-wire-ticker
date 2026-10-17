@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-17T11:49:47+00:00",
+ "updated": "2026-10-17T13:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_PEREZ_ALEXAVIER_647828",
+   "name": "Alexavier Gustavo Perez",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792243748,
+   "photo": null
+  },
   {
    "key": "MAR_RAMOSSANDOVAL_REBECCA_2026-10-17",
    "name": "Rebecca Ramos Sandoval",
@@ -73,8 +84,8 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792232955,
    "photo": null
   },
@@ -161,8 +172,8 @@
    "age": "65",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792225744,
    "photo": null
   },
@@ -241,7 +252,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792214961,
-   "photo": null
+   "photo": "photos/MKE_SMITHWASHINGTON_DASHARRIE_647823.jpg"
   },
   {
    "key": "MKE_MARTINEZ_ANGEL_612446",
@@ -252,18 +263,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792214959,
-   "photo": null
-  },
-  {
-   "key": "MKE_AKINS_PHILLIP_605761",
-   "name": "Phillip Dawayne Akins",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792214957,
-   "photo": null
+   "photo": "photos/MKE_MARTINEZ_ANGEL_612446.jpg"
   },
   {
    "key": "FDL_JONES_LARONTE_2026-08-24",
