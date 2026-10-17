@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-17T08:49:31+00:00",
+ "updated": "2026-10-17T09:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_MORI_EMEKA_647826",
+   "name": "Emeka Mori",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792229360,
+   "photo": null
+  },
+  {
+   "key": "MKE_KITCHENS_ANTONIO_647825",
+   "name": "Antonio M Kitchens",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792229357,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_JAMES_340980",
+   "name": "James Anthony Johnson",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Intentional Homicide",
+   "more": 7,
+   "ts": 1792229355,
+   "photo": null
+  },
+  {
+   "key": "TREM_VOELKER_ALLEN_6179",
+   "name": "Allen Edward Voelker",
+   "age": "64",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 2nd Offense",
+   "more": 0,
+   "ts": 1792229325,
+   "photo": "photos/TREM_VOELKER_ALLEN_6179.jpg"
+  },
   {
    "key": "MKE_STEWART_GLENDA_225098",
    "name": "Glenda Joyce Stewart",
@@ -153,39 +197,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792211343,
-   "photo": null
-  },
-  {
-   "key": "RC_ZAGRODNIK_ANTHONY_120011075347244",
-   "name": "Anthony Robert Zagrodnik",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792207805,
-   "photo": null
-  },
-  {
-   "key": "RC_ZAGRODNIK_ANTHONY_120011075347156",
-   "name": "Anthony R Zagrodnik",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792207802,
-   "photo": null
-  },
-  {
-   "key": "MKE_PIRTLE_TIFFANY_356163",
-   "name": "Tiffany Anica Pirtle",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792207740,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792142925,
    "photo": "photos/TREM_WALKER_JEFFREY_1990.jpg"
-  },
-  {
-   "key": "TREM_HANSON_SEAN_5501",
-   "name": "Sean Dwight Hanson",
-   "age": "36",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792142923,
-   "photo": "photos/TREM_HANSON_SEAN_5501.jpg"
   }
  ]
 }
