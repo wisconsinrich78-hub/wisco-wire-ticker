@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-17T20:49:28+00:00",
+ "updated": "2026-10-17T21:49:28+00:00",
  "items": [
+  {
+   "key": "RC_VAZQUEZGUTIERREZ_URIEL_120011075361154",
+   "name": "Uriel Vazquez-Gutierrez",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792272563,
+   "photo": "photos/RC_VAZQUEZGUTIERREZ_URIEL_120011075361154.jpg"
+  },
+  {
+   "key": "AYALA_ANTONIO_2026-10-17",
+   "name": "Antonio Ii Ayala",
+   "age": "49",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1792270300,
+   "photo": null
+  },
   {
    "key": "KEN_CUTHILL_NATHANIEL_2026-00005753",
    "name": "Nathaniel Thomas Cuthill",
@@ -142,7 +164,7 @@
    "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
    "more": 12,
    "ts": 1792253754,
-   "photo": null
+   "photo": "photos/MKE_POWELL_DODGE_507203.jpg"
   },
   {
    "key": "MKE_PERKINS_TONY_219317",
@@ -153,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792251059,
-   "photo": null
+   "photo": "photos/MKE_PERKINS_TONY_219317.jpg"
   },
   {
    "key": "MKE_ELLISON_ROMELLO_613780",
@@ -164,7 +186,7 @@
    "charge": "Possess Marijuana <25 Grams",
    "more": 4,
    "ts": 1792251057,
-   "photo": null
+   "photo": "photos/MKE_ELLISON_ROMELLO_613780.jpg"
   },
   {
    "key": "MKE_FREE_JAYLIN_647829",
@@ -209,17 +231,6 @@
    "more": 0,
    "ts": 1792247356,
    "photo": "photos/RC_KARLIK_ALISSA_120011075355524.jpg"
-  },
-  {
-   "key": "MKE_HAMPTON_JAONIA_618858",
-   "name": "Jaonia Roseja Hampton",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792245667,
-   "photo": "photos/MKE_HAMPTON_JAONIA_618858.jpg"
   },
   {
    "key": "MAR_RAMOSSANDOVAL_REBECCA_2026-10-17",
@@ -516,17 +527,6 @@
    "charge": "Bail Jumping-Felony",
    "more": 1,
    "ts": 1792172211,
-   "photo": null
-  },
-  {
-   "key": "FISCHER_MARK_2026-10-16",
-   "name": "Mark Edwin Fischer",
-   "age": "68",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792168609,
    "photo": null
   }
  ]
