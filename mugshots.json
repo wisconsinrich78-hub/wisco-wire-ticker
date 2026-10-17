@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-17T05:49:35+00:00",
+ "updated": "2026-10-17T06:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_HENLEY_ZOE_627439",
+   "name": "Zoe Kendra Henley",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792218542,
+   "photo": null
+  },
+  {
+   "key": "FDL_OBRIEN_DMITRY_2026-10-17",
+   "name": "Dmitry Aaron Obrien",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792217819,
+   "photo": "photos/FDL_OBRIEN_DMITRY_2026-10-17.jpg"
+  },
   {
    "key": "MKE_SMITHWASHINGTON_DASHARRIE_647823",
    "name": "Dasharrie M Smith Washington",
@@ -197,17 +219,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792197000,
-   "photo": null
-  },
-  {
-   "key": "MKE_TUCKER_CHRISTOPHER_635663",
-   "name": "Christopher Lee Tucker",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disobedient Witness",
-   "more": 0,
-   "ts": 1792196943,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792142923,
    "photo": "photos/TREM_HANSON_SEAN_5501.jpg"
-  },
-  {
-   "key": "TREM_HAMPTON_WAYNE_6032",
-   "name": "Wayne Isaca Hampton",
-   "age": "40",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Bench Warrant",
-   "more": 0,
-   "ts": 1792142921,
-   "photo": "photos/TREM_HAMPTON_WAYNE_6032.jpg"
   }
  ]
 }
