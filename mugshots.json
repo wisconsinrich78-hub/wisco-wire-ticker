@@ -1,14 +1,69 @@
 {
- "updated": "2026-10-17T16:49:29+00:00",
+ "updated": "2026-10-17T17:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_VOIT_JESSE_366856",
+   "name": "Jesse James Voit",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792259149,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOUSTON_ORPHEUS_647831",
+   "name": "Orpheus Houston",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792259148,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOWDEN_ANTWONE_619143",
+   "name": "Antwone Demetrius Bowden",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792259146,
+   "photo": null
+  },
+  {
+   "key": "RC_JEFFERY_JAN_120011075357653",
+   "name": "Jan Michael Jeffery",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792258158,
+   "photo": "photos/RC_JEFFERY_JAN_120011075357653.jpg"
+  },
+  {
+   "key": "FDL_DUNN_JOHN_2026-10-17",
+   "name": "John Robert Dunn",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792257383,
+   "photo": "photos/FDL_DUNN_JOHN_2026-10-17.jpg"
+  },
   {
    "key": "MKE_POWELL_DODGE_507203",
    "name": "Dodge Emilion Powell",
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
+   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
+   "more": 12,
    "ts": 1792253754,
    "photo": null
   },
@@ -43,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792248360,
-   "photo": null
+   "photo": "photos/MKE_FREE_JAYLIN_647829.jpg"
   },
   {
    "key": "RC_POWELL_LARRICE_120011075354872",
@@ -87,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792245667,
-   "photo": null
+   "photo": "photos/MKE_HAMPTON_JAONIA_618858.jpg"
   },
   {
    "key": "MKE_PEREZ_ALEXAVIER_647828",
@@ -198,50 +253,6 @@
    "more": 1,
    "ts": 1792232950,
    "photo": "photos/MKE_KIPP_DAVID_259335.jpg"
-  },
-  {
-   "key": "MKE_ARMSTRONG_VERDALE_378905",
-   "name": "Verdale Demario Armstrong",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792232946,
-   "photo": "photos/MKE_ARMSTRONG_VERDALE_378905.jpg"
-  },
-  {
-   "key": "MKE_MORI_EMEKA_647826",
-   "name": "Emeka Mori",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792229360,
-   "photo": "photos/MKE_MORI_EMEKA_647826.jpg"
-  },
-  {
-   "key": "MKE_KITCHENS_ANTONIO_647825",
-   "name": "Antonio M Kitchens",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792229357,
-   "photo": "photos/MKE_KITCHENS_ANTONIO_647825.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_JAMES_340980",
-   "name": "James Anthony Johnson",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Intentional Homicide",
-   "more": 7,
-   "ts": 1792229355,
-   "photo": null
   },
   {
    "key": "TREM_VOELKER_ALLEN_6179",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792163896,
    "photo": "photos/FDL_GARCIACASTRO_CARLOS_2025-09-14.jpg"
-  },
-  {
-   "key": "DOU_GORDON_CARMEN_2026-10-15",
-   "name": "Carmen S Gordon",
-   "age": "23",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792163775,
-   "photo": "photos/DOU_GORDON_CARMEN_2026-10-15.jpg"
   }
  ]
 }
