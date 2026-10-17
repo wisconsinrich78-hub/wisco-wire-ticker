@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-16T23:49:28+00:00",
+ "updated": "2026-10-17T00:49:28+00:00",
  "items": [
+  {
+   "key": "RC_BONNER_KIMYRON_120011075344268",
+   "name": "Kimyron Roosante Bonner",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792197000,
+   "photo": null
+  },
+  {
+   "key": "MKE_TUCKER_CHRISTOPHER_635663",
+   "name": "Christopher Lee Tucker",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disobedient Witness",
+   "more": 0,
+   "ts": 1792196943,
+   "photo": null
+  },
+  {
+   "key": "MKE_SELLHAUSEN_JOSEPH_647820",
+   "name": "Joseph Raymond Sellhausen",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1792196941,
+   "photo": "photos/MKE_SELLHAUSEN_JOSEPH_647820.jpg"
+  },
+  {
+   "key": "MKE_NELSON_TOTTIANNA_635744",
+   "name": "Tottianna E Nelson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Aggravated Battery - Intend Great Bodily Harm",
+   "more": 0,
+   "ts": 1792196939,
+   "photo": null
+  },
   {
    "key": "MAR_VANG_CHIONG_2026-10-16",
    "name": "Chiong Vang",
@@ -211,39 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_EATON_ARBLE_380375",
-   "name": "Arble Truman Eaton",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792189750,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_JOE_297193",
-   "name": "Joe Nathan Davis",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 10,
-   "ts": 1792189749,
-   "photo": null
-  },
-  {
-   "key": "MKE_BURKS_KAVON_612786",
-   "name": "Kavon Lavelle Burks",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 3,
-   "ts": 1792189747,
-   "photo": null
-  },
-  {
    "key": "TORRES_PETER_2026-10-16",
    "name": "Peter Torres",
    "age": "42",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1792187501,
    "photo": null
-  },
-  {
-   "key": "RC_WAGENER_BRANDON_120011075339770",
-   "name": "Brandon Scott Wagener",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792186220,
-   "photo": "photos/RC_WAGENER_BRANDON_120011075339770.jpg"
   },
   {
    "key": "DOU_RANDALL_MYRANDA_2026-09-24",
