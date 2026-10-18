@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T06:49:28+00:00",
+ "updated": "2026-10-18T07:49:26+00:00",
  "items": [
+  {
+   "key": "FDL_MAYORGACANALES_LUIS_2026-10-18",
+   "name": "Luis Francisco Mayorga Canales",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1792307822,
+   "photo": null
+  },
+  {
+   "key": "KEN_EDWARDS_RUDOLPH_2026-00005762",
+   "name": "Rudolph Darnel Edwards",
+   "age": "56",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792306357,
+   "photo": "photos/KEN_EDWARDS_RUDOLPH_2026-00005762.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_TEQUILA_647838",
    "name": "Tequila Williams",
@@ -176,17 +198,6 @@
    "more": 6,
    "ts": 1792286156,
    "photo": "photos/MKE_MACLIN_ASHLEY_2061944.jpg"
-  },
-  {
-   "key": "KEN_MARTIN_MICHELLE_2026-00005758",
-   "name": "Michelle R Martin",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1792283974,
-   "photo": "photos/KEN_MARTIN_MICHELLE_2026-00005758.jpg"
   },
   {
    "key": "MAR_BURDETT_HOLLY_2026-10-17",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792174910,
    "photo": null
-  },
-  {
-   "key": "DOU_MANGERSON_TAYLOR_2026-10-16",
-   "name": "Taylor N Mangerson",
-   "age": "29",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792174670,
-   "photo": "photos/DOU_MANGERSON_TAYLOR_2026-10-16.jpg"
   }
  ]
 }
