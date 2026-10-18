@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-18T22:49:28+00:00",
+ "updated": "2026-10-18T23:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_SELLERS_SHANIKA_381919",
+   "name": "Shanika Renee Sellers",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792367152,
+   "photo": null
+  },
+  {
+   "key": "KEN_CENTENO_JOHNATHAN_2026-00005767",
+   "name": "Johnathan Pierre Centeno",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792366804,
+   "photo": null
+  },
+  {
+   "key": "RC_MIRANDA_ALFONSO_120011075384431",
+   "name": "Alfonso Miranda",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792366174,
+   "photo": null
+  },
+  {
+   "key": "RC_KING_JOSEPH_120011075384194",
+   "name": "Joseph R King",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792366171,
+   "photo": "photos/RC_KING_JOSEPH_120011075384194.jpg"
+  },
+  {
+   "key": "RC_GRANDBERRY_ADRIANNA_120011075384517",
+   "name": "Adrianna Alice Grandberry",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792366169,
+   "photo": null
+  },
+  {
+   "key": "MKE_RODRIGUEZ_SERGIO_510076",
+   "name": "Sergio Antonio Rodriguez",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1792364456,
+   "photo": null
+  },
+  {
+   "key": "MKE_HICKS_DAZERIUS_640866",
+   "name": "Dazerius Tavares Hicks",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Armed Robbery with Use of Force",
+   "more": 0,
+   "ts": 1792364455,
+   "photo": "photos/MKE_HICKS_DAZERIUS_640866.jpg"
+  },
+  {
+   "key": "MKE_BRAZGEL_AMANDA_647855",
+   "name": "Amanda Lynn Brazgel",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792364453,
+   "photo": null
+  },
   {
    "key": "KEN_GRAHAM_DANIEL_2026-00005766",
    "name": "Daniel Graham",
@@ -123,17 +211,6 @@
    "photo": "photos/MKE_REA_ANTHONY_634852.jpg"
   },
   {
-   "key": "MKE_BIEDRZYCKI_AIDEN_647850",
-   "name": "Aiden Biedrzycki",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792345563,
-   "photo": "photos/MKE_BIEDRZYCKI_AIDEN_647850.jpg"
-  },
-  {
    "key": "FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18",
    "name": "Junior H Murillo Martinez",
    "age": "",
@@ -143,83 +220,6 @@
    "more": 2,
    "ts": 1792343838,
    "photo": "photos/FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18.jpg"
-  },
-  {
-   "key": "MKE_WRIGHT_CURTIS_396264",
-   "name": "Curtis Nelson Wright",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 4,
-   "ts": 1792342848,
-   "photo": null
-  },
-  {
-   "key": "KEN_MATTAJIMENEZ_DEYBI_2026-00005765",
-   "name": "Deybi Garydair Matta-Jimenez",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 4,
-   "ts": 1792341620,
-   "photo": null
-  },
-  {
-   "key": "RC_HOUSE_CHARLENE_120011075377195",
-   "name": "Charlene House",
-   "age": "63",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "First Degree Intentional Homicide",
-   "more": 1,
-   "ts": 1792340963,
-   "photo": "photos/RC_HOUSE_CHARLENE_120011075377195.jpg"
-  },
-  {
-   "key": "MKE_HOUSE_DARRYL_647849",
-   "name": "Darryl House",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792340160,
-   "photo": "photos/MKE_HOUSE_DARRYL_647849.jpg"
-  },
-  {
-   "key": "MKE_DOTSON_HILBERT_367936",
-   "name": "Hilbert Dotson",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792340158,
-   "photo": "photos/MKE_DOTSON_HILBERT_367936.jpg"
-  },
-  {
-   "key": "MKE_ESPINOZAGARCIA_ERICK_647848",
-   "name": "Erick A Espinoza Garcia",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792337460,
-   "photo": "photos/MKE_ESPINOZAGARCIA_ERICK_647848.jpg"
-  },
-  {
-   "key": "RC_MASSIE_CHARLENE_120011075377195",
-   "name": "Charlene Massie",
-   "age": "63",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792337360,
-   "photo": null
   },
   {
    "key": "DOU_HOULE_JOHN_2026-10-18",
