@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-18T01:49:29+00:00",
+ "updated": "2026-10-18T02:49:37+00:00",
  "items": [
+  {
+   "key": "MKE_WALKER_TATYANNI_606027",
+   "name": "Tatyanni Laurianna Walker",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792291729,
+   "photo": null
+  },
+  {
+   "key": "MKE_SELLERS_STEVEN_601204",
+   "name": "Steven Scott Sellers",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792291727,
+   "photo": null
+  },
+  {
+   "key": "MKE_CAIN_TYVERIA_625413",
+   "name": "Tyveria D Cain",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 10,
+   "ts": 1792291724,
+   "photo": null
+  },
+  {
+   "key": "RC_MARTINEZ_ANGEL_120011075366265",
+   "name": "Angel Martinez",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1792290587,
+   "photo": "photos/RC_MARTINEZ_ANGEL_120011075366265.jpg"
+  },
+  {
+   "key": "MKE_THOMAS_LAJARE_647836",
+   "name": "Lajare R Thomas",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792288856,
+   "photo": null
+  },
   {
    "key": "MKE_MACLIN_ASHLEY_2061944",
    "name": "Ashley Lyvett Maclin",
@@ -54,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792283467,
-   "photo": null
+   "photo": "photos/MKE_SCHAEFFER_MICHAEL_647835.jpg"
   },
   {
    "key": "MKE_BALL_TERRELL_404843",
@@ -134,17 +189,6 @@
    "photo": null
   },
   {
-   "key": "RC_VAZQUEZGUTIERREZ_URIEL_120011075361154",
-   "name": "Uriel Vazquez-Gutierrez",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery-Intend Subst. Harm",
-   "more": 1,
-   "ts": 1792272563,
-   "photo": "photos/RC_VAZQUEZGUTIERREZ_URIEL_120011075361154.jpg"
-  },
-  {
    "key": "AYALA_ANTONIO_2026-10-17",
    "name": "Antonio Ii Ayala",
    "age": "49",
@@ -153,17 +197,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 1,
    "ts": 1792270300,
-   "photo": null
-  },
-  {
-   "key": "KEN_CUTHILL_NATHANIEL_2026-00005753",
-   "name": "Nathaniel Thomas Cuthill",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792269399,
    "photo": null
   },
   {
@@ -187,39 +220,6 @@
    "more": 0,
    "ts": 1792264625,
    "photo": null
-  },
-  {
-   "key": "MKE_COOK_TIARRA_647833",
-   "name": "Tiarra Ashley Cook",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792264551,
-   "photo": "photos/MKE_COOK_TIARRA_647833.jpg"
-  },
-  {
-   "key": "MKE_RIBOTA_ALEXIE_647832",
-   "name": "Alexie Megan Ribota",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792261854,
-   "photo": "photos/MKE_RIBOTA_ALEXIE_647832.jpg"
-  },
-  {
-   "key": "MKE_AKINS_TIMOTHY_397590",
-   "name": "Timothy Akins",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792261852,
-   "photo": "photos/MKE_AKINS_TIMOTHY_397590.jpg"
   },
   {
    "key": "FDL_CASTELLONVASQUEZ_DEIVIN_2026-10-17",
