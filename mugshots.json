@@ -1,14 +1,58 @@
 {
- "updated": "2026-10-18T15:49:31+00:00",
+ "updated": "2026-10-18T16:49:33+00:00",
  "items": [
+  {
+   "key": "KEN_MATTAJIMENEZ_DEYBI_2026-00005765",
+   "name": "Deybi Garydair Matta-Jimenez",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 4,
+   "ts": 1792341620,
+   "photo": null
+  },
+  {
+   "key": "RC_HOUSE_CHARLENE_120011075377195",
+   "name": "Charlene House",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "First Degree Intentional Homicide",
+   "more": 1,
+   "ts": 1792340963,
+   "photo": "photos/RC_HOUSE_CHARLENE_120011075377195.jpg"
+  },
+  {
+   "key": "MKE_HOUSE_DARRYL_647849",
+   "name": "Darryl House",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792340160,
+   "photo": null
+  },
+  {
+   "key": "MKE_DOTSON_HILBERT_367936",
+   "name": "Hilbert Dotson",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792340158,
+   "photo": null
+  },
   {
    "key": "MKE_ESPINOZAGARCIA_ERICK_647848",
    "name": "Erick A Espinoza Garcia",
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792337460,
    "photo": null
   },
@@ -156,28 +200,6 @@
    "photo": "photos/MKE_WATSON_TALAYAH_633509.jpg"
   },
   {
-   "key": "MKE_OROZCOREYES_IAN_647844",
-   "name": "Ian Alexander Orozco Reyes",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792321257,
-   "photo": "photos/MKE_OROZCOREYES_IAN_647844.jpg"
-  },
-  {
-   "key": "MKE_MILES_MAUREANA_647843",
-   "name": "Maureana Miles",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792321255,
-   "photo": "photos/MKE_MILES_MAUREANA_647843.jpg"
-  },
-  {
    "key": "FDL_WILSON_KEVIN_2026-10-18",
    "name": "Kevin Lamont Wilson",
    "age": "",
@@ -187,28 +209,6 @@
    "more": 1,
    "ts": 1792318668,
    "photo": "photos/FDL_WILSON_KEVIN_2026-10-18.jpg"
-  },
-  {
-   "key": "MKE_KAYWOOD_DESTINY_647842",
-   "name": "Destiny Kaywood",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792318539,
-   "photo": "photos/MKE_KAYWOOD_DESTINY_647842.jpg"
-  },
-  {
-   "key": "MKE_HOLT_BRIAN_383610",
-   "name": "Brian Demetrius Holt",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792318538,
-   "photo": null
   },
   {
    "key": "STONE_CHRIS_2026-10-18",
