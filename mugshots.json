@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T11:49:36+00:00",
+ "updated": "2026-10-18T12:49:26+00:00",
  "items": [
+  {
+   "key": "MKE_REED_RODNEY_243753",
+   "name": "Rodney Henderson Reed",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792326638,
+   "photo": null
+  },
+  {
+   "key": "MKE_OQUIN_ROMEAL_402255",
+   "name": "Romeal Montal Oquin",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1792326637,
+   "photo": null
+  },
   {
    "key": "MKE_TAYLOR_DARRELL_622699",
    "name": "Darrell Lamon Taylor",
@@ -29,7 +51,7 @@
    "age": "48",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792322960,
    "photo": "photos/RC_GARRISON_DEMAR_120011075373765.jpg"
@@ -178,17 +200,6 @@
    "photo": null
   },
   {
-   "key": "RC_TORRES_TRINA_120011075372391",
-   "name": "Trina Amber Lee Torres",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 3,
-   "ts": 1792315762,
-   "photo": "photos/RC_TORRES_TRINA_120011075372391.jpg"
-  },
-  {
    "key": "FDL_LARSEN_JACOB_2026-10-18",
    "name": "Jacob James Larsen",
    "age": "",
@@ -208,17 +219,6 @@
    "charge": "Operating While Under The Influence(2Nd)",
    "more": 0,
    "ts": 1792314403,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROLLAND_JESSE_647839",
-   "name": "Jesse Gene Rolland",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792313151,
    "photo": null
   },
   {
