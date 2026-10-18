@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T02:49:37+00:00",
+ "updated": "2026-10-18T03:49:37+00:00",
  "items": [
+  {
+   "key": "MKE_CERVERA_JAVIER_644264",
+   "name": "Javier Cervera",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792294271,
+   "photo": null
+  },
+  {
+   "key": "RC_MARTINEZNUNO_MIGUEL_120011075367414",
+   "name": "Miguel Martinez Nuno",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792294191,
+   "photo": null
+  },
   {
    "key": "MKE_WALKER_TATYANNI_606027",
    "name": "Tatyanni Laurianna Walker",
@@ -18,7 +40,7 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Knowingly Violate a Domestic Abuse Order",
    "more": 0,
    "ts": 1792291727,
    "photo": null
@@ -54,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792288856,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_LAJARE_647836.jpg"
   },
   {
    "key": "MKE_MACLIN_ASHLEY_2061944",
@@ -65,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1792286156,
-   "photo": null
+   "photo": "photos/MKE_MACLIN_ASHLEY_2061944.jpg"
   },
   {
    "key": "KEN_MARTIN_MICHELLE_2026-00005758",
@@ -120,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792283464,
-   "photo": null
+   "photo": "photos/MKE_BALL_TERRELL_404843.jpg"
   },
   {
    "key": "KEN_PETTY_BILLY_2026-00005755",
@@ -165,28 +187,6 @@
    "more": 0,
    "ts": 1792280741,
    "photo": "photos/MKE_DUPRIESTHILL_MISHAYIA_647834.jpg"
-  },
-  {
-   "key": "RC_ZARAGOZA_FEDERICO_120011075362323",
-   "name": "Federico M Zaragoza",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792279764,
-   "photo": null
-  },
-  {
-   "key": "RC_CRAWFORD_AARON_120011075363312",
-   "name": "Aaron Decarreo Crawford",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792279762,
-   "photo": null
   },
   {
    "key": "AYALA_ANTONIO_2026-10-17",
