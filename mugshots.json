@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-18T05:49:29+00:00",
+ "updated": "2026-10-18T06:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_TEQUILA_647838",
+   "name": "Tequila Williams",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792305040,
+   "photo": null
+  },
+  {
+   "key": "MKE_PAEZ_GILBERT_647837",
+   "name": "Gilbert Edward Paez",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792305038,
+   "photo": null
+  },
+  {
+   "key": "RC_CONNERS_ANDRE_120011075369797",
+   "name": "Andre Conners",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
+   "more": 0,
+   "ts": 1792304964,
+   "photo": "photos/RC_CONNERS_ANDRE_120011075369797.jpg"
+  },
+  {
+   "key": "RC_CARRADINE_TYAIRA_120011075369821",
+   "name": "Tyaira Marie Carradine",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Armed Robbery",
+   "more": 3,
+   "ts": 1792304962,
+   "photo": "photos/RC_CARRADINE_TYAIRA_120011075369821.jpg"
+  },
+  {
+   "key": "DOU_WALKER_AXON_2026-10-18",
+   "name": "Axon L Walker",
+   "age": "42",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792304271,
+   "photo": null
+  },
   {
    "key": "RC_MARTIN_DESHON_120011075368986",
    "name": "Deshon Lamar Martin",
@@ -132,50 +187,6 @@
    "more": 0,
    "ts": 1792283974,
    "photo": "photos/KEN_MARTIN_MICHELLE_2026-00005758.jpg"
-  },
-  {
-   "key": "KEN_MARTIN_JOSHUA_2026-00005757",
-   "name": "Joshua T Martin",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792283874,
-   "photo": "photos/KEN_MARTIN_JOSHUA_2026-00005757.jpg"
-  },
-  {
-   "key": "KEN_KHAN_HUMMAD_2026-00005756",
-   "name": "Hummad Khan",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 0,
-   "ts": 1792283786,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCHAEFFER_MICHAEL_647835",
-   "name": "Michael Allen Schaeffer",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792283467,
-   "photo": "photos/MKE_SCHAEFFER_MICHAEL_647835.jpg"
-  },
-  {
-   "key": "MKE_BALL_TERRELL_404843",
-   "name": "Terrell M Ball",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792283464,
-   "photo": "photos/MKE_BALL_TERRELL_404843.jpg"
   },
   {
    "key": "MAR_BURDETT_HOLLY_2026-10-17",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792174670,
    "photo": "photos/DOU_MANGERSON_TAYLOR_2026-10-16.jpg"
-  },
-  {
-   "key": "FDL_WERTH_MATTHEW_2026-10-16",
-   "name": "Matthew Alan Werth",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1792174661,
-   "photo": "photos/FDL_WERTH_MATTHEW_2026-10-16.jpg"
   }
  ]
 }
