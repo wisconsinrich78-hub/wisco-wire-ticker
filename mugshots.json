@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-18T10:49:30+00:00",
+ "updated": "2026-10-18T11:49:36+00:00",
  "items": [
+  {
+   "key": "MKE_TAYLOR_DARRELL_622699",
+   "name": "Darrell Lamon Taylor",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792323943,
+   "photo": null
+  },
+  {
+   "key": "RC_SCHELL_LAUREN_120011075373798",
+   "name": "Lauren Nicole Schell",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792322963,
+   "photo": null
+  },
+  {
+   "key": "RC_GARRISON_DEMAR_120011075373765",
+   "name": "Demar Jason Garrison",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792322960,
+   "photo": "photos/RC_GARRISON_DEMAR_120011075373765.jpg"
+  },
+  {
+   "key": "MKE_WATSON_TALAYAH_633509",
+   "name": "Talayah Lashay Watson",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792321259,
+   "photo": null
+  },
+  {
+   "key": "MKE_OROZCOREYES_IAN_647844",
+   "name": "Ian Alexander Orozco Reyes",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792321257,
+   "photo": null
+  },
+  {
+   "key": "MKE_MILES_MAUREANA_647843",
+   "name": "Maureana Miles",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792321255,
+   "photo": null
+  },
   {
    "key": "FDL_WILSON_KEVIN_2026-10-18",
    "name": "Kevin Lamont Wilson",
@@ -29,8 +95,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792318538,
    "photo": null
   },
@@ -98,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792315861,
-   "photo": null
+   "photo": "photos/MKE_WELCH_LONNIE_622607.jpg"
   },
   {
    "key": "MKE_HIGHSHAWREED_KHAZIYA_647840",
@@ -156,17 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_KIRKWOOD_GEORGE_506221",
-   "name": "George A Kirkwood",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792313149,
-   "photo": null
-  },
-  {
    "key": "FDL_DAVIS_PRINCE_2026-10-18",
    "name": "Prince Chad Davis",
    "age": "",
@@ -187,61 +242,6 @@
    "more": 2,
    "ts": 1792307822,
    "photo": null
-  },
-  {
-   "key": "KEN_EDWARDS_RUDOLPH_2026-00005762",
-   "name": "Rudolph Darnel Edwards",
-   "age": "56",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 5,
-   "ts": 1792306357,
-   "photo": "photos/KEN_EDWARDS_RUDOLPH_2026-00005762.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_TEQUILA_647838",
-   "name": "Tequila Williams",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792305040,
-   "photo": "photos/MKE_WILLIAMS_TEQUILA_647838.jpg"
-  },
-  {
-   "key": "MKE_PAEZ_GILBERT_647837",
-   "name": "Gilbert Edward Paez",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792305038,
-   "photo": "photos/MKE_PAEZ_GILBERT_647837.jpg"
-  },
-  {
-   "key": "RC_CONNERS_ANDRE_120011075369797",
-   "name": "Andre Conners",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
-   "more": 0,
-   "ts": 1792304964,
-   "photo": "photos/RC_CONNERS_ANDRE_120011075369797.jpg"
-  },
-  {
-   "key": "RC_CARRADINE_TYAIRA_120011075369821",
-   "name": "Tyaira Marie Carradine",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Armed Robbery",
-   "more": 3,
-   "ts": 1792304962,
-   "photo": "photos/RC_CARRADINE_TYAIRA_120011075369821.jpg"
   },
   {
    "key": "DOU_WALKER_AXON_2026-10-18",
