@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-18T13:49:35+00:00",
+ "updated": "2026-10-18T14:49:36+00:00",
  "items": [
+  {
+   "key": "MKE_DIGGS_AMARIASIA_647847",
+   "name": "Amariasia Yasmin Diggs",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792334793,
+   "photo": null
+  },
+  {
+   "key": "LUTZ_INDIA_2026-10-18",
+   "name": "India B Lutz",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792332406,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOPEZ_SIERRA_647845",
+   "name": "Sierra D Lopez",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792332111,
+   "photo": null
+  },
+  {
+   "key": "MKE_FUNEZTORREZ_YASUARA_647846",
+   "name": "Yasuara Funez-Torrez",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1792332109,
+   "photo": null
+  },
   {
    "key": "MKE_LEMIEUX_SHAWN_641257",
    "name": "Shawn Jesse Lemieux",
@@ -8,7 +52,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 14,
+   "more": 15,
    "ts": 1792329359,
    "photo": null
   },
@@ -21,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792326638,
-   "photo": null
+   "photo": "photos/MKE_REED_RODNEY_243753.jpg"
   },
   {
    "key": "MKE_OQUIN_ROMEAL_402255",
@@ -76,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792321259,
-   "photo": null
+   "photo": "photos/MKE_WATSON_TALAYAH_633509.jpg"
   },
   {
    "key": "MKE_OROZCOREYES_IAN_647844",
@@ -87,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792321257,
-   "photo": null
+   "photo": "photos/MKE_OROZCOREYES_IAN_647844.jpg"
   },
   {
    "key": "MKE_MILES_MAUREANA_647843",
@@ -120,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792318539,
-   "photo": null
+   "photo": "photos/MKE_KAYWOOD_DESTINY_647842.jpg"
   },
   {
    "key": "MKE_HOLT_BRIAN_383610",
@@ -142,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792318535,
-   "photo": null
+   "photo": "photos/MKE_GONZALEZPEREZ_SANTIAGO_647841.jpg"
   },
   {
    "key": "STONE_CHRIS_2026-10-18",
@@ -161,43 +205,10 @@
    "age": "57",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 4,
    "ts": 1792316653,
    "photo": "photos/KEN_BORG_ROBERT_2026-00005764.jpg"
-  },
-  {
-   "key": "KEN_HERROD_EBONY_2026-00005763",
-   "name": "Ebony Teclaire Herrod",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate Lg Veh After Rev/Susp Of Registration",
-   "more": 4,
-   "ts": 1792316523,
-   "photo": null
-  },
-  {
-   "key": "MKE_WRIGHT_ZION_635724",
-   "name": "Zion E Wright",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792315863,
-   "photo": "photos/MKE_WRIGHT_ZION_635724.jpg"
-  },
-  {
-   "key": "MKE_WELCH_LONNIE_622607",
-   "name": "Lonnie Davis Welch",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792315861,
-   "photo": "photos/MKE_WELCH_LONNIE_622607.jpg"
   },
   {
    "key": "FDL_LARSEN_JACOB_2026-10-18",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792192567,
    "photo": "photos/FDL_BARRERA_BRANDON_2026-10-16.jpg"
-  },
-  {
-   "key": "TORRES_PETER_2026-10-16",
-   "name": "Peter Torres",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792187501,
-   "photo": null
   }
  ]
 }
