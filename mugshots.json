@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T14:49:36+00:00",
+ "updated": "2026-10-18T15:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_ESPINOZAGARCIA_ERICK_647848",
+   "name": "Erick A Espinoza Garcia",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792337460,
+   "photo": null
+  },
+  {
+   "key": "RC_MASSIE_CHARLENE_120011075377195",
+   "name": "Charlene Massie",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792337360,
+   "photo": null
+  },
+  {
+   "key": "DOU_HOULE_JOHN_2026-10-18",
+   "name": "John D Houle",
+   "age": "26",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792336675,
+   "photo": null
+  },
   {
    "key": "MKE_DIGGS_AMARIASIA_647847",
    "name": "Amariasia Yasmin Diggs",
@@ -142,7 +175,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792321255,
-   "photo": null
+   "photo": "photos/MKE_MILES_MAUREANA_647843.jpg"
   },
   {
    "key": "FDL_WILSON_KEVIN_2026-10-18",
@@ -178,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GONZALEZPEREZ_SANTIAGO_647841",
-   "name": "Santiago Gonzalez Perez",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792318535,
-   "photo": "photos/MKE_GONZALEZPEREZ_SANTIAGO_647841.jpg"
-  },
-  {
    "key": "STONE_CHRIS_2026-10-18",
    "name": "Chris A Stone",
    "age": "23",
@@ -198,17 +220,6 @@
    "more": 0,
    "ts": 1792318005,
    "photo": null
-  },
-  {
-   "key": "KEN_BORG_ROBERT_2026-00005764",
-   "name": "Robert Anthony Borg",
-   "age": "57",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 4,
-   "ts": 1792316653,
-   "photo": "photos/KEN_BORG_ROBERT_2026-00005764.jpg"
   },
   {
    "key": "FDL_LARSEN_JACOB_2026-10-18",
@@ -517,17 +528,6 @@
    "more": 3,
    "ts": 1792194295,
    "photo": null
-  },
-  {
-   "key": "FDL_BARRERA_BRANDON_2026-10-16",
-   "name": "Brandon Rodriguez Barrera",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 1,
-   "ts": 1792192567,
-   "photo": "photos/FDL_BARRERA_BRANDON_2026-10-16.jpg"
   }
  ]
 }
