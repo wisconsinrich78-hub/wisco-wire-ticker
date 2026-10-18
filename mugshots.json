@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-18T18:49:26+00:00",
+ "updated": "2026-10-18T19:49:32+00:00",
  "items": [
+  {
+   "key": "FDL_GREGORIOHERNADEZ_EDUARDO_2026-10-18",
+   "name": "Eduardo Gregoriohernadez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine",
+   "more": 1,
+   "ts": 1792350995,
+   "photo": "photos/FDL_GREGORIOHERNADEZ_EDUARDO_2026-10-18.jpg"
+  },
   {
    "key": "MKE_MAIRENAHERRERA_MIGUEL_647851",
    "name": "Miguel Angel Mairena Herrera",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792194295,
    "photo": "photos/MAR_KOEPKE_TYLER_2026-10-16.jpg"
-  },
-  {
-   "key": "MAR_TRAVIA_THOMAS_2026-10-16",
-   "name": "Thomas Joseph Travia",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Threat To Law Enforcement",
-   "more": 1,
-   "ts": 1792194295,
-   "photo": "photos/MAR_TRAVIA_THOMAS_2026-10-16.jpg"
   }
  ]
 }
