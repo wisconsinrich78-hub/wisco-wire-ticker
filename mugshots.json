@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-17T23:49:34+00:00",
+ "updated": "2026-10-18T00:49:31+00:00",
  "items": [
+  {
+   "key": "KEN_MARTIN_MICHELLE_2026-00005758",
+   "name": "Michelle R Martin",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792283974,
+   "photo": "photos/KEN_MARTIN_MICHELLE_2026-00005758.jpg"
+  },
+  {
+   "key": "KEN_MARTIN_JOSHUA_2026-00005757",
+   "name": "Joshua T Martin",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792283874,
+   "photo": "photos/KEN_MARTIN_JOSHUA_2026-00005757.jpg"
+  },
+  {
+   "key": "KEN_KHAN_HUMMAD_2026-00005756",
+   "name": "Hummad Khan",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Stalking",
+   "more": 0,
+   "ts": 1792283786,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHAEFFER_MICHAEL_647835",
+   "name": "Michael Allen Schaeffer",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792283467,
+   "photo": null
+  },
+  {
+   "key": "MKE_BALL_TERRELL_404843",
+   "name": "Terrell M Ball",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792283464,
+   "photo": null
+  },
+  {
+   "key": "KEN_PETTY_BILLY_2026-00005755",
+   "name": "BILLY RAY Junior PETTY",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (2Nd)",
+   "more": 0,
+   "ts": 1792281499,
+   "photo": null
+  },
+  {
+   "key": "MAR_BURDETT_HOLLY_2026-10-17",
+   "name": "Holly Gloria Burdett",
+   "age": "60",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1792281459,
+   "photo": "photos/MAR_BURDETT_HOLLY_2026-10-17.jpg"
+  },
   {
    "key": "MKE_SANCHEZ_PEDRO_364851",
    "name": "Pedro Luis Sanchez",
@@ -21,7 +98,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792280741,
-   "photo": null
+   "photo": "photos/MKE_DUPRIESTHILL_MISHAYIA_647834.jpg"
   },
   {
    "key": "RC_ZARAGOZA_FEDERICO_120011075362323",
@@ -156,39 +233,6 @@
    "photo": "photos/MKE_VOIT_JESSE_366856.jpg"
   },
   {
-   "key": "MKE_HOUSTON_ORPHEUS_647831",
-   "name": "Orpheus Houston",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792259148,
-   "photo": "photos/MKE_HOUSTON_ORPHEUS_647831.jpg"
-  },
-  {
-   "key": "MKE_BOWDEN_ANTWONE_619143",
-   "name": "Antwone Demetrius Bowden",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792259146,
-   "photo": "photos/MKE_BOWDEN_ANTWONE_619143.jpg"
-  },
-  {
-   "key": "RC_JEFFERY_JAN_120011075357653",
-   "name": "Jan Michael Jeffery",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792258158,
-   "photo": "photos/RC_JEFFERY_JAN_120011075357653.jpg"
-  },
-  {
    "key": "FDL_DUNN_JOHN_2026-10-17",
    "name": "John Robert Dunn",
    "age": "",
@@ -198,39 +242,6 @@
    "more": 0,
    "ts": 1792257383,
    "photo": "photos/FDL_DUNN_JOHN_2026-10-17.jpg"
-  },
-  {
-   "key": "MKE_POWELL_DODGE_507203",
-   "name": "Dodge Emilion Powell",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
-   "more": 12,
-   "ts": 1792253754,
-   "photo": "photos/MKE_POWELL_DODGE_507203.jpg"
-  },
-  {
-   "key": "MKE_PERKINS_TONY_219317",
-   "name": "Tony Dewayne Perkins",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792251059,
-   "photo": "photos/MKE_PERKINS_TONY_219317.jpg"
-  },
-  {
-   "key": "MKE_ELLISON_ROMELLO_613780",
-   "name": "Romello Dwayne Ellison",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess Marijuana <25 Grams",
-   "more": 4,
-   "ts": 1792251057,
-   "photo": "photos/MKE_ELLISON_ROMELLO_613780.jpg"
   },
   {
    "key": "MAR_RAMOSSANDOVAL_REBECCA_2026-10-17",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1792174661,
    "photo": "photos/FDL_WERTH_MATTHEW_2026-10-16.jpg"
-  },
-  {
-   "key": "XIONG_CHONG_2026-10-16",
-   "name": "Chong Xiong",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1792172211,
-   "photo": null
   }
  ]
 }
