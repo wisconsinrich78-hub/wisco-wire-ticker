@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-18T09:49:33+00:00",
+ "updated": "2026-10-18T10:49:30+00:00",
  "items": [
+  {
+   "key": "FDL_WILSON_KEVIN_2026-10-18",
+   "name": "Kevin Lamont Wilson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 1,
+   "ts": 1792318668,
+   "photo": "photos/FDL_WILSON_KEVIN_2026-10-18.jpg"
+  },
+  {
+   "key": "MKE_KAYWOOD_DESTINY_647842",
+   "name": "Destiny Kaywood",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792318539,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLT_BRIAN_383610",
+   "name": "Brian Demetrius Holt",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792318538,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZPEREZ_SANTIAGO_647841",
+   "name": "Santiago Gonzalez Perez",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792318535,
+   "photo": null
+  },
+  {
+   "key": "STONE_CHRIS_2026-10-18",
+   "name": "Chris A Stone",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1792318005,
+   "photo": null
+  },
   {
    "key": "KEN_BORG_ROBERT_2026-00005764",
    "name": "Robert Anthony Borg",
@@ -62,8 +117,8 @@
    "age": "26",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 3,
    "ts": 1792315762,
    "photo": "photos/RC_TORRES_TRINA_120011075372391.jpg"
   },
@@ -198,39 +253,6 @@
    "more": 1,
    "ts": 1792304271,
    "photo": null
-  },
-  {
-   "key": "RC_MARTIN_DESHON_120011075368986",
-   "name": "Deshon Lamar Martin",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-THC (<=200 grams)",
-   "more": 0,
-   "ts": 1792301352,
-   "photo": "photos/RC_MARTIN_DESHON_120011075368986.jpg"
-  },
-  {
-   "key": "KEN_WELLS_CORY_2026-00005760",
-   "name": "Cory Ray Wells",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792298644,
-   "photo": "photos/KEN_WELLS_CORY_2026-00005760.jpg"
-  },
-  {
-   "key": "KEN_JOSEPH_JOYAL_2026-00005759",
-   "name": "Joyal Joseph",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1792298456,
-   "photo": "photos/KEN_JOSEPH_JOYAL_2026-00005759.jpg"
   },
   {
    "key": "MAR_BURDETT_HOLLY_2026-10-17",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792187501,
    "photo": null
-  },
-  {
-   "key": "DOU_RANDALL_MYRANDA_2026-09-24",
-   "name": "Myranda N Randall",
-   "age": "21",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792178292,
-   "photo": "photos/DOU_RANDALL_MYRANDA_2026-09-24.jpg"
-  },
-  {
-   "key": "DOU_LAAKSO_RAY_2026-10-09",
-   "name": "Ray E Laakso",
-   "age": "50",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792178290,
-   "photo": "photos/DOU_LAAKSO_RAY_2026-10-09.jpg"
   }
  ]
 }
