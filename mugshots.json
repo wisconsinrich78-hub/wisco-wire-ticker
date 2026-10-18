@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T21:49:43+00:00",
+ "updated": "2026-10-18T22:49:28+00:00",
  "items": [
+  {
+   "key": "KEN_GRAHAM_DANIEL_2026-00005766",
+   "name": "Daniel Graham",
+   "age": "70",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792363230,
+   "photo": null
+  },
+  {
+   "key": "MKE_SWIFT_LARON_647854",
+   "name": "Laron Demitrius Swift",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Out of State of Felony Statute in St",
+   "more": 2,
+   "ts": 1792361760,
+   "photo": null
+  },
   {
    "key": "WASHINGTON_RODERICK_2026-10-18",
    "name": "Roderick M Washington",
@@ -54,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792348274,
-   "photo": null
+   "photo": "photos/MKE_MAIRENAHERRERA_MIGUEL_647851.jpg"
   },
   {
    "key": "MKE_LUMPKINS_JAMEYA_647852",
@@ -87,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792348267,
-   "photo": null
+   "photo": "photos/MKE_COLEMAN_ANTHONY_611711.jpg"
   },
   {
    "key": "MKE_REA_ANTHONY_634852",
@@ -98,7 +120,7 @@
    "charge": "OWI (1st)",
    "more": 1,
    "ts": 1792345565,
-   "photo": null
+   "photo": "photos/MKE_REA_ANTHONY_634852.jpg"
   },
   {
    "key": "MKE_BIEDRZYCKI_AIDEN_647850",
@@ -109,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792345563,
-   "photo": null
+   "photo": "photos/MKE_BIEDRZYCKI_AIDEN_647850.jpg"
   },
   {
    "key": "FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18",
@@ -164,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792340160,
-   "photo": null
+   "photo": "photos/MKE_HOUSE_DARRYL_647849.jpg"
   },
   {
    "key": "MKE_DOTSON_HILBERT_367936",
@@ -175,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792340158,
-   "photo": null
+   "photo": "photos/MKE_DOTSON_HILBERT_367936.jpg"
   },
   {
    "key": "MKE_ESPINOZAGARCIA_ERICK_647848",
@@ -211,17 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_DIGGS_AMARIASIA_647847",
-   "name": "Amariasia Yasmin Diggs",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792334793,
-   "photo": "photos/MKE_DIGGS_AMARIASIA_647847.jpg"
-  },
-  {
    "key": "LUTZ_INDIA_2026-10-18",
    "name": "India B Lutz",
    "age": "38",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1792332406,
    "photo": null
-  },
-  {
-   "key": "MKE_LOPEZ_SIERRA_647845",
-   "name": "Sierra D Lopez",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792332111,
-   "photo": "photos/MKE_LOPEZ_SIERRA_647845.jpg"
   },
   {
    "key": "FDL_WILSON_KEVIN_2026-10-18",
