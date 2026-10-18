@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T20:49:32+00:00",
+ "updated": "2026-10-18T21:49:43+00:00",
  "items": [
+  {
+   "key": "WASHINGTON_RODERICK_2026-10-18",
+   "name": "Roderick M Washington",
+   "age": "54",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792359403,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOREIRA_TARAH_647853",
+   "name": "Tarah Triciah Moreira",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792359071,
+   "photo": null
+  },
+  {
+   "key": "DOU_ONEILL_COLTON_2026-10-18",
+   "name": "Colton T Oneill",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792358263,
+   "photo": null
+  },
   {
    "key": "FDL_GREGORIOHERNADEZ_EDUARDO_2026-10-18",
    "name": "Eduardo Gregoriohernadez",
@@ -153,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792337460,
-   "photo": null
+   "photo": "photos/MKE_ESPINOZAGARCIA_ERICK_647848.jpg"
   },
   {
    "key": "RC_MASSIE_CHARLENE_120011075377195",
@@ -209,17 +242,6 @@
    "more": 1,
    "ts": 1792332111,
    "photo": "photos/MKE_LOPEZ_SIERRA_647845.jpg"
-  },
-  {
-   "key": "MKE_FUNEZTORREZ_YASUARA_647846",
-   "name": "Yasuara Funez-Torrez",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1792332109,
-   "photo": "photos/MKE_FUNEZTORREZ_YASUARA_647846.jpg"
   },
   {
    "key": "FDL_WILSON_KEVIN_2026-10-18",
@@ -506,28 +528,6 @@
    "more": 14,
    "ts": 1792194295,
    "photo": "photos/MAR_LO_JACOB_2026-10-16.jpg"
-  },
-  {
-   "key": "MAR_CARVER_DAKOTA_2026-10-16",
-   "name": "Dakota Leviticus Carver",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792194295,
-   "photo": "photos/MAR_CARVER_DAKOTA_2026-10-16.jpg"
-  },
-  {
-   "key": "MAR_KOEPKE_TYLER_2026-10-16",
-   "name": "Tyler Ray Koepke",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 1,
-   "ts": 1792194295,
-   "photo": "photos/MAR_KOEPKE_TYLER_2026-10-16.jpg"
   }
  ]
 }
