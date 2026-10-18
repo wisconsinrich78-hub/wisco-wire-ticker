@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-18T16:49:33+00:00",
+ "updated": "2026-10-18T17:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_REA_ANTHONY_634852",
+   "name": "Anthony S Rea",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st)",
+   "more": 1,
+   "ts": 1792345565,
+   "photo": null
+  },
+  {
+   "key": "MKE_BIEDRZYCKI_AIDEN_647850",
+   "name": "Aiden Biedrzycki",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792345563,
+   "photo": null
+  },
+  {
+   "key": "FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18",
+   "name": "Junior H Murillo Martinez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 2,
+   "ts": 1792343838,
+   "photo": "photos/FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18.jpg"
+  },
+  {
+   "key": "MKE_WRIGHT_CURTIS_396264",
+   "name": "Curtis Nelson Wright",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 4,
+   "ts": 1792342848,
+   "photo": null
+  },
   {
    "key": "KEN_MATTAJIMENEZ_DEYBI_2026-00005765",
    "name": "Deybi Garydair Matta-Jimenez",
@@ -120,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1792332109,
-   "photo": null
+   "photo": "photos/MKE_FUNEZTORREZ_YASUARA_647846.jpg"
   },
   {
    "key": "MKE_LEMIEUX_SHAWN_641257",
@@ -153,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1792326637,
-   "photo": null
+   "photo": "photos/MKE_OQUIN_ROMEAL_402255.jpg"
   },
   {
    "key": "MKE_TAYLOR_DARRELL_622699",
@@ -165,39 +209,6 @@
    "more": 0,
    "ts": 1792323943,
    "photo": "photos/MKE_TAYLOR_DARRELL_622699.jpg"
-  },
-  {
-   "key": "RC_SCHELL_LAUREN_120011075373798",
-   "name": "Lauren Nicole Schell",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792322963,
-   "photo": null
-  },
-  {
-   "key": "RC_GARRISON_DEMAR_120011075373765",
-   "name": "Demar Jason Garrison",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792322960,
-   "photo": "photos/RC_GARRISON_DEMAR_120011075373765.jpg"
-  },
-  {
-   "key": "MKE_WATSON_TALAYAH_633509",
-   "name": "Talayah Lashay Watson",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792321259,
-   "photo": "photos/MKE_WATSON_TALAYAH_633509.jpg"
   },
   {
    "key": "FDL_WILSON_KEVIN_2026-10-18",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792194295,
    "photo": "photos/MAR_TRAVIA_THOMAS_2026-10-16.jpg"
-  },
-  {
-   "key": "MAR_HEINE_SETH_2026-10-16",
-   "name": "Seth Tylor Heine",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Capias - Felony",
-   "more": 3,
-   "ts": 1792194295,
-   "photo": null
   }
  ]
 }
