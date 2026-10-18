@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T07:49:26+00:00",
+ "updated": "2026-10-18T08:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_ROLLAND_JESSE_647839",
+   "name": "Jesse Gene Rolland",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792313151,
+   "photo": null
+  },
+  {
+   "key": "MKE_KIRKWOOD_GEORGE_506221",
+   "name": "George A Kirkwood",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792313149,
+   "photo": null
+  },
+  {
+   "key": "FDL_DAVIS_PRINCE_2026-10-18",
+   "name": "Prince Chad Davis",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792311399,
+   "photo": "photos/FDL_DAVIS_PRINCE_2026-10-18.jpg"
+  },
   {
    "key": "FDL_MAYORGACANALES_LUIS_2026-10-18",
    "name": "Luis Francisco Mayorga Canales",
@@ -32,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792305040,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_TEQUILA_647838.jpg"
   },
   {
    "key": "MKE_PAEZ_GILBERT_647837",
@@ -43,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792305038,
-   "photo": null
+   "photo": "photos/MKE_PAEZ_GILBERT_647837.jpg"
   },
   {
    "key": "RC_CONNERS_ANDRE_120011075369797",
@@ -176,28 +209,6 @@
    "more": 2,
    "ts": 1792290587,
    "photo": "photos/RC_MARTINEZ_ANGEL_120011075366265.jpg"
-  },
-  {
-   "key": "MKE_THOMAS_LAJARE_647836",
-   "name": "Lajare R Thomas",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792288856,
-   "photo": "photos/MKE_THOMAS_LAJARE_647836.jpg"
-  },
-  {
-   "key": "MKE_MACLIN_ASHLEY_2061944",
-   "name": "Ashley Lyvett Maclin",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1792286156,
-   "photo": "photos/MKE_MACLIN_ASHLEY_2061944.jpg"
   },
   {
    "key": "MAR_BURDETT_HOLLY_2026-10-17",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792178196,
    "photo": "photos/FDL_GARCIACASTRO_CARLOS_2026-10-16.jpg"
-  },
-  {
-   "key": "WENZEL_LUKE_2026-10-16",
-   "name": "Luke G Wenzel",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792174910,
-   "photo": null
   }
  ]
 }
