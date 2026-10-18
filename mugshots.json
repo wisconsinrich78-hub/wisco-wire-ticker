@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-18T12:49:26+00:00",
+ "updated": "2026-10-18T13:49:35+00:00",
  "items": [
+  {
+   "key": "MKE_LEMIEUX_SHAWN_641257",
+   "name": "Shawn Jesse Lemieux",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 14,
+   "ts": 1792329359,
+   "photo": null
+  },
   {
    "key": "MKE_REED_RODNEY_243753",
    "name": "Rodney Henderson Reed",
@@ -32,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792323943,
-   "photo": null
+   "photo": "photos/MKE_TAYLOR_DARRELL_622699.jpg"
   },
   {
    "key": "RC_SCHELL_LAUREN_120011075373798",
@@ -175,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792315863,
-   "photo": null
+   "photo": "photos/MKE_WRIGHT_ZION_635724.jpg"
   },
   {
    "key": "MKE_WELCH_LONNIE_622607",
@@ -187,17 +198,6 @@
    "more": 1,
    "ts": 1792315861,
    "photo": "photos/MKE_WELCH_LONNIE_622607.jpg"
-  },
-  {
-   "key": "MKE_HIGHSHAWREED_KHAZIYA_647840",
-   "name": "Khaziya Highshaw reed",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792315858,
-   "photo": null
   },
   {
    "key": "FDL_LARSEN_JACOB_2026-10-18",
