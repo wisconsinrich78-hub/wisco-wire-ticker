@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-19T04:49:31+00:00",
+ "updated": "2026-10-19T05:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_SELLERS_JONIQUE_381920",
+   "name": "Jonique Alexandra Sellers",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792388750,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCBRIDE_ESSIX_358849",
+   "name": "Essix Lance McBride",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792388748,
+   "photo": null
+  },
+  {
+   "key": "OLSEN_DOROTHY_2026-10-19",
+   "name": "Dorothy V Olsen",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792388247,
+   "photo": null
+  },
+  {
+   "key": "RC_GOODWIN_JERYALE_120011075392674",
+   "name": "Jeryale Damone Goodwin",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792387761,
+   "photo": "photos/RC_GOODWIN_JERYALE_120011075392674.jpg"
+  },
+  {
+   "key": "RC_BODNAR_FRANK_120011075392572",
+   "name": "Frank J Bodnar",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792387758,
+   "photo": "photos/RC_BODNAR_FRANK_120011075392572.jpg"
+  },
+  {
+   "key": "DOU_SCHNEIDERWENT_SCOTT_2026-10-10",
+   "name": "Scott R Schneiderwent",
+   "age": "30",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792386978,
+   "photo": "photos/DOU_SCHNEIDERWENT_SCOTT_2026-10-10.jpg"
+  },
+  {
+   "key": "DOU_POLONIA_DANIEL_2026-10-18",
+   "name": "Daniel P Polonia",
+   "age": "44",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792386976,
+   "photo": null
+  },
+  {
+   "key": "MKE_WATSON_DEUNTAE_608626",
+   "name": "Deuntae Tayveon Watson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 21,
+   "ts": 1792386063,
+   "photo": null
+  },
   {
    "key": "KEN_ANDROSCHKO_JODY_2026-00005770",
    "name": "Jody Frank Androschko",
@@ -156,39 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_DEAN_KEVIN_647857",
-   "name": "Kevin Maurice Dean",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792372575,
-   "photo": null
-  },
-  {
-   "key": "MKE_ASHFORD_ANTONIO_636971",
-   "name": "Antonio L Ashford",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792372573,
-   "photo": null
-  },
-  {
-   "key": "KEN_VLCEK_TIARA_2026-00005768",
-   "name": "Tiara Lynn Vlcek",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792370436,
-   "photo": null
-  },
-  {
    "key": "MELBOSTAD_JARED_2026-10-18",
    "name": "Jared J Melbostad",
    "age": "34",
@@ -198,28 +253,6 @@
    "more": 0,
    "ts": 1792370204,
    "photo": null
-  },
-  {
-   "key": "MKE_TAYLORWATKINS_YEMARRIUS_647856",
-   "name": "Yemarrius Verrell Taylor Watkins",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792369883,
-   "photo": null
-  },
-  {
-   "key": "RC_BIZZLE_COREY_120011075386053",
-   "name": "Corey Tarran Bizzle",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 2,
-   "ts": 1792369759,
-   "photo": "photos/RC_BIZZLE_COREY_120011075386053.jpg"
   },
   {
    "key": "DOU_LAGREW_DAVID_2026-10-18",
@@ -494,39 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792260974,
-   "photo": null
-  },
-  {
-   "key": "FDL_DUNN_JOHN_2026-10-17",
-   "name": "John Robert Dunn",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792257383,
-   "photo": "photos/FDL_DUNN_JOHN_2026-10-17.jpg"
-  },
-  {
-   "key": "MAR_RAMOSSANDOVAL_REBECCA_2026-10-17",
-   "name": "Rebecca Ramos Sandoval",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1792237228,
-   "photo": null
-  },
-  {
-   "key": "MAR_GRETHEN_ISABELL_2026-10-17",
-   "name": "Isabell Agenes Grethen",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Cause Injury/Operate While Und.Influence",
-   "more": 0,
-   "ts": 1792237228,
    "photo": null
   }
  ]
