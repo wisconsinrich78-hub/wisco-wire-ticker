@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-19T00:49:29+00:00",
+ "updated": "2026-10-19T01:49:39+00:00",
  "items": [
+  {
+   "key": "MKE_DEAN_KEVIN_647857",
+   "name": "Kevin Maurice Dean",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792372575,
+   "photo": null
+  },
+  {
+   "key": "MKE_ASHFORD_ANTONIO_636971",
+   "name": "Antonio L Ashford",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792372573,
+   "photo": null
+  },
   {
    "key": "KEN_VLCEK_TIARA_2026-00005768",
    "name": "Tiara Lynn Vlcek",
@@ -40,8 +62,8 @@
    "age": "56",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
    "ts": 1792369759,
    "photo": "photos/RC_BIZZLE_COREY_120011075386053.jpg"
   },
@@ -275,28 +297,6 @@
    "more": 1,
    "ts": 1792350995,
    "photo": "photos/FDL_GREGORIOHERNADEZ_EDUARDO_2026-10-18.jpg"
-  },
-  {
-   "key": "MKE_MAIRENAHERRERA_MIGUEL_647851",
-   "name": "Miguel Angel Mairena Herrera",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792348274,
-   "photo": "photos/MKE_MAIRENAHERRERA_MIGUEL_647851.jpg"
-  },
-  {
-   "key": "MKE_LUMPKINS_JAMEYA_647852",
-   "name": "Jameya Lumpkins",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792348271,
-   "photo": null
   },
   {
    "key": "FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18",
