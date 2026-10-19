@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-19T15:52:36+00:00",
+ "updated": "2026-10-19T16:52:05+00:00",
  "items": [
+  {
+   "key": "KEN_MARCINKO_WILLIAM_2026-00005778",
+   "name": "WILLIAM ANTHONY Junior MARCINKO",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property <=$2500 (All Other Larceny)",
+   "more": 0,
+   "ts": 1792428199,
+   "photo": "photos/KEN_MARCINKO_WILLIAM_2026-00005778.jpg"
+  },
+  {
+   "key": "KEN_DANIELS_QUAMAY_2026-00005777",
+   "name": "Quamay Donovan Daniels",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Endanger Safety/Reckless Use Of Firearm",
+   "more": 0,
+   "ts": 1792428065,
+   "photo": "photos/KEN_DANIELS_QUAMAY_2026-00005777.jpg"
+  },
+  {
+   "key": "FDL_EATON_ARSENIO_2026-10-19",
+   "name": "Arsenio Lamont Eaton",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792426833,
+   "photo": "photos/FDL_EATON_ARSENIO_2026-10-19.jpg"
+  },
+  {
+   "key": "MKE_JENS_ZACHARY_639459",
+   "name": "Zachary James Jens",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Child Pornography",
+   "more": 11,
+   "ts": 1792426767,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERRERADAVILA_DOMINGO_519865",
+   "name": "Domingo Junior Herrera-Davila",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
+   "more": 5,
+   "ts": 1792426764,
+   "photo": null
+  },
+  {
+   "key": "MKE_GAGE_DAVID_2059646",
+   "name": "David Ray Gage",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 3,
+   "ts": 1792426759,
+   "photo": null
+  },
+  {
+   "key": "MKE_BELL_JOSHUA_623551",
+   "name": "Joshua J Bell",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792426756,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAILEY_DWAUN_647865",
+   "name": "Dwaun P Bailey",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792426753,
+   "photo": null
+  },
   {
    "key": "MKE_TRIPP_BERNARD_2002379",
    "name": "Bernard Frances Tripp",
@@ -121,83 +209,6 @@
    "more": 0,
    "ts": 1792417311,
    "photo": "photos/KEN_JONES_CORY_2026-00005776.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_LAURA_647863",
-   "name": "Laura L Williams",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792415760,
-   "photo": null
-  },
-  {
-   "key": "MKE_SPENCE_DONELL_370246",
-   "name": "Donell Demetrius Spence",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792415759,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCCASTLE_TOWAND_285667",
-   "name": "Towand Chantell McCastle",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1792415757,
-   "photo": "photos/MKE_MCCASTLE_TOWAND_285667.jpg"
-  },
-  {
-   "key": "MKE_BISHOP_TRAVIS_508927",
-   "name": "Travis D Bishop",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792415755,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCHAEFER_JEFFREY_604806",
-   "name": "Jeffrey A Schaefer",
-   "age": "61",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792413042,
-   "photo": "photos/MKE_SCHAEFER_JEFFREY_604806.jpg"
-  },
-  {
-   "key": "MKE_IDRIS_HAMZA_636547",
-   "name": "Hamza Bin Idris",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 1,
-   "ts": 1792413040,
-   "photo": null
-  },
-  {
-   "key": "MKE_BOUCHARD_COLE_633666",
-   "name": "Cole John Bouchard",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1792413038,
-   "photo": "photos/MKE_BOUCHARD_COLE_633666.jpg"
   },
   {
    "key": "MAR_DILLABOUGH_BETH_2026-10-19",
@@ -516,17 +527,6 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1792315013,
-   "photo": null
-  },
-  {
-   "key": "ROTERING_JARED_2026-10-18",
-   "name": "Jared J Rotering",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1792314403,
    "photo": null
   }
  ]
