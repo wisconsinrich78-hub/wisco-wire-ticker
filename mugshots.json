@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-19T13:49:46+00:00",
+ "updated": "2026-10-19T14:50:44+00:00",
  "items": [
+  {
+   "key": "SMITH_JUSTIN_2026-10-19",
+   "name": "Justin Damont-Ty Smith",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Justice Sanctions",
+   "more": 0,
+   "ts": 1792418816,
+   "photo": null
+  },
   {
    "key": "KEN_JONES_CORY_2026-00005776",
    "name": "CORY ANTHONY LASHAWN Junior JONES",
@@ -43,7 +54,7 @@
    "charge": "Resisting or Obstructing an Officer",
    "more": 0,
    "ts": 1792415757,
-   "photo": null
+   "photo": "photos/MKE_MCCASTLE_TOWAND_285667.jpg"
   },
   {
    "key": "MKE_BISHOP_TRAVIS_508927",
@@ -153,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792410353,
-   "photo": null
+   "photo": "photos/MKE_HTOO_BLUDOH_647862.jpg"
   },
   {
    "key": "MKE_BROWN_JACOB_605047",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792311399,
    "photo": "photos/FDL_DAVIS_PRINCE_2026-10-18.jpg"
-  },
-  {
-   "key": "FDL_MAYORGACANALES_LUIS_2026-10-18",
-   "name": "Luis Francisco Mayorga Canales",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1792307822,
-   "photo": null
   }
  ]
 }
