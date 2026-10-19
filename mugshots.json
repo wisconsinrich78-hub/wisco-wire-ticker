@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-19T19:49:45+00:00",
+ "updated": "2026-10-19T20:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_MANNERY_AMERHIANA_647868",
+   "name": "Amerhiana A Mannery",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792442761,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALPICASALGADO_GABRIEL_628037",
+   "name": "Gabriel Malpica-salgado",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792442760,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUGGAN_TIMOTHY_2015230",
+   "name": "Timothy B Duggan",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792442757,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUSH_DONELL_630836",
+   "name": "Donell Jerome Bush",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792442756,
+   "photo": null
+  },
+  {
+   "key": "RC_SCHREIBER_JASON_120011075416939",
+   "name": "Jason Ellsworth Schreiber",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792441782,
+   "photo": "photos/RC_SCHREIBER_JASON_120011075416939.jpg"
+  },
+  {
+   "key": "RC_HARRINGTON_MICHAEL_120011075417017",
+   "name": "Michael R Harrington",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792441779,
+   "photo": "photos/RC_HARRINGTON_MICHAEL_120011075417017.jpg"
+  },
   {
    "key": "BALDWIN_LARRY_2026-10-19",
    "name": "Larry Adoniis Baldwin",
@@ -18,8 +84,8 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 3,
+   "charge": "Possess with Intent-Cocaine (>40g)",
+   "more": 6,
    "ts": 1792437816,
    "photo": null
   },
@@ -145,50 +211,6 @@
    "photo": null
   },
   {
-   "key": "RC_WHITE_HOWARD_120011075411972",
-   "name": "Howard Lee White",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792431186,
-   "photo": "photos/RC_WHITE_HOWARD_120011075411972.jpg"
-  },
-  {
-   "key": "RC_SLOAN_BONNIE_120011075412592",
-   "name": "Bonnie Ann Sloan",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792431182,
-   "photo": null
-  },
-  {
-   "key": "RC_RUSH_KARAN_120011075412031",
-   "name": "Karan Terrell Rush",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792431179,
-   "photo": "photos/RC_RUSH_KARAN_120011075412031.jpg"
-  },
-  {
-   "key": "RC_BRISCO_KEION_120011075410870",
-   "name": "Keion Michael Brisco",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of a Firearm by a Felon",
-   "more": 0,
-   "ts": 1792431175,
-   "photo": "photos/RC_BRISCO_KEION_120011075410870.jpg"
-  },
-  {
    "key": "DOU_SEMANKO_DAKOTA_2026-02-03",
    "name": "Dakota D Semanko",
    "age": "27",
@@ -252,28 +274,6 @@
    "charge": "Charges:",
    "more": 1,
    "ts": 1792430699,
-   "photo": null
-  },
-  {
-   "key": "MKE_TAPER_CHRISTOPHER_288147",
-   "name": "Christopher Wayne Taper",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 3,
-   "ts": 1792430479,
-   "photo": null
-  },
-  {
-   "key": "MKE_MARMOLEJO_RAMON_2060045",
-   "name": "Ramon Marmolejo",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792430477,
    "photo": null
   },
   {
