@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-19T02:49:29+00:00",
+ "updated": "2026-10-19T03:49:29+00:00",
  "items": [
+  {
+   "key": "KEN_ANDROSCHKO_JODY_2026-00005770",
+   "name": "Jody Frank Androschko",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792381400,
+   "photo": "photos/KEN_ANDROSCHKO_JODY_2026-00005770.jpg"
+  },
+  {
+   "key": "MKE_WEINBERG_ANTONIA_608556",
+   "name": "Antonia Rose Weinberg",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792380654,
+   "photo": null
+  },
+  {
+   "key": "MKE_NIEMI_ALYSSA_647859",
+   "name": "Alyssa C Niemi",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792380652,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILTS_NANCY_647858",
+   "name": "Nancy Marie Hilts",
+   "age": "61",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792380651,
+   "photo": null
+  },
+  {
+   "key": "RC_BURDO_JOHNATHAN_120011075390164",
+   "name": "Johnathan Mycheal Burdo",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792380565,
+   "photo": "photos/RC_BURDO_JOHNATHAN_120011075390164.jpg"
+  },
+  {
+   "key": "FDL_BOGGAN_ODELL_2026-10-18",
+   "name": "Odell J Boggan",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1792379779,
+   "photo": "photos/FDL_BOGGAN_ODELL_2026-10-18.jpg"
+  },
   {
    "key": "KEN_NORMAN_ROBERT_2026-00005769",
    "name": "Robert D Norman",
@@ -220,61 +286,6 @@
    "more": 2,
    "ts": 1792366171,
    "photo": "photos/RC_KING_JOSEPH_120011075384194.jpg"
-  },
-  {
-   "key": "RC_GRANDBERRY_ADRIANNA_120011075384517",
-   "name": "Adrianna Alice Grandberry",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792366169,
-   "photo": null
-  },
-  {
-   "key": "MKE_RODRIGUEZ_SERGIO_510076",
-   "name": "Sergio Antonio Rodriguez",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1792364456,
-   "photo": "photos/MKE_RODRIGUEZ_SERGIO_510076.jpg"
-  },
-  {
-   "key": "MKE_HICKS_DAZERIUS_640866",
-   "name": "Dazerius Tavares Hicks",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Armed Robbery with Use of Force",
-   "more": 0,
-   "ts": 1792364455,
-   "photo": "photos/MKE_HICKS_DAZERIUS_640866.jpg"
-  },
-  {
-   "key": "MKE_BRAZGEL_AMANDA_647855",
-   "name": "Amanda Lynn Brazgel",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792364453,
-   "photo": "photos/MKE_BRAZGEL_AMANDA_647855.jpg"
-  },
-  {
-   "key": "KEN_GRAHAM_DANIEL_2026-00005766",
-   "name": "Daniel Graham",
-   "age": "70",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792363230,
-   "photo": null
   },
   {
    "key": "WASHINGTON_RODERICK_2026-10-18",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792237228,
    "photo": null
-  },
-  {
-   "key": "DOU_TOLLEFSON_NOLAN_2026-10-17",
-   "name": "Nolan C Tollefson",
-   "age": "20",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792235863,
-   "photo": "photos/DOU_TOLLEFSON_NOLAN_2026-10-17.jpg"
   }
  ]
 }
