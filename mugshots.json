@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-19T07:49:39+00:00",
+ "updated": "2026-10-19T08:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_VEGARAMOS_JESUS_539128",
+   "name": "Jesus David Vega-Ramos",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792399545,
+   "photo": null
+  },
+  {
+   "key": "DOU_CARIGNAN_SHAWN_2026-07-06",
+   "name": "Shawn A Carignan",
+   "age": "40",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792398024,
+   "photo": "photos/DOU_CARIGNAN_SHAWN_2026-07-06.jpg"
+  },
+  {
+   "key": "DOU_CIOCARELLI_PRESTON_2026-09-03",
+   "name": "Preston L Ciocarelli",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792398022,
+   "photo": "photos/DOU_CIOCARELLI_PRESTON_2026-09-03.jpg"
+  },
+  {
+   "key": "DOU_GHOST_CAMERON_2026-09-25",
+   "name": "Cameron W Ghost",
+   "age": "30",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1792398019,
+   "photo": "photos/DOU_GHOST_CAMERON_2026-09-25.jpg"
+  },
+  {
+   "key": "DOU_HAMMOND_AMBER_2026-10-10",
+   "name": "Amber S Hammond",
+   "age": "40",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1792398016,
+   "photo": "photos/DOU_HAMMOND_AMBER_2026-10-10.jpg"
+  },
+  {
+   "key": "DOU_PEARSON_JAMES_2026-10-19",
+   "name": "James J Pearson",
+   "age": "52",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792398011,
+   "photo": null
+  },
   {
    "key": "RC_VAUGHN_JONATHAN_120011075394440",
    "name": "Jonathan W Vaughn",
@@ -18,7 +84,7 @@
    "age": "20",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under The Influence",
    "more": 0,
    "ts": 1792394959,
    "photo": "photos/RC_ORLANDO_ELLIOT_120011075395263.jpg"
@@ -84,7 +150,7 @@
    "age": "48",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Bail Jumping-felony",
    "more": 0,
    "ts": 1792387761,
    "photo": "photos/RC_GOODWIN_JERYALE_120011075392674.jpg"
@@ -95,7 +161,7 @@
    "age": "54",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Misdemeanor Battery",
    "more": 0,
    "ts": 1792387758,
    "photo": "photos/RC_BODNAR_FRANK_120011075392572.jpg"
@@ -131,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 21,
    "ts": 1792386063,
-   "photo": null
+   "photo": "photos/MKE_WATSON_DEUNTAE_608626.jpg"
   },
   {
    "key": "KEN_ANDROSCHKO_JODY_2026-00005770",
@@ -175,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792383366,
-   "photo": null
+   "photo": "photos/MKE_SERRANO_AMANI_647860.jpg"
   },
   {
    "key": "MKE_HARRIS_DEMARION_627263",
@@ -186,7 +252,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792383364,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_DEMARION_627263.jpg"
   },
   {
    "key": "CROWE_TERRANCE_2026-10-18",
@@ -208,18 +274,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792380654,
-   "photo": null
-  },
-  {
-   "key": "MKE_NIEMI_ALYSSA_647859",
-   "name": "Alyssa C Niemi",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792380652,
-   "photo": null
+   "photo": "photos/MKE_WEINBERG_ANTONIA_608556.jpg"
   },
   {
    "key": "FDL_BOGGAN_ODELL_2026-10-18",
@@ -464,28 +519,6 @@
    "photo": null
   },
   {
-   "key": "DOU_WALKER_AXON_2026-10-18",
-   "name": "Axon L Walker",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792304271,
-   "photo": null
-  },
-  {
-   "key": "MAR_BURDETT_HOLLY_2026-10-17",
-   "name": "Holly Gloria Burdett",
-   "age": "60",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Felony",
-   "more": 0,
-   "ts": 1792281459,
-   "photo": "photos/MAR_BURDETT_HOLLY_2026-10-17.jpg"
-  },
-  {
    "key": "AYALA_ANTONIO_2026-10-17",
    "name": "Antonio Ii Ayala",
    "age": "49",
@@ -494,39 +527,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 1,
    "ts": 1792270300,
-   "photo": null
-  },
-  {
-   "key": "FDL_SOMERSETT_TYRICE_2026-10-17",
-   "name": "Tyrice Markell Somersett",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "FAILURE TO APPEAR / WARRANTS (x0)",
-   "more": 0,
-   "ts": 1792264655,
-   "photo": "photos/FDL_SOMERSETT_TYRICE_2026-10-17.jpg"
-  },
-  {
-   "key": "FDL_MARTINEZRAMIREZ_ANTONINO_2026-10-17",
-   "name": "Antonino Martinez Ramirez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "OPERATE W/O VALID LICNSE (2ND OFFENSE W/IN 3 YEARS) (x0)",
-   "more": 0,
-   "ts": 1792264625,
-   "photo": null
-  },
-  {
-   "key": "FDL_CASTELLONVASQUEZ_DEIVIN_2026-10-17",
-   "name": "Deivin Eliuth Castellon Vasquez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792260974,
    "photo": null
   }
  ]
