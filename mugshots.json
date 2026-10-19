@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-19T08:49:33+00:00",
+ "updated": "2026-10-19T09:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_RIVERA_CHRISTINE_647861",
+   "name": "Christine Rivera",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792402249,
+   "photo": null
+  },
+  {
+   "key": "RC_EVANS_GARY_120011075396991",
+   "name": "Gary A Evans",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792402180,
+   "photo": null
+  },
+  {
+   "key": "TREM_LOPEZMORALES_JUAN_6181",
+   "name": "Juan Manuel Lopez Morales",
+   "age": "34",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792402134,
+   "photo": "photos/TREM_LOPEZMORALES_JUAN_6181.jpg"
+  },
   {
    "key": "MKE_VEGARAMOS_JESUS_539128",
    "name": "Jesus David Vega-Ramos",
@@ -73,8 +106,8 @@
    "age": "29",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Strangulation and Suffocation",
+   "more": 2,
    "ts": 1792394962,
    "photo": "photos/RC_VAUGHN_JONATHAN_120011075394440.jpg"
   },
@@ -244,17 +277,6 @@
    "photo": "photos/MKE_SERRANO_AMANI_647860.jpg"
   },
   {
-   "key": "MKE_HARRIS_DEMARION_627263",
-   "name": "Demarion L Harris",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792383364,
-   "photo": "photos/MKE_HARRIS_DEMARION_627263.jpg"
-  },
-  {
    "key": "CROWE_TERRANCE_2026-10-18",
    "name": "Terrance S Crowe",
    "age": "45",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1792382821,
    "photo": null
-  },
-  {
-   "key": "MKE_WEINBERG_ANTONIA_608556",
-   "name": "Antonia Rose Weinberg",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792380654,
-   "photo": "photos/MKE_WEINBERG_ANTONIA_608556.jpg"
   },
   {
    "key": "FDL_BOGGAN_ODELL_2026-10-18",
@@ -516,17 +527,6 @@
    "charge": "Disorderly Conduct",
    "more": 2,
    "ts": 1792307822,
-   "photo": null
-  },
-  {
-   "key": "AYALA_ANTONIO_2026-10-17",
-   "name": "Antonio Ii Ayala",
-   "age": "49",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1792270300,
    "photo": null
   }
  ]
