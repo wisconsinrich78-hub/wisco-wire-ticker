@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-19T21:49:27+00:00",
+ "updated": "2026-10-19T22:49:36+00:00",
  "items": [
+  {
+   "key": "KEN_KAPPENMAN_KYDEN_2026-00005787",
+   "name": "Kyden Janae Kappenman",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792448976,
+   "photo": "photos/KEN_KAPPENMAN_KYDEN_2026-00005787.jpg"
+  },
+  {
+   "key": "KEN_ESCOBAR_SONNY_2026-00005785",
+   "name": "Sonny Escobar",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792448845,
+   "photo": null
+  },
+  {
+   "key": "KEN_CONEJORAMIREZ_BRIAN_2026-00005786",
+   "name": "Brian Conejo-Ramirez",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792448779,
+   "photo": null
+  },
+  {
+   "key": "DOU_FLINT_MEGAN_2026-10-19",
+   "name": "Megan M Flint",
+   "age": "46",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792448276,
+   "photo": "photos/DOU_FLINT_MEGAN_2026-10-19.jpg"
+  },
+  {
+   "key": "MKE_PENDELTON_PASHONATE_647870",
+   "name": "Pashonate Cartisha Pendelton",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792448151,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRELL_XAVIER_297847",
+   "name": "Xavier Demetrius Harrell",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 22,
+   "ts": 1792448149,
+   "photo": null
+  },
   {
    "key": "KEN_NEAL_KESHAUN_2026-00005784",
    "name": "Keshaun Amriechris Neal",
@@ -51,8 +117,8 @@
    "age": "25",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Manufacture/Deliver THC (<=200 grams)",
+   "more": 3,
    "ts": 1792445364,
    "photo": "photos/RC_ALVAREZ_JESUS_120011075418377.jpg"
   },
@@ -143,61 +209,6 @@
    "more": 0,
    "ts": 1792437897,
    "photo": null
-  },
-  {
-   "key": "MKE_MASSEY_TIMOTHY_520178",
-   "name": "Timothy Romell Massey",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess with Intent-Cocaine (>40g)",
-   "more": 6,
-   "ts": 1792437816,
-   "photo": null
-  },
-  {
-   "key": "MKE_EDSTROM_LUCAS_647867",
-   "name": "Lucas John Edstrom",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1792437815,
-   "photo": "photos/MKE_EDSTROM_LUCAS_647867.jpg"
-  },
-  {
-   "key": "MKE_CLEMENTS_MARQUEL_603918",
-   "name": "Marquel Antonio Clements",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792437813,
-   "photo": null
-  },
-  {
-   "key": "KEN_BUTLER_RYAN_2026-00005780",
-   "name": "Ryan Casadian Butler",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Firearm-Convicted Of A Felony",
-   "more": 0,
-   "ts": 1792435738,
-   "photo": null
-  },
-  {
-   "key": "RC_MAYWEATHER_KMAREON_120011075413552",
-   "name": "Kmareon E Mayweather",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792434776,
-   "photo": "photos/RC_MAYWEATHER_KMAREON_120011075413552.jpg"
   },
   {
    "key": "FDL_SCHMITT_TURNER_2026-10-19",
@@ -429,17 +440,6 @@
    "more": 5,
    "ts": 1792398019,
    "photo": "photos/DOU_GHOST_CAMERON_2026-09-25.jpg"
-  },
-  {
-   "key": "DOU_HAMMOND_AMBER_2026-10-10",
-   "name": "Amber S Hammond",
-   "age": "40",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
-   "ts": 1792398016,
-   "photo": "photos/DOU_HAMMOND_AMBER_2026-10-10.jpg"
   },
   {
    "key": "OLSEN_DOROTHY_2026-10-19",
