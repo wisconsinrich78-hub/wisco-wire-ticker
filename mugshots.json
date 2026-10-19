@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-19T17:52:15+00:00",
+ "updated": "2026-10-19T18:52:37+00:00",
  "items": [
+  {
+   "key": "KEN_BUTLER_RYAN_2026-00005780",
+   "name": "Ryan Casadian Butler",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess Firearm-Convicted Of A Felony",
+   "more": 0,
+   "ts": 1792435738,
+   "photo": null
+  },
+  {
+   "key": "RC_MAYWEATHER_KMAREON_120011075413552",
+   "name": "Kmareon E Mayweather",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792434776,
+   "photo": "photos/RC_MAYWEATHER_KMAREON_120011075413552.jpg"
+  },
+  {
+   "key": "RC_BLOOMINGDALE_GAVIN_120011075413766",
+   "name": "Gavin Taylor Bloomingdale",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792434773,
+   "photo": null
+  },
+  {
+   "key": "FDL_SCHMITT_TURNER_2026-10-19",
+   "name": "Turner Randy Schmitt",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Revocation Order",
+   "more": 0,
+   "ts": 1792434048,
+   "photo": "photos/FDL_SCHMITT_TURNER_2026-10-19.jpg"
+  },
+  {
+   "key": "MKE_PATTERSON_KALON_246324",
+   "name": "Kalon Leon Patterson",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 1,
+   "ts": 1792433000,
+   "photo": null
+  },
+  {
+   "key": "MKE_GUZMAN_ALFREDO_618747",
+   "name": "Alfredo Luis Guzman",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792432998,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARCIA_NANDO_647866",
+   "name": "Nando Alex Garcia",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792432997,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_JERMAINE_617775",
+   "name": "Jermaine Edwards",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1792432995,
+   "photo": null
+  },
+  {
+   "key": "EDGE_VINCENT_2026-10-19",
+   "name": "Vincent M Edge",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1792432863,
+   "photo": null
+  },
   {
    "key": "RC_WHITE_HOWARD_120011075411972",
    "name": "Howard Lee White",
@@ -117,8 +216,8 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 3,
    "ts": 1792430479,
    "photo": null
   },
@@ -187,83 +286,6 @@
    "more": 0,
    "ts": 1792426833,
    "photo": "photos/FDL_EATON_ARSENIO_2026-10-19.jpg"
-  },
-  {
-   "key": "MKE_JENS_ZACHARY_639459",
-   "name": "Zachary James Jens",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Child Pornography",
-   "more": 11,
-   "ts": 1792426767,
-   "photo": null
-  },
-  {
-   "key": "MKE_HERRERADAVILA_DOMINGO_519865",
-   "name": "Domingo Junior Herrera-Davila",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
-   "more": 5,
-   "ts": 1792426764,
-   "photo": null
-  },
-  {
-   "key": "MKE_GAGE_DAVID_2059646",
-   "name": "David Ray Gage",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 3,
-   "ts": 1792426759,
-   "photo": "photos/MKE_GAGE_DAVID_2059646.jpg"
-  },
-  {
-   "key": "MKE_BELL_JOSHUA_623551",
-   "name": "Joshua J Bell",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792426756,
-   "photo": null
-  },
-  {
-   "key": "MKE_BAILEY_DWAUN_647865",
-   "name": "Dwaun P Bailey",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792426753,
-   "photo": null
-  },
-  {
-   "key": "MKE_TRIPP_BERNARD_2002379",
-   "name": "Bernard Frances Tripp",
-   "age": "80",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1792424490,
-   "photo": null
-  },
-  {
-   "key": "MKE_OKEEFE_PATRICK_2003417",
-   "name": "Patrick Sean Okeefe",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1792424487,
-   "photo": "photos/MKE_OKEEFE_PATRICK_2003417.jpg"
   },
   {
    "key": "FDL_ENDERS_RACHEL_2026-10-19",
@@ -505,28 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792332406,
-   "photo": null
-  },
-  {
-   "key": "FDL_WILSON_KEVIN_2026-10-18",
-   "name": "Kevin Lamont Wilson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 1,
-   "ts": 1792318668,
-   "photo": "photos/FDL_WILSON_KEVIN_2026-10-18.jpg"
-  },
-  {
-   "key": "STONE_CHRIS_2026-10-18",
-   "name": "Chris A Stone",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1792318005,
    "photo": null
   }
  ]
