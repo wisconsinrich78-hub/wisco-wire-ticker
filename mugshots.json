@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-19T18:52:37+00:00",
+ "updated": "2026-10-19T19:49:45+00:00",
  "items": [
+  {
+   "key": "BALDWIN_LARRY_2026-10-19",
+   "name": "Larry Adoniis Baldwin",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792437897,
+   "photo": null
+  },
+  {
+   "key": "MKE_MASSEY_TIMOTHY_520178",
+   "name": "Timothy Romell Massey",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 3,
+   "ts": 1792437816,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDSTROM_LUCAS_647867",
+   "name": "Lucas John Edstrom",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1792437815,
+   "photo": "photos/MKE_EDSTROM_LUCAS_647867.jpg"
+  },
+  {
+   "key": "MKE_CLEMENTS_MARQUEL_603918",
+   "name": "Marquel Antonio Clements",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792437813,
+   "photo": null
+  },
   {
    "key": "KEN_BUTLER_RYAN_2026-00005780",
    "name": "Ryan Casadian Butler",
@@ -51,7 +95,7 @@
    "age": "53",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "OWI (3rd)",
    "more": 1,
    "ts": 1792433000,
    "photo": null
@@ -233,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_LOVE_FREEDOM_400557",
-   "name": "Freedom Nathaniel Love",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1792430474,
-   "photo": null
-  },
-  {
    "key": "TORRESRODRIGUEZ_HERRY_2026-10-19",
    "name": "Herry Xavier Torres Rodriguez",
    "age": "35",
@@ -253,28 +286,6 @@
    "more": 0,
    "ts": 1792429663,
    "photo": null
-  },
-  {
-   "key": "KEN_MARCINKO_WILLIAM_2026-00005778",
-   "name": "WILLIAM ANTHONY Junior MARCINKO",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property <=$2500 (All Other Larceny)",
-   "more": 0,
-   "ts": 1792428199,
-   "photo": "photos/KEN_MARCINKO_WILLIAM_2026-00005778.jpg"
-  },
-  {
-   "key": "KEN_DANIELS_QUAMAY_2026-00005777",
-   "name": "Quamay Donovan Daniels",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Endanger Safety/Reckless Use Of Firearm",
-   "more": 0,
-   "ts": 1792428065,
-   "photo": "photos/KEN_DANIELS_QUAMAY_2026-00005777.jpg"
   },
   {
    "key": "FDL_EATON_ARSENIO_2026-10-19",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1792343838,
    "photo": "photos/FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18.jpg"
-  },
-  {
-   "key": "LUTZ_INDIA_2026-10-18",
-   "name": "India B Lutz",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792332406,
-   "photo": null
   }
  ]
 }
