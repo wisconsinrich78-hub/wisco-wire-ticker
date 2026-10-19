@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-19T12:49:34+00:00",
+ "updated": "2026-10-19T13:49:46+00:00",
  "items": [
+  {
+   "key": "KEN_JONES_CORY_2026-00005776",
+   "name": "CORY ANTHONY LASHAWN Junior JONES",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792417311,
+   "photo": "photos/KEN_JONES_CORY_2026-00005776.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_LAURA_647863",
+   "name": "Laura L Williams",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792415760,
+   "photo": null
+  },
+  {
+   "key": "MKE_SPENCE_DONELL_370246",
+   "name": "Donell Demetrius Spence",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792415759,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCCASTLE_TOWAND_285667",
+   "name": "Towand Chantell McCastle",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 0,
+   "ts": 1792415757,
+   "photo": null
+  },
+  {
+   "key": "MKE_BISHOP_TRAVIS_508927",
+   "name": "Travis D Bishop",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792415755,
+   "photo": null
+  },
   {
    "key": "MKE_SCHAEFER_JEFFREY_604806",
    "name": "Jeffrey A Schaefer",
@@ -10,7 +65,7 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1792413042,
-   "photo": null
+   "photo": "photos/MKE_SCHAEFER_JEFFREY_604806.jpg"
   },
   {
    "key": "MKE_IDRIS_HAMZA_636547",
@@ -18,8 +73,8 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 0,
+   "charge": "Possession of Methamphetamine",
+   "more": 1,
    "ts": 1792413040,
    "photo": null
   },
@@ -32,7 +87,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1792413038,
-   "photo": null
+   "photo": "photos/MKE_BOUCHARD_COLE_633666.jpg"
   },
   {
    "key": "MAR_DILLABOUGH_BETH_2026-10-19",
@@ -178,17 +233,6 @@
    "photo": "photos/MKE_RIVERA_CHRISTINE_647861.jpg"
   },
   {
-   "key": "RC_EVANS_GARY_120011075396991",
-   "name": "Gary A Evans",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792402180,
-   "photo": null
-  },
-  {
    "key": "TREM_LOPEZMORALES_JUAN_6181",
    "name": "Juan Manuel Lopez Morales",
    "age": "34",
@@ -198,17 +242,6 @@
    "more": 1,
    "ts": 1792402134,
    "photo": "photos/TREM_LOPEZMORALES_JUAN_6181.jpg"
-  },
-  {
-   "key": "MKE_VEGARAMOS_JESUS_539128",
-   "name": "Jesus David Vega-Ramos",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792399545,
-   "photo": "photos/MKE_VEGARAMOS_JESUS_539128.jpg"
   },
   {
    "key": "DOU_CARIGNAN_SHAWN_2026-07-06",
@@ -263,39 +296,6 @@
    "charge": "Charges:",
    "more": 1,
    "ts": 1792398011,
-   "photo": null
-  },
-  {
-   "key": "RC_VAUGHN_JONATHAN_120011075394440",
-   "name": "Jonathan W Vaughn",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Strangulation and Suffocation",
-   "more": 2,
-   "ts": 1792394962,
-   "photo": "photos/RC_VAUGHN_JONATHAN_120011075394440.jpg"
-  },
-  {
-   "key": "RC_ORLANDO_ELLIOT_120011075395263",
-   "name": "Elliot Nicholas Orlando",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1792394959,
-   "photo": "photos/RC_ORLANDO_ELLIOT_120011075395263.jpg"
-  },
-  {
-   "key": "KEN_WILSON_BETHANY_2026-00005772",
-   "name": "Bethany Maylene Wilson",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792392040,
    "photo": null
   },
   {
