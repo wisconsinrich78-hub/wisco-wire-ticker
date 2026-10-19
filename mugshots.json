@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-19T20:49:29+00:00",
+ "updated": "2026-10-19T21:49:27+00:00",
  "items": [
+  {
+   "key": "KEN_NEAL_KESHAUN_2026-00005784",
+   "name": "Keshaun Amriechris Neal",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792445538,
+   "photo": "photos/KEN_NEAL_KESHAUN_2026-00005784.jpg"
+  },
+  {
+   "key": "MKE_VELAQUEZ_SABINO_647869",
+   "name": "Sabino Jair Velaquez",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792445469,
+   "photo": null
+  },
+  {
+   "key": "KEN_AVILA_ALEXANDER_2026-00005783",
+   "name": "Alexander Avila",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1792445399,
+   "photo": "photos/KEN_AVILA_ALEXANDER_2026-00005783.jpg"
+  },
+  {
+   "key": "RC_ROMNEK_JONATHON_120011075418517",
+   "name": "Jonathon Barry Romnek",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792445367,
+   "photo": "photos/RC_ROMNEK_JONATHON_120011075418517.jpg"
+  },
+  {
+   "key": "RC_ALVAREZ_JESUS_120011075418377",
+   "name": "Jesus Alvarez",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792445364,
+   "photo": "photos/RC_ALVAREZ_JESUS_120011075418377.jpg"
+  },
+  {
+   "key": "DOU_WILBER_SAVANNAH_2026-10-19",
+   "name": "Savannah R Wilber",
+   "age": "23",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792444699,
+   "photo": "photos/DOU_WILBER_SAVANNAH_2026-10-19.jpg"
+  },
   {
    "key": "MKE_MANNERY_AMERHIANA_647868",
    "name": "Amerhiana A Mannery",
@@ -134,17 +200,6 @@
    "photo": "photos/RC_MAYWEATHER_KMAREON_120011075413552.jpg"
   },
   {
-   "key": "RC_BLOOMINGDALE_GAVIN_120011075413766",
-   "name": "Gavin Taylor Bloomingdale",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792434773,
-   "photo": null
-  },
-  {
    "key": "FDL_SCHMITT_TURNER_2026-10-19",
    "name": "Turner Randy Schmitt",
    "age": "",
@@ -154,50 +209,6 @@
    "more": 0,
    "ts": 1792434048,
    "photo": "photos/FDL_SCHMITT_TURNER_2026-10-19.jpg"
-  },
-  {
-   "key": "MKE_PATTERSON_KALON_246324",
-   "name": "Kalon Leon Patterson",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 1,
-   "ts": 1792433000,
-   "photo": null
-  },
-  {
-   "key": "MKE_GUZMAN_ALFREDO_618747",
-   "name": "Alfredo Luis Guzman",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792432998,
-   "photo": null
-  },
-  {
-   "key": "MKE_GARCIA_NANDO_647866",
-   "name": "Nando Alex Garcia",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792432997,
-   "photo": null
-  },
-  {
-   "key": "MKE_EDWARDS_JERMAINE_617775",
-   "name": "Jermaine Edwards",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1792432995,
-   "photo": null
   },
   {
    "key": "EDGE_VINCENT_2026-10-19",
@@ -429,17 +440,6 @@
    "more": 5,
    "ts": 1792398016,
    "photo": "photos/DOU_HAMMOND_AMBER_2026-10-10.jpg"
-  },
-  {
-   "key": "DOU_PEARSON_JAMES_2026-10-19",
-   "name": "James J Pearson",
-   "age": "52",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792398011,
-   "photo": null
   },
   {
    "key": "OLSEN_DOROTHY_2026-10-19",
