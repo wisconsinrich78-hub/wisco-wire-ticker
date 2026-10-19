@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-19T05:49:30+00:00",
+ "updated": "2026-10-19T06:49:30+00:00",
  "items": [
+  {
+   "key": "KEN_WILSON_BETHANY_2026-00005772",
+   "name": "Bethany Maylene Wilson",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792392040,
+   "photo": null
+  },
+  {
+   "key": "MKE_JASPER_SHUMBAY_607632",
+   "name": "Shumbay J Jasper",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792391473,
+   "photo": null
+  },
   {
    "key": "MKE_SELLERS_JONIQUE_381920",
    "name": "Jonique Alexandra Sellers",
@@ -21,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792388748,
-   "photo": null
+   "photo": "photos/MKE_MCBRIDE_ESSIX_358849.jpg"
   },
   {
    "key": "OLSEN_DOROTHY_2026-10-19",
@@ -211,17 +233,6 @@
    "photo": "photos/FDL_BOGGAN_ODELL_2026-10-18.jpg"
   },
   {
-   "key": "KEN_NORMAN_ROBERT_2026-00005769",
-   "name": "Robert D Norman",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792377838,
-   "photo": "photos/KEN_NORMAN_ROBERT_2026-00005769.jpg"
-  },
-  {
    "key": "KRUEGER_GREGORY_2026-10-18",
    "name": "Gregory M Krueger",
    "age": "73",
@@ -230,17 +241,6 @@
    "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 0,
    "ts": 1792375598,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRUZ_LUIS_611155",
-   "name": "Luis A Cruz",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792375272,
    "photo": null
   },
   {
