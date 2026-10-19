@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-18T23:49:32+00:00",
+ "updated": "2026-10-19T00:49:29+00:00",
  "items": [
+  {
+   "key": "KEN_VLCEK_TIARA_2026-00005768",
+   "name": "Tiara Lynn Vlcek",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792370436,
+   "photo": null
+  },
+  {
+   "key": "MELBOSTAD_JARED_2026-10-18",
+   "name": "Jared J Melbostad",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792370204,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLORWATKINS_YEMARRIUS_647856",
+   "name": "Yemarrius Verrell Taylor Watkins",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792369883,
+   "photo": null
+  },
+  {
+   "key": "RC_BIZZLE_COREY_120011075386053",
+   "name": "Corey Tarran Bizzle",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792369759,
+   "photo": "photos/RC_BIZZLE_COREY_120011075386053.jpg"
+  },
+  {
+   "key": "DOU_LAGREW_DAVID_2026-10-18",
+   "name": "David R Lagrew",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1792369075,
+   "photo": "photos/DOU_LAGREW_DAVID_2026-10-18.jpg"
+  },
+  {
+   "key": "MAR_MANN_ISAIAH_2026-10-18",
+   "name": "Isaiah T F Mann",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1792367517,
+   "photo": "photos/MAR_MANN_ISAIAH_2026-10-18.jpg"
+  },
+  {
+   "key": "MAR_GRAVEEN_DIANE_2026-10-18",
+   "name": "Diane Rachel Graveen",
+   "age": "51",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 2,
+   "ts": 1792367517,
+   "photo": "photos/MAR_GRAVEEN_DIANE_2026-10-18.jpg"
+  },
+  {
+   "key": "MAR_PETERS_JESSE_2026-10-18",
+   "name": "Jesse A Peters",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792367517,
+   "photo": "photos/MAR_PETERS_JESSE_2026-10-18.jpg"
+  },
+  {
+   "key": "MAR_BESON_DAVID_2026-10-18",
+   "name": "David Beson",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792367517,
+   "photo": null
+  },
+  {
+   "key": "MAR_DUNCAN_TIMOTHY_2026-10-17",
+   "name": "Timothy Allen Duncan",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792367517,
+   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-10-17.jpg"
+  },
+  {
+   "key": "MAR_ALSTEEN_JASON_2026-10-17",
+   "name": "Jason Richard Alsteen",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792367517,
+   "photo": "photos/MAR_ALSTEEN_JASON_2026-10-17.jpg"
+  },
   {
    "key": "MKE_SELLERS_SHANIKA_381919",
    "name": "Shanika Renee Sellers",
@@ -40,8 +161,8 @@
    "age": "30",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
+   "more": 2,
    "ts": 1792366171,
    "photo": "photos/RC_KING_JOSEPH_120011075384194.jpg"
   },
@@ -131,7 +252,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792359071,
-   "photo": null
+   "photo": "photos/MKE_MOREIRA_TARAH_647853.jpg"
   },
   {
    "key": "DOU_ONEILL_COLTON_2026-10-18",
@@ -176,39 +297,6 @@
    "more": 1,
    "ts": 1792348271,
    "photo": null
-  },
-  {
-   "key": "MKE_GREEN_ANDREAS_646228",
-   "name": "Andreas Montes Green",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792348269,
-   "photo": "photos/MKE_GREEN_ANDREAS_646228.jpg"
-  },
-  {
-   "key": "MKE_COLEMAN_ANTHONY_611711",
-   "name": "Anthony Lee Coleman",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792348267,
-   "photo": "photos/MKE_COLEMAN_ANTHONY_611711.jpg"
-  },
-  {
-   "key": "MKE_REA_ANTHONY_634852",
-   "name": "Anthony S Rea",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st)",
-   "more": 1,
-   "ts": 1792345565,
-   "photo": "photos/MKE_REA_ANTHONY_634852.jpg"
   },
   {
    "key": "FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18",
@@ -440,94 +528,6 @@
    "more": 0,
    "ts": 1792235832,
    "photo": "photos/FDL_PITTS_KEVIN_2026-10-17.jpg"
-  },
-  {
-   "key": "FDL_LOPEZMERLO_PEDRO_2026-10-17",
-   "name": "Pedro L Lopez-Merlo",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1792235816,
-   "photo": "photos/FDL_LOPEZMERLO_PEDRO_2026-10-17.jpg"
-  },
-  {
-   "key": "TREM_VOELKER_ALLEN_6179",
-   "name": "Allen Edward Voelker",
-   "age": "64",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated - 2nd Offense",
-   "more": 0,
-   "ts": 1792229325,
-   "photo": "photos/TREM_VOELKER_ALLEN_6179.jpg"
-  },
-  {
-   "key": "FDL_OBRIEN_DMITRY_2026-10-17",
-   "name": "Dmitry Aaron Obrien",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792217819,
-   "photo": "photos/FDL_OBRIEN_DMITRY_2026-10-17.jpg"
-  },
-  {
-   "key": "FDL_JONES_LARONTE_2026-08-24",
-   "name": "Laronte V Jones",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1792206998,
-   "photo": "photos/FDL_JONES_LARONTE_2026-08-24.jpg"
-  },
-  {
-   "key": "CLARK_AUSTIN_2026-10-16",
-   "name": "Austin J Clark",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792201006,
-   "photo": null
-  },
-  {
-   "key": "SPEK_COREY_2026-10-16",
-   "name": "Corey M Spek",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1792198304,
-   "photo": null
-  },
-  {
-   "key": "MAR_VANG_CHIONG_2026-10-16",
-   "name": "Chiong Vang",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792194295,
-   "photo": "photos/MAR_VANG_CHIONG_2026-10-16.jpg"
-  },
-  {
-   "key": "MAR_LO_JACOB_2026-10-16",
-   "name": "Jacob Allen Lo",
-   "age": "23",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1St-Degree Intentional Homicide Attempt Aggravated Assault",
-   "more": 14,
-   "ts": 1792194295,
-   "photo": "photos/MAR_LO_JACOB_2026-10-16.jpg"
   }
  ]
 }
