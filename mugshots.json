@@ -1,6 +1,160 @@
 {
- "updated": "2026-10-19T16:52:05+00:00",
+ "updated": "2026-10-19T17:52:15+00:00",
  "items": [
+  {
+   "key": "RC_WHITE_HOWARD_120011075411972",
+   "name": "Howard Lee White",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792431186,
+   "photo": "photos/RC_WHITE_HOWARD_120011075411972.jpg"
+  },
+  {
+   "key": "RC_SLOAN_BONNIE_120011075412592",
+   "name": "Bonnie Ann Sloan",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792431182,
+   "photo": null
+  },
+  {
+   "key": "RC_RUSH_KARAN_120011075412031",
+   "name": "Karan Terrell Rush",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792431179,
+   "photo": "photos/RC_RUSH_KARAN_120011075412031.jpg"
+  },
+  {
+   "key": "RC_BRISCO_KEION_120011075410870",
+   "name": "Keion Michael Brisco",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of a Firearm by a Felon",
+   "more": 0,
+   "ts": 1792431175,
+   "photo": "photos/RC_BRISCO_KEION_120011075410870.jpg"
+  },
+  {
+   "key": "DOU_SEMANKO_DAKOTA_2026-02-03",
+   "name": "Dakota D Semanko",
+   "age": "27",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792430713,
+   "photo": "photos/DOU_SEMANKO_DAKOTA_2026-02-03.jpg"
+  },
+  {
+   "key": "DOU_ADOLPHSON_NATHAN_2026-07-07",
+   "name": "Nathan R Adolphson",
+   "age": "40",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792430710,
+   "photo": "photos/DOU_ADOLPHSON_NATHAN_2026-07-07.jpg"
+  },
+  {
+   "key": "DOU_CAREY_BLANE_2026-09-04",
+   "name": "Blane C Carey",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792430708,
+   "photo": "photos/DOU_CAREY_BLANE_2026-09-04.jpg"
+  },
+  {
+   "key": "DOU_MACKIE_ARLENE_2026-09-26",
+   "name": "Arlene R Mackie",
+   "age": "56",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 6,
+   "ts": 1792430705,
+   "photo": "photos/DOU_MACKIE_ARLENE_2026-09-26.jpg"
+  },
+  {
+   "key": "DOU_BELT_LISA_2026-10-10",
+   "name": "Lisa E Belt",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792430702,
+   "photo": "photos/DOU_BELT_LISA_2026-10-10.jpg"
+  },
+  {
+   "key": "DOU_RESSLER_ANTHONY_2026-10-19",
+   "name": "Anthony A Ressler",
+   "age": "44",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792430699,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAPER_CHRISTOPHER_288147",
+   "name": "Christopher Wayne Taper",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792430479,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARMOLEJO_RAMON_2060045",
+   "name": "Ramon Marmolejo",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792430477,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOVE_FREEDOM_400557",
+   "name": "Freedom Nathaniel Love",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1792430474,
+   "photo": null
+  },
+  {
+   "key": "TORRESRODRIGUEZ_HERRY_2026-10-19",
+   "name": "Herry Xavier Torres Rodriguez",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1792429663,
+   "photo": null
+  },
   {
    "key": "KEN_MARCINKO_WILLIAM_2026-00005778",
    "name": "WILLIAM ANTHONY Junior MARCINKO",
@@ -65,7 +219,7 @@
    "charge": "Party to a Crime",
    "more": 3,
    "ts": 1792426759,
-   "photo": null
+   "photo": "photos/MKE_GAGE_DAVID_2059646.jpg"
   },
   {
    "key": "MKE_BELL_JOSHUA_623551",
@@ -109,40 +263,7 @@
    "charge": "Disorderly Conduct",
    "more": 2,
    "ts": 1792424487,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_ERONNIE_621170",
-   "name": "Eronnie E Johnson",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Adjudicated Delinquent",
-   "more": 0,
-   "ts": 1792424484,
-   "photo": null
-  },
-  {
-   "key": "RC_PRICE_ANIYA_120011075408146",
-   "name": "Aniya R Price",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792423869,
-   "photo": "photos/RC_PRICE_ANIYA_120011075408146.jpg"
-  },
-  {
-   "key": "RC_CROSS_DAMARI_120011075407143",
-   "name": "Damari Rejaun Cross",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792423866,
-   "photo": null
+   "photo": "photos/MKE_OKEEFE_PATRICK_2003417.jpg"
   },
   {
    "key": "FDL_ENDERS_RACHEL_2026-10-19",
@@ -156,39 +277,6 @@
    "photo": "photos/FDL_ENDERS_RACHEL_2026-10-19.jpg"
   },
   {
-   "key": "MKE_SYKES_SHWAN_632495",
-   "name": "Shwan Octivia Sykes",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792421831,
-   "photo": null
-  },
-  {
-   "key": "MKE_JONESLATTY_DANIELLE_415745",
-   "name": "Danielle Janae Jones-Latty",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792421829,
-   "photo": "photos/MKE_JONESLATTY_DANIELLE_415745.jpg"
-  },
-  {
-   "key": "MKE_BELL_CJ_647864",
-   "name": "CJ Bell",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792421826,
-   "photo": null
-  },
-  {
    "key": "SMITH_JUSTIN_2026-10-19",
    "name": "Justin Damont-Ty Smith",
    "age": "34",
@@ -198,17 +286,6 @@
    "more": 0,
    "ts": 1792418816,
    "photo": null
-  },
-  {
-   "key": "KEN_JONES_CORY_2026-00005776",
-   "name": "CORY ANTHONY LASHAWN Junior JONES",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792417311,
-   "photo": "photos/KEN_JONES_CORY_2026-00005776.jpg"
   },
   {
    "key": "MAR_DILLABOUGH_BETH_2026-10-19",
@@ -343,28 +420,6 @@
    "photo": null
   },
   {
-   "key": "DOU_SCHNEIDERWENT_SCOTT_2026-10-10",
-   "name": "Scott R Schneiderwent",
-   "age": "30",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792386978,
-   "photo": "photos/DOU_SCHNEIDERWENT_SCOTT_2026-10-10.jpg"
-  },
-  {
-   "key": "DOU_POLONIA_DANIEL_2026-10-18",
-   "name": "Daniel P Polonia",
-   "age": "44",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792386976,
-   "photo": null
-  },
-  {
    "key": "CROWE_TERRANCE_2026-10-18",
    "name": "Terrance S Crowe",
    "age": "45",
@@ -407,50 +462,6 @@
    "more": 0,
    "ts": 1792370204,
    "photo": null
-  },
-  {
-   "key": "DOU_LAGREW_DAVID_2026-10-18",
-   "name": "David R Lagrew",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1792369075,
-   "photo": "photos/DOU_LAGREW_DAVID_2026-10-18.jpg"
-  },
-  {
-   "key": "MAR_MANN_ISAIAH_2026-10-18",
-   "name": "Isaiah T F Mann",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1792367517,
-   "photo": "photos/MAR_MANN_ISAIAH_2026-10-18.jpg"
-  },
-  {
-   "key": "MAR_GRAVEEN_DIANE_2026-10-18",
-   "name": "Diane Rachel Graveen",
-   "age": "51",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 2,
-   "ts": 1792367517,
-   "photo": "photos/MAR_GRAVEEN_DIANE_2026-10-18.jpg"
-  },
-  {
-   "key": "MAR_PETERS_JESSE_2026-10-18",
-   "name": "Jesse A Peters",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792367517,
-   "photo": "photos/MAR_PETERS_JESSE_2026-10-18.jpg"
   },
   {
    "key": "WASHINGTON_RODERICK_2026-10-18",
@@ -516,17 +527,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 0,
    "ts": 1792318005,
-   "photo": null
-  },
-  {
-   "key": "FDL_LARSEN_JACOB_2026-10-18",
-   "name": "Jacob James Larsen",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792315013,
    "photo": null
   }
  ]
