@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-19T09:49:27+00:00",
+ "updated": "2026-10-19T10:49:33+00:00",
  "items": [
+  {
+   "key": "KEN_HOFFMAN_JAMES_2026-00005775",
+   "name": "JAMES ALBERT Third HOFFMAN",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792406500,
+   "photo": "photos/KEN_HOFFMAN_JAMES_2026-00005775.jpg"
+  },
+  {
+   "key": "RC_BONILLA_MIGUEL_120011075397452",
+   "name": "Miguel Bonilla",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792405765,
+   "photo": null
+  },
+  {
+   "key": "RC_BACK_JOHN_120011075397148",
+   "name": "John Lawrence Back",
+   "age": "58",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
+   "ts": 1792405762,
+   "photo": "photos/RC_BACK_JOHN_120011075397148.jpg"
+  },
   {
    "key": "MKE_RIVERA_CHRISTINE_647861",
    "name": "Christine Rivera",
@@ -142,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792391473,
-   "photo": null
+   "photo": "photos/MKE_JASPER_SHUMBAY_607632.jpg"
   },
   {
    "key": "MKE_SELLERS_JONIQUE_381920",
@@ -242,39 +275,6 @@
    "more": 2,
    "ts": 1792384983,
    "photo": "photos/KEN_ANDROSCHKO_JODY_2026-00005770.jpg"
-  },
-  {
-   "key": "RC_MATOVICH_CASSANDRA_120011075391023",
-   "name": "Cassandra Rose Matovich",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792384171,
-   "photo": "photos/RC_MATOVICH_CASSANDRA_120011075391023.jpg"
-  },
-  {
-   "key": "RC_MAGDALENO_LINDSEY_120011075391628",
-   "name": "Lindsey Helen Magdaleno",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792384168,
-   "photo": "photos/RC_MAGDALENO_LINDSEY_120011075391628.jpg"
-  },
-  {
-   "key": "MKE_SERRANO_AMANI_647860",
-   "name": "Amani L Serrano",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792383366,
-   "photo": "photos/MKE_SERRANO_AMANI_647860.jpg"
   },
   {
    "key": "CROWE_TERRANCE_2026-10-18",
