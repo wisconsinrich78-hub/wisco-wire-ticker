@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-19T11:49:30+00:00",
+ "updated": "2026-10-19T12:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_SCHAEFER_JEFFREY_604806",
+   "name": "Jeffrey A Schaefer",
+   "age": "61",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792413042,
+   "photo": null
+  },
+  {
+   "key": "MKE_IDRIS_HAMZA_636547",
+   "name": "Hamza Bin Idris",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 0,
+   "ts": 1792413040,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOUCHARD_COLE_633666",
+   "name": "Cole John Bouchard",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1792413038,
+   "photo": null
+  },
   {
    "key": "MAR_DILLABOUGH_BETH_2026-10-19",
    "name": "Beth Ann Dillabough",
@@ -142,7 +175,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792402249,
-   "photo": null
+   "photo": "photos/MKE_RIVERA_CHRISTINE_647861.jpg"
   },
   {
    "key": "RC_EVANS_GARY_120011075396991",
@@ -264,39 +297,6 @@
    "more": 0,
    "ts": 1792392040,
    "photo": null
-  },
-  {
-   "key": "MKE_JASPER_SHUMBAY_607632",
-   "name": "Shumbay J Jasper",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792391473,
-   "photo": "photos/MKE_JASPER_SHUMBAY_607632.jpg"
-  },
-  {
-   "key": "MKE_SELLERS_JONIQUE_381920",
-   "name": "Jonique Alexandra Sellers",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792388750,
-   "photo": "photos/MKE_SELLERS_JONIQUE_381920.jpg"
-  },
-  {
-   "key": "MKE_MCBRIDE_ESSIX_358849",
-   "name": "Essix Lance McBride",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792388748,
-   "photo": "photos/MKE_MCBRIDE_ESSIX_358849.jpg"
   },
   {
    "key": "OLSEN_DOROTHY_2026-10-19",
