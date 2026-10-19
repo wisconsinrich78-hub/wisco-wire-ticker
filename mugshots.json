@@ -1,14 +1,113 @@
 {
- "updated": "2026-10-19T10:49:33+00:00",
+ "updated": "2026-10-19T11:49:30+00:00",
  "items": [
+  {
+   "key": "MAR_DILLABOUGH_BETH_2026-10-19",
+   "name": "Beth Ann Dillabough",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1792410536,
+   "photo": null
+  },
+  {
+   "key": "MAR_DIGANGI_BENJAMIN_2026-10-19",
+   "name": "Benjamin Lawrence Digangi",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Carrying A Concealed Knife",
+   "more": 2,
+   "ts": 1792410536,
+   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-10-19.jpg"
+  },
+  {
+   "key": "MAR_WILLIAMS_DEMARCUS_2026-10-18",
+   "name": "Demarcus James Williams",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792410536,
+   "photo": "photos/MAR_WILLIAMS_DEMARCUS_2026-10-18.jpg"
+  },
+  {
+   "key": "MAR_NGUYEN_UYEN_2026-10-18",
+   "name": "Uyen Thi Phuong Nguyen",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1792410536,
+   "photo": "photos/MAR_NGUYEN_UYEN_2026-10-18.jpg"
+  },
+  {
+   "key": "MAR_CARDONARAMIREZ_LUIS_2026-10-18",
+   "name": "Luis D Cardona-Ramirez",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1792410536,
+   "photo": null
+  },
+  {
+   "key": "MKE_HTOO_BLUDOH_647862",
+   "name": "Bludoh Htoo",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792410353,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_JACOB_605047",
+   "name": "Jacob James Brown",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 3,
+   "ts": 1792410351,
+   "photo": null
+  },
+  {
+   "key": "MKE_FAYALEH_NISREEN_647237",
+   "name": "Nisreen Fayaleh",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792407655,
+   "photo": null
+  },
+  {
+   "key": "MKE_CREGO_DUSTIN_545125",
+   "name": "Dustin Brady Crego",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run",
+   "more": 0,
+   "ts": 1792407654,
+   "photo": null
+  },
   {
    "key": "KEN_HOFFMAN_JAMES_2026-00005775",
    "name": "JAMES ALBERT Third HOFFMAN",
    "age": "36",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 4,
    "ts": 1792406500,
    "photo": "photos/KEN_HOFFMAN_JAMES_2026-00005775.jpg"
   },
@@ -76,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792399545,
-   "photo": null
+   "photo": "photos/MKE_VEGARAMOS_JESUS_539128.jpg"
   },
   {
    "key": "DOU_CARIGNAN_SHAWN_2026-07-06",
@@ -211,28 +310,6 @@
    "photo": null
   },
   {
-   "key": "RC_GOODWIN_JERYALE_120011075392674",
-   "name": "Jeryale Damone Goodwin",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 0,
-   "ts": 1792387761,
-   "photo": "photos/RC_GOODWIN_JERYALE_120011075392674.jpg"
-  },
-  {
-   "key": "RC_BODNAR_FRANK_120011075392572",
-   "name": "Frank J Bodnar",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 0,
-   "ts": 1792387758,
-   "photo": "photos/RC_BODNAR_FRANK_120011075392572.jpg"
-  },
-  {
    "key": "DOU_SCHNEIDERWENT_SCOTT_2026-10-10",
    "name": "Scott R Schneiderwent",
    "age": "30",
@@ -253,28 +330,6 @@
    "more": 1,
    "ts": 1792386976,
    "photo": null
-  },
-  {
-   "key": "MKE_WATSON_DEUNTAE_608626",
-   "name": "Deuntae Tayveon Watson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 21,
-   "ts": 1792386063,
-   "photo": "photos/MKE_WATSON_DEUNTAE_608626.jpg"
-  },
-  {
-   "key": "KEN_ANDROSCHKO_JODY_2026-00005770",
-   "name": "Jody Frank Androschko",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating W/Pac (1St)",
-   "more": 2,
-   "ts": 1792384983,
-   "photo": "photos/KEN_ANDROSCHKO_JODY_2026-00005770.jpg"
   },
   {
    "key": "CROWE_TERRANCE_2026-10-18",
@@ -365,39 +420,6 @@
    "photo": "photos/MAR_PETERS_JESSE_2026-10-18.jpg"
   },
   {
-   "key": "MAR_BESON_DAVID_2026-10-18",
-   "name": "David Beson",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792367517,
-   "photo": null
-  },
-  {
-   "key": "MAR_DUNCAN_TIMOTHY_2026-10-17",
-   "name": "Timothy Allen Duncan",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792367517,
-   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-10-17.jpg"
-  },
-  {
-   "key": "MAR_ALSTEEN_JASON_2026-10-17",
-   "name": "Jason Richard Alsteen",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792367517,
-   "photo": "photos/MAR_ALSTEEN_JASON_2026-10-17.jpg"
-  },
-  {
    "key": "WASHINGTON_RODERICK_2026-10-18",
    "name": "Roderick M Washington",
    "age": "54",
@@ -406,17 +428,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792359403,
-   "photo": null
-  },
-  {
-   "key": "DOU_ONEILL_COLTON_2026-10-18",
-   "name": "Colton T Oneill",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792358263,
    "photo": null
   },
   {
@@ -440,17 +451,6 @@
    "more": 2,
    "ts": 1792343838,
    "photo": "photos/FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18.jpg"
-  },
-  {
-   "key": "DOU_HOULE_JOHN_2026-10-18",
-   "name": "John D Houle",
-   "age": "26",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792336675,
-   "photo": null
   },
   {
    "key": "LUTZ_INDIA_2026-10-18",
