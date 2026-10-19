@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-19T01:49:39+00:00",
+ "updated": "2026-10-19T02:49:29+00:00",
  "items": [
+  {
+   "key": "KEN_NORMAN_ROBERT_2026-00005769",
+   "name": "Robert D Norman",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792377838,
+   "photo": "photos/KEN_NORMAN_ROBERT_2026-00005769.jpg"
+  },
+  {
+   "key": "KRUEGER_GREGORY_2026-10-18",
+   "name": "Gregory M Krueger",
+   "age": "73",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 0,
+   "ts": 1792375598,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRUZ_LUIS_611155",
+   "name": "Luis A Cruz",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792375272,
+   "photo": null
+  },
   {
    "key": "MKE_DEAN_KEVIN_647857",
    "name": "Kevin Maurice Dean",
@@ -153,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792367152,
-   "photo": null
+   "photo": "photos/MKE_SELLERS_SHANIKA_381919.jpg"
   },
   {
    "key": "KEN_CENTENO_JOHNATHAN_2026-00005767",
@@ -208,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1792364456,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZ_SERGIO_510076.jpg"
   },
   {
    "key": "MKE_HICKS_DAZERIUS_640866",
@@ -230,7 +263,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792364453,
-   "photo": null
+   "photo": "photos/MKE_BRAZGEL_AMANDA_647855.jpg"
   },
   {
    "key": "KEN_GRAHAM_DANIEL_2026-00005766",
@@ -244,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SWIFT_LARON_647854",
-   "name": "Laron Demitrius Swift",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Out of State of Felony Statute in St",
-   "more": 2,
-   "ts": 1792361760,
-   "photo": null
-  },
-  {
    "key": "WASHINGTON_RODERICK_2026-10-18",
    "name": "Roderick M Washington",
    "age": "54",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1792359403,
    "photo": null
-  },
-  {
-   "key": "MKE_MOREIRA_TARAH_647853",
-   "name": "Tarah Triciah Moreira",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792359071,
-   "photo": "photos/MKE_MOREIRA_TARAH_647853.jpg"
   },
   {
    "key": "DOU_ONEILL_COLTON_2026-10-18",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792235863,
    "photo": "photos/DOU_TOLLEFSON_NOLAN_2026-10-17.jpg"
-  },
-  {
-   "key": "FDL_PITTS_KEVIN_2026-10-17",
-   "name": "Kevin C Pitts",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1792235832,
-   "photo": "photos/FDL_PITTS_KEVIN_2026-10-17.jpg"
   }
  ]
 }
