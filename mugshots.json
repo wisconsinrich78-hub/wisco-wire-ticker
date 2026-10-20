@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T20:49:52+00:00",
+ "updated": "2026-10-20T21:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_TRUSS_LEARNARDO_2025692",
+   "name": "Learnardo Truss",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792531864,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_CARNELL_643701",
+   "name": "Carnell Brandon Lewis",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 5,
+   "ts": 1792531862,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARDY_ANGELIQUE_647889",
+   "name": "Angelique Yvonne Hardy",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792531860,
+   "photo": null
+  },
+  {
+   "key": "DOU_PERRY_ANGEL_2026-10-20",
+   "name": "Angel K Perry",
+   "age": "27",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792531130,
+   "photo": null
+  },
+  {
+   "key": "FDL_GODINA_JESSE_2026-10-20",
+   "name": "Jesse Lee Godina",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792531013,
+   "photo": "photos/FDL_GODINA_JESSE_2026-10-20.jpg"
+  },
   {
    "key": "MKE_SMITH_COURTNEE_647887",
    "name": "Courtnee Renae Smith",
@@ -29,7 +84,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1792529232,
    "photo": null
@@ -153,39 +208,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792524575,
-   "photo": null
-  },
-  {
-   "key": "RC_BAKER_WENDELL_120011075458141",
-   "name": "Wendell Jc Baker",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1792524572,
-   "photo": "photos/RC_BAKER_WENDELL_120011075458141.jpg"
-  },
-  {
-   "key": "MKE_KING_GARIANNA_628681",
-   "name": "Garianna Z King",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792523792,
-   "photo": null
-  },
-  {
-   "key": "MKE_PEEBLES_TYWASIKA_636082",
-   "name": "Tywasika Donj Peebles",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1792521048,
    "photo": null
   },
   {
@@ -506,28 +528,6 @@
    "more": 3,
    "ts": 1792454670,
    "photo": "photos/MAR_LYNCH_CHEYENNE_2026-10-19.jpg"
-  },
-  {
-   "key": "MAR_ZELECHOWSKI_ROGER_2026-10-19",
-   "name": "Roger Alen Zelechowski",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792454670,
-   "photo": "photos/MAR_ZELECHOWSKI_ROGER_2026-10-19.jpg"
-  },
-  {
-   "key": "BALDWIN_LARRY_2026-10-19",
-   "name": "Larry Adoniis Baldwin",
-   "age": "31",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792437897,
-   "photo": null
   }
  ]
 }
