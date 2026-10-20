@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T13:49:43+00:00",
+ "updated": "2026-10-20T14:50:39+00:00",
  "items": [
+  {
+   "key": "JENSEN_JESSE_2026-10-20",
+   "name": "Jesse J Jensen",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792505230,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_KEISHA_503469",
+   "name": "Keisha Keandra Williams",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792504870,
+   "photo": null
+  },
   {
    "key": "RC_SHELL_FISHER_120011075438341",
    "name": "Fisher James Shell",
@@ -18,7 +40,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1792502196,
    "photo": null
@@ -32,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792502193,
-   "photo": null
+   "photo": "photos/MKE_IVERSON_DANA_647884.jpg"
   },
   {
    "key": "MKE_TRIPLETT_BRIAN_266812",
@@ -242,17 +264,6 @@
    "more": 0,
    "ts": 1792488558,
    "photo": "photos/RC_JONES_JORDAN_120011075434275.jpg"
-  },
-  {
-   "key": "RC_BERRYMAN_JADA_120011075434547",
-   "name": "Jada Rachelle Berryman",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 2,
-   "ts": 1792488555,
-   "photo": "photos/RC_BERRYMAN_JADA_120011075434547.jpg"
   },
   {
    "key": "TREM_LUSK_JAMES_6058",
@@ -516,17 +527,6 @@
    "charge": "Bail Jumping-Felony",
    "more": 1,
    "ts": 1792432863,
-   "photo": null
-  },
-  {
-   "key": "TORRESRODRIGUEZ_HERRY_2026-10-19",
-   "name": "Herry Xavier Torres Rodriguez",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1792429663,
    "photo": null
   }
  ]
