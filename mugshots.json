@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-20T18:49:31+00:00",
+ "updated": "2026-10-20T19:49:48+00:00",
  "items": [
+  {
+   "key": "RC_WATT_LEROY_120011075458285",
+   "name": "Leroy Deandre Watt",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792524587,
+   "photo": "photos/RC_WATT_LEROY_120011075458285.jpg"
+  },
+  {
+   "key": "RC_RINCON_JONATHAN_120011075458046",
+   "name": "Jonathan Rincon",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792524584,
+   "photo": null
+  },
+  {
+   "key": "RC_LOPEZGOMEZ_CARLOS_120011075457732",
+   "name": "Carlos M Lopez Gomez",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792524582,
+   "photo": null
+  },
+  {
+   "key": "RC_HERNANDEZREYES_LORENZO_120011075457835",
+   "name": "Lorenzo A Hernandez Reyes",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792524580,
+   "photo": "photos/RC_HERNANDEZREYES_LORENZO_120011075457835.jpg"
+  },
+  {
+   "key": "RC_HERNANDEZ_JUAN_120011075457527",
+   "name": "Juan Hernandez",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792524577,
+   "photo": null
+  },
+  {
+   "key": "RC_DUHANEY_ANDRAE_120011075458371",
+   "name": "Andrae R Duhaney",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792524575,
+   "photo": null
+  },
+  {
+   "key": "RC_BAKER_WENDELL_120011075458141",
+   "name": "Wendell Jc Baker",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
+   "more": 0,
+   "ts": 1792524572,
+   "photo": "photos/RC_BAKER_WENDELL_120011075458141.jpg"
+  },
+  {
+   "key": "MKE_KING_GARIANNA_628681",
+   "name": "Garianna Z King",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792523792,
+   "photo": null
+  },
   {
    "key": "MKE_PEEBLES_TYWASIKA_636082",
    "name": "Tywasika Donj Peebles",
@@ -62,8 +150,8 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Battery",
+   "more": 1,
    "ts": 1792520563,
    "photo": "photos/KEN_ONEAL_IAN_2026-00005809.jpg"
   },
@@ -90,61 +178,6 @@
    "photo": null
   },
   {
-   "key": "MKE_FORD_MONTROIE_380787",
-   "name": "Montroie Stephen Ford",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Intimidate Victim/Domestic Abuse Crime",
-   "more": 12,
-   "ts": 1792518359,
-   "photo": null
-  },
-  {
-   "key": "MKE_DORGAY_MICHELE_2035852",
-   "name": "Michele M Dorgay",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792518357,
-   "photo": null
-  },
-  {
-   "key": "RC_DUPUIS_ISAAC_120011075450168",
-   "name": "Isaac Richard Dupuis",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Veh. Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1792517384,
-   "photo": "photos/RC_DUPUIS_ISAAC_120011075450168.jpg"
-  },
-  {
-   "key": "KEN_SIMS_WILLIE_2026-00005807",
-   "name": "Willie David Sims",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L 3Rd + Offense",
-   "more": 4,
-   "ts": 1792517098,
-   "photo": "photos/KEN_SIMS_WILLIE_2026-00005807.jpg"
-  },
-  {
-   "key": "KEN_CAMPOLO_JOANN_2026-00005806",
-   "name": "Joann Lynn Campolo",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792516904,
-   "photo": "photos/KEN_CAMPOLO_JOANN_2026-00005806.jpg"
-  },
-  {
    "key": "DOU_BUCHANAN_LUCKY_2026-10-20",
    "name": "Lucky R Buchanan",
    "age": "19",
@@ -153,39 +186,6 @@
    "charge": "Charges:",
    "more": 2,
    "ts": 1792516563,
-   "photo": null
-  },
-  {
-   "key": "MKE_REYES_ANGEL_647886",
-   "name": "Angel Francisco Reyes",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792515751,
-   "photo": "photos/MKE_REYES_ANGEL_647886.jpg"
-  },
-  {
-   "key": "MKE_HENDERSON_RODERICK_355677",
-   "name": "Roderick Maurice Henderson",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792515748,
-   "photo": null
-  },
-  {
-   "key": "MKE_FRANKLIN_KENNETH_388503",
-   "name": "Kenneth Allen Franklin",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1792515744,
    "photo": null
   },
   {
