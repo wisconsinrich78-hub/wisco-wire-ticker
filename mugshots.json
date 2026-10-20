@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T09:49:35+00:00",
+ "updated": "2026-10-20T10:49:44+00:00",
  "items": [
+  {
+   "key": "DEGREGG_MICHAEL_2026-10-20",
+   "name": "Michael D Degregg",
+   "age": "48",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792491700,
+   "photo": null
+  },
+  {
+   "key": "FDL_MEYER_SHAWN_2026-10-20",
+   "name": "Shawn M Meyer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792491418,
+   "photo": "photos/FDL_MEYER_SHAWN_2026-10-20.jpg"
+  },
   {
    "key": "MKE_TRIBLETT_JESSICA_411730",
    "name": "Jessica V Triblett",
@@ -10,7 +32,7 @@
    "charge": "Violate/Harassment Restraining Order",
    "more": 4,
    "ts": 1792488681,
-   "photo": null
+   "photo": "photos/MKE_TRIBLETT_JESSICA_411730.jpg"
   },
   {
    "key": "MKE_MORSE_LEIGHTON_647883",
@@ -18,8 +40,8 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792488679,
    "photo": null
   },
@@ -32,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792488677,
-   "photo": null
+   "photo": "photos/MKE_ARTEAGA_ARIANNA_647882.jpg"
   },
   {
    "key": "RC_OZIER_DAMIYAH_120011075434766",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792426833,
    "photo": "photos/FDL_EATON_ARSENIO_2026-10-19.jpg"
-  },
-  {
-   "key": "FDL_ENDERS_RACHEL_2026-10-19",
-   "name": "Rachel Louise Enders",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1792423087,
-   "photo": "photos/FDL_ENDERS_RACHEL_2026-10-19.jpg"
-  },
-  {
-   "key": "SMITH_JUSTIN_2026-10-19",
-   "name": "Justin Damont-Ty Smith",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Justice Sanctions",
-   "more": 0,
-   "ts": 1792418816,
-   "photo": null
   }
  ]
 }
