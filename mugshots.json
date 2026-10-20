@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T02:49:35+00:00",
+ "updated": "2026-10-20T03:49:39+00:00",
  "items": [
+  {
+   "key": "MKE_ROBERSONHILLS_JAMAR_417104",
+   "name": "Jamar JaJuan Roberson-Hills",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792467057,
+   "photo": null
+  },
+  {
+   "key": "MKE_AVERY_BRENDA_647877",
+   "name": "Brenda S Avery",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792467055,
+   "photo": null
+  },
+  {
+   "key": "KEN_LENFESTEY_WAYLON_2026-00005790",
+   "name": "Waylon Jacob Lenfestey",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792467028,
+   "photo": "photos/KEN_LENFESTEY_WAYLON_2026-00005790.jpg"
+  },
+  {
+   "key": "KEN_OMALLEY_MICHAEL_2026-00005789",
+   "name": "MICHAEL PATRICK Junior OMALLEY",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1792466892,
+   "photo": "photos/KEN_OMALLEY_MICHAEL_2026-00005789.jpg"
+  },
+  {
+   "key": "DUBOIS_MARVIN_2026-10-19",
+   "name": "Marvin Douglas Dubois",
+   "age": "57",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792465620,
+   "photo": null
+  },
   {
    "key": "MKE_PUGH_CHRISTOPHER_647876",
    "name": "Christopher Rayshawn Pugh",
@@ -40,8 +95,8 @@
    "age": "20",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Retail Theft - Intentionally Take - (<=$500)(UCR >=$200)",
+   "more": 2,
    "ts": 1792463357,
    "photo": "photos/RC_HARGROVEMCKINLEY_RAMON_120011075427815.jpg"
   },
@@ -165,17 +220,6 @@
    "more": 0,
    "ts": 1792456158,
    "photo": null
-  },
-  {
-   "key": "KEN_ROBINSON_NYA_2026-00005788",
-   "name": "Nya Michelle Robinson",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792456025,
-   "photo": "photos/KEN_ROBINSON_NYA_2026-00005788.jpg"
   },
   {
    "key": "DOU_DOOLITTLE_GREGORY_2026-03-03",
@@ -343,39 +387,6 @@
    "photo": "photos/MAR_SCHULTZ_ALEXANDER_2026-10-19.jpg"
   },
   {
-   "key": "MKE_POWELL_MARLON_221577",
-   "name": "Marlon Jemal Powell",
-   "age": "57",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1792453551,
-   "photo": "photos/MKE_POWELL_MARLON_221577.jpg"
-  },
-  {
-   "key": "MKE_MUEHE_MAXWELL_647872",
-   "name": "Maxwell Jacob Muehe",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run-Involve Injury",
-   "more": 0,
-   "ts": 1792453549,
-   "photo": null
-  },
-  {
-   "key": "MKE_MONTIJO_CAITLYN_2052842",
-   "name": "Caitlyn Brianna Montijo",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Violation of Individual at Risk Restraining Order",
-   "more": 0,
-   "ts": 1792453547,
-   "photo": null
-  },
-  {
    "key": "DOU_FLINT_MEGAN_2026-10-19",
    "name": "Megan M Flint",
    "age": "46",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792379779,
    "photo": "photos/FDL_BOGGAN_ODELL_2026-10-18.jpg"
-  },
-  {
-   "key": "KRUEGER_GREGORY_2026-10-18",
-   "name": "Gregory M Krueger",
-   "age": "73",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 0,
-   "ts": 1792375598,
-   "photo": null
   }
  ]
 }
