@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-20T00:49:31+00:00",
+ "updated": "2026-10-20T01:49:36+00:00",
  "items": [
+  {
+   "key": "RC_MAINUS_JESSICA_120011075426078",
+   "name": "Jessica Lee Mainus",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792459764,
+   "photo": "photos/RC_MAINUS_JESSICA_120011075426078.jpg"
+  },
+  {
+   "key": "RC_BOYLE_JENNIFER_120011075426295",
+   "name": "Jennifer Lynn Boyle",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792459761,
+   "photo": "photos/RC_BOYLE_JENNIFER_120011075426295.jpg"
+  },
+  {
+   "key": "CARABALLO_ADAM_2026-10-19",
+   "name": "Adam Jacob Caraballo",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792459718,
+   "photo": null
+  },
+  {
+   "key": "KEN_ESCOBAR_SONNY_2026-00005785",
+   "name": "Sonny M Escobar",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 3,
+   "ts": 1792459641,
+   "photo": "photos/KEN_ESCOBAR_SONNY_2026-00005785.jpg"
+  },
+  {
+   "key": "MKE_LONEELK_MICAH_647875",
+   "name": "Micah A Lone Elk",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792458984,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRUZ_IRAIDA_647874",
+   "name": "Iraida Mari Cruz",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792458982,
+   "photo": null
+  },
+  {
+   "key": "REED_LYNSEY_2026-10-19",
+   "name": "Lynsey A Reed",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792457498,
+   "photo": null
+  },
   {
    "key": "MKE_JANASIK_EDMUND_647873",
    "name": "Edmund Janasik",
@@ -288,61 +365,6 @@
    "photo": "photos/RC_CONLEY_LONNELL_120011075421738.jpg"
   },
   {
-   "key": "RC_BLACKMON_KENNETH_120011075421942",
-   "name": "Kenneth Lee Blackmon",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 2,
-   "ts": 1792452561,
-   "photo": "photos/RC_BLACKMON_KENNETH_120011075421942.jpg"
-  },
-  {
-   "key": "MKE_WILKERSON_DEMETRIUS_255144",
-   "name": "Demetrius Terrance Wilkerson",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Drive or Operate Vehicle w/o Consent",
-   "more": 1,
-   "ts": 1792450850,
-   "photo": null
-  },
-  {
-   "key": "MKE_KNIGHT_DONTRELL_384414",
-   "name": "Dontrell Dushawn Knight",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 2,
-   "ts": 1792450848,
-   "photo": null
-  },
-  {
-   "key": "MKE_IHRCKE_CAIN_645536",
-   "name": "Cain Michael Ihrcke",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 1,
-   "ts": 1792450846,
-   "photo": null
-  },
-  {
-   "key": "MKE_CABRERASERRANO_HUMBERTO_647871",
-   "name": "Humberto D Cabreraserrano",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792450845,
-   "photo": "photos/MKE_CABRERASERRANO_HUMBERTO_647871.jpg"
-  },
-  {
    "key": "DOU_FLINT_MEGAN_2026-10-19",
    "name": "Megan M Flint",
    "age": "46",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792370204,
    "photo": null
-  },
-  {
-   "key": "WASHINGTON_RODERICK_2026-10-18",
-   "name": "Roderick M Washington",
-   "age": "54",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792359403,
-   "photo": null
-  },
-  {
-   "key": "FDL_GREGORIOHERNADEZ_EDUARDO_2026-10-18",
-   "name": "Eduardo Gregoriohernadez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine",
-   "more": 1,
-   "ts": 1792350995,
-   "photo": "photos/FDL_GREGORIOHERNADEZ_EDUARDO_2026-10-18.jpg"
   }
  ]
 }
