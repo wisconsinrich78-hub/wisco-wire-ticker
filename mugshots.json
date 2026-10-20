@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T10:49:44+00:00",
+ "updated": "2026-10-20T11:49:43+00:00",
  "items": [
+  {
+   "key": "MKE_PAVLOVIC_DRAGAN_525969",
+   "name": "Dragan Pavlovic",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792496797,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENSON_LEON_612850",
+   "name": "Leon James Benson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 2,
+   "ts": 1792496795,
+   "photo": null
+  },
   {
    "key": "DEGREGG_MICHAEL_2026-10-20",
    "name": "Michael D Degregg",
@@ -43,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792488679,
-   "photo": null
+   "photo": "photos/MKE_MORSE_LEIGHTON_647883.jpg"
   },
   {
    "key": "MKE_ARTEAGA_ARIANNA_647882",
@@ -73,7 +95,7 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Unemployment Compensation Fraud",
    "more": 0,
    "ts": 1792488558,
    "photo": "photos/RC_JONES_JORDAN_120011075434275.jpg"
@@ -84,8 +106,8 @@
    "age": "24",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
    "ts": 1792488555,
    "photo": "photos/RC_BERRYMAN_JADA_120011075434547.jpg"
   },
@@ -153,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792483273,
-   "photo": null
+   "photo": "photos/MKE_SMITH_LAVANTE_2060797.jpg"
   },
   {
    "key": "MKE_KAMP_LONNY_325423",
@@ -186,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792483268,
-   "photo": null
+   "photo": "photos/MKE_GRINNAGE_DORIEN_647881.jpg"
   },
   {
    "key": "VUE_KEVIN_2026-10-20",
@@ -198,28 +220,6 @@
    "more": 0,
    "ts": 1792481797,
    "photo": null
-  },
-  {
-   "key": "RC_HANSEN_VAUGHN_120011075432812",
-   "name": "Vaughn Robert Hansen",
-   "age": "71",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792481358,
-   "photo": "photos/RC_HANSEN_VAUGHN_120011075432812.jpg"
-  },
-  {
-   "key": "MKE_MORRIS_STATAYSHA_647880",
-   "name": "Stataysha Loushay Morris",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792480550,
-   "photo": "photos/MKE_MORRIS_STATAYSHA_647880.jpg"
   },
   {
    "key": "SULLIVAN_BRAXTON_2026-10-20",
