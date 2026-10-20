@@ -1,13 +1,79 @@
 {
- "updated": "2026-10-20T17:49:32+00:00",
+ "updated": "2026-10-20T18:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_PEEBLES_TYWASIKA_636082",
+   "name": "Tywasika Donj Peebles",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1792521048,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLARK_CAMAURISE_604290",
+   "name": "Camaurise Devon Clark",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-Amphetamine(>10-50g)",
+   "more": 20,
+   "ts": 1792521047,
+   "photo": null
+  },
+  {
+   "key": "RC_KOGER_KENNETH_120011075456162",
+   "name": "Kenneth R Koger",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792520961,
+   "photo": "photos/RC_KOGER_KENNETH_120011075456162.jpg"
+  },
+  {
+   "key": "RC_DUARTE_HECTOR_120011075456095",
+   "name": "Hector L Duarte",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792520958,
+   "photo": "photos/RC_DUARTE_HECTOR_120011075456095.jpg"
+  },
+  {
+   "key": "KEN_PATTERSON_QUENTIN_2026-00005808",
+   "name": "Quentin Travarge Patterson",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Damage To Property",
+   "more": 3,
+   "ts": 1792520634,
+   "photo": "photos/KEN_PATTERSON_QUENTIN_2026-00005808.jpg"
+  },
+  {
+   "key": "KEN_ONEAL_IAN_2026-00005809",
+   "name": "Ian Ranndal Oneal",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792520563,
+   "photo": "photos/KEN_ONEAL_IAN_2026-00005809.jpg"
+  },
   {
    "key": "MKE_KLOTH_MICHAEL_2046116",
    "name": "Michael B Kloth",
    "age": "41",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Methamphetamine",
+   "charge": "Battery",
    "more": 2,
    "ts": 1792518362,
    "photo": null
@@ -51,7 +117,7 @@
    "age": "48",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Veh. Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1792517384,
    "photo": "photos/RC_DUPUIS_ISAAC_120011075450168.jpg"
@@ -62,8 +128,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operate W/O Valid D/L 3Rd + Offense",
+   "more": 4,
    "ts": 1792517098,
    "photo": "photos/KEN_SIMS_WILLIE_2026-00005807.jpg"
   },
@@ -123,28 +189,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BROWN_PATRICK_605870",
-   "name": "Patrick D Brown",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792515743,
-   "photo": null
-  },
-  {
-   "key": "RC_DECORAH_JONES_120011075446849",
-   "name": "Jones Nmn Decorah",
-   "age": "68",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792513757,
-   "photo": "photos/RC_DECORAH_JONES_120011075446849.jpg"
-  },
-  {
    "key": "FDL_DENSLOW_ANTHONY_2026-10-20",
    "name": "Anthony Steven Denslow",
    "age": "",
@@ -154,50 +198,6 @@
    "more": 0,
    "ts": 1792512990,
    "photo": "photos/FDL_DENSLOW_ANTHONY_2026-10-20.jpg"
-  },
-  {
-   "key": "MKE_MORDI_EMEKA_647826",
-   "name": "Emeka Mordi",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792512979,
-   "photo": "photos/MKE_MORDI_EMEKA_647826.jpg"
-  },
-  {
-   "key": "MKE_MITCHELLELLIS_ARMANDO_639518",
-   "name": "Armando Cornelius Mitchell-Ellis",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792512977,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARRIS_REGINALD_173469",
-   "name": "Reginald Harris",
-   "age": "61",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792512974,
-   "photo": null
-  },
-  {
-   "key": "MKE_POE_TEYANNA_624296",
-   "name": "Teyanna Antoinette Poe",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792510302,
-   "photo": "photos/MKE_POE_TEYANNA_624296.jpg"
   },
   {
    "key": "FDL_NETT_MARIO_2026-10-20",
