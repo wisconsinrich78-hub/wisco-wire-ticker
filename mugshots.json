@@ -1,16 +1,126 @@
 {
- "updated": "2026-10-20T11:49:43+00:00",
+ "updated": "2026-10-20T12:49:26+00:00",
  "items": [
+  {
+   "key": "MKE_TRIPLETT_BRIAN_266812",
+   "name": "Brian Deshond Triplett",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792499496,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEARSON_KILYNE_293644",
+   "name": "Kilyne Ivory Pearson",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 2,
+   "ts": 1792499494,
+   "photo": "photos/MKE_PEARSON_KILYNE_293644.jpg"
+  },
+  {
+   "key": "MKE_HAYES_DIONTAE_622317",
+   "name": "Diontae Lashaun Hayes",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792499493,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARR_JAMES_2067468",
+   "name": "James Carr",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1792499490,
+   "photo": null
+  },
+  {
+   "key": "KEN_JOHANSEN_CRISTOPHER_2026-00005796",
+   "name": "Cristopher Johansen",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "TLPD - Disorderly Conduct",
+   "more": 2,
+   "ts": 1792498871,
+   "photo": null
+  },
+  {
+   "key": "FDL_PAGLIARO_SYMPHONIE_2026-10-20",
+   "name": "Symphonie Sasha Pagliaro",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
+   "more": 2,
+   "ts": 1792498641,
+   "photo": "photos/FDL_PAGLIARO_SYMPHONIE_2026-10-20.jpg"
+  },
+  {
+   "key": "MAR_YOUNG_PORSCHA_2026-10-19",
+   "name": "Porscha Rae Young",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1792497808,
+   "photo": null
+  },
+  {
+   "key": "MAR_MARG_JOHN_2026-10-19",
+   "name": "John Matthew Marg",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792497808,
+   "photo": null
+  },
+  {
+   "key": "MAR_MCDUFFY_DWIGHT_2026-10-19",
+   "name": "Dwight Dion Mcduffy",
+   "age": "51",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear - Ncic Misdemeanor",
+   "more": 0,
+   "ts": 1792497808,
+   "photo": null
+  },
+  {
+   "key": "MAR_GARINGER_DARCIA_2026-10-19",
+   "name": "Darcia Lynn Garinger",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1792497808,
+   "photo": null
+  },
   {
    "key": "MKE_PAVLOVIC_DRAGAN_525969",
    "name": "Dragan Pavlovic",
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
+   "more": 35,
    "ts": 1792496797,
-   "photo": null
+   "photo": "photos/MKE_PAVLOVIC_DRAGAN_525969.jpg"
   },
   {
    "key": "MKE_BENSON_LEON_612850",
@@ -21,7 +131,7 @@
    "charge": "Criminal Trespass to Dwelling",
    "more": 2,
    "ts": 1792496795,
-   "photo": null
+   "photo": "photos/MKE_BENSON_LEON_612850.jpg"
   },
   {
    "key": "DEGREGG_MICHAEL_2026-10-20",
@@ -84,8 +194,8 @@
    "age": "20",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 6,
    "ts": 1792488560,
    "photo": "photos/RC_OZIER_DAMIYAH_120011075434766.jpg"
   },
@@ -154,61 +264,6 @@
    "more": 0,
    "ts": 1792484938,
    "photo": null
-  },
-  {
-   "key": "KEN_HOPKINS_MAURELL_2026-00005794",
-   "name": "Maurell Avere Hopkins",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792484868,
-   "photo": null
-  },
-  {
-   "key": "MKE_SMITH_LAVANTE_2060797",
-   "name": "Lavante Smith",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792483273,
-   "photo": "photos/MKE_SMITH_LAVANTE_2060797.jpg"
-  },
-  {
-   "key": "MKE_KAMP_LONNY_325423",
-   "name": "Lonny Heath Kamp",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792483271,
-   "photo": "photos/MKE_KAMP_LONNY_325423.jpg"
-  },
-  {
-   "key": "MKE_HINTON_MAURICE_308006",
-   "name": "Maurice Leon Hinton",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792483270,
-   "photo": "photos/MKE_HINTON_MAURICE_308006.jpg"
-  },
-  {
-   "key": "MKE_GRINNAGE_DORIEN_647881",
-   "name": "Dorien Deandre Grinnage",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792483268,
-   "photo": "photos/MKE_GRINNAGE_DORIEN_647881.jpg"
   },
   {
    "key": "VUE_KEVIN_2026-10-20",
@@ -431,50 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_HOLIDAY_BRANDON_2026-10-19",
-   "name": "Brandon K Holiday",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1792454670,
-   "photo": "photos/MAR_HOLIDAY_BRANDON_2026-10-19.jpg"
-  },
-  {
-   "key": "MAR_SCHULTZ_ALEXANDER_2026-10-19",
-   "name": "Alexander Michael Schultz",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792454670,
-   "photo": "photos/MAR_SCHULTZ_ALEXANDER_2026-10-19.jpg"
-  },
-  {
-   "key": "DOU_FLINT_MEGAN_2026-10-19",
-   "name": "Megan M Flint",
-   "age": "46",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792448276,
-   "photo": "photos/DOU_FLINT_MEGAN_2026-10-19.jpg"
-  },
-  {
-   "key": "DOU_WILBER_SAVANNAH_2026-10-19",
-   "name": "Savannah R Wilber",
-   "age": "23",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792444699,
-   "photo": "photos/DOU_WILBER_SAVANNAH_2026-10-19.jpg"
-  },
-  {
    "key": "BALDWIN_LARRY_2026-10-19",
    "name": "Larry Adoniis Baldwin",
    "age": "31",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792429663,
    "photo": null
-  },
-  {
-   "key": "FDL_EATON_ARSENIO_2026-10-19",
-   "name": "Arsenio Lamont Eaton",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792426833,
-   "photo": "photos/FDL_EATON_ARSENIO_2026-10-19.jpg"
   }
  ]
 }
