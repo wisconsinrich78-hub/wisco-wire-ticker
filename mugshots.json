@@ -1,6 +1,215 @@
 {
- "updated": "2026-10-19T23:49:39+00:00",
+ "updated": "2026-10-20T00:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_JANASIK_EDMUND_647873",
+   "name": "Edmund Janasik",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792456257,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEAN_ANTHONY_629657",
+   "name": "Anthony Ladale Bean",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792456256,
+   "photo": null
+  },
+  {
+   "key": "RC_JIMENEZ_MIGUEL_120011075425093",
+   "name": "Miguel A Jimenez",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792456158,
+   "photo": null
+  },
+  {
+   "key": "KEN_ROBINSON_NYA_2026-00005788",
+   "name": "Nya Michelle Robinson",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792456025,
+   "photo": "photos/KEN_ROBINSON_NYA_2026-00005788.jpg"
+  },
+  {
+   "key": "DOU_DOOLITTLE_GREGORY_2026-03-03",
+   "name": "Gregory M Doolittle",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792455504,
+   "photo": "photos/DOU_DOOLITTLE_GREGORY_2026-03-03.jpg"
+  },
+  {
+   "key": "DOU_ROBINSON_JODESTON_2026-07-07",
+   "name": "Jodeston T Robinson",
+   "age": "32",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1792455502,
+   "photo": "photos/DOU_ROBINSON_JODESTON_2026-07-07.jpg"
+  },
+  {
+   "key": "DOU_ROYBAL_FELICIA_2026-09-04",
+   "name": "Felicia M Roybal",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792455500,
+   "photo": "photos/DOU_ROYBAL_FELICIA_2026-09-04.jpg"
+  },
+  {
+   "key": "DOU_BENJAMIN_BARBARA_2026-09-26",
+   "name": "Barbara M Benjamin",
+   "age": "67",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792455497,
+   "photo": "photos/DOU_BENJAMIN_BARBARA_2026-09-26.jpg"
+  },
+  {
+   "key": "DOU_ALWINE_AARON_2026-10-10",
+   "name": "Aaron D Alwine",
+   "age": "46",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792455493,
+   "photo": "photos/DOU_ALWINE_AARON_2026-10-10.jpg"
+  },
+  {
+   "key": "DOU_GORDON_AYLA_2026-10-19",
+   "name": "Ayla G Gordon",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792455490,
+   "photo": "photos/DOU_GORDON_AYLA_2026-10-19.jpg"
+  },
+  {
+   "key": "FDL_PENAHERNANDEZ_ROUSSE_2026-10-19",
+   "name": "Rousse M Pena Hernandez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "CRIMINAL DAMAGE TO PROPERTY NO DRUGS OR ALC (x2)",
+   "more": 2,
+   "ts": 1792455452,
+   "photo": null
+  },
+  {
+   "key": "MAR_PENNINGTON_TIMOTHY_2026-10-19",
+   "name": "Timothy Orion Pennington",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792454670,
+   "photo": "photos/MAR_PENNINGTON_TIMOTHY_2026-10-19.jpg"
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-10-19",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1792454670,
+   "photo": "photos/MAR_ALSOWITI_RHEA_2026-10-19.jpg"
+  },
+  {
+   "key": "MAR_LYNCH_CHEYENNE_2026-10-19",
+   "name": "Cheyenne Michael Lynch",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked",
+   "more": 3,
+   "ts": 1792454670,
+   "photo": "photos/MAR_LYNCH_CHEYENNE_2026-10-19.jpg"
+  },
+  {
+   "key": "MAR_ZELECHOWSKI_ROGER_2026-10-19",
+   "name": "Roger Alen Zelechowski",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792454670,
+   "photo": "photos/MAR_ZELECHOWSKI_ROGER_2026-10-19.jpg"
+  },
+  {
+   "key": "MAR_ELDRIDGE_TRAVIS_2026-10-19",
+   "name": "Travis James Eldridge",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1792454670,
+   "photo": null
+  },
+  {
+   "key": "MAR_WENDT_JAKE_2026-10-19",
+   "name": "Jake Michael Wendt",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792454670,
+   "photo": null
+  },
+  {
+   "key": "MAR_HOLIDAY_BRANDON_2026-10-19",
+   "name": "Brandon K Holiday",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 3,
+   "ts": 1792454670,
+   "photo": "photos/MAR_HOLIDAY_BRANDON_2026-10-19.jpg"
+  },
+  {
+   "key": "MAR_SCHULTZ_ALEXANDER_2026-10-19",
+   "name": "Alexander Michael Schultz",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792454670,
+   "photo": "photos/MAR_SCHULTZ_ALEXANDER_2026-10-19.jpg"
+  },
   {
    "key": "MKE_POWELL_MARLON_221577",
    "name": "Marlon Jemal Powell",
@@ -131,40 +340,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792450845,
-   "photo": null
-  },
-  {
-   "key": "KEN_KAPPENMAN_KYDEN_2026-00005787",
-   "name": "Kyden Janae Kappenman",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792448976,
-   "photo": "photos/KEN_KAPPENMAN_KYDEN_2026-00005787.jpg"
-  },
-  {
-   "key": "KEN_ESCOBAR_SONNY_2026-00005785",
-   "name": "Sonny Escobar",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792448845,
-   "photo": null
-  },
-  {
-   "key": "KEN_CONEJORAMIREZ_BRIAN_2026-00005786",
-   "name": "Brian Conejo-Ramirez",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792448779,
-   "photo": null
+   "photo": "photos/MKE_CABRERASERRANO_HUMBERTO_647871.jpg"
   },
   {
    "key": "DOU_FLINT_MEGAN_2026-10-19",
@@ -176,17 +352,6 @@
    "more": 2,
    "ts": 1792448276,
    "photo": "photos/DOU_FLINT_MEGAN_2026-10-19.jpg"
-  },
-  {
-   "key": "MKE_PENDELTON_PASHONATE_647870",
-   "name": "Pashonate Cartisha Pendelton",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792448151,
-   "photo": null
   },
   {
    "key": "DOU_WILBER_SAVANNAH_2026-10-19",
@@ -230,72 +395,6 @@
    "charge": "Bail Jumping-Felony",
    "more": 1,
    "ts": 1792432863,
-   "photo": null
-  },
-  {
-   "key": "DOU_SEMANKO_DAKOTA_2026-02-03",
-   "name": "Dakota D Semanko",
-   "age": "27",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792430713,
-   "photo": "photos/DOU_SEMANKO_DAKOTA_2026-02-03.jpg"
-  },
-  {
-   "key": "DOU_ADOLPHSON_NATHAN_2026-07-07",
-   "name": "Nathan R Adolphson",
-   "age": "40",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792430710,
-   "photo": "photos/DOU_ADOLPHSON_NATHAN_2026-07-07.jpg"
-  },
-  {
-   "key": "DOU_CAREY_BLANE_2026-09-04",
-   "name": "Blane C Carey",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792430708,
-   "photo": "photos/DOU_CAREY_BLANE_2026-09-04.jpg"
-  },
-  {
-   "key": "DOU_MACKIE_ARLENE_2026-09-26",
-   "name": "Arlene R Mackie",
-   "age": "56",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 6,
-   "ts": 1792430705,
-   "photo": "photos/DOU_MACKIE_ARLENE_2026-09-26.jpg"
-  },
-  {
-   "key": "DOU_BELT_LISA_2026-10-10",
-   "name": "Lisa E Belt",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792430702,
-   "photo": "photos/DOU_BELT_LISA_2026-10-10.jpg"
-  },
-  {
-   "key": "DOU_RESSLER_ANTHONY_2026-10-19",
-   "name": "Anthony A Ressler",
-   "age": "44",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792430699,
    "photo": null
   },
   {
@@ -343,61 +442,6 @@
    "photo": null
   },
   {
-   "key": "MAR_DILLABOUGH_BETH_2026-10-19",
-   "name": "Beth Ann Dillabough",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1792410536,
-   "photo": null
-  },
-  {
-   "key": "MAR_DIGANGI_BENJAMIN_2026-10-19",
-   "name": "Benjamin Lawrence Digangi",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Carrying A Concealed Knife",
-   "more": 2,
-   "ts": 1792410536,
-   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-10-19.jpg"
-  },
-  {
-   "key": "MAR_WILLIAMS_DEMARCUS_2026-10-18",
-   "name": "Demarcus James Williams",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792410536,
-   "photo": "photos/MAR_WILLIAMS_DEMARCUS_2026-10-18.jpg"
-  },
-  {
-   "key": "MAR_NGUYEN_UYEN_2026-10-18",
-   "name": "Uyen Thi Phuong Nguyen",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1792410536,
-   "photo": "photos/MAR_NGUYEN_UYEN_2026-10-18.jpg"
-  },
-  {
-   "key": "MAR_CARDONARAMIREZ_LUIS_2026-10-18",
-   "name": "Luis D Cardona-Ramirez",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1792410536,
-   "photo": null
-  },
-  {
    "key": "TREM_LOPEZMORALES_JUAN_6181",
    "name": "Juan Manuel Lopez Morales",
    "age": "34",
@@ -407,39 +451,6 @@
    "more": 1,
    "ts": 1792402134,
    "photo": "photos/TREM_LOPEZMORALES_JUAN_6181.jpg"
-  },
-  {
-   "key": "DOU_CARIGNAN_SHAWN_2026-07-06",
-   "name": "Shawn A Carignan",
-   "age": "40",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792398024,
-   "photo": "photos/DOU_CARIGNAN_SHAWN_2026-07-06.jpg"
-  },
-  {
-   "key": "DOU_CIOCARELLI_PRESTON_2026-09-03",
-   "name": "Preston L Ciocarelli",
-   "age": "41",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792398022,
-   "photo": "photos/DOU_CIOCARELLI_PRESTON_2026-09-03.jpg"
-  },
-  {
-   "key": "DOU_GHOST_CAMERON_2026-09-25",
-   "name": "Cameron W Ghost",
-   "age": "30",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
-   "ts": 1792398019,
-   "photo": "photos/DOU_GHOST_CAMERON_2026-09-25.jpg"
   },
   {
    "key": "OLSEN_DOROTHY_2026-10-19",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792350995,
    "photo": "photos/FDL_GREGORIOHERNADEZ_EDUARDO_2026-10-18.jpg"
-  },
-  {
-   "key": "FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18",
-   "name": "Junior H Murillo Martinez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Failure To Appear / Warrants",
-   "more": 2,
-   "ts": 1792343838,
-   "photo": "photos/FDL_MURILLOMARTINEZ_JUNIOR_2026-10-18.jpg"
   }
  ]
 }
