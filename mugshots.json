@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-20T22:49:55+00:00",
+ "updated": "2026-10-20T23:53:03+00:00",
  "items": [
+  {
+   "key": "MKE_MORROW_STANLEY_622686",
+   "name": "Stanley Corinthan Morrow",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 1,
+   "ts": 1792540278,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILL_ANTHONY_361773",
+   "name": "Anthony Lamar Hill",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 3,
+   "ts": 1792540277,
+   "photo": null
+  },
+  {
+   "key": "MKE_HEGG_BRADLEY_647891",
+   "name": "Bradley James Hegg",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft by Contractor <=$2500",
+   "more": 0,
+   "ts": 1792540275,
+   "photo": null
+  },
+  {
+   "key": "BANKS_KEYONA_2026-10-20",
+   "name": "Keyona R Banks",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792539827,
+   "photo": null
+  },
+  {
+   "key": "MKE_VELASQUEZHERRERA_NELSON_642478",
+   "name": "Nelson Velasquez Herrera",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Drive or Operate Vehicle w/o Consent",
+   "more": 1,
+   "ts": 1792537275,
+   "photo": null
+  },
+  {
+   "key": "MKE_FREDA_ISAIAH_642900",
+   "name": "Isaiah Eliel Freda",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1792537273,
+   "photo": "photos/MKE_FREDA_ISAIAH_642900.jpg"
+  },
+  {
+   "key": "MKE_CONNER_DASHAWN_620446",
+   "name": "Dashawn Lamar Conner",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 5,
+   "ts": 1792537271,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLEES_LAURA_644626",
+   "name": "Laura Catherine Clees",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1792537269,
+   "photo": "photos/MKE_CLEES_LAURA_644626.jpg"
+  },
   {
    "key": "RC_KIRKPATRICK_KYLE_120011075462981",
    "name": "Kyle William Kirkpatrick",
@@ -123,28 +211,6 @@
    "photo": "photos/RC_TELLEZ_ANTONIO_120011075458990.jpg"
   },
   {
-   "key": "RC_ROGERS_ANTOINE_120011075458630",
-   "name": "Antoine J Rogers",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792528196,
-   "photo": "photos/RC_ROGERS_ANTOINE_120011075458630.jpg"
-  },
-  {
-   "key": "RC_MILLER_MELISSA_120011075459042",
-   "name": "Melissa Sue Miller",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine (2nd and subsequent)",
-   "more": 0,
-   "ts": 1792528192,
-   "photo": "photos/RC_MILLER_MELISSA_120011075459042.jpg"
-  },
-  {
    "key": "DOU_FRINK_ALYSHA_2026-10-20",
    "name": "Alysha L Frink",
    "age": "33",
@@ -154,61 +220,6 @@
    "more": 2,
    "ts": 1792527572,
    "photo": null
-  },
-  {
-   "key": "MKE_JONES_GERALD_626105",
-   "name": "Gerald Avant Jones",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1792526657,
-   "photo": null
-  },
-  {
-   "key": "RC_WATT_LEROY_120011075458285",
-   "name": "Leroy Deandre Watt",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792524587,
-   "photo": "photos/RC_WATT_LEROY_120011075458285.jpg"
-  },
-  {
-   "key": "RC_RINCON_JONATHAN_120011075458046",
-   "name": "Jonathan Rincon",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792524584,
-   "photo": null
-  },
-  {
-   "key": "RC_LOPEZGOMEZ_CARLOS_120011075457732",
-   "name": "Carlos M Lopez Gomez",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792524582,
-   "photo": null
-  },
-  {
-   "key": "RC_HERNANDEZREYES_LORENZO_120011075457835",
-   "name": "Lorenzo A Hernandez Reyes",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792524580,
-   "photo": "photos/RC_HERNANDEZREYES_LORENZO_120011075457835.jpg"
   },
   {
    "key": "DOU_BUCHANAN_LUCKY_2026-10-20",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1792454670,
    "photo": "photos/MAR_ALSOWITI_RHEA_2026-10-19.jpg"
-  },
-  {
-   "key": "MAR_LYNCH_CHEYENNE_2026-10-19",
-   "name": "Cheyenne Michael Lynch",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked",
-   "more": 3,
-   "ts": 1792454670,
-   "photo": "photos/MAR_LYNCH_CHEYENNE_2026-10-19.jpg"
   }
  ]
 }
