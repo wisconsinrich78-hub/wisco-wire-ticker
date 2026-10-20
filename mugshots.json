@@ -1,6 +1,138 @@
 {
- "updated": "2026-10-20T16:49:39+00:00",
+ "updated": "2026-10-20T17:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_KLOTH_MICHAEL_2046116",
+   "name": "Michael B Kloth",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Methamphetamine",
+   "more": 2,
+   "ts": 1792518362,
+   "photo": null
+  },
+  {
+   "key": "MKE_KARLIK_MICHAEL_289378",
+   "name": "Michael John Karlik",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 2,
+   "ts": 1792518361,
+   "photo": null
+  },
+  {
+   "key": "MKE_FORD_MONTROIE_380787",
+   "name": "Montroie Stephen Ford",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Intimidate Victim/Domestic Abuse Crime",
+   "more": 12,
+   "ts": 1792518359,
+   "photo": null
+  },
+  {
+   "key": "MKE_DORGAY_MICHELE_2035852",
+   "name": "Michele M Dorgay",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792518357,
+   "photo": null
+  },
+  {
+   "key": "RC_DUPUIS_ISAAC_120011075450168",
+   "name": "Isaac Richard Dupuis",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792517384,
+   "photo": "photos/RC_DUPUIS_ISAAC_120011075450168.jpg"
+  },
+  {
+   "key": "KEN_SIMS_WILLIE_2026-00005807",
+   "name": "Willie David Sims",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792517098,
+   "photo": "photos/KEN_SIMS_WILLIE_2026-00005807.jpg"
+  },
+  {
+   "key": "KEN_CAMPOLO_JOANN_2026-00005806",
+   "name": "Joann Lynn Campolo",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792516904,
+   "photo": "photos/KEN_CAMPOLO_JOANN_2026-00005806.jpg"
+  },
+  {
+   "key": "DOU_BUCHANAN_LUCKY_2026-10-20",
+   "name": "Lucky R Buchanan",
+   "age": "19",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792516563,
+   "photo": null
+  },
+  {
+   "key": "MKE_REYES_ANGEL_647886",
+   "name": "Angel Francisco Reyes",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792515751,
+   "photo": "photos/MKE_REYES_ANGEL_647886.jpg"
+  },
+  {
+   "key": "MKE_HENDERSON_RODERICK_355677",
+   "name": "Roderick Maurice Henderson",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792515748,
+   "photo": null
+  },
+  {
+   "key": "MKE_FRANKLIN_KENNETH_388503",
+   "name": "Kenneth Allen Franklin",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 7,
+   "ts": 1792515744,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_PATRICK_605870",
+   "name": "Patrick D Brown",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792515743,
+   "photo": null
+  },
   {
    "key": "RC_DECORAH_JONES_120011075446849",
    "name": "Jones Nmn Decorah",
@@ -65,95 +197,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792510302,
-   "photo": null
-  },
-  {
-   "key": "MKE_MYRICK_JAYLIN_647885",
-   "name": "Jaylin N Myrick",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792510300,
-   "photo": "photos/MKE_MYRICK_JAYLIN_647885.jpg"
-  },
-  {
-   "key": "MKE_JIMENEZTORRES_ZADIEL_618387",
-   "name": "Zadiel Jetzel Jimenez-Torres",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1792510296,
-   "photo": "photos/MKE_JIMENEZTORRES_ZADIEL_618387.jpg"
-  },
-  {
-   "key": "MKE_COLEMAN_TERRANCE_292307",
-   "name": "Terrance Julius Coleman",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792510294,
-   "photo": null
-  },
-  {
-   "key": "RC_KING_KURTIS_120011075442607",
-   "name": "Kurtis Lee King",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792510198,
-   "photo": "photos/RC_KING_KURTIS_120011075442607.jpg"
-  },
-  {
-   "key": "KEN_MCCLURE_JORDAN_2026-00005803",
-   "name": "Jordan Michael Mcclure",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1792509974,
-   "photo": "photos/KEN_MCCLURE_JORDAN_2026-00005803.jpg"
-  },
-  {
-   "key": "KEN_MARTIN_NATHANIEL_2026-00005802",
-   "name": "Nathaniel William Martin",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792509904,
-   "photo": "photos/KEN_MARTIN_NATHANIEL_2026-00005802.jpg"
-  },
-  {
-   "key": "KEN_EZELL_HENRY_2026-00005805",
-   "name": "Henry Zackerize Ezell",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792509829,
-   "photo": "photos/KEN_EZELL_HENRY_2026-00005805.jpg"
-  },
-  {
-   "key": "KEN_AGUIRRE_RICARDO_2026-00005804",
-   "name": "Ricardo Aguirre",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 6,
-   "ts": 1792509757,
-   "photo": "photos/KEN_AGUIRRE_RICARDO_2026-00005804.jpg"
+   "photo": "photos/MKE_POE_TEYANNA_624296.jpg"
   },
   {
    "key": "FDL_NETT_MARIO_2026-10-20",
@@ -176,39 +220,6 @@
    "more": 0,
    "ts": 1792505230,
    "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_KEISHA_503469",
-   "name": "Keisha Keandra Williams",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792504870,
-   "photo": "photos/MKE_WILLIAMS_KEISHA_503469.jpg"
-  },
-  {
-   "key": "RC_SHELL_FISHER_120011075438341",
-   "name": "Fisher James Shell",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792503122,
-   "photo": null
-  },
-  {
-   "key": "MKE_SINCLAIR_MICHAEL_259238",
-   "name": "Michael E Sinclair",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792502196,
-   "photo": "photos/MKE_SINCLAIR_MICHAEL_259238.jpg"
   },
   {
    "key": "FDL_PAGLIARO_SYMPHONIE_2026-10-20",
@@ -503,17 +514,6 @@
    "county": "Marathon County",
    "region": "northwest",
    "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1792454670,
-   "photo": null
-  },
-  {
-   "key": "MAR_WENDT_JAKE_2026-10-19",
-   "name": "Jake Michael Wendt",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
    "more": 0,
    "ts": 1792454670,
    "photo": null
