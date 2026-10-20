@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-20T08:49:32+00:00",
+ "updated": "2026-10-20T09:49:35+00:00",
  "items": [
+  {
+   "key": "MKE_TRIBLETT_JESSICA_411730",
+   "name": "Jessica V Triblett",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Violate/Harassment Restraining Order",
+   "more": 4,
+   "ts": 1792488681,
+   "photo": null
+  },
+  {
+   "key": "MKE_MORSE_LEIGHTON_647883",
+   "name": "Leighton Taylor Morse",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792488679,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARTEAGA_ARIANNA_647882",
+   "name": "Arianna Marie Arteaga",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792488677,
+   "photo": null
+  },
+  {
+   "key": "RC_OZIER_DAMIYAH_120011075434766",
+   "name": "Damiyah Nyasia Ozier",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792488560,
+   "photo": "photos/RC_OZIER_DAMIYAH_120011075434766.jpg"
+  },
+  {
+   "key": "RC_JONES_JORDAN_120011075434275",
+   "name": "Jordan Jerral Jones",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792488558,
+   "photo": "photos/RC_JONES_JORDAN_120011075434275.jpg"
+  },
+  {
+   "key": "RC_BERRYMAN_JADA_120011075434547",
+   "name": "Jada Rachelle Berryman",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792488555,
+   "photo": "photos/RC_BERRYMAN_JADA_120011075434547.jpg"
+  },
+  {
+   "key": "TREM_LUSK_JAMES_6058",
+   "name": "James David Lusk",
+   "age": "60",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1792488514,
+   "photo": "photos/TREM_LUSK_JAMES_6058.jpg"
+  },
   {
    "key": "RC_ROBINSON_RICKY_120011075433592",
    "name": "Ricky D Robinson",
@@ -65,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792483271,
-   "photo": null
+   "photo": "photos/MKE_KAMP_LONNY_325423.jpg"
   },
   {
    "key": "MKE_HINTON_MAURICE_308006",
@@ -76,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792483270,
-   "photo": null
+   "photo": "photos/MKE_HINTON_MAURICE_308006.jpg"
   },
   {
    "key": "MKE_GRINNAGE_DORIEN_647881",
@@ -123,28 +200,6 @@
    "photo": "photos/MKE_MORRIS_STATAYSHA_647880.jpg"
   },
   {
-   "key": "RC_WILLIAMS_KOLAIND_120011075431628",
-   "name": "Kolaind Brazil Williams",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792477775,
-   "photo": "photos/RC_WILLIAMS_KOLAIND_120011075431628.jpg"
-  },
-  {
-   "key": "RC_RICHER_THOMAS_120011075432441",
-   "name": "Thomas Anthony Richer",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792477772,
-   "photo": null
-  },
-  {
    "key": "SULLIVAN_BRAXTON_2026-10-20",
    "name": "Braxton C Sullivan",
    "age": "28",
@@ -156,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "KEN_JONES_JORDAN_2026-00005793",
-   "name": "Jordan Jerrell Jones",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792477316,
-   "photo": null
-  },
-  {
    "key": "MCCOY_WILLIAM_2026-10-20",
    "name": "William E Mccoy",
    "age": "50",
@@ -175,39 +219,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792476407,
-   "photo": null
-  },
-  {
-   "key": "MKE_IRELAND_ZYIR_647879",
-   "name": "Zyir Ireland",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792475150,
-   "photo": "photos/MKE_IRELAND_ZYIR_647879.jpg"
-  },
-  {
-   "key": "KEN_RODARTESANCHEZ_JORGE_2026-00005791",
-   "name": "Jorge Rodarte-Sanchez",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Improperly Attached License Plates",
-   "more": 3,
-   "ts": 1792473742,
-   "photo": null
-  },
-  {
-   "key": "KEN_LABARRE_KEITH_2026-00005792",
-   "name": "Keith Kenneth Labarre",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792473667,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792418816,
    "photo": null
-  },
-  {
-   "key": "TREM_LOPEZMORALES_JUAN_6181",
-   "name": "Juan Manuel Lopez Morales",
-   "age": "34",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792402134,
-   "photo": "photos/TREM_LOPEZMORALES_JUAN_6181.jpg"
   }
  ]
 }
