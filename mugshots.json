@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-20T07:49:33+00:00",
+ "updated": "2026-10-20T08:49:32+00:00",
  "items": [
+  {
+   "key": "RC_ROBINSON_RICKY_120011075433592",
+   "name": "Ricky D Robinson",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792484981,
+   "photo": null
+  },
+  {
+   "key": "RC_CRAFT_DARIUS_120011075434177",
+   "name": "Darius Xavier Craft",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792484979,
+   "photo": null
+  },
+  {
+   "key": "KEN_WILLIAMS_TRAVIS_2026-00005795",
+   "name": "TRAVIS JAMES Junior WILLIAMS",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792484938,
+   "photo": null
+  },
+  {
+   "key": "KEN_HOPKINS_MAURELL_2026-00005794",
+   "name": "Maurell Avere Hopkins",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792484868,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_LAVANTE_2060797",
+   "name": "Lavante Smith",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792483273,
+   "photo": null
+  },
+  {
+   "key": "MKE_KAMP_LONNY_325423",
+   "name": "Lonny Heath Kamp",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792483271,
+   "photo": null
+  },
+  {
+   "key": "MKE_HINTON_MAURICE_308006",
+   "name": "Maurice Leon Hinton",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792483270,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRINNAGE_DORIEN_647881",
+   "name": "Dorien Deandre Grinnage",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792483268,
+   "photo": null
+  },
   {
    "key": "VUE_KEVIN_2026-10-20",
    "name": "Kevin Nmi Vue",
@@ -32,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792480550,
-   "photo": null
+   "photo": "photos/MKE_MORRIS_STATAYSHA_647880.jpg"
   },
   {
    "key": "RC_WILLIAMS_KOLAIND_120011075431628",
@@ -123,61 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SKYS_RONALD_647878",
-   "name": "Ronald Skys",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792469773,
-   "photo": "photos/MKE_SKYS_RONALD_647878.jpg"
-  },
-  {
-   "key": "MKE_ROBERSONHILLS_JAMAR_417104",
-   "name": "Jamar JaJuan Roberson-Hills",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792467057,
-   "photo": "photos/MKE_ROBERSONHILLS_JAMAR_417104.jpg"
-  },
-  {
-   "key": "MKE_AVERY_BRENDA_647877",
-   "name": "Brenda S Avery",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792467055,
-   "photo": "photos/MKE_AVERY_BRENDA_647877.jpg"
-  },
-  {
-   "key": "KEN_LENFESTEY_WAYLON_2026-00005790",
-   "name": "Waylon Jacob Lenfestey",
-   "age": "49",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 2,
-   "ts": 1792467028,
-   "photo": "photos/KEN_LENFESTEY_WAYLON_2026-00005790.jpg"
-  },
-  {
-   "key": "KEN_OMALLEY_MICHAEL_2026-00005789",
-   "name": "MICHAEL PATRICK Junior OMALLEY",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1792466892,
-   "photo": "photos/KEN_OMALLEY_MICHAEL_2026-00005789.jpg"
-  },
-  {
    "key": "DUBOIS_MARVIN_2026-10-19",
    "name": "Marvin Douglas Dubois",
    "age": "57",
@@ -187,39 +220,6 @@
    "more": 0,
    "ts": 1792465620,
    "photo": null
-  },
-  {
-   "key": "MKE_PUGH_CHRISTOPHER_647876",
-   "name": "Christopher Rayshawn Pugh",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792464395,
-   "photo": "photos/MKE_PUGH_CHRISTOPHER_647876.jpg"
-  },
-  {
-   "key": "MKE_HARPER_TATIANA_638345",
-   "name": "Tatiana D Harper",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792464394,
-   "photo": "photos/MKE_HARPER_TATIANA_638345.jpg"
-  },
-  {
-   "key": "MKE_ARAUZJUAREZ_FRANKLIN_645588",
-   "name": "Franklin J Arauz-Juarez",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792464392,
-   "photo": "photos/MKE_ARAUZJUAREZ_FRANKLIN_645588.jpg"
   },
   {
    "key": "FDL_NIESEN_ERIC_2026-10-19",
