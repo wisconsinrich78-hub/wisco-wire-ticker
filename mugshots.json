@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-20T06:49:29+00:00",
+ "updated": "2026-10-20T07:49:33+00:00",
  "items": [
+  {
+   "key": "VUE_KEVIN_2026-10-20",
+   "name": "Kevin Nmi Vue",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 0,
+   "ts": 1792481797,
+   "photo": null
+  },
+  {
+   "key": "RC_HANSEN_VAUGHN_120011075432812",
+   "name": "Vaughn Robert Hansen",
+   "age": "71",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792481358,
+   "photo": "photos/RC_HANSEN_VAUGHN_120011075432812.jpg"
+  },
+  {
+   "key": "MKE_MORRIS_STATAYSHA_647880",
+   "name": "Stataysha Loushay Morris",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792480550,
+   "photo": null
+  },
   {
    "key": "RC_WILLIAMS_KOLAIND_120011075431628",
    "name": "Kolaind Brazil Williams",
@@ -98,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792469773,
-   "photo": null
+   "photo": "photos/MKE_SKYS_RONALD_647878.jpg"
   },
   {
    "key": "MKE_ROBERSONHILLS_JAMAR_417104",
@@ -109,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792467057,
-   "photo": null
+   "photo": "photos/MKE_ROBERSONHILLS_JAMAR_417104.jpg"
   },
   {
    "key": "MKE_AVERY_BRENDA_647877",
@@ -164,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792464395,
-   "photo": null
+   "photo": "photos/MKE_PUGH_CHRISTOPHER_647876.jpg"
   },
   {
    "key": "MKE_HARPER_TATIANA_638345",
@@ -186,18 +219,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792464392,
-   "photo": null
-  },
-  {
-   "key": "RC_HARGROVEMCKINLEY_RAMON_120011075427815",
-   "name": "Ramon Hargrove-McKinley",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take - (<=$500)(UCR >=$200)",
-   "more": 2,
-   "ts": 1792463357,
-   "photo": "photos/RC_HARGROVEMCKINLEY_RAMON_120011075427815.jpg"
+   "photo": "photos/MKE_ARAUZJUAREZ_FRANKLIN_645588.jpg"
   },
   {
    "key": "FDL_NIESEN_ERIC_2026-10-19",
@@ -209,17 +231,6 @@
    "more": 0,
    "ts": 1792462624,
    "photo": "photos/FDL_NIESEN_ERIC_2026-10-19.jpg"
-  },
-  {
-   "key": "RC_MAINUS_JESSICA_120011075426078",
-   "name": "Jessica Lee Mainus",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792459764,
-   "photo": "photos/RC_MAINUS_JESSICA_120011075426078.jpg"
   },
   {
    "key": "CARABALLO_ADAM_2026-10-19",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792402134,
    "photo": "photos/TREM_LOPEZMORALES_JUAN_6181.jpg"
-  },
-  {
-   "key": "OLSEN_DOROTHY_2026-10-19",
-   "name": "Dorothy V Olsen",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792388247,
-   "photo": null
   }
  ]
 }
