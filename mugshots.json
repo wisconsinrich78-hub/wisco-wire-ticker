@@ -1,13 +1,68 @@
 {
- "updated": "2026-10-20T01:49:36+00:00",
+ "updated": "2026-10-20T02:49:35+00:00",
  "items": [
+  {
+   "key": "MKE_PUGH_CHRISTOPHER_647876",
+   "name": "Christopher Rayshawn Pugh",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792464395,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARPER_TATIANA_638345",
+   "name": "Tatiana D Harper",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792464394,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARAUZJUAREZ_FRANKLIN_645588",
+   "name": "Franklin J Arauz-Juarez",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792464392,
+   "photo": null
+  },
+  {
+   "key": "RC_HARGROVEMCKINLEY_RAMON_120011075427815",
+   "name": "Ramon Hargrove-McKinley",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792463357,
+   "photo": "photos/RC_HARGROVEMCKINLEY_RAMON_120011075427815.jpg"
+  },
+  {
+   "key": "FDL_NIESEN_ERIC_2026-10-19",
+   "name": "Eric David Niesen",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x0)",
+   "more": 0,
+   "ts": 1792462624,
+   "photo": "photos/FDL_NIESEN_ERIC_2026-10-19.jpg"
+  },
   {
    "key": "RC_MAINUS_JESSICA_120011075426078",
    "name": "Jessica Lee Mainus",
    "age": "45",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792459764,
    "photo": "photos/RC_MAINUS_JESSICA_120011075426078.jpg"
@@ -296,7 +351,7 @@
    "charge": "Sex Registry Violation",
    "more": 0,
    "ts": 1792453551,
-   "photo": null
+   "photo": "photos/MKE_POWELL_MARLON_221577.jpg"
   },
   {
    "key": "MKE_MUEHE_MAXWELL_647872",
@@ -319,50 +374,6 @@
    "more": 0,
    "ts": 1792453547,
    "photo": null
-  },
-  {
-   "key": "MKE_MARTINEZ_KATHERINE_628264",
-   "name": "Katherine M Martinez",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792453545,
-   "photo": null
-  },
-  {
-   "key": "RC_SCHROEDER_NICOLE_120011075423138",
-   "name": "Nicole Jean Schroeder",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792452571,
-   "photo": "photos/RC_SCHROEDER_NICOLE_120011075423138.jpg"
-  },
-  {
-   "key": "RC_ROONEY_JOSEPH_120011075423591",
-   "name": "Joseph Martin Rooney",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792452567,
-   "photo": null
-  },
-  {
-   "key": "RC_CONLEY_LONNELL_120011075421738",
-   "name": "Lonnell D Conley",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792452565,
-   "photo": "photos/RC_CONLEY_LONNELL_120011075421738.jpg"
   },
   {
    "key": "DOU_FLINT_MEGAN_2026-10-19",
@@ -516,17 +527,6 @@
    "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 0,
    "ts": 1792375598,
-   "photo": null
-  },
-  {
-   "key": "MELBOSTAD_JARED_2026-10-18",
-   "name": "Jared J Melbostad",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792370204,
    "photo": null
   }
  ]
