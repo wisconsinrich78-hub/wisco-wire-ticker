@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-20T19:49:48+00:00",
+ "updated": "2026-10-20T20:49:52+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_COURTNEE_647887",
+   "name": "Courtnee Renae Smith",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792529240,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSS_LAKEITH_610912",
+   "name": "Lakeith Lionell Ross",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1792529235,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALEXANDER_JAMARION_647888",
+   "name": "Jamarion Kortavion A Alexander",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792529232,
+   "photo": null
+  },
+  {
+   "key": "RC_TELLEZ_ANTONIO_120011075458990",
+   "name": "Antonio I Tellez",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792528199,
+   "photo": "photos/RC_TELLEZ_ANTONIO_120011075458990.jpg"
+  },
+  {
+   "key": "RC_ROGERS_ANTOINE_120011075458630",
+   "name": "Antoine J Rogers",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792528196,
+   "photo": "photos/RC_ROGERS_ANTOINE_120011075458630.jpg"
+  },
+  {
+   "key": "RC_MILLER_MELISSA_120011075459042",
+   "name": "Melissa Sue Miller",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine (2nd and subsequent)",
+   "more": 0,
+   "ts": 1792528192,
+   "photo": "photos/RC_MILLER_MELISSA_120011075459042.jpg"
+  },
+  {
+   "key": "DOU_FRINK_ALYSHA_2026-10-20",
+   "name": "Alysha L Frink",
+   "age": "33",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1792527572,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_GERALD_626105",
+   "name": "Gerald Avant Jones",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 7,
+   "ts": 1792526657,
+   "photo": null
+  },
   {
    "key": "RC_WATT_LEROY_120011075458285",
    "name": "Leroy Deandre Watt",
@@ -98,83 +186,6 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1792521048,
-   "photo": null
-  },
-  {
-   "key": "MKE_CLARK_CAMAURISE_604290",
-   "name": "Camaurise Devon Clark",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/ Intent-Amphetamine(>10-50g)",
-   "more": 20,
-   "ts": 1792521047,
-   "photo": null
-  },
-  {
-   "key": "RC_KOGER_KENNETH_120011075456162",
-   "name": "Kenneth R Koger",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792520961,
-   "photo": "photos/RC_KOGER_KENNETH_120011075456162.jpg"
-  },
-  {
-   "key": "RC_DUARTE_HECTOR_120011075456095",
-   "name": "Hector L Duarte",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792520958,
-   "photo": "photos/RC_DUARTE_HECTOR_120011075456095.jpg"
-  },
-  {
-   "key": "KEN_PATTERSON_QUENTIN_2026-00005808",
-   "name": "Quentin Travarge Patterson",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 3,
-   "ts": 1792520634,
-   "photo": "photos/KEN_PATTERSON_QUENTIN_2026-00005808.jpg"
-  },
-  {
-   "key": "KEN_ONEAL_IAN_2026-00005809",
-   "name": "Ian Ranndal Oneal",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1792520563,
-   "photo": "photos/KEN_ONEAL_IAN_2026-00005809.jpg"
-  },
-  {
-   "key": "MKE_KLOTH_MICHAEL_2046116",
-   "name": "Michael B Kloth",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1792518362,
-   "photo": null
-  },
-  {
-   "key": "MKE_KARLIK_MICHAEL_289378",
-   "name": "Michael John Karlik",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 2,
-   "ts": 1792518361,
    "photo": null
   },
   {
@@ -506,17 +517,6 @@
    "more": 0,
    "ts": 1792454670,
    "photo": "photos/MAR_ZELECHOWSKI_ROGER_2026-10-19.jpg"
-  },
-  {
-   "key": "MAR_ELDRIDGE_TRAVIS_2026-10-19",
-   "name": "Travis James Eldridge",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1792454670,
-   "photo": null
   },
   {
    "key": "BALDWIN_LARRY_2026-10-19",
