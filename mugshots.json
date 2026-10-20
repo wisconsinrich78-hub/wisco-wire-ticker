@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-20T14:50:39+00:00",
+ "updated": "2026-10-20T15:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_POE_TEYANNA_624296",
+   "name": "Teyanna Antoinette Poe",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792510302,
+   "photo": null
+  },
+  {
+   "key": "MKE_MYRICK_JAYLIN_647885",
+   "name": "Jaylin N Myrick",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792510300,
+   "photo": null
+  },
+  {
+   "key": "MKE_JIMENEZTORRES_ZADIEL_618387",
+   "name": "Zadiel Jetzel Jimenez-Torres",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1792510296,
+   "photo": null
+  },
+  {
+   "key": "MKE_COLEMAN_TERRANCE_292307",
+   "name": "Terrance Julius Coleman",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792510294,
+   "photo": null
+  },
+  {
+   "key": "RC_KING_KURTIS_120011075442607",
+   "name": "Kurtis Lee King",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1792510198,
+   "photo": "photos/RC_KING_KURTIS_120011075442607.jpg"
+  },
+  {
+   "key": "KEN_MCCLURE_JORDAN_2026-00005803",
+   "name": "Jordan Michael Mcclure",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1792509974,
+   "photo": "photos/KEN_MCCLURE_JORDAN_2026-00005803.jpg"
+  },
+  {
+   "key": "KEN_MARTIN_NATHANIEL_2026-00005802",
+   "name": "Nathaniel William Martin",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792509904,
+   "photo": "photos/KEN_MARTIN_NATHANIEL_2026-00005802.jpg"
+  },
+  {
+   "key": "KEN_EZELL_HENRY_2026-00005805",
+   "name": "Henry Zackerize Ezell",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792509829,
+   "photo": "photos/KEN_EZELL_HENRY_2026-00005805.jpg"
+  },
+  {
+   "key": "KEN_AGUIRRE_RICARDO_2026-00005804",
+   "name": "Ricardo Aguirre",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792509757,
+   "photo": "photos/KEN_AGUIRRE_RICARDO_2026-00005804.jpg"
+  },
+  {
+   "key": "FDL_NETT_MARIO_2026-10-20",
+   "name": "Mario Andres Nett",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792509435,
+   "photo": "photos/FDL_NETT_MARIO_2026-10-20.jpg"
+  },
   {
    "key": "JENSEN_JESSE_2026-10-20",
    "name": "Jesse J Jensen",
@@ -21,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792504870,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_KEISHA_503469.jpg"
   },
   {
    "key": "RC_SHELL_FISHER_120011075438341",
@@ -90,28 +200,6 @@
    "photo": "photos/MKE_HAYES_DIONTAE_622317.jpg"
   },
   {
-   "key": "MKE_CARR_JAMES_2067468",
-   "name": "James Carr",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1792499490,
-   "photo": "photos/MKE_CARR_JAMES_2067468.jpg"
-  },
-  {
-   "key": "KEN_JOHANSEN_CRISTOPHER_2026-00005796",
-   "name": "Cristopher Johansen",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "TLPD - Disorderly Conduct",
-   "more": 2,
-   "ts": 1792498871,
-   "photo": null
-  },
-  {
    "key": "FDL_PAGLIARO_SYMPHONIE_2026-10-20",
    "name": "Symphonie Sasha Pagliaro",
    "age": "",
@@ -167,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_PAVLOVIC_DRAGAN_525969",
-   "name": "Dragan Pavlovic",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
-   "more": 35,
-   "ts": 1792496797,
-   "photo": "photos/MKE_PAVLOVIC_DRAGAN_525969.jpg"
-  },
-  {
-   "key": "MKE_BENSON_LEON_612850",
-   "name": "Leon James Benson",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 2,
-   "ts": 1792496795,
-   "photo": "photos/MKE_BENSON_LEON_612850.jpg"
-  },
-  {
    "key": "DEGREGG_MICHAEL_2026-10-20",
    "name": "Michael D Degregg",
    "age": "48",
@@ -209,61 +275,6 @@
    "more": 0,
    "ts": 1792491418,
    "photo": "photos/FDL_MEYER_SHAWN_2026-10-20.jpg"
-  },
-  {
-   "key": "MKE_TRIBLETT_JESSICA_411730",
-   "name": "Jessica V Triblett",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Violate/Harassment Restraining Order",
-   "more": 4,
-   "ts": 1792488681,
-   "photo": "photos/MKE_TRIBLETT_JESSICA_411730.jpg"
-  },
-  {
-   "key": "MKE_MORSE_LEIGHTON_647883",
-   "name": "Leighton Taylor Morse",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792488679,
-   "photo": "photos/MKE_MORSE_LEIGHTON_647883.jpg"
-  },
-  {
-   "key": "MKE_ARTEAGA_ARIANNA_647882",
-   "name": "Arianna Marie Arteaga",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792488677,
-   "photo": "photos/MKE_ARTEAGA_ARIANNA_647882.jpg"
-  },
-  {
-   "key": "RC_OZIER_DAMIYAH_120011075434766",
-   "name": "Damiyah Nyasia Ozier",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 6,
-   "ts": 1792488560,
-   "photo": "photos/RC_OZIER_DAMIYAH_120011075434766.jpg"
-  },
-  {
-   "key": "RC_JONES_JORDAN_120011075434275",
-   "name": "Jordan Jerral Jones",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Unemployment Compensation Fraud",
-   "more": 0,
-   "ts": 1792488558,
-   "photo": "photos/RC_JONES_JORDAN_120011075434275.jpg"
   },
   {
    "key": "TREM_LUSK_JAMES_6058",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792434048,
    "photo": "photos/FDL_SCHMITT_TURNER_2026-10-19.jpg"
-  },
-  {
-   "key": "EDGE_VINCENT_2026-10-19",
-   "name": "Vincent M Edge",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1792432863,
-   "photo": null
   }
  ]
 }
