@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T21:49:33+00:00",
+ "updated": "2026-10-20T22:49:55+00:00",
  "items": [
+  {
+   "key": "RC_KIRKPATRICK_KYLE_120011075462981",
+   "name": "Kyle William Kirkpatrick",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792535397,
+   "photo": "photos/RC_KIRKPATRICK_KYLE_120011075462981.jpg"
+  },
+  {
+   "key": "MKE_LAVARE_THOMAS_647890",
+   "name": "Thomas Lavare",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1792534609,
+   "photo": null
+  },
   {
    "key": "MKE_TRUSS_LEARNARDO_2025692",
    "name": "Learnardo Truss",
@@ -32,7 +54,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792531860,
-   "photo": null
+   "photo": "photos/MKE_HARDY_ANGELIQUE_647889.jpg"
   },
   {
    "key": "DOU_PERRY_ANGEL_2026-10-20",
@@ -187,28 +209,6 @@
    "more": 0,
    "ts": 1792524580,
    "photo": "photos/RC_HERNANDEZREYES_LORENZO_120011075457835.jpg"
-  },
-  {
-   "key": "RC_HERNANDEZ_JUAN_120011075457527",
-   "name": "Juan Hernandez",
-   "age": "60",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792524577,
-   "photo": null
-  },
-  {
-   "key": "RC_DUHANEY_ANDRAE_120011075458371",
-   "name": "Andrae R Duhaney",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792524575,
-   "photo": null
   },
   {
    "key": "DOU_BUCHANAN_LUCKY_2026-10-20",
