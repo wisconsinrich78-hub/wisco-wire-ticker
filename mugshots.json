@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-21T08:49:35+00:00",
+ "updated": "2026-10-21T09:49:30+00:00",
  "items": [
+  {
+   "key": "MAR_COOPER_JAMES_2026-10-21",
+   "name": "James Leroy Cooper",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery Or Threat To Judge, Prosecutor, Or Law Enforcement Officer - T",
+   "more": 1,
+   "ts": 1792575355,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEWSON_APRIL_2044313",
+   "name": "April E Newson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792575054,
+   "photo": null
+  },
+  {
+   "key": "MKE_BULLOCKS_CHARLES_239277",
+   "name": "Charles Fredrick Bullocks",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792575052,
+   "photo": null
+  },
+  {
+   "key": "TREM_WOODS_BRIAN_4754",
+   "name": "Brian Thomas Woods",
+   "age": "49",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792574076,
+   "photo": "photos/TREM_WOODS_BRIAN_4754.jpg"
+  },
+  {
+   "key": "TREM_SEVERSON_MARK_6184",
+   "name": "Mark David Severson",
+   "age": "54",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess w/Intent-THC (<=00 grams)",
+   "more": 1,
+   "ts": 1792574074,
+   "photo": "photos/TREM_SEVERSON_MARK_6184.jpg"
+  },
+  {
+   "key": "TREM_MCGERR_STEVEN_6185",
+   "name": "Steven Michael McGerr",
+   "age": "42",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 1,
+   "ts": 1792574072,
+   "photo": "photos/TREM_MCGERR_STEVEN_6185.jpg"
+  },
+  {
+   "key": "TREM_DEVENPORT_JAMES_5925",
+   "name": "James Chris Devenport",
+   "age": "58",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792574070,
+   "photo": "photos/TREM_DEVENPORT_JAMES_5925.jpg"
+  },
+  {
+   "key": "MAR_FRANCISCOOLIVERA_JOSE_2026-10-21",
+   "name": "Jose Francisco-Olivera",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Simple",
+   "more": 1,
+   "ts": 1792573815,
+   "photo": null
+  },
   {
    "key": "MKE_WARD_VERISSA_630850",
    "name": "Verissa M Ward",
@@ -51,7 +139,7 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Stalking",
    "more": 0,
    "ts": 1792571818,
    "photo": "photos/KEN_AYERS_SCOTT_2026-00005822.jpg"
@@ -73,7 +161,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
    "more": 0,
    "ts": 1792570960,
    "photo": "photos/KEN_REED_MARQUEL_2026-00005821.jpg"
@@ -117,8 +205,8 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Methamphetamine",
+   "more": 1,
    "ts": 1792569179,
    "photo": "photos/KEN_TIDWELL_JUSTIN_2026-00005819.jpg"
   },
@@ -128,8 +216,8 @@
    "age": "47",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Violate/harassment Restraining Order",
+   "more": 2,
    "ts": 1792567822,
    "photo": null
   },
@@ -176,28 +264,6 @@
    "more": 1,
    "ts": 1792566221,
    "photo": "photos/MAR_BONHAM_NICHOLAS_2026-10-20.jpg"
-  },
-  {
-   "key": "RC_PEOPLES_GERALD_120011075472777",
-   "name": "Gerald Peoples",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1792565151,
-   "photo": null
-  },
-  {
-   "key": "MKE_GONZALEZ_SARA_647323",
-   "name": "Sara Marie Gonzalez",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792564277,
-   "photo": null
   },
   {
    "key": "MEIER_CHRISTOPHER_2026-10-21",
@@ -420,28 +486,6 @@
    "photo": "photos/FDL_GODINA_JESSE_2026-10-20.jpg"
   },
   {
-   "key": "DOU_FRINK_ALYSHA_2026-10-20",
-   "name": "Alysha L Frink",
-   "age": "33",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792527572,
-   "photo": null
-  },
-  {
-   "key": "DOU_BUCHANAN_LUCKY_2026-10-20",
-   "name": "Lucky R Buchanan",
-   "age": "19",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1792516563,
-   "photo": null
-  },
-  {
    "key": "FDL_DENSLOW_ANTHONY_2026-10-20",
    "name": "Anthony Steven Denslow",
    "age": "",
@@ -484,50 +528,6 @@
    "more": 2,
    "ts": 1792498641,
    "photo": "photos/FDL_PAGLIARO_SYMPHONIE_2026-10-20.jpg"
-  },
-  {
-   "key": "DEGREGG_MICHAEL_2026-10-20",
-   "name": "Michael D Degregg",
-   "age": "48",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792491700,
-   "photo": null
-  },
-  {
-   "key": "FDL_MEYER_SHAWN_2026-10-20",
-   "name": "Shawn M Meyer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792491418,
-   "photo": "photos/FDL_MEYER_SHAWN_2026-10-20.jpg"
-  },
-  {
-   "key": "TREM_LUSK_JAMES_6058",
-   "name": "James David Lusk",
-   "age": "60",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 2,
-   "ts": 1792488514,
-   "photo": "photos/TREM_LUSK_JAMES_6058.jpg"
-  },
-  {
-   "key": "VUE_KEVIN_2026-10-20",
-   "name": "Kevin Nmi Vue",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 0,
-   "ts": 1792481797,
-   "photo": null
   }
  ]
 }
