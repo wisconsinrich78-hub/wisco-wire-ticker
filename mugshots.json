@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-21T13:49:41+00:00",
+ "updated": "2026-10-21T14:49:40+00:00",
  "items": [
+  {
+   "key": "MKE_WRIGHT_DEANDRA_647902",
+   "name": "Deandra Shanta Wright",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792594001,
+   "photo": "photos/MKE_WRIGHT_DEANDRA_647902.jpg"
+  },
+  {
+   "key": "MKE_FINNOCHIARO_JOSHUA_2057326",
+   "name": "Joshua T Finnochiaro",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792593998,
+   "photo": null
+  },
+  {
+   "key": "RC_EDMAN_AMANDA_120011075482322",
+   "name": "Amanda Anne Edman",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792593051,
+   "photo": "photos/RC_EDMAN_AMANDA_120011075482322.jpg"
+  },
+  {
+   "key": "MAR_PETTERSON_JACOB_2026-10-21",
+   "name": "Jacob Daniel Petterson",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Computer Message-Threaten/Obscenity",
+   "more": 0,
+   "ts": 1792591864,
+   "photo": "photos/MAR_PETTERSON_JACOB_2026-10-21.jpg"
+  },
+  {
+   "key": "MKE_SMITH_SHANELL_340345",
+   "name": "Shanell Kanish Smith",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792591286,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTINEZPEDROZA_ALONSO_647901",
+   "name": "Alonso Martinez Pedroza",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792591284,
+   "photo": null
+  },
+  {
+   "key": "MKE_HONEY_JOSHUA_632893",
+   "name": "Joshua Isaac Honey",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792591282,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_BREON_627156",
    "name": "Breon Maurice Williams",
@@ -98,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792585846,
-   "photo": null
+   "photo": "photos/MKE_GOODENALEXANDER_NAKYAH_647900.jpg"
   },
   {
    "key": "MKE_DEPP_DEVONTE_647899",
@@ -145,28 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MOORE_TERMAINE_297034",
-   "name": "Termaine Mandel Moore",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792580474,
-   "photo": null
-  },
-  {
-   "key": "KEN_COLVIN_PRINCESS_2026-00005823",
-   "name": "Princess Colvin",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792577211,
-   "photo": null
-  },
-  {
    "key": "MAR_COOPER_JAMES_2026-10-21",
    "name": "James Leroy Cooper",
    "age": "34",
@@ -176,28 +231,6 @@
    "more": 1,
    "ts": 1792575355,
    "photo": null
-  },
-  {
-   "key": "MKE_NEWSON_APRIL_2044313",
-   "name": "April E Newson",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792575054,
-   "photo": null
-  },
-  {
-   "key": "MKE_BULLOCKS_CHARLES_239277",
-   "name": "Charles Fredrick Bullocks",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792575052,
-   "photo": "photos/MKE_BULLOCKS_CHARLES_239277.jpg"
   },
   {
    "key": "TREM_WOODS_BRIAN_4754",
@@ -253,28 +286,6 @@
    "more": 1,
    "ts": 1792573815,
    "photo": null
-  },
-  {
-   "key": "MKE_WARD_VERISSA_630850",
-   "name": "Verissa M Ward",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792572354,
-   "photo": "photos/MKE_WARD_VERISSA_630850.jpg"
-  },
-  {
-   "key": "MKE_HUDSON_LEON_168067",
-   "name": "Leon Jack Hudson",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792572352,
-   "photo": "photos/MKE_HUDSON_LEON_168067.jpg"
   },
   {
    "key": "HOU_BRUMFIELD_JENNYMICHELLE_6304",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792544154,
    "photo": "photos/MAR_FRASER_MIRANDA_2026-10-20.jpg"
-  },
-  {
-   "key": "MAR_HOLIDAY_BRANDON_2026-10-20",
-   "name": "Brandon K Holiday",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 6,
-   "ts": 1792544154,
-   "photo": "photos/MAR_HOLIDAY_BRANDON_2026-10-20.jpg"
   },
   {
    "key": "BANKS_KEYONA_2026-10-20",
