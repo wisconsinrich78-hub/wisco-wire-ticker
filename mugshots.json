@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-21T11:49:40+00:00",
+ "updated": "2026-10-21T12:49:41+00:00",
  "items": [
+  {
+   "key": "MAR_JOHNSON_ANTHONY_2026-10-21",
+   "name": "Anthony Allen Johnson",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Cocaine/Coca",
+   "more": 0,
+   "ts": 1792586560,
+   "photo": null
+  },
+  {
+   "key": "MAR_AKERVIK_CASEY_2026-10-21",
+   "name": "Casey Michael Akervik",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence - 1St Offense",
+   "more": 0,
+   "ts": 1792586560,
+   "photo": null
+  },
+  {
+   "key": "MAR_MASON_TRAVIS_2026-10-21",
+   "name": "Travis William Mason",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 2,
+   "ts": 1792586560,
+   "photo": null
+  },
+  {
+   "key": "MKE_NORWOODPEVEY_JONATHAN_414882",
+   "name": "Jonathan D Norwood-Pevey",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>15-40g)",
+   "more": 3,
+   "ts": 1792585847,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOODENALEXANDER_NAKYAH_647900",
+   "name": "Nakyah Renee Gooden-Alexander",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792585846,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEPP_DEVONTE_647899",
+   "name": "Devonte Taibre Depp",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792585845,
+   "photo": null
+  },
   {
    "key": "MKE_JOHNSON_ANEISHA_372420",
    "name": "Aneisha Lynn Johnson",
@@ -18,8 +84,8 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 2,
    "ts": 1792581795,
    "photo": "photos/KEN_HANSEN_KRISTEN_2026-00005824.jpg"
   },
@@ -87,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792575052,
-   "photo": null
+   "photo": "photos/MKE_BULLOCKS_CHARLES_239277.jpg"
   },
   {
    "key": "TREM_WOODS_BRIAN_4754",
@@ -164,7 +230,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792572352,
-   "photo": null
+   "photo": "photos/MKE_HUDSON_LEON_168067.jpg"
   },
   {
    "key": "MKE_HAYES_CALVIN_647897",
@@ -186,7 +252,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792572348,
-   "photo": null
+   "photo": "photos/MKE_CANADA_DERRICK_340708.jpg"
   },
   {
    "key": "KEN_AYERS_SCOTT_2026-00005822",
@@ -220,39 +286,6 @@
    "more": 0,
    "ts": 1792570960,
    "photo": "photos/KEN_REED_MARQUEL_2026-00005821.jpg"
-  },
-  {
-   "key": "RC_DEBACK_JOHN_120011075474062",
-   "name": "John Michael Deback",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792570511,
-   "photo": "photos/RC_DEBACK_JOHN_120011075474062.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_CHARLENE_383549",
-   "name": "Charlene Cynthia Williams",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate Vehicle w/o Consent-Passenger",
-   "more": 6,
-   "ts": 1792569650,
-   "photo": "photos/MKE_WILLIAMS_CHARLENE_383549.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_ISAIAH_528485",
-   "name": "Isaiah Taveon Johnson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1792569648,
-   "photo": null
   },
   {
    "key": "MAR_BONHAM_NICHOLAS_2026-10-20",
@@ -431,28 +464,6 @@
    "photo": "photos/MAR_HOLIDAY_BRANDON_2026-10-20.jpg"
   },
   {
-   "key": "MAR_INFANTE_LINDSEY_2026-10-20",
-   "name": "Lindsey R Infante",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 4Th",
-   "more": 0,
-   "ts": 1792544154,
-   "photo": "photos/MAR_INFANTE_LINDSEY_2026-10-20.jpg"
-  },
-  {
-   "key": "MAR_GILBERT_JOSHUA_2026-10-20",
-   "name": "Joshua Steven Gilbert",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1792544154,
-   "photo": "photos/MAR_GILBERT_JOSHUA_2026-10-20.jpg"
-  },
-  {
    "key": "BANKS_KEYONA_2026-10-20",
    "name": "Keyona R Banks",
    "age": "36",
@@ -461,17 +472,6 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1792539827,
-   "photo": null
-  },
-  {
-   "key": "DOU_PERRY_ANGEL_2026-10-20",
-   "name": "Angel K Perry",
-   "age": "27",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792531130,
    "photo": null
   },
   {
