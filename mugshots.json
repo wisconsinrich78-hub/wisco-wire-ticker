@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-21T04:49:31+00:00",
+ "updated": "2026-10-21T05:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_WILSON_KATIE_647896",
+   "name": "Katie Wilson",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792561580,
+   "photo": "photos/MKE_WILSON_KATIE_647896.jpg"
+  },
+  {
+   "key": "MKE_BAKER_DARNELL_647894",
+   "name": "Darnell L Baker",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792561575,
+   "photo": null
+  },
+  {
+   "key": "MAR_HERNANDEZ_JOSE_2026-10-20",
+   "name": "Jose Alfredo Hernandez",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792560163,
+   "photo": null
+  },
+  {
+   "key": "HAMMES_RYAN_2026-10-21",
+   "name": "Ryan J Hammes",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792560112,
+   "photo": null
+  },
+  {
+   "key": "RC_POLZIN_COREY_120011075471402",
+   "name": "Corey Micheal Polzin",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1792559760,
+   "photo": "photos/RC_POLZIN_COREY_120011075471402.jpg"
+  },
+  {
+   "key": "KEN_COLEMAN_WILLIE_2026-00005815",
+   "name": "WILLIE JAMES Junior COLEMAN",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792559228,
+   "photo": "photos/KEN_COLEMAN_WILLIE_2026-00005815.jpg"
+  },
+  {
+   "key": "MKE_WILSONETAL_KATIE_647896",
+   "name": "KATIE Wilson ET AL",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792558854,
+   "photo": null
+  },
   {
    "key": "MAR_ZAHRT_LOCHLIN_2026-10-20",
    "name": "Lochlin John Thomas Zahrt",
@@ -29,7 +106,7 @@
    "age": "63",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Violation Of Harrassment Injunction Or Order",
    "more": 0,
    "ts": 1792556606,
    "photo": "photos/KEN_TABILI_RICHARD_2026-00005816.jpg"
@@ -40,7 +117,7 @@
    "age": "55",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Misd",
    "more": 0,
    "ts": 1792556526,
    "photo": "photos/KEN_LEITH_JASON_2026-00005817.jpg"
@@ -167,28 +244,6 @@
    "photo": null
   },
   {
-   "key": "RC_WILSON_PATRICK_120011075468537",
-   "name": "Patrick B Wilson",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792549765,
-   "photo": null
-  },
-  {
-   "key": "MKE_MATHIS_EMMA_647895",
-   "name": "Emma L Mathis",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792548942,
-   "photo": null
-  },
-  {
    "key": "CARABALLO_ADAM_2026-10-20",
    "name": "Adam J Caraballo",
    "age": "45",
@@ -197,17 +252,6 @@
    "charge": "Bail Jumping-Felony",
    "more": 0,
    "ts": 1792545704,
-   "photo": null
-  },
-  {
-   "key": "MKE_BASKER_DARNELL_647894",
-   "name": "Darnell L Basker",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792545376,
    "photo": null
   },
   {
@@ -308,28 +352,6 @@
    "more": 0,
    "ts": 1792544154,
    "photo": "photos/MAR_GILBERT_JOSHUA_2026-10-20.jpg"
-  },
-  {
-   "key": "MKE_PUENTE_MARIO_647892",
-   "name": "Mario M Puente",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792543107,
-   "photo": "photos/MKE_PUENTE_MARIO_647892.jpg"
-  },
-  {
-   "key": "MKE_GERAMBIO_BIANCA_647893",
-   "name": "Bianca Ann Gerambio",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792543106,
-   "photo": null
   },
   {
    "key": "BANKS_KEYONA_2026-10-20",
@@ -442,17 +464,6 @@
    "photo": null
   },
   {
-   "key": "MAR_MARG_JOHN_2026-10-19",
-   "name": "John Matthew Marg",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792497808,
-   "photo": null
-  },
-  {
    "key": "DEGREGG_MICHAEL_2026-10-20",
    "name": "Michael D Degregg",
    "age": "48",
@@ -516,17 +527,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792476407,
-   "photo": null
-  },
-  {
-   "key": "DUBOIS_MARVIN_2026-10-19",
-   "name": "Marvin Douglas Dubois",
-   "age": "57",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792465620,
    "photo": null
   }
  ]
