@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-21T16:49:46+00:00",
+ "updated": "2026-10-21T17:49:36+00:00",
  "items": [
+  {
+   "key": "RC_ZOCCHI_KAYLA_120011075489970",
+   "name": "Kayla Leann Zocchi",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792604717,
+   "photo": "photos/RC_ZOCCHI_KAYLA_120011075489970.jpg"
+  },
+  {
+   "key": "RC_POELINITZ_BERTRAM_120011075490197",
+   "name": "Bertram Devall Poelinitz",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792604714,
+   "photo": "photos/RC_POELINITZ_BERTRAM_120011075490197.jpg"
+  },
+  {
+   "key": "MAR_PHILLIPS_JOSEPH_2026-09-27",
+   "name": "Joseph Richard Phillips",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation & Parole Warrant",
+   "more": 0,
+   "ts": 1792604421,
+   "photo": null
+  },
+  {
+   "key": "MAR_LEE_CHA_2026-10-05",
+   "name": "Cha Lee",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Unknown Charge - Hold For Other Agency",
+   "more": 2,
+   "ts": 1792604421,
+   "photo": null
+  },
+  {
+   "key": "KEN_BALLENGER_WAYNE_2026-00005835",
+   "name": "Wayne B Ballenger",
+   "age": "56",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792604278,
+   "photo": "photos/KEN_BALLENGER_WAYNE_2026-00005835.jpg"
+  },
+  {
+   "key": "KEN_GRAY_DEATRALLE_2026-00005834",
+   "name": "Deatralle Deon Gray",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792603399,
+   "photo": "photos/KEN_GRAY_DEATRALLE_2026-00005834.jpg"
+  },
+  {
+   "key": "KEN_CASSELL_COREY_2026-00005833",
+   "name": "Corey Mitchell Cassell",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792603327,
+   "photo": "photos/KEN_CASSELL_COREY_2026-00005833.jpg"
+  },
+  {
+   "key": "FDL_BATTONWASHINGTON_AQUEELAH_2026-10-21",
+   "name": "Aqueelah S Batton-Washington",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792602976,
+   "photo": "photos/FDL_BATTONWASHINGTON_AQUEELAH_2026-10-21.jpg"
+  },
+  {
+   "key": "KEN_CAREY_ZYIERE_2026-00005832",
+   "name": "Zyiere M Carey",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792601473,
+   "photo": null
+  },
   {
    "key": "MAR_KOPTYRAWILLIAMS_KHARDEA_2026-10-21",
    "name": "Khardea Francois Koptyra-Williams",
@@ -18,7 +117,7 @@
    "age": "49",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Federal Agency Hold",
    "more": 0,
    "ts": 1792600662,
    "photo": null
@@ -29,8 +128,8 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Return On Writ",
+   "more": 1,
    "ts": 1792600610,
    "photo": null
   },
@@ -40,8 +139,8 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 1,
    "ts": 1792599744,
    "photo": "photos/KEN_CONLEY_LONNELL_2026-00005829.jpg"
   },
@@ -178,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "RC_EDMAN_AMANDA_120011075482322",
-   "name": "Amanda Anne Edman",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792593051,
-   "photo": "photos/RC_EDMAN_AMANDA_120011075482322.jpg"
-  },
-  {
    "key": "MAR_PETTERSON_JACOB_2026-10-21",
    "name": "Jacob Daniel Petterson",
    "age": "49",
@@ -198,61 +286,6 @@
    "more": 0,
    "ts": 1792591864,
    "photo": "photos/MAR_PETTERSON_JACOB_2026-10-21.jpg"
-  },
-  {
-   "key": "MKE_SMITH_SHANELL_340345",
-   "name": "Shanell Kanish Smith",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792591286,
-   "photo": null
-  },
-  {
-   "key": "MKE_MARTINEZPEDROZA_ALONSO_647901",
-   "name": "Alonso Martinez Pedroza",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792591284,
-   "photo": null
-  },
-  {
-   "key": "MKE_HONEY_JOSHUA_632893",
-   "name": "Joshua Isaac Honey",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792591282,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_BREON_627156",
-   "name": "Breon Maurice Williams",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792588584,
-   "photo": null
-  },
-  {
-   "key": "MKE_TALIAFERRO_JAVONTAE_390986",
-   "name": "Javontae J Taliaferro",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine/Coca",
-   "more": 2,
-   "ts": 1792588580,
-   "photo": "photos/MKE_TALIAFERRO_JAVONTAE_390986.jpg"
   },
   {
    "key": "MAR_JOHNSON_ANTHONY_2026-10-21",
@@ -464,28 +497,6 @@
    "photo": null
   },
   {
-   "key": "MAR_JOHNSON_BENJAMIN_2026-10-20",
-   "name": "Benjamin Boyd Johnson",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 1,
-   "ts": 1792544154,
-   "photo": "photos/MAR_JOHNSON_BENJAMIN_2026-10-20.jpg"
-  },
-  {
-   "key": "MAR_MCDUFFY_DWIGHT_2026-10-20",
-   "name": "Dwight Dion Mcduffy",
-   "age": "51",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 7,
-   "ts": 1792544154,
-   "photo": "photos/MAR_MCDUFFY_DWIGHT_2026-10-20.jpg"
-  },
-  {
    "key": "BANKS_KEYONA_2026-10-20",
    "name": "Keyona R Banks",
    "age": "36",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792512990,
    "photo": "photos/FDL_DENSLOW_ANTHONY_2026-10-20.jpg"
-  },
-  {
-   "key": "FDL_NETT_MARIO_2026-10-20",
-   "name": "Mario Andres Nett",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792509435,
-   "photo": "photos/FDL_NETT_MARIO_2026-10-20.jpg"
   }
  ]
 }
