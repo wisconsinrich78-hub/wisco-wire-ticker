@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-21T20:49:53+00:00",
+ "updated": "2026-10-21T21:53:52+00:00",
  "items": [
+  {
+   "key": "MKE_GUYTON_JAELYN_619071",
+   "name": "Jaelyn Russell Guyton",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 5,
+   "ts": 1792618282,
+   "photo": null
+  },
+  {
+   "key": "MKE_CORLEY_TIMOTHY_315202",
+   "name": "Timothy Edward Corley",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792618278,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANDREW_IRIS_640733",
+   "name": "Iris Louise Andrew",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1792618275,
+   "photo": null
+  },
+  {
+   "key": "KEN_PAWLICKI_MARK_2026-00005837",
+   "name": "Mark Anthony Pawlicki",
+   "age": "52",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792617875,
+   "photo": "photos/KEN_PAWLICKI_MARK_2026-00005837.jpg"
+  },
+  {
+   "key": "DOU_GARVEY_CHARLES_2026-10-11",
+   "name": "Charles T Garvey",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1792617523,
+   "photo": "photos/DOU_GARVEY_CHARLES_2026-10-11.jpg"
+  },
+  {
+   "key": "DOU_PEDERSON_JOSEPH_2026-10-21",
+   "name": "Joseph E Pederson",
+   "age": "40",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792617515,
+   "photo": null
+  },
+  {
+   "key": "RC_PENUELAS_MICHAEL_120011075497246",
+   "name": "Michael Penuelas",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792617324,
+   "photo": "photos/RC_PENUELAS_MICHAEL_120011075497246.jpg"
+  },
+  {
+   "key": "RC_MCMURTRY_SHANTORIA_120011075497033",
+   "name": "Shantoria D Mcmurtry",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792616442,
+   "photo": "photos/RC_MCMURTRY_SHANTORIA_120011075497033.jpg"
+  },
+  {
+   "key": "RC_CARTER_DEANGELO_120011075497047",
+   "name": "Deangelo Leonardo Carter",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792616438,
+   "photo": "photos/RC_CARTER_DEANGELO_120011075497047.jpg"
+  },
+  {
+   "key": "RC_BURI_MICHELLE_120011075497067",
+   "name": "Michelle Marie Buri",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792616433,
+   "photo": "photos/RC_BURI_MICHELLE_120011075497067.jpg"
+  },
   {
    "key": "MKE_SOTOPEREZ_LUIS_647908",
    "name": "Luis F Soto Perez",
@@ -96,7 +206,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 17,
+   "more": 21,
    "ts": 1792612917,
    "photo": null
   },
@@ -117,7 +227,7 @@
    "age": "24",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of THC (Tetrahydrocannabinols)",
    "more": 0,
    "ts": 1792612834,
    "photo": "photos/RC_AVILA_ANDRES_120011075494056.jpg"
@@ -200,39 +310,6 @@
    "photo": null
   },
   {
-   "key": "MKE_STEWART_VICTOR_2033353",
-   "name": "Victor Lamont Stewart",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792610211,
-   "photo": null
-  },
-  {
-   "key": "MKE_REEL_BRANDON_501377",
-   "name": "Brandon Jevonte Reel",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792610208,
-   "photo": null
-  },
-  {
-   "key": "KEN_SCOTT_RICHARD_2026-00005836",
-   "name": "Richard Joseph Scott",
-   "age": "67",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792609786,
-   "photo": "photos/KEN_SCOTT_RICHARD_2026-00005836.jpg"
-  },
-  {
    "key": "MAR_MARTIN_BRADLEY_2026-10-20",
    "name": "Bradley Ray Martin",
    "age": "54",
@@ -277,50 +354,6 @@
    "photo": null
   },
   {
-   "key": "MKE_STRANGE_JAMES_647906",
-   "name": "James F Strange",
-   "age": "85",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792607476,
-   "photo": null
-  },
-  {
-   "key": "MKE_SANDERS_DWAYNE_618444",
-   "name": "Dwayne M Sanders",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 10,
-   "ts": 1792607474,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARRISON_RAYMOND_383665",
-   "name": "Raymond Lavell Harrison",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 0,
-   "ts": 1792607471,
-   "photo": null
-  },
-  {
-   "key": "RC_NELSON_PETER_120011075491530",
-   "name": "Peter Nelson",
-   "age": "66",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1792607400,
-   "photo": "photos/RC_NELSON_PETER_120011075491530.jpg"
-  },
-  {
    "key": "MAR_MICIK_JOHN_2026-10-21",
    "name": "John P Micik",
    "age": "51",
@@ -341,17 +374,6 @@
    "more": 1,
    "ts": 1792607297,
    "photo": null
-  },
-  {
-   "key": "MKE_WILSON_RITCHIE_262918",
-   "name": "Ritchie E Wilson",
-   "age": "57",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd Degree Sexual Assault/Use of Force",
-   "more": 0,
-   "ts": 1792606568,
-   "photo": "photos/MKE_WILSON_RITCHIE_262918.jpg"
   },
   {
    "key": "MAR_LUTHER_ISAAC_2026-10-21",
@@ -376,17 +398,6 @@
    "photo": null
   },
   {
-   "key": "MAR_LEE_CHA_2026-10-05",
-   "name": "Cha Lee",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Unknown Charge - Hold For Other Agency",
-   "more": 2,
-   "ts": 1792604421,
-   "photo": null
-  },
-  {
    "key": "FDL_BATTONWASHINGTON_AQUEELAH_2026-10-21",
    "name": "Aqueelah S Batton-Washington",
    "age": "",
@@ -396,17 +407,6 @@
    "more": 0,
    "ts": 1792602976,
    "photo": "photos/FDL_BATTONWASHINGTON_AQUEELAH_2026-10-21.jpg"
-  },
-  {
-   "key": "MAR_KOPTYRAWILLIAMS_KHARDEA_2026-10-21",
-   "name": "Khardea Francois Koptyra-Williams",
-   "age": "23",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1792601013,
-   "photo": "photos/MAR_KOPTYRAWILLIAMS_KHARDEA_2026-10-21.jpg"
   },
   {
    "key": "FDL_WAGNER_JUSTIN_2026-10-21",
