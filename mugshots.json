@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-21T07:49:28+00:00",
+ "updated": "2026-10-21T08:49:35+00:00",
  "items": [
+  {
+   "key": "MKE_WARD_VERISSA_630850",
+   "name": "Verissa M Ward",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792572354,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUDSON_LEON_168067",
+   "name": "Leon Jack Hudson",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792572352,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAYES_CALVIN_647897",
+   "name": "Calvin Malachi Hayes",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792572350,
+   "photo": null
+  },
+  {
+   "key": "MKE_CANADA_DERRICK_340708",
+   "name": "Derrick Canada",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792572348,
+   "photo": null
+  },
+  {
+   "key": "KEN_AYERS_SCOTT_2026-00005822",
+   "name": "SCOTT E Junior AYERS",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792571818,
+   "photo": "photos/KEN_AYERS_SCOTT_2026-00005822.jpg"
+  },
+  {
+   "key": "HOU_BRUMFIELD_JENNYMICHELLE_6304",
+   "name": "Jenny Michelle Brumfield",
+   "age": "34",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Neglect of a Child-Results Subst. Harm Physic (1-Court Pending)",
+   "more": 1,
+   "ts": 1792571367,
+   "photo": "photos/HOU_BRUMFIELD_JENNYMICHELLE_6304.jpg"
+  },
+  {
+   "key": "KEN_REED_MARQUEL_2026-00005821",
+   "name": "Marquel Reed",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792570960,
+   "photo": "photos/KEN_REED_MARQUEL_2026-00005821.jpg"
+  },
+  {
+   "key": "RC_DEBACK_JOHN_120011075474062",
+   "name": "John Michael Deback",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792570511,
+   "photo": "photos/RC_DEBACK_JOHN_120011075474062.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_CHARLENE_383549",
+   "name": "Charlene Cynthia Williams",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate Vehicle w/o Consent-Passenger",
+   "more": 6,
+   "ts": 1792569650,
+   "photo": "photos/MKE_WILLIAMS_CHARLENE_383549.jpg"
+  },
+  {
+   "key": "MKE_JOHNSON_ISAIAH_528485",
+   "name": "Isaiah Taveon Johnson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 3,
+   "ts": 1792569648,
+   "photo": null
+  },
+  {
+   "key": "KEN_TIDWELL_JUSTIN_2026-00005819",
+   "name": "Justin Warren Tidwell",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792569179,
+   "photo": "photos/KEN_TIDWELL_JUSTIN_2026-00005819.jpg"
+  },
   {
    "key": "RC_GULLEY_RONKEITH_120011075473714",
    "name": "Ronkeith D Gulley",
@@ -21,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 11,
    "ts": 1792566954,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_HAILEY_617498.jpg"
   },
   {
    "key": "RC_TYLER_CIREN_120011075473119",
@@ -79,17 +200,6 @@
    "photo": null
   },
   {
-   "key": "MKE_DIMMICK_ANDREW_629462",
-   "name": "Andrew James Dimmick",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792564274,
-   "photo": null
-  },
-  {
    "key": "MEIER_CHRISTOPHER_2026-10-21",
    "name": "Christopher J Meier",
    "age": "43",
@@ -99,50 +209,6 @@
    "more": 1,
    "ts": 1792563705,
    "photo": null
-  },
-  {
-   "key": "RC_HAUBRICH_KAILEY_120011075472080",
-   "name": "Kailey Marie Haubrich",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 0,
-   "ts": 1792562434,
-   "photo": "photos/RC_HAUBRICH_KAILEY_120011075472080.jpg"
-  },
-  {
-   "key": "KEN_COOKS_JEWEL_2026-00005818",
-   "name": "Jewel Cooks",
-   "age": "57",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792561988,
-   "photo": "photos/KEN_COOKS_JEWEL_2026-00005818.jpg"
-  },
-  {
-   "key": "MKE_WILSON_KATIE_647896",
-   "name": "Katie Wilson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792561580,
-   "photo": "photos/MKE_WILSON_KATIE_647896.jpg"
-  },
-  {
-   "key": "MKE_BAKER_DARNELL_647894",
-   "name": "Darnell L Baker",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792561575,
-   "photo": "photos/MKE_BAKER_DARNELL_647894.jpg"
   },
   {
    "key": "MAR_HERNANDEZ_JOSE_2026-10-20",
@@ -167,39 +233,6 @@
    "photo": null
   },
   {
-   "key": "RC_POLZIN_COREY_120011075471402",
-   "name": "Corey Micheal Polzin",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792559760,
-   "photo": "photos/RC_POLZIN_COREY_120011075471402.jpg"
-  },
-  {
-   "key": "KEN_COLEMAN_WILLIE_2026-00005815",
-   "name": "WILLIE JAMES Junior COLEMAN",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792559228,
-   "photo": "photos/KEN_COLEMAN_WILLIE_2026-00005815.jpg"
-  },
-  {
-   "key": "MKE_WILSONETAL_KATIE_647896",
-   "name": "KATIE Wilson ET AL",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792558854,
-   "photo": null
-  },
-  {
    "key": "MAR_ZAHRT_LOCHLIN_2026-10-20",
    "name": "Lochlin John Thomas Zahrt",
    "age": "17",
@@ -220,28 +253,6 @@
    "more": 1,
    "ts": 1792557607,
    "photo": "photos/MAR_WILLIAMS_DILLON_2026-10-20.jpg"
-  },
-  {
-   "key": "KEN_TABILI_RICHARD_2026-00005816",
-   "name": "Richard C Tabili",
-   "age": "63",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violation Of Harrassment Injunction Or Order",
-   "more": 0,
-   "ts": 1792556606,
-   "photo": "photos/KEN_TABILI_RICHARD_2026-00005816.jpg"
-  },
-  {
-   "key": "KEN_LEITH_JASON_2026-00005817",
-   "name": "Jason Peter Leith",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1792556526,
-   "photo": "photos/KEN_LEITH_JASON_2026-00005817.jpg"
   },
   {
    "key": "HUTCHINS_TREVON_2026-10-20",
@@ -516,17 +527,6 @@
    "charge": "Possess Methamphetamine",
    "more": 0,
    "ts": 1792481797,
-   "photo": null
-  },
-  {
-   "key": "SULLIVAN_BRAXTON_2026-10-20",
-   "name": "Braxton C Sullivan",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1792477725,
    "photo": null
   }
  ]
