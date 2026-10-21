@@ -1,6 +1,149 @@
 {
- "updated": "2026-10-21T19:49:46+00:00",
+ "updated": "2026-10-21T20:49:53+00:00",
  "items": [
+  {
+   "key": "MKE_SOTOPEREZ_LUIS_647908",
+   "name": "Luis F Soto Perez",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792615586,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSARIOSERRANO_ELFREN_387545",
+   "name": "Elfren Rosario-Serrano",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792615582,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLMES_DONTA_508759",
+   "name": "Donta A Holmes",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792615579,
+   "photo": null
+  },
+  {
+   "key": "MAR_KOCH_ERIC_2026-10-21",
+   "name": "Eric Koch",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792615397,
+   "photo": null
+  },
+  {
+   "key": "KASS_STEPHANIE_2026-10-21",
+   "name": "Stephanie J Kass",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792615019,
+   "photo": null
+  },
+  {
+   "key": "DOU_DRUMMOND_MICHAEL_2026-10-21",
+   "name": "Michael R Drummond",
+   "age": "31",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792613927,
+   "photo": null
+  },
+  {
+   "key": "FDL_STROBEL_KAYLA_2026-10-21",
+   "name": "Kayla Christine Strobel",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 3Rd Offense",
+   "more": 0,
+   "ts": 1792613899,
+   "photo": "photos/FDL_STROBEL_KAYLA_2026-10-21.jpg"
+  },
+  {
+   "key": "RC_SANCHEZ_JOSHUA_120011075494007",
+   "name": "Joshua Yahir Sanchez",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1792613718,
+   "photo": null
+  },
+  {
+   "key": "MKE_TERRY_RONNIE_289815",
+   "name": "Ronnie Jeffery Terry",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 17,
+   "ts": 1792612917,
+   "photo": null
+  },
+  {
+   "key": "MKE_RAMOS_ALTEMAR_2066362",
+   "name": "Altemar Ramos",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792612914,
+   "photo": null
+  },
+  {
+   "key": "RC_AVILA_ANDRES_120011075494056",
+   "name": "Andres Manuel Avila",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792612834,
+   "photo": "photos/RC_AVILA_ANDRES_120011075494056.jpg"
+  },
+  {
+   "key": "HUNNICUTT_BRANDY_2026-10-21",
+   "name": "Brandy A Hunnicutt",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792612772,
+   "photo": null
+  },
+  {
+   "key": "MAR_WARNER_CASEY_2026-10-21",
+   "name": "Casey Allyn Warner",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792612611,
+   "photo": "photos/MAR_WARNER_CASEY_2026-10-21.jpg"
+  },
   {
    "key": "MAR_DOUGLAS_ADAM_2026-10-21",
    "name": "Adam Lloyd Douglas",
@@ -52,7 +195,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 0,
+   "more": 9,
    "ts": 1792610213,
    "photo": null
   },
@@ -208,84 +351,7 @@
    "charge": "2nd Degree Sexual Assault/Use of Force",
    "more": 0,
    "ts": 1792606568,
-   "photo": null
-  },
-  {
-   "key": "MKE_POWELL_JUSTIN_604592",
-   "name": "Justin Damone Powell",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 1,
-   "ts": 1792606566,
-   "photo": "photos/MKE_POWELL_JUSTIN_604592.jpg"
-  },
-  {
-   "key": "MKE_PEREZ_MASON_647905",
-   "name": "Mason Perez",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792606564,
-   "photo": "photos/MKE_PEREZ_MASON_647905.jpg"
-  },
-  {
-   "key": "MKE_MIRANDA_ALFONSO_637548",
-   "name": "Alfonso M Miranda",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 1,
-   "ts": 1792606562,
-   "photo": "photos/MKE_MIRANDA_ALFONSO_637548.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_RIKAIA_647903",
-   "name": "Rikaia Jean Jackson",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792606560,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_LANIA_629626",
-   "name": "Lania Deshayla Jackson",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 4,
-   "ts": 1792606559,
-   "photo": "photos/MKE_JACKSON_LANIA_629626.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZDOMINGUEZ_ELEAZAR_647904",
-   "name": "Eleazar Gonzalez-dominguez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792606557,
-   "photo": "photos/MKE_GONZALEZDOMINGUEZ_ELEAZAR_647904.jpg"
-  },
-  {
-   "key": "MKE_BUKOWSKI_TIMOTHY_352792",
-   "name": "Timothy Ross Bukowski",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating w/ PAC (3rd)",
-   "more": 1,
-   "ts": 1792606555,
-   "photo": "photos/MKE_BUKOWSKI_TIMOTHY_352792.jpg"
+   "photo": "photos/MKE_WILSON_RITCHIE_262918.jpg"
   },
   {
    "key": "MAR_LUTHER_ISAAC_2026-10-21",
@@ -363,39 +429,6 @@
    "more": 0,
    "ts": 1792599441,
    "photo": "photos/FDL_MOWBRAY_PAUL_2026-10-21.jpg"
-  },
-  {
-   "key": "MAR_ELLIS_JOSHUA_2026-10-21",
-   "name": "Joshua Daniel Ellis",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792596604,
-   "photo": null
-  },
-  {
-   "key": "MAR_BLOCK_ANGELA_2026-10-21",
-   "name": "Angela Marie Block",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Revocation due to Alcohol/Controlled Substanc",
-   "more": 0,
-   "ts": 1792596604,
-   "photo": null
-  },
-  {
-   "key": "MAR_KELLY_SHANTY_2026-10-21",
-   "name": "Shanty Anne Kelly",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Revocation due to Alcohol/Controlled Substanc",
-   "more": 0,
-   "ts": 1792596604,
-   "photo": null
   },
   {
    "key": "TREM_WOODS_BRIAN_4754",
@@ -495,39 +528,6 @@
    "more": 1,
    "ts": 1792556228,
    "photo": null
-  },
-  {
-   "key": "CARABALLO_ADAM_2026-10-20",
-   "name": "Adam J Caraballo",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1792545704,
-   "photo": null
-  },
-  {
-   "key": "BANKS_KEYONA_2026-10-20",
-   "name": "Keyona R Banks",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792539827,
-   "photo": null
-  },
-  {
-   "key": "FDL_GODINA_JESSE_2026-10-20",
-   "name": "Jesse Lee Godina",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792531013,
-   "photo": "photos/FDL_GODINA_JESSE_2026-10-20.jpg"
   }
  ]
 }
