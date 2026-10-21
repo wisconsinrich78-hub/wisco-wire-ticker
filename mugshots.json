@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-21T15:49:30+00:00",
+ "updated": "2026-10-21T16:49:46+00:00",
  "items": [
+  {
+   "key": "MAR_KOPTYRAWILLIAMS_KHARDEA_2026-10-21",
+   "name": "Khardea Francois Koptyra-Williams",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1792601013,
+   "photo": "photos/MAR_KOPTYRAWILLIAMS_KHARDEA_2026-10-21.jpg"
+  },
+  {
+   "key": "KEN_ESPINOZAHERNANDEZ_EUSTAQUIO_2026-00005831",
+   "name": "Eustaquio Espinoza-Hernandez",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792600662,
+   "photo": null
+  },
+  {
+   "key": "KEN_DAYS_KENDELL_2026-00005830",
+   "name": "Kendell Days",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792600610,
+   "photo": null
+  },
+  {
+   "key": "KEN_CONLEY_LONNELL_2026-00005829",
+   "name": "LONNELL D Junior CONLEY",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792599744,
+   "photo": "photos/KEN_CONLEY_LONNELL_2026-00005829.jpg"
+  },
+  {
+   "key": "FDL_WAGNER_JUSTIN_2026-10-21",
+   "name": "Justin Francis Wagner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792599477,
+   "photo": "photos/FDL_WAGNER_JUSTIN_2026-10-21.jpg"
+  },
+  {
+   "key": "FDL_MOWBRAY_PAUL_2026-10-21",
+   "name": "Paul Jamesdavid Mowbray",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1792599441,
+   "photo": "photos/FDL_MOWBRAY_PAUL_2026-10-21.jpg"
+  },
+  {
+   "key": "KEN_RIVERA_MIGUEL_2026-00005828",
+   "name": "MIGUEL ANGEL Junior RIVERA",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792598882,
+   "photo": "photos/KEN_RIVERA_MIGUEL_2026-00005828.jpg"
+  },
   {
    "key": "MKE_MIMS_DARIAN_234451",
    "name": "Darian Alponzo Mims",
@@ -178,28 +255,6 @@
    "photo": "photos/MKE_TALIAFERRO_JAVONTAE_390986.jpg"
   },
   {
-   "key": "MKE_ORDONEZHUETE_EUGLIDES_518753",
-   "name": "Euglides D Ordonez-Huete",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 6,
-   "ts": 1792588576,
-   "photo": null
-  },
-  {
-   "key": "MKE_EVANS_CORELL_627970",
-   "name": "Corell Edward Evans",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792588573,
-   "photo": null
-  },
-  {
    "key": "MAR_JOHNSON_ANTHONY_2026-10-21",
    "name": "Anthony Allen Johnson",
    "age": "40",
@@ -231,28 +286,6 @@
    "more": 2,
    "ts": 1792586560,
    "photo": null
-  },
-  {
-   "key": "MKE_NORWOODPEVEY_JONATHAN_414882",
-   "name": "Jonathan D Norwood-Pevey",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>15-40g)",
-   "more": 3,
-   "ts": 1792585847,
-   "photo": "photos/MKE_NORWOODPEVEY_JONATHAN_414882.jpg"
-  },
-  {
-   "key": "MKE_GOODENALEXANDER_NAKYAH_647900",
-   "name": "Nakyah Renee Gooden-Alexander",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792585846,
-   "photo": "photos/MKE_GOODENALEXANDER_NAKYAH_647900.jpg"
   },
   {
    "key": "MAR_COOPER_JAMES_2026-10-21",
@@ -453,17 +486,6 @@
    "photo": "photos/MAR_MCDUFFY_DWIGHT_2026-10-20.jpg"
   },
   {
-   "key": "MAR_ROGERS_CHARLES_2026-10-20",
-   "name": "Charles Rogers",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1792544154,
-   "photo": "photos/MAR_ROGERS_CHARLES_2026-10-20.jpg"
-  },
-  {
    "key": "BANKS_KEYONA_2026-10-20",
    "name": "Keyona R Banks",
    "age": "36",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792509435,
    "photo": "photos/FDL_NETT_MARIO_2026-10-20.jpg"
-  },
-  {
-   "key": "JENSEN_JESSE_2026-10-20",
-   "name": "Jesse J Jensen",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792505230,
-   "photo": null
-  },
-  {
-   "key": "FDL_PAGLIARO_SYMPHONIE_2026-10-20",
-   "name": "Symphonie Sasha Pagliaro",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
-   "more": 2,
-   "ts": 1792498641,
-   "photo": "photos/FDL_PAGLIARO_SYMPHONIE_2026-10-20.jpg"
   }
  ]
 }
