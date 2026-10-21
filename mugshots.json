@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-21T02:49:35+00:00",
+ "updated": "2026-10-21T03:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_MAZURKIEWICZ_MELISSA_364072",
+   "name": "Melissa Marie Mazurkiewicz",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792553463,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOPEZLOPEZ_AMADO_626423",
+   "name": "Amado Lopez-Lopez",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792553461,
+   "photo": null
+  },
+  {
+   "key": "KEN_WAGGONER_CHRISTOPHER_2026-00005813",
+   "name": "Christopher Edward Waggoner",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property <=$2500 (Theft From Vehicle)",
+   "more": 2,
+   "ts": 1792553103,
+   "photo": "photos/KEN_WAGGONER_CHRISTOPHER_2026-00005813.jpg"
+  },
+  {
+   "key": "KEN_PEREZ_CONNOR_2026-00005812",
+   "name": "Connor James Perez",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Misd",
+   "more": 0,
+   "ts": 1792553025,
+   "photo": "photos/KEN_PEREZ_CONNOR_2026-00005812.jpg"
+  },
+  {
+   "key": "KEN_LEE_JOEL_2026-00005721",
+   "name": "JOEL Junior LEE",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 2,
+   "ts": 1792552946,
+   "photo": "photos/KEN_LEE_JOEL_2026-00005721.jpg"
+  },
   {
    "key": "MKE_WILEY_DAQUIN_604930",
    "name": "Daquin Lamar Wiley",
@@ -87,7 +142,7 @@
    "charge": "Possession Of Methamphetamine",
    "more": 1,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_JOHNSON_BENJAMIN_2026-10-20.jpg"
   },
   {
    "key": "MAR_MCDUFFY_DWIGHT_2026-10-20",
@@ -98,7 +153,7 @@
    "charge": "Possession Of Methamphetamine",
    "more": 7,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_MCDUFFY_DWIGHT_2026-10-20.jpg"
   },
   {
    "key": "MAR_ROGERS_CHARLES_2026-10-20",
@@ -109,7 +164,7 @@
    "charge": "Failure To Appear Warrant - Misdemeanor",
    "more": 0,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_ROGERS_CHARLES_2026-10-20.jpg"
   },
   {
    "key": "MAR_HUNTER_GERALD_2026-10-20",
@@ -120,7 +175,7 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_HUNTER_GERALD_2026-10-20.jpg"
   },
   {
    "key": "MAR_SLACK_DAKOTA_2026-10-20",
@@ -131,7 +186,7 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_SLACK_DAKOTA_2026-10-20.jpg"
   },
   {
    "key": "MAR_FRASER_MIRANDA_2026-10-20",
@@ -142,7 +197,7 @@
    "charge": "Failure To Appear Warrant - Misdemeanor",
    "more": 0,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_FRASER_MIRANDA_2026-10-20.jpg"
   },
   {
    "key": "MAR_HOLIDAY_BRANDON_2026-10-20",
@@ -153,7 +208,7 @@
    "charge": "Battery - Simple Assault",
    "more": 6,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_HOLIDAY_BRANDON_2026-10-20.jpg"
   },
   {
    "key": "MAR_INFANTE_LINDSEY_2026-10-20",
@@ -164,7 +219,7 @@
    "charge": "Operating While Under The Influence 4Th",
    "more": 0,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_INFANTE_LINDSEY_2026-10-20.jpg"
   },
   {
    "key": "MAR_GILBERT_JOSHUA_2026-10-20",
@@ -175,7 +230,7 @@
    "charge": "Failure To Appear Warrant - Misdemeanor",
    "more": 0,
    "ts": 1792544154,
-   "photo": null
+   "photo": "photos/MAR_GILBERT_JOSHUA_2026-10-20.jpg"
   },
   {
    "key": "MKE_PUENTE_MARIO_647892",
@@ -242,61 +297,6 @@
    "more": 1,
    "ts": 1792539827,
    "photo": null
-  },
-  {
-   "key": "MKE_VELASQUEZHERRERA_NELSON_642478",
-   "name": "Nelson Velasquez Herrera",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Drive or Operate Vehicle w/o Consent",
-   "more": 1,
-   "ts": 1792537275,
-   "photo": null
-  },
-  {
-   "key": "MKE_FREDA_ISAIAH_642900",
-   "name": "Isaiah Eliel Freda",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1792537273,
-   "photo": "photos/MKE_FREDA_ISAIAH_642900.jpg"
-  },
-  {
-   "key": "MKE_CONNER_DASHAWN_620446",
-   "name": "Dashawn Lamar Conner",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 5,
-   "ts": 1792537271,
-   "photo": null
-  },
-  {
-   "key": "MKE_CLEES_LAURA_644626",
-   "name": "Laura Catherine Clees",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1792537269,
-   "photo": "photos/MKE_CLEES_LAURA_644626.jpg"
-  },
-  {
-   "key": "RC_KIRKPATRICK_KYLE_120011075462981",
-   "name": "Kyle William Kirkpatrick",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792535397,
-   "photo": "photos/RC_KIRKPATRICK_KYLE_120011075462981.jpg"
   },
   {
    "key": "DOU_PERRY_ANGEL_2026-10-20",
