@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-21T21:53:52+00:00",
+ "updated": "2026-10-21T22:49:30+00:00",
  "items": [
+  {
+   "key": "KEN_STROBACH_MICHAEL_2026-00005838",
+   "name": "Michael Lewis Strobach",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792621306,
+   "photo": "photos/KEN_STROBACH_MICHAEL_2026-00005838.jpg"
+  },
+  {
+   "key": "MKE_SCOTT_JAYLEN_645185",
+   "name": "Jaylen Scott",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792620961,
+   "photo": null
+  },
+  {
+   "key": "MKE_NICKELSON_MALIKA_647909",
+   "name": "Malika Aquila Nickelson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792620959,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_TRAY_348042",
+   "name": "Tray Julius Jackson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Stalking",
+   "more": 7,
+   "ts": 1792620958,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_QUINCY_284726",
+   "name": "Quincy Lamar Allen",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Strangulation and Suffocation",
+   "more": 2,
+   "ts": 1792620956,
+   "photo": null
+  },
   {
    "key": "MKE_GUYTON_JAELYN_619071",
    "name": "Jaelyn Russell Guyton",
@@ -18,8 +73,8 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Burglary-Room w/in Building, etc.",
+   "more": 1,
    "ts": 1792618278,
    "photo": null
   },
@@ -189,50 +244,6 @@
    "photo": "photos/FDL_STROBEL_KAYLA_2026-10-21.jpg"
   },
   {
-   "key": "RC_SANCHEZ_JOSHUA_120011075494007",
-   "name": "Joshua Yahir Sanchez",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792613718,
-   "photo": null
-  },
-  {
-   "key": "MKE_TERRY_RONNIE_289815",
-   "name": "Ronnie Jeffery Terry",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 21,
-   "ts": 1792612917,
-   "photo": null
-  },
-  {
-   "key": "MKE_RAMOS_ALTEMAR_2066362",
-   "name": "Altemar Ramos",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792612914,
-   "photo": null
-  },
-  {
-   "key": "RC_AVILA_ANDRES_120011075494056",
-   "name": "Andres Manuel Avila",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols)",
-   "more": 0,
-   "ts": 1792612834,
-   "photo": "photos/RC_AVILA_ANDRES_120011075494056.jpg"
-  },
-  {
    "key": "HUNNICUTT_BRANDY_2026-10-21",
    "name": "Brandy A Hunnicutt",
    "age": "31",
@@ -297,17 +308,6 @@
    "more": 0,
    "ts": 1792610229,
    "photo": "photos/FDL_JOHNSON_STEVE_2026-10-21.jpg"
-  },
-  {
-   "key": "MKE_WEDDLE_XZAYVIER_647907",
-   "name": "Xzayvier M Weddle",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1792610213,
-   "photo": null
   },
   {
    "key": "MAR_MARTIN_BRADLEY_2026-10-20",
