@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-21T22:49:30+00:00",
+ "updated": "2026-10-21T23:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_WATKINS_AVION_647911",
+   "name": "Avion L Watkins",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792626357,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEVRIES_TIA_644245",
+   "name": "Tia J Devries",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792626355,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLAYPOOL_JAHLEEL_2057890",
+   "name": "Jahleel Kadeem Claypool",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Manufacture/Deliver Cocaine (>1-5g)",
+   "more": 5,
+   "ts": 1792626353,
+   "photo": null
+  },
+  {
+   "key": "RC_PHILLIPS_ALLISON_120011075500493",
+   "name": "Allison Kammer Phillips",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792626309,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIA_AMANDA_2026-00005839",
+   "name": "Amanda Garcia",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792625694,
+   "photo": "photos/KEN_GARCIA_AMANDA_2026-00005839.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_TIMOTHY_2065672",
+   "name": "Timothy Tyrone Williams",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792623669,
+   "photo": null
+  },
+  {
+   "key": "MKE_PATTERSON_DAVID_265124",
+   "name": "David William Patterson",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792623667,
+   "photo": null
+  },
+  {
+   "key": "MKE_ORTIZ_MAX_643376",
+   "name": "Max J Ortiz",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1792623665,
+   "photo": "photos/MKE_ORTIZ_MAX_643376.jpg"
+  },
+  {
+   "key": "MKE_BEARD_KEWAN_647910",
+   "name": "Kewan Dashay Beard",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of THC",
+   "more": 0,
+   "ts": 1792623664,
+   "photo": null
+  },
   {
    "key": "KEN_STROBACH_MICHAEL_2026-00005838",
    "name": "Michael Lewis Strobach",
@@ -18,7 +117,7 @@
    "age": "17",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Armed Robbery",
    "more": 0,
    "ts": 1792620961,
    "photo": null
@@ -65,7 +164,7 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 5,
    "ts": 1792618282,
-   "photo": null
+   "photo": "photos/MKE_GUYTON_JAELYN_619071.jpg"
   },
   {
    "key": "MKE_CORLEY_TIMOTHY_315202",
@@ -77,28 +176,6 @@
    "more": 1,
    "ts": 1792618278,
    "photo": null
-  },
-  {
-   "key": "MKE_ANDREW_IRIS_640733",
-   "name": "Iris Louise Andrew",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1792618275,
-   "photo": null
-  },
-  {
-   "key": "KEN_PAWLICKI_MARK_2026-00005837",
-   "name": "Mark Anthony Pawlicki",
-   "age": "52",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792617875,
-   "photo": "photos/KEN_PAWLICKI_MARK_2026-00005837.jpg"
   },
   {
    "key": "DOU_GARVEY_CHARLES_2026-10-11",
@@ -120,83 +197,6 @@
    "charge": "Charges:",
    "more": 1,
    "ts": 1792617515,
-   "photo": null
-  },
-  {
-   "key": "RC_PENUELAS_MICHAEL_120011075497246",
-   "name": "Michael Penuelas",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792617324,
-   "photo": "photos/RC_PENUELAS_MICHAEL_120011075497246.jpg"
-  },
-  {
-   "key": "RC_MCMURTRY_SHANTORIA_120011075497033",
-   "name": "Shantoria D Mcmurtry",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792616442,
-   "photo": "photos/RC_MCMURTRY_SHANTORIA_120011075497033.jpg"
-  },
-  {
-   "key": "RC_CARTER_DEANGELO_120011075497047",
-   "name": "Deangelo Leonardo Carter",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792616438,
-   "photo": "photos/RC_CARTER_DEANGELO_120011075497047.jpg"
-  },
-  {
-   "key": "RC_BURI_MICHELLE_120011075497067",
-   "name": "Michelle Marie Buri",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792616433,
-   "photo": "photos/RC_BURI_MICHELLE_120011075497067.jpg"
-  },
-  {
-   "key": "MKE_SOTOPEREZ_LUIS_647908",
-   "name": "Luis F Soto Perez",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792615586,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROSARIOSERRANO_ELFREN_387545",
-   "name": "Elfren Rosario-Serrano",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792615582,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOLMES_DONTA_508759",
-   "name": "Donta A Holmes",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792615579,
    "photo": null
   },
   {
