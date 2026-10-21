@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-21T12:49:41+00:00",
+ "updated": "2026-10-21T13:49:41+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_BREON_627156",
+   "name": "Breon Maurice Williams",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792588584,
+   "photo": null
+  },
+  {
+   "key": "MKE_TALIAFERRO_JAVONTAE_390986",
+   "name": "Javontae J Taliaferro",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 2,
+   "ts": 1792588580,
+   "photo": "photos/MKE_TALIAFERRO_JAVONTAE_390986.jpg"
+  },
+  {
+   "key": "MKE_ORDONEZHUETE_EUGLIDES_518753",
+   "name": "Euglides D Ordonez-Huete",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 6,
+   "ts": 1792588576,
+   "photo": null
+  },
+  {
+   "key": "MKE_EVANS_CORELL_627970",
+   "name": "Corell Edward Evans",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792588573,
+   "photo": null
+  },
   {
    "key": "MAR_JOHNSON_ANTHONY_2026-10-21",
    "name": "Anthony Allen Johnson",
@@ -43,7 +87,7 @@
    "charge": "Possess w/Intent-Cocaine (>15-40g)",
    "more": 3,
    "ts": 1792585847,
-   "photo": null
+   "photo": "photos/MKE_NORWOODPEVEY_JONATHAN_414882.jpg"
   },
   {
    "key": "MKE_GOODENALEXANDER_NAKYAH_647900",
@@ -51,8 +95,8 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1792585846,
    "photo": null
   },
@@ -233,39 +277,6 @@
    "photo": "photos/MKE_HUDSON_LEON_168067.jpg"
   },
   {
-   "key": "MKE_HAYES_CALVIN_647897",
-   "name": "Calvin Malachi Hayes",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792572350,
-   "photo": null
-  },
-  {
-   "key": "MKE_CANADA_DERRICK_340708",
-   "name": "Derrick Canada",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792572348,
-   "photo": "photos/MKE_CANADA_DERRICK_340708.jpg"
-  },
-  {
-   "key": "KEN_AYERS_SCOTT_2026-00005822",
-   "name": "SCOTT E Junior AYERS",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 0,
-   "ts": 1792571818,
-   "photo": "photos/KEN_AYERS_SCOTT_2026-00005822.jpg"
-  },
-  {
    "key": "HOU_BRUMFIELD_JENNYMICHELLE_6304",
    "name": "Jenny Michelle Brumfield",
    "age": "34",
@@ -275,17 +286,6 @@
    "more": 1,
    "ts": 1792571367,
    "photo": "photos/HOU_BRUMFIELD_JENNYMICHELLE_6304.jpg"
-  },
-  {
-   "key": "KEN_REED_MARQUEL_2026-00005821",
-   "name": "Marquel Reed",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
-   "more": 0,
-   "ts": 1792570960,
-   "photo": "photos/KEN_REED_MARQUEL_2026-00005821.jpg"
   },
   {
    "key": "MAR_BONHAM_NICHOLAS_2026-10-20",
