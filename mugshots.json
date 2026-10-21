@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-21T05:49:31+00:00",
+ "updated": "2026-10-21T06:49:32+00:00",
  "items": [
+  {
+   "key": "RC_PEOPLES_GERALD_120011075472777",
+   "name": "Gerald Peoples",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792565151,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_SARA_647323",
+   "name": "Sara Marie Gonzalez",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792564277,
+   "photo": null
+  },
+  {
+   "key": "MKE_DIMMICK_ANDREW_629462",
+   "name": "Andrew James Dimmick",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792564274,
+   "photo": null
+  },
+  {
+   "key": "MEIER_CHRISTOPHER_2026-10-21",
+   "name": "Christopher J Meier",
+   "age": "43",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 1,
+   "ts": 1792563705,
+   "photo": null
+  },
+  {
+   "key": "RC_HAUBRICH_KAILEY_120011075472080",
+   "name": "Kailey Marie Haubrich",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-felony",
+   "more": 0,
+   "ts": 1792562434,
+   "photo": "photos/RC_HAUBRICH_KAILEY_120011075472080.jpg"
+  },
+  {
+   "key": "KEN_COOKS_JEWEL_2026-00005818",
+   "name": "Jewel Cooks",
+   "age": "57",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792561988,
+   "photo": "photos/KEN_COOKS_JEWEL_2026-00005818.jpg"
+  },
   {
    "key": "MKE_WILSON_KATIE_647896",
    "name": "Katie Wilson",
@@ -187,61 +253,6 @@
    "more": 2,
    "ts": 1792553103,
    "photo": "photos/KEN_WAGGONER_CHRISTOPHER_2026-00005813.jpg"
-  },
-  {
-   "key": "KEN_PEREZ_CONNOR_2026-00005812",
-   "name": "Connor James Perez",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1792553025,
-   "photo": "photos/KEN_PEREZ_CONNOR_2026-00005812.jpg"
-  },
-  {
-   "key": "KEN_LEE_JOEL_2026-00005721",
-   "name": "JOEL Junior LEE",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 2,
-   "ts": 1792552946,
-   "photo": "photos/KEN_LEE_JOEL_2026-00005721.jpg"
-  },
-  {
-   "key": "MKE_WILEY_DAQUIN_604930",
-   "name": "Daquin Lamar Wiley",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792550760,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_ISAIAH_619907",
-   "name": "Isaiah Thomas",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792550757,
-   "photo": null
-  },
-  {
-   "key": "MKE_LUCKETT_WILLIE_290823",
-   "name": "Willie R Luckett",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1792550756,
-   "photo": null
   },
   {
    "key": "CARABALLO_ADAM_2026-10-20",
@@ -516,17 +527,6 @@
    "charge": "Possess Drug Paraphernalia",
    "more": 3,
    "ts": 1792477725,
-   "photo": null
-  },
-  {
-   "key": "MCCOY_WILLIAM_2026-10-20",
-   "name": "William E Mccoy",
-   "age": "50",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792476407,
    "photo": null
   }
  ]
