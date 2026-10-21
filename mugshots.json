@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-21T03:49:29+00:00",
+ "updated": "2026-10-21T04:49:31+00:00",
  "items": [
+  {
+   "key": "MAR_ZAHRT_LOCHLIN_2026-10-20",
+   "name": "Lochlin John Thomas Zahrt",
+   "age": "17",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Invade Privacy - View/Broadcast/Record Individual'S Genita",
+   "more": 0,
+   "ts": 1792557607,
+   "photo": "photos/MAR_ZAHRT_LOCHLIN_2026-10-20.jpg"
+  },
+  {
+   "key": "MAR_WILLIAMS_DILLON_2026-10-20",
+   "name": "Dillon Ray Williams",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792557607,
+   "photo": "photos/MAR_WILLIAMS_DILLON_2026-10-20.jpg"
+  },
+  {
+   "key": "KEN_TABILI_RICHARD_2026-00005816",
+   "name": "Richard C Tabili",
+   "age": "63",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792556606,
+   "photo": "photos/KEN_TABILI_RICHARD_2026-00005816.jpg"
+  },
+  {
+   "key": "KEN_LEITH_JASON_2026-00005817",
+   "name": "Jason Peter Leith",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792556526,
+   "photo": "photos/KEN_LEITH_JASON_2026-00005817.jpg"
+  },
+  {
+   "key": "HUTCHINS_TREVON_2026-10-20",
+   "name": "Trevon Hutchins",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Iid Tampering/Fail To Install/Violate Court Order",
+   "more": 2,
+   "ts": 1792556501,
+   "photo": null
+  },
+  {
+   "key": "FDL_LASALLE_CHRISHAWN_2026-10-20",
+   "name": "Chrishawn M Lasalle",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Carrying A Concealed Weapon",
+   "more": 1,
+   "ts": 1792556228,
+   "photo": null
+  },
+  {
+   "key": "MKE_COSEY_ANTONIO_632950",
+   "name": "Antonio M Cosey",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 10,
+   "ts": 1792556146,
+   "photo": null
+  },
   {
    "key": "MKE_MAZURKIEWICZ_MELISSA_364072",
    "name": "Melissa Marie Mazurkiewicz",
@@ -255,39 +332,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MORROW_STANLEY_622686",
-   "name": "Stanley Corinthan Morrow",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 1,
-   "ts": 1792540278,
-   "photo": "photos/MKE_MORROW_STANLEY_622686.jpg"
-  },
-  {
-   "key": "MKE_HILL_ANTHONY_361773",
-   "name": "Anthony Lamar Hill",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1792540277,
-   "photo": null
-  },
-  {
-   "key": "MKE_HEGG_BRADLEY_647891",
-   "name": "Bradley James Hegg",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft by Contractor <=$2500",
-   "more": 0,
-   "ts": 1792540275,
-   "photo": null
-  },
-  {
    "key": "BANKS_KEYONA_2026-10-20",
    "name": "Keyona R Banks",
    "age": "36",
@@ -409,28 +453,6 @@
    "photo": null
   },
   {
-   "key": "MAR_MCDUFFY_DWIGHT_2026-10-19",
-   "name": "Dwight Dion Mcduffy",
-   "age": "51",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear - Ncic Misdemeanor",
-   "more": 0,
-   "ts": 1792497808,
-   "photo": null
-  },
-  {
-   "key": "MAR_GARINGER_DARCIA_2026-10-19",
-   "name": "Darcia Lynn Garinger",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1792497808,
-   "photo": null
-  },
-  {
    "key": "DEGREGG_MICHAEL_2026-10-20",
    "name": "Michael D Degregg",
    "age": "48",
@@ -505,28 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792465620,
-   "photo": null
-  },
-  {
-   "key": "FDL_NIESEN_ERIC_2026-10-19",
-   "name": "Eric David Niesen",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WARRANT (x0)",
-   "more": 0,
-   "ts": 1792462624,
-   "photo": "photos/FDL_NIESEN_ERIC_2026-10-19.jpg"
-  },
-  {
-   "key": "CARABALLO_ADAM_2026-10-19",
-   "name": "Adam Jacob Caraballo",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792459718,
    "photo": null
   }
  ]
