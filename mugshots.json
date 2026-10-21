@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-21T14:49:40+00:00",
+ "updated": "2026-10-21T15:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_MIMS_DARIAN_234451",
+   "name": "Darian Alponzo Mims",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792596709,
+   "photo": null
+  },
+  {
+   "key": "MAR_ELLIS_JOSHUA_2026-10-21",
+   "name": "Joshua Daniel Ellis",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792596604,
+   "photo": null
+  },
+  {
+   "key": "MAR_BLOCK_ANGELA_2026-10-21",
+   "name": "Angela Marie Block",
+   "age": "56",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Revocation due to Alcohol/Controlled Substanc",
+   "more": 0,
+   "ts": 1792596604,
+   "photo": null
+  },
+  {
+   "key": "MAR_KELLY_SHANTY_2026-10-21",
+   "name": "Shanty Anne Kelly",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Revocation due to Alcohol/Controlled Substanc",
+   "more": 0,
+   "ts": 1792596604,
+   "photo": null
+  },
+  {
+   "key": "KEN_HERNANDEZ_ADRIAN_2026-00005825",
+   "name": "Adrian J Hernandez",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "1St Deg. Child Sexual Assault-Intercourse W/Person Under 12",
+   "more": 0,
+   "ts": 1792596531,
+   "photo": null
+  },
+  {
+   "key": "KEN_FELEISON_SCOTT_2026-00005826",
+   "name": "Scott Feleison",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1792596467,
+   "photo": null
+  },
+  {
+   "key": "RC_HOYT_BRYAN_120011075483468",
+   "name": "Bryan Joseph Hoyt",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792594814,
+   "photo": "photos/RC_HOYT_BRYAN_120011075483468.jpg"
+  },
   {
    "key": "MKE_WRIGHT_DEANDRA_647902",
    "name": "Deandra Shanta Wright",
@@ -176,50 +253,6 @@
    "more": 2,
    "ts": 1792585846,
    "photo": "photos/MKE_GOODENALEXANDER_NAKYAH_647900.jpg"
-  },
-  {
-   "key": "MKE_DEPP_DEVONTE_647899",
-   "name": "Devonte Taibre Depp",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792585845,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_ANEISHA_372420",
-   "name": "Aneisha Lynn Johnson",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792583171,
-   "photo": null
-  },
-  {
-   "key": "KEN_HANSEN_KRISTEN_2026-00005824",
-   "name": "Kristen Rae Hansen",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 2,
-   "ts": 1792581795,
-   "photo": "photos/KEN_HANSEN_KRISTEN_2026-00005824.jpg"
-  },
-  {
-   "key": "MKE_SHANDS_FELTON_647898",
-   "name": "Felton Othello Shands",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1792580476,
-   "photo": null
   },
   {
    "key": "MAR_COOPER_JAMES_2026-10-21",
@@ -429,39 +462,6 @@
    "more": 0,
    "ts": 1792544154,
    "photo": "photos/MAR_ROGERS_CHARLES_2026-10-20.jpg"
-  },
-  {
-   "key": "MAR_HUNTER_GERALD_2026-10-20",
-   "name": "Gerald William Hunter",
-   "age": "71",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792544154,
-   "photo": "photos/MAR_HUNTER_GERALD_2026-10-20.jpg"
-  },
-  {
-   "key": "MAR_SLACK_DAKOTA_2026-10-20",
-   "name": "Dakota Joseph David Slack",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792544154,
-   "photo": "photos/MAR_SLACK_DAKOTA_2026-10-20.jpg"
-  },
-  {
-   "key": "MAR_FRASER_MIRANDA_2026-10-20",
-   "name": "Miranda Kathleen Fraser",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1792544154,
-   "photo": "photos/MAR_FRASER_MIRANDA_2026-10-20.jpg"
   },
   {
    "key": "BANKS_KEYONA_2026-10-20",
