@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-21T23:49:30+00:00",
+ "updated": "2026-10-22T00:49:30+00:00",
  "items": [
+  {
+   "key": "MAR_ALLEN_DANIEL_2026-10-21",
+   "name": "Daniel D Allen",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 3,
+   "ts": 1792630070,
+   "photo": "photos/MAR_ALLEN_DANIEL_2026-10-21.jpg"
+  },
+  {
+   "key": "RC_MUELLER_JEFFREY_120011075501868",
+   "name": "Jeffrey T Mueller",
+   "age": "64",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792629910,
+   "photo": "photos/RC_MUELLER_JEFFREY_120011075501868.jpg"
+  },
+  {
+   "key": "MAR_HER_JACY_2026-10-21",
+   "name": "Jacy Her",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792629892,
+   "photo": null
+  },
+  {
+   "key": "MAR_LEMAY_TYLER_2026-10-21",
+   "name": "Tyler Joseph Lemay",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792629892,
+   "photo": null
+  },
+  {
+   "key": "KEN_PFOST_CHARLES_2026-00005843",
+   "name": "Charles Thomas Pfost",
+   "age": "63",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792629408,
+   "photo": null
+  },
+  {
+   "key": "MKE_WASHINGTON_LISA_644079",
+   "name": "Lisa Nishira Washington",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1792629051,
+   "photo": "photos/MKE_WASHINGTON_LISA_644079.jpg"
+  },
+  {
+   "key": "FDL_HERMAN_SAMANTHA_2026-10-21",
+   "name": "Samantha Jean Herman",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Battery To Public Officers",
+   "more": 1,
+   "ts": 1792628214,
+   "photo": "photos/FDL_HERMAN_SAMANTHA_2026-10-21.jpg"
+  },
+  {
+   "key": "KEN_ROLLINS_JBRIAN_2026-00005841",
+   "name": "Jbrian Rollins",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792627625,
+   "photo": "photos/KEN_ROLLINS_JBRIAN_2026-00005841.jpg"
+  },
+  {
+   "key": "MAR_SCHANANDORE_SHAWNDEL_2026-10-21",
+   "name": "Shawndel James Schanandore",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792627032,
+   "photo": "photos/MAR_SCHANANDORE_SHAWNDEL_2026-10-21.jpg"
+  },
   {
    "key": "MKE_WATKINS_AVION_647911",
    "name": "Avion L Watkins",
@@ -51,8 +150,8 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Battery",
+   "more": 2,
    "ts": 1792625694,
    "photo": "photos/KEN_GARCIA_AMANDA_2026-00005839.jpg"
   },
@@ -131,50 +230,6 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792620959,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_TRAY_348042",
-   "name": "Tray Julius Jackson",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 7,
-   "ts": 1792620958,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALLEN_QUINCY_284726",
-   "name": "Quincy Lamar Allen",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Strangulation and Suffocation",
-   "more": 2,
-   "ts": 1792620956,
-   "photo": null
-  },
-  {
-   "key": "MKE_GUYTON_JAELYN_619071",
-   "name": "Jaelyn Russell Guyton",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 5,
-   "ts": 1792618282,
-   "photo": "photos/MKE_GUYTON_JAELYN_619071.jpg"
-  },
-  {
-   "key": "MKE_CORLEY_TIMOTHY_315202",
-   "name": "Timothy Edward Corley",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Room w/in Building, etc.",
-   "more": 1,
-   "ts": 1792618278,
    "photo": null
   },
   {
@@ -354,50 +409,6 @@
    "photo": null
   },
   {
-   "key": "MAR_MICIK_JOHN_2026-10-21",
-   "name": "John P Micik",
-   "age": "51",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792607297,
-   "photo": "photos/MAR_MICIK_JOHN_2026-10-21.jpg"
-  },
-  {
-   "key": "MAR_STOKES_DEMETRIUS_2026-10-21",
-   "name": "Demetrius Cartez Stokes",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1792607297,
-   "photo": null
-  },
-  {
-   "key": "MAR_LUTHER_ISAAC_2026-10-21",
-   "name": "Isaac Robert Luther",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792606250,
-   "photo": "photos/MAR_LUTHER_ISAAC_2026-10-21.jpg"
-  },
-  {
-   "key": "MAR_PHILLIPS_JOSEPH_2026-09-27",
-   "name": "Joseph Richard Phillips",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation & Parole Warrant",
-   "more": 0,
-   "ts": 1792604421,
-   "photo": null
-  },
-  {
    "key": "FDL_BATTONWASHINGTON_AQUEELAH_2026-10-21",
    "name": "Aqueelah S Batton-Washington",
    "age": "",
@@ -516,17 +527,6 @@
    "charge": "Iid Tampering/Fail To Install/Violate Court Order",
    "more": 2,
    "ts": 1792556501,
-   "photo": null
-  },
-  {
-   "key": "FDL_LASALLE_CHRISHAWN_2026-10-20",
-   "name": "Chrishawn M Lasalle",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Carrying A Concealed Weapon",
-   "more": 1,
-   "ts": 1792556228,
    "photo": null
   }
  ]
