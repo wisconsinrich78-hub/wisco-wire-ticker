@@ -1,14 +1,113 @@
 {
- "updated": "2026-10-22T11:49:30+00:00",
+ "updated": "2026-10-22T12:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_SANCHEZINES_LUIS_647918",
+   "name": "Luis Sanchez-ines",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792672251,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUTCHINSETAL_TERYN_266904",
+   "name": "Teryn Jontae Hutchins ET AL",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792672249,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAWTHORNE_PATRICK_356778",
+   "name": "Patrick J Hawthorne",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 4,
+   "ts": 1792672247,
+   "photo": null
+  },
+  {
+   "key": "MKE_GREEN_TAJUAN_510549",
+   "name": "Tajuan Danelle Green",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Neglecting a Child (Harm Did Not Occur and Child Under 6 Years or Disa",
+   "more": 0,
+   "ts": 1792672246,
+   "photo": null
+  },
+  {
+   "key": "MKE_DONNELL_CHRISTOPHER_647916",
+   "name": "Christopher Valintino Donnell",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792672244,
+   "photo": "photos/MKE_DONNELL_CHRISTOPHER_647916.jpg"
+  },
+  {
+   "key": "MKE_CULBERSON_KEITH_355553",
+   "name": "Keith Culberson",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792672243,
+   "photo": null
+  },
+  {
+   "key": "FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22",
+   "name": "Sheyla J Vazquez Venegas",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 1,
+   "ts": 1792671769,
+   "photo": "photos/FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22.jpg"
+  },
+  {
+   "key": "MAR_DUPEE_RYAN_2026-10-22",
+   "name": "Ryan Paul Dupee",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1792671456,
+   "photo": null
+  },
+  {
+   "key": "MAR_LEE_XIONG_2026-10-22",
+   "name": "Xiong Pao Lee",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792671456,
+   "photo": null
+  },
   {
    "key": "MKE_TATE_YOSHIDA_389295",
    "name": "Yoshida Marieta Tate",
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 9,
    "ts": 1792669546,
    "photo": null
   },
@@ -54,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792666859,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ANTHONY_606460.jpg"
   },
   {
    "key": "MKE_JONES_ALEC_642433",
@@ -153,72 +252,6 @@
    "charge": "Operating While Revoked (Revocation Due to Alcohol/Controlled Substanc",
    "more": 0,
    "ts": 1792660801,
-   "photo": null
-  },
-  {
-   "key": "KEN_MARCIAL_VICTOR_2026-00005848",
-   "name": "Victor Manuel Marcial",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Reckless Driving Endanger Safety",
-   "more": 4,
-   "ts": 1792659091,
-   "photo": "photos/KEN_MARCIAL_VICTOR_2026-00005848.jpg"
-  },
-  {
-   "key": "MKE_THOMAS_DAVONTA_606594",
-   "name": "Davonta J Thomas",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1792658750,
-   "photo": null
-  },
-  {
-   "key": "MKE_DONNELL_CHRISTOPHGER_647916",
-   "name": "Christophger Valintino Donnell",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792658748,
-   "photo": "photos/MKE_DONNELL_CHRISTOPHGER_647916.jpg"
-  },
-  {
-   "key": "KEN_ELMORE_BRITTANI_2026-00005847",
-   "name": "Brittani Elmore",
-   "age": "",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Viol Of Child Safety Restraint - Child 4 Yrs But Less Than 8 Yrs",
-   "more": 3,
-   "ts": 1792658173,
-   "photo": null
-  },
-  {
-   "key": "MKE_LAWSONBLOCKMON_LAMONT_647915",
-   "name": "Lamont O Lawson-Blockmon",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792656060,
-   "photo": "photos/MKE_LAWSONBLOCKMON_LAMONT_647915.jpg"
-  },
-  {
-   "key": "MKE_CLARK_SHAVARIS_627447",
-   "name": "Shavaris L Clark",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792656058,
    "photo": null
   },
   {
@@ -409,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "MAR_LEMAY_TYLER_2026-10-21",
-   "name": "Tyler Joseph Lemay",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792629892,
-   "photo": null
-  },
-  {
    "key": "FDL_HERMAN_SAMANTHA_2026-10-21",
    "name": "Samantha Jean Herman",
    "age": "",
@@ -429,17 +451,6 @@
    "more": 1,
    "ts": 1792628214,
    "photo": "photos/FDL_HERMAN_SAMANTHA_2026-10-21.jpg"
-  },
-  {
-   "key": "MAR_SCHANANDORE_SHAWNDEL_2026-10-21",
-   "name": "Shawndel James Schanandore",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792627032,
-   "photo": "photos/MAR_SCHANANDORE_SHAWNDEL_2026-10-21.jpg"
   },
   {
    "key": "KASS_STEPHANIE_2026-10-21",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792599441,
    "photo": "photos/FDL_MOWBRAY_PAUL_2026-10-21.jpg"
-  },
-  {
-   "key": "TREM_WOODS_BRIAN_4754",
-   "name": "Brian Thomas Woods",
-   "age": "49",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792574076,
-   "photo": "photos/TREM_WOODS_BRIAN_4754.jpg"
   }
  ]
 }
