@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-22T04:49:36+00:00",
+ "updated": "2026-10-22T05:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_RODGERS_ROMEO_638326",
+   "name": "Romeo J Rodgers",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1792647939,
+   "photo": null
+  },
+  {
+   "key": "MAR_HALLETT_SHELLEY_2026-10-21",
+   "name": "Shelley Jo Hallett",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 2,
+   "ts": 1792647063,
+   "photo": "photos/MAR_HALLETT_SHELLEY_2026-10-21.jpg"
+  },
+  {
+   "key": "MAR_BECHEL_SAMANTHA_2026-10-21",
+   "name": "Samantha Ann Bechel",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 2,
+   "ts": 1792647063,
+   "photo": "photos/MAR_BECHEL_SAMANTHA_2026-10-21.jpg"
+  },
+  {
+   "key": "RC_BRONNER_TRAVIS_120011075506264",
+   "name": "Travis Bronner",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792645414,
+   "photo": "photos/RC_BRONNER_TRAVIS_120011075506264.jpg"
+  },
+  {
+   "key": "MKE_HALL_JORDAN_647912",
+   "name": "Jordan D Hall",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1792645314,
+   "photo": null
+  },
+  {
+   "key": "MKE_ESCOBEDOCARDONA_MANUEL_647913",
+   "name": "Manuel Escobedo Cardona",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792645308,
+   "photo": "photos/MKE_ESCOBEDOCARDONA_MANUEL_647913.jpg"
+  },
   {
    "key": "DOU_GARRITY_MICHAEL_2026-10-12",
    "name": "Michael D Garrity",
@@ -43,7 +109,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 1,
    "ts": 1792642559,
-   "photo": null
+   "photo": "photos/MKE_SANTANA_JUAN_335617.jpg"
   },
   {
    "key": "MKE_JOSEPHNDON_MADISYN_633973",
@@ -54,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792642554,
-   "photo": null
+   "photo": "photos/MKE_JOSEPHNDON_MADISYN_633973.jpg"
   },
   {
    "key": "KEN_HARDEMAN_JAVONTAE_2026-00005845",
@@ -62,8 +128,8 @@
    "age": "23",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Owi (2Nd)",
+   "more": 1,
    "ts": 1792641121,
    "photo": "photos/KEN_HARDEMAN_JAVONTAE_2026-00005845.jpg"
   },
@@ -87,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792639854,
-   "photo": null
+   "photo": "photos/MKE_YOUNG_CARLTON_295120.jpg"
   },
   {
    "key": "RC_KETCHUM_DAVID_120011075504930",
@@ -131,7 +197,7 @@
    "charge": "Habitual Criminality",
    "more": 6,
    "ts": 1792637158,
-   "photo": null
+   "photo": "photos/MKE_DANIELS_DALLAS_613447.jpg"
   },
   {
    "key": "RC_POLACK_JORDAN_120011075503680",
@@ -222,17 +288,6 @@
    "photo": "photos/FDL_LAST_TAYTEN_2026-10-21.jpg"
   },
   {
-   "key": "MKE_ALLEN_TERRY_389806",
-   "name": "Terry Laveris Allen",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792631757,
-   "photo": "photos/MKE_ALLEN_TERRY_389806.jpg"
-  },
-  {
    "key": "MAR_ALLEN_DANIEL_2026-10-21",
    "name": "Daniel D Allen",
    "age": "48",
@@ -242,17 +297,6 @@
    "more": 3,
    "ts": 1792630070,
    "photo": "photos/MAR_ALLEN_DANIEL_2026-10-21.jpg"
-  },
-  {
-   "key": "RC_MUELLER_JEFFREY_120011075501868",
-   "name": "Jeffrey T Mueller",
-   "age": "64",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792629910,
-   "photo": "photos/RC_MUELLER_JEFFREY_120011075501868.jpg"
   },
   {
    "key": "MAR_HER_JACY_2026-10-21",
@@ -275,28 +319,6 @@
    "more": 0,
    "ts": 1792629892,
    "photo": null
-  },
-  {
-   "key": "KEN_PFOST_CHARLES_2026-00005843",
-   "name": "Charles Thomas Pfost",
-   "age": "63",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 3,
-   "ts": 1792629408,
-   "photo": null
-  },
-  {
-   "key": "MKE_WASHINGTON_LISA_644079",
-   "name": "Lisa Nishira Washington",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1792629051,
-   "photo": "photos/MKE_WASHINGTON_LISA_644079.jpg"
   },
   {
    "key": "FDL_HERMAN_SAMANTHA_2026-10-21",
@@ -396,28 +418,6 @@
    "more": 0,
    "ts": 1792612772,
    "photo": null
-  },
-  {
-   "key": "MAR_WARNER_CASEY_2026-10-21",
-   "name": "Casey Allyn Warner",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792612611,
-   "photo": "photos/MAR_WARNER_CASEY_2026-10-21.jpg"
-  },
-  {
-   "key": "MAR_DOUGLAS_ADAM_2026-10-21",
-   "name": "Adam Lloyd Douglas",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1792611274,
-   "photo": "photos/MAR_DOUGLAS_ADAM_2026-10-21.jpg"
   },
   {
    "key": "FDL_JOHNSON_STEVE_2026-10-21",
