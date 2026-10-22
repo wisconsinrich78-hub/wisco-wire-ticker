@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-22T22:49:34+00:00",
+ "updated": "2026-10-22T23:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_HARRIS_MARCUS_283668",
+   "name": "Marcus Ramone Harris",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>5-15g)",
+   "more": 4,
+   "ts": 1792712751,
+   "photo": null
+  },
+  {
+   "key": "KEN_ALVAREZNUNEZ_JOSE_2026-00005858",
+   "name": "Jose Daniel Alvarez-Nunez",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792712188,
+   "photo": "photos/KEN_ALVAREZNUNEZ_JOSE_2026-00005858.jpg"
+  },
+  {
+   "key": "DOU_CUMMINGS_JOHN_2026-10-22",
+   "name": "John M Cummings",
+   "age": "47",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792711080,
+   "photo": null
+  },
+  {
+   "key": "FDL_WILLIAMS_SHAMARON_2026-10-22",
+   "name": "Shamaron Deshun Williams",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x0)",
+   "more": 0,
+   "ts": 1792711053,
+   "photo": "photos/FDL_WILLIAMS_SHAMARON_2026-10-22.jpg"
+  },
+  {
+   "key": "MEDINGER_RUSSELL_2026-10-22",
+   "name": "Russell J Medinger",
+   "age": "68",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1792710865,
+   "photo": null
+  },
+  {
+   "key": "MKE_SNARSKI_RICARDO_642315",
+   "name": "Ricardo D Snarski",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792710069,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_DONNELL_396665",
+   "name": "Donnell Terry Johnson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792710067,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAMES_DARYL_367892",
+   "name": "Daryl Allen James",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792710065,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEMASK_CHRISTINA_644454",
+   "name": "Christina C Demask",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1792710063,
+   "photo": null
+  },
   {
    "key": "FDL_CARY_DAZIA_2026-10-22",
    "name": "Dazia Joy Cary",
@@ -51,7 +150,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Domestic Abuse Surcharges",
    "more": 3,
    "ts": 1792707374,
    "photo": null
@@ -95,8 +194,8 @@
    "age": "61",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Cocaine (2nd and subsequent)",
+   "more": 2,
    "ts": 1792705514,
    "photo": null
   },
@@ -209,72 +308,6 @@
    "more": 0,
    "ts": 1792702773,
    "photo": "photos/MAR_HEARRON_BRYAN_2026-10-22.jpg"
-  },
-  {
-   "key": "MKE_NOLDEN_NIVEK_645983",
-   "name": "Nivek Ramaj Nolden",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792701948,
-   "photo": null
-  },
-  {
-   "key": "MKE_MERRITT_COURTNEY_540860",
-   "name": "Courtney Creshawn Merritt",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery to Certain Individuals Involved in a Court or Legal System",
-   "more": 0,
-   "ts": 1792701946,
-   "photo": null
-  },
-  {
-   "key": "MKE_MATTISON_ZACQUEN_631048",
-   "name": "Zacquen Donald Mattison",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 13,
-   "ts": 1792701944,
-   "photo": null
-  },
-  {
-   "key": "MKE_COHN_DEVOSSEON_512544",
-   "name": "Devosseon M Cohn",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1792701942,
-   "photo": null
-  },
-  {
-   "key": "RC_CRUZ_EDGAR_120011075529944",
-   "name": "Edgar Aguero Cruz",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792701917,
-   "photo": "photos/RC_CRUZ_EDGAR_120011075529944.jpg"
-  },
-  {
-   "key": "MKE_WILSON_ARYANNAH_647922",
-   "name": "Aryannah E Wilson",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792699255,
-   "photo": "photos/MKE_WILSON_ARYANNAH_647922.jpg"
   },
   {
    "key": "BALDWIN_LARRY_2026-10-22",
@@ -475,17 +508,6 @@
    "photo": null
   },
   {
-   "key": "MAR_JORGENSEN_BENJAMIN_2026-10-19",
-   "name": "Benjamin Carroll Jorgensen",
-   "age": "18",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 6,
-   "ts": 1792682201,
-   "photo": null
-  },
-  {
    "key": "NOLAN_AMBER_2026-10-22",
    "name": "Amber Mae Nolan",
    "age": "44",
@@ -505,28 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792679378,
-   "photo": null
-  },
-  {
-   "key": "FDL_SCHINGEN_JASON_2026-10-22",
-   "name": "Jason A Schingen",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792678684,
-   "photo": "photos/FDL_SCHINGEN_JASON_2026-10-22.jpg"
-  },
-  {
-   "key": "FDL_BONGARD_CHELSEA_2026-10-22",
-   "name": "Chelsea Marie Bongard",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1792678588,
    "photo": null
   }
  ]
