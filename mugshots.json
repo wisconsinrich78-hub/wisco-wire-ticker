@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-22T16:50:03+00:00",
+ "updated": "2026-10-22T17:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_SCHUSSMAN_JANET_214030",
+   "name": "Janet Marie Schussman",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792691151,
+   "photo": null
+  },
+  {
+   "key": "MKE_GROTJAHN_LUKAS_643337",
+   "name": "Lukas Grotjahn",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Child Pornography",
+   "more": 0,
+   "ts": 1792691149,
+   "photo": null
+  },
+  {
+   "key": "MAR_BOGE_JOSHUA_2026-10-22",
+   "name": "Joshua Douglas Boge",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792690527,
+   "photo": "photos/MAR_BOGE_JOSHUA_2026-10-22.jpg"
+  },
+  {
+   "key": "LEE_SYSOU_2026-10-22",
+   "name": "Sysou V Lee",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792690171,
+   "photo": null
+  },
+  {
+   "key": "DOU_HANSON_TIMOTHY_2026-10-22",
+   "name": "Timothy L Hanson",
+   "age": "37",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792689437,
+   "photo": null
+  },
+  {
+   "key": "FDL_USRY_MARTESE_2026-10-22",
+   "name": "Martese L Usry",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792689425,
+   "photo": "photos/FDL_USRY_MARTESE_2026-10-22.jpg"
+  },
+  {
+   "key": "FDL_DOBBS_JENNIFER_2026-10-22",
+   "name": "Jennifer May Dobbs",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Take And Drive Vehicle Without Owner'S Consent",
+   "more": 0,
+   "ts": 1792689378,
+   "photo": "photos/FDL_DOBBS_JENNIFER_2026-10-22.jpg"
+  },
+  {
+   "key": "MAR_LEWIS_BRIAN_2026-10-22",
+   "name": "Brian James Lewis",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1792688980,
+   "photo": "photos/MAR_LEWIS_BRIAN_2026-10-22.jpg"
+  },
+  {
+   "key": "MKE_BACKSTROM_TIMOTHY_512981",
+   "name": "Timothy D Backstrom",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 2,
+   "ts": 1792688491,
+   "photo": null
+  },
+  {
+   "key": "MKE_AGNEW_ROBERT_647921",
+   "name": "Robert Agnew",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792688489,
+   "photo": null
+  },
+  {
+   "key": "RC_KECK_ALEXIS_120011075521742",
+   "name": "Alexis Katheryn Keck",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1792688414,
+   "photo": null
+  },
   {
    "key": "MAR_MOSER_KEATON_2026-10-22",
    "name": "Keaton Ryan Moser",
@@ -32,7 +153,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792685776,
-   "photo": null
+   "photo": "photos/MKE_MOORE_SHAMEYA_618970.jpg"
   },
   {
    "key": "MKE_BRISBY_WILLIE_261936",
@@ -153,7 +274,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1792680387,
-   "photo": null
+   "photo": "photos/MKE_WALTON_LAMAR_2044749.jpg"
   },
   {
    "key": "RC_AGUILLEN_ALEXANDRIA_120011075508631",
@@ -209,39 +330,6 @@
    "more": 0,
    "ts": 1792678588,
    "photo": null
-  },
-  {
-   "key": "MKE_RITTMAN_KEYSHAWNNA_632754",
-   "name": "Keyshawnna Rittman",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1792677663,
-   "photo": "photos/MKE_RITTMAN_KEYSHAWNNA_632754.jpg"
-  },
-  {
-   "key": "MKE_LITTLEEASON_JUWUEN_632323",
-   "name": "Juwuen Anthony Little-Eason",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792677660,
-   "photo": "photos/MKE_LITTLEEASON_JUWUEN_632323.jpg"
-  },
-  {
-   "key": "MKE_HARRIS_ALVIN_242129",
-   "name": "Alvin Clifton Harris",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1792677658,
-   "photo": "photos/MKE_HARRIS_ALVIN_242129.jpg"
   },
   {
    "key": "MAR_HAUTAMAKI_JEREMIAH_2026-10-22",
@@ -354,61 +442,6 @@
    "photo": null
   },
   {
-   "key": "DOU_BULIZAK_TARA_2026-09-26",
-   "name": "Tara M Bulizak",
-   "age": "24",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792675107,
-   "photo": "photos/DOU_BULIZAK_TARA_2026-09-26.jpg"
-  },
-  {
-   "key": "DOU_CORRETJER_JORGE_2026-10-12",
-   "name": "Jorge A Corretjer",
-   "age": "41",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
-   "ts": 1792675104,
-   "photo": "photos/DOU_CORRETJER_JORGE_2026-10-12.jpg"
-  },
-  {
-   "key": "DOU_STAINE_MICHAEL_2026-10-22",
-   "name": "Michael A Staine",
-   "age": "33",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1792675098,
-   "photo": null
-  },
-  {
-   "key": "MKE_WATKINS_JERRY_626425",
-   "name": "Jerry D Watkins",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 11,
-   "ts": 1792674965,
-   "photo": "photos/MKE_WATKINS_JERRY_626425.jpg"
-  },
-  {
-   "key": "MKE_WALKER_KIANTE_336104",
-   "name": "Kiante W Walker",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 3,
-   "ts": 1792674963,
-   "photo": "photos/MKE_WALKER_KIANTE_336104.jpg"
-  },
-  {
    "key": "FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22",
    "name": "Sheyla J Vazquez Venegas",
    "age": "",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792631978,
    "photo": "photos/FDL_LAST_TAYTEN_2026-10-21.jpg"
-  },
-  {
-   "key": "FDL_HERMAN_SAMANTHA_2026-10-21",
-   "name": "Samantha Jean Herman",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery To Public Officers",
-   "more": 1,
-   "ts": 1792628214,
-   "photo": "photos/FDL_HERMAN_SAMANTHA_2026-10-21.jpg"
-  },
-  {
-   "key": "KASS_STEPHANIE_2026-10-21",
-   "name": "Stephanie J Kass",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792615019,
-   "photo": null
-  },
-  {
-   "key": "FDL_STROBEL_KAYLA_2026-10-21",
-   "name": "Kayla Christine Strobel",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 3Rd Offense",
-   "more": 0,
-   "ts": 1792613899,
-   "photo": "photos/FDL_STROBEL_KAYLA_2026-10-21.jpg"
   }
  ]
 }
