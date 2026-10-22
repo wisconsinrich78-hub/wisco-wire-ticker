@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-22T18:49:33+00:00",
+ "updated": "2026-10-22T19:49:48+00:00",
  "items": [
+  {
+   "key": "RC_BIXLER_CALEB_120011075528591",
+   "name": "Caleb Abraham Bixler",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792698317,
+   "photo": "photos/RC_BIXLER_CALEB_120011075528591.jpg"
+  },
+  {
+   "key": "KEN_RICHARDS_CHRISTA_2026-00005856",
+   "name": "Christa Christine Richards",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792698212,
+   "photo": "photos/KEN_RICHARDS_CHRISTA_2026-00005856.jpg"
+  },
+  {
+   "key": "GALLEGOS_RAYMUNDO_2026-10-22",
+   "name": "Raymundo Gallegos",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792697798,
+   "photo": null
+  },
+  {
+   "key": "DOU_OLSON_JEFFREY_2026-10-22",
+   "name": "Jeffrey J Olson",
+   "age": "36",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792696659,
+   "photo": null
+  },
+  {
+   "key": "FDL_BECK_BENJAMIN_2026-10-22",
+   "name": "Benjamin Ronald Beck",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 5Th Or 6Th Offense",
+   "more": 0,
+   "ts": 1792696578,
+   "photo": "photos/FDL_BECK_BENJAMIN_2026-10-22.jpg"
+  },
+  {
+   "key": "MKE_FORD_ARIANNA_516980",
+   "name": "Arianna K Ford",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Alter Price (>$500 - $5000)",
+   "more": 0,
+   "ts": 1792696553,
+   "photo": null
+  },
+  {
+   "key": "RC_COMPTON_STEVEN_120011075527284",
+   "name": "Steven Compton",
+   "age": "61",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792696512,
+   "photo": null
+  },
+  {
+   "key": "MAR_LEE_KOU_2026-10-22",
+   "name": "Kou Lee",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt Of Court-Disobey Order",
+   "more": 0,
+   "ts": 1792696412,
+   "photo": "photos/MAR_LEE_KOU_2026-10-22.jpg"
+  },
   {
    "key": "RC_YOUNG_MELISSA_120011075525724",
    "name": "Melissa Hope Young",
@@ -51,8 +139,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 2,
    "ts": 1792694287,
    "photo": "photos/KEN_KIRK_NICHOLAS_2026-00005855.jpg"
   },
@@ -156,39 +244,6 @@
    "photo": "photos/MAR_MALUEG_MELISSA_2026-10-22.jpg"
   },
   {
-   "key": "RC_TYSON_REMON_120011075523759",
-   "name": "Remon Blair Tyson",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792692025,
-   "photo": "photos/RC_TYSON_REMON_120011075523759.jpg"
-  },
-  {
-   "key": "RC_TOLIVER_TERRENCE_120011075523850",
-   "name": "Terrence Jeff Toliver",
-   "age": "58",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792692022,
-   "photo": "photos/RC_TOLIVER_TERRENCE_120011075523850.jpg"
-  },
-  {
-   "key": "RC_KUSZEWSKI_MICHAEL_120011075523876",
-   "name": "Michael John Kuszewski",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792692019,
-   "photo": "photos/RC_KUSZEWSKI_MICHAEL_120011075523876.jpg"
-  },
-  {
    "key": "MAR_MANCUSO_JOHN_2026-10-22",
    "name": "John Paul Mancuso",
    "age": "52",
@@ -208,17 +263,6 @@
    "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1792691677,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCHUSSMAN_JANET_214030",
-   "name": "Janet Marie Schussman",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792691151,
    "photo": null
   },
   {
@@ -420,28 +464,6 @@
    "photo": null
   },
   {
-   "key": "MAR_MURPHY_WILLIAM_2026-10-22",
-   "name": "William Joseph Murphy",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792675624,
-   "photo": null
-  },
-  {
-   "key": "MAR_LOPEZHERNANDEZ_JOEL_2026-10-22",
-   "name": "Joel Lopez-Hernandez",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Federal Hold",
-   "more": 0,
-   "ts": 1792675624,
-   "photo": null
-  },
-  {
    "key": "FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22",
    "name": "Sheyla J Vazquez Venegas",
    "age": "",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792654389,
    "photo": "photos/FDL_HALSEY_ANTONIO_2026-10-22_26FP3117.jpg"
-  },
-  {
-   "key": "REDMOND_LEE_2026-10-21",
-   "name": "Lee H Redmond",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792633460,
-   "photo": null
-  },
-  {
-   "key": "FDL_LAST_TAYTEN_2026-10-21",
-   "name": "Tayten Leroy Last",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1792631978,
-   "photo": "photos/FDL_LAST_TAYTEN_2026-10-21.jpg"
   }
  ]
 }
