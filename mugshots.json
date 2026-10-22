@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-22T03:49:28+00:00",
+ "updated": "2026-10-22T04:49:36+00:00",
  "items": [
+  {
+   "key": "DOU_GARRITY_MICHAEL_2026-10-12",
+   "name": "Michael D Garrity",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792643116,
+   "photo": "photos/DOU_GARRITY_MICHAEL_2026-10-12.jpg"
+  },
+  {
+   "key": "DOU_MILLER_BRYAN_2026-10-21",
+   "name": "Bryan M Miller",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1792643109,
+   "photo": "photos/DOU_MILLER_BRYAN_2026-10-21.jpg"
+  },
+  {
+   "key": "RC_SMITH_DERICK_120011075505684",
+   "name": "Derick R Smith",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792642643,
+   "photo": "photos/RC_SMITH_DERICK_120011075505684.jpg"
+  },
+  {
+   "key": "MKE_SANTANA_JUAN_335617",
+   "name": "Juan D Santana",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1792642559,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOSEPHNDON_MADISYN_633973",
+   "name": "Madisyn N Joseph-Ndon",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792642554,
+   "photo": null
+  },
+  {
+   "key": "KEN_HARDEMAN_JAVONTAE_2026-00005845",
+   "name": "Javontae Louis Hardeman",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792641121,
+   "photo": "photos/KEN_HARDEMAN_JAVONTAE_2026-00005845.jpg"
+  },
   {
    "key": "MAR_ONEIL_THOMAS_2026-10-21",
    "name": "Thomas W Oneil",
@@ -29,7 +95,7 @@
    "age": "38",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792638907,
    "photo": null
@@ -62,7 +128,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Habitual Criminality",
    "more": 6,
    "ts": 1792637158,
    "photo": null
@@ -244,17 +310,6 @@
    "photo": "photos/FDL_HERMAN_SAMANTHA_2026-10-21.jpg"
   },
   {
-   "key": "KEN_ROLLINS_JBRIAN_2026-00005841",
-   "name": "Jbrian Rollins",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1792627625,
-   "photo": "photos/KEN_ROLLINS_JBRIAN_2026-00005841.jpg"
-  },
-  {
    "key": "MAR_SCHANANDORE_SHAWNDEL_2026-10-21",
    "name": "Shawndel James Schanandore",
    "age": "58",
@@ -264,39 +319,6 @@
    "more": 0,
    "ts": 1792627032,
    "photo": "photos/MAR_SCHANANDORE_SHAWNDEL_2026-10-21.jpg"
-  },
-  {
-   "key": "MKE_WATKINS_AVION_647911",
-   "name": "Avion L Watkins",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792626357,
-   "photo": "photos/MKE_WATKINS_AVION_647911.jpg"
-  },
-  {
-   "key": "MKE_DEVRIES_TIA_644245",
-   "name": "Tia J Devries",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792626355,
-   "photo": "photos/MKE_DEVRIES_TIA_644245.jpg"
-  },
-  {
-   "key": "MKE_CLAYPOOL_JAHLEEL_2057890",
-   "name": "Jahleel Kadeem Claypool",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Manufacture/Deliver Cocaine (>1-5g)",
-   "more": 5,
-   "ts": 1792626353,
-   "photo": "photos/MKE_CLAYPOOL_JAHLEEL_2057890.jpg"
   },
   {
    "key": "DOU_GARVEY_CHARLES_2026-10-11",
@@ -396,28 +418,6 @@
    "more": 1,
    "ts": 1792611274,
    "photo": "photos/MAR_DOUGLAS_ADAM_2026-10-21.jpg"
-  },
-  {
-   "key": "MAR_VILLANUEVAGONZALEZ_DAVID_2026-10-21",
-   "name": "David Villanueva Gonzalez",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 1,
-   "ts": 1792610913,
-   "photo": null
-  },
-  {
-   "key": "MAR_ALLEN_LYNN_2026-10-21",
-   "name": "Lynn Marie Allen",
-   "age": "62",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence - 3Rd Offense",
-   "more": 1,
-   "ts": 1792610913,
-   "photo": null
   },
   {
    "key": "FDL_JOHNSON_STEVE_2026-10-21",
