@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-22T00:49:30+00:00",
+ "updated": "2026-10-22T01:49:34+00:00",
  "items": [
+  {
+   "key": "RC_MARINGER_DANIEL_120011075502962",
+   "name": "Daniel Maringer",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792633505,
+   "photo": null
+  },
+  {
+   "key": "REDMOND_LEE_2026-10-21",
+   "name": "Lee H Redmond",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792633460,
+   "photo": null
+  },
+  {
+   "key": "FDL_LAST_TAYTEN_2026-10-21",
+   "name": "Tayten Leroy Last",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1792631978,
+   "photo": "photos/FDL_LAST_TAYTEN_2026-10-21.jpg"
+  },
+  {
+   "key": "MKE_ALLEN_TERRY_389806",
+   "name": "Terry Laveris Allen",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792631757,
+   "photo": null
+  },
   {
    "key": "MAR_ALLEN_DANIEL_2026-10-21",
    "name": "Daniel D Allen",
@@ -18,7 +62,7 @@
    "age": "64",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792629910,
    "photo": "photos/RC_MUELLER_JEFFREY_120011075501868.jpg"
@@ -51,8 +95,8 @@
    "age": "63",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 3,
    "ts": 1792629408,
    "photo": null
   },
@@ -84,7 +128,7 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1792627625,
    "photo": "photos/KEN_ROLLINS_JBRIAN_2026-00005841.jpg"
@@ -164,7 +208,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792623669,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_TIMOTHY_2065672.jpg"
   },
   {
    "key": "MKE_PATTERSON_DAVID_265124",
@@ -197,7 +241,7 @@
    "charge": "Possession of THC",
    "more": 0,
    "ts": 1792623664,
-   "photo": null
+   "photo": "photos/MKE_BEARD_KEWAN_647910.jpg"
   },
   {
    "key": "KEN_STROBACH_MICHAEL_2026-00005838",
@@ -209,28 +253,6 @@
    "more": 0,
    "ts": 1792621306,
    "photo": "photos/KEN_STROBACH_MICHAEL_2026-00005838.jpg"
-  },
-  {
-   "key": "MKE_SCOTT_JAYLEN_645185",
-   "name": "Jaylen Scott",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Armed Robbery",
-   "more": 0,
-   "ts": 1792620961,
-   "photo": null
-  },
-  {
-   "key": "MKE_NICKELSON_MALIKA_647909",
-   "name": "Malika Aquila Nickelson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792620959,
-   "photo": null
   },
   {
    "key": "DOU_GARVEY_CHARLES_2026-10-11",
@@ -505,28 +527,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 1,
    "ts": 1792563705,
-   "photo": null
-  },
-  {
-   "key": "HAMMES_RYAN_2026-10-21",
-   "name": "Ryan J Hammes",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792560112,
-   "photo": null
-  },
-  {
-   "key": "HUTCHINS_TREVON_2026-10-20",
-   "name": "Trevon Hutchins",
-   "age": "31",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Iid Tampering/Fail To Install/Violate Court Order",
-   "more": 2,
-   "ts": 1792556501,
    "photo": null
   }
  ]
