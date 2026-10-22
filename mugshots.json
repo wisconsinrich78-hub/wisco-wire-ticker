@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-22T21:49:35+00:00",
+ "updated": "2026-10-22T22:49:34+00:00",
  "items": [
+  {
+   "key": "FDL_CARY_DAZIA_2026-10-22",
+   "name": "Dazia Joy Cary",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792707380,
+   "photo": null
+  },
+  {
+   "key": "FDL_CARY_FREDERIC_2026-10-22",
+   "name": "Frederic Paul Cary",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792707380,
+   "photo": "photos/FDL_CARY_FREDERIC_2026-10-22.jpg"
+  },
+  {
+   "key": "MKE_YOUNG_KARONN_647924",
+   "name": "Karonn H Young",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792707377,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_CARL_394733",
+   "name": "Carl Isaiah Williams",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 2,
+   "ts": 1792707376,
+   "photo": null
+  },
+  {
+   "key": "MKE_MURRYBANKS_DEQUWAN_647923",
+   "name": "Dequwan Lamont Murry Banks",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1792707374,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_DAVID_510630",
+   "name": "David Deshawn Lewis",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1792707371,
+   "photo": null
+  },
+  {
+   "key": "RC_GOMEZ_EDUARDO_120011075532702",
+   "name": "Eduardo Kevin Gomez",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 0,
+   "ts": 1792707304,
+   "photo": null
+  },
+  {
+   "key": "SILVERAZALDO_LIONEL_2026-10-22",
+   "name": "Lionel I Silvera Zaldo",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792707261,
+   "photo": null
+  },
   {
    "key": "RC_COMPTON_STEPHEN_120011075527284",
    "name": "Stephen Compton",
@@ -29,7 +117,7 @@
    "age": "33",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disobedient Witness",
    "more": 0,
    "ts": 1792704653,
    "photo": null
@@ -40,7 +128,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1792704651,
    "photo": null
@@ -62,7 +150,7 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Misdemeanor Battery",
    "more": 0,
    "ts": 1792704608,
    "photo": "photos/RC_GOMEZ_FERNANDO_120011075531586.jpg"
@@ -189,28 +277,6 @@
    "photo": "photos/MKE_WILSON_ARYANNAH_647922.jpg"
   },
   {
-   "key": "MKE_TYSON_LARRY_299717",
-   "name": "Larry Lamont Tyson",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792699253,
-   "photo": null
-  },
-  {
-   "key": "MKE_BANKS_DEVONTE_512218",
-   "name": "Devonte Carlton Banks",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 3,
-   "ts": 1792699251,
-   "photo": null
-  },
-  {
    "key": "BALDWIN_LARRY_2026-10-22",
    "name": "Larry Adoniis Baldwin",
    "age": "31",
@@ -220,28 +286,6 @@
    "more": 0,
    "ts": 1792698704,
    "photo": null
-  },
-  {
-   "key": "RC_BIXLER_CALEB_120011075528591",
-   "name": "Caleb Abraham Bixler",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792698317,
-   "photo": "photos/RC_BIXLER_CALEB_120011075528591.jpg"
-  },
-  {
-   "key": "KEN_RICHARDS_CHRISTA_2026-00005856",
-   "name": "Christa Christine Richards",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792698212,
-   "photo": "photos/KEN_RICHARDS_CHRISTA_2026-00005856.jpg"
   },
   {
    "key": "GALLEGOS_RAYMUNDO_2026-10-22",
@@ -275,17 +319,6 @@
    "more": 0,
    "ts": 1792696578,
    "photo": "photos/FDL_BECK_BENJAMIN_2026-10-22.jpg"
-  },
-  {
-   "key": "MKE_FORD_ARIANNA_516980",
-   "name": "Arianna K Ford",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Alter Price (>$500 - $5000)",
-   "more": 0,
-   "ts": 1792696553,
-   "photo": null
   },
   {
    "key": "MAR_LEE_KOU_2026-10-22",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792678588,
    "photo": null
-  },
-  {
-   "key": "FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22",
-   "name": "Sheyla J Vazquez Venegas",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 1,
-   "ts": 1792671769,
-   "photo": "photos/FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22.jpg"
-  },
-  {
-   "key": "HOU_GRIEP_JESSEBLU_6306",
-   "name": "Jesse Blu Griep",
-   "age": "33",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Traffic - DWI - Second-Degree Driving While I (1-Court Pending)",
-   "more": 0,
-   "ts": 1792668945,
-   "photo": "photos/HOU_GRIEP_JESSEBLU_6306.jpg"
-  },
-  {
-   "key": "FDL_FREITAG_MATTHEW_2026-10-22",
-   "name": "Matthew Paul Freitag",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1792667889,
-   "photo": "photos/FDL_FREITAG_MATTHEW_2026-10-22.jpg"
   }
  ]
 }
