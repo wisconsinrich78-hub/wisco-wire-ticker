@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T09:49:33+00:00",
+ "updated": "2026-10-22T10:49:27+00:00",
  "items": [
+  {
+   "key": "RC_BELL_DAMYA_120011075511641",
+   "name": "Damya Cymere Bell",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792665922,
+   "photo": "photos/RC_BELL_DAMYA_120011075511641.jpg"
+  },
+  {
+   "key": "MKE_JACKSON_DIASHA_647917",
+   "name": "Diasha Jackson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792664176,
+   "photo": null
+  },
   {
    "key": "MKE_WOLNIK_BENJAMIN_2054738",
    "name": "Benjamin J Wolnik",
@@ -186,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792653493,
-   "photo": null
+   "photo": "photos/MKE_REDMOND_VERNAL_639638.jpg"
   },
   {
    "key": "RC_GONZALES_ALEXANDRIA_120011075508631",
@@ -220,28 +242,6 @@
    "more": 0,
    "ts": 1792650471,
    "photo": null
-  },
-  {
-   "key": "RC_LEMLEY_RICHARD_120011075507485",
-   "name": "Richard William Lemley",
-   "age": "60",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792649804,
-   "photo": null
-  },
-  {
-   "key": "RC_PATTERSON_JACOB_120011075507463",
-   "name": "Jacob Tyler Patterson",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
-   "more": 0,
-   "ts": 1792648880,
-   "photo": "photos/RC_PATTERSON_JACOB_120011075507463.jpg"
   },
   {
    "key": "MAR_HALLETT_SHELLEY_2026-10-21",
