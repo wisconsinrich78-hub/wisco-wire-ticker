@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-22T20:49:29+00:00",
+ "updated": "2026-10-22T21:49:35+00:00",
  "items": [
+  {
+   "key": "RC_COMPTON_STEPHEN_120011075527284",
+   "name": "Stephen Compton",
+   "age": "61",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792705514,
+   "photo": null
+  },
+  {
+   "key": "VUE_BLONG_2026-10-22",
+   "name": "Blong Vue",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1792705470,
+   "photo": null
+  },
+  {
+   "key": "MKE_WINDOM_SHARQUON_540302",
+   "name": "Sharquon Sandra Windom",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792704653,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBERSON_DONZELL_611500",
+   "name": "Donzell L Roberson",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792704651,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_MIKELL_627123",
+   "name": "Mikell Breedlove Johnson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 10,
+   "ts": 1792704649,
+   "photo": null
+  },
+  {
+   "key": "RC_GOMEZ_FERNANDO_120011075531586",
+   "name": "Fernando Xavier Gomez",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792704608,
+   "photo": "photos/RC_GOMEZ_FERNANDO_120011075531586.jpg"
+  },
+  {
+   "key": "DOU_HAKALA_SAMANTHA_2026-10-22",
+   "name": "Samantha R Hakala",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792703847,
+   "photo": null
+  },
+  {
+   "key": "FDL_LOTZ_RYAN_2026-10-22",
+   "name": "Ryan Nicolas Lotz",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792703804,
+   "photo": "photos/FDL_LOTZ_RYAN_2026-10-22.jpg"
+  },
+  {
+   "key": "MAR_TALLMAN_DYLAN_2026-10-22",
+   "name": "Dylan Donald Tallman",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792703353,
+   "photo": "photos/MAR_TALLMAN_DYLAN_2026-10-22.jpg"
+  },
+  {
+   "key": "MAR_HOFFOLERICH_CRYSTAL_2026-10-22",
+   "name": "Crystal Ann Hoff-Olerich",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Controlled Substance",
+   "more": 6,
+   "ts": 1792702773,
+   "photo": "photos/MAR_HOFFOLERICH_CRYSTAL_2026-10-22.jpg"
+  },
+  {
+   "key": "MAR_HEARRON_BRYAN_2026-10-22",
+   "name": "Bryan Lee Hearron",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792702773,
+   "photo": "photos/MAR_HEARRON_BRYAN_2026-10-22.jpg"
+  },
   {
    "key": "MKE_NOLDEN_NIVEK_645983",
    "name": "Nivek Ramaj Nolden",
@@ -167,17 +288,6 @@
    "photo": null
   },
   {
-   "key": "RC_COMPTON_STEVEN_120011075527284",
-   "name": "Steven Compton",
-   "age": "61",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792696512,
-   "photo": null
-  },
-  {
    "key": "MAR_LEE_KOU_2026-10-22",
    "name": "Kou Lee",
    "age": "38",
@@ -189,39 +299,6 @@
    "photo": "photos/MAR_LEE_KOU_2026-10-22.jpg"
   },
   {
-   "key": "RC_YOUNG_MELISSA_120011075525724",
-   "name": "Melissa Hope Young",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Hit And Run",
-   "more": 0,
-   "ts": 1792694716,
-   "photo": null
-  },
-  {
-   "key": "RC_NEAL_BRANDON_120011075525637",
-   "name": "Brandon Deontae Neal",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792694713,
-   "photo": "photos/RC_NEAL_BRANDON_120011075525637.jpg"
-  },
-  {
-   "key": "RC_MENGO_PHILLIP_120011075526319",
-   "name": "Phillip John Mengo",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792694711,
-   "photo": "photos/RC_MENGO_PHILLIP_120011075526319.jpg"
-  },
-  {
    "key": "MAR_EVANS_JENNIFER_2026-10-22",
    "name": "Jennifer Elizabeth Evans",
    "age": "50",
@@ -231,17 +308,6 @@
    "more": 0,
    "ts": 1792694523,
    "photo": null
-  },
-  {
-   "key": "KEN_KIRK_NICHOLAS_2026-00005855",
-   "name": "Nicholas Dean Kirk",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1792694287,
-   "photo": "photos/KEN_KIRK_NICHOLAS_2026-00005855.jpg"
   },
   {
    "key": "MAR_MALUEG_MELISSA_2026-10-22",
@@ -431,50 +497,6 @@
    "photo": null
   },
   {
-   "key": "MAR_HAUTAMAKI_JEREMIAH_2026-10-22",
-   "name": "Jeremiah Lee Hautamaki",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792675624,
-   "photo": null
-  },
-  {
-   "key": "MAR_ANGLES_JOSE_2026-10-22",
-   "name": "Jose A Angles",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Rev Due to Alc/Cont Sub/Refusal)",
-   "more": 1,
-   "ts": 1792675624,
-   "photo": null
-  },
-  {
-   "key": "MAR_LOVEJOY_CHRISTIAN_2026-10-22",
-   "name": "Christian Keashawn Daunte Lovejoy",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Child Support",
-   "more": 1,
-   "ts": 1792675624,
-   "photo": null
-  },
-  {
-   "key": "MAR_LAU_HENRY_2026-10-22",
-   "name": "Henry Lau",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792675624,
-   "photo": null
-  },
-  {
    "key": "FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22",
    "name": "Sheyla J Vazquez Venegas",
    "age": "",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792667889,
    "photo": "photos/FDL_FREITAG_MATTHEW_2026-10-22.jpg"
-  },
-  {
-   "key": "SOUTHALL_MARQUESE_2026-10-22",
-   "name": "Marquese R Southall",
-   "age": "25",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792655501,
-   "photo": null
-  },
-  {
-   "key": "FDL_WOODLERIANS_ALFONSINA_2026-10-22",
-   "name": "Alfonsina S Wood Lerians",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1792654754,
-   "photo": null
   }
  ]
 }
