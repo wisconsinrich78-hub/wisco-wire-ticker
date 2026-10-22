@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-22T08:49:37+00:00",
+ "updated": "2026-10-22T09:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_WOLNIK_BENJAMIN_2054738",
+   "name": "Benjamin J Wolnik",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792661450,
+   "photo": null
+  },
+  {
+   "key": "MKE_MIDDLETON_KETURAH_626500",
+   "name": "Keturah Middleton",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792661448,
+   "photo": null
+  },
+  {
+   "key": "KEN_WILLIAMS_JAYVEON_2026-00005849",
+   "name": "Jayveon Lonell Williams",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (1St)",
+   "more": 0,
+   "ts": 1792660905,
+   "photo": null
+  },
+  {
+   "key": "MAR_SCHMIDT_DARRIN_2026-10-21",
+   "name": "Darrin J Schmidt",
+   "age": "53",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Revocation Due to Alcohol/Controlled Substanc",
+   "more": 0,
+   "ts": 1792660801,
+   "photo": null
+  },
+  {
+   "key": "KEN_MARCIAL_VICTOR_2026-00005848",
+   "name": "Victor Manuel Marcial",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Reckless Driving Endanger Safety",
+   "more": 4,
+   "ts": 1792659091,
+   "photo": "photos/KEN_MARCIAL_VICTOR_2026-00005848.jpg"
+  },
   {
    "key": "MKE_THOMAS_DAVONTA_606594",
    "name": "Davonta J Thomas",
@@ -29,8 +84,8 @@
    "age": "",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Viol Of Child Safety Restraint - Child 4 Yrs But Less Than 8 Yrs",
+   "more": 3,
    "ts": 1792658173,
    "photo": null
   },
@@ -43,7 +98,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792656060,
-   "photo": null
+   "photo": "photos/MKE_LAWSONBLOCKMON_LAMONT_647915.jpg"
   },
   {
    "key": "MKE_CLARK_SHAVARIS_627447",
@@ -73,8 +128,8 @@
    "age": "",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Deviate From Designated Lane",
+   "more": 4,
    "ts": 1792655214,
    "photo": null
   },
@@ -189,17 +244,6 @@
    "photo": "photos/RC_PATTERSON_JACOB_120011075507463.jpg"
   },
   {
-   "key": "MKE_RODGERS_ROMEO_638326",
-   "name": "Romeo J Rodgers",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1792647939,
-   "photo": "photos/MKE_RODGERS_ROMEO_638326.jpg"
-  },
-  {
    "key": "MAR_HALLETT_SHELLEY_2026-10-21",
    "name": "Shelley Jo Hallett",
    "age": "43",
@@ -220,39 +264,6 @@
    "more": 2,
    "ts": 1792647063,
    "photo": "photos/MAR_BECHEL_SAMANTHA_2026-10-21.jpg"
-  },
-  {
-   "key": "RC_BRONNER_TRAVIS_120011075506264",
-   "name": "Travis Bronner",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792645414,
-   "photo": "photos/RC_BRONNER_TRAVIS_120011075506264.jpg"
-  },
-  {
-   "key": "MKE_HALL_JORDAN_647912",
-   "name": "Jordan D Hall",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1792645314,
-   "photo": "photos/MKE_HALL_JORDAN_647912.jpg"
-  },
-  {
-   "key": "MKE_ESCOBEDOCARDONA_MANUEL_647913",
-   "name": "Manuel Escobedo Cardona",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792645308,
-   "photo": "photos/MKE_ESCOBEDOCARDONA_MANUEL_647913.jpg"
   },
   {
    "key": "DOU_GARRITY_MICHAEL_2026-10-12",
@@ -407,17 +418,6 @@
    "more": 4,
    "ts": 1792617523,
    "photo": "photos/DOU_GARVEY_CHARLES_2026-10-11.jpg"
-  },
-  {
-   "key": "DOU_PEDERSON_JOSEPH_2026-10-21",
-   "name": "Joseph E Pederson",
-   "age": "40",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792617515,
-   "photo": null
   },
   {
    "key": "KASS_STEPHANIE_2026-10-21",
