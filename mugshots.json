@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-22T06:50:24+00:00",
+ "updated": "2026-10-22T07:49:36+00:00",
  "items": [
+  {
+   "key": "KEN_KIRK_MIA_2026-00005846",
+   "name": "Mia Kirk",
+   "age": "",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792655214,
+   "photo": null
+  },
+  {
+   "key": "RC_JONES_DWAYNE_120011075509197",
+   "name": "Dwayne Earl Jones",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792655122,
+   "photo": "photos/RC_JONES_DWAYNE_120011075509197.jpg"
+  },
+  {
+   "key": "FDL_WOODLERIANS_ALFONSINA_2026-10-22",
+   "name": "Alfonsina S Wood Lerians",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1792654754,
+   "photo": null
+  },
+  {
+   "key": "FDL_HALSEY_ANTONIO_2026-10-22_26FP3117",
+   "name": "Antonio Ryan Halsey",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Warrant Transport",
+   "more": 0,
+   "ts": 1792654389,
+   "photo": "photos/FDL_HALSEY_ANTONIO_2026-10-22_26FP3117.jpg"
+  },
+  {
+   "key": "MKE_SANQUICHE_GORDON_376124",
+   "name": "Gordon Jerome Sanquiche",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792653497,
+   "photo": null
+  },
+  {
+   "key": "MKE_REDMOND_VERNAL_639638",
+   "name": "Vernal Terrell Redmond",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792653493,
+   "photo": null
+  },
+  {
+   "key": "RC_GONZALES_ALEXANDRIA_120011075508631",
+   "name": "Alexandria Christina Gonzales",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 1,
+   "ts": 1792653472,
+   "photo": "photos/RC_GONZALES_ALEXANDRIA_120011075508631.jpg"
+  },
   {
    "key": "MAR_JOHNSON_ANTHONY_2026-10-22",
    "name": "Anthony Allen Johnson",
@@ -29,7 +106,7 @@
    "age": "60",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792649804,
    "photo": null
@@ -40,7 +117,7 @@
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
    "more": 0,
    "ts": 1792648880,
    "photo": "photos/RC_PATTERSON_JACOB_120011075507463.jpg"
@@ -54,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1792647939,
-   "photo": null
+   "photo": "photos/MKE_RODGERS_ROMEO_638326.jpg"
   },
   {
    "key": "MAR_HALLETT_SHELLEY_2026-10-21",
@@ -98,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1792645314,
-   "photo": null
+   "photo": "photos/MKE_HALL_JORDAN_647912.jpg"
   },
   {
    "key": "MKE_ESCOBEDOCARDONA_MANUEL_647913",
@@ -200,17 +277,6 @@
    "photo": "photos/MKE_YOUNG_CARLTON_295120.jpg"
   },
   {
-   "key": "RC_KETCHUM_DAVID_120011075504930",
-   "name": "David James Ketchum",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792638907,
-   "photo": null
-  },
-  {
    "key": "MAR_JAMESON_JAMIE_2026-10-21",
    "name": "Jamie Lee Jameson",
    "age": "43",
@@ -220,39 +286,6 @@
    "more": 0,
    "ts": 1792638683,
    "photo": "photos/MAR_JAMESON_JAMIE_2026-10-21.jpg"
-  },
-  {
-   "key": "KEN_SOUTH_ZACHARY_2026-00005844",
-   "name": "Zachary D South",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Open Intoxicants In Mv-Driver",
-   "more": 2,
-   "ts": 1792637511,
-   "photo": "photos/KEN_SOUTH_ZACHARY_2026-00005844.jpg"
-  },
-  {
-   "key": "MKE_DANIELS_DALLAS_613447",
-   "name": "Dallas Louis Daniels",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 6,
-   "ts": 1792637158,
-   "photo": "photos/MKE_DANIELS_DALLAS_613447.jpg"
-  },
-  {
-   "key": "RC_POLACK_JORDAN_120011075503680",
-   "name": "Jordan Tyler Polack",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792636214,
-   "photo": "photos/RC_POLACK_JORDAN_120011075503680.jpg"
   },
   {
    "key": "MAR_SUTTER_BRANDON_2026-10-19",
@@ -275,17 +308,6 @@
    "more": 6,
    "ts": 1792634989,
    "photo": "photos/MAR_NGUYEN_KEVIN_2026-10-05.jpg"
-  },
-  {
-   "key": "MKE_MILLER_SIMONE_605674",
-   "name": "Simone R Miller",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (2nd)",
-   "more": 0,
-   "ts": 1792634444,
-   "photo": "photos/MKE_MILLER_SIMONE_605674.jpg"
   },
   {
    "key": "REDMOND_LEE_2026-10-21",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792574070,
    "photo": "photos/TREM_DEVENPORT_JAMES_5925.jpg"
-  },
-  {
-   "key": "HOU_BRUMFIELD_JENNYMICHELLE_6304",
-   "name": "Jenny Michelle Brumfield",
-   "age": "34",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Neglect of a Child-Results Subst. Harm Physic (1-Court Pending)",
-   "more": 1,
-   "ts": 1792571367,
-   "photo": "photos/HOU_BRUMFIELD_JENNYMICHELLE_6304.jpg"
-  },
-  {
-   "key": "MEIER_CHRISTOPHER_2026-10-21",
-   "name": "Christopher J Meier",
-   "age": "43",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 1,
-   "ts": 1792563705,
-   "photo": null
   }
  ]
 }
