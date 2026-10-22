@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-22T07:49:36+00:00",
+ "updated": "2026-10-22T08:49:37+00:00",
  "items": [
+  {
+   "key": "MKE_THOMAS_DAVONTA_606594",
+   "name": "Davonta J Thomas",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1792658750,
+   "photo": null
+  },
+  {
+   "key": "MKE_DONNELL_CHRISTOPHGER_647916",
+   "name": "Christophger Valintino Donnell",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792658748,
+   "photo": null
+  },
+  {
+   "key": "KEN_ELMORE_BRITTANI_2026-00005847",
+   "name": "Brittani Elmore",
+   "age": "",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792658173,
+   "photo": null
+  },
+  {
+   "key": "MKE_LAWSONBLOCKMON_LAMONT_647915",
+   "name": "Lamont O Lawson-Blockmon",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792656060,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLARK_SHAVARIS_627447",
+   "name": "Shavaris L Clark",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792656058,
+   "photo": null
+  },
+  {
+   "key": "SOUTHALL_MARQUESE_2026-10-22",
+   "name": "Marquese R Southall",
+   "age": "25",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792655501,
+   "photo": null
+  },
   {
    "key": "KEN_KIRK_MIA_2026-00005846",
    "name": "Mia Kirk",
@@ -18,8 +84,8 @@
    "age": "36",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-felony",
+   "more": 1,
    "ts": 1792655122,
    "photo": "photos/RC_JONES_DWAYNE_120011075509197.jpg"
   },
@@ -211,50 +277,6 @@
    "photo": "photos/DOU_MILLER_BRYAN_2026-10-21.jpg"
   },
   {
-   "key": "RC_SMITH_DERICK_120011075505684",
-   "name": "Derick R Smith",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792642643,
-   "photo": "photos/RC_SMITH_DERICK_120011075505684.jpg"
-  },
-  {
-   "key": "MKE_SANTANA_JUAN_335617",
-   "name": "Juan D Santana",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1792642559,
-   "photo": "photos/MKE_SANTANA_JUAN_335617.jpg"
-  },
-  {
-   "key": "MKE_JOSEPHNDON_MADISYN_633973",
-   "name": "Madisyn N Joseph-Ndon",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792642554,
-   "photo": "photos/MKE_JOSEPHNDON_MADISYN_633973.jpg"
-  },
-  {
-   "key": "KEN_HARDEMAN_JAVONTAE_2026-00005845",
-   "name": "Javontae Louis Hardeman",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (2Nd)",
-   "more": 1,
-   "ts": 1792641121,
-   "photo": "photos/KEN_HARDEMAN_JAVONTAE_2026-00005845.jpg"
-  },
-  {
    "key": "MAR_ONEIL_THOMAS_2026-10-21",
    "name": "Thomas W Oneil",
    "age": "63",
@@ -264,17 +286,6 @@
    "more": 2,
    "ts": 1792640779,
    "photo": null
-  },
-  {
-   "key": "MKE_YOUNG_CARLTON_295120",
-   "name": "Carlton Antwon Young",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792639854,
-   "photo": "photos/MKE_YOUNG_CARLTON_295120.jpg"
   },
   {
    "key": "MAR_JAMESON_JAMIE_2026-10-21",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792574072,
    "photo": "photos/TREM_MCGERR_STEVEN_6185.jpg"
-  },
-  {
-   "key": "TREM_DEVENPORT_JAMES_5925",
-   "name": "James Chris Devenport",
-   "age": "58",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792574070,
-   "photo": "photos/TREM_DEVENPORT_JAMES_5925.jpg"
   }
  ]
 }
