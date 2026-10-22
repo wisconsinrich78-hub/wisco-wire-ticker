@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-22T01:49:34+00:00",
+ "updated": "2026-10-22T02:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_DANIELS_DALLAS_613447",
+   "name": "Dallas Louis Daniels",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 6,
+   "ts": 1792637158,
+   "photo": null
+  },
+  {
+   "key": "RC_POLACK_JORDAN_120011075503680",
+   "name": "Jordan Tyler Polack",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792636214,
+   "photo": "photos/RC_POLACK_JORDAN_120011075503680.jpg"
+  },
+  {
+   "key": "MAR_SUTTER_BRANDON_2026-10-19",
+   "name": "Brandon Michael Sutter",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1792634989,
+   "photo": "photos/MAR_SUTTER_BRANDON_2026-10-19.jpg"
+  },
+  {
+   "key": "MAR_NGUYEN_KEVIN_2026-10-05",
+   "name": "Kevin Nguyen",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 6,
+   "ts": 1792634989,
+   "photo": "photos/MAR_NGUYEN_KEVIN_2026-10-05.jpg"
+  },
+  {
+   "key": "MKE_MILLER_SIMONE_605674",
+   "name": "Simone R Miller",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate with Restricted Controlled Substance (2nd)",
+   "more": 0,
+   "ts": 1792634444,
+   "photo": "photos/MKE_MILLER_SIMONE_605674.jpg"
+  },
+  {
+   "key": "MKE_CLAYTON_MATEO_627633",
+   "name": "Mateo Darius Clayton",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1792634441,
+   "photo": null
+  },
   {
    "key": "RC_MARINGER_DANIEL_120011075502962",
    "name": "Daniel Maringer",
@@ -43,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792631757,
-   "photo": null
+   "photo": "photos/MKE_ALLEN_TERRY_389806.jpg"
   },
   {
    "key": "MAR_ALLEN_DANIEL_2026-10-21",
@@ -175,7 +241,7 @@
    "charge": "Manufacture/Deliver Cocaine (>1-5g)",
    "more": 5,
    "ts": 1792626353,
-   "photo": null
+   "photo": "photos/MKE_CLAYPOOL_JAHLEEL_2057890.jpg"
   },
   {
    "key": "RC_PHILLIPS_ALLISON_120011075500493",
@@ -183,7 +249,7 @@
    "age": "44",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Fraud against a Financial Institution >500-<10,000",
    "more": 0,
    "ts": 1792626309,
    "photo": null
@@ -209,50 +275,6 @@
    "more": 0,
    "ts": 1792623669,
    "photo": "photos/MKE_WILLIAMS_TIMOTHY_2065672.jpg"
-  },
-  {
-   "key": "MKE_PATTERSON_DAVID_265124",
-   "name": "David William Patterson",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792623667,
-   "photo": null
-  },
-  {
-   "key": "MKE_ORTIZ_MAX_643376",
-   "name": "Max J Ortiz",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1792623665,
-   "photo": "photos/MKE_ORTIZ_MAX_643376.jpg"
-  },
-  {
-   "key": "MKE_BEARD_KEWAN_647910",
-   "name": "Kewan Dashay Beard",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of THC",
-   "more": 0,
-   "ts": 1792623664,
-   "photo": "photos/MKE_BEARD_KEWAN_647910.jpg"
-  },
-  {
-   "key": "KEN_STROBACH_MICHAEL_2026-00005838",
-   "name": "Michael Lewis Strobach",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792621306,
-   "photo": "photos/KEN_STROBACH_MICHAEL_2026-00005838.jpg"
   },
   {
    "key": "DOU_GARVEY_CHARLES_2026-10-11",
@@ -405,28 +427,6 @@
    "region": "northwest",
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 2,
-   "ts": 1792609304,
-   "photo": null
-  },
-  {
-   "key": "MAR_KRUEGER_HOLLY_2026-10-05",
-   "name": "Holly Ann Krueger",
-   "age": "54",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792609304,
-   "photo": null
-  },
-  {
-   "key": "MAR_HERNANDEZ_JOSE_2026-10-20_2057",
-   "name": "Jose Hernandez",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Felony Bail Jumping",
-   "more": 1,
    "ts": 1792609304,
    "photo": null
   },
