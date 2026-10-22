@@ -1,14 +1,113 @@
 {
- "updated": "2026-10-22T14:49:35+00:00",
+ "updated": "2026-10-22T15:49:38+00:00",
  "items": [
+  {
+   "key": "KEN_MCGEE_DARRIN_2026-00005852",
+   "name": "Darrin Jerryterrell Mcgee",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1792683511,
+   "photo": "photos/KEN_MCGEE_DARRIN_2026-00005852.jpg"
+  },
+  {
+   "key": "MKE_WALLACE_JEROME_238671",
+   "name": "Jerome Earl Wallace",
+   "age": "71",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792683109,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_DESHAWN_609367",
+   "name": "Deshawn A Lee",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1792683107,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILL_MICHAEL_403806",
+   "name": "Michael David Hill",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792683106,
+   "photo": null
+  },
+  {
+   "key": "MKE_BELLANTE_SARAH_647920",
+   "name": "Sarah Jane Bellante",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792683103,
+   "photo": null
+  },
+  {
+   "key": "MAR_LO_ZACHARY_2026-10-14",
+   "name": "Zachary Thomas Lo",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1792682201,
+   "photo": null
+  },
+  {
+   "key": "MAR_JORGENSEN_BENJAMIN_2026-10-19",
+   "name": "Benjamin Carroll Jorgensen",
+   "age": "18",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 6,
+   "ts": 1792682201,
+   "photo": null
+  },
+  {
+   "key": "NOLAN_AMBER_2026-10-22",
+   "name": "Amber Mae Nolan",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792681175,
+   "photo": null
+  },
+  {
+   "key": "KEN_ZOCCHI_KAYLA_2026-00005851",
+   "name": "Kayla Leann Zocchi",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792680882,
+   "photo": "photos/KEN_ZOCCHI_KAYLA_2026-00005851.jpg"
+  },
   {
    "key": "MKE_WALTON_LAMAR_2044749",
    "name": "Lamar Quisshawn Walton",
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 6,
    "ts": 1792680387,
    "photo": null
   },
@@ -29,7 +128,7 @@
    "age": "44",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
    "more": 0,
    "ts": 1792679885,
    "photo": "photos/KEN_RENTERIASOTO_EMILIO_2026-00005850.jpg"
@@ -98,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 12,
    "ts": 1792677658,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_ALVIN_242129.jpg"
   },
   {
    "key": "MAR_HAUTAMAKI_JEREMIAH_2026-10-22",
@@ -288,72 +387,6 @@
    "photo": "photos/MKE_CRUZ_RUBIA_647919.jpg"
   },
   {
-   "key": "MKE_SANCHEZINES_LUIS_647918",
-   "name": "Luis Sanchez-ines",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792672251,
-   "photo": "photos/MKE_SANCHEZINES_LUIS_647918.jpg"
-  },
-  {
-   "key": "MKE_HUTCHINSETAL_TERYN_266904",
-   "name": "Teryn Jontae Hutchins ET AL",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792672249,
-   "photo": null
-  },
-  {
-   "key": "MKE_HAWTHORNE_PATRICK_356778",
-   "name": "Patrick J Hawthorne",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 4,
-   "ts": 1792672247,
-   "photo": "photos/MKE_HAWTHORNE_PATRICK_356778.jpg"
-  },
-  {
-   "key": "MKE_GREEN_TAJUAN_510549",
-   "name": "Tajuan Danelle Green",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Neglecting a Child (Harm Did Not Occur and Child Under 6 Years or Disa",
-   "more": 0,
-   "ts": 1792672246,
-   "photo": "photos/MKE_GREEN_TAJUAN_510549.jpg"
-  },
-  {
-   "key": "MKE_DONNELL_CHRISTOPHER_647916",
-   "name": "Christopher Valintino Donnell",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792672244,
-   "photo": "photos/MKE_DONNELL_CHRISTOPHER_647916.jpg"
-  },
-  {
-   "key": "MKE_CULBERSON_KEITH_355553",
-   "name": "Keith Culberson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Neglecting a Child (Specified Harm Did Not Occur)",
-   "more": 3,
-   "ts": 1792672243,
-   "photo": "photos/MKE_CULBERSON_KEITH_355553.jpg"
-  },
-  {
    "key": "FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22",
    "name": "Sheyla J Vazquez Venegas",
    "age": "",
@@ -398,17 +431,6 @@
    "photo": null
   },
   {
-   "key": "MAR_SCHMIDT_DARRIN_2026-10-21",
-   "name": "Darrin J Schmidt",
-   "age": "53",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Revocation Due to Alcohol/Controlled Substanc",
-   "more": 0,
-   "ts": 1792660801,
-   "photo": null
-  },
-  {
    "key": "SOUTHALL_MARQUESE_2026-10-22",
    "name": "Marquese R Southall",
    "age": "25",
@@ -440,17 +462,6 @@
    "more": 0,
    "ts": 1792654389,
    "photo": "photos/FDL_HALSEY_ANTONIO_2026-10-22_26FP3117.jpg"
-  },
-  {
-   "key": "MAR_JOHNSON_ANTHONY_2026-10-22",
-   "name": "Anthony Allen Johnson",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1792650471,
-   "photo": null
   },
   {
    "key": "REDMOND_LEE_2026-10-21",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792612772,
    "photo": null
-  },
-  {
-   "key": "FDL_JOHNSON_STEVE_2026-10-21",
-   "name": "Steve Allen Johnson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 10Th Offense And Subsequent Offense",
-   "more": 0,
-   "ts": 1792610229,
-   "photo": "photos/FDL_JOHNSON_STEVE_2026-10-21.jpg"
   }
  ]
 }
