@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-22T19:49:48+00:00",
+ "updated": "2026-10-22T20:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_NOLDEN_NIVEK_645983",
+   "name": "Nivek Ramaj Nolden",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792701948,
+   "photo": null
+  },
+  {
+   "key": "MKE_MERRITT_COURTNEY_540860",
+   "name": "Courtney Creshawn Merritt",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to Certain Individuals Involved in a Court or Legal System",
+   "more": 0,
+   "ts": 1792701946,
+   "photo": null
+  },
+  {
+   "key": "MKE_MATTISON_ZACQUEN_631048",
+   "name": "Zacquen Donald Mattison",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 13,
+   "ts": 1792701944,
+   "photo": null
+  },
+  {
+   "key": "MKE_COHN_DEVOSSEON_512544",
+   "name": "Devosseon M Cohn",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1792701942,
+   "photo": null
+  },
+  {
+   "key": "RC_CRUZ_EDGAR_120011075529944",
+   "name": "Edgar Aguero Cruz",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792701917,
+   "photo": "photos/RC_CRUZ_EDGAR_120011075529944.jpg"
+  },
+  {
+   "key": "MKE_WILSON_ARYANNAH_647922",
+   "name": "Aryannah E Wilson",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792699255,
+   "photo": "photos/MKE_WILSON_ARYANNAH_647922.jpg"
+  },
+  {
+   "key": "MKE_TYSON_LARRY_299717",
+   "name": "Larry Lamont Tyson",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792699253,
+   "photo": null
+  },
+  {
+   "key": "MKE_BANKS_DEVONTE_512218",
+   "name": "Devonte Carlton Banks",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Methamphetamine",
+   "more": 3,
+   "ts": 1792699251,
+   "photo": null
+  },
+  {
+   "key": "BALDWIN_LARRY_2026-10-22",
+   "name": "Larry Adoniis Baldwin",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792698704,
+   "photo": null
+  },
   {
    "key": "RC_BIXLER_CALEB_120011075528591",
    "name": "Caleb Abraham Bixler",
@@ -18,7 +117,7 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1792698212,
    "photo": "photos/KEN_RICHARDS_CHRISTA_2026-00005856.jpg"
@@ -143,94 +242,6 @@
    "more": 2,
    "ts": 1792694287,
    "photo": "photos/KEN_KIRK_NICHOLAS_2026-00005855.jpg"
-  },
-  {
-   "key": "MKE_MACIEJEWSKI_JAMIE_614813",
-   "name": "Jamie Rae Maciejewski",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1792693862,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOWARD_JUSTIN_377391",
-   "name": "Justin Jermaine Howard",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792693860,
-   "photo": null
-  },
-  {
-   "key": "MKE_CUNNINGHAM_CHRISTOPHER_412819",
-   "name": "Christopher Craig Cunningham",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792693857,
-   "photo": "photos/MKE_CUNNINGHAM_CHRISTOPHER_412819.jpg"
-  },
-  {
-   "key": "RC_ROBINSON_LOUIS_120011075524030",
-   "name": "Louis Robinson",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1792692914,
-   "photo": null
-  },
-  {
-   "key": "RC_PASHOLK_PHILLIP_120011075524158",
-   "name": "Phillip Pasholk",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1792692912,
-   "photo": null
-  },
-  {
-   "key": "RC_HEISE_ADAM_120011075524371",
-   "name": "Adam Heise",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1792692910,
-   "photo": null
-  },
-  {
-   "key": "RC_GORDON_EDWARD_120011075523811",
-   "name": "Edward Marion Gordon",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792692908,
-   "photo": null
-  },
-  {
-   "key": "RC_BRITTON_JONATHAN_120011075524289",
-   "name": "Jonathan Britton",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1792692906,
-   "photo": null
   },
   {
    "key": "MAR_MALUEG_MELISSA_2026-10-22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792654754,
    "photo": null
-  },
-  {
-   "key": "FDL_HALSEY_ANTONIO_2026-10-22_26FP3117",
-   "name": "Antonio Ryan Halsey",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Warrant Transport",
-   "more": 0,
-   "ts": 1792654389,
-   "photo": "photos/FDL_HALSEY_ANTONIO_2026-10-22_26FP3117.jpg"
   }
  ]
 }
