@@ -1,13 +1,101 @@
 {
- "updated": "2026-10-22T10:49:27+00:00",
+ "updated": "2026-10-22T11:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_TATE_YOSHIDA_389295",
+   "name": "Yoshida Marieta Tate",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792669546,
+   "photo": null
+  },
+  {
+   "key": "MKE_REED_CHRISTOPHER_643354",
+   "name": "Christopher Reed",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Child Sex Assault - Sexual Contact with Person under Age of",
+   "more": 0,
+   "ts": 1792669544,
+   "photo": null
+  },
+  {
+   "key": "HOU_GRIEP_JESSEBLU_6306",
+   "name": "Jesse Blu Griep",
+   "age": "33",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic - DWI - Second-Degree Driving While I (1-Court Pending)",
+   "more": 0,
+   "ts": 1792668945,
+   "photo": "photos/HOU_GRIEP_JESSEBLU_6306.jpg"
+  },
+  {
+   "key": "FDL_FREITAG_MATTHEW_2026-10-22",
+   "name": "Matthew Paul Freitag",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1792667889,
+   "photo": "photos/FDL_FREITAG_MATTHEW_2026-10-22.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_ANTHONY_606460",
+   "name": "Anthony Alexander Williams",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792666859,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_ALEC_642433",
+   "name": "Alec Jones",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792666857,
+   "photo": null
+  },
+  {
+   "key": "MKE_IACONO_GIOVANNI_385427",
+   "name": "Giovanni V Iacono",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792666855,
+   "photo": null
+  },
+  {
+   "key": "MAR_RAMIREZ_OSCAR_2026-10-21",
+   "name": "Oscar Ramirez",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Forfeiture 1st)",
+   "more": 0,
+   "ts": 1792666840,
+   "photo": null
+  },
   {
    "key": "RC_BELL_DAMYA_120011075511641",
    "name": "Damya Cymere Bell",
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 0,
    "ts": 1792665922,
    "photo": "photos/RC_BELL_DAMYA_120011075511641.jpg"
@@ -21,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792664176,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_DIASHA_647917.jpg"
   },
   {
    "key": "MKE_WOLNIK_BENJAMIN_2054738",
@@ -32,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792661450,
-   "photo": null
+   "photo": "photos/MKE_WOLNIK_BENJAMIN_2054738.jpg"
   },
   {
    "key": "MKE_MIDDLETON_KETURAH_626500",
@@ -43,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792661448,
-   "photo": null
+   "photo": "photos/MKE_MIDDLETON_KETURAH_626500.jpg"
   },
   {
    "key": "KEN_WILLIAMS_JAYVEON_2026-00005849",
@@ -98,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792658748,
-   "photo": null
+   "photo": "photos/MKE_DONNELL_CHRISTOPHGER_647916.jpg"
   },
   {
    "key": "KEN_ELMORE_BRITTANI_2026-00005847",
@@ -145,28 +233,6 @@
    "photo": null
   },
   {
-   "key": "KEN_KIRK_MIA_2026-00005846",
-   "name": "Mia Kirk",
-   "age": "",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Deviate From Designated Lane",
-   "more": 4,
-   "ts": 1792655214,
-   "photo": null
-  },
-  {
-   "key": "RC_JONES_DWAYNE_120011075509197",
-   "name": "Dwayne Earl Jones",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 1,
-   "ts": 1792655122,
-   "photo": "photos/RC_JONES_DWAYNE_120011075509197.jpg"
-  },
-  {
    "key": "FDL_WOODLERIANS_ALFONSINA_2026-10-22",
    "name": "Alfonsina S Wood Lerians",
    "age": "",
@@ -187,39 +253,6 @@
    "more": 0,
    "ts": 1792654389,
    "photo": "photos/FDL_HALSEY_ANTONIO_2026-10-22_26FP3117.jpg"
-  },
-  {
-   "key": "MKE_SANQUICHE_GORDON_376124",
-   "name": "Gordon Jerome Sanquiche",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792653497,
-   "photo": null
-  },
-  {
-   "key": "MKE_REDMOND_VERNAL_639638",
-   "name": "Vernal Terrell Redmond",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792653493,
-   "photo": "photos/MKE_REDMOND_VERNAL_639638.jpg"
-  },
-  {
-   "key": "RC_GONZALES_ALEXANDRIA_120011075508631",
-   "name": "Alexandria Christina Gonzales",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 1,
-   "ts": 1792653472,
-   "photo": "photos/RC_GONZALES_ALEXANDRIA_120011075508631.jpg"
   },
   {
    "key": "MAR_JOHNSON_ANTHONY_2026-10-22",
@@ -409,17 +442,6 @@
    "photo": "photos/MAR_SCHANANDORE_SHAWNDEL_2026-10-21.jpg"
   },
   {
-   "key": "DOU_GARVEY_CHARLES_2026-10-11",
-   "name": "Charles T Garvey",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
-   "ts": 1792617523,
-   "photo": "photos/DOU_GARVEY_CHARLES_2026-10-11.jpg"
-  },
-  {
    "key": "KASS_STEPHANIE_2026-10-21",
    "name": "Stephanie J Kass",
    "age": "30",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792574076,
    "photo": "photos/TREM_WOODS_BRIAN_4754.jpg"
-  },
-  {
-   "key": "TREM_SEVERSON_MARK_6184",
-   "name": "Mark David Severson",
-   "age": "54",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess w/Intent-THC (<=00 grams)",
-   "more": 1,
-   "ts": 1792574074,
-   "photo": "photos/TREM_SEVERSON_MARK_6184.jpg"
-  },
-  {
-   "key": "TREM_MCGERR_STEVEN_6185",
-   "name": "Steven Michael McGerr",
-   "age": "42",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 1,
-   "ts": 1792574072,
-   "photo": "photos/TREM_MCGERR_STEVEN_6185.jpg"
   }
  ]
 }
