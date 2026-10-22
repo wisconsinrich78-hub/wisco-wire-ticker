@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-22T05:49:27+00:00",
+ "updated": "2026-10-22T06:50:24+00:00",
  "items": [
+  {
+   "key": "MAR_JOHNSON_ANTHONY_2026-10-22",
+   "name": "Anthony Allen Johnson",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1792650471,
+   "photo": null
+  },
+  {
+   "key": "MAR_VANG_MAIKAO_2026-10-22",
+   "name": "Maikao Vang",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792650471,
+   "photo": null
+  },
+  {
+   "key": "RC_LEMLEY_RICHARD_120011075507485",
+   "name": "Richard William Lemley",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792649804,
+   "photo": null
+  },
+  {
+   "key": "RC_PATTERSON_JACOB_120011075507463",
+   "name": "Jacob Tyler Patterson",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792648880,
+   "photo": "photos/RC_PATTERSON_JACOB_120011075507463.jpg"
+  },
   {
    "key": "MKE_RODGERS_ROMEO_638326",
    "name": "Romeo J Rodgers",
@@ -244,28 +288,6 @@
    "photo": "photos/MKE_MILLER_SIMONE_605674.jpg"
   },
   {
-   "key": "MKE_CLAYTON_MATEO_627633",
-   "name": "Mateo Darius Clayton",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1792634441,
-   "photo": "photos/MKE_CLAYTON_MATEO_627633.jpg"
-  },
-  {
-   "key": "RC_MARINGER_DANIEL_120011075502962",
-   "name": "Daniel Maringer",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792633505,
-   "photo": null
-  },
-  {
    "key": "REDMOND_LEE_2026-10-21",
    "name": "Lee H Redmond",
    "age": "46",
@@ -365,17 +387,6 @@
    "photo": null
   },
   {
-   "key": "MAR_KOCH_ERIC_2026-10-21",
-   "name": "Eric Koch",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1792615397,
-   "photo": null
-  },
-  {
    "key": "KASS_STEPHANIE_2026-10-21",
    "name": "Stephanie J Kass",
    "age": "30",
@@ -384,17 +395,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792615019,
-   "photo": null
-  },
-  {
-   "key": "DOU_DRUMMOND_MICHAEL_2026-10-21",
-   "name": "Michael R Drummond",
-   "age": "31",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792613927,
    "photo": null
   },
   {
