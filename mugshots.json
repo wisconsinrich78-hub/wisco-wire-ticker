@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-22T15:49:38+00:00",
+ "updated": "2026-10-22T16:50:03+00:00",
  "items": [
+  {
+   "key": "MAR_MOSER_KEATON_2026-10-22",
+   "name": "Keaton Ryan Moser",
+   "age": "18",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Rev Due to Alc/Contr Subst)",
+   "more": 1,
+   "ts": 1792686667,
+   "photo": null
+  },
+  {
+   "key": "FDL_FONDER_DIAMOND_2026-10-22",
+   "name": "Diamond Fonder",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792685797,
+   "photo": "photos/FDL_FONDER_DIAMOND_2026-10-22.jpg"
+  },
+  {
+   "key": "MKE_MOORE_SHAMEYA_618970",
+   "name": "Shameya A Moore",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792685776,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRISBY_WILLIE_261936",
+   "name": "Willie Lee Brisby",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1792685774,
+   "photo": null
+  },
   {
    "key": "KEN_MCGEE_DARRIN_2026-00005852",
    "name": "Darrin Jerryterrell Mcgee",
@@ -51,10 +95,10 @@
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1792683103,
-   "photo": null
+   "photo": "photos/MKE_BELLANTE_SARAH_647920.jpg"
   },
   {
    "key": "MAR_LO_ZACHARY_2026-10-14",
@@ -365,28 +409,6 @@
    "photo": "photos/MKE_WALKER_KIANTE_336104.jpg"
   },
   {
-   "key": "MKE_CUNNINGHAM_CRISTOPHER_412819",
-   "name": "Cristopher Craig Cunningham",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792674961,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRUZ_RUBIA_647919",
-   "name": "Rubia Cruz",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792674959,
-   "photo": "photos/MKE_CRUZ_RUBIA_647919.jpg"
-  },
-  {
    "key": "FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22",
    "name": "Sheyla J Vazquez Venegas",
    "age": "",
@@ -418,17 +440,6 @@
    "more": 1,
    "ts": 1792667889,
    "photo": "photos/FDL_FREITAG_MATTHEW_2026-10-22.jpg"
-  },
-  {
-   "key": "MAR_RAMIREZ_OSCAR_2026-10-21",
-   "name": "Oscar Ramirez",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Forfeiture 1st)",
-   "more": 0,
-   "ts": 1792666840,
-   "photo": null
   },
   {
    "key": "SOUTHALL_MARQUESE_2026-10-22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792613899,
    "photo": "photos/FDL_STROBEL_KAYLA_2026-10-21.jpg"
-  },
-  {
-   "key": "HUNNICUTT_BRANDY_2026-10-21",
-   "name": "Brandy A Hunnicutt",
-   "age": "31",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792612772,
-   "photo": null
   }
  ]
 }
