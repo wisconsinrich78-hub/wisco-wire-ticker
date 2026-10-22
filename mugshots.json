@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-22T13:49:41+00:00",
+ "updated": "2026-10-22T14:49:35+00:00",
  "items": [
+  {
+   "key": "MKE_WALTON_LAMAR_2044749",
+   "name": "Lamar Quisshawn Walton",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792680387,
+   "photo": null
+  },
+  {
+   "key": "RC_AGUILLEN_ALEXANDRIA_120011075508631",
+   "name": "Alexandria Christina Aguillen",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792680316,
+   "photo": "photos/RC_AGUILLEN_ALEXANDRIA_120011075508631.jpg"
+  },
+  {
+   "key": "KEN_RENTERIASOTO_EMILIO_2026-00005850",
+   "name": "Emilio Renteria-Soto",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792679885,
+   "photo": "photos/KEN_RENTERIASOTO_EMILIO_2026-00005850.jpg"
+  },
+  {
+   "key": "STEERS_KYLE_2026-10-22",
+   "name": "Kyle A Steers",
+   "age": "19",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792679378,
+   "photo": null
+  },
+  {
+   "key": "FDL_SCHINGEN_JASON_2026-10-22",
+   "name": "Jason A Schingen",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792678684,
+   "photo": "photos/FDL_SCHINGEN_JASON_2026-10-22.jpg"
+  },
+  {
+   "key": "FDL_BONGARD_CHELSEA_2026-10-22",
+   "name": "Chelsea Marie Bongard",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792678588,
+   "photo": null
+  },
+  {
+   "key": "MKE_RITTMAN_KEYSHAWNNA_632754",
+   "name": "Keyshawnna Rittman",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 0,
+   "ts": 1792677663,
+   "photo": "photos/MKE_RITTMAN_KEYSHAWNNA_632754.jpg"
+  },
+  {
+   "key": "MKE_LITTLEEASON_JUWUEN_632323",
+   "name": "Juwuen Anthony Little-Eason",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792677660,
+   "photo": "photos/MKE_LITTLEEASON_JUWUEN_632323.jpg"
+  },
+  {
+   "key": "MKE_HARRIS_ALVIN_242129",
+   "name": "Alvin Clifton Harris",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 12,
+   "ts": 1792677658,
+   "photo": null
+  },
   {
    "key": "MAR_HAUTAMAKI_JEREMIAH_2026-10-22",
    "name": "Jeremiah Lee Hautamaki",
@@ -150,10 +249,10 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 11,
    "ts": 1792674965,
-   "photo": null
+   "photo": "photos/MKE_WATKINS_JERRY_626425.jpg"
   },
   {
    "key": "MKE_WALKER_KIANTE_336104",
@@ -164,7 +263,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 3,
    "ts": 1792674963,
-   "photo": null
+   "photo": "photos/MKE_WALKER_KIANTE_336104.jpg"
   },
   {
    "key": "MKE_CUNNINGHAM_CRISTOPHER_412819",
@@ -186,7 +285,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792674959,
-   "photo": null
+   "photo": "photos/MKE_CRUZ_RUBIA_647919.jpg"
   },
   {
    "key": "MKE_SANCHEZINES_LUIS_647918",
@@ -197,7 +296,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792672251,
-   "photo": null
+   "photo": "photos/MKE_SANCHEZINES_LUIS_647918.jpg"
   },
   {
    "key": "MKE_HUTCHINSETAL_TERYN_266904",
@@ -252,7 +351,7 @@
    "charge": "Neglecting a Child (Specified Harm Did Not Occur)",
    "more": 3,
    "ts": 1792672243,
-   "photo": null
+   "photo": "photos/MKE_CULBERSON_KEITH_355553.jpg"
   },
   {
    "key": "FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22",
@@ -264,28 +363,6 @@
    "more": 1,
    "ts": 1792671769,
    "photo": "photos/FDL_VAZQUEZVENEGAS_SHEYLA_2026-10-22.jpg"
-  },
-  {
-   "key": "MKE_TATE_YOSHIDA_389295",
-   "name": "Yoshida Marieta Tate",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 9,
-   "ts": 1792669546,
-   "photo": "photos/MKE_TATE_YOSHIDA_389295.jpg"
-  },
-  {
-   "key": "MKE_REED_CHRISTOPHER_643354",
-   "name": "Christopher Reed",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Child Sex Assault - Sexual Contact with Person under Age of",
-   "more": 0,
-   "ts": 1792669544,
-   "photo": "photos/MKE_REED_CHRISTOPHER_643354.jpg"
   },
   {
    "key": "HOU_GRIEP_JESSEBLU_6306",
@@ -310,39 +387,6 @@
    "photo": "photos/FDL_FREITAG_MATTHEW_2026-10-22.jpg"
   },
   {
-   "key": "MKE_WILLIAMS_ANTHONY_606460",
-   "name": "Anthony Alexander Williams",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792666859,
-   "photo": "photos/MKE_WILLIAMS_ANTHONY_606460.jpg"
-  },
-  {
-   "key": "MKE_JONES_ALEC_642433",
-   "name": "Alec Jones",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792666857,
-   "photo": "photos/MKE_JONES_ALEC_642433.jpg"
-  },
-  {
-   "key": "MKE_IACONO_GIOVANNI_385427",
-   "name": "Giovanni V Iacono",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792666855,
-   "photo": null
-  },
-  {
    "key": "MAR_RAMIREZ_OSCAR_2026-10-21",
    "name": "Oscar Ramirez",
    "age": "35",
@@ -352,17 +396,6 @@
    "more": 0,
    "ts": 1792666840,
    "photo": null
-  },
-  {
-   "key": "RC_BELL_DAMYA_120011075511641",
-   "name": "Damya Cymere Bell",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1792665922,
-   "photo": "photos/RC_BELL_DAMYA_120011075511641.jpg"
   },
   {
    "key": "MAR_SCHMIDT_DARRIN_2026-10-21",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792610229,
    "photo": "photos/FDL_JOHNSON_STEVE_2026-10-21.jpg"
-  },
-  {
-   "key": "FDL_BATTONWASHINGTON_AQUEELAH_2026-10-21",
-   "name": "Aqueelah S Batton-Washington",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792602976,
-   "photo": "photos/FDL_BATTONWASHINGTON_AQUEELAH_2026-10-21.jpg"
-  },
-  {
-   "key": "FDL_WAGNER_JUSTIN_2026-10-21",
-   "name": "Justin Francis Wagner",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792599477,
-   "photo": "photos/FDL_WAGNER_JUSTIN_2026-10-21.jpg"
-  },
-  {
-   "key": "FDL_MOWBRAY_PAUL_2026-10-21",
-   "name": "Paul Jamesdavid Mowbray",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1792599441,
-   "photo": "photos/FDL_MOWBRAY_PAUL_2026-10-21.jpg"
   }
  ]
 }
