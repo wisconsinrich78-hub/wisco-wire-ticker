@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-23T18:49:31+00:00",
+ "updated": "2026-10-23T19:49:29+00:00",
  "items": [
+  {
+   "key": "KEN_DANZY_DARRIONTAY_2026-00005872",
+   "name": "Darriontay Rashona Danzy",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792784361,
+   "photo": "photos/KEN_DANZY_DARRIONTAY_2026-00005872.jpg"
+  },
+  {
+   "key": "FDL_JODARSKI_NATHANIEL_2026-10-23",
+   "name": "Nathaniel John Jodarski",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792783018,
+   "photo": "photos/FDL_JODARSKI_NATHANIEL_2026-10-23.jpg"
+  },
+  {
+   "key": "FDL_BAUS_MARTY_2026-10-23",
+   "name": "Marty James Baus",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1792782972,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOWARD_LAMAR_511661",
+   "name": "Lamar Earl Howard",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to Healthcare Provider or Family",
+   "more": 3,
+   "ts": 1792782968,
+   "photo": null
+  },
+  {
+   "key": "MKE_COWANS_TYRELL_375459",
+   "name": "Tyrell Jamar Cowans",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1792782963,
+   "photo": null
+  },
+  {
+   "key": "KEN_LANE_DERRELL_2026-00005871",
+   "name": "Derrell Derrico Lane",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1792782490,
+   "photo": "photos/KEN_LANE_DERRELL_2026-00005871.jpg"
+  },
   {
    "key": "MKE_JOHNSON_MARIAH_647934",
    "name": "Mariah Monique Johnson",
@@ -18,7 +84,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1792780265,
    "photo": null
@@ -132,50 +198,6 @@
    "more": 1,
    "ts": 1792774997,
    "photo": "photos/MKE_GANDHI_FRENCY_647932.jpg"
-  },
-  {
-   "key": "MKE_CARROLL_ELIAS_627681",
-   "name": "Elias Lamont Carroll",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792774995,
-   "photo": null
-  },
-  {
-   "key": "RC_SCHROEDER_NICOLE_120011075551718",
-   "name": "Nicole Jean Schroeder",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792773006,
-   "photo": "photos/RC_SCHROEDER_NICOLE_120011075551718.jpg"
-  },
-  {
-   "key": "RC_SHANNON_JULIAN_120011075551078",
-   "name": "Julian Lee Shannon",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792772115,
-   "photo": null
-  },
-  {
-   "key": "RC_KUGLER_CAITLIN_120011075551038",
-   "name": "Caitlin Marie Kugler",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792772112,
-   "photo": null
   },
   {
    "key": "SHEFFER_JEREMIAH_2026-10-23",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792703847,
    "photo": null
-  },
-  {
-   "key": "FDL_LOTZ_RYAN_2026-10-22",
-   "name": "Ryan Nicolas Lotz",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1792703804,
-   "photo": "photos/FDL_LOTZ_RYAN_2026-10-22.jpg"
-  },
-  {
-   "key": "MAR_TALLMAN_DYLAN_2026-10-22",
-   "name": "Dylan Donald Tallman",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792703353,
-   "photo": "photos/MAR_TALLMAN_DYLAN_2026-10-22.jpg"
   }
  ]
 }
