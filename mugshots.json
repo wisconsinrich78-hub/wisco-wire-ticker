@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-23T06:49:28+00:00",
+ "updated": "2026-10-23T07:49:25+00:00",
  "items": [
+  {
+   "key": "RC_SYTSMA_CHARLES_120011075541145",
+   "name": "Charles R Sytsma",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792740607,
+   "photo": "photos/RC_SYTSMA_CHARLES_120011075541145.jpg"
+  },
+  {
+   "key": "MAR_HOWARD_CURTIS_2026-10-22",
+   "name": "Curtis Lee Howard",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Violation of Court Order - All Other Offense",
+   "more": 0,
+   "ts": 1792739783,
+   "photo": null
+  },
+  {
+   "key": "MAR_WASIELEWSKI_MAKAYLA_2026-10-22",
+   "name": "Makayla Marie Wasielewski",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1792739783,
+   "photo": null
+  },
+  {
+   "key": "MAR_STECKBAUER_DEREK_2026-10-22",
+   "name": "Derek Allan Steckbauer",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Violation of Probation",
+   "more": 0,
+   "ts": 1792739783,
+   "photo": null
+  },
+  {
+   "key": "MKE_HANDS_JOSHUA_600756",
+   "name": "Joshua Richard Hands",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792739741,
+   "photo": null
+  },
+  {
+   "key": "KEN_JACKSON_SIDNEY_2026-00005865",
+   "name": "Sidney Antwonterrell Jackson",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792739232,
+   "photo": "photos/KEN_JACKSON_SIDNEY_2026-00005865.jpg"
+  },
   {
    "key": "KEN_GRATIOT_ERIK_2026-00005864",
    "name": "Erik Tyler Gratiot",
@@ -65,7 +131,7 @@
    "charge": "Sex Registry Violation",
    "more": 0,
    "ts": 1792731684,
-   "photo": null
+   "photo": "photos/MKE_BAKER_ROBERT_180541.jpg"
   },
   {
    "key": "RC_STOKES_KEAUNA_120011075539170",
@@ -209,39 +275,6 @@
    "more": 0,
    "ts": 1792719091,
    "photo": "photos/RC_MCINTYRE_CHARLES_120011075536367.jpg"
-  },
-  {
-   "key": "MKE_JONES_KEYION_642404",
-   "name": "Keyion Julian Jones",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 2,
-   "ts": 1792718923,
-   "photo": "photos/MKE_JONES_KEYION_642404.jpg"
-  },
-  {
-   "key": "MKE_COOKBEY_MICHAEL_632349",
-   "name": "Michael D Cook-Bey",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 40,
-   "ts": 1792718918,
-   "photo": "photos/MKE_COOKBEY_MICHAEL_632349.jpg"
-  },
-  {
-   "key": "KEN_MURRAY_SHAWN_2026-00005861",
-   "name": "Shawn M Murray",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792717486,
-   "photo": "photos/KEN_MURRAY_SHAWN_2026-00005861.jpg"
   },
   {
    "key": "GARNER_STEVEN_2026-10-22",
@@ -494,39 +527,6 @@
    "charge": "Contempt/Ct-Limitation On Imprisonment",
    "more": 0,
    "ts": 1792694523,
-   "photo": null
-  },
-  {
-   "key": "MAR_MALUEG_MELISSA_2026-10-22",
-   "name": "Melissa Anne Malueg",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1792692660,
-   "photo": "photos/MAR_MALUEG_MELISSA_2026-10-22.jpg"
-  },
-  {
-   "key": "MAR_MANCUSO_JOHN_2026-10-22",
-   "name": "John Paul Mancuso",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1792691677,
-   "photo": null
-  },
-  {
-   "key": "MAR_MEYER_COURTNEY_2026-10-22",
-   "name": "Courtney L Meyer",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1792691677,
    "photo": null
   }
  ]
