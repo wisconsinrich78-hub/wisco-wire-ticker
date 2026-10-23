@@ -1,16 +1,115 @@
 {
- "updated": "2026-10-23T20:49:32+00:00",
+ "updated": "2026-10-23T21:49:33+00:00",
  "items": [
+  {
+   "key": "MAR_LUEDKE_CONNOR_2026-10-23",
+   "name": "Connor Norman Luedke",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792791592,
+   "photo": "photos/MAR_LUEDKE_CONNOR_2026-10-23.jpg"
+  },
+  {
+   "key": "MACK_TROYALE_2026-10-23",
+   "name": "Troyale D Mack",
+   "age": "17",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792791396,
+   "photo": null
+  },
+  {
+   "key": "MKE_VAZQUEZCERVANTES_YERAY_642389",
+   "name": "Yeray Vazquez Cervantes",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792791052,
+   "photo": null
+  },
+  {
+   "key": "MKE_RILEY_CALEB_346515",
+   "name": "Caleb Jay Riley",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 12,
+   "ts": 1792791051,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEWSOM_JAMES_389871",
+   "name": "James Terran Newsom",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Negligent Handling of Burning Material",
+   "more": 1,
+   "ts": 1792791049,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELGADO_JOSHUA_2061904",
+   "name": "Joshua R Delgado",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 4,
+   "ts": 1792791047,
+   "photo": null
+  },
+  {
+   "key": "BOWMAN_JADA_2026-10-23",
+   "name": "Jada S Bowman",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792790496,
+   "photo": null
+  },
+  {
+   "key": "RC_BJORTOMT_JAKE_120011075559761",
+   "name": "Jake Bjortomt",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792790103,
+   "photo": null
+  },
+  {
+   "key": "KEN_ALEXIS_LOZAMAR_2026-00005869",
+   "name": "LOZAMAR Junior ALEXIS",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1792788783,
+   "photo": "photos/KEN_ALEXIS_LOZAMAR_2026-00005869.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_ISAIAH_638787",
    "name": "Isaiah Williams",
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Arson of Building w/o Owner\u2019s Consent",
    "more": 0,
    "ts": 1792788352,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ISAIAH_638787.jpg"
   },
   {
    "key": "MKE_WALKER_LEON_615058",
@@ -62,7 +161,7 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Battery",
    "more": 7,
    "ts": 1792785672,
    "photo": null
@@ -73,7 +172,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Domestic Abuse Surcharges",
    "more": 3,
    "ts": 1792785669,
    "photo": null
@@ -84,7 +183,7 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1792785192,
    "photo": "photos/KEN_ANDERSON_MASON_2026-00005873.jpg"
@@ -128,7 +227,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery to Healthcare Provider or Family",
+   "charge": "Habitual Criminality",
    "more": 3,
    "ts": 1792782968,
    "photo": null
@@ -142,73 +241,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1792782963,
-   "photo": null
-  },
-  {
-   "key": "KEN_LANE_DERRELL_2026-00005871",
-   "name": "Derrell Derrico Lane",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1792782490,
-   "photo": "photos/KEN_LANE_DERRELL_2026-00005871.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_MARIAH_647934",
-   "name": "Mariah Monique Johnson",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1792780268,
-   "photo": null
-  },
-  {
-   "key": "MKE_BANKS_DONTREAL_647935",
-   "name": "Dontreal B Banks",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792780265,
-   "photo": null
-  },
-  {
-   "key": "RC_GILES_ZACHARY_120011075554298",
-   "name": "Zachary Montez Giles",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792779312,
-   "photo": "photos/RC_GILES_ZACHARY_120011075554298.jpg"
-  },
-  {
-   "key": "MKE_MEADOWS_HAROLD_643500",
-   "name": "Harold Meadows",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1792777575,
-   "photo": null
-  },
-  {
-   "key": "MKE_GIBBS_DARRIAN_394352",
-   "name": "Darrian Shatorris Gibbs",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run-Involve Great Bodily Harm",
-   "more": 0,
-   "ts": 1792777572,
-   "photo": null
+   "photo": "photos/MKE_COWANS_TYRELL_375459.jpg"
   },
   {
    "key": "SHEFFER_JEREMIAH_2026-10-23",
@@ -494,39 +527,6 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1792707380,
-   "photo": null
-  },
-  {
-   "key": "FDL_CARY_FREDERIC_2026-10-22",
-   "name": "Frederic Paul Cary",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792707380,
-   "photo": "photos/FDL_CARY_FREDERIC_2026-10-22.jpg"
-  },
-  {
-   "key": "SILVERAZALDO_LIONEL_2026-10-22",
-   "name": "Lionel I Silvera Zaldo",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792707261,
-   "photo": null
-  },
-  {
-   "key": "VUE_BLONG_2026-10-22",
-   "name": "Blong Vue",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1792705470,
    "photo": null
   }
  ]
