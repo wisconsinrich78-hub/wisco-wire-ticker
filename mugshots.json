@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T11:49:29+00:00",
+ "updated": "2026-10-23T12:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_HUGHES_MARKELL_624572",
+   "name": "Markell Sinclair Hughes",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Drive or Operate Vehicle w/o Consent (2nd+ offense)",
+   "more": 20,
+   "ts": 1792758649,
+   "photo": "photos/MKE_HUGHES_MARKELL_624572.jpg"
+  },
+  {
+   "key": "MKE_HARMON_JERMAIRE_634800",
+   "name": "Jermaire Amir Harmon",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Causing Mental Harm to Child",
+   "more": 0,
+   "ts": 1792758647,
+   "photo": null
+  },
   {
    "key": "MKE_NEAL_RODERICK_616809",
    "name": "Roderick Ronte Neal",
@@ -10,7 +32,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 6,
    "ts": 1792755944,
-   "photo": null
+   "photo": "photos/MKE_NEAL_RODERICK_616809.jpg"
   },
   {
    "key": "MKE_BALDWINTHOMAS_NICHOLAS_615788",
@@ -21,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792755942,
-   "photo": null
+   "photo": "photos/MKE_BALDWINTHOMAS_NICHOLAS_615788.jpg"
   },
   {
    "key": "KEN_ESPINOSA_CHRYSTAL_2026-00005867",
@@ -29,8 +51,8 @@
    "age": "44",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
    "ts": 1792754595,
    "photo": "photos/KEN_ESPINOSA_CHRYSTAL_2026-00005867.jpg"
   },
@@ -176,28 +198,6 @@
    "more": 0,
    "ts": 1792745142,
    "photo": null
-  },
-  {
-   "key": "MKE_SCOTT_AMAYA_613292",
-   "name": "Amaya Scott",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792742441,
-   "photo": "photos/MKE_SCOTT_AMAYA_613292.jpg"
-  },
-  {
-   "key": "MKE_KASPERSKI_ASHLEY_407785",
-   "name": "Ashley AnnMarie Kasperski",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792742439,
-   "photo": "photos/MKE_KASPERSKI_ASHLEY_407785.jpg"
   },
   {
    "key": "XIONG_MICHAEL_2026-10-23",
