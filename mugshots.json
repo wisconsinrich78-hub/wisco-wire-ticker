@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-23T09:49:26+00:00",
+ "updated": "2026-10-23T10:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_LUNA_ELI_421834",
+   "name": "Eli Luna",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792750542,
+   "photo": null
+  },
+  {
+   "key": "MKE_LUMPKINS_CHARLES_218267",
+   "name": "Charles Earl Lumpkins",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792750540,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_DANIEL_407147",
+   "name": "Daniel Kentreal Jones",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792750539,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAMES_CRYSTAL_234611",
+   "name": "Crystal Sharae James",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1792750537,
+   "photo": null
+  },
   {
    "key": "MKE_TUNSTALL_JAIDEN_647931",
    "name": "Jaiden Syncear Tunstall",
@@ -222,39 +266,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GOMEZRODRIGUEZ_MIGUEL_638513",
-   "name": "Miguel Gomez Rodriguez",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 0,
-   "ts": 1792731689,
-   "photo": "photos/MKE_GOMEZRODRIGUEZ_MIGUEL_638513.jpg"
-  },
-  {
-   "key": "MKE_BAKER_ROBERT_180541",
-   "name": "Robert Lee Baker",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1792731684,
-   "photo": "photos/MKE_BAKER_ROBERT_180541.jpg"
-  },
-  {
-   "key": "RC_STOKES_KEAUNA_120011075539170",
-   "name": "Keauna Jenae Stokes",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792730780,
-   "photo": "photos/RC_STOKES_KEAUNA_120011075539170.jpg"
-  },
-  {
    "key": "JENSEN_NEAL_2026-10-22",
    "name": "Neal R Jensen",
    "age": "62",
@@ -264,17 +275,6 @@
    "more": 0,
    "ts": 1792730674,
    "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_DENNY_382195",
-   "name": "Denny Deshawn Williams",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792729058,
-   "photo": "photos/MKE_WILLIAMS_DENNY_382195.jpg"
   },
   {
    "key": "ROBLEE_LYNEIGH_2026-10-22",
