@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-23T01:49:45+00:00",
+ "updated": "2026-10-23T02:49:49+00:00",
  "items": [
+  {
+   "key": "MKE_GALLEGOS_TREVINO_647925",
+   "name": "Trevino I Gallegos",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792723711,
+   "photo": null
+  },
+  {
+   "key": "MKE_FIRER_DAVID_647927",
+   "name": "David A Firer",
+   "age": "70",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792723702,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTAGENA_ANECIO_647926",
+   "name": "Anecio Carmello Cartagena",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792723697,
+   "photo": null
+  },
+  {
+   "key": "FDL_HALL_TERRENCE_2026-10-22",
+   "name": "Terrence Hall",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792721849,
+   "photo": "photos/FDL_HALL_TERRENCE_2026-10-22.jpg"
+  },
   {
    "key": "RC_MCINTYRE_CHARLES_120011075536367",
    "name": "Charles Dedrick Mcintyre",
@@ -18,8 +62,8 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Criminal Damage to Property",
+   "more": 2,
    "ts": 1792718923,
    "photo": null
   },
@@ -40,7 +84,7 @@
    "age": "29",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1792717486,
    "photo": "photos/KEN_MURRAY_SHAWN_2026-00005861.jpg"
@@ -51,7 +95,7 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1792717321,
    "photo": "photos/KEN_BRADSHAW_NICHOLAS_2026-00005860.jpg"
@@ -205,7 +249,7 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
+   "charge": "2nd/Sub. Drug Off.-Class E/F/G/H/I Fel.",
    "more": 15,
    "ts": 1792710067,
    "photo": null
@@ -230,7 +274,7 @@
    "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1792710063,
-   "photo": null
+   "photo": "photos/MKE_DEMASK_CHRISTINA_644454.jpg"
   },
   {
    "key": "FDL_CARY_DAZIA_2026-10-22",
@@ -253,39 +297,6 @@
    "more": 0,
    "ts": 1792707380,
    "photo": "photos/FDL_CARY_FREDERIC_2026-10-22.jpg"
-  },
-  {
-   "key": "MKE_YOUNG_KARONN_647924",
-   "name": "Karonn H Young",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792707377,
-   "photo": "photos/MKE_YOUNG_KARONN_647924.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_CARL_394733",
-   "name": "Carl Isaiah Williams",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 2,
-   "ts": 1792707376,
-   "photo": null
-  },
-  {
-   "key": "MKE_MURRYBANKS_DEQUWAN_647923",
-   "name": "Dequwan Lamont Murry Banks",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1792707374,
-   "photo": "photos/MKE_MURRYBANKS_DEQUWAN_647923.jpg"
   },
   {
    "key": "SILVERAZALDO_LIONEL_2026-10-22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792689378,
    "photo": "photos/FDL_DOBBS_JENNIFER_2026-10-22.jpg"
-  },
-  {
-   "key": "FDL_FONDER_DIAMOND_2026-10-22",
-   "name": "Diamond Fonder",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792685797,
-   "photo": "photos/FDL_FONDER_DIAMOND_2026-10-22.jpg"
   }
  ]
 }
