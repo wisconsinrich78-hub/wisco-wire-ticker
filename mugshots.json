@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T02:49:49+00:00",
+ "updated": "2026-10-23T03:49:39+00:00",
  "items": [
+  {
+   "key": "MKE_THOMAS_MICHAEL_388403",
+   "name": "Michael A Thomas",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1792726275,
+   "photo": null
+  },
+  {
+   "key": "FDL_MOORE_BIANCA_2026-10-22",
+   "name": "Bianca S Moore",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
+   "more": 1,
+   "ts": 1792725472,
+   "photo": "photos/FDL_MOORE_BIANCA_2026-10-22.jpg"
+  },
   {
    "key": "MKE_GALLEGOS_TREVINO_647925",
    "name": "Trevino I Gallegos",
@@ -65,7 +87,7 @@
    "charge": "Criminal Damage to Property",
    "more": 2,
    "ts": 1792718923,
-   "photo": null
+   "photo": "photos/MKE_JONES_KEYION_642404.jpg"
   },
   {
    "key": "MKE_COOKBEY_MICHAEL_632349",
@@ -186,7 +208,7 @@
    "charge": "Possess w/Intent-Cocaine (>5-15g)",
    "more": 4,
    "ts": 1792712751,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_MARCUS_283668.jpg"
   },
   {
    "key": "KEN_ALVAREZNUNEZ_JOSE_2026-00005858",
@@ -249,10 +271,10 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd/Sub. Drug Off.-Class E/F/G/H/I Fel.",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 15,
    "ts": 1792710067,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_DONNELL_396665.jpg"
   },
   {
    "key": "MKE_JAMES_DARYL_367892",
@@ -263,18 +285,7 @@
    "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
    "more": 15,
    "ts": 1792710065,
-   "photo": null
-  },
-  {
-   "key": "MKE_DEMASK_CHRISTINA_644454",
-   "name": "Christina C Demask",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1792710063,
-   "photo": "photos/MKE_DEMASK_CHRISTINA_644454.jpg"
+   "photo": "photos/MKE_JAMES_DARYL_367892.jpg"
   },
   {
    "key": "FDL_CARY_DAZIA_2026-10-22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792689425,
    "photo": "photos/FDL_USRY_MARTESE_2026-10-22.jpg"
-  },
-  {
-   "key": "FDL_DOBBS_JENNIFER_2026-10-22",
-   "name": "Jennifer May Dobbs",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Take And Drive Vehicle Without Owner'S Consent",
-   "more": 0,
-   "ts": 1792689378,
-   "photo": "photos/FDL_DOBBS_JENNIFER_2026-10-22.jpg"
   }
  ]
 }
