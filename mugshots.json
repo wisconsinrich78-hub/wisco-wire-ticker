@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-23T14:49:31+00:00",
+ "updated": "2026-10-23T15:49:29+00:00",
  "items": [
+  {
+   "key": "RC_OLSEN_DONAVON_120011075549988",
+   "name": "Donavon J Olsen",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792770312,
+   "photo": "photos/RC_OLSEN_DONAVON_120011075549988.jpg"
+  },
+  {
+   "key": "SHEFFER_JEREMIAH_2026-10-23",
+   "name": "Jeremiah J Sheffer",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792769360,
+   "photo": null
+  },
+  {
+   "key": "RC_RAMIREZZUNIGA_RODRIGO_120011075549275",
+   "name": "Rodrigo Ramirez-Zuniga",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792768509,
+   "photo": "photos/RC_RAMIREZZUNIGA_RODRIGO_120011075549275.jpg"
+  },
   {
    "key": "MKE_ROBINSON_DESHAWN_635161",
    "name": "Deshawn Robinson",
@@ -19,7 +52,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 4,
    "ts": 1792766772,
    "photo": null
   },
@@ -198,28 +231,6 @@
    "more": 2,
    "ts": 1792750539,
    "photo": null
-  },
-  {
-   "key": "MKE_JAMES_CRYSTAL_234611",
-   "name": "Crystal Sharae James",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1792750537,
-   "photo": "photos/MKE_JAMES_CRYSTAL_234611.jpg"
-  },
-  {
-   "key": "MKE_TUNSTALL_JAIDEN_647931",
-   "name": "Jaiden Syncear Tunstall",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1792747844,
-   "photo": "photos/MKE_TUNSTALL_JAIDEN_647931.jpg"
   },
   {
    "key": "DOU_GARZA_DOMINIK_2026-10-22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792703353,
    "photo": "photos/MAR_TALLMAN_DYLAN_2026-10-22.jpg"
-  },
-  {
-   "key": "MAR_HOFFOLERICH_CRYSTAL_2026-10-22",
-   "name": "Crystal Ann Hoff-Olerich",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Controlled Substance",
-   "more": 6,
-   "ts": 1792702773,
-   "photo": "photos/MAR_HOFFOLERICH_CRYSTAL_2026-10-22.jpg"
   }
  ]
 }
