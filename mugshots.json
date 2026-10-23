@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-23T00:49:42+00:00",
+ "updated": "2026-10-23T01:49:45+00:00",
  "items": [
+  {
+   "key": "RC_MCINTYRE_CHARLES_120011075536367",
+   "name": "Charles Dedrick Mcintyre",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792719091,
+   "photo": "photos/RC_MCINTYRE_CHARLES_120011075536367.jpg"
+  },
+  {
+   "key": "MKE_JONES_KEYION_642404",
+   "name": "Keyion Julian Jones",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792718923,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOKBEY_MICHAEL_632349",
+   "name": "Michael D Cook-Bey",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 40,
+   "ts": 1792718918,
+   "photo": null
+  },
+  {
+   "key": "KEN_MURRAY_SHAWN_2026-00005861",
+   "name": "Shawn M Murray",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792717486,
+   "photo": "photos/KEN_MURRAY_SHAWN_2026-00005861.jpg"
+  },
+  {
+   "key": "KEN_BRADSHAW_NICHOLAS_2026-00005860",
+   "name": "Nicholas James Bradshaw",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792717321,
+   "photo": "photos/KEN_BRADSHAW_NICHOLAS_2026-00005860.jpg"
+  },
+  {
+   "key": "GARNER_STEVEN_2026-10-22",
+   "name": "Steven C Garner",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792716716,
+   "photo": null
+  },
   {
    "key": "MAR_VANG_KEVIN_2026-10-22",
    "name": "Kevin Lar Vang",
@@ -62,8 +128,8 @@
    "age": "67",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Battery",
+   "more": 1,
    "ts": 1792714011,
    "photo": null
   },
@@ -84,8 +150,8 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "1St Degree Reckless Endangering Safety",
+   "more": 1,
    "ts": 1792712188,
    "photo": "photos/KEN_ALVAREZNUNEZ_JOSE_2026-00005858.jpg"
   },
@@ -131,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792710069,
-   "photo": null
+   "photo": "photos/MKE_SNARSKI_RICARDO_642315.jpg"
   },
   {
    "key": "MKE_JOHNSON_DONNELL_396665",
@@ -139,8 +205,8 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 15,
    "ts": 1792710067,
    "photo": null
   },
@@ -197,7 +263,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792707377,
-   "photo": null
+   "photo": "photos/MKE_YOUNG_KARONN_647924.jpg"
   },
   {
    "key": "MKE_WILLIAMS_CARL_394733",
@@ -219,29 +285,7 @@
    "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1792707374,
-   "photo": null
-  },
-  {
-   "key": "MKE_LEWIS_DAVID_510630",
-   "name": "David Deshawn Lewis",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1792707371,
-   "photo": null
-  },
-  {
-   "key": "RC_GOMEZ_EDUARDO_120011075532702",
-   "name": "Eduardo Kevin Gomez",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1792707304,
-   "photo": null
+   "photo": "photos/MKE_MURRYBANKS_DEQUWAN_647923.jpg"
   },
   {
    "key": "SILVERAZALDO_LIONEL_2026-10-22",
@@ -255,17 +299,6 @@
    "photo": null
   },
   {
-   "key": "RC_COMPTON_STEPHEN_120011075527284",
-   "name": "Stephen Compton",
-   "age": "61",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine (2nd and subsequent)",
-   "more": 2,
-   "ts": 1792705514,
-   "photo": null
-  },
-  {
    "key": "VUE_BLONG_2026-10-22",
    "name": "Blong Vue",
    "age": "41",
@@ -275,28 +308,6 @@
    "more": 0,
    "ts": 1792705470,
    "photo": null
-  },
-  {
-   "key": "MKE_WINDOM_SHARQUON_540302",
-   "name": "Sharquon Sandra Windom",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disobedient Witness",
-   "more": 0,
-   "ts": 1792704653,
-   "photo": "photos/MKE_WINDOM_SHARQUON_540302.jpg"
-  },
-  {
-   "key": "MKE_ROBERSON_DONZELL_611500",
-   "name": "Donzell L Roberson",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792704651,
-   "photo": "photos/MKE_ROBERSON_DONZELL_611500.jpg"
   },
   {
    "key": "DOU_HAKALA_SAMANTHA_2026-10-22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792685797,
    "photo": "photos/FDL_FONDER_DIAMOND_2026-10-22.jpg"
-  },
-  {
-   "key": "NOLAN_AMBER_2026-10-22",
-   "name": "Amber Mae Nolan",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792681175,
-   "photo": null
   }
  ]
 }
