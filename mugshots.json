@@ -1,14 +1,80 @@
 {
- "updated": "2026-10-23T10:49:32+00:00",
+ "updated": "2026-10-23T11:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_NEAL_RODERICK_616809",
+   "name": "Roderick Ronte Neal",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 6,
+   "ts": 1792755944,
+   "photo": null
+  },
+  {
+   "key": "MKE_BALDWINTHOMAS_NICHOLAS_615788",
+   "name": "Nicholas Montreal Baldwin-Thomas",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792755942,
+   "photo": null
+  },
+  {
+   "key": "KEN_ESPINOSA_CHRYSTAL_2026-00005867",
+   "name": "Chrystal Gayle Espinosa",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792754595,
+   "photo": "photos/KEN_ESPINOSA_CHRYSTAL_2026-00005867.jpg"
+  },
+  {
+   "key": "MKE_REDMOND_EMAHRIYAH_641309",
+   "name": "Emahriyah Redmond",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792753236,
+   "photo": "photos/MKE_REDMOND_EMAHRIYAH_641309.jpg"
+  },
+  {
+   "key": "MKE_PETTIS_ANTONIO_380220",
+   "name": "Antonio Dewayne Pettis",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 7,
+   "ts": 1792753234,
+   "photo": null
+  },
+  {
+   "key": "MKE_FULLER_WILLIE_354507",
+   "name": "Willie Bee Fuller",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "more": 7,
+   "ts": 1792753233,
+   "photo": null
+  },
   {
    "key": "MKE_LUNA_ELI_421834",
    "name": "Eli Luna",
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1792750542,
    "photo": null
   },
@@ -43,7 +109,7 @@
    "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1792750537,
-   "photo": null
+   "photo": "photos/MKE_JAMES_CRYSTAL_234611.jpg"
   },
   {
    "key": "MKE_TUNSTALL_JAIDEN_647931",
@@ -134,17 +200,6 @@
    "photo": "photos/MKE_KASPERSKI_ASHLEY_407785.jpg"
   },
   {
-   "key": "MKE_ABDULRAHIM_MOHAMMAD_640747",
-   "name": "Mohammad B Abdul Rahim",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 1,
-   "ts": 1792742438,
-   "photo": "photos/MKE_ABDULRAHIM_MOHAMMAD_640747.jpg"
-  },
-  {
    "key": "XIONG_MICHAEL_2026-10-23",
    "name": "Michael Xiong",
    "age": "33",
@@ -154,17 +209,6 @@
    "more": 4,
    "ts": 1792741894,
    "photo": null
-  },
-  {
-   "key": "RC_SYTSMA_CHARLES_120011075541145",
-   "name": "Charles R Sytsma",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine (2nd and subsequent)",
-   "more": 1,
-   "ts": 1792740607,
-   "photo": "photos/RC_SYTSMA_CHARLES_120011075541145.jpg"
   },
   {
    "key": "MAR_HOWARD_CURTIS_2026-10-22",
@@ -200,39 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_HANDS_JOSHUA_600756",
-   "name": "Joshua Richard Hands",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792739741,
-   "photo": "photos/MKE_HANDS_JOSHUA_600756.jpg"
-  },
-  {
-   "key": "KEN_JACKSON_SIDNEY_2026-00005865",
-   "name": "Sidney Antwonterrell Jackson",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792739232,
-   "photo": "photos/KEN_JACKSON_SIDNEY_2026-00005865.jpg"
-  },
-  {
-   "key": "KEN_GRATIOT_ERIK_2026-00005864",
-   "name": "Erik Tyler Gratiot",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Marijuana (Thc)",
-   "more": 3,
-   "ts": 1792735608,
-   "photo": "photos/KEN_GRATIOT_ERIK_2026-00005864.jpg"
-  },
-  {
    "key": "VANDAHL_DOR_2026-10-23",
    "name": "Dor E Vandahl",
    "age": "57",
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1792735604,
    "photo": null
-  },
-  {
-   "key": "RC_SZYMANDERA_JADYN_120011075540287",
-   "name": "Jadyn Micheal Szymandera",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 0,
-   "ts": 1792734352,
-   "photo": "photos/RC_SZYMANDERA_JADYN_120011075540287.jpg"
   },
   {
    "key": "DOU_RABOIN_AMY_2026-10-22",
