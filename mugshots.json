@@ -1,14 +1,135 @@
 {
- "updated": "2026-10-23T22:49:26+00:00",
+ "updated": "2026-10-23T23:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_MURPHY_WALLACE_644332",
+   "name": "Wallace L Murphy",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Take and Drive Vehicle w/o Consent",
+   "more": 0,
+   "ts": 1792799145,
+   "photo": null
+  },
+  {
+   "key": "MKE_CODLING_DEVONTE_603854",
+   "name": "Devonte Deshawn Codling",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1792799143,
+   "photo": null
+  },
+  {
+   "key": "RC_CHAMBERS_PARIS_120011075561896",
+   "name": "Paris Markese Chambers",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792799110,
+   "photo": "photos/RC_CHAMBERS_PARIS_120011075561896.jpg"
+  },
+  {
+   "key": "KEN_MORTENSEN_THOMAS_2026-00005878",
+   "name": "Thomas William Mortensen",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792797787,
+   "photo": "photos/KEN_MORTENSEN_THOMAS_2026-00005878.jpg"
+  },
+  {
+   "key": "KEN_HANSEN_CHRISTOPHER_2026-00005876",
+   "name": "Christopher Joseph Hansen",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792796786,
+   "photo": "photos/KEN_HANSEN_CHRISTOPHER_2026-00005876.jpg"
+  },
+  {
+   "key": "RC_CUMBERLAND_ANTON_120011075560998",
+   "name": "Anton Capone Cumberland",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1792796594,
+   "photo": null
+  },
+  {
+   "key": "MKE_WEATHERS_DEONTE_500643",
+   "name": "Deonte Orlando Weathers",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792796459,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_SHAMEKA_643145",
+   "name": "Shameka Shantay Thomas",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 0,
+   "ts": 1792796456,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANDERS_JAVION_647936",
+   "name": "Javion D Sanders",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792796454,
+   "photo": null
+  },
+  {
+   "key": "MKE_MICHALAK_TIMOTHY_634029",
+   "name": "Timothy Andrew Michalak",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792796452,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_SEVON_620988",
+   "name": "Sevon Devon Jackson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Forfeiture 1st)",
+   "more": 0,
+   "ts": 1792796450,
+   "photo": null
+  },
   {
    "key": "KEN_BANKS_SHARICE_2026-00005874",
    "name": "Sharice M Banks",
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operate After Rev/Susp Of Registration",
+   "more": 3,
    "ts": 1792794954,
    "photo": "photos/KEN_BANKS_SHARICE_2026-00005874.jpg"
   },
@@ -90,50 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_VAZQUEZCERVANTES_YERAY_642389",
-   "name": "Yeray Vazquez Cervantes",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1792791052,
-   "photo": "photos/MKE_VAZQUEZCERVANTES_YERAY_642389.jpg"
-  },
-  {
-   "key": "MKE_RILEY_CALEB_346515",
-   "name": "Caleb Jay Riley",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
-   "more": 12,
-   "ts": 1792791051,
-   "photo": null
-  },
-  {
-   "key": "MKE_NEWSOM_JAMES_389871",
-   "name": "James Terran Newsom",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Negligent Handling of Burning Material",
-   "more": 1,
-   "ts": 1792791049,
-   "photo": null
-  },
-  {
-   "key": "MKE_DELGADO_JOSHUA_2061904",
-   "name": "Joshua R Delgado",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 4,
-   "ts": 1792791047,
-   "photo": null
-  },
-  {
    "key": "BOWMAN_JADA_2026-10-23",
    "name": "Jada S Bowman",
    "age": "20",
@@ -142,72 +219,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792790496,
-   "photo": null
-  },
-  {
-   "key": "RC_BJORTOMT_JAKE_120011075559761",
-   "name": "Jake Bjortomt",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792790103,
-   "photo": null
-  },
-  {
-   "key": "KEN_ALEXIS_LOZAMAR_2026-00005869",
-   "name": "LOZAMAR Junior ALEXIS",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1792788783,
-   "photo": "photos/KEN_ALEXIS_LOZAMAR_2026-00005869.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_ISAIAH_638787",
-   "name": "Isaiah Williams",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Arson of Building w/o Owner\u2019s Consent",
-   "more": 0,
-   "ts": 1792788352,
-   "photo": "photos/MKE_WILLIAMS_ISAIAH_638787.jpg"
-  },
-  {
-   "key": "MKE_WALKER_LEON_615058",
-   "name": "Leon Larry Walker",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792788350,
-   "photo": null
-  },
-  {
-   "key": "MKE_HERNANDEZ_JOSE_346115",
-   "name": "Jose Ramido Hernandez",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792788347,
-   "photo": null
-  },
-  {
-   "key": "MKE_FULLER_WILLIE_620687",
-   "name": "Willie Fuller",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 4,
-   "ts": 1792788345,
    "photo": null
   },
   {
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1792787373,
    "photo": "photos/HOU_MURPHY_KYLERAYMOND_6307.jpg"
-  },
-  {
-   "key": "MKE_SANFORD_KENYARI_367968",
-   "name": "Kenyari Mandella Sanford",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 7,
-   "ts": 1792785672,
-   "photo": null
   },
   {
    "key": "FDL_JODARSKI_NATHANIEL_2026-10-23",
