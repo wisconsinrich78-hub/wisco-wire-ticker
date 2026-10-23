@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-22T23:49:33+00:00",
+ "updated": "2026-10-23T00:49:42+00:00",
  "items": [
+  {
+   "key": "MAR_VANG_KEVIN_2026-10-22",
+   "name": "Kevin Lar Vang",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 3,
+   "ts": 1792716367,
+   "photo": null
+  },
+  {
+   "key": "MAR_YU_KEVIN_2026-10-22",
+   "name": "Kevin Yu",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792716367,
+   "photo": null
+  },
+  {
+   "key": "MAR_HER_TONG_2026-10-22",
+   "name": "Tong Her",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1792716367,
+   "photo": null
+  },
+  {
+   "key": "KEN_REED_MARQUEL_2026-00005857",
+   "name": "Marquel Reed",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violate Temp Restraining Order Or Injunction",
+   "more": 1,
+   "ts": 1792714947,
+   "photo": "photos/KEN_REED_MARQUEL_2026-00005857.jpg"
+  },
+  {
+   "key": "WASHINGTON_RAMON_2026-10-22",
+   "name": "Ramon Tl Washington",
+   "age": "28",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792714469,
+   "photo": null
+  },
+  {
+   "key": "KEN_KIRK_JEROME_2026-00005859",
+   "name": "Jerome Kirk",
+   "age": "67",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792714011,
+   "photo": null
+  },
   {
    "key": "MKE_HARRIS_MARCUS_283668",
    "name": "Marcus Ramone Harris",
@@ -84,8 +150,8 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "more": 15,
    "ts": 1792710065,
    "photo": null
   },
@@ -150,7 +216,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1792707374,
    "photo": null
@@ -219,7 +285,7 @@
    "charge": "Disobedient Witness",
    "more": 0,
    "ts": 1792704653,
-   "photo": null
+   "photo": "photos/MKE_WINDOM_SHARQUON_540302.jpg"
   },
   {
    "key": "MKE_ROBERSON_DONZELL_611500",
@@ -230,29 +296,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792704651,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_MIKELL_627123",
-   "name": "Mikell Breedlove Johnson",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 10,
-   "ts": 1792704649,
-   "photo": null
-  },
-  {
-   "key": "RC_GOMEZ_FERNANDO_120011075531586",
-   "name": "Fernando Xavier Gomez",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 0,
-   "ts": 1792704608,
-   "photo": "photos/RC_GOMEZ_FERNANDO_120011075531586.jpg"
+   "photo": "photos/MKE_ROBERSON_DONZELL_611500.jpg"
   },
   {
    "key": "DOU_HAKALA_SAMANTHA_2026-10-22",
@@ -464,28 +508,6 @@
    "photo": "photos/FDL_DOBBS_JENNIFER_2026-10-22.jpg"
   },
   {
-   "key": "MAR_LEWIS_BRIAN_2026-10-22",
-   "name": "Brian James Lewis",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1792688980,
-   "photo": "photos/MAR_LEWIS_BRIAN_2026-10-22.jpg"
-  },
-  {
-   "key": "MAR_MOSER_KEATON_2026-10-22",
-   "name": "Keaton Ryan Moser",
-   "age": "18",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Rev Due to Alc/Contr Subst)",
-   "more": 1,
-   "ts": 1792686667,
-   "photo": null
-  },
-  {
    "key": "FDL_FONDER_DIAMOND_2026-10-22",
    "name": "Diamond Fonder",
    "age": "",
@@ -497,17 +519,6 @@
    "photo": "photos/FDL_FONDER_DIAMOND_2026-10-22.jpg"
   },
   {
-   "key": "MAR_LO_ZACHARY_2026-10-14",
-   "name": "Zachary Thomas Lo",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1792682201,
-   "photo": null
-  },
-  {
    "key": "NOLAN_AMBER_2026-10-22",
    "name": "Amber Mae Nolan",
    "age": "44",
@@ -516,17 +527,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792681175,
-   "photo": null
-  },
-  {
-   "key": "STEERS_KYLE_2026-10-22",
-   "name": "Kyle A Steers",
-   "age": "19",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792679378,
    "photo": null
   }
  ]
