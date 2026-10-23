@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-23T03:49:39+00:00",
+ "updated": "2026-10-23T04:50:06+00:00",
  "items": [
+  {
+   "key": "RC_STOKES_KEAUNA_120011075539170",
+   "name": "Keauna Jenae Stokes",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792730780,
+   "photo": "photos/RC_STOKES_KEAUNA_120011075539170.jpg"
+  },
+  {
+   "key": "JENSEN_NEAL_2026-10-22",
+   "name": "Neal R Jensen",
+   "age": "62",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792730674,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_DENNY_382195",
+   "name": "Denny Deshawn Williams",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792729058,
+   "photo": null
+  },
+  {
+   "key": "MKE_FUENTESESPINOZA_LUIS_647928",
+   "name": "Luis Manuel Fuentes-Espinoza",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792729053,
+   "photo": null
+  },
+  {
+   "key": "MKE_CALZADA_NICOLAS_2053001",
+   "name": "Nicolas Miguel Calzada",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1792729049,
+   "photo": null
+  },
+  {
+   "key": "ROBLEE_LYNEIGH_2026-10-22",
+   "name": "Lyneigh Yvette Roblee",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792728410,
+   "photo": null
+  },
   {
    "key": "MKE_THOMAS_MICHAEL_388403",
    "name": "Michael A Thomas",
@@ -98,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 40,
    "ts": 1792718918,
-   "photo": null
+   "photo": "photos/MKE_COOKBEY_MICHAEL_632349.jpg"
   },
   {
    "key": "KEN_MURRAY_SHAWN_2026-00005861",
@@ -211,17 +277,6 @@
    "photo": "photos/MKE_HARRIS_MARCUS_283668.jpg"
   },
   {
-   "key": "KEN_ALVAREZNUNEZ_JOSE_2026-00005858",
-   "name": "Jose Daniel Alvarez-Nunez",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "1St Degree Reckless Endangering Safety",
-   "more": 1,
-   "ts": 1792712188,
-   "photo": "photos/KEN_ALVAREZNUNEZ_JOSE_2026-00005858.jpg"
-  },
-  {
    "key": "DOU_CUMMINGS_JOHN_2026-10-22",
    "name": "John M Cummings",
    "age": "47",
@@ -253,39 +308,6 @@
    "more": 0,
    "ts": 1792710865,
    "photo": null
-  },
-  {
-   "key": "MKE_SNARSKI_RICARDO_642315",
-   "name": "Ricardo D Snarski",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792710069,
-   "photo": "photos/MKE_SNARSKI_RICARDO_642315.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_DONNELL_396665",
-   "name": "Donnell Terry Johnson",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 15,
-   "ts": 1792710067,
-   "photo": "photos/MKE_JOHNSON_DONNELL_396665.jpg"
-  },
-  {
-   "key": "MKE_JAMES_DARYL_367892",
-   "name": "Daryl Allen James",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
-   "more": 15,
-   "ts": 1792710065,
-   "photo": "photos/MKE_JAMES_DARYL_367892.jpg"
   },
   {
    "key": "FDL_CARY_DAZIA_2026-10-22",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792690171,
    "photo": null
-  },
-  {
-   "key": "DOU_HANSON_TIMOTHY_2026-10-22",
-   "name": "Timothy L Hanson",
-   "age": "37",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792689437,
-   "photo": null
-  },
-  {
-   "key": "FDL_USRY_MARTESE_2026-10-22",
-   "name": "Martese L Usry",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792689425,
-   "photo": "photos/FDL_USRY_MARTESE_2026-10-22.jpg"
   }
  ]
 }
