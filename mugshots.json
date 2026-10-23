@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-23T15:49:29+00:00",
+ "updated": "2026-10-23T16:49:42+00:00",
  "items": [
+  {
+   "key": "RC_SCHROEDER_NICOLE_120011075551718",
+   "name": "Nicole Jean Schroeder",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792773006,
+   "photo": "photos/RC_SCHROEDER_NICOLE_120011075551718.jpg"
+  },
+  {
+   "key": "RC_SHANNON_JULIAN_120011075551078",
+   "name": "Julian Lee Shannon",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792772115,
+   "photo": null
+  },
+  {
+   "key": "RC_KUGLER_CAITLIN_120011075551038",
+   "name": "Caitlin Marie Kugler",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792772112,
+   "photo": null
+  },
+  {
+   "key": "KEN_REYESMORENO_JUAN_2026-00005870",
+   "name": "Juan Rufino Reyes-Moreno",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792771651,
+   "photo": "photos/KEN_REYESMORENO_JUAN_2026-00005870.jpg"
+  },
+  {
+   "key": "KEN_LOZAMAR_ALEXIS_2026-00005869",
+   "name": "ALEXIS Junior LOZAMAR",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792770835,
+   "photo": null
+  },
   {
    "key": "RC_OLSEN_DONAVON_120011075549988",
    "name": "Donavon J Olsen",
@@ -29,7 +84,7 @@
    "age": "37",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792768509,
    "photo": "photos/RC_RAMIREZZUNIGA_RODRIGO_120011075549275.jpg"
@@ -43,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792766773,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_DESHAWN_635161.jpg"
   },
   {
    "key": "MKE_BENTLEY_WILBERT_312132",
@@ -54,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1792766772,
-   "photo": null
+   "photo": "photos/MKE_BENTLEY_WILBERT_312132.jpg"
   },
   {
    "key": "MAR_HER_MICHAEL_2026-10-23",
@@ -98,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1792764055,
-   "photo": null
+   "photo": "photos/MKE_HILL_MYKAEL_605234.jpg"
   },
   {
    "key": "FDL_JUERS_BRANDON_2026-10-23",
@@ -176,61 +231,6 @@
    "more": 1,
    "ts": 1792753236,
    "photo": "photos/MKE_REDMOND_EMAHRIYAH_641309.jpg"
-  },
-  {
-   "key": "MKE_PETTIS_ANTONIO_380220",
-   "name": "Antonio Dewayne Pettis",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1792753234,
-   "photo": "photos/MKE_PETTIS_ANTONIO_380220.jpg"
-  },
-  {
-   "key": "MKE_FULLER_WILLIE_354507",
-   "name": "Willie Bee Fuller",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 7,
-   "ts": 1792753233,
-   "photo": "photos/MKE_FULLER_WILLIE_354507.jpg"
-  },
-  {
-   "key": "MKE_LUNA_ELI_421834",
-   "name": "Eli Luna",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792750542,
-   "photo": "photos/MKE_LUNA_ELI_421834.jpg"
-  },
-  {
-   "key": "MKE_LUMPKINS_CHARLES_218267",
-   "name": "Charles Earl Lumpkins",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792750540,
-   "photo": "photos/MKE_LUMPKINS_CHARLES_218267.jpg"
-  },
-  {
-   "key": "MKE_JONES_DANIEL_407147",
-   "name": "Daniel Kentreal Jones",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792750539,
-   "photo": null
   },
   {
    "key": "DOU_GARZA_DOMINIK_2026-10-22",
