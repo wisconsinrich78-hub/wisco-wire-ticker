@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-23T21:49:33+00:00",
+ "updated": "2026-10-23T22:49:26+00:00",
  "items": [
+  {
+   "key": "KEN_BANKS_SHARICE_2026-00005874",
+   "name": "Sharice M Banks",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792794954,
+   "photo": "photos/KEN_BANKS_SHARICE_2026-00005874.jpg"
+  },
+  {
+   "key": "DOU_KNUTSON_JUSTIN_2026-10-23",
+   "name": "Justin T Knutson",
+   "age": "39",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792793860,
+   "photo": null
+  },
+  {
+   "key": "MKE_STANKOWSKI_JENNIFER_641452",
+   "name": "Jennifer Michelle Stankowski",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Identity Theft - Obtain Money or Credit",
+   "more": 0,
+   "ts": 1792793750,
+   "photo": null
+  },
+  {
+   "key": "MKE_POINTER_MARQUISE_412931",
+   "name": "Marquise D Pointer",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
+   "ts": 1792793748,
+   "photo": null
+  },
+  {
+   "key": "MKE_GREER_LENARD_294687",
+   "name": "Lenard D Greer",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 1,
+   "ts": 1792793746,
+   "photo": null
+  },
+  {
+   "key": "MKE_AGNEW_DARRYL_340832",
+   "name": "Darryl Clarence Agnew",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 3,
+   "ts": 1792793745,
+   "photo": null
+  },
   {
    "key": "MAR_LUEDKE_CONNOR_2026-10-23",
    "name": "Connor Norman Luedke",
@@ -29,10 +95,10 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1792791052,
-   "photo": null
+   "photo": "photos/MKE_VAZQUEZCERVANTES_YERAY_642389.jpg"
   },
   {
    "key": "MKE_RILEY_CALEB_346515",
@@ -40,7 +106,7 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
    "more": 12,
    "ts": 1792791051,
    "photo": null
@@ -167,39 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_EVANS_KHALID_418055",
-   "name": "Khalid Ammaad Evans",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1792785669,
-   "photo": null
-  },
-  {
-   "key": "KEN_ANDERSON_MASON_2026-00005873",
-   "name": "Mason Corbin Anderson",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792785192,
-   "photo": "photos/KEN_ANDERSON_MASON_2026-00005873.jpg"
-  },
-  {
-   "key": "KEN_DANZY_DARRIONTAY_2026-00005872",
-   "name": "Darriontay Rashona Danzy",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1792784361,
-   "photo": "photos/KEN_DANZY_DARRIONTAY_2026-00005872.jpg"
-  },
-  {
    "key": "FDL_JODARSKI_NATHANIEL_2026-10-23",
    "name": "Nathaniel John Jodarski",
    "age": "",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1792782972,
    "photo": null
-  },
-  {
-   "key": "MKE_HOWARD_LAMAR_511661",
-   "name": "Lamar Earl Howard",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 3,
-   "ts": 1792782968,
-   "photo": null
-  },
-  {
-   "key": "MKE_COWANS_TYRELL_375459",
-   "name": "Tyrell Jamar Cowans",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1792782963,
-   "photo": "photos/MKE_COWANS_TYRELL_375459.jpg"
   },
   {
    "key": "SHEFFER_JEREMIAH_2026-10-23",
@@ -516,17 +527,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 0,
    "ts": 1792710865,
-   "photo": null
-  },
-  {
-   "key": "FDL_CARY_DAZIA_2026-10-22",
-   "name": "Dazia Joy Cary",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792707380,
    "photo": null
   }
  ]
