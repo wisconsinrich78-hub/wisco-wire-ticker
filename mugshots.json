@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T05:49:33+00:00",
+ "updated": "2026-10-23T06:49:28+00:00",
  "items": [
+  {
+   "key": "KEN_GRATIOT_ERIK_2026-00005864",
+   "name": "Erik Tyler Gratiot",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792735608,
+   "photo": "photos/KEN_GRATIOT_ERIK_2026-00005864.jpg"
+  },
+  {
+   "key": "VANDAHL_DOR_2026-10-23",
+   "name": "Dor E Vandahl",
+   "age": "57",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792735604,
+   "photo": null
+  },
   {
    "key": "RC_SZYMANDERA_JADYN_120011075540287",
    "name": "Jadyn Micheal Szymandera",
@@ -87,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792729053,
-   "photo": null
+   "photo": "photos/MKE_FUENTESESPINOZA_LUIS_647928.jpg"
   },
   {
    "key": "MKE_CALZADA_NICOLAS_2053001",
@@ -220,17 +242,6 @@
    "more": 0,
    "ts": 1792717486,
    "photo": "photos/KEN_MURRAY_SHAWN_2026-00005861.jpg"
-  },
-  {
-   "key": "KEN_BRADSHAW_NICHOLAS_2026-00005860",
-   "name": "Nicholas James Bradshaw",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792717321,
-   "photo": "photos/KEN_BRADSHAW_NICHOLAS_2026-00005860.jpg"
   },
   {
    "key": "GARNER_STEVEN_2026-10-22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792691677,
    "photo": null
-  },
-  {
-   "key": "MAR_BOGE_JOSHUA_2026-10-22",
-   "name": "Joshua Douglas Boge",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792690527,
-   "photo": "photos/MAR_BOGE_JOSHUA_2026-10-22.jpg"
   }
  ]
 }
