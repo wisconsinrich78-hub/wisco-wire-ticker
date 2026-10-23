@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-23T17:49:30+00:00",
+ "updated": "2026-10-23T18:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_JOHNSON_MARIAH_647934",
+   "name": "Mariah Monique Johnson",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1792780268,
+   "photo": null
+  },
+  {
+   "key": "MKE_BANKS_DONTREAL_647935",
+   "name": "Dontreal B Banks",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792780265,
+   "photo": null
+  },
+  {
+   "key": "RC_GILES_ZACHARY_120011075554298",
+   "name": "Zachary Montez Giles",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792779312,
+   "photo": "photos/RC_GILES_ZACHARY_120011075554298.jpg"
+  },
   {
    "key": "MKE_MEADOWS_HAROLD_643500",
    "name": "Harold Meadows",
@@ -98,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792774997,
-   "photo": null
+   "photo": "photos/MKE_GANDHI_FRENCY_647932.jpg"
   },
   {
    "key": "MKE_CARROLL_ELIAS_627681",
@@ -143,39 +176,6 @@
    "more": 0,
    "ts": 1792772112,
    "photo": null
-  },
-  {
-   "key": "KEN_REYESMORENO_JUAN_2026-00005870",
-   "name": "Juan Rufino Reyes-Moreno",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Knowingly Owl / Cause Great Bodily Harm",
-   "more": 0,
-   "ts": 1792771651,
-   "photo": "photos/KEN_REYESMORENO_JUAN_2026-00005870.jpg"
-  },
-  {
-   "key": "KEN_LOZAMAR_ALEXIS_2026-00005869",
-   "name": "ALEXIS Junior LOZAMAR",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792770835,
-   "photo": null
-  },
-  {
-   "key": "RC_OLSEN_DONAVON_120011075549988",
-   "name": "Donavon J Olsen",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792770312,
-   "photo": "photos/RC_OLSEN_DONAVON_120011075549988.jpg"
   },
   {
    "key": "SHEFFER_JEREMIAH_2026-10-23",
