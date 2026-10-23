@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-23T16:49:42+00:00",
+ "updated": "2026-10-23T17:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_MEADOWS_HAROLD_643500",
+   "name": "Harold Meadows",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1792777575,
+   "photo": null
+  },
+  {
+   "key": "MKE_GIBBS_DARRIAN_394352",
+   "name": "Darrian Shatorris Gibbs",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run-Involve Great Bodily Harm",
+   "more": 0,
+   "ts": 1792777572,
+   "photo": null
+  },
+  {
+   "key": "MKE_FUDGEHILL_ERIQ_647933",
+   "name": "Eriq M Fudge-Hill",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792777570,
+   "photo": null
+  },
+  {
+   "key": "RC_CRUZ_NASTASIJHA_120011075553282",
+   "name": "Nastasijha A Cruz",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792777515,
+   "photo": "photos/RC_CRUZ_NASTASIJHA_120011075553282.jpg"
+  },
+  {
+   "key": "RC_MOLZAHN_ASHLEY_120011075553029",
+   "name": "Ashley Prendana Molzahn",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792776609,
+   "photo": "photos/RC_MOLZAHN_ASHLEY_120011075553029.jpg"
+  },
+  {
+   "key": "RC_DAVIS_BRIDGET_120011075553229",
+   "name": "Bridget A Davis",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792776606,
+   "photo": "photos/RC_DAVIS_BRIDGET_120011075553229.jpg"
+  },
+  {
+   "key": "MKE_SINGLETON_RONALD_227207",
+   "name": "Ronald Benjamin Singleton",
+   "age": "64",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Stalking",
+   "more": 0,
+   "ts": 1792775000,
+   "photo": null
+  },
+  {
+   "key": "MKE_QUEEN_JAMES_212703",
+   "name": "James Earl Queen",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (5th or 6th)",
+   "more": 0,
+   "ts": 1792774998,
+   "photo": null
+  },
+  {
+   "key": "MKE_GANDHI_FRENCY_647932",
+   "name": "Frency P Gandhi",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792774997,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARROLL_ELIAS_627681",
+   "name": "Elias Lamont Carroll",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792774995,
+   "photo": null
+  },
   {
    "key": "RC_SCHROEDER_NICOLE_120011075551718",
    "name": "Nicole Jean Schroeder",
@@ -40,7 +150,7 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Knowingly Owl / Cause Great Bodily Harm",
    "more": 0,
    "ts": 1792771651,
    "photo": "photos/KEN_REYESMORENO_JUAN_2026-00005870.jpg"
@@ -51,7 +161,7 @@
    "age": "25",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1792770835,
    "photo": null
@@ -77,39 +187,6 @@
    "more": 0,
    "ts": 1792769360,
    "photo": null
-  },
-  {
-   "key": "RC_RAMIREZZUNIGA_RODRIGO_120011075549275",
-   "name": "Rodrigo Ramirez-Zuniga",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792768509,
-   "photo": "photos/RC_RAMIREZZUNIGA_RODRIGO_120011075549275.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_DESHAWN_635161",
-   "name": "Deshawn Robinson",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792766773,
-   "photo": "photos/MKE_ROBINSON_DESHAWN_635161.jpg"
-  },
-  {
-   "key": "MKE_BENTLEY_WILBERT_312132",
-   "name": "Wilbert Eugene Bentley",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1792766772,
-   "photo": "photos/MKE_BENTLEY_WILBERT_312132.jpg"
   },
   {
    "key": "MAR_HER_MICHAEL_2026-10-23",
@@ -145,17 +222,6 @@
    "photo": "photos/DOU_BALDWIN_JASON_2026-10-23.jpg"
   },
   {
-   "key": "MKE_HILL_MYKAEL_605234",
-   "name": "Mykael R Hill",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1792764055,
-   "photo": "photos/MKE_HILL_MYKAEL_605234.jpg"
-  },
-  {
    "key": "FDL_JUERS_BRANDON_2026-10-23",
    "name": "Brandon Charles Juers",
    "age": "",
@@ -165,72 +231,6 @@
    "more": 0,
    "ts": 1792761408,
    "photo": "photos/FDL_JUERS_BRANDON_2026-10-23.jpg"
-  },
-  {
-   "key": "MKE_HUGHES_MARKELL_624572",
-   "name": "Markell Sinclair Hughes",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Drive or Operate Vehicle w/o Consent (2nd+ offense)",
-   "more": 20,
-   "ts": 1792758649,
-   "photo": "photos/MKE_HUGHES_MARKELL_624572.jpg"
-  },
-  {
-   "key": "MKE_HARMON_JERMAIRE_634800",
-   "name": "Jermaire Amir Harmon",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Causing Mental Harm to Child",
-   "more": 0,
-   "ts": 1792758647,
-   "photo": "photos/MKE_HARMON_JERMAIRE_634800.jpg"
-  },
-  {
-   "key": "MKE_NEAL_RODERICK_616809",
-   "name": "Roderick Ronte Neal",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 6,
-   "ts": 1792755944,
-   "photo": "photos/MKE_NEAL_RODERICK_616809.jpg"
-  },
-  {
-   "key": "MKE_BALDWINTHOMAS_NICHOLAS_615788",
-   "name": "Nicholas Montreal Baldwin-Thomas",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792755942,
-   "photo": "photos/MKE_BALDWINTHOMAS_NICHOLAS_615788.jpg"
-  },
-  {
-   "key": "KEN_ESPINOSA_CHRYSTAL_2026-00005867",
-   "name": "Chrystal Gayle Espinosa",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1792754595,
-   "photo": "photos/KEN_ESPINOSA_CHRYSTAL_2026-00005867.jpg"
-  },
-  {
-   "key": "MKE_REDMOND_EMAHRIYAH_641309",
-   "name": "Emahriyah Redmond",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792753236,
-   "photo": "photos/MKE_REDMOND_EMAHRIYAH_641309.jpg"
   },
   {
    "key": "DOU_GARZA_DOMINIK_2026-10-22",
