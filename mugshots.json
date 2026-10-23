@@ -1,13 +1,101 @@
 {
- "updated": "2026-10-23T19:49:29+00:00",
+ "updated": "2026-10-23T20:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_ISAIAH_638787",
+   "name": "Isaiah Williams",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792788352,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALKER_LEON_615058",
+   "name": "Leon Larry Walker",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792788350,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERNANDEZ_JOSE_346115",
+   "name": "Jose Ramido Hernandez",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792788347,
+   "photo": null
+  },
+  {
+   "key": "MKE_FULLER_WILLIE_620687",
+   "name": "Willie Fuller",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 4,
+   "ts": 1792788345,
+   "photo": null
+  },
+  {
+   "key": "HOU_MURPHY_KYLERAYMOND_6307",
+   "name": "Kyle Raymond Murphy",
+   "age": "18",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Contempt of Court - Willful Disobedience to C (1-Court Pending)",
+   "more": 0,
+   "ts": 1792787373,
+   "photo": "photos/HOU_MURPHY_KYLERAYMOND_6307.jpg"
+  },
+  {
+   "key": "MKE_SANFORD_KENYARI_367968",
+   "name": "Kenyari Mandella Sanford",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 7,
+   "ts": 1792785672,
+   "photo": null
+  },
+  {
+   "key": "MKE_EVANS_KHALID_418055",
+   "name": "Khalid Ammaad Evans",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1792785669,
+   "photo": null
+  },
+  {
+   "key": "KEN_ANDERSON_MASON_2026-00005873",
+   "name": "Mason Corbin Anderson",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792785192,
+   "photo": "photos/KEN_ANDERSON_MASON_2026-00005873.jpg"
+  },
   {
    "key": "KEN_DANZY_DARRIONTAY_2026-00005872",
    "name": "Darriontay Rashona Danzy",
    "age": "26",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
    "more": 0,
    "ts": 1792784361,
    "photo": "photos/KEN_DANZY_DARRIONTAY_2026-00005872.jpg"
@@ -121,83 +209,6 @@
    "more": 0,
    "ts": 1792777572,
    "photo": null
-  },
-  {
-   "key": "MKE_FUDGEHILL_ERIQ_647933",
-   "name": "Eriq M Fudge-Hill",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792777570,
-   "photo": null
-  },
-  {
-   "key": "RC_CRUZ_NASTASIJHA_120011075553282",
-   "name": "Nastasijha A Cruz",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792777515,
-   "photo": "photos/RC_CRUZ_NASTASIJHA_120011075553282.jpg"
-  },
-  {
-   "key": "RC_MOLZAHN_ASHLEY_120011075553029",
-   "name": "Ashley Prendana Molzahn",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792776609,
-   "photo": "photos/RC_MOLZAHN_ASHLEY_120011075553029.jpg"
-  },
-  {
-   "key": "RC_DAVIS_BRIDGET_120011075553229",
-   "name": "Bridget A Davis",
-   "age": "49",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792776606,
-   "photo": "photos/RC_DAVIS_BRIDGET_120011075553229.jpg"
-  },
-  {
-   "key": "MKE_SINGLETON_RONALD_227207",
-   "name": "Ronald Benjamin Singleton",
-   "age": "64",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 0,
-   "ts": 1792775000,
-   "photo": null
-  },
-  {
-   "key": "MKE_QUEEN_JAMES_212703",
-   "name": "James Earl Queen",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (5th or 6th)",
-   "more": 0,
-   "ts": 1792774998,
-   "photo": null
-  },
-  {
-   "key": "MKE_GANDHI_FRENCY_647932",
-   "name": "Frency P Gandhi",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792774997,
-   "photo": "photos/MKE_GANDHI_FRENCY_647932.jpg"
   },
   {
    "key": "SHEFFER_JEREMIAH_2026-10-23",
@@ -516,17 +527,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 0,
    "ts": 1792705470,
-   "photo": null
-  },
-  {
-   "key": "DOU_HAKALA_SAMANTHA_2026-10-22",
-   "name": "Samantha R Hakala",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792703847,
    "photo": null
   }
  ]
