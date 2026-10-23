@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-23T04:50:06+00:00",
+ "updated": "2026-10-23T05:49:33+00:00",
  "items": [
+  {
+   "key": "RC_SZYMANDERA_JADYN_120011075540287",
+   "name": "Jadyn Micheal Szymandera",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792734352,
+   "photo": "photos/RC_SZYMANDERA_JADYN_120011075540287.jpg"
+  },
+  {
+   "key": "DOU_RABOIN_AMY_2026-10-22",
+   "name": "Amy J Raboin",
+   "age": "49",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792732738,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOMEZRODRIGUEZ_MIGUEL_638513",
+   "name": "Miguel Gomez Rodriguez",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "more": 0,
+   "ts": 1792731689,
+   "photo": "photos/MKE_GOMEZRODRIGUEZ_MIGUEL_638513.jpg"
+  },
+  {
+   "key": "MKE_BAKER_ROBERT_180541",
+   "name": "Robert Lee Baker",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 0,
+   "ts": 1792731684,
+   "photo": null
+  },
   {
    "key": "RC_STOKES_KEAUNA_120011075539170",
    "name": "Keauna Jenae Stokes",
@@ -32,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792729058,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_DENNY_382195.jpg"
   },
   {
    "key": "MKE_FUENTESESPINOZA_LUIS_647928",
@@ -54,7 +98,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1792729049,
-   "photo": null
+   "photo": "photos/MKE_CALZADA_NICOLAS_2053001.jpg"
   },
   {
    "key": "ROBLEE_LYNEIGH_2026-10-22",
@@ -76,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1792726275,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_MICHAEL_388403.jpg"
   },
   {
    "key": "FDL_MOORE_BIANCA_2026-10-22",
@@ -98,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792723711,
-   "photo": null
+   "photo": "photos/MKE_GALLEGOS_TREVINO_647925.jpg"
   },
   {
    "key": "MKE_FIRER_DAVID_647927",
@@ -109,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792723702,
-   "photo": null
+   "photo": "photos/MKE_FIRER_DAVID_647927.jpg"
   },
   {
    "key": "MKE_CARTAGENA_ANECIO_647926",
@@ -120,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792723697,
-   "photo": null
+   "photo": "photos/MKE_CARTAGENA_ANECIO_647926.jpg"
   },
   {
    "key": "FDL_HALL_TERRENCE_2026-10-22",
@@ -233,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "KEN_REED_MARQUEL_2026-00005857",
-   "name": "Marquel Reed",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violate Temp Restraining Order Or Injunction",
-   "more": 1,
-   "ts": 1792714947,
-   "photo": "photos/KEN_REED_MARQUEL_2026-00005857.jpg"
-  },
-  {
    "key": "WASHINGTON_RAMON_2026-10-22",
    "name": "Ramon Tl Washington",
    "age": "28",
@@ -253,28 +286,6 @@
    "more": 0,
    "ts": 1792714469,
    "photo": null
-  },
-  {
-   "key": "KEN_KIRK_JEROME_2026-00005859",
-   "name": "Jerome Kirk",
-   "age": "67",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1792714011,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARRIS_MARCUS_283668",
-   "name": "Marcus Ramone Harris",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>5-15g)",
-   "more": 4,
-   "ts": 1792712751,
-   "photo": "photos/MKE_HARRIS_MARCUS_283668.jpg"
   },
   {
    "key": "DOU_CUMMINGS_JOHN_2026-10-22",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792690527,
    "photo": "photos/MAR_BOGE_JOSHUA_2026-10-22.jpg"
-  },
-  {
-   "key": "LEE_SYSOU_2026-10-22",
-   "name": "Sysou V Lee",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792690171,
-   "photo": null
   }
  ]
 }
