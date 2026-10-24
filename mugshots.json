@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-24T11:49:26+00:00",
+ "updated": "2026-10-24T12:49:26+00:00",
  "items": [
+  {
+   "key": "MAR_XIONG_MASON_2026-10-24",
+   "name": "Mason T Xiong",
+   "age": "",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Revocation Due To Alcohol/Control Subst/Refus",
+   "more": 0,
+   "ts": 1792846126,
+   "photo": null
+  },
+  {
+   "key": "MAR_SMITH_CHRISTOPHER_2026-10-24",
+   "name": "Christopher Michael Smith",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792846126,
+   "photo": null
+  },
+  {
+   "key": "STONE_CHRIS_2026-10-24",
+   "name": "Chris A Stone",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792842696,
+   "photo": null
+  },
   {
    "key": "MKE_SMITH_GARRICK_296232",
    "name": "Garrick Lee Smith",
@@ -10,7 +43,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792842341,
-   "photo": null
+   "photo": "photos/MKE_SMITH_GARRICK_296232.jpg"
   },
   {
    "key": "MKE_PHIPPS_DEMONE_366470",
@@ -21,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792842339,
-   "photo": null
+   "photo": "photos/MKE_PHIPPS_DEMONE_366470.jpg"
   },
   {
    "key": "RC_NELSON_JOSEPH_120011075571417",
@@ -29,7 +62,7 @@
    "age": "28",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792842306,
    "photo": "photos/RC_NELSON_JOSEPH_120011075571417.jpg"
@@ -51,7 +84,7 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Owi (2Nd)",
    "more": 0,
    "ts": 1792841779,
    "photo": "photos/KEN_JACHOWICZ_VALERIE_2026-00005890.jpg"
@@ -109,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792839640,
-   "photo": null
+   "photo": "photos/MKE_MARSEOJONES_DOMINIC_624811.jpg"
   },
   {
    "key": "KEN_PAIGE_BRIAN_2026-00005889",
@@ -398,28 +431,6 @@
    "photo": null
   },
   {
-   "key": "MAR_BORK_BRAD_2026-10-23",
-   "name": "Brad Michael Bork",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792815471,
-   "photo": null
-  },
-  {
-   "key": "MAR_XIONG_COLE_2026-10-23",
-   "name": "Cole Xiong",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 2,
-   "ts": 1792815471,
-   "photo": null
-  },
-  {
    "key": "FDL_SMITH_CHRISTIAN_2026-10-23",
    "name": "Christian M-R Smith",
    "age": "",
@@ -516,17 +527,6 @@
    "charge": "Transport - Warrant",
    "more": 0,
    "ts": 1792782972,
-   "photo": null
-  },
-  {
-   "key": "SHEFFER_JEREMIAH_2026-10-23",
-   "name": "Jeremiah J Sheffer",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792769360,
    "photo": null
   }
  ]
