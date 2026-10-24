@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-23T23:49:33+00:00",
+ "updated": "2026-10-24T00:49:31+00:00",
  "items": [
+  {
+   "key": "KEN_NICHOLS_JOSHUA_2026-00005879",
+   "name": "Joshua L Nichols",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792802146,
+   "photo": null
+  },
+  {
+   "key": "MKE_CUEVASGONZALEZ_JUAN_647937",
+   "name": "Juan Jose Cuevas gonzalez",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792801877,
+   "photo": null
+  },
+  {
+   "key": "HOU_LANGE_LAURAMARIE_6308",
+   "name": "Laura Marie Lange",
+   "age": "43",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic - DWI - Operate Motor Vehicle - Alcoh (1-Court Pending)",
+   "more": 1,
+   "ts": 1792801779,
+   "photo": "photos/HOU_LANGE_LAURAMARIE_6308.jpg"
+  },
+  {
+   "key": "DOU_BASLEY_ANDREW_2026-10-23",
+   "name": "Andrew S Basley",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792801102,
+   "photo": null
+  },
+  {
+   "key": "MAR_LANDOWSKI_JASMINE_2026-10-23",
+   "name": "Jasmine Marie Landowski",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792801071,
+   "photo": "photos/MAR_LANDOWSKI_JASMINE_2026-10-23.jpg"
+  },
   {
    "key": "MKE_MURPHY_WALLACE_644332",
    "name": "Wallace L Murphy",
@@ -21,7 +76,7 @@
    "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1792799143,
-   "photo": null
+   "photo": "photos/MKE_CODLING_DEVONTE_603854.jpg"
   },
   {
    "key": "RC_CHAMBERS_PARIS_120011075561896",
@@ -40,7 +95,7 @@
    "age": "42",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Violate Temp Restraining Order Or Injunction",
    "more": 0,
    "ts": 1792797787,
    "photo": "photos/KEN_MORTENSEN_THOMAS_2026-00005878.jpg"
@@ -51,7 +106,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Misd",
    "more": 0,
    "ts": 1792796786,
    "photo": "photos/KEN_HANSEN_CHRISTOPHER_2026-00005876.jpg"
@@ -87,7 +142,7 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 0,
    "ts": 1792796456,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_SHAMEKA_643145.jpg"
   },
   {
    "key": "MKE_SANDERS_JAVION_647936",
@@ -164,28 +219,6 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 5,
    "ts": 1792793748,
-   "photo": null
-  },
-  {
-   "key": "MKE_GREER_LENARD_294687",
-   "name": "Lenard D Greer",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 1,
-   "ts": 1792793746,
-   "photo": null
-  },
-  {
-   "key": "MKE_AGNEW_DARRYL_340832",
-   "name": "Darryl Clarence Agnew",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 3,
-   "ts": 1792793745,
    "photo": null
   },
   {
@@ -494,39 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792714469,
-   "photo": null
-  },
-  {
-   "key": "DOU_CUMMINGS_JOHN_2026-10-22",
-   "name": "John M Cummings",
-   "age": "47",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792711080,
-   "photo": null
-  },
-  {
-   "key": "FDL_WILLIAMS_SHAMARON_2026-10-22",
-   "name": "Shamaron Deshun Williams",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WARRANT (x0)",
-   "more": 0,
-   "ts": 1792711053,
-   "photo": "photos/FDL_WILLIAMS_SHAMARON_2026-10-22.jpg"
-  },
-  {
-   "key": "MEDINGER_RUSSELL_2026-10-22",
-   "name": "Russell J Medinger",
-   "age": "68",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1792710865,
    "photo": null
   }
  ]
