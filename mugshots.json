@@ -1,6 +1,149 @@
 {
- "updated": "2026-10-24T13:49:28+00:00",
+ "updated": "2026-10-24T14:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_YOUNG_CURTIS_501734",
+   "name": "Curtis Michael Young",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792853152,
+   "photo": "photos/MKE_YOUNG_CURTIS_501734.jpg"
+  },
+  {
+   "key": "MKE_QUATTLEBAUM_MARCUS_647950",
+   "name": "Marcus D Quattlebaum",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792853150,
+   "photo": "photos/MKE_QUATTLEBAUM_MARCUS_647950.jpg"
+  },
+  {
+   "key": "MAR_MOUA_CHER_2026-10-24",
+   "name": "Cher Moua",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792852223,
+   "photo": null
+  },
+  {
+   "key": "MAR_XIONG_KA_2026-10-24",
+   "name": "Ka Xiong",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792852223,
+   "photo": null
+  },
+  {
+   "key": "KEN_JOHNSON_KACEY_2026-00005891",
+   "name": "Kacey Guy Johnson",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792851779,
+   "photo": null
+  },
+  {
+   "key": "KEN_FLOWERS_DEONDREA_2026-00005893",
+   "name": "Deondrea Maria Flowers",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792851736,
+   "photo": "photos/KEN_FLOWERS_DEONDREA_2026-00005893.jpg"
+  },
+  {
+   "key": "RC_MALONE_DIAMOND_120011075573541",
+   "name": "Diamond Doshy Malone",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792851384,
+   "photo": "photos/RC_MALONE_DIAMOND_120011075573541.jpg"
+  },
+  {
+   "key": "KEN_INFUSINO_MARCO_2026-00005892",
+   "name": "Marco Antonio Infusino",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1792850665,
+   "photo": "photos/KEN_INFUSINO_MARCO_2026-00005892.jpg"
+  },
+  {
+   "key": "MKE_WEBSTER_TIMOTHY_647949",
+   "name": "Timothy Keywany Webster",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792850455,
+   "photo": "photos/MKE_WEBSTER_TIMOTHY_647949.jpg"
+  },
+  {
+   "key": "MKE_MOLINAWAGNER_CHRISTIAN_646060",
+   "name": "Christian G Molina Wagner",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792850453,
+   "photo": "photos/MKE_MOLINAWAGNER_CHRISTIAN_646060.jpg"
+  },
+  {
+   "key": "MKE_JOSHUA_DIEGO_647947",
+   "name": "Diego Joshua",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792850451,
+   "photo": "photos/MKE_JOSHUA_DIEGO_647947.jpg"
+  },
+  {
+   "key": "MKE_DELATORRE_ADRIAN_647948",
+   "name": "Adrian S De La Torre",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792850449,
+   "photo": "photos/MKE_DELATORRE_ADRIAN_647948.jpg"
+  },
+  {
+   "key": "MAR_HARWOOD_NOAH_2026-10-24",
+   "name": "Noah Grant Harwood",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792850119,
+   "photo": null
+  },
   {
    "key": "MAR_DOMINGUEZ_GORGE_2026-10-23_2342",
    "name": "Gorge Jorge Dominguez",
@@ -175,7 +318,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792847752,
-   "photo": null
+   "photo": "photos/MKE_OROZCO_CARLOS_647946.jpg"
   },
   {
    "key": "FEIST_VOLANTE_2026-10-24",
@@ -186,28 +329,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792846296,
-   "photo": null
-  },
-  {
-   "key": "MAR_XIONG_MASON_2026-10-24",
-   "name": "Mason T Xiong",
-   "age": "",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Revocation Due To Alcohol/Control Subst/Refus",
-   "more": 0,
-   "ts": 1792846126,
-   "photo": null
-  },
-  {
-   "key": "MAR_SMITH_CHRISTOPHER_2026-10-24",
-   "name": "Christopher Michael Smith",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792846126,
    "photo": null
   },
   {
@@ -255,17 +376,6 @@
    "photo": "photos/RC_NELSON_JOSEPH_120011075571417.jpg"
   },
   {
-   "key": "MAR_WEITH_AUSTIN_2026-10-24",
-   "name": "Austin Jay Weith",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 2,
-   "ts": 1792842043,
-   "photo": "photos/MAR_WEITH_AUSTIN_2026-10-24.jpg"
-  },
-  {
    "key": "KEN_JACHOWICZ_VALERIE_2026-00005890",
    "name": "Valerie Christine Jachowicz",
    "age": "34",
@@ -286,105 +396,6 @@
    "more": 1,
    "ts": 1792839640,
    "photo": "photos/MKE_MARSEOJONES_DOMINIC_624811.jpg"
-  },
-  {
-   "key": "KEN_PAIGE_BRIAN_2026-00005889",
-   "name": "BRIAN KEITH Senior PAIGE",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Carrying A Concealed Knife",
-   "more": 1,
-   "ts": 1792837245,
-   "photo": "photos/KEN_PAIGE_BRIAN_2026-00005889.jpg"
-  },
-  {
-   "key": "MKE_SERRANO_STEVEN_647945",
-   "name": "Steven Serrano",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792836959,
-   "photo": "photos/MKE_SERRANO_STEVEN_647945.jpg"
-  },
-  {
-   "key": "MKE_NELSON_LAWRENCE_626547",
-   "name": "Lawrence Olivia Nelson",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792836956,
-   "photo": "photos/MKE_NELSON_LAWRENCE_626547.jpg"
-  },
-  {
-   "key": "MKE_COLLINS_JACKYHA_610862",
-   "name": "Jackyha N Collins",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792836954,
-   "photo": "photos/MKE_COLLINS_JACKYHA_610862.jpg"
-  },
-  {
-   "key": "MKE_WESO_ALVIN_647944",
-   "name": "Alvin Clifford Weso",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792834249,
-   "photo": "photos/MKE_WESO_ALVIN_647944.jpg"
-  },
-  {
-   "key": "MKE_LITTLEFIELD_BRANDON_645496",
-   "name": "Brandon Jatavion Littlefield",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792834246,
-   "photo": "photos/MKE_LITTLEFIELD_BRANDON_645496.jpg"
-  },
-  {
-   "key": "MKE_KAISER_CODY_501859",
-   "name": "Cody M Kaiser",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1792834243,
-   "photo": "photos/MKE_KAISER_CODY_501859.jpg"
-  },
-  {
-   "key": "RC_LININGER_DAKOTA_120011075569635",
-   "name": "Dakota Mckenzie Lininger",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792834206,
-   "photo": "photos/RC_LININGER_DAKOTA_120011075569635.jpg"
-  },
-  {
-   "key": "KEN_HERMANN_BRADLEY_2026-00005888",
-   "name": "Bradley Howard Hermann",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1792833647,
-   "photo": "photos/KEN_HERMANN_BRADLEY_2026-00005888.jpg"
   },
   {
    "key": "TREM_SCHAEFER_THOMAS_5857",
@@ -418,17 +429,6 @@
    "more": 0,
    "ts": 1792833266,
    "photo": "photos/TREM_ENGLISH_TADARIUS_6144.jpg"
-  },
-  {
-   "key": "MKE_TYLER_CHRISTOPHER_644305",
-   "name": "Christopher Scott Tyler",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792831542,
-   "photo": "photos/MKE_TYLER_CHRISTOPHER_644305.jpg"
   },
   {
    "key": "FDL_SHIPP_RICO_2026-10-24",
