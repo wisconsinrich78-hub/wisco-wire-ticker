@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-24T06:49:26+00:00",
+ "updated": "2026-10-24T07:49:26+00:00",
  "items": [
+  {
+   "key": "RC_SIMPSON_DWAYNE_120011075568044",
+   "name": "Dwayne Jason Simpson",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792827902,
+   "photo": "photos/RC_SIMPSON_DWAYNE_120011075568044.jpg"
+  },
+  {
+   "key": "KEN_TAYLOR_ANTHONY_2026-00005884",
+   "name": "Anthony Neil Taylor",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792826437,
+   "photo": null
+  },
+  {
+   "key": "MKE_MAY_ERIC_533535",
+   "name": "Eric D May",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 3,
+   "ts": 1792826139,
+   "photo": "photos/MKE_MAY_ERIC_533535.jpg"
+  },
+  {
+   "key": "MKE_ANDERSON_TRACY_219192",
+   "name": "Tracy Lavelle Anderson",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792826137,
+   "photo": null
+  },
+  {
+   "key": "KEN_TAVAREZELIZONDO_JUAN_2026-00005883",
+   "name": "Juan Tavarez Elizondo",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Impeding Traffic By Slow Speed",
+   "more": 4,
+   "ts": 1792825518,
+   "photo": null
+  },
+  {
+   "key": "MOY_RACHEL_2026-10-24",
+   "name": "Rachel J Moy",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792825162,
+   "photo": null
+  },
   {
    "key": "MKE_PINEDA_GABRIEL_647942",
    "name": "Gabriel Pineda",
@@ -21,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792823436,
-   "photo": null
+   "photo": "photos/MKE_HERNANDEZROSADO_KIARA_647941.jpg"
   },
   {
    "key": "MKE_BARNES_DANNY_401150",
@@ -40,8 +106,8 @@
    "age": "49",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Intentionally Abuse Hazardous Substance",
+   "more": 3,
    "ts": 1792823405,
    "photo": "photos/RC_WABISZEWSKI_JESSE_120011075567269.jpg"
   },
@@ -65,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792820741,
-   "photo": null
+   "photo": "photos/MKE_JENKINS_JASMINE_376613.jpg"
   },
   {
    "key": "RC_GORDON_ROBERT_120011075566691",
@@ -175,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792815344,
-   "photo": null
+   "photo": "photos/MKE_BULLOCK_TREMAINE_645501.jpg"
   },
   {
    "key": "RC_GRANT_CORTRELL_120011075564795",
@@ -310,50 +376,6 @@
    "photo": null
   },
   {
-   "key": "KEN_ELLIS_NAZSIR_2026-00005882",
-   "name": "Nazsir Tyrone Ellis",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "2Nd Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1792813012,
-   "photo": "photos/KEN_ELLIS_NAZSIR_2026-00005882.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_EDDIE_292913",
-   "name": "Eddie Lee Davis",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792812671,
-   "photo": "photos/MKE_DAVIS_EDDIE_292913.jpg"
-  },
-  {
-   "key": "MKE_ASHLEY_JOHNETTE_505985",
-   "name": "Johnette N Ashley",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792812668,
-   "photo": "photos/MKE_ASHLEY_JOHNETTE_505985.jpg"
-  },
-  {
-   "key": "KEN_DOBBS_MONAE_2026-00005881",
-   "name": "Monae Tiana Dobbs",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L 2Nd",
-   "more": 0,
-   "ts": 1792812075,
-   "photo": null
-  },
-  {
    "key": "FDL_SMITH_CHRISTIAN_2026-10-23",
    "name": "Christian M-R Smith",
    "age": "",
@@ -374,17 +396,6 @@
    "more": 0,
    "ts": 1792811675,
    "photo": null
-  },
-  {
-   "key": "MKE_FORBUSH_SEBASTIAN_647939",
-   "name": "Sebastian Aristotle Forbush",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792809966,
-   "photo": "photos/MKE_FORBUSH_SEBASTIAN_647939.jpg"
   },
   {
    "key": "FDL_SCHUH_KARA_2026-10-23",
@@ -516,17 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792735604,
-   "photo": null
-  },
-  {
-   "key": "JENSEN_NEAL_2026-10-22",
-   "name": "Neal R Jensen",
-   "age": "62",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792730674,
    "photo": null
   }
  ]
