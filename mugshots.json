@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T17:49:29+00:00",
+ "updated": "2026-10-24T19:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_JACKSON_GEORGE_647953",
+   "name": "George Jackson",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 2,
+   "ts": 1792869335,
+   "photo": null
+  },
   {
    "key": "MKE_JACKSON_MARIO_344043",
    "name": "Mario Maurice Jackson",
@@ -10,7 +21,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792863948,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_MARIO_344043.jpg"
   },
   {
    "key": "MKE_HASSAN_SUMAIA_647952",
@@ -40,7 +51,7 @@
    "age": "30",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792863910,
    "photo": null
@@ -84,8 +95,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Ignition Interlock Device Tampering/Fail To Install/Violate Court Orde",
+   "more": 2,
    "ts": 1792859867,
    "photo": "photos/KEN_DANIELS_NICHOLAS_2026-00005894.jpg"
   },
@@ -363,17 +374,6 @@
    "more": 2,
    "ts": 1792851736,
    "photo": "photos/KEN_FLOWERS_DEONDREA_2026-00005893.jpg"
-  },
-  {
-   "key": "RC_MALONE_DIAMOND_120011075573541",
-   "name": "Diamond Doshy Malone",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Carrying a Concealed Weapon",
-   "more": 0,
-   "ts": 1792851384,
-   "photo": "photos/RC_MALONE_DIAMOND_120011075573541.jpg"
   },
   {
    "key": "YANG_DAN_2026-10-24",
