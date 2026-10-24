@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-24T08:49:26+00:00",
+ "updated": "2026-10-24T09:49:25+00:00",
  "items": [
+  {
+   "key": "MKE_WESO_ALVIN_647944",
+   "name": "Alvin Clifford Weso",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792834249,
+   "photo": null
+  },
+  {
+   "key": "MKE_LITTLEFIELD_BRANDON_645496",
+   "name": "Brandon Jatavion Littlefield",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792834246,
+   "photo": null
+  },
+  {
+   "key": "MKE_KAISER_CODY_501859",
+   "name": "Cody M Kaiser",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1792834243,
+   "photo": null
+  },
+  {
+   "key": "RC_LININGER_DAKOTA_120011075569635",
+   "name": "Dakota Mckenzie Lininger",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792834206,
+   "photo": "photos/RC_LININGER_DAKOTA_120011075569635.jpg"
+  },
+  {
+   "key": "KEN_HERMANN_BRADLEY_2026-00005888",
+   "name": "Bradley Howard Hermann",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 0,
+   "ts": 1792833647,
+   "photo": "photos/KEN_HERMANN_BRADLEY_2026-00005888.jpg"
+  },
+  {
+   "key": "DOU_VANPUYMBROUCK_RYAN_2026-10-24",
+   "name": "Ryan D Vanpuymbrouck",
+   "age": "31",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1792833461,
+   "photo": null
+  },
+  {
+   "key": "TREM_SCHAEFER_THOMAS_5857",
+   "name": "Thomas Lawrence Schaefer",
+   "age": "61",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1792833270,
+   "photo": "photos/TREM_SCHAEFER_THOMAS_5857.jpg"
+  },
+  {
+   "key": "TREM_HOFF_ADAM_2771",
+   "name": "Adam Clifford Hoff",
+   "age": "34",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792833268,
+   "photo": "photos/TREM_HOFF_ADAM_2771.jpg"
+  },
+  {
+   "key": "TREM_ENGLISH_TADARIUS_6144",
+   "name": "Tadarius Rashad English",
+   "age": "30",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1792833266,
+   "photo": "photos/TREM_ENGLISH_TADARIUS_6144.jpg"
+  },
   {
    "key": "MAR_LARSON_CALVIN_2026-10-23",
    "name": "Calvin Ray Larson",
@@ -21,7 +120,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792831542,
-   "photo": null
+   "photo": "photos/MKE_TYLER_CHRISTOPHER_644305.jpg"
   },
   {
    "key": "MKE_DONDER_ADAM_404197",
@@ -32,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1792831540,
-   "photo": null
+   "photo": "photos/MKE_DONDER_ADAM_404197.jpg"
   },
   {
    "key": "MKE_DAVIS_BRENTON_524285",
@@ -167,28 +266,6 @@
    "photo": "photos/MKE_MAY_ERIC_533535.jpg"
   },
   {
-   "key": "MKE_ANDERSON_TRACY_219192",
-   "name": "Tracy Lavelle Anderson",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792826137,
-   "photo": "photos/MKE_ANDERSON_TRACY_219192.jpg"
-  },
-  {
-   "key": "KEN_TAVAREZELIZONDO_JUAN_2026-00005883",
-   "name": "Juan Tavarez Elizondo",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Impeding Traffic By Slow Speed",
-   "more": 4,
-   "ts": 1792825518,
-   "photo": null
-  },
-  {
    "key": "MOY_RACHEL_2026-10-24",
    "name": "Rachel J Moy",
    "age": "40",
@@ -198,39 +275,6 @@
    "more": 0,
    "ts": 1792825162,
    "photo": null
-  },
-  {
-   "key": "MKE_PINEDA_GABRIEL_647942",
-   "name": "Gabriel Pineda",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792823437,
-   "photo": "photos/MKE_PINEDA_GABRIEL_647942.jpg"
-  },
-  {
-   "key": "MKE_HERNANDEZROSADO_KIARA_647941",
-   "name": "Kiara Lin Hernandez Rosado",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792823436,
-   "photo": "photos/MKE_HERNANDEZROSADO_KIARA_647941.jpg"
-  },
-  {
-   "key": "MKE_BARNES_DANNY_401150",
-   "name": "Danny Barnes",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792823434,
-   "photo": "photos/MKE_BARNES_DANNY_401150.jpg"
   },
   {
    "key": "FDL_CORNELL_JAMES_2026-10-24",
@@ -376,17 +420,6 @@
    "photo": null
   },
   {
-   "key": "MAR_GARSKI_JOSHUA_2026-10-23",
-   "name": "Joshua David Garski",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792813182,
-   "photo": null
-  },
-  {
    "key": "FDL_SMITH_CHRISTIAN_2026-10-23",
    "name": "Christian M-R Smith",
    "age": "",
@@ -494,39 +527,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792769360,
-   "photo": null
-  },
-  {
-   "key": "FDL_JUERS_BRANDON_2026-10-23",
-   "name": "Brandon Charles Juers",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense W/Minor In Vehicle",
-   "more": 0,
-   "ts": 1792761408,
-   "photo": "photos/FDL_JUERS_BRANDON_2026-10-23.jpg"
-  },
-  {
-   "key": "TREM_BECHTEL_JOSEPH_6186",
-   "name": "Joseph Steven Bechtel",
-   "age": "28",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1792746866,
-   "photo": "photos/TREM_BECHTEL_JOSEPH_6186.jpg"
-  },
-  {
-   "key": "XIONG_MICHAEL_2026-10-23",
-   "name": "Michael Xiong",
-   "age": "33",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "La Crosse County Child Support W/C",
-   "more": 4,
-   "ts": 1792741894,
    "photo": null
   }
  ]
