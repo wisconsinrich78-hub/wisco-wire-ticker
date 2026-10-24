@@ -1,14 +1,36 @@
 {
- "updated": "2026-10-24T00:49:31+00:00",
+ "updated": "2026-10-24T01:49:35+00:00",
  "items": [
+  {
+   "key": "FDL_SCHUH_KARA_2026-10-23",
+   "name": "Kara Karla Schuh",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 1,
+   "ts": 1792804674,
+   "photo": "photos/FDL_SCHUH_KARA_2026-10-23.jpg"
+  },
+  {
+   "key": "MKE_CORONADO_OSCAR_618721",
+   "name": "Oscar Coronado",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 0,
+   "ts": 1792804600,
+   "photo": "photos/MKE_CORONADO_OSCAR_618721.jpg"
+  },
   {
    "key": "KEN_NICHOLS_JOSHUA_2026-00005879",
    "name": "Joshua L Nichols",
    "age": "29",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 3,
    "ts": 1792802146,
    "photo": null
   },
@@ -208,17 +230,6 @@
    "charge": "Identity Theft - Obtain Money or Credit",
    "more": 0,
    "ts": 1792793750,
-   "photo": null
-  },
-  {
-   "key": "MKE_POINTER_MARQUISE_412931",
-   "name": "Marquise D Pointer",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 5,
-   "ts": 1792793748,
    "photo": null
   },
   {
@@ -516,17 +527,6 @@
    "charge": "Bail Jumping-Felony",
    "more": 1,
    "ts": 1792716367,
-   "photo": null
-  },
-  {
-   "key": "WASHINGTON_RAMON_2026-10-22",
-   "name": "Ramon Tl Washington",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792714469,
    "photo": null
   }
  ]
