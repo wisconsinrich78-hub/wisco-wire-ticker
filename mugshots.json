@@ -1,6 +1,182 @@
 {
- "updated": "2026-10-24T15:49:30+00:00",
+ "updated": "2026-10-24T16:49:27+00:00",
  "items": [
+  {
+   "key": "KEN_DANIELS_NICHOLAS_2026-00005894",
+   "name": "Nicholas D Daniels",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792859867,
+   "photo": "photos/KEN_DANIELS_NICHOLAS_2026-00005894.jpg"
+  },
+  {
+   "key": "HOU_TRAYLOR_TERRANCEVASHANE_6310",
+   "name": "Terrance Vashane Traylor",
+   "age": "51",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Fugitive from Justice from Other State (1-Court Pending)",
+   "more": 0,
+   "ts": 1792859368,
+   "photo": "photos/HOU_TRAYLOR_TERRANCEVASHANE_6310.jpg"
+  },
+  {
+   "key": "HEROD_JASMINE_2026-10-24",
+   "name": "Jasmine A Herod",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792858901,
+   "photo": null
+  },
+  {
+   "key": "DOU_OJALA_ROBERT_2026-10-24",
+   "name": "Robert E Ojala",
+   "age": "52",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792858635,
+   "photo": "photos/DOU_OJALA_ROBERT_2026-10-24.jpg"
+  },
+  {
+   "key": "RC_MATSEN_MADALYNN_120011075575177",
+   "name": "Madalynn Ann Matsen",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792857826,
+   "photo": "photos/RC_MATSEN_MADALYNN_120011075575177.jpg"
+  },
+  {
+   "key": "RC_MATSEN_DAKOTA_120011075575288",
+   "name": "Dakota Riley Matsen",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792857823,
+   "photo": null
+  },
+  {
+   "key": "MAR_HER_TONG_2026-10-24",
+   "name": "Tong Her",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Fail To Report To County Jail",
+   "more": 0,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_SCHULTZ_JACK_2026-10-24",
+   "name": "Jack R Schultz",
+   "age": "72",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Rev Due To Alc/Con Sub/Refusal)",
+   "more": 0,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_FRANCISCOOLIVERA_NOE_2026-10-21",
+   "name": "Noe Francisco-Olivera",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_WARNER_MELANIE_2026-10-21",
+   "name": "Melanie Marie Warner",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operate Vehicle W/O Owner Consent - Abandon/Fail Return <48 Hrs",
+   "more": 1,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_BENJAMIN_2026-10-21",
+   "name": "Benjamin Andrew Johnson",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1St Degree Sex Assault Of Child - Intercourse With Person <12",
+   "more": 3,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_ROGERS_CHARLES_2026-10-21",
+   "name": "Charles James Rogers",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 2,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_SLACK_CHRISTY_2026-10-21",
+   "name": "Christy Ann Slack",
+   "age": "54",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_HUNTER_JOSHUA_2026-10-21",
+   "name": "Joshua Allan Hunter",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated - 3Rd Offense",
+   "more": 2,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_MICIK_CHAD_2026-10-21",
+   "name": "Chad Michael Micik",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated - 2Nd Offense",
+   "more": 1,
+   "ts": 1792857344,
+   "photo": null
+  },
+  {
+   "key": "MAR_MCDUFFY_JOEL_2026-10-21",
+   "name": "Joel James Mcduffy",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Burglary To Building Or Dwelling",
+   "more": 4,
+   "ts": 1792857344,
+   "photo": null
+  },
   {
    "key": "MAR_CASTRO_MACLOVIO_2026-10-24",
    "name": "Maclovio Castro",
@@ -57,50 +233,6 @@
    "photo": null
   },
   {
-   "key": "MAR_LOERA_PEDRO_2026-10-24",
-   "name": "Pedro Jesus Loera",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Federal ICE Detainer",
-   "more": 1,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
-   "key": "MAR_VUE_PANDA_2026-10-24",
-   "name": "Panda Vue",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft",
-   "more": 1,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
-   "key": "MAR_VANG_MA_2026-10-24",
-   "name": "Ma Vang",
-   "age": "",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
-   "key": "MAR_XIONG_NHIA_2026-10-24",
-   "name": "Nhia Xiong",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of Methamphetamine",
-   "more": 2,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
    "key": "RC_HENRY_DARIUS_120011075574596",
    "name": "Darius P Henry",
    "age": "40",
@@ -132,28 +264,6 @@
    "more": 0,
    "ts": 1792853150,
    "photo": "photos/MKE_QUATTLEBAUM_MARCUS_647950.jpg"
-  },
-  {
-   "key": "MAR_MOUA_CHER_2026-10-24",
-   "name": "Cher Moua",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792852223,
-   "photo": null
-  },
-  {
-   "key": "MAR_XIONG_KA_2026-10-24",
-   "name": "Ka Xiong",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792852223,
-   "photo": null
   },
   {
    "key": "KEN_JOHNSON_KACEY_2026-00005891",
@@ -244,61 +354,6 @@
    "photo": "photos/MKE_DELATORRE_ADRIAN_647948.jpg"
   },
   {
-   "key": "MAR_HARWOOD_NOAH_2026-10-24",
-   "name": "Noah Grant Harwood",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792850119,
-   "photo": null
-  },
-  {
-   "key": "MAR_DOMINGUEZ_GORGE_2026-10-23_2342",
-   "name": "Gorge Jorge Dominguez",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 2,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_AHLSWEDE_JOEL_2026-10-24",
-   "name": "Joel Allen Ahlswede",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_CLARKE_JUSTIN_2026-10-24",
-   "name": "Justin Leroy Clarke",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_OSOWSKI_CHAD_2026-10-24",
-   "name": "Chad Michael Osowski",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
    "key": "YANG_DAN_2026-10-24",
    "name": "Dan Yang",
    "age": "41",
@@ -363,39 +418,6 @@
    "more": 1,
    "ts": 1792842341,
    "photo": "photos/MKE_SMITH_GARRICK_296232.jpg"
-  },
-  {
-   "key": "MKE_PHIPPS_DEMONE_366470",
-   "name": "Demone Rodriguez Phipps",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792842339,
-   "photo": "photos/MKE_PHIPPS_DEMONE_366470.jpg"
-  },
-  {
-   "key": "RC_NELSON_JOSEPH_120011075571417",
-   "name": "Joseph R Nelson",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792842306,
-   "photo": "photos/RC_NELSON_JOSEPH_120011075571417.jpg"
-  },
-  {
-   "key": "KEN_JACHOWICZ_VALERIE_2026-00005890",
-   "name": "Valerie Christine Jachowicz",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (2Nd)",
-   "more": 0,
-   "ts": 1792841779,
-   "photo": "photos/KEN_JACHOWICZ_VALERIE_2026-00005890.jpg"
   },
   {
    "key": "TREM_SCHAEFER_THOMAS_5857",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792801779,
    "photo": "photos/HOU_LANGE_LAURAMARIE_6308.jpg"
-  },
-  {
-   "key": "MACK_TROYALE_2026-10-23",
-   "name": "Troyale D Mack",
-   "age": "17",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792791396,
-   "photo": null
-  },
-  {
-   "key": "BOWMAN_JADA_2026-10-23",
-   "name": "Jada S Bowman",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792790496,
-   "photo": null
   }
  ]
 }
