@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-24T03:49:29+00:00",
+ "updated": "2026-10-24T04:49:27+00:00",
  "items": [
+  {
+   "key": "MAR_BARTH_GAVIN_2026-10-23",
+   "name": "Gavin Richard Barth",
+   "age": "18",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 0,
+   "ts": 1792815717,
+   "photo": null
+  },
+  {
+   "key": "MAR_HEISE_BLAKE_2026-10-23",
+   "name": "Blake Joseph Heise",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1792815471,
+   "photo": null
+  },
+  {
+   "key": "MAR_BORK_BRAD_2026-10-23",
+   "name": "Brad Michael Bork",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1792815471,
+   "photo": null
+  },
+  {
+   "key": "MAR_XIONG_COLE_2026-10-23",
+   "name": "Cole Xiong",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 2,
+   "ts": 1792815471,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_DARAON_647940",
+   "name": "Daraon T Moore",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792815348,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARCIA_CARLOS_2052736",
+   "name": "Carlos E Garcia",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792815346,
+   "photo": null
+  },
+  {
+   "key": "MKE_BULLOCK_TREMAINE_645501",
+   "name": "Tremaine Bullock",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792815344,
+   "photo": null
+  },
   {
    "key": "RC_GRANT_CORTRELL_120011075564795",
    "name": "Cortrell Marquis Grant",
@@ -18,7 +95,7 @@
    "age": "24",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792813530,
    "photo": "photos/RC_DENNIS_JAQUALE_120011075564810.jpg"
@@ -150,7 +227,7 @@
    "age": "25",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "2Nd Degree Recklessly Endangering Safety",
    "more": 0,
    "ts": 1792813012,
    "photo": "photos/KEN_ELLIS_NAZSIR_2026-00005882.jpg"
@@ -183,7 +260,7 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operate W/O Valid D/L 2Nd",
    "more": 0,
    "ts": 1792812075,
    "photo": null
@@ -222,39 +299,6 @@
    "photo": null
   },
   {
-   "key": "MAR_LEMAY_DEREK_2026-10-23",
-   "name": "Derek Allan Lemay",
-   "age": "53",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1792810017,
-   "photo": null
-  },
-  {
-   "key": "MAR_WINTERS_CHRISTOPHER_2026-10-23",
-   "name": "Christopher Allen Winters",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1792810017,
-   "photo": null
-  },
-  {
-   "key": "MAR_VUE_XAI_2026-10-23",
-   "name": "Xai Vue",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792810017,
-   "photo": null
-  },
-  {
    "key": "MKE_FORBUSH_SEBASTIAN_647939",
    "name": "Sebastian Aristotle Forbush",
    "age": "34",
@@ -263,7 +307,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792809966,
-   "photo": null
+   "photo": "photos/MKE_FORBUSH_SEBASTIAN_647939.jpg"
   },
   {
    "key": "MKE_BARCENASGARCIA_SERGIO_2018633",
@@ -275,17 +319,6 @@
    "more": 2,
    "ts": 1792809964,
    "photo": null
-  },
-  {
-   "key": "MAR_WENDT_KALLI_2026-10-23",
-   "name": "Kalli Madyson Wendt",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1792809774,
-   "photo": "photos/MAR_WENDT_KALLI_2026-10-23.jpg"
   },
   {
    "key": "KEN_ANDERSEN_STEVEN_2026-00005880",
@@ -354,28 +387,6 @@
    "photo": "photos/MKE_CORONADO_OSCAR_618721.jpg"
   },
   {
-   "key": "KEN_NICHOLS_JOSHUA_2026-00005879",
-   "name": "Joshua L Nichols",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1792802146,
-   "photo": null
-  },
-  {
-   "key": "MKE_CUEVASGONZALEZ_JUAN_647937",
-   "name": "Juan Jose Cuevas gonzalez",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792801877,
-   "photo": null
-  },
-  {
    "key": "HOU_LANGE_LAURAMARIE_6308",
    "name": "Laura Marie Lange",
    "age": "43",
@@ -385,17 +396,6 @@
    "more": 1,
    "ts": 1792801779,
    "photo": "photos/HOU_LANGE_LAURAMARIE_6308.jpg"
-  },
-  {
-   "key": "MKE_MURPHY_WALLACE_644332",
-   "name": "Wallace L Murphy",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Take and Drive Vehicle w/o Consent",
-   "more": 0,
-   "ts": 1792799145,
-   "photo": null
   },
   {
    "key": "MACK_TROYALE_2026-10-23",
