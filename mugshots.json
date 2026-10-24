@@ -1,6 +1,138 @@
 {
- "updated": "2026-10-24T07:49:26+00:00",
+ "updated": "2026-10-24T08:49:26+00:00",
  "items": [
+  {
+   "key": "MAR_LARSON_CALVIN_2026-10-23",
+   "name": "Calvin Ray Larson",
+   "age": "68",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked (Revoked due to Alcohol/Controlled Substance/R",
+   "more": 1,
+   "ts": 1792831744,
+   "photo": null
+  },
+  {
+   "key": "MKE_TYLER_CHRISTOPHER_644305",
+   "name": "Christopher Scott Tyler",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792831542,
+   "photo": null
+  },
+  {
+   "key": "MKE_DONDER_ADAM_404197",
+   "name": "Adam Jacob Donder",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1792831540,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_BRENTON_524285",
+   "name": "Brenton S Davis",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792831539,
+   "photo": null
+  },
+  {
+   "key": "MAR_DAVIS_MATTHEW_2026-10-22",
+   "name": "Matthew John Davis",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operate W/O Valid License (3Rd+ W/In 3Yrs)",
+   "more": 1,
+   "ts": 1792830076,
+   "photo": null
+  },
+  {
+   "key": "DOU_SHILTS_AUSTIN_2026-10-24",
+   "name": "Austin M Shilts",
+   "age": "21",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1792829864,
+   "photo": null
+  },
+  {
+   "key": "FDL_SHIPP_RICO_2026-10-24",
+   "name": "Rico D Shipp",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
+   "more": 1,
+   "ts": 1792829844,
+   "photo": null
+  },
+  {
+   "key": "RC_GIVENS_JARVES_120011075568604",
+   "name": "Jarves D Givens",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792829701,
+   "photo": "photos/RC_GIVENS_JARVES_120011075568604.jpg"
+  },
+  {
+   "key": "MKE_SOSTRE_ELI_408172",
+   "name": "Eli Samuel Sostre",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1792828846,
+   "photo": null
+  },
+  {
+   "key": "MKE_SEALS_MARVIN_647943",
+   "name": "Marvin F Seals",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792828844,
+   "photo": "photos/MKE_SEALS_MARVIN_647943.jpg"
+  },
+  {
+   "key": "KEN_HUTCHESON_DELISE_2026-00005886",
+   "name": "Delise Marie Hutcheson",
+   "age": "65",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792828322,
+   "photo": "photos/KEN_HUTCHESON_DELISE_2026-00005886.jpg"
+  },
+  {
+   "key": "KEN_CASTROGOMEZ_ERICK_2026-00005885",
+   "name": "Erick Castro Gomez",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792828251,
+   "photo": null
+  },
   {
    "key": "RC_SIMPSON_DWAYNE_120011075568044",
    "name": "Dwayne Jason Simpson",
@@ -18,8 +150,8 @@
    "age": "26",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Improper Right Turn",
+   "more": 1,
    "ts": 1792826437,
    "photo": null
   },
@@ -43,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792826137,
-   "photo": null
+   "photo": "photos/MKE_ANDERSON_TRACY_219192.jpg"
   },
   {
    "key": "KEN_TAVAREZELIZONDO_JUAN_2026-00005883",
@@ -76,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792823437,
-   "photo": null
+   "photo": "photos/MKE_PINEDA_GABRIEL_647942.jpg"
   },
   {
    "key": "MKE_HERNANDEZROSADO_KIARA_647941",
@@ -98,18 +230,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792823434,
-   "photo": null
-  },
-  {
-   "key": "RC_WABISZEWSKI_JESSE_120011075567269",
-   "name": "Jesse Lee Wabiszewski",
-   "age": "49",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Intentionally Abuse Hazardous Substance",
-   "more": 3,
-   "ts": 1792823405,
-   "photo": "photos/RC_WABISZEWSKI_JESSE_120011075567269.jpg"
+   "photo": "photos/MKE_BARNES_DANNY_401150.jpg"
   },
   {
    "key": "FDL_CORNELL_JAMES_2026-10-24",
@@ -121,28 +242,6 @@
    "more": 0,
    "ts": 1792822587,
    "photo": "photos/FDL_CORNELL_JAMES_2026-10-24.jpg"
-  },
-  {
-   "key": "MKE_JENKINS_JASMINE_376613",
-   "name": "Jasmine Valerie Jenkins",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792820741,
-   "photo": "photos/MKE_JENKINS_JASMINE_376613.jpg"
-  },
-  {
-   "key": "RC_GORDON_ROBERT_120011075566691",
-   "name": "Robert B Gordon",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 1,
-   "ts": 1792820704,
-   "photo": "photos/RC_GORDON_ROBERT_120011075566691.jpg"
   },
   {
    "key": "MAR_NGUYEN_UYEN_2026-10-23",
@@ -209,61 +308,6 @@
    "more": 2,
    "ts": 1792815471,
    "photo": null
-  },
-  {
-   "key": "MKE_MOORE_DARAON_647940",
-   "name": "Daraon T Moore",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792815348,
-   "photo": "photos/MKE_MOORE_DARAON_647940.jpg"
-  },
-  {
-   "key": "MKE_GARCIA_CARLOS_2052736",
-   "name": "Carlos E Garcia",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792815346,
-   "photo": "photos/MKE_GARCIA_CARLOS_2052736.jpg"
-  },
-  {
-   "key": "MKE_BULLOCK_TREMAINE_645501",
-   "name": "Tremaine Bullock",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792815344,
-   "photo": "photos/MKE_BULLOCK_TREMAINE_645501.jpg"
-  },
-  {
-   "key": "RC_GRANT_CORTRELL_120011075564795",
-   "name": "Cortrell Marquis Grant",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 1,
-   "ts": 1792813534,
-   "photo": "photos/RC_GRANT_CORTRELL_120011075564795.jpg"
-  },
-  {
-   "key": "RC_DENNIS_JAQUALE_120011075564810",
-   "name": "Jaquale G Dennis",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792813530,
-   "photo": "photos/RC_DENNIS_JAQUALE_120011075564810.jpg"
   },
   {
    "key": "MAR_KROENING_RICKY_2026-10-23",
@@ -338,39 +382,6 @@
    "county": "Marathon County",
    "region": "northwest",
    "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792813182,
-   "photo": null
-  },
-  {
-   "key": "MAR_KROENING_JAMES_2026-10-23",
-   "name": "James Robert Kroening",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792813182,
-   "photo": null
-  },
-  {
-   "key": "MAR_MOE_SETH_2026-10-23",
-   "name": "Seth Michael Moe",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792813182,
-   "photo": null
-  },
-  {
-   "key": "MAR_BRUSKY_KYLE_2026-10-23",
-   "name": "Kyle Gene Brusky",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
    "more": 0,
    "ts": 1792813182,
    "photo": null
@@ -516,17 +527,6 @@
    "charge": "La Crosse County Child Support W/C",
    "more": 4,
    "ts": 1792741894,
-   "photo": null
-  },
-  {
-   "key": "VANDAHL_DOR_2026-10-23",
-   "name": "Dor E Vandahl",
-   "age": "57",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792735604,
    "photo": null
   }
  ]
