@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-24T22:49:26+00:00",
+ "updated": "2026-10-24T23:49:26+00:00",
  "items": [
+  {
+   "key": "BURKHART_CHRISTOPHER_2026-10-24",
+   "name": "Christopher S Burkhart",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Credit Card-Fraudulent Use <=$2,500",
+   "more": 2,
+   "ts": 1792884996,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_ALLEN_631181",
+   "name": "Allen R Ward",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792882845,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHY_MARK_603490",
+   "name": "Mark Trevian Shy",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Drive or Operate Vehicle w/o Consent",
+   "more": 0,
+   "ts": 1792882843,
+   "photo": "photos/MKE_SHY_MARK_603490.jpg"
+  },
+  {
+   "key": "MKE_DUNCAN_GARY_647955",
+   "name": "Gary Wayne Duncan",
+   "age": "64",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792882841,
+   "photo": null
+  },
+  {
+   "key": "MKE_COLEMAN_MARVEL_618553",
+   "name": "Marvel AlfonzoCraig Coleman",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792882839,
+   "photo": null
+  },
   {
    "key": "MKE_WILSON_SAMUEL_634345",
    "name": "Samuel D Wilson",
@@ -8,9 +63,9 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 5,
    "ts": 1792880145,
-   "photo": null
+   "photo": "photos/MKE_WILSON_SAMUEL_634345.jpg"
   },
   {
    "key": "MKE_MOORE_DAMON_611442",
@@ -21,7 +76,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792880143,
-   "photo": null
+   "photo": "photos/MKE_MOORE_DAMON_611442.jpg"
   },
   {
    "key": "KEN_GARCIA_GUSTAVO_2026-00005897",
@@ -29,7 +84,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resisting Or Obstructing An Officer",
    "more": 0,
    "ts": 1792878046,
    "photo": "photos/KEN_GARCIA_GUSTAVO_2026-00005897.jpg"
@@ -43,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792877451,
-   "photo": null
+   "photo": "photos/MKE_ORDONEZVALDIVIA_LESBIN_647954.jpg"
   },
   {
    "key": "MKE_CHANEY_TRACEY_268786",
@@ -87,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 9,
    "ts": 1792872037,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_TIMOTHY_227771.jpg"
   },
   {
    "key": "MKE_JACKSON_GEORGE_647953",
@@ -156,39 +211,6 @@
    "photo": "photos/MKE_MONTGOMERY_WILLIAM_243770.jpg"
   },
   {
-   "key": "MKE_MCCANTS_CHRISTOPHER_647951",
-   "name": "Christopher Martin Mccants",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792861256,
-   "photo": "photos/MKE_MCCANTS_CHRISTOPHER_647951.jpg"
-  },
-  {
-   "key": "MKE_CURRIER_JEROME_637726",
-   "name": "Jerome A Currier",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 1,
-   "ts": 1792861254,
-   "photo": "photos/MKE_CURRIER_JEROME_637726.jpg"
-  },
-  {
-   "key": "KEN_DANIELS_NICHOLAS_2026-00005894",
-   "name": "Nicholas D Daniels",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Fail To Install/Violate Court Orde",
-   "more": 2,
-   "ts": 1792859867,
-   "photo": "photos/KEN_DANIELS_NICHOLAS_2026-00005894.jpg"
-  },
-  {
    "key": "HOU_TRAYLOR_TERRANCEVASHANE_6310",
    "name": "Terrance Vashane Traylor",
    "age": "51",
@@ -220,17 +242,6 @@
    "more": 1,
    "ts": 1792858635,
    "photo": "photos/DOU_OJALA_ROBERT_2026-10-24.jpg"
-  },
-  {
-   "key": "RC_MATSEN_MADALYNN_120011075575177",
-   "name": "Madalynn Ann Matsen",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1792857826,
-   "photo": "photos/RC_MATSEN_MADALYNN_120011075575177.jpg"
   },
   {
    "key": "MAR_HER_TONG_2026-10-24",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792811893,
    "photo": "photos/FDL_SMITH_CHRISTIAN_2026-10-23.jpg"
-  },
-  {
-   "key": "ERICKSON_RICHARD_2026-10-23",
-   "name": "Richard D Erickson",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792811675,
-   "photo": null
   }
  ]
 }
