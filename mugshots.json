@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-24T14:49:30+00:00",
+ "updated": "2026-10-24T15:49:30+00:00",
  "items": [
+  {
+   "key": "MAR_CASTRO_MACLOVIO_2026-10-24",
+   "name": "Maclovio Castro",
+   "age": "",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "MAR_HERNANDEZ_JUAN_2026-10-24",
+   "name": "Juan Carlos Hernandez",
+   "age": "",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While under Influence",
+   "more": 2,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "MAR_LOPEZRUIZ_IRVIN_2026-10-24",
+   "name": "Irvin Orlando Lopez Ruiz",
+   "age": "",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While under Influence (1st)",
+   "more": 2,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "MAR_HUOTARI_SETH_2026-10-24",
+   "name": "Seth Michael Huotari",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Hold",
+   "more": 0,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "MAR_YAZZIE_SHAWNDELL_2026-10-24",
+   "name": "Shawndell Marie Yazzie",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Hold",
+   "more": 3,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "MAR_LOERA_PEDRO_2026-10-24",
+   "name": "Pedro Jesus Loera",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Federal ICE Detainer",
+   "more": 1,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "MAR_VUE_PANDA_2026-10-24",
+   "name": "Panda Vue",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft",
+   "more": 1,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "MAR_VANG_MA_2026-10-24",
+   "name": "Ma Vang",
+   "age": "",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "MAR_XIONG_NHIA_2026-10-24",
+   "name": "Nhia Xiong",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession of Methamphetamine",
+   "more": 2,
+   "ts": 1792856124,
+   "photo": null
+  },
+  {
+   "key": "RC_HENRY_DARIUS_120011075574596",
+   "name": "Darius P Henry",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792855809,
+   "photo": null
+  },
   {
    "key": "MKE_YOUNG_CURTIS_501734",
    "name": "Curtis Michael Young",
@@ -51,7 +161,7 @@
    "age": "18",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Retail Theft-Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1792851779,
    "photo": null
@@ -62,8 +172,8 @@
    "age": "24",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Tampering/Failure To Install Ignition Interlock Device",
+   "more": 2,
    "ts": 1792851736,
    "photo": "photos/KEN_FLOWERS_DEONDREA_2026-00005893.jpg"
   },
@@ -73,7 +183,7 @@
    "age": "36",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Carrying a Concealed Weapon",
    "more": 0,
    "ts": 1792851384,
    "photo": "photos/RC_MALONE_DIAMOND_120011075573541.jpg"
@@ -189,105 +299,6 @@
    "photo": null
   },
   {
-   "key": "MAR_KEEHN_JUSTIN_2026-10-24",
-   "name": "Justin Garrett Keehn",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_KOVALASKE_JASON_2026-10-24",
-   "name": "Jason James Kovalaske",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_LOPEZ_OFELIA_2026-10-24",
-   "name": "Ofelia Lopez",
-   "age": "54",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 2,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_ROOT_GARY_2026-10-24",
-   "name": "Gary Lee Root",
-   "age": "72",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_PRYOR_MYCHAEL_2026-10-24",
-   "name": "Mychael Anthony Pryor",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "First Degree Recklessly Endangering Safety",
-   "more": 2,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_SKRZYPIEC_JOSEPH_2026-10-24",
-   "name": "Joseph Steven Skrzypiec",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792849730,
-   "photo": null
-  },
-  {
-   "key": "MAR_LEMAY_DEREK_2026-10-24",
-   "name": "Derek Allan Lemay",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792848551,
-   "photo": null
-  },
-  {
-   "key": "MAR_THOMPSON_TARA_2026-10-24",
-   "name": "Tara Ann Thompson",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Revocation due to Alcohol/Controlled Substanc",
-   "more": 2,
-   "ts": 1792848551,
-   "photo": null
-  },
-  {
-   "key": "MAR_LARSON_CALVIN_2026-10-24",
-   "name": "Calvin Robert Larson",
-   "age": "59",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1792848551,
-   "photo": null
-  },
-  {
    "key": "YANG_DAN_2026-10-24",
    "name": "Dan Yang",
    "age": "41",
@@ -385,17 +396,6 @@
    "more": 0,
    "ts": 1792841779,
    "photo": "photos/KEN_JACHOWICZ_VALERIE_2026-00005890.jpg"
-  },
-  {
-   "key": "MKE_MARSEOJONES_DOMINIC_624811",
-   "name": "Dominic Alexander Marseo-jones",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792839640,
-   "photo": "photos/MKE_MARSEOJONES_DOMINIC_624811.jpg"
   },
   {
    "key": "TREM_SCHAEFER_THOMAS_5857",
