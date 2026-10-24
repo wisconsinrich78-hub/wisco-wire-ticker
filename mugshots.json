@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-24T16:49:27+00:00",
+ "updated": "2026-10-24T17:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_JACKSON_MARIO_344043",
+   "name": "Mario Maurice Jackson",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792863948,
+   "photo": null
+  },
+  {
+   "key": "MKE_HASSAN_SUMAIA_647952",
+   "name": "Sumaia A Hassan",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792863945,
+   "photo": null
+  },
+  {
+   "key": "RC_MERATH_JOSHUA_120011075577119",
+   "name": "Joshua James Merath",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792863913,
+   "photo": "photos/RC_MERATH_JOSHUA_120011075577119.jpg"
+  },
+  {
+   "key": "RC_GORDON_DARIA_120011075577066",
+   "name": "Daria Mercedes Gordon",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792863910,
+   "photo": null
+  },
+  {
+   "key": "MKE_MONTGOMERY_WILLIAM_243770",
+   "name": "William Edward Montgomery",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792861259,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCCANTS_CHRISTOPHER_647951",
+   "name": "Christopher Martin Mccants",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792861256,
+   "photo": null
+  },
+  {
+   "key": "MKE_CURRIER_JEROME_637726",
+   "name": "Jerome A Currier",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 1,
+   "ts": 1792861254,
+   "photo": "photos/MKE_CURRIER_JEROME_637726.jpg"
+  },
   {
    "key": "KEN_DANIELS_NICHOLAS_2026-00005894",
    "name": "Nicholas D Daniels",
@@ -51,8 +128,8 @@
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1792857826,
    "photo": "photos/RC_MATSEN_MADALYNN_120011075575177.jpg"
   },
@@ -62,8 +139,8 @@
    "age": "24",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
+   "more": 2,
    "ts": 1792857823,
    "photo": null
   },
@@ -299,61 +376,6 @@
    "photo": "photos/RC_MALONE_DIAMOND_120011075573541.jpg"
   },
   {
-   "key": "KEN_INFUSINO_MARCO_2026-00005892",
-   "name": "Marco Antonio Infusino",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1792850665,
-   "photo": "photos/KEN_INFUSINO_MARCO_2026-00005892.jpg"
-  },
-  {
-   "key": "MKE_WEBSTER_TIMOTHY_647949",
-   "name": "Timothy Keywany Webster",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792850455,
-   "photo": "photos/MKE_WEBSTER_TIMOTHY_647949.jpg"
-  },
-  {
-   "key": "MKE_MOLINAWAGNER_CHRISTIAN_646060",
-   "name": "Christian G Molina Wagner",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792850453,
-   "photo": "photos/MKE_MOLINAWAGNER_CHRISTIAN_646060.jpg"
-  },
-  {
-   "key": "MKE_JOSHUA_DIEGO_647947",
-   "name": "Diego Joshua",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792850451,
-   "photo": "photos/MKE_JOSHUA_DIEGO_647947.jpg"
-  },
-  {
-   "key": "MKE_DELATORRE_ADRIAN_647948",
-   "name": "Adrian S De La Torre",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792850449,
-   "photo": "photos/MKE_DELATORRE_ADRIAN_647948.jpg"
-  },
-  {
    "key": "YANG_DAN_2026-10-24",
    "name": "Dan Yang",
    "age": "41",
@@ -376,17 +398,6 @@
    "photo": "photos/FDL_MARTY_ZACHARY_2026-10-24.jpg"
   },
   {
-   "key": "MKE_OROZCO_CARLOS_647946",
-   "name": "Carlos Octavio Orozco",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792847752,
-   "photo": "photos/MKE_OROZCO_CARLOS_647946.jpg"
-  },
-  {
    "key": "FEIST_VOLANTE_2026-10-24",
    "name": "Volante C Feist",
    "age": "36",
@@ -407,17 +418,6 @@
    "more": 0,
    "ts": 1792842696,
    "photo": null
-  },
-  {
-   "key": "MKE_SMITH_GARRICK_296232",
-   "name": "Garrick Lee Smith",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792842341,
-   "photo": "photos/MKE_SMITH_GARRICK_296232.jpg"
   },
   {
    "key": "TREM_SCHAEFER_THOMAS_5857",
