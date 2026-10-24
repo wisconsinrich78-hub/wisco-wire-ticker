@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-24T19:49:30+00:00",
+ "updated": "2026-10-24T20:49:30+00:00",
  "items": [
+  {
+   "key": "FDL_STEWART_PRINCE_2026-10-24",
+   "name": "Prince D'Angelo Stewart",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792873040,
+   "photo": "photos/FDL_STEWART_PRINCE_2026-10-24.jpg"
+  },
+  {
+   "key": "FDL_ALI_ASSATA_2026-10-24",
+   "name": "Assata Jahina Ali",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1792872956,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_TIMOTHY_227771",
+   "name": "Timothy O Harris",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 9,
+   "ts": 1792872037,
+   "photo": null
+  },
   {
    "key": "MKE_JACKSON_GEORGE_647953",
    "name": "George Jackson",
@@ -32,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792863945,
-   "photo": null
+   "photo": "photos/MKE_HASSAN_SUMAIA_647952.jpg"
   },
   {
    "key": "RC_MERATH_JOSHUA_120011075577119",
@@ -65,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1792861259,
-   "photo": null
+   "photo": "photos/MKE_MONTGOMERY_WILLIAM_243770.jpg"
   },
   {
    "key": "MKE_MCCANTS_CHRISTOPHER_647951",
@@ -326,8 +359,8 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possessio Of Drug Paraphernalia",
+   "more": 3,
    "ts": 1792855809,
    "photo": null
   },
@@ -363,17 +396,6 @@
    "more": 0,
    "ts": 1792851779,
    "photo": null
-  },
-  {
-   "key": "KEN_FLOWERS_DEONDREA_2026-00005893",
-   "name": "Deondrea Maria Flowers",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Tampering/Failure To Install Ignition Interlock Device",
-   "more": 2,
-   "ts": 1792851736,
-   "photo": "photos/KEN_FLOWERS_DEONDREA_2026-00005893.jpg"
   },
   {
    "key": "YANG_DAN_2026-10-24",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792811675,
    "photo": null
-  },
-  {
-   "key": "FDL_SCHUH_KARA_2026-10-23",
-   "name": "Kara Karla Schuh",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Misdemeanor Bail Jumping",
-   "more": 1,
-   "ts": 1792804674,
-   "photo": "photos/FDL_SCHUH_KARA_2026-10-23.jpg"
-  },
-  {
-   "key": "HOU_LANGE_LAURAMARIE_6308",
-   "name": "Laura Marie Lange",
-   "age": "43",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Traffic - DWI - Operate Motor Vehicle - Alcoh (1-Court Pending)",
-   "more": 1,
-   "ts": 1792801779,
-   "photo": "photos/HOU_LANGE_LAURAMARIE_6308.jpg"
   }
  ]
 }
