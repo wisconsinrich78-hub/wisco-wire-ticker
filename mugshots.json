@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-25T03:49:29+00:00",
+ "updated": "2026-10-25T04:49:26+00:00",
  "items": [
+  {
+   "key": "MKE_GUAJARDO_KRISTINA_647960",
+   "name": "Kristina D Guajardo",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792901739,
+   "photo": null
+  },
+  {
+   "key": "RC_CARTER_DIANNE_120011075585420",
+   "name": "Dianne K Carter",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1792901712,
+   "photo": null
+  },
+  {
+   "key": "KEN_PLUM_JOAN_2026-00005901",
+   "name": "Joan Frances Plum",
+   "age": "66",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (1St)",
+   "more": 0,
+   "ts": 1792901138,
+   "photo": null
+  },
   {
    "key": "MKE_THOMAS_DEREON_521360",
    "name": "Dereon Dontavious Thomas",
@@ -29,8 +62,8 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1792899044,
    "photo": null
   },
@@ -187,39 +220,6 @@
    "more": 2,
    "ts": 1792882845,
    "photo": null
-  },
-  {
-   "key": "MKE_SHY_MARK_603490",
-   "name": "Mark Trevian Shy",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Drive or Operate Vehicle w/o Consent",
-   "more": 0,
-   "ts": 1792882843,
-   "photo": "photos/MKE_SHY_MARK_603490.jpg"
-  },
-  {
-   "key": "MKE_DUNCAN_GARY_647955",
-   "name": "Gary Wayne Duncan",
-   "age": "64",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792882841,
-   "photo": "photos/MKE_DUNCAN_GARY_647955.jpg"
-  },
-  {
-   "key": "MKE_COLEMAN_MARVEL_618553",
-   "name": "Marvel AlfonzoCraig Coleman",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792882839,
-   "photo": "photos/MKE_COLEMAN_MARVEL_618553.jpg"
   },
   {
    "key": "FDL_STEWART_PRINCE_2026-10-24",
