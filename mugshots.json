@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-25T13:49:31+00:00",
+ "updated": "2026-10-25T14:49:27+00:00",
  "items": [
+  {
+   "key": "RC_FIGUEROA_SUMMER_120011075591677",
+   "name": "Summer L Figueroa",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792939513,
+   "photo": "photos/RC_FIGUEROA_SUMMER_120011075591677.jpg"
+  },
+  {
+   "key": "KEN_TABOR_EDWARD_2026-00005910",
+   "name": "Edward Bryan Tabor",
+   "age": "60",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792939173,
+   "photo": "photos/KEN_TABOR_EDWARD_2026-00005910.jpg"
+  },
+  {
+   "key": "KEN_STACHURA_ANNMARIE_2026-00005909",
+   "name": "Ann-Marie Rose Stachura",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Cocaine/Coca",
+   "more": 1,
+   "ts": 1792939101,
+   "photo": "photos/KEN_STACHURA_ANNMARIE_2026-00005909.jpg"
+  },
+  {
+   "key": "KEN_BRYAN_DEMITRIUS_2026-00005911",
+   "name": "Demitrius Derrick Bryan",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 3,
+   "ts": 1792938978,
+   "photo": "photos/KEN_BRYAN_DEMITRIUS_2026-00005911.jpg"
+  },
+  {
+   "key": "MKE_PEAVY_AYDEN_647970",
+   "name": "Ayden J Peavy",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792936856,
+   "photo": null
+  },
+  {
+   "key": "MKE_NATALOLIQUE_MANUEL_647969",
+   "name": "Manuel A Natal-Olique",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792936855,
+   "photo": "photos/MKE_NATALOLIQUE_MANUEL_647969.jpg"
+  },
+  {
+   "key": "MKE_GRANT_WYMAN_642771",
+   "name": "Wyman E Grant",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792936853,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNN_CHRISSHAWN_647971",
+   "name": "Chrisshawn Z Dunn",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792936851,
+   "photo": null
+  },
   {
    "key": "FDL_WEONG_ERIES_2026-10-25",
    "name": "Eries Weong",
@@ -43,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792931445,
-   "photo": null
+   "photo": "photos/MKE_GARCIASANCHEZ_RUDI_647968.jpg"
   },
   {
    "key": "MKE_THOMAS_NICOLE_390333",
@@ -123,39 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MUHAMUD_MOHAMED_647964",
-   "name": "Mohamed A Muhamud",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792923343,
-   "photo": null
-  },
-  {
-   "key": "MKE_BUCHANAN_JEREMY_296886",
-   "name": "Jeremy Edward Buchanan",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792921549,
-   "photo": "photos/MKE_BUCHANAN_JEREMY_296886.jpg"
-  },
-  {
-   "key": "MKE_KYU_KYU_647963",
-   "name": "Kyu Kyu",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792920640,
-   "photo": "photos/MKE_KYU_KYU_647963.jpg"
-  },
-  {
    "key": "TREM_SHABANI_GAZMEND_2356",
    "name": "Gazmend Ahmed Shabani",
    "age": "49",
@@ -189,28 +244,6 @@
    "photo": "photos/TREM_BRENT_DAVID_6189.jpg"
   },
   {
-   "key": "MKE_WALLACE_TAMIKA_647962",
-   "name": "Tamika L Wallace",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Pedestrian/Bike/Moped on Expressway/Prohibited",
-   "more": 0,
-   "ts": 1792917938,
-   "photo": "photos/MKE_WALLACE_TAMIKA_647962.jpg"
-  },
-  {
-   "key": "MKE_CIESLEWICZ_JOHN_316982",
-   "name": "John E Cieslewicz",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792917936,
-   "photo": "photos/MKE_CIESLEWICZ_JOHN_316982.jpg"
-  },
-  {
    "key": "CLAPPER_ALICYN_2026-10-25",
    "name": "Alicyn Hope Clapper",
    "age": "20",
@@ -220,39 +253,6 @@
    "more": 0,
    "ts": 1792916496,
    "photo": null
-  },
-  {
-   "key": "KEN_TYLERBELL_XZAVIER_2026-00005908",
-   "name": "Xzavier James Tyler-Bell",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 1,
-   "ts": 1792915565,
-   "photo": "photos/KEN_TYLERBELL_XZAVIER_2026-00005908.jpg"
-  },
-  {
-   "key": "RC_SETHI_SHIVAM_120011075587600",
-   "name": "Shivam Sethi",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1792915208,
-   "photo": null
-  },
-  {
-   "key": "KEN_ROBINSON_PETER_2026-00005907",
-   "name": "PETER C Junior ROBINSON",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (1St)",
-   "more": 0,
-   "ts": 1792912907,
-   "photo": "photos/KEN_ROBINSON_PETER_2026-00005907.jpg"
   },
   {
    "key": "FDL_PAGE_RANDY_2026-10-25",
