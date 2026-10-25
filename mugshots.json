@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T09:49:26+00:00",
+ "updated": "2026-10-25T10:49:28+00:00",
  "items": [
+  {
+   "key": "DOU_STRONG_DARREN_2026-10-25",
+   "name": "Darren J Strong",
+   "age": "46",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1792923432,
+   "photo": null
+  },
+  {
+   "key": "MKE_MUHAMUD_MOHAMED_647964",
+   "name": "Mohamed A Muhamud",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792923343,
+   "photo": null
+  },
   {
    "key": "MKE_BUCHANAN_JEREMY_296886",
    "name": "Jeremy Edward Buchanan",
@@ -8,7 +30,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 1,
    "ts": 1792921549,
    "photo": null
   },
@@ -142,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792912544,
-   "photo": null
+   "photo": "photos/MKE_CASTRO_MIGDALIA_647961.jpg"
   },
   {
    "key": "KEN_BENITEZLOPEZ_KARINA_2026-00005906",
@@ -308,17 +330,6 @@
    "more": 1,
    "ts": 1792901739,
    "photo": "photos/MKE_GUAJARDO_KRISTINA_647960.jpg"
-  },
-  {
-   "key": "RC_CARTER_DIANNE_120011075585420",
-   "name": "Dianne K Carter",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1792901712,
-   "photo": null
   },
   {
    "key": "DOU_SMITH_MARIA_2026-10-24",
@@ -492,17 +503,6 @@
    "county": "Marathon County",
    "region": "northwest",
    "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_HUNTER_JOSHUA_2026-10-21",
-   "name": "Joshua Allan Hunter",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Intoxicated - 3Rd Offense",
    "more": 2,
    "ts": 1792857344,
    "photo": null
