@@ -1,14 +1,80 @@
 {
- "updated": "2026-10-25T02:49:26+00:00",
+ "updated": "2026-10-25T03:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_THOMAS_DEREON_521360",
+   "name": "Dereon Dontavious Thomas",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792899048,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_CHRISTAL_647959",
+   "name": "Christal D Thomas",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792899046,
+   "photo": null
+  },
+  {
+   "key": "MKE_PILLIGOR_BONNILYNN_600916",
+   "name": "Bonnilynn Louise Pilligor",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792899044,
+   "photo": null
+  },
+  {
+   "key": "MKE_FLINN_DECTOR_387831",
+   "name": "Dector Flinn",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792899043,
+   "photo": null
+  },
+  {
+   "key": "DOU_SMITH_MARIA_2026-10-24",
+   "name": "Maria R Smith",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 6,
+   "ts": 1792898251,
+   "photo": "photos/DOU_SMITH_MARIA_2026-10-24.jpg"
+  },
+  {
+   "key": "FDL_THULL_BRYCE_2026-10-24",
+   "name": "Bryce Alexander Thull",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792898239,
+   "photo": "photos/FDL_THULL_BRYCE_2026-10-24.jpg"
+  },
   {
    "key": "MKE_TERRY_SHAWN_647958",
    "name": "Shawn Cornelius Terry",
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792896337,
    "photo": null
   },
@@ -18,8 +84,8 @@
    "age": "25",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1792894506,
    "photo": null
   },
@@ -154,50 +220,6 @@
    "more": 1,
    "ts": 1792882839,
    "photo": "photos/MKE_COLEMAN_MARVEL_618553.jpg"
-  },
-  {
-   "key": "MKE_WILSON_SAMUEL_634345",
-   "name": "Samuel D Wilson",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1792880145,
-   "photo": "photos/MKE_WILSON_SAMUEL_634345.jpg"
-  },
-  {
-   "key": "MKE_MOORE_DAMON_611442",
-   "name": "Damon Elijah Moore",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792880143,
-   "photo": "photos/MKE_MOORE_DAMON_611442.jpg"
-  },
-  {
-   "key": "KEN_GARCIA_GUSTAVO_2026-00005897",
-   "name": "Gustavo Garcia",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 0,
-   "ts": 1792878046,
-   "photo": "photos/KEN_GARCIA_GUSTAVO_2026-00005897.jpg"
-  },
-  {
-   "key": "MKE_ORDONEZVALDIVIA_LESBIN_647954",
-   "name": "Lesbin Jhursi Ordonez Valdivia",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792877451,
-   "photo": "photos/MKE_ORDONEZVALDIVIA_LESBIN_647954.jpg"
   },
   {
    "key": "FDL_STEWART_PRINCE_2026-10-24",
@@ -409,17 +431,6 @@
    "photo": null
   },
   {
-   "key": "MAR_YAZZIE_SHAWNDELL_2026-10-24",
-   "name": "Shawndell Marie Yazzie",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Hold",
-   "more": 3,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
    "key": "YANG_DAN_2026-10-24",
    "name": "Dan Yang",
    "age": "41",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792825162,
    "photo": null
-  },
-  {
-   "key": "FDL_CORNELL_JAMES_2026-10-24",
-   "name": "James Michael Cornell",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1792822587,
-   "photo": "photos/FDL_CORNELL_JAMES_2026-10-24.jpg"
   }
  ]
 }
