@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T17:49:26+00:00",
+ "updated": "2026-10-25T18:49:26+00:00",
  "items": [
+  {
+   "key": "FDL_RUIZFLORES_JOSE_2026-10-25",
+   "name": "Jose Felix Ruizflores",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine",
+   "more": 3,
+   "ts": 1792952222,
+   "photo": null
+  },
+  {
+   "key": "KEN_HUNTER_DEMARCUS_2026-00005912",
+   "name": "Demarcus Antonio Hunter",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792950905,
+   "photo": "photos/KEN_HUNTER_DEMARCUS_2026-00005912.jpg"
+  },
   {
    "key": "MKE_DIAZPINEDA_SILVIA_647973",
    "name": "Silvia J Diaz-Pineda",
@@ -76,7 +98,7 @@
    "charge": "Operate w/o Valid License (1st Violation)",
    "more": 2,
    "ts": 1792944954,
-   "photo": null
+   "photo": "photos/MKE_WILKS_DEVONTE_526206.jpg"
   },
   {
    "key": "MKE_JONES_JAWAAN_420550",
@@ -87,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1792944951,
-   "photo": null
+   "photo": "photos/MKE_JONES_JAWAAN_420550.jpg"
   },
   {
    "key": "MKE_BROWN_ZYAIREA_647972",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1792931445,
    "photo": "photos/MKE_GARCIASANCHEZ_RUDI_647968.jpg"
-  },
-  {
-   "key": "MKE_THOMAS_NICOLE_390333",
-   "name": "Nicole M Thomas",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792928741,
-   "photo": "photos/MKE_THOMAS_NICOLE_390333.jpg"
   },
   {
    "key": "STOECKLY_JACOB_2026-10-25",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792859368,
    "photo": "photos/HOU_TRAYLOR_TERRANCEVASHANE_6310.jpg"
-  },
-  {
-   "key": "HEROD_JASMINE_2026-10-24",
-   "name": "Jasmine A Herod",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792858901,
-   "photo": null
   }
  ]
 }
