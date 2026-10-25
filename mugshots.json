@@ -1,13 +1,68 @@
 {
- "updated": "2026-10-25T06:49:25+00:00",
+ "updated": "2026-10-25T07:49:26+00:00",
  "items": [
+  {
+   "key": "KEN_ROBINSON_PETER_2026-00005907",
+   "name": "PETER C Junior ROBINSON",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792912907,
+   "photo": "photos/KEN_ROBINSON_PETER_2026-00005907.jpg"
+  },
+  {
+   "key": "FDL_PAGE_RANDY_2026-10-25",
+   "name": "Randy Michael Page",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Felony Bail Jumping",
+   "more": 1,
+   "ts": 1792912626,
+   "photo": "photos/FDL_PAGE_RANDY_2026-10-25.jpg"
+  },
+  {
+   "key": "MKE_CASTRO_MIGDALIA_647961",
+   "name": "Migdalia C Castro",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792912544,
+   "photo": null
+  },
+  {
+   "key": "KEN_BENITEZLOPEZ_KARINA_2026-00005906",
+   "name": "Karina Ruby Benitez-Lopez",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1792911979,
+   "photo": "photos/KEN_BENITEZLOPEZ_KARINA_2026-00005906.jpg"
+  },
+  {
+   "key": "LEDET_DESMOND_2026-10-25",
+   "name": "Desmond I Ledet",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 2,
+   "ts": 1792911103,
+   "photo": null
+  },
   {
    "key": "KEN_JORGENSEN_MARK_2026-00005905",
    "name": "Mark Allen Jorgensen",
    "age": "50",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out Of County",
    "more": 0,
    "ts": 1792910207,
    "photo": null
@@ -32,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792909838,
-   "photo": null
+   "photo": "photos/MKE_FRANKLIN_JASON_605067.jpg"
   },
   {
    "key": "DOU_ERICKSEN_ALEXANDER_2026-07-30",
@@ -242,39 +297,6 @@
    "more": 1,
    "ts": 1792896337,
    "photo": "photos/MKE_TERRY_SHAWN_647958.jpg"
-  },
-  {
-   "key": "RC_DELTORO_AUSTIN_120011075584124",
-   "name": "Austin Jacob Deltoro",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1792894506,
-   "photo": null
-  },
-  {
-   "key": "MKE_JAHN_JOHNNIE_647957",
-   "name": "Johnnie Arthur Jahn",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792893642,
-   "photo": "photos/MKE_JAHN_JOHNNIE_647957.jpg"
-  },
-  {
-   "key": "MKE_BANYARD_KATINA_376719",
-   "name": "Katina M Banyard",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792893641,
-   "photo": "photos/MKE_BANYARD_KATINA_376719.jpg"
   },
   {
    "key": "FDL_TRELEVEN_JAMES_2026-10-24",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792833268,
    "photo": "photos/TREM_HOFF_ADAM_2771.jpg"
-  },
-  {
-   "key": "TREM_ENGLISH_TADARIUS_6144",
-   "name": "Tadarius Rashad English",
-   "age": "30",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Appear Warrant",
-   "more": 0,
-   "ts": 1792833266,
-   "photo": "photos/TREM_ENGLISH_TADARIUS_6144.jpg"
-  },
-  {
-   "key": "FDL_SHIPP_RICO_2026-10-24",
-   "name": "Rico D Shipp",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
-   "more": 1,
-   "ts": 1792829844,
-   "photo": null
   }
  ]
 }
