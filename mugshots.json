@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-25T10:49:28+00:00",
+ "updated": "2026-10-25T11:49:43+00:00",
  "items": [
+  {
+   "key": "MKE_THOMAS_NICOLE_390333",
+   "name": "Nicole M Thomas",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792928741,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROMOJUAREZ_JUAN_647967",
+   "name": "Juan C Romo Juarez",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792928739,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_RIGOBERTO_647966",
+   "name": "Rigoberto C Gonzalez",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792926056,
+   "photo": null
+  },
+  {
+   "key": "MKE_CROWE_HARMON_647965",
+   "name": "Harmon S Crowe",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792926054,
+   "photo": "photos/MKE_CROWE_HARMON_647965.jpg"
+  },
+  {
+   "key": "MKE_ARENDT_PETER_241087",
+   "name": "Peter Mark Arendt",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792926052,
+   "photo": null
+  },
+  {
+   "key": "STOECKLY_JACOB_2026-10-25",
+   "name": "Jacob R Stoeckly",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792925961,
+   "photo": null
+  },
   {
    "key": "DOU_STRONG_DARREN_2026-10-25",
    "name": "Darren J Strong",
@@ -18,8 +84,8 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792923343,
    "photo": null
   },
@@ -32,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792921549,
-   "photo": null
+   "photo": "photos/MKE_BUCHANAN_JEREMY_296886.jpg"
   },
   {
    "key": "MKE_KYU_KYU_647963",
@@ -43,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792920640,
-   "photo": null
+   "photo": "photos/MKE_KYU_KYU_647963.jpg"
   },
   {
    "key": "TREM_SHABANI_GAZMEND_2356",
@@ -98,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792917936,
-   "photo": null
+   "photo": "photos/MKE_CIESLEWICZ_JOHN_316982.jpg"
   },
   {
    "key": "CLAPPER_ALICYN_2026-10-25",
@@ -200,28 +266,6 @@
    "photo": null
   },
   {
-   "key": "KEN_RODRIGUEZ_DANIEL_2026-00005904",
-   "name": "Daniel Rodriguez",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Carrying Concealed Weapon",
-   "more": 0,
-   "ts": 1792910171,
-   "photo": "photos/KEN_RODRIGUEZ_DANIEL_2026-00005904.jpg"
-  },
-  {
-   "key": "MKE_FRANKLIN_JASON_605067",
-   "name": "Jason Dominique Franklin",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792909838,
-   "photo": "photos/MKE_FRANKLIN_JASON_605067.jpg"
-  },
-  {
    "key": "DOU_ERICKSEN_ALEXANDER_2026-07-30",
    "name": "Alexander C Ericksen",
    "age": "30",
@@ -297,39 +341,6 @@
    "more": 1,
    "ts": 1792905447,
    "photo": null
-  },
-  {
-   "key": "KEN_RUCKER_KEMARION_2026-00005902",
-   "name": "Kemarion Orthello Rucker",
-   "age": "19",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792904722,
-   "photo": null
-  },
-  {
-   "key": "MKE_AMBROSE_DEVONTE_410549",
-   "name": "Devonte R Ambrose",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792904446,
-   "photo": "photos/MKE_AMBROSE_DEVONTE_410549.jpg"
-  },
-  {
-   "key": "MKE_GUAJARDO_KRISTINA_647960",
-   "name": "Kristina D Guajardo",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792901739,
-   "photo": "photos/MKE_GUAJARDO_KRISTINA_647960.jpg"
   },
   {
    "key": "DOU_SMITH_MARIA_2026-10-24",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792848095,
    "photo": null
-  },
-  {
-   "key": "FDL_MARTY_ZACHARY_2026-10-24",
-   "name": "Zachary Michael Marty",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792847826,
-   "photo": "photos/FDL_MARTY_ZACHARY_2026-10-24.jpg"
   }
  ]
 }
