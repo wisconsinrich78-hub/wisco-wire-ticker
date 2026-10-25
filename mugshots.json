@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-25T07:49:26+00:00",
+ "updated": "2026-10-25T08:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_WALLACE_TAMIKA_647962",
+   "name": "Tamika L Wallace",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792917938,
+   "photo": null
+  },
+  {
+   "key": "MKE_CIESLEWICZ_JOHN_316982",
+   "name": "John E Cieslewicz",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1792917936,
+   "photo": null
+  },
+  {
+   "key": "CLAPPER_ALICYN_2026-10-25",
+   "name": "Alicyn Hope Clapper",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792916496,
+   "photo": null
+  },
+  {
+   "key": "KEN_TYLERBELL_XZAVIER_2026-00005908",
+   "name": "Xzavier James Tyler-Bell",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792915565,
+   "photo": "photos/KEN_TYLERBELL_XZAVIER_2026-00005908.jpg"
+  },
+  {
+   "key": "RC_SETHI_SHIVAM_120011075587600",
+   "name": "Shivam Sethi",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1792915208,
+   "photo": null
+  },
   {
    "key": "KEN_ROBINSON_PETER_2026-00005907",
    "name": "PETER C Junior ROBINSON",
@@ -233,39 +288,6 @@
    "photo": "photos/MKE_THOMAS_DEREON_521360.jpg"
   },
   {
-   "key": "MKE_THOMAS_CHRISTAL_647959",
-   "name": "Christal D Thomas",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792899046,
-   "photo": "photos/MKE_THOMAS_CHRISTAL_647959.jpg"
-  },
-  {
-   "key": "MKE_PILLIGOR_BONNILYNN_600916",
-   "name": "Bonnilynn Louise Pilligor",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792899044,
-   "photo": "photos/MKE_PILLIGOR_BONNILYNN_600916.jpg"
-  },
-  {
-   "key": "MKE_FLINN_DECTOR_387831",
-   "name": "Dector Flinn",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1792899043,
-   "photo": "photos/MKE_FLINN_DECTOR_387831.jpg"
-  },
-  {
    "key": "DOU_SMITH_MARIA_2026-10-24",
    "name": "Maria R Smith",
    "age": "43",
@@ -286,17 +308,6 @@
    "more": 0,
    "ts": 1792898239,
    "photo": "photos/FDL_THULL_BRYCE_2026-10-24.jpg"
-  },
-  {
-   "key": "MKE_TERRY_SHAWN_647958",
-   "name": "Shawn Cornelius Terry",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792896337,
-   "photo": "photos/MKE_TERRY_SHAWN_647958.jpg"
   },
   {
    "key": "FDL_TRELEVEN_JAMES_2026-10-24",
@@ -517,17 +528,6 @@
    "more": 3,
    "ts": 1792833270,
    "photo": "photos/TREM_SCHAEFER_THOMAS_5857.jpg"
-  },
-  {
-   "key": "TREM_HOFF_ADAM_2771",
-   "name": "Adam Clifford Hoff",
-   "age": "34",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792833268,
-   "photo": "photos/TREM_HOFF_ADAM_2771.jpg"
   }
  ]
 }
