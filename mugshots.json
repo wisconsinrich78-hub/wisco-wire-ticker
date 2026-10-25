@@ -1,13 +1,68 @@
 {
- "updated": "2026-10-25T08:49:27+00:00",
+ "updated": "2026-10-25T09:49:26+00:00",
  "items": [
+  {
+   "key": "MKE_BUCHANAN_JEREMY_296886",
+   "name": "Jeremy Edward Buchanan",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1792921549,
+   "photo": null
+  },
+  {
+   "key": "MKE_KYU_KYU_647963",
+   "name": "Kyu Kyu",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792920640,
+   "photo": null
+  },
+  {
+   "key": "TREM_SHABANI_GAZMEND_2356",
+   "name": "Gazmend Ahmed Shabani",
+   "age": "49",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1792919668,
+   "photo": "photos/TREM_SHABANI_GAZMEND_2356.jpg"
+  },
+  {
+   "key": "TREM_CRUZ_BRAYAN_6190",
+   "name": "Brayan Silver Cruz",
+   "age": "18",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 1st Offense",
+   "more": 0,
+   "ts": 1792919666,
+   "photo": "photos/TREM_CRUZ_BRAYAN_6190.jpg"
+  },
+  {
+   "key": "TREM_BRENT_DAVID_6189",
+   "name": "David Tyrone Brent",
+   "age": "67",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Manufacture/Deliver Cocaine (<=1g)",
+   "more": 2,
+   "ts": 1792919663,
+   "photo": "photos/TREM_BRENT_DAVID_6189.jpg"
+  },
   {
    "key": "MKE_WALLACE_TAMIKA_647962",
    "name": "Tamika L Wallace",
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Pedestrian/Bike/Moped on Expressway/Prohibited",
    "more": 0,
    "ts": 1792917938,
    "photo": null
@@ -40,8 +95,8 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 1,
    "ts": 1792915565,
    "photo": "photos/KEN_TYLERBELL_XZAVIER_2026-00005908.jpg"
   },
@@ -62,7 +117,7 @@
    "age": "40",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Owi (1St)",
    "more": 0,
    "ts": 1792912907,
    "photo": "photos/KEN_ROBINSON_PETER_2026-00005907.jpg"
@@ -264,28 +319,6 @@
    "more": 0,
    "ts": 1792901712,
    "photo": null
-  },
-  {
-   "key": "KEN_PLUM_JOAN_2026-00005901",
-   "name": "Joan Frances Plum",
-   "age": "66",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (1St)",
-   "more": 0,
-   "ts": 1792901138,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_DEREON_521360",
-   "name": "Dereon Dontavious Thomas",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792899048,
-   "photo": "photos/MKE_THOMAS_DEREON_521360.jpg"
   },
   {
    "key": "DOU_SMITH_MARIA_2026-10-24",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792847826,
    "photo": "photos/FDL_MARTY_ZACHARY_2026-10-24.jpg"
-  },
-  {
-   "key": "FEIST_VOLANTE_2026-10-24",
-   "name": "Volante C Feist",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792846296,
-   "photo": null
-  },
-  {
-   "key": "STONE_CHRIS_2026-10-24",
-   "name": "Chris A Stone",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792842696,
-   "photo": null
-  },
-  {
-   "key": "TREM_SCHAEFER_THOMAS_5857",
-   "name": "Thomas Lawrence Schaefer",
-   "age": "61",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1792833270,
-   "photo": "photos/TREM_SCHAEFER_THOMAS_5857.jpg"
   }
  ]
 }
