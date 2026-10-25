@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-25T16:49:28+00:00",
+ "updated": "2026-10-25T17:49:26+00:00",
  "items": [
+  {
+   "key": "MKE_DIAZPINEDA_SILVIA_647973",
+   "name": "Silvia J Diaz-Pineda",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792949253,
+   "photo": null
+  },
+  {
+   "key": "FDL_TYLER_CHRISTOPHER_2026-10-25",
+   "name": "Christopher Scott Tyler",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1792948622,
+   "photo": "photos/FDL_TYLER_CHRISTOPHER_2026-10-25.jpg"
+  },
+  {
+   "key": "FDL_ONEAL_MELVIN_2026-10-25",
+   "name": "Melvin Louis Oneal",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - REVOCATION ORDER (x0)",
+   "more": 0,
+   "ts": 1792948603,
+   "photo": null
+  },
+  {
+   "key": "FDL_ALCUDIACALCANEO_JESUS_2026-10-25",
+   "name": "Jesus Del Alcudia Calcaneo",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine",
+   "more": 1,
+   "ts": 1792948558,
+   "photo": null
+  },
+  {
+   "key": "WARD_NATHAN_2026-10-25",
+   "name": "Nathan H Ward",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792947106,
+   "photo": "photos/WARD_NATHAN_2026-10-25.jpg"
+  },
   {
    "key": "WENZEL_LUKE_2026-10-25",
    "name": "Luke G Wenzel",
@@ -18,7 +73,7 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "charge": "Operate w/o Valid License (1st Violation)",
    "more": 2,
    "ts": 1792944954,
    "photo": null
@@ -220,17 +275,6 @@
    "more": 3,
    "ts": 1792928741,
    "photo": "photos/MKE_THOMAS_NICOLE_390333.jpg"
-  },
-  {
-   "key": "MKE_ROMOJUAREZ_JUAN_647967",
-   "name": "Juan C Romo Juarez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792928739,
-   "photo": "photos/MKE_ROMOJUAREZ_JUAN_647967.jpg"
   },
   {
    "key": "STOECKLY_JACOB_2026-10-25",
@@ -483,50 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792858901,
-   "photo": null
-  },
-  {
-   "key": "DOU_OJALA_ROBERT_2026-10-24",
-   "name": "Robert E Ojala",
-   "age": "52",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792858635,
-   "photo": "photos/DOU_OJALA_ROBERT_2026-10-24.jpg"
-  },
-  {
-   "key": "MAR_HER_TONG_2026-10-24",
-   "name": "Tong Her",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Fail To Report To County Jail",
-   "more": 0,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_SCHULTZ_JACK_2026-10-24",
-   "name": "Jack R Schultz",
-   "age": "72",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked (Rev Due To Alc/Con Sub/Refusal)",
-   "more": 0,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_FRANCISCOOLIVERA_NOE_2026-10-21",
-   "name": "Noe Francisco-Olivera",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792857344,
    "photo": null
   }
  ]
