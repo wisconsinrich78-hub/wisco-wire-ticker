@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T20:49:25+00:00",
+ "updated": "2026-10-25T21:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_MOFFETT_TAMARIA_621490",
+   "name": "Tamaria N Moffett",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792961866,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOSEPH_RICHARD_2026-10-25",
+   "name": "Richard Charles Joseph",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 1,
+   "ts": 1792961753,
+   "photo": null
+  },
   {
    "key": "MKE_JOHNSON_RACHARI_637231",
    "name": "Rachari A Johnson",
@@ -299,17 +321,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SIMMONS_ALBERT_339665",
-   "name": "Albert Simmons",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792931448,
-   "photo": "photos/MKE_SIMMONS_ALBERT_339665.jpg"
-  },
-  {
    "key": "STOECKLY_JACOB_2026-10-25",
    "name": "Jacob R Stoeckly",
    "age": "31",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1792884996,
    "photo": null
-  },
-  {
-   "key": "FDL_STEWART_PRINCE_2026-10-24",
-   "name": "Prince D'Angelo Stewart",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792873040,
-   "photo": "photos/FDL_STEWART_PRINCE_2026-10-24.jpg"
   }
  ]
 }
