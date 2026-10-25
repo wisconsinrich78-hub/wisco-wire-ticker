@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-25T05:49:27+00:00",
+ "updated": "2026-10-25T06:49:25+00:00",
  "items": [
+  {
+   "key": "KEN_JORGENSEN_MARK_2026-00005905",
+   "name": "Mark Allen Jorgensen",
+   "age": "50",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792910207,
+   "photo": null
+  },
+  {
+   "key": "KEN_RODRIGUEZ_DANIEL_2026-00005904",
+   "name": "Daniel Rodriguez",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Carrying Concealed Weapon",
+   "more": 0,
+   "ts": 1792910171,
+   "photo": "photos/KEN_RODRIGUEZ_DANIEL_2026-00005904.jpg"
+  },
+  {
+   "key": "MKE_FRANKLIN_JASON_605067",
+   "name": "Jason Dominique Franklin",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792909838,
+   "photo": null
+  },
+  {
+   "key": "DOU_ERICKSEN_ALEXANDER_2026-07-30",
+   "name": "Alexander C Ericksen",
+   "age": "30",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1792908985,
+   "photo": "photos/DOU_ERICKSEN_ALEXANDER_2026-07-30.jpg"
+  },
+  {
+   "key": "DOU_POULIOT_RYAN_2026-09-09",
+   "name": "Ryan D Pouliot",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792908982,
+   "photo": "photos/DOU_POULIOT_RYAN_2026-09-09.jpg"
+  },
+  {
+   "key": "DOU_ROYLE_SCIPIO_2026-09-29",
+   "name": "Scipio S Royle",
+   "age": "55",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1792908980,
+   "photo": "photos/DOU_ROYLE_SCIPIO_2026-09-29.jpg"
+  },
+  {
+   "key": "DOU_ZIEGLER_WILLIAM_2026-10-15",
+   "name": "William J Ziegler",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792908977,
+   "photo": "photos/DOU_ZIEGLER_WILLIAM_2026-10-15.jpg"
+  },
+  {
+   "key": "DOU_BOSTIC_ANTONIO_2026-10-25",
+   "name": "Antonio D Bostic",
+   "age": "36",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1792908973,
+   "photo": null
+  },
+  {
+   "key": "JONES_RYLEE_2026-10-25",
+   "name": "Rylee J Jones",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Carry Concealed Weapon",
+   "more": 3,
+   "ts": 1792907495,
+   "photo": null
+  },
   {
    "key": "DOU_GAYKEN_ADAM_2026-10-24",
    "name": "Adam R Gayken",
@@ -32,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792904446,
-   "photo": null
+   "photo": "photos/MKE_AMBROSE_DEVONTE_410549.jpg"
   },
   {
    "key": "MKE_GUAJARDO_KRISTINA_647960",
@@ -76,7 +175,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792899048,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_DEREON_521360.jpg"
   },
   {
    "key": "MKE_THOMAS_CHRISTAL_647959",
@@ -142,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792896337,
-   "photo": null
+   "photo": "photos/MKE_TERRY_SHAWN_647958.jpg"
   },
   {
    "key": "RC_DELTORO_AUSTIN_120011075584124",
@@ -176,39 +275,6 @@
    "more": 0,
    "ts": 1792893641,
    "photo": "photos/MKE_BANYARD_KATINA_376719.jpg"
-  },
-  {
-   "key": "KEN_BROWNLEE_PEIRRIE_2026-00005900",
-   "name": "Peirrie Brownlee",
-   "age": "65",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1792893061,
-   "photo": "photos/KEN_BROWNLEE_PEIRRIE_2026-00005900.jpg"
-  },
-  {
-   "key": "KEN_KIRK_KYLIE_2026-00005899",
-   "name": "Kylie A Kirk",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1792892245,
-   "photo": "photos/KEN_KIRK_KYLIE_2026-00005899.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_CHARVAE_647956",
-   "name": "Charvae D Jackson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792890963,
-   "photo": "photos/MKE_JACKSON_CHARVAE_647956.jpg"
   },
   {
    "key": "FDL_TRELEVEN_JAMES_2026-10-24",
@@ -376,61 +442,6 @@
    "photo": null
   },
   {
-   "key": "MAR_MICIK_CHAD_2026-10-21",
-   "name": "Chad Michael Micik",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Intoxicated - 2Nd Offense",
-   "more": 1,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_MCDUFFY_JOEL_2026-10-21",
-   "name": "Joel James Mcduffy",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Burglary To Building Or Dwelling",
-   "more": 4,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_CASTRO_MACLOVIO_2026-10-24",
-   "name": "Maclovio Castro",
-   "age": "",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
-   "key": "MAR_HERNANDEZ_JUAN_2026-10-24",
-   "name": "Juan Carlos Hernandez",
-   "age": "",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While under Influence",
-   "more": 2,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
-   "key": "MAR_LOPEZRUIZ_IRVIN_2026-10-24",
-   "name": "Irvin Orlando Lopez Ruiz",
-   "age": "",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While under Influence (1st)",
-   "more": 2,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
    "key": "YANG_DAN_2026-10-24",
    "name": "Dan Yang",
    "age": "41",
@@ -516,17 +527,6 @@
    "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
    "more": 1,
    "ts": 1792829844,
-   "photo": null
-  },
-  {
-   "key": "MOY_RACHEL_2026-10-24",
-   "name": "Rachel J Moy",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792825162,
    "photo": null
   }
  ]
