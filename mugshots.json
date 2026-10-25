@@ -1,16 +1,60 @@
 {
- "updated": "2026-10-25T21:49:28+00:00",
+ "updated": "2026-10-25T22:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_RANGELALMEIDA_AGUSTIN_647975",
+   "name": "Agustin Leonardo Rangel Almeida",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792967254,
+   "photo": null
+  },
+  {
+   "key": "MKE_OBI_GEORGE_647974",
+   "name": "George Okechukwu Obi",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792965452,
+   "photo": "photos/MKE_OBI_GEORGE_647974.jpg"
+  },
+  {
+   "key": "MAR_JOSEPH_RICHARD_2026-10-25_16999901",
+   "name": "Richard Charles Joseph",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 1,
+   "ts": 1792965347,
+   "photo": "photos/MAR_JOSEPH_RICHARD_2026-10-25_16999901.jpg"
+  },
+  {
+   "key": "KEN_ESPINOSA_CHRYSTAL_2026-00005914",
+   "name": "Chrystal Gayle Espinosa",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792965256,
+   "photo": "photos/KEN_ESPINOSA_CHRYSTAL_2026-00005914.jpg"
+  },
   {
    "key": "MKE_MOFFETT_TAMARIA_621490",
    "name": "Tamaria N Moffett",
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1792961866,
-   "photo": null
+   "photo": "photos/MKE_MOFFETT_TAMARIA_621490.jpg"
   },
   {
    "key": "MAR_JOSEPH_RICHARD_2026-10-25",
@@ -32,7 +76,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792956450,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_RACHARI_637231.jpg"
   },
   {
    "key": "MKE_BRIM_SHELBY_632182",
@@ -43,7 +87,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792956449,
-   "photo": null
+   "photo": "photos/MKE_BRIM_SHELBY_632182.jpg"
   },
   {
    "key": "MAR_ELSON_JAMMIE_2026-10-25",
@@ -277,39 +321,6 @@
    "photo": "photos/MKE_PEAVY_AYDEN_647970.jpg"
   },
   {
-   "key": "MKE_NATALOLIQUE_MANUEL_647969",
-   "name": "Manuel A Natal-Olique",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792936855,
-   "photo": "photos/MKE_NATALOLIQUE_MANUEL_647969.jpg"
-  },
-  {
-   "key": "MKE_GRANT_WYMAN_642771",
-   "name": "Wyman E Grant",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792936853,
-   "photo": "photos/MKE_GRANT_WYMAN_642771.jpg"
-  },
-  {
-   "key": "MKE_DUNN_CHRISSHAWN_647971",
-   "name": "Chrisshawn Z Dunn",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792936851,
-   "photo": "photos/MKE_DUNN_CHRISSHAWN_647971.jpg"
-  },
-  {
    "key": "FDL_WEONG_ERIES_2026-10-25",
    "name": "Eries Weong",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792887429,
    "photo": "photos/FDL_TRELEVEN_JAMES_2026-10-24.jpg"
-  },
-  {
-   "key": "BURKHART_CHRISTOPHER_2026-10-24",
-   "name": "Christopher S Burkhart",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Credit Card-Fraudulent Use <=$2,500",
-   "more": 2,
-   "ts": 1792884996,
-   "photo": null
   }
  ]
 }
