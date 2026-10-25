@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-25T11:49:43+00:00",
+ "updated": "2026-10-25T12:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_SIMMONS_ALBERT_339665",
+   "name": "Albert Simmons",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792931448,
+   "photo": null
+  },
+  {
+   "key": "MKE_KEEN_KENNETH_220152",
+   "name": "Kenneth James Keen",
+   "age": "57",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792931446,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARCIASANCHEZ_RUDI_647968",
+   "name": "Rudi Garcia- Sanchez",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792931445,
+   "photo": null
+  },
   {
    "key": "MKE_THOMAS_NICOLE_390333",
    "name": "Nicole M Thomas",
@@ -32,7 +65,7 @@
    "charge": "",
    "more": 0,
    "ts": 1792926056,
-   "photo": null
+   "photo": "photos/MKE_GONZALEZ_RIGOBERTO_647966.jpg"
   },
   {
    "key": "MKE_CROWE_HARMON_647965",
@@ -54,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1792926052,
-   "photo": null
+   "photo": "photos/MKE_ARENDT_PETER_241087.jpg"
   },
   {
    "key": "STOECKLY_JACOB_2026-10-25",
@@ -153,7 +186,7 @@
    "charge": "Pedestrian/Bike/Moped on Expressway/Prohibited",
    "more": 0,
    "ts": 1792917938,
-   "photo": null
+   "photo": "photos/MKE_WALLACE_TAMIKA_647962.jpg"
   },
   {
    "key": "MKE_CIESLEWICZ_JOHN_316982",
@@ -222,28 +255,6 @@
    "photo": "photos/FDL_PAGE_RANDY_2026-10-25.jpg"
   },
   {
-   "key": "MKE_CASTRO_MIGDALIA_647961",
-   "name": "Migdalia C Castro",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792912544,
-   "photo": "photos/MKE_CASTRO_MIGDALIA_647961.jpg"
-  },
-  {
-   "key": "KEN_BENITEZLOPEZ_KARINA_2026-00005906",
-   "name": "Karina Ruby Benitez-Lopez",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1792911979,
-   "photo": "photos/KEN_BENITEZLOPEZ_KARINA_2026-00005906.jpg"
-  },
-  {
    "key": "LEDET_DESMOND_2026-10-25",
    "name": "Desmond I Ledet",
    "age": "31",
@@ -252,17 +263,6 @@
    "charge": "Battery",
    "more": 2,
    "ts": 1792911103,
-   "photo": null
-  },
-  {
-   "key": "KEN_JORGENSEN_MARK_2026-00005905",
-   "name": "Mark Allen Jorgensen",
-   "age": "50",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1792910207,
    "photo": null
   },
   {
