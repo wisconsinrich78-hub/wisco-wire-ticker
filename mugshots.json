@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-25T15:49:29+00:00",
+ "updated": "2026-10-25T16:49:28+00:00",
  "items": [
+  {
+   "key": "WENZEL_LUKE_2026-10-25",
+   "name": "Luke G Wenzel",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1792946677,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILKS_DEVONTE_526206",
+   "name": "Devonte Delmontry Wilks",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 2,
+   "ts": 1792944954,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_JAWAAN_420550",
+   "name": "Jawaan R Jones",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1792944951,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_ZYAIREA_647972",
+   "name": "Zyairea K Brown",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792944949,
+   "photo": null
+  },
+  {
+   "key": "MAR_BYARS_RALPH_2026-10-24",
+   "name": "Ralph Eugene Byars",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1792943496,
+   "photo": "photos/MAR_BYARS_RALPH_2026-10-24.jpg"
+  },
+  {
+   "key": "MAR_VANG_JOHN_2026-10-24",
+   "name": "John Vang",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792943460,
+   "photo": "photos/MAR_VANG_JOHN_2026-10-24.jpg"
+  },
+  {
+   "key": "MAR_LEE_JOHN_2026-10-24",
+   "name": "John Lee",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Threaten To Cause Bodily Harm",
+   "more": 3,
+   "ts": 1792943421,
+   "photo": "photos/MAR_LEE_JOHN_2026-10-24.jpg"
+  },
   {
    "key": "RC_FIGUEROA_SUMMER_120011075591677",
    "name": "Summer L Figueroa",
@@ -76,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792936853,
-   "photo": null
+   "photo": "photos/MKE_GRANT_WYMAN_642771.jpg"
   },
   {
    "key": "MKE_DUNN_CHRISSHAWN_647971",
@@ -154,39 +231,6 @@
    "more": 0,
    "ts": 1792928739,
    "photo": "photos/MKE_ROMOJUAREZ_JUAN_647967.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZ_RIGOBERTO_647966",
-   "name": "Rigoberto C Gonzalez",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792926056,
-   "photo": "photos/MKE_GONZALEZ_RIGOBERTO_647966.jpg"
-  },
-  {
-   "key": "MKE_CROWE_HARMON_647965",
-   "name": "Harmon S Crowe",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792926054,
-   "photo": "photos/MKE_CROWE_HARMON_647965.jpg"
-  },
-  {
-   "key": "MKE_ARENDT_PETER_241087",
-   "name": "Peter Mark Arendt",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792926052,
-   "photo": "photos/MKE_ARENDT_PETER_241087.jpg"
   },
   {
    "key": "STOECKLY_JACOB_2026-10-25",
@@ -482,50 +526,6 @@
    "region": "northwest",
    "charge": "Disorderly Conduct",
    "more": 1,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_WARNER_MELANIE_2026-10-21",
-   "name": "Melanie Marie Warner",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operate Vehicle W/O Owner Consent - Abandon/Fail Return <48 Hrs",
-   "more": 1,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_JOHNSON_BENJAMIN_2026-10-21",
-   "name": "Benjamin Andrew Johnson",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1St Degree Sex Assault Of Child - Intercourse With Person <12",
-   "more": 3,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_ROGERS_CHARLES_2026-10-21",
-   "name": "Charles James Rogers",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1792857344,
-   "photo": null
-  },
-  {
-   "key": "MAR_SLACK_CHRISTY_2026-10-21",
-   "name": "Christy Ann Slack",
-   "age": "54",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
    "ts": 1792857344,
    "photo": null
   }
