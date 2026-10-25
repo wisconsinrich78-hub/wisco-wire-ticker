@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-25T04:49:26+00:00",
+ "updated": "2026-10-25T05:49:27+00:00",
  "items": [
+  {
+   "key": "DOU_GAYKEN_ADAM_2026-10-24",
+   "name": "Adam R Gayken",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1792905447,
+   "photo": null
+  },
+  {
+   "key": "KEN_RUCKER_KEMARION_2026-00005902",
+   "name": "Kemarion Orthello Rucker",
+   "age": "19",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1792904722,
+   "photo": null
+  },
+  {
+   "key": "MKE_AMBROSE_DEVONTE_410549",
+   "name": "Devonte R Ambrose",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1792904446,
+   "photo": null
+  },
   {
    "key": "MKE_GUAJARDO_KRISTINA_647960",
    "name": "Kristina D Guajardo",
@@ -10,7 +43,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792901739,
-   "photo": null
+   "photo": "photos/MKE_GUAJARDO_KRISTINA_647960.jpg"
   },
   {
    "key": "RC_CARTER_DIANNE_120011075585420",
@@ -54,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792899046,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_CHRISTAL_647959.jpg"
   },
   {
    "key": "MKE_PILLIGOR_BONNILYNN_600916",
@@ -65,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792899044,
-   "photo": null
+   "photo": "photos/MKE_PILLIGOR_BONNILYNN_600916.jpg"
   },
   {
    "key": "MKE_FLINN_DECTOR_387831",
@@ -76,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1792899043,
-   "photo": null
+   "photo": "photos/MKE_FLINN_DECTOR_387831.jpg"
   },
   {
    "key": "DOU_SMITH_MARIA_2026-10-24",
@@ -178,17 +211,6 @@
    "photo": "photos/MKE_JACKSON_CHARVAE_647956.jpg"
   },
   {
-   "key": "KEN_CARVER_CRAIG_2026-00005898",
-   "name": "Craig R Carver",
-   "age": "52",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Marijuana (Thc)",
-   "more": 1,
-   "ts": 1792889436,
-   "photo": null
-  },
-  {
    "key": "FDL_TRELEVEN_JAMES_2026-10-24",
    "name": "James Russel Treleven",
    "age": "",
@@ -208,17 +230,6 @@
    "charge": "Credit Card-Fraudulent Use <=$2,500",
    "more": 2,
    "ts": 1792884996,
-   "photo": null
-  },
-  {
-   "key": "MKE_WARD_ALLEN_631181",
-   "name": "Allen R Ward",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1792882845,
    "photo": null
   },
   {
@@ -416,17 +427,6 @@
    "region": "northwest",
    "charge": "Operating While under Influence (1st)",
    "more": 2,
-   "ts": 1792856124,
-   "photo": null
-  },
-  {
-   "key": "MAR_HUOTARI_SETH_2026-10-24",
-   "name": "Seth Michael Huotari",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Hold",
-   "more": 0,
    "ts": 1792856124,
    "photo": null
   },
