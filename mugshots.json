@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-25T22:49:28+00:00",
+ "updated": "2026-10-25T23:49:25+00:00",
  "items": [
+  {
+   "key": "RC_PINKTON_CAMOREN_120011075599333",
+   "name": "Camoren Pinkton",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792972079,
+   "photo": null
+  },
+  {
+   "key": "RC_KIEL_CADE_120011075599355",
+   "name": "Cade Kiel",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792972074,
+   "photo": "photos/RC_KIEL_CADE_120011075599355.jpg"
+  },
+  {
+   "key": "FDL_GARCIA_BRETT_2026-10-25",
+   "name": "Brett Allen Garcia",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1792970179,
+   "photo": null
+  },
+  {
+   "key": "KOSKI_KENDALL_2026-10-25",
+   "name": "Kendall C Koski",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792969033,
+   "photo": null
+  },
+  {
+   "key": "MAR_LUTHER_ISAAC_2026-10-25",
+   "name": "Isaac Robert Luther",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792968957,
+   "photo": "photos/MAR_LUTHER_ISAAC_2026-10-25.jpg"
+  },
+  {
+   "key": "KEN_MUNOZ_LUIS_2026-00005915",
+   "name": "Luis A Munoz",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792968902,
+   "photo": "photos/KEN_MUNOZ_LUIS_2026-00005915.jpg"
+  },
   {
    "key": "MKE_RANGELALMEIDA_AGUSTIN_647975",
    "name": "Agustin Leonardo Rangel Almeida",
@@ -10,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792967254,
-   "photo": null
+   "photo": "photos/MKE_RANGELALMEIDA_AGUSTIN_647975.jpg"
   },
   {
    "key": "MKE_OBI_GEORGE_647974",
@@ -288,39 +354,6 @@
    "photo": "photos/KEN_TABOR_EDWARD_2026-00005910.jpg"
   },
   {
-   "key": "KEN_STACHURA_ANNMARIE_2026-00005909",
-   "name": "Ann-Marie Rose Stachura",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Cocaine/Coca",
-   "more": 1,
-   "ts": 1792939101,
-   "photo": "photos/KEN_STACHURA_ANNMARIE_2026-00005909.jpg"
-  },
-  {
-   "key": "KEN_BRYAN_DEMITRIUS_2026-00005911",
-   "name": "Demitrius Derrick Bryan",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 3,
-   "ts": 1792938978,
-   "photo": "photos/KEN_BRYAN_DEMITRIUS_2026-00005911.jpg"
-  },
-  {
-   "key": "MKE_PEAVY_AYDEN_647970",
-   "name": "Ayden J Peavy",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792936856,
-   "photo": "photos/MKE_PEAVY_AYDEN_647970.jpg"
-  },
-  {
    "key": "FDL_WEONG_ERIES_2026-10-25",
    "name": "Eries Weong",
    "age": "",
@@ -495,39 +528,6 @@
    "more": 1,
    "ts": 1792905447,
    "photo": null
-  },
-  {
-   "key": "DOU_SMITH_MARIA_2026-10-24",
-   "name": "Maria R Smith",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 6,
-   "ts": 1792898251,
-   "photo": "photos/DOU_SMITH_MARIA_2026-10-24.jpg"
-  },
-  {
-   "key": "FDL_THULL_BRYCE_2026-10-24",
-   "name": "Bryce Alexander Thull",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792898239,
-   "photo": "photos/FDL_THULL_BRYCE_2026-10-24.jpg"
-  },
-  {
-   "key": "FDL_TRELEVEN_JAMES_2026-10-24",
-   "name": "James Russel Treleven",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Failure To Appear / Warrants",
-   "more": 0,
-   "ts": 1792887429,
-   "photo": "photos/FDL_TRELEVEN_JAMES_2026-10-24.jpg"
   }
  ]
 }
