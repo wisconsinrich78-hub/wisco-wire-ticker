@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T23:49:26+00:00",
+ "updated": "2026-10-25T00:49:28+00:00",
  "items": [
+  {
+   "key": "FDL_TRELEVEN_JAMES_2026-10-24",
+   "name": "James Russel Treleven",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 0,
+   "ts": 1792887429,
+   "photo": "photos/FDL_TRELEVEN_JAMES_2026-10-24.jpg"
+  },
   {
    "key": "BURKHART_CHRISTOPHER_2026-10-24",
    "name": "Christopher S Burkhart",
@@ -54,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1792882839,
-   "photo": null
+   "photo": "photos/MKE_COLEMAN_MARVEL_618553.jpg"
   },
   {
    "key": "MKE_WILSON_SAMUEL_634345",
@@ -109,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 7,
    "ts": 1792877450,
-   "photo": null
+   "photo": "photos/MKE_CHANEY_TRACEY_268786.jpg"
   },
   {
    "key": "FDL_STEWART_PRINCE_2026-10-24",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792822587,
    "photo": "photos/FDL_CORNELL_JAMES_2026-10-24.jpg"
-  },
-  {
-   "key": "FDL_SMITH_CHRISTIAN_2026-10-23",
-   "name": "Christian M-R Smith",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1792811893,
-   "photo": "photos/FDL_SMITH_CHRISTIAN_2026-10-23.jpg"
   }
  ]
 }
