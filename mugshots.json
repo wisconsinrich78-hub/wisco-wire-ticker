@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-26T17:49:32+00:00",
+ "updated": "2026-10-26T18:49:32+00:00",
  "items": [
+  {
+   "key": "RC_DAVIS_AKEEMA_120011075625323",
+   "name": "Akeema Davis",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793040474,
+   "photo": null
+  },
+  {
+   "key": "MKE_MASON_VARNER_247513",
+   "name": "Varner Troy Mason",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793037454,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_AARON_278816",
+   "name": "Aaron ANTIONE Lewis",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793037451,
+   "photo": null
+  },
+  {
+   "key": "MKE_KEYS_MARTRELL_633012",
+   "name": "Martrell T Keys",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793037449,
+   "photo": null
+  },
+  {
+   "key": "MAR_HER_MICHAEL_2026-10-26",
+   "name": "Michael Her",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 4,
+   "ts": 1793037355,
+   "photo": "photos/MAR_HER_MICHAEL_2026-10-26.jpg"
+  },
   {
    "key": "RC_HAYNES_HERMAN_120011075624177",
    "name": "Herman Randell Haynes",
@@ -117,7 +172,7 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out Of County",
    "more": 0,
    "ts": 1793030091,
    "photo": "photos/KEN_PARKER_CHRISTOPHER_2026-00005928.jpg"
@@ -208,51 +263,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793021271,
-   "photo": null
-  },
-  {
-   "key": "MKE_BUIE_DARLENE_274876",
-   "name": "Darlene Nee Buie",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793021269,
-   "photo": "photos/MKE_BUIE_DARLENE_274876.jpg"
-  },
-  {
-   "key": "MKE_WASHINGTON_MAURICE_228639",
-   "name": "Maurice Pernell Washington",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793019467,
-   "photo": "photos/MKE_WASHINGTON_MAURICE_228639.jpg"
-  },
-  {
-   "key": "MKE_SMITH_DETARIS_390203",
-   "name": "Detaris Devontae Smith",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 13,
-   "ts": 1793019465,
-   "photo": "photos/MKE_SMITH_DETARIS_390203.jpg"
-  },
-  {
-   "key": "MKE_SMITH_DALLAS_349914",
-   "name": "Dallas Deandre Smith",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1793019462,
-   "photo": "photos/MKE_SMITH_DALLAS_349914.jpg"
+   "photo": "photos/MKE_EVANS_ADREYONNA_647984.jpg"
   },
   {
    "key": "MAR_LEMMA_TYLER_2026-10-24",
@@ -451,17 +462,6 @@
    "more": 1,
    "ts": 1792961753,
    "photo": null
-  },
-  {
-   "key": "MAR_ELSON_JAMMIE_2026-10-25",
-   "name": "Jammie Lee Elson",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792954593,
-   "photo": "photos/MAR_ELSON_JAMMIE_2026-10-25.jpg"
   },
   {
    "key": "FDL_RUIZFLORES_JOSE_2026-10-25",
