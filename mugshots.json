@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-26T20:49:26+00:00",
+ "updated": "2026-10-26T21:49:26+00:00",
  "items": [
+  {
+   "key": "RC_HANSON_ARON_120011075631671",
+   "name": "Aron Leif Hanson",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793051290,
+   "photo": "photos/RC_HANSON_ARON_120011075631671.jpg"
+  },
+  {
+   "key": "RC_ADAMS_MARCELL_120011075631106",
+   "name": "Marcell Devontae Adams",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793051286,
+   "photo": "photos/RC_ADAMS_MARCELL_120011075631106.jpg"
+  },
+  {
+   "key": "DOU_HEMMER_DAVID_2026-10-26",
+   "name": "David R Hemmer",
+   "age": "26",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793049462,
+   "photo": null
+  },
+  {
+   "key": "FDL_SHUFF_BRENT_2026-10-26",
+   "name": "Brent R Shuff",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1793049420,
+   "photo": "photos/FDL_SHUFF_BRENT_2026-10-26.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_SHAWN_634969",
+   "name": "Shawn Lerell Williams",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 5,
+   "ts": 1793048262,
+   "photo": null
+  },
+  {
+   "key": "MKE_POWELL_JABARI_623647",
+   "name": "Jabari Danya Powell",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 3,
+   "ts": 1793048260,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_DEMETRIUS_374040",
+   "name": "Demetrius Darcus Johnson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 3,
+   "ts": 1793048258,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOMEZ_NORITA_647989",
+   "name": "Norita Ashley Gomez",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793048256,
+   "photo": null
+  },
+  {
+   "key": "MKE_COUSINS_KAMONZE_2060772",
+   "name": "Kamonze Rasheed Cousins",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
+   "more": 16,
+   "ts": 1793048254,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIA_MIGUEL_2026-00005930",
+   "name": "Miguel Angel Garcia",
+   "age": "19",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793048079,
+   "photo": "photos/KEN_GARCIA_MIGUEL_2026-00005930.jpg"
+  },
   {
    "key": "RC_WADE_DAMARIUS_120011075630126",
    "name": "Damarius Wade",
@@ -167,50 +277,6 @@
    "photo": "photos/MAR_LUBECKE_MITCH_2026-10-26_330304.jpg"
   },
   {
-   "key": "RC_DAVIS_AKEEMA_120011075625323",
-   "name": "Akeema Davis",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take - (<=$500)(UCR <$50)",
-   "more": 1,
-   "ts": 1793040474,
-   "photo": null
-  },
-  {
-   "key": "MKE_MASON_VARNER_247513",
-   "name": "Varner Troy Mason",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793037454,
-   "photo": null
-  },
-  {
-   "key": "MKE_LEWIS_AARON_278816",
-   "name": "Aaron ANTIONE Lewis",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793037451,
-   "photo": null
-  },
-  {
-   "key": "MKE_KEYS_MARTRELL_633012",
-   "name": "Martrell T Keys",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793037449,
-   "photo": null
-  },
-  {
    "key": "MAR_HER_MICHAEL_2026-10-26",
    "name": "Michael Her",
    "age": "31",
@@ -220,50 +286,6 @@
    "more": 4,
    "ts": 1793037355,
    "photo": "photos/MAR_HER_MICHAEL_2026-10-26.jpg"
-  },
-  {
-   "key": "RC_HAYNES_HERMAN_120011075624177",
-   "name": "Herman Randell Haynes",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793036870,
-   "photo": "photos/RC_HAYNES_HERMAN_120011075624177.jpg"
-  },
-  {
-   "key": "MKE_SCHUETT_KELLY_647985",
-   "name": "Kelly Schuett",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793035659,
-   "photo": "photos/MKE_SCHUETT_KELLY_647985.jpg"
-  },
-  {
-   "key": "MKE_MCGREW_JAREZ_647987",
-   "name": "Jarez D Mcgrew",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793035657,
-   "photo": null
-  },
-  {
-   "key": "MKE_HENRY_KAMARI_647988",
-   "name": "Kamari M Henry",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793035655,
-   "photo": null
   },
   {
    "key": "MAR_THOMAS_QUINCY_2026-10-26",
@@ -420,17 +442,6 @@
    "photo": "photos/MAR_BROWN_DONTAY_2026-10-25.jpg"
   },
   {
-   "key": "DOU_MACHEN_PARIS_2026-10-25",
-   "name": "Paris S Machen",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792988871,
-   "photo": null
-  },
-  {
    "key": "FDL_SCHUH_DESTIN_2026-10-25",
    "name": "Destin Jo Schuh",
    "age": "",
@@ -516,17 +527,6 @@
    "charge": "TRANSPORT - REVOCATION ORDER (x0)",
    "more": 0,
    "ts": 1792948603,
-   "photo": null
-  },
-  {
-   "key": "FDL_ALCUDIACALCANEO_JESUS_2026-10-25",
-   "name": "Jesus Del Alcudia Calcaneo",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine",
-   "more": 1,
-   "ts": 1792948558,
    "photo": null
   }
  ]
