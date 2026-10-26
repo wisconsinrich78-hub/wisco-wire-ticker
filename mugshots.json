@@ -1,14 +1,58 @@
 {
- "updated": "2026-10-26T01:49:52+00:00",
+ "updated": "2026-10-26T02:49:27+00:00",
  "items": [
+  {
+   "key": "RC_NAVARRO_ELSARIS_120011075603129",
+   "name": "Elsaris Janet Navarro",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792982884,
+   "photo": null
+  },
+  {
+   "key": "FDL_WESTRA_RUEBEN_2026-10-25",
+   "name": "Rueben Daniel Westra",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792981027,
+   "photo": "photos/FDL_WESTRA_RUEBEN_2026-10-25.jpg"
+  },
+  {
+   "key": "KEN_MARTINEZ_DAVID_2026-00005919",
+   "name": "DAVID J Junior MARTINEZ",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792979816,
+   "photo": "photos/KEN_MARTINEZ_DAVID_2026-00005919.jpg"
+  },
+  {
+   "key": "MAR_KRZMARCIK_JEFFREY_2026-10-25_7145701",
+   "name": "Jeffrey Robert Krzmarcik",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 2,
+   "ts": 1792979755,
+   "photo": "photos/MAR_KRZMARCIK_JEFFREY_2026-10-25_7145701.jpg"
+  },
   {
    "key": "RC_TENORT_GUYWUAN_120011075601805",
    "name": "Guywuan Gyzieke Tenort",
    "age": "36",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Retail Theft - Alter Price - (<=$500)",
+   "more": 7,
    "ts": 1792979289,
    "photo": "photos/RC_TENORT_GUYWUAN_120011075601805.jpg"
   },
@@ -29,7 +73,7 @@
    "age": "17",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1792978065,
    "photo": null
@@ -65,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 8,
    "ts": 1792976254,
-   "photo": null
+   "photo": "photos/MKE_MELTON_TEVIN_637484.jpg"
   },
   {
    "key": "MKE_FELICIANOCOLON_JOEL_2065669",
@@ -76,7 +120,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 4,
    "ts": 1792976252,
-   "photo": null
+   "photo": "photos/MKE_FELICIANOCOLON_JOEL_2065669.jpg"
   },
   {
    "key": "KEN_REYESSANTIAGO_CARLOS_2026-00005917",
@@ -117,7 +161,7 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Neglecting A Child (Specified Harm Did Not Occur)",
    "more": 0,
    "ts": 1792972492,
    "photo": "photos/KEN_DOWELL_DOMONIC_2026-00005916.jpg"
@@ -220,28 +264,6 @@
    "more": 1,
    "ts": 1792965347,
    "photo": "photos/MAR_JOSEPH_RICHARD_2026-10-25_16999901.jpg"
-  },
-  {
-   "key": "KEN_ESPINOSA_CHRYSTAL_2026-00005914",
-   "name": "Chrystal Gayle Espinosa",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792965256,
-   "photo": "photos/KEN_ESPINOSA_CHRYSTAL_2026-00005914.jpg"
-  },
-  {
-   "key": "MKE_MOFFETT_TAMARIA_621490",
-   "name": "Tamaria N Moffett",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792961866,
-   "photo": "photos/MKE_MOFFETT_TAMARIA_621490.jpg"
   },
   {
    "key": "MAR_JOSEPH_RICHARD_2026-10-25",
@@ -506,28 +528,6 @@
    "more": 3,
    "ts": 1792908980,
    "photo": "photos/DOU_ROYLE_SCIPIO_2026-09-29.jpg"
-  },
-  {
-   "key": "DOU_ZIEGLER_WILLIAM_2026-10-15",
-   "name": "William J Ziegler",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792908977,
-   "photo": "photos/DOU_ZIEGLER_WILLIAM_2026-10-15.jpg"
-  },
-  {
-   "key": "DOU_BOSTIC_ANTONIO_2026-10-25",
-   "name": "Antonio D Bostic",
-   "age": "36",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1792908973,
-   "photo": null
   }
  ]
 }
