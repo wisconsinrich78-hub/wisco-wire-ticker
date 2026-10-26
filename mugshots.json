@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-26T14:49:28+00:00",
+ "updated": "2026-10-26T15:49:31+00:00",
  "items": [
+  {
+   "key": "RC_VITLAS_JEFFERY_120011075617859",
+   "name": "Jeffery Raymond Vitlas",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793029685,
+   "photo": "photos/RC_VITLAS_JEFFERY_120011075617859.jpg"
+  },
+  {
+   "key": "RC_JORGENSEN_MARK_120011075617150",
+   "name": "Mark Allen Jorgensen",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793029682,
+   "photo": "photos/RC_JORGENSEN_MARK_120011075617150.jpg"
+  },
+  {
+   "key": "LOKEN_ESSENCE_2026-10-26",
+   "name": "Essence A Loken",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1793029628,
+   "photo": null
+  },
+  {
+   "key": "MAR_LUBECKE_MITCH_2026-10-26",
+   "name": "Mitch Daniel Lubecke",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 3,
+   "ts": 1793026552,
+   "photo": "photos/MAR_LUBECKE_MITCH_2026-10-26.jpg"
+  },
+  {
+   "key": "KEN_TETZLAFF_KAYLA_2026-00005926",
+   "name": "Kayla Tetzlaff",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793026433,
+   "photo": null
+  },
   {
    "key": "GUERRA_MALIK_2026-10-26",
    "name": "Malik M Guerra",
@@ -98,7 +153,7 @@
    "charge": "Knowingly Violate a Domestic Abuse Order - Injunction",
    "more": 5,
    "ts": 1793019459,
-   "photo": null
+   "photo": "photos/MKE_LASSITER_VERONICA_362745.jpg"
   },
   {
    "key": "MAR_LEMMA_TYLER_2026-10-24",
@@ -164,7 +219,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793014058,
-   "photo": null
+   "photo": "photos/MKE_KEEPERS_JERMERE_647983.jpg"
   },
   {
    "key": "KEN_SANSONBEDOLLA_OSVALDO_2026-00005922",
@@ -187,28 +242,6 @@
    "more": 0,
    "ts": 1793012190,
    "photo": "photos/KEN_DAVIES_CHARLES_2026-00005923.jpg"
-  },
-  {
-   "key": "MKE_WHITE_STEVEN_321681",
-   "name": "Steven Michael White",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793010444,
-   "photo": "photos/MKE_WHITE_STEVEN_321681.jpg"
-  },
-  {
-   "key": "MKE_RINCON_JONATHAN_643596",
-   "name": "Jonathan Rincon",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793008652,
-   "photo": "photos/MKE_RINCON_JONATHAN_643596.jpg"
   },
   {
    "key": "TREM_MENDEZPEREZ_FREDY_4984",
@@ -242,17 +275,6 @@
    "more": 1,
    "ts": 1793006237,
    "photo": "photos/DOU_STRONG_KARMA_2026-10-25.jpg"
-  },
-  {
-   "key": "MKE_KINGSBOROUGH_JONATHAN_647982",
-   "name": "Jonathan L Kingsborough",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793005058,
-   "photo": "photos/MKE_KINGSBOROUGH_JONATHAN_647982.jpg"
   },
   {
    "key": "MAR_BROWN_DONTAY_2026-10-25_15177203",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792943460,
    "photo": "photos/MAR_VANG_JOHN_2026-10-24.jpg"
-  },
-  {
-   "key": "MAR_LEE_JOHN_2026-10-24",
-   "name": "John Lee",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Threaten To Cause Bodily Harm",
-   "more": 3,
-   "ts": 1792943421,
-   "photo": "photos/MAR_LEE_JOHN_2026-10-24.jpg"
-  },
-  {
-   "key": "FDL_WEONG_ERIES_2026-10-25",
-   "name": "Eries Weong",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "72 Hr Contact Prohibition (Domestic) No Drugs Or Alc",
-   "more": 2,
-   "ts": 1792934286,
-   "photo": null
   }
  ]
 }
