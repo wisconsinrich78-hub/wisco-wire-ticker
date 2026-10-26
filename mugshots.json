@@ -1,13 +1,35 @@
 {
- "updated": "2026-10-26T05:49:26+00:00",
+ "updated": "2026-10-26T06:49:27+00:00",
  "items": [
+  {
+   "key": "RC_COLLINS_JORDAN_120011075606646",
+   "name": "Jordan Laquarius Collins",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792997269,
+   "photo": "photos/RC_COLLINS_JORDAN_120011075606646.jpg"
+  },
+  {
+   "key": "MKE_JONES_DENZEL_647978",
+   "name": "Denzel M Jones",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1792994254,
+   "photo": null
+  },
   {
    "key": "RC_MCCLINTON_WILLIE_120011075605509",
    "name": "Willie I Mcclinton",
    "age": "38",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1792993677,
    "photo": null
@@ -40,7 +62,7 @@
    "age": "22",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
    "more": 0,
    "ts": 1792990083,
    "photo": null
@@ -76,7 +98,7 @@
    "charge": "Possession of Methamphetamine",
    "more": 3,
    "ts": 1792988850,
-   "photo": null
+   "photo": "photos/MKE_WHITE_EDDIE_535958.jpg"
   },
   {
    "key": "KEN_MORTENSEN_THOMAS_2026-00005918",
@@ -220,28 +242,6 @@
    "more": 0,
    "ts": 1792978046,
    "photo": null
-  },
-  {
-   "key": "MKE_MELTON_TEVIN_637484",
-   "name": "Tevin Rashad Melton",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1792976254,
-   "photo": "photos/MKE_MELTON_TEVIN_637484.jpg"
-  },
-  {
-   "key": "MKE_FELICIANOCOLON_JOEL_2065669",
-   "name": "Joel Amill Feliciano-Colon",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 4,
-   "ts": 1792976252,
-   "photo": "photos/MKE_FELICIANOCOLON_JOEL_2065669.jpg"
   },
   {
    "key": "MAR_KRZMARCIK_JEFFREY_2026-10-25",
