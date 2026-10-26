@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-26T02:49:27+00:00",
+ "updated": "2026-10-26T03:49:28+00:00",
  "items": [
+  {
+   "key": "RC_RILEY_WALINDA_120011075603789",
+   "name": "Walinda Riley",
+   "age": "58",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Misdemeanor Battery",
+   "more": 1,
+   "ts": 1792986478,
+   "photo": null
+  },
+  {
+   "key": "FDL_SCHUH_DESTIN_2026-10-25",
+   "name": "Destin Jo Schuh",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792984622,
+   "photo": "photos/FDL_SCHUH_DESTIN_2026-10-25.jpg"
+  },
+  {
+   "key": "MKE_RODGERS_MICHAEL_257640",
+   "name": "Michael Lavelle Rodgers",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Trespass-Buildings/Premises",
+   "more": 1,
+   "ts": 1792983444,
+   "photo": null
+  },
   {
    "key": "RC_NAVARRO_ELSARIS_120011075603129",
    "name": "Elsaris Janet Navarro",
@@ -128,7 +161,7 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1792976210,
    "photo": "photos/KEN_REYESSANTIAGO_CARLOS_2026-00005917.jpg"
@@ -231,28 +264,6 @@
    "more": 4,
    "ts": 1792968902,
    "photo": "photos/KEN_MUNOZ_LUIS_2026-00005915.jpg"
-  },
-  {
-   "key": "MKE_RANGELALMEIDA_AGUSTIN_647975",
-   "name": "Agustin Leonardo Rangel Almeida",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792967254,
-   "photo": "photos/MKE_RANGELALMEIDA_AGUSTIN_647975.jpg"
-  },
-  {
-   "key": "MKE_OBI_GEORGE_647974",
-   "name": "George Okechukwu Obi",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792965452,
-   "photo": "photos/MKE_OBI_GEORGE_647974.jpg"
   },
   {
    "key": "MAR_JOSEPH_RICHARD_2026-10-25_16999901",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792908982,
    "photo": "photos/DOU_POULIOT_RYAN_2026-09-09.jpg"
-  },
-  {
-   "key": "DOU_ROYLE_SCIPIO_2026-09-29",
-   "name": "Scipio S Royle",
-   "age": "55",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1792908980,
-   "photo": "photos/DOU_ROYLE_SCIPIO_2026-09-29.jpg"
   }
  ]
 }
