@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-26T07:49:27+00:00",
+ "updated": "2026-10-26T08:49:26+00:00",
  "items": [
+  {
+   "key": "MKE_GILMORE_WALTER_647981",
+   "name": "Walter Gilmore",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793003252,
+   "photo": null
+  },
+  {
+   "key": "MKE_AUSTIN_CONSTANCE_257730",
+   "name": "Constance A Austin",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793003250,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_ERIC_378544",
    "name": "Eric Lacraig Williams",
@@ -8,7 +30,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Criminal Damage to Property",
-   "more": 5,
+   "more": 6,
    "ts": 1792999655,
    "photo": null
   },
@@ -200,17 +222,6 @@
    "photo": "photos/MKE_RODGERS_MICHAEL_257640.jpg"
   },
   {
-   "key": "RC_NAVARRO_ELSARIS_120011075603129",
-   "name": "Elsaris Janet Navarro",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1792982884,
-   "photo": null
-  },
-  {
    "key": "FDL_WESTRA_RUEBEN_2026-10-25",
    "name": "Rueben Daniel Westra",
    "age": "",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1792981027,
    "photo": "photos/FDL_WESTRA_RUEBEN_2026-10-25.jpg"
-  },
-  {
-   "key": "KEN_MARTINEZ_DAVID_2026-00005919",
-   "name": "DAVID J Junior MARTINEZ",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1792979816,
-   "photo": "photos/KEN_MARTINEZ_DAVID_2026-00005919.jpg"
   },
   {
    "key": "MAR_KRZMARCIK_JEFFREY_2026-10-25_7145701",
