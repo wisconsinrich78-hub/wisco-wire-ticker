@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-26T00:49:26+00:00",
+ "updated": "2026-10-26T01:49:52+00:00",
  "items": [
+  {
+   "key": "RC_TENORT_GUYWUAN_120011075601805",
+   "name": "Guywuan Gyzieke Tenort",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792979289,
+   "photo": "photos/RC_TENORT_GUYWUAN_120011075601805.jpg"
+  },
+  {
+   "key": "RC_PINKTON_CAMAREN_120011075599333",
+   "name": "Camaren J Pinkton",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792979286,
+   "photo": "photos/RC_PINKTON_CAMAREN_120011075599333.jpg"
+  },
+  {
+   "key": "MKE_ROYCE_ANTHONY_647977",
+   "name": "Anthony J Royce",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792978065,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRAY_NIGERIA_647976",
+   "name": "Nigeria S Gray",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1792978063,
+   "photo": null
+  },
+  {
+   "key": "THOMAS_MORRIS_2026-10-25",
+   "name": "Morris M Thomas",
+   "age": "65",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1792978046,
+   "photo": null
+  },
+  {
+   "key": "MKE_MELTON_TEVIN_637484",
+   "name": "Tevin Rashad Melton",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1792976254,
+   "photo": null
+  },
+  {
+   "key": "MKE_FELICIANOCOLON_JOEL_2065669",
+   "name": "Joel Amill Feliciano-Colon",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 4,
+   "ts": 1792976252,
+   "photo": null
+  },
+  {
+   "key": "KEN_REYESSANTIAGO_CARLOS_2026-00005917",
+   "name": "Carlos Eduardo Reyes-Santiago",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792976210,
+   "photo": "photos/KEN_REYESSANTIAGO_CARLOS_2026-00005917.jpg"
+  },
+  {
+   "key": "MAR_KRZMARCIK_JEFFREY_2026-10-25",
+   "name": "Jeffrey Robert Krzmarcik",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 2,
+   "ts": 1792976149,
+   "photo": null
+  },
   {
    "key": "RC_WILLIAMS_JUQUAN_120011075599471",
    "name": "Juquan Raphael Williams",
@@ -84,8 +183,8 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Non-Registration Of Vehicle",
+   "more": 4,
    "ts": 1792968902,
    "photo": "photos/KEN_MUNOZ_LUIS_2026-00005915.jpg"
   },
@@ -156,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JOHNSON_RACHARI_637231",
-   "name": "Rachari A Johnson",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792956450,
-   "photo": "photos/MKE_JOHNSON_RACHARI_637231.jpg"
-  },
-  {
-   "key": "MKE_BRIM_SHELBY_632182",
-   "name": "Shelby Deandre Brim",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792956449,
-   "photo": "photos/MKE_BRIM_SHELBY_632182.jpg"
-  },
-  {
    "key": "MAR_ELSON_JAMMIE_2026-10-25",
    "name": "Jammie Lee Elson",
    "age": "44",
@@ -209,28 +286,6 @@
    "more": 3,
    "ts": 1792952222,
    "photo": null
-  },
-  {
-   "key": "KEN_HUNTER_DEMARCUS_2026-00005912",
-   "name": "Demarcus Antonio Hunter",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 3,
-   "ts": 1792950905,
-   "photo": "photos/KEN_HUNTER_DEMARCUS_2026-00005912.jpg"
-  },
-  {
-   "key": "MKE_DIAZPINEDA_SILVIA_647973",
-   "name": "Silvia J Diaz-Pineda",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1792949253,
-   "photo": "photos/MKE_DIAZPINEDA_SILVIA_647973.jpg"
   },
   {
    "key": "FDL_TYLER_CHRISTOPHER_2026-10-25",
@@ -286,39 +341,6 @@
    "more": 0,
    "ts": 1792946677,
    "photo": null
-  },
-  {
-   "key": "MKE_WILKS_DEVONTE_526206",
-   "name": "Devonte Delmontry Wilks",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (1st Violation)",
-   "more": 2,
-   "ts": 1792944954,
-   "photo": "photos/MKE_WILKS_DEVONTE_526206.jpg"
-  },
-  {
-   "key": "MKE_JONES_JAWAAN_420550",
-   "name": "Jawaan R Jones",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1792944951,
-   "photo": "photos/MKE_JONES_JAWAAN_420550.jpg"
-  },
-  {
-   "key": "MKE_BROWN_ZYAIREA_647972",
-   "name": "Zyairea K Brown",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1792944949,
-   "photo": "photos/MKE_BROWN_ZYAIREA_647972.jpg"
   },
   {
    "key": "MAR_BYARS_RALPH_2026-10-24",
@@ -505,28 +527,6 @@
    "charge": "Charges:",
    "more": 3,
    "ts": 1792908973,
-   "photo": null
-  },
-  {
-   "key": "JONES_RYLEE_2026-10-25",
-   "name": "Rylee J Jones",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Carry Concealed Weapon",
-   "more": 3,
-   "ts": 1792907495,
-   "photo": null
-  },
-  {
-   "key": "DOU_GAYKEN_ADAM_2026-10-24",
-   "name": "Adam R Gayken",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1792905447,
    "photo": null
   }
  ]
