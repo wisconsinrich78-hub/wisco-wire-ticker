@@ -1,14 +1,146 @@
 {
- "updated": "2026-10-26T18:49:32+00:00",
+ "updated": "2026-10-26T19:49:32+00:00",
  "items": [
+  {
+   "key": "RC_MARTIN_ANTHONY_120011075626562",
+   "name": "Anthony Martin",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793044086,
+   "photo": "photos/RC_MARTIN_ANTHONY_120011075626562.jpg"
+  },
+  {
+   "key": "RC_JONES_JESSE_120011075626772",
+   "name": "Jesse Earl Jones",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793044083,
+   "photo": "photos/RC_JONES_JESSE_120011075626772.jpg"
+  },
+  {
+   "key": "RC_GRANDBERRY_LONNIE_120011075626623",
+   "name": "Lonnie L Grandberry",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793044080,
+   "photo": "photos/RC_GRANDBERRY_LONNIE_120011075626623.jpg"
+  },
+  {
+   "key": "RC_BYRD_SANAA_120011075627194",
+   "name": "Sanaa Byrd",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793044077,
+   "photo": "photos/RC_BYRD_SANAA_120011075627194.jpg"
+  },
+  {
+   "key": "STEVENS_URSULA_2026-10-26",
+   "name": "Ursula L Stevens",
+   "age": "65",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft-Intentionally Take >$2,500-$5,000",
+   "more": 0,
+   "ts": 1793044028,
+   "photo": null
+  },
+  {
+   "key": "FDL_SHUFF_JENNIFER_2026-10-26",
+   "name": "Jennifer Lynn Shuff",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793042217,
+   "photo": "photos/FDL_SHUFF_JENNIFER_2026-10-26.jpg"
+  },
+  {
+   "key": "MKE_MACK_ROBERT_366266",
+   "name": "Robert R Mack",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793041074,
+   "photo": "photos/MKE_MACK_ROBERT_366266.jpg"
+  },
+  {
+   "key": "MKE_JONES_CEDRIC_334851",
+   "name": "Cedric J Jones",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 8,
+   "ts": 1793041072,
+   "photo": null
+  },
+  {
+   "key": "MAR_GRAEF_NAINNE_2026-10-26_13109001",
+   "name": "Nainne Graef",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Misappropriate Id Info - Avoid Penalty",
+   "more": 2,
+   "ts": 1793041071,
+   "photo": "photos/MAR_GRAEF_NAINNE_2026-10-26_13109001.jpg"
+  },
+  {
+   "key": "MAR_PETERS_JESSE_2026-10-26",
+   "name": "Jesse A Peters",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793041033,
+   "photo": "photos/MAR_PETERS_JESSE_2026-10-26.jpg"
+  },
+  {
+   "key": "KEN_STEIN_ERIC_2026-00005929",
+   "name": "Eric Douglas Stein",
+   "age": "50",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 1,
+   "ts": 1793041008,
+   "photo": null
+  },
+  {
+   "key": "MAR_LUBECKE_MITCH_2026-10-26_330304",
+   "name": "Mitch Daniel Lubecke",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 3,
+   "ts": 1793040998,
+   "photo": "photos/MAR_LUBECKE_MITCH_2026-10-26_330304.jpg"
+  },
   {
    "key": "RC_DAVIS_AKEEMA_120011075625323",
    "name": "Akeema Davis",
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Retail Theft - Intentionally Take - (<=$500)(UCR <$50)",
+   "more": 1,
    "ts": 1793040474,
    "photo": null
   },
@@ -109,7 +241,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793035653,
-   "photo": null
+   "photo": "photos/MKE_GONZALESLEON_JUAN_647986.jpg"
   },
   {
    "key": "MAR_THOMAS_QUINCY_2026-10-26",
@@ -121,28 +253,6 @@
    "more": 4,
    "ts": 1793033739,
    "photo": "photos/MAR_THOMAS_QUINCY_2026-10-26.jpg"
-  },
-  {
-   "key": "RC_MCKEEVER_LONDIE_120011075620451",
-   "name": "Londie Iasia Mckeever",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793033284,
-   "photo": "photos/RC_MCKEEVER_LONDIE_120011075620451.jpg"
-  },
-  {
-   "key": "MKE_SMITH_VASHAWN_412059",
-   "name": "Vashawn Lamont Smith",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 5,
-   "ts": 1793032075,
-   "photo": null
   },
   {
    "key": "MAR_BYARS_RALPH_2026-10-24_13011609",
@@ -167,39 +277,6 @@
    "photo": "photos/MAR_FRALEY_DARREN_2026-10-26.jpg"
   },
   {
-   "key": "KEN_PARKER_CHRISTOPHER_2026-00005928",
-   "name": "Christopher James Parker",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1793030091,
-   "photo": "photos/KEN_PARKER_CHRISTOPHER_2026-00005928.jpg"
-  },
-  {
-   "key": "RC_VITLAS_JEFFERY_120011075617859",
-   "name": "Jeffery Raymond Vitlas",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793029685,
-   "photo": "photos/RC_VITLAS_JEFFERY_120011075617859.jpg"
-  },
-  {
-   "key": "RC_JORGENSEN_MARK_120011075617150",
-   "name": "Mark Allen Jorgensen",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
-   "more": 0,
-   "ts": 1793029682,
-   "photo": "photos/RC_JORGENSEN_MARK_120011075617150.jpg"
-  },
-  {
    "key": "LOKEN_ESSENCE_2026-10-26",
    "name": "Essence A Loken",
    "age": "30",
@@ -222,17 +299,6 @@
    "photo": "photos/MAR_LUBECKE_MITCH_2026-10-26.jpg"
   },
   {
-   "key": "KEN_TETZLAFF_KAYLA_2026-00005926",
-   "name": "Kayla Tetzlaff",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 1,
-   "ts": 1793026433,
-   "photo": null
-  },
-  {
    "key": "GUERRA_MALIK_2026-10-26",
    "name": "Malik M Guerra",
    "age": "20",
@@ -253,17 +319,6 @@
    "more": 0,
    "ts": 1793022429,
    "photo": null
-  },
-  {
-   "key": "MKE_EVANS_ADREYONNA_647984",
-   "name": "Adreyonna Evans",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793021271,
-   "photo": "photos/MKE_EVANS_ADREYONNA_647984.jpg"
   },
   {
    "key": "MAR_LEMMA_TYLER_2026-10-24",
@@ -431,39 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_LUTHER_ISAAC_2026-10-25",
-   "name": "Isaac Robert Luther",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792968957,
-   "photo": "photos/MAR_LUTHER_ISAAC_2026-10-25.jpg"
-  },
-  {
-   "key": "MAR_JOSEPH_RICHARD_2026-10-25_16999901",
-   "name": "Richard Charles Joseph",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 1,
-   "ts": 1792965347,
-   "photo": "photos/MAR_JOSEPH_RICHARD_2026-10-25_16999901.jpg"
-  },
-  {
-   "key": "MAR_JOSEPH_RICHARD_2026-10-25",
-   "name": "Richard Charles Joseph",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 1,
-   "ts": 1792961753,
-   "photo": null
-  },
-  {
    "key": "FDL_RUIZFLORES_JOSE_2026-10-25",
    "name": "Jose Felix Ruizflores",
    "age": "",
@@ -505,28 +527,6 @@
    "charge": "Possession Of Cocaine",
    "more": 1,
    "ts": 1792948558,
-   "photo": null
-  },
-  {
-   "key": "WARD_NATHAN_2026-10-25",
-   "name": "Nathan H Ward",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792947106,
-   "photo": "photos/WARD_NATHAN_2026-10-25.jpg"
-  },
-  {
-   "key": "WENZEL_LUKE_2026-10-25",
-   "name": "Luke G Wenzel",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1792946677,
    "photo": null
   }
  ]
