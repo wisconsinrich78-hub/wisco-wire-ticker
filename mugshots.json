@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-26T19:49:32+00:00",
+ "updated": "2026-10-26T20:49:26+00:00",
  "items": [
+  {
+   "key": "RC_WADE_DAMARIUS_120011075630126",
+   "name": "Damarius Wade",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793047677,
+   "photo": "photos/RC_WADE_DAMARIUS_120011075630126.jpg"
+  },
+  {
+   "key": "MAR_FRALEY_DARREN_2026-10-26_15992802",
+   "name": "Darren L Fraley",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793044588,
+   "photo": "photos/MAR_FRALEY_DARREN_2026-10-26_15992802.jpg"
+  },
+  {
+   "key": "MAR_PETERS_JESSE_2026-10-26_1590708",
+   "name": "Jesse A Peters",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793044553,
+   "photo": "photos/MAR_PETERS_JESSE_2026-10-26_1590708.jpg"
+  },
   {
    "key": "RC_MARTIN_ANTHONY_120011075626562",
    "name": "Anthony Martin",
@@ -233,17 +266,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GONZALESLEON_JUAN_647986",
-   "name": "Juan E Gonzales-Leon",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793035653,
-   "photo": "photos/MKE_GONZALESLEON_JUAN_647986.jpg"
-  },
-  {
    "key": "MAR_THOMAS_QUINCY_2026-10-26",
    "name": "Quincy Lamar Thomas",
    "age": "57",
@@ -431,17 +453,6 @@
    "photo": "photos/FDL_WESTRA_RUEBEN_2026-10-25.jpg"
   },
   {
-   "key": "MAR_KRZMARCIK_JEFFREY_2026-10-25_7145701",
-   "name": "Jeffrey Robert Krzmarcik",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 2,
-   "ts": 1792979755,
-   "photo": "photos/MAR_KRZMARCIK_JEFFREY_2026-10-25_7145701.jpg"
-  },
-  {
    "key": "THOMAS_MORRIS_2026-10-25",
    "name": "Morris M Thomas",
    "age": "65",
@@ -450,17 +461,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792978046,
-   "photo": null
-  },
-  {
-   "key": "MAR_KRZMARCIK_JEFFREY_2026-10-25",
-   "name": "Jeffrey Robert Krzmarcik",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 2,
-   "ts": 1792976149,
    "photo": null
   },
   {
