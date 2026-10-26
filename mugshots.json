@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-26T08:49:26+00:00",
+ "updated": "2026-10-26T09:49:28+00:00",
  "items": [
+  {
+   "key": "TREM_MENDEZPEREZ_FREDY_4984",
+   "name": "Fredy Mendez Perez",
+   "age": "31",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating while Intoxicated - 1st Offense, with a Minor Child in the V",
+   "more": 4,
+   "ts": 1793008035,
+   "photo": "photos/TREM_MENDEZPEREZ_FREDY_4984.jpg"
+  },
+  {
+   "key": "TREM_HOLMES_BRYONT_6191",
+   "name": "Bryont Lamar Holmes",
+   "age": "33",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1793008033,
+   "photo": "photos/TREM_HOLMES_BRYONT_6191.jpg"
+  },
+  {
+   "key": "DOU_STRONG_KARMA_2026-10-25",
+   "name": "Karma L Strong",
+   "age": "25",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793006237,
+   "photo": "photos/DOU_STRONG_KARMA_2026-10-25.jpg"
+  },
+  {
+   "key": "MKE_KINGSBOROUGH_JONATHAN_647982",
+   "name": "Jonathan L Kingsborough",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793005058,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARVEY_ISAIAH_625194",
+   "name": "Isaiah NicholasLydale Harvey",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Drive or Operate Vehicle w/o Consent",
+   "more": 3,
+   "ts": 1793005056,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRIGGS_DEMOND_606905",
+   "name": "Demond Marlin Griggs",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793005053,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRUZ_CHRISTIAN_627219",
+   "name": "Christian Cruz",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1793005052,
+   "photo": null
+  },
   {
    "key": "MKE_GILMORE_WALTER_647981",
    "name": "Walter Gilmore",
@@ -167,39 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_WHITE_EDDIE_535958",
-   "name": "Eddie Lee White",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 3,
-   "ts": 1792988850,
-   "photo": "photos/MKE_WHITE_EDDIE_535958.jpg"
-  },
-  {
-   "key": "KEN_MORTENSEN_THOMAS_2026-00005918",
-   "name": "Thomas William Mortensen",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Computer Message-Threaten/Injury Or Harm",
-   "more": 0,
-   "ts": 1792986879,
-   "photo": "photos/KEN_MORTENSEN_THOMAS_2026-00005918.jpg"
-  },
-  {
-   "key": "RC_RILEY_WALINDA_120011075603789",
-   "name": "Walinda Riley",
-   "age": "58",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 1,
-   "ts": 1792986478,
-   "photo": null
-  },
-  {
    "key": "FDL_SCHUH_DESTIN_2026-10-25",
    "name": "Destin Jo Schuh",
    "age": "",
@@ -209,17 +253,6 @@
    "more": 0,
    "ts": 1792984622,
    "photo": "photos/FDL_SCHUH_DESTIN_2026-10-25.jpg"
-  },
-  {
-   "key": "MKE_RODGERS_MICHAEL_257640",
-   "name": "Michael Lavelle Rodgers",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Trespass-Buildings/Premises",
-   "more": 1,
-   "ts": 1792983444,
-   "photo": "photos/MKE_RODGERS_MICHAEL_257640.jpg"
   },
   {
    "key": "FDL_WESTRA_RUEBEN_2026-10-25",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792919666,
    "photo": "photos/TREM_CRUZ_BRAYAN_6190.jpg"
-  },
-  {
-   "key": "TREM_BRENT_DAVID_6189",
-   "name": "David Tyrone Brent",
-   "age": "67",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Manufacture/Deliver Cocaine (<=1g)",
-   "more": 2,
-   "ts": 1792919663,
-   "photo": "photos/TREM_BRENT_DAVID_6189.jpg"
-  },
-  {
-   "key": "CLAPPER_ALICYN_2026-10-25",
-   "name": "Alicyn Hope Clapper",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792916496,
-   "photo": null
-  },
-  {
-   "key": "FDL_PAGE_RANDY_2026-10-25",
-   "name": "Randy Michael Page",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping",
-   "more": 1,
-   "ts": 1792912626,
-   "photo": "photos/FDL_PAGE_RANDY_2026-10-25.jpg"
   }
  ]
 }
