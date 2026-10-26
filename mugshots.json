@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-26T16:49:27+00:00",
+ "updated": "2026-10-26T17:49:32+00:00",
  "items": [
+  {
+   "key": "RC_HAYNES_HERMAN_120011075624177",
+   "name": "Herman Randell Haynes",
+   "age": "57",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793036870,
+   "photo": "photos/RC_HAYNES_HERMAN_120011075624177.jpg"
+  },
+  {
+   "key": "MKE_SCHUETT_KELLY_647985",
+   "name": "Kelly Schuett",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793035659,
+   "photo": "photos/MKE_SCHUETT_KELLY_647985.jpg"
+  },
+  {
+   "key": "MKE_MCGREW_JAREZ_647987",
+   "name": "Jarez D Mcgrew",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793035657,
+   "photo": null
+  },
+  {
+   "key": "MKE_HENRY_KAMARI_647988",
+   "name": "Kamari M Henry",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793035655,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALESLEON_JUAN_647986",
+   "name": "Juan E Gonzales-Leon",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793035653,
+   "photo": null
+  },
+  {
+   "key": "MAR_THOMAS_QUINCY_2026-10-26",
+   "name": "Quincy Lamar Thomas",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 4,
+   "ts": 1793033739,
+   "photo": "photos/MAR_THOMAS_QUINCY_2026-10-26.jpg"
+  },
   {
    "key": "RC_MCKEEVER_LONDIE_120011075620451",
    "name": "Londie Iasia Mckeever",
@@ -73,7 +139,7 @@
    "age": "50",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
    "more": 0,
    "ts": 1793029682,
    "photo": "photos/RC_JORGENSEN_MARK_120011075617150.jpg"
@@ -106,8 +172,8 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Return On Writ",
+   "more": 1,
    "ts": 1793026433,
    "photo": null
   },
@@ -153,7 +219,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793021269,
-   "photo": null
+   "photo": "photos/MKE_BUIE_DARLENE_274876.jpg"
   },
   {
    "key": "MKE_WASHINGTON_MAURICE_228639",
@@ -189,28 +255,6 @@
    "photo": "photos/MKE_SMITH_DALLAS_349914.jpg"
   },
   {
-   "key": "MKE_MATTHEWS_LEON_333470",
-   "name": "Leon Matthews",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 1,
-   "ts": 1793019460,
-   "photo": "photos/MKE_MATTHEWS_LEON_333470.jpg"
-  },
-  {
-   "key": "MKE_LASSITER_VERONICA_362745",
-   "name": "Veronica Laura Lassiter",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Knowingly Violate a Domestic Abuse Order - Injunction",
-   "more": 5,
-   "ts": 1793019459,
-   "photo": "photos/MKE_LASSITER_VERONICA_362745.jpg"
-  },
-  {
    "key": "MAR_LEMMA_TYLER_2026-10-24",
    "name": "Tyler Clayton Lemma",
    "age": "39",
@@ -231,39 +275,6 @@
    "more": 2,
    "ts": 1793019387,
    "photo": null
-  },
-  {
-   "key": "KEN_ALLEN_CHRISTIAN_2026-00005924",
-   "name": "Christian Allen",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1793015637,
-   "photo": "photos/KEN_ALLEN_CHRISTIAN_2026-00005924.jpg"
-  },
-  {
-   "key": "MKE_SMITH_WINCEE_541647",
-   "name": "Wincee Verna Smith",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine/Coca",
-   "more": 0,
-   "ts": 1793014061,
-   "photo": "photos/MKE_SMITH_WINCEE_541647.jpg"
-  },
-  {
-   "key": "MKE_LELAND_TRAIL_399020",
-   "name": "Trail Marquest Leland",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793014059,
-   "photo": "photos/MKE_LELAND_TRAIL_399020.jpg"
   },
   {
    "key": "TREM_MENDEZPEREZ_FREDY_4984",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792954593,
    "photo": "photos/MAR_ELSON_JAMMIE_2026-10-25.jpg"
-  },
-  {
-   "key": "MAR_LEE_JOHN_2026-10-25",
-   "name": "John Lee",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 4,
-   "ts": 1792954558,
-   "photo": "photos/MAR_LEE_JOHN_2026-10-25.jpg"
   },
   {
    "key": "FDL_RUIZFLORES_JOSE_2026-10-25",
