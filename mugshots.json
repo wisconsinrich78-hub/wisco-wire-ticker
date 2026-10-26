@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-26T22:49:29+00:00",
+ "updated": "2026-10-26T23:49:28+00:00",
  "items": [
+  {
+   "key": "RC_COSEY_CHRISTOPHER_120011075633240",
+   "name": "Christopher A Cosey",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793058476,
+   "photo": "photos/RC_COSEY_CHRISTOPHER_120011075633240.jpg"
+  },
+  {
+   "key": "MKE_WILLIS_DAEVION_625916",
+   "name": "Daevion Willis",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 1,
+   "ts": 1793057257,
+   "photo": "photos/MKE_WILLIS_DAEVION_625916.jpg"
+  },
+  {
+   "key": "MKE_PEDROZA_SERGIO_522883",
+   "name": "Sergio L Pedroza",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793057255,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOVE_WILLIAM_647993",
+   "name": "William Love",
+   "age": "85",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793057253,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNN_DERRICK_408521",
+   "name": "Derrick Leshay Dunn",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793057251,
+   "photo": null
+  },
+  {
+   "key": "MAR_DZIEWIK_RYAN_2026-10-26",
+   "name": "Ryan Dziewik",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793055431,
+   "photo": null
+  },
+  {
+   "key": "MAR_CHAPMAN_DEAVON_2026-10-26",
+   "name": "Deavon Allen Chapman",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "False Imprisonment",
+   "more": 0,
+   "ts": 1793055388,
+   "photo": "photos/MAR_CHAPMAN_DEAVON_2026-10-26.jpg"
+  },
+  {
+   "key": "MAR_COLLINS_RAY_2026-10-26",
+   "name": "Ray Junior Collins",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 1,
+   "ts": 1793055353,
+   "photo": "photos/MAR_COLLINS_RAY_2026-10-26.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_ARLENE_647991",
    "name": "Arlene Marquita Williams",
@@ -18,7 +106,7 @@
    "age": "68",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1793053659,
    "photo": null
@@ -128,8 +216,8 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 3,
    "ts": 1793051748,
    "photo": "photos/KEN_DARDEN_JONTAZ_2026-00005931.jpg"
   },
@@ -143,17 +231,6 @@
    "more": 1,
    "ts": 1793051290,
    "photo": "photos/RC_HANSON_ARON_120011075631671.jpg"
-  },
-  {
-   "key": "RC_ADAMS_MARCELL_120011075631106",
-   "name": "Marcell Devontae Adams",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793051286,
-   "photo": "photos/RC_ADAMS_MARCELL_120011075631106.jpg"
   },
   {
    "key": "DOU_HEMMER_DAVID_2026-10-26",
@@ -176,50 +253,6 @@
    "more": 1,
    "ts": 1793049420,
    "photo": "photos/FDL_SHUFF_BRENT_2026-10-26.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_SHAWN_634969",
-   "name": "Shawn Lerell Williams",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 13,
-   "ts": 1793048262,
-   "photo": null
-  },
-  {
-   "key": "MKE_POWELL_JABARI_623647",
-   "name": "Jabari Danya Powell",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 3,
-   "ts": 1793048260,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_DEMETRIUS_374040",
-   "name": "Demetrius Darcus Johnson",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1793048258,
-   "photo": null
-  },
-  {
-   "key": "MKE_GOMEZ_NORITA_647989",
-   "name": "Norita Ashley Gomez",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793048256,
-   "photo": "photos/MKE_GOMEZ_NORITA_647989.jpg"
   },
   {
    "key": "MAR_FRALEY_DARREN_2026-10-26_15992802",
@@ -429,39 +462,6 @@
    "more": 0,
    "ts": 1793008033,
    "photo": "photos/TREM_HOLMES_BRYONT_6191.jpg"
-  },
-  {
-   "key": "DOU_STRONG_KARMA_2026-10-25",
-   "name": "Karma L Strong",
-   "age": "25",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793006237,
-   "photo": "photos/DOU_STRONG_KARMA_2026-10-25.jpg"
-  },
-  {
-   "key": "MAR_BROWN_DONTAY_2026-10-25_15177203",
-   "name": "Dontay Lee Brown",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 5,
-   "ts": 1792997732,
-   "photo": "photos/MAR_BROWN_DONTAY_2026-10-25_15177203.jpg"
-  },
-  {
-   "key": "MAR_BROWN_DONTAY_2026-10-25",
-   "name": "Dontay Lee Brown",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 5,
-   "ts": 1792990541,
-   "photo": "photos/MAR_BROWN_DONTAY_2026-10-25.jpg"
   },
   {
    "key": "FDL_SCHUH_DESTIN_2026-10-25",
