@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-26T15:49:31+00:00",
+ "updated": "2026-10-26T16:49:27+00:00",
  "items": [
+  {
+   "key": "RC_MCKEEVER_LONDIE_120011075620451",
+   "name": "Londie Iasia Mckeever",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793033284,
+   "photo": "photos/RC_MCKEEVER_LONDIE_120011075620451.jpg"
+  },
+  {
+   "key": "MKE_SMITH_VASHAWN_412059",
+   "name": "Vashawn Lamont Smith",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 5,
+   "ts": 1793032075,
+   "photo": null
+  },
+  {
+   "key": "MAR_BYARS_RALPH_2026-10-24_13011609",
+   "name": "Ralph Eugene Byars",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1793030190,
+   "photo": "photos/MAR_BYARS_RALPH_2026-10-24_13011609.jpg"
+  },
+  {
+   "key": "MAR_FRALEY_DARREN_2026-10-26",
+   "name": "Darren L Fraley",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793030152,
+   "photo": "photos/MAR_FRALEY_DARREN_2026-10-26.jpg"
+  },
+  {
+   "key": "KEN_PARKER_CHRISTOPHER_2026-00005928",
+   "name": "Christopher James Parker",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793030091,
+   "photo": "photos/KEN_PARKER_CHRISTOPHER_2026-00005928.jpg"
+  },
   {
    "key": "RC_VITLAS_JEFFERY_120011075617859",
    "name": "Jeffery Raymond Vitlas",
@@ -209,39 +264,6 @@
    "more": 0,
    "ts": 1793014059,
    "photo": "photos/MKE_LELAND_TRAIL_399020.jpg"
-  },
-  {
-   "key": "MKE_KEEPERS_JERMERE_647983",
-   "name": "Jermere Yvette Keepers",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793014058,
-   "photo": "photos/MKE_KEEPERS_JERMERE_647983.jpg"
-  },
-  {
-   "key": "KEN_SANSONBEDOLLA_OSVALDO_2026-00005922",
-   "name": "Osvaldo Sanson-Bedolla",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (2Nd)",
-   "more": 0,
-   "ts": 1793012266,
-   "photo": "photos/KEN_SANSONBEDOLLA_OSVALDO_2026-00005922.jpg"
-  },
-  {
-   "key": "KEN_DAVIES_CHARLES_2026-00005923",
-   "name": "Charles Lynne Davies",
-   "age": "60",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793012190,
-   "photo": "photos/KEN_DAVIES_CHARLES_2026-00005923.jpg"
   },
   {
    "key": "TREM_MENDEZPEREZ_FREDY_4984",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792946677,
    "photo": null
-  },
-  {
-   "key": "MAR_BYARS_RALPH_2026-10-24",
-   "name": "Ralph Eugene Byars",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1792943496,
-   "photo": "photos/MAR_BYARS_RALPH_2026-10-24.jpg"
-  },
-  {
-   "key": "MAR_VANG_JOHN_2026-10-24",
-   "name": "John Vang",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792943460,
-   "photo": "photos/MAR_VANG_JOHN_2026-10-24.jpg"
   }
  ]
 }
