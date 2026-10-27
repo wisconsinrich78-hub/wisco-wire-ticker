@@ -1,14 +1,113 @@
 {
- "updated": "2026-10-27T18:49:29+00:00",
+ "updated": "2026-10-27T19:49:30+00:00",
  "items": [
+  {
+   "key": "RC_SPEARS_JERMAINE_120011075662197",
+   "name": "Jermaine Lamonte Spears",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793130505,
+   "photo": "photos/RC_SPEARS_JERMAINE_120011075662197.jpg"
+  },
+  {
+   "key": "RC_CARDENASTORRES_JESUS_120011075662792",
+   "name": "Jesus Manuel Cardenas-Torres",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
+   "more": 0,
+   "ts": 1793130501,
+   "photo": "photos/RC_CARDENASTORRES_JESUS_120011075662792.jpg"
+  },
+  {
+   "key": "MKE_MCDONALD_CONNOR_648004",
+   "name": "Connor McDonald",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793129259,
+   "photo": null
+  },
+  {
+   "key": "TABOR_ZACHARY_2026-10-27",
+   "name": "Zachary S Tabor",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793129219,
+   "photo": null
+  },
+  {
+   "key": "MKE_POLNITZ_DAVID_603453",
+   "name": "David Earl Polnitz",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 0,
+   "ts": 1793127463,
+   "photo": null
+  },
+  {
+   "key": "MKE_LAWONN_ALEXANDER_612734",
+   "name": "Alexander James Lawonn",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793127461,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAYES_EDWARD_648002",
+   "name": "Edward W Hayes",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793127458,
+   "photo": "photos/MKE_HAYES_EDWARD_648002.jpg"
+  },
+  {
+   "key": "MAR_GRAEF_NAINNE_2026-10-27",
+   "name": "Nainne Graef",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Misappropriate Id Info - Avoid Penalty",
+   "more": 3,
+   "ts": 1793127325,
+   "photo": "photos/MAR_GRAEF_NAINNE_2026-10-27.jpg"
+  },
+  {
+   "key": "KEN_ALDRIDGE_TIMOTHY_2026-00005950",
+   "name": "Timothy James Aldridge",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793127308,
+   "photo": "photos/KEN_ALDRIDGE_TIMOTHY_2026-00005950.jpg"
+  },
   {
    "key": "RC_WILLIAMS_JERRAD_120011075659002",
    "name": "Jerrad L Williams",
    "age": "38",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Take and Drive Vehicle Without Owner's Consent - 2nd+ Offense",
+   "more": 2,
    "ts": 1793126880,
    "photo": "photos/RC_WILLIAMS_JERRAD_120011075659002.jpg"
   },
@@ -18,8 +117,8 @@
    "age": "26",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Neglecting a Child - Specified Harm Did Not Occur",
+   "more": 1,
    "ts": 1793126878,
    "photo": "photos/RC_LOZANO_ANAKIN_120011075660391.jpg"
   },
@@ -85,7 +184,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 8,
    "ts": 1793123861,
    "photo": null
   },
@@ -134,28 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GROSS_DEREK_645057",
-   "name": "Derek James Gross",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Knowingly Violate a Domestic Abuse Order - Injunction",
-   "more": 1,
-   "ts": 1793122069,
-   "photo": null
-  },
-  {
-   "key": "MKE_BAKER_TATYANA_633505",
-   "name": "Tatyana A Baker",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793122066,
-   "photo": null
-  },
-  {
    "key": "TORRES_PETER_2026-10-27",
    "name": "Peter Torres",
    "age": "42",
@@ -178,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "KEN_LYONS_TORRIES_2026-00005948",
-   "name": "Torries Lyons",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Suspended",
-   "more": 1,
-   "ts": 1793120138,
-   "photo": null
-  },
-  {
    "key": "MAR_VANG_PANG_2026-10-27_13722",
    "name": "Pang Nang Vang",
    "age": "34",
@@ -198,50 +264,6 @@
    "more": 0,
    "ts": 1793120122,
    "photo": "photos/MAR_VANG_PANG_2026-10-27_13722.jpg"
-  },
-  {
-   "key": "RC_CVETNIC_ANDREW_120011075654682",
-   "name": "Andrew Nicholas Cvetnic",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Child Abuse-Recklessly Cause Harm",
-   "more": 2,
-   "ts": 1793119671,
-   "photo": null
-  },
-  {
-   "key": "RC_BEHM_DION_120011075654720",
-   "name": "Dion C Behm",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1793119669,
-   "photo": "photos/RC_BEHM_DION_120011075654720.jpg"
-  },
-  {
-   "key": "MKE_RODRIGUEZ_CAIN_508478",
-   "name": "Cain L Rodriguez",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793118484,
-   "photo": "photos/MKE_RODRIGUEZ_CAIN_508478.jpg"
-  },
-  {
-   "key": "MKE_HARRINGTONGLOVER_STEVEN_390598",
-   "name": "Steven Devon Harrington-Glover",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793118481,
-   "photo": null
   },
   {
    "key": "MAR_KOCH_BRYAN_2026-10-27",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1793049462,
    "photo": null
-  },
-  {
-   "key": "FDL_SHUFF_BRENT_2026-10-26",
-   "name": "Brent R Shuff",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793049420,
-   "photo": "photos/FDL_SHUFF_BRENT_2026-10-26.jpg"
-  },
-  {
-   "key": "MAR_FRALEY_DARREN_2026-10-26_15992802",
-   "name": "Darren L Fraley",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793044588,
-   "photo": "photos/MAR_FRALEY_DARREN_2026-10-26_15992802.jpg"
   }
  ]
 }
