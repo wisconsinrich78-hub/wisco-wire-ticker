@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-27T17:49:34+00:00",
+ "updated": "2026-10-27T18:49:29+00:00",
  "items": [
+  {
+   "key": "RC_WILLIAMS_JERRAD_120011075659002",
+   "name": "Jerrad L Williams",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793126880,
+   "photo": "photos/RC_WILLIAMS_JERRAD_120011075659002.jpg"
+  },
+  {
+   "key": "RC_LOZANO_ANAKIN_120011075660391",
+   "name": "Anakin E Lozano",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793126878,
+   "photo": "photos/RC_LOZANO_ANAKIN_120011075660391.jpg"
+  },
+  {
+   "key": "RC_CLARK_SHANNON_120011075658714",
+   "name": "Shannon M Clark",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793126875,
+   "photo": "photos/RC_CLARK_SHANNON_120011075658714.jpg"
+  },
+  {
+   "key": "LITTLEJOHN_ASHLEY_2026-10-27",
+   "name": "Ashley A Littlejohn",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Obstructing An Officer",
+   "more": 2,
+   "ts": 1793125624,
+   "photo": null
+  },
+  {
+   "key": "CLOUD_ARNOLD_2026-10-27",
+   "name": "Arnold Cloud",
+   "age": "60",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1793125623,
+   "photo": null
+  },
+  {
+   "key": "DOU_MYER_EDWARD_2026-10-27",
+   "name": "Edward D Myer",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 6,
+   "ts": 1793125039,
+   "photo": null
+  },
+  {
+   "key": "MKE_PRZYBYLA_JASON_350883",
+   "name": "Jason Gregory Przybyla",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1793123863,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOSES_NASHIA_640715",
+   "name": "Nashia TrinityHanna Moses",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793123861,
+   "photo": null
+  },
+  {
+   "key": "KEN_TAYLOR_LEONARD_2026-00005949",
+   "name": "Leonard Wayne Taylor",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793123677,
+   "photo": "photos/KEN_TAYLOR_LEONARD_2026-00005949.jpg"
+  },
   {
    "key": "RC_HERNANDEZ_ERNESTO_120011075656510",
    "name": "Ernesto Sergio Hernandez",
@@ -84,8 +183,8 @@
    "age": "40",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Suspended",
+   "more": 1,
    "ts": 1793120138,
    "photo": null
   },
@@ -131,7 +230,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793118484,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZ_CAIN_508478.jpg"
   },
   {
    "key": "MKE_HARRINGTONGLOVER_STEVEN_390598",
@@ -145,50 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_PAYNE_TENESHA_390503",
-   "name": "Tenesha Dominique Payne",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disobedient Witness",
-   "more": 0,
-   "ts": 1793116667,
-   "photo": "photos/MKE_PAYNE_TENESHA_390503.jpg"
-  },
-  {
-   "key": "MKE_LEVINGSTON_DIONTE_609733",
-   "name": "Dionte M Levingston",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793116665,
-   "photo": null
-  },
-  {
-   "key": "MKE_HHAYES_EDWARD_648002",
-   "name": "Edward W Hhayes",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793116663,
-   "photo": null
-  },
-  {
-   "key": "MKE_ANDERSON_PAUL_648003",
-   "name": "Paul Anderson",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793116660,
-   "photo": null
-  },
-  {
    "key": "MAR_KOCH_BRYAN_2026-10-27",
    "name": "Bryan Lee Koch",
    "age": "49",
@@ -198,28 +253,6 @@
    "more": 4,
    "ts": 1793116503,
    "photo": null
-  },
-  {
-   "key": "KEN_BECKER_AUSTIN_2026-00005947",
-   "name": "Austin Richard Becker",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Manufacture/Deliver Thc <200 Grams Or Less Than 4 Plants",
-   "more": 4,
-   "ts": 1793116441,
-   "photo": "photos/KEN_BECKER_AUSTIN_2026-00005947.jpg"
-  },
-  {
-   "key": "RC_STONG_MATTHEW_120011075651537",
-   "name": "Matthew J Stong",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Second Degree Sexual Assault - Use of Force",
-   "more": 0,
-   "ts": 1793116069,
-   "photo": "photos/RC_STONG_MATTHEW_120011075651537.jpg"
   },
   {
    "key": "MAR_VANG_PANG_2026-10-27",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793044588,
    "photo": "photos/MAR_FRALEY_DARREN_2026-10-26_15992802.jpg"
-  },
-  {
-   "key": "MAR_PETERS_JESSE_2026-10-26_1590708",
-   "name": "Jesse A Peters",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793044553,
-   "photo": "photos/MAR_PETERS_JESSE_2026-10-26_1590708.jpg"
-  },
-  {
-   "key": "STEVENS_URSULA_2026-10-26",
-   "name": "Ursula L Stevens",
-   "age": "65",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Retail Theft-Intentionally Take >$2,500-$5,000",
-   "more": 0,
-   "ts": 1793044028,
-   "photo": null
-  },
-  {
-   "key": "FDL_SHUFF_JENNIFER_2026-10-26",
-   "name": "Jennifer Lynn Shuff",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793042217,
-   "photo": "photos/FDL_SHUFF_JENNIFER_2026-10-26.jpg"
   }
  ]
 }
