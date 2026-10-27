@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T02:49:27+00:00",
+ "updated": "2026-10-27T03:49:30+00:00",
  "items": [
+  {
+   "key": "MAYNARD_JOSEPH_2026-10-26",
+   "name": "Joseph M Maynard",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 1,
+   "ts": 1793071622,
+   "photo": null
+  },
+  {
+   "key": "MAR_BROWN_DONTAY_2026-10-26",
+   "name": "Dontay Lee Brown",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 7,
+   "ts": 1793069722,
+   "photo": "photos/MAR_BROWN_DONTAY_2026-10-26.jpg"
+  },
+  {
+   "key": "KEN_CAROTHERS_CAYDEN_2026-00005939",
+   "name": "Cayden Tyrese Carothers",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793069635,
+   "photo": "photos/KEN_CAROTHERS_CAYDEN_2026-00005939.jpg"
+  },
   {
    "key": "MKE_POLK_SHAQUETA_542326",
    "name": "Shaqueta N Polk",
@@ -198,17 +231,6 @@
    "more": 4,
    "ts": 1793058977,
    "photo": "photos/KEN_THOMAS_ROBERT_2026-00005934.jpg"
-  },
-  {
-   "key": "KEN_PINKTON_CAMAREN_2026-00005937",
-   "name": "Camaren James Pinkton",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct Dv",
-   "more": 0,
-   "ts": 1793058902,
-   "photo": "photos/KEN_PINKTON_CAMAREN_2026-00005937.jpg"
   },
   {
    "key": "MAR_DZIEWIK_RYAN_2026-10-26",
@@ -420,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "MAR_LUBECKE_MITCH_2026-10-26",
-   "name": "Mitch Daniel Lubecke",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1793026552,
-   "photo": "photos/MAR_LUBECKE_MITCH_2026-10-26.jpg"
-  },
-  {
    "key": "GUERRA_MALIK_2026-10-26",
    "name": "Malik M Guerra",
    "age": "20",
@@ -516,17 +527,6 @@
    "charge": "Disorderly Conduct",
    "more": 2,
    "ts": 1792970179,
-   "photo": null
-  },
-  {
-   "key": "KOSKI_KENDALL_2026-10-25",
-   "name": "Kendall C Koski",
-   "age": "31",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792969033,
    "photo": null
   }
  ]
