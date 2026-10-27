@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-27T19:49:30+00:00",
+ "updated": "2026-10-27T20:49:29+00:00",
  "items": [
+  {
+   "key": "RC_MERTINS_SCOTT_120011075664602",
+   "name": "Scott Douglas Mertins",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793134091,
+   "photo": "photos/RC_MERTINS_SCOTT_120011075664602.jpg"
+  },
+  {
+   "key": "MKE_SANDERS_LARONDA_504728",
+   "name": "Laronda Shondae Sanders",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793132889,
+   "photo": null
+  },
+  {
+   "key": "MKE_HATCHER_REGGIE_648005",
+   "name": "Reggie Hatcher",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793132886,
+   "photo": null
+  },
+  {
+   "key": "BONNER_SHEDRICK_2026-10-27",
+   "name": "Shedrick L Bonner",
+   "age": "51",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793132823,
+   "photo": null
+  },
+  {
+   "key": "FDL_LAST_JAMES_2026-10-27",
+   "name": "James A Last",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793132202,
+   "photo": "photos/FDL_LAST_JAMES_2026-10-27.jpg"
+  },
+  {
+   "key": "KEN_VEGA_NELSON_2026-00005954",
+   "name": "NELSON Junior VEGA",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793131218,
+   "photo": "photos/KEN_VEGA_NELSON_2026-00005954.jpg"
+  },
+  {
+   "key": "KEN_OLRICH_JASON_2026-00005953",
+   "name": "Jason Allen Olrich",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793131142,
+   "photo": "photos/KEN_OLRICH_JASON_2026-00005953.jpg"
+  },
+  {
+   "key": "KEN_GARRETT_ANDREA_2026-00005951",
+   "name": "Andrea Jean Garrett",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793131067,
+   "photo": "photos/KEN_GARRETT_ANDREA_2026-00005951.jpg"
+  },
+  {
+   "key": "KEN_BODY_EDWARD_2026-00005955",
+   "name": "EDWARD LEWIS Junior BODY",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793130990,
+   "photo": "photos/KEN_BODY_EDWARD_2026-00005955.jpg"
+  },
+  {
+   "key": "MAR_COVINGTON_TERRELL_2026-10-27",
+   "name": "Terrell Douglas Covington",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793130972,
+   "photo": "photos/MAR_COVINGTON_TERRELL_2026-10-27.jpg"
+  },
   {
    "key": "RC_SPEARS_JERMAINE_120011075662197",
    "name": "Jermaine Lamonte Spears",
@@ -95,7 +205,7 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out Of County",
    "more": 0,
    "ts": 1793127308,
    "photo": "photos/KEN_ALDRIDGE_TIMOTHY_2026-00005950.jpg"
@@ -121,17 +231,6 @@
    "more": 1,
    "ts": 1793126878,
    "photo": "photos/RC_LOZANO_ANAKIN_120011075660391.jpg"
-  },
-  {
-   "key": "RC_CLARK_SHANNON_120011075658714",
-   "name": "Shannon M Clark",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793126875,
-   "photo": "photos/RC_CLARK_SHANNON_120011075658714.jpg"
   },
   {
    "key": "LITTLEJOHN_ASHLEY_2026-10-27",
@@ -164,72 +263,6 @@
    "charge": "Charges:",
    "more": 6,
    "ts": 1793125039,
-   "photo": null
-  },
-  {
-   "key": "MKE_PRZYBYLA_JASON_350883",
-   "name": "Jason Gregory Przybyla",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1793123863,
-   "photo": null
-  },
-  {
-   "key": "MKE_MOSES_NASHIA_640715",
-   "name": "Nashia TrinityHanna Moses",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1793123861,
-   "photo": null
-  },
-  {
-   "key": "KEN_TAYLOR_LEONARD_2026-00005949",
-   "name": "Leonard Wayne Taylor",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793123677,
-   "photo": "photos/KEN_TAYLOR_LEONARD_2026-00005949.jpg"
-  },
-  {
-   "key": "RC_HERNANDEZ_ERNESTO_120011075656510",
-   "name": "Ernesto Sergio Hernandez",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 2,
-   "ts": 1793123280,
-   "photo": "photos/RC_HERNANDEZ_ERNESTO_120011075656510.jpg"
-  },
-  {
-   "key": "MKE_MYERS_MARY_539081",
-   "name": "Mary Diane Myers",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793122073,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_ALYSIA_614489",
-   "name": "Alysia Cherrelle Johnson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793122071,
    "photo": null
   },
   {
@@ -495,39 +528,6 @@
    "more": 1,
    "ts": 1793055353,
    "photo": "photos/MAR_COLLINS_RAY_2026-10-26.jpg"
-  },
-  {
-   "key": "JANIS_JULIA_2026-10-26",
-   "name": "Julia A Janis",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793053628,
-   "photo": null
-  },
-  {
-   "key": "FDL_COOK_TAKARIE_2026-10-26",
-   "name": "Takarie Dion Cook",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793052974,
-   "photo": "photos/FDL_COOK_TAKARIE_2026-10-26.jpg"
-  },
-  {
-   "key": "DOU_HEMMER_DAVID_2026-10-26",
-   "name": "David R Hemmer",
-   "age": "26",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793049462,
-   "photo": null
   }
  ]
 }
