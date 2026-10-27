@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-26T23:49:28+00:00",
+ "updated": "2026-10-27T00:49:29+00:00",
  "items": [
+  {
+   "key": "RC_STYTES_KEVIN_120011075635193",
+   "name": "Kevin Stytes",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793062084,
+   "photo": null
+  },
+  {
+   "key": "RC_CALLEWART_CHRIS_120011075635477",
+   "name": "Chris J Callewart",
+   "age": "65",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793062080,
+   "photo": null
+  },
+  {
+   "key": "MKE_OWENS_MATTHEW_408976",
+   "name": "Matthew William Owens",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 14,
+   "ts": 1793059053,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCDUFFIE_JUSTIN_621715",
+   "name": "Justin Lamar McDuffie",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793059052,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_THADDEUS_647994",
+   "name": "Thaddeus Jones",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793059050,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRUTCHFIELD_SHAPARIS_645826",
+   "name": "Shaparis Nyetearia Crutchfield",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793059048,
+   "photo": null
+  },
+  {
+   "key": "KEN_THOMAS_ROBERT_2026-00005934",
+   "name": "Robert Avery Thomas",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Controlled Substance",
+   "more": 4,
+   "ts": 1793058977,
+   "photo": "photos/KEN_THOMAS_ROBERT_2026-00005934.jpg"
+  },
+  {
+   "key": "KEN_PINKTON_CAMAREN_2026-00005937",
+   "name": "Camaren James Pinkton",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793058902,
+   "photo": "photos/KEN_PINKTON_CAMAREN_2026-00005937.jpg"
+  },
+  {
+   "key": "KEN_OCANA_JESSICA_2026-00005936",
+   "name": "Jessica Sky Ocana",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793058827,
+   "photo": "photos/KEN_OCANA_JESSICA_2026-00005936.jpg"
+  },
   {
    "key": "RC_COSEY_CHRISTOPHER_120011075633240",
    "name": "Christopher A Cosey",
@@ -98,7 +197,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793053661,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ARLENE_647991.jpg"
   },
   {
    "key": "MKE_TRADER_PETER_141815",
@@ -109,39 +208,6 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793053659,
-   "photo": null
-  },
-  {
-   "key": "MKE_RATZEL_RAYMOND_292540",
-   "name": "Raymond Shawn Ratzel",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 18,
-   "ts": 1793053658,
-   "photo": null
-  },
-  {
-   "key": "MKE_PEERWINTERS_TYREE_647992",
-   "name": "Tyree C Peer Winters",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793053656,
-   "photo": null
-  },
-  {
-   "key": "MKE_PATTON_BRANDON_375478",
-   "name": "Brandon Montreal Patton",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793053654,
    "photo": null
   },
   {
@@ -165,72 +231,6 @@
    "more": 0,
    "ts": 1793052974,
    "photo": "photos/FDL_COOK_TAKARIE_2026-10-26.jpg"
-  },
-  {
-   "key": "MKE_TRACY_REGINALD_404598",
-   "name": "Reginald L Tracy",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 2,
-   "ts": 1793051859,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_JESSE_633050",
-   "name": "Jesse Jackson",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793051857,
-   "photo": null
-  },
-  {
-   "key": "MKE_GUIDEN_TRAVIS_299600",
-   "name": "Travis Guiden",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 29,
-   "ts": 1793051855,
-   "photo": null
-  },
-  {
-   "key": "MKE_DUNDON_KODY_647990",
-   "name": "Kody Dundon",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (2nd)",
-   "more": 3,
-   "ts": 1793051853,
-   "photo": null
-  },
-  {
-   "key": "KEN_DARDEN_JONTAZ_2026-00005931",
-   "name": "Jontaz Malik Darden",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1793051748,
-   "photo": "photos/KEN_DARDEN_JONTAZ_2026-00005931.jpg"
-  },
-  {
-   "key": "RC_HANSON_ARON_120011075631671",
-   "name": "Aron Leif Hanson",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 1,
-   "ts": 1793051290,
-   "photo": "photos/RC_HANSON_ARON_120011075631671.jpg"
   },
   {
    "key": "DOU_HEMMER_DAVID_2026-10-26",
