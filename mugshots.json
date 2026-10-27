@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-27T03:49:30+00:00",
+ "updated": "2026-10-27T04:49:27+00:00",
  "items": [
+  {
+   "key": "RC_SHIELDS_KYLER_120011075639155",
+   "name": "Kyler Don Shields",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
+   "more": 0,
+   "ts": 1793076473,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOODE_AZZIZH_526236",
+   "name": "Azzizh Yesmeene Goode",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793075279,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_SYLVESTER_288441",
+   "name": "Sylvester Dean Allen",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1793075276,
+   "photo": null
+  },
+  {
+   "key": "FDL_KELLEY_JAMES_2026-10-26",
+   "name": "James D Kelley",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Battery",
+   "more": 2,
+   "ts": 1793074603,
+   "photo": "photos/FDL_KELLEY_JAMES_2026-10-26.jpg"
+  },
+  {
+   "key": "MKE_TAYLOR_JAYLEN_626610",
+   "name": "Jaylen Deshawn Taylor",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793073455,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUTLER_ASIA_521724",
+   "name": "Asia Denise Butler",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793073453,
+   "photo": null
+  },
   {
    "key": "MAYNARD_JOSEPH_2026-10-26",
    "name": "Joseph M Maynard",
@@ -29,8 +95,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
    "ts": 1793069635,
    "photo": "photos/KEN_CAROTHERS_CAYDEN_2026-00005939.jpg"
   },
@@ -176,61 +242,6 @@
    "more": 0,
    "ts": 1793062080,
    "photo": null
-  },
-  {
-   "key": "MKE_OWENS_MATTHEW_408976",
-   "name": "Matthew William Owens",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 14,
-   "ts": 1793059053,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCDUFFIE_JUSTIN_621715",
-   "name": "Justin Lamar McDuffie",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793059052,
-   "photo": "photos/MKE_MCDUFFIE_JUSTIN_621715.jpg"
-  },
-  {
-   "key": "MKE_JONES_THADDEUS_647994",
-   "name": "Thaddeus Jones",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793059050,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRUTCHFIELD_SHAPARIS_645826",
-   "name": "Shaparis Nyetearia Crutchfield",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793059048,
-   "photo": "photos/MKE_CRUTCHFIELD_SHAPARIS_645826.jpg"
-  },
-  {
-   "key": "KEN_THOMAS_ROBERT_2026-00005934",
-   "name": "Robert Avery Thomas",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Controlled Substance",
-   "more": 4,
-   "ts": 1793058977,
-   "photo": "photos/KEN_THOMAS_ROBERT_2026-00005934.jpg"
   },
   {
    "key": "MAR_DZIEWIK_RYAN_2026-10-26",
@@ -516,17 +527,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1792978046,
-   "photo": null
-  },
-  {
-   "key": "FDL_GARCIA_BRETT_2026-10-25",
-   "name": "Brett Allen Garcia",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1792970179,
    "photo": null
   }
  ]
