@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-27T16:49:34+00:00",
+ "updated": "2026-10-27T17:49:34+00:00",
  "items": [
+  {
+   "key": "RC_HERNANDEZ_ERNESTO_120011075656510",
+   "name": "Ernesto Sergio Hernandez",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
+   "ts": 1793123280,
+   "photo": "photos/RC_HERNANDEZ_ERNESTO_120011075656510.jpg"
+  },
+  {
+   "key": "MKE_MYERS_MARY_539081",
+   "name": "Mary Diane Myers",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1793122073,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_ALYSIA_614489",
+   "name": "Alysia Cherrelle Johnson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793122071,
+   "photo": null
+  },
+  {
+   "key": "MKE_GROSS_DEREK_645057",
+   "name": "Derek James Gross",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Knowingly Violate a Domestic Abuse Order - Injunction",
+   "more": 1,
+   "ts": 1793122069,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAKER_TATYANA_633505",
+   "name": "Tatyana A Baker",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793122066,
+   "photo": null
+  },
+  {
+   "key": "TORRES_PETER_2026-10-27",
+   "name": "Peter Torres",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1793122020,
+   "photo": null
+  },
+  {
+   "key": "DOU_HOFF_SAMUEL_2026-10-27",
+   "name": "Samuel J Hoff",
+   "age": "21",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793121434,
+   "photo": null
+  },
+  {
+   "key": "KEN_LYONS_TORRIES_2026-00005948",
+   "name": "Torries Lyons",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793120138,
+   "photo": null
+  },
+  {
+   "key": "MAR_VANG_PANG_2026-10-27_13722",
+   "name": "Pang Nang Vang",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793120122,
+   "photo": "photos/MAR_VANG_PANG_2026-10-27_13722.jpg"
+  },
   {
    "key": "RC_CVETNIC_ANDREW_120011075654682",
    "name": "Andrew Nicholas Cvetnic",
@@ -106,8 +205,8 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Manufacture/Deliver Thc <200 Grams Or Less Than 4 Plants",
+   "more": 4,
    "ts": 1793116441,
    "photo": "photos/KEN_BECKER_AUSTIN_2026-00005947.jpg"
   },
@@ -123,50 +222,6 @@
    "photo": "photos/RC_STONG_MATTHEW_120011075651537.jpg"
   },
   {
-   "key": "RC_STITES_KEVIN_120011075635193",
-   "name": "Kevin Stites",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1793116066,
-   "photo": "photos/RC_STITES_KEVIN_120011075635193.jpg"
-  },
-  {
-   "key": "MKE_TOWNSEND_JIMMY_621758",
-   "name": "Jimmy L Townsend",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793113069,
-   "photo": null
-  },
-  {
-   "key": "MKE_MARTINEZNOLASCO_MIGUEL_629076",
-   "name": "Miguel Angel Martinez Nolasco",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1793113067,
-   "photo": null
-  },
-  {
-   "key": "MKE_MAKKI_MOHAMED_648001",
-   "name": "Mohamed Saad Makki",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793113064,
-   "photo": null
-  },
-  {
    "key": "MAR_VANG_PANG_2026-10-27",
    "name": "Pang Nang Vang",
    "age": "34",
@@ -176,28 +231,6 @@
    "more": 0,
    "ts": 1793112913,
    "photo": "photos/MAR_VANG_PANG_2026-10-27.jpg"
-  },
-  {
-   "key": "MKE_STOCKTON_MACKEON_2054940",
-   "name": "Mackeon James Stockton",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 0,
-   "ts": 1793111271,
-   "photo": "photos/MKE_STOCKTON_MACKEON_2054940.jpg"
-  },
-  {
-   "key": "KEN_ZEAS_JHONNY_2026-00005945",
-   "name": "Jhonny Zeas",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793109294,
-   "photo": null
   },
   {
    "key": "TREM_SEAGO_JOHN_2668",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793042217,
    "photo": "photos/FDL_SHUFF_JENNIFER_2026-10-26.jpg"
-  },
-  {
-   "key": "MAR_GRAEF_NAINNE_2026-10-26_13109001",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Misappropriate Id Info - Avoid Penalty",
-   "more": 2,
-   "ts": 1793041071,
-   "photo": "photos/MAR_GRAEF_NAINNE_2026-10-26_13109001.jpg"
-  },
-  {
-   "key": "MAR_PETERS_JESSE_2026-10-26",
-   "name": "Jesse A Peters",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793041033,
-   "photo": "photos/MAR_PETERS_JESSE_2026-10-26.jpg"
-  },
-  {
-   "key": "LOKEN_ESSENCE_2026-10-26",
-   "name": "Essence A Loken",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1793029628,
-   "photo": null
   }
  ]
 }
