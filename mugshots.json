@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-27T14:49:27+00:00",
+ "updated": "2026-10-27T15:49:32+00:00",
  "items": [
+  {
+   "key": "RC_STONG_MATTHEW_120011075651537",
+   "name": "Matthew J Stong",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Second Degree Sexual Assault - Use of Force",
+   "more": 0,
+   "ts": 1793116069,
+   "photo": "photos/RC_STONG_MATTHEW_120011075651537.jpg"
+  },
+  {
+   "key": "RC_STITES_KEVIN_120011075635193",
+   "name": "Kevin Stites",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1793116066,
+   "photo": "photos/RC_STITES_KEVIN_120011075635193.jpg"
+  },
+  {
+   "key": "MKE_TOWNSEND_JIMMY_621758",
+   "name": "Jimmy L Townsend",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793113069,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTINEZNOLASCO_MIGUEL_629076",
+   "name": "Miguel Angel Martinez Nolasco",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 12,
+   "ts": 1793113067,
+   "photo": null
+  },
+  {
+   "key": "MKE_MAKKI_MOHAMED_648001",
+   "name": "Mohamed Saad Makki",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793113064,
+   "photo": null
+  },
+  {
+   "key": "MAR_VANG_PANG_2026-10-27",
+   "name": "Pang Nang Vang",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793112913,
+   "photo": "photos/MAR_VANG_PANG_2026-10-27.jpg"
+  },
   {
    "key": "MKE_STOCKTON_MACKEON_2054940",
    "name": "Mackeon James Stockton",
@@ -10,7 +76,7 @@
    "charge": "Possession of Narcotic Drugs",
    "more": 0,
    "ts": 1793111271,
-   "photo": null
+   "photo": "photos/MKE_STOCKTON_MACKEON_2054940.jpg"
   },
   {
    "key": "KEN_ZEAS_JHONNY_2026-00005945",
@@ -54,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793107656,
-   "photo": null
+   "photo": "photos/MKE_ECKLUND_KAMARI_648000.jpg"
   },
   {
    "key": "MKE_JACKSON_WHITNEY_608401",
@@ -198,61 +264,6 @@
    "more": 3,
    "ts": 1793087269,
    "photo": "photos/RC_FLOWERS_DEONDREA_120011075641567.jpg"
-  },
-  {
-   "key": "MKE_UPHAM_DEVON_2061281",
-   "name": "Devon Thomas Upham",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793086053,
-   "photo": "photos/MKE_UPHAM_DEVON_2061281.jpg"
-  },
-  {
-   "key": "MKE_KIMBROUGH_ROBERT_647998",
-   "name": "Robert Tayvon Kimbrough",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793086052,
-   "photo": "photos/MKE_KIMBROUGH_ROBERT_647998.jpg"
-  },
-  {
-   "key": "MKE_BRODIE_CHAVEON_342338",
-   "name": "Chaveon S Brodie",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793086050,
-   "photo": "photos/MKE_BRODIE_CHAVEON_342338.jpg"
-  },
-  {
-   "key": "MKE_FLOWERS_JACOB_626596",
-   "name": "Jacob Alexander Javie Flowers",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793084249,
-   "photo": "photos/MKE_FLOWERS_JACOB_626596.jpg"
-  },
-  {
-   "key": "KEN_BERRY_PERRY_2026-00005942",
-   "name": "Perry Leron Berry",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793084008,
-   "photo": "photos/KEN_BERRY_PERRY_2026-00005942.jpg"
   },
   {
    "key": "ROSE_BRIAN_2026-10-27",
@@ -506,17 +517,6 @@
    "more": 3,
    "ts": 1793040998,
    "photo": "photos/MAR_LUBECKE_MITCH_2026-10-26_330304.jpg"
-  },
-  {
-   "key": "MAR_HER_MICHAEL_2026-10-26",
-   "name": "Michael Her",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 4,
-   "ts": 1793037355,
-   "photo": "photos/MAR_HER_MICHAEL_2026-10-26.jpg"
   },
   {
    "key": "LOKEN_ESSENCE_2026-10-26",
