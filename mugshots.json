@@ -1,14 +1,91 @@
 {
- "updated": "2026-10-27T00:49:29+00:00",
+ "updated": "2026-10-27T01:49:30+00:00",
  "items": [
+  {
+   "key": "RC_WILLIAMS_HAROLD_120011075636059",
+   "name": "Harold Gerard Williams",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793065694,
+   "photo": "photos/RC_WILLIAMS_HAROLD_120011075636059.jpg"
+  },
+  {
+   "key": "RC_JONES_JAIMIE_120011075636121",
+   "name": "Jaimie Dayon Jones",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793065690,
+   "photo": null
+  },
+  {
+   "key": "RC_CALLEWAERT_CHRISTOPHER_120011075635693",
+   "name": "Christopher James Callewaert",
+   "age": "65",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793065688,
+   "photo": null
+  },
+  {
+   "key": "MKE_FORTENBERRY_CHRISTOPHER_386590",
+   "name": "Christopher D Fortenberry",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793064449,
+   "photo": null
+  },
+  {
+   "key": "MKE_AKINS_ELIJAH_647995",
+   "name": "Elijah R Akins",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 4,
+   "ts": 1793064447,
+   "photo": null
+  },
+  {
+   "key": "LESLIE_KYLIE_2026-10-26",
+   "name": "Kylie Rose Leslie",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793064422,
+   "photo": null
+  },
+  {
+   "key": "DOU_ANDERSON_JOSEPH_2026-10-26",
+   "name": "Joseph L Anderson",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793063832,
+   "photo": "photos/DOU_ANDERSON_JOSEPH_2026-10-26.jpg"
+  },
   {
    "key": "RC_STYTES_KEVIN_120011075635193",
    "name": "Kevin Stytes",
    "age": "34",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1793062084,
    "photo": null
   },
@@ -43,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793059052,
-   "photo": null
+   "photo": "photos/MKE_MCDUFFIE_JUSTIN_621715.jpg"
   },
   {
    "key": "MKE_JONES_THADDEUS_647994",
@@ -65,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793059048,
-   "photo": null
+   "photo": "photos/MKE_CRUTCHFIELD_SHAPARIS_645826.jpg"
   },
   {
    "key": "KEN_THOMAS_ROBERT_2026-00005934",
@@ -84,7 +161,7 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct Dv",
    "more": 0,
    "ts": 1793058902,
    "photo": "photos/KEN_PINKTON_CAMAREN_2026-00005937.jpg"
@@ -95,8 +172,8 @@
    "age": "36",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 4,
    "ts": 1793058827,
    "photo": "photos/KEN_OCANA_JESSICA_2026-00005936.jpg"
   },
@@ -121,39 +198,6 @@
    "more": 1,
    "ts": 1793057257,
    "photo": "photos/MKE_WILLIS_DAEVION_625916.jpg"
-  },
-  {
-   "key": "MKE_PEDROZA_SERGIO_522883",
-   "name": "Sergio L Pedroza",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793057255,
-   "photo": null
-  },
-  {
-   "key": "MKE_LOVE_WILLIAM_647993",
-   "name": "William Love",
-   "age": "85",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793057253,
-   "photo": null
-  },
-  {
-   "key": "MKE_DUNN_DERRICK_408521",
-   "name": "Derrick Leshay Dunn",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793057251,
-   "photo": null
   },
   {
    "key": "MAR_DZIEWIK_RYAN_2026-10-26",
@@ -187,28 +231,6 @@
    "more": 1,
    "ts": 1793055353,
    "photo": "photos/MAR_COLLINS_RAY_2026-10-26.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_ARLENE_647991",
-   "name": "Arlene Marquita Williams",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793053661,
-   "photo": "photos/MKE_WILLIAMS_ARLENE_647991.jpg"
-  },
-  {
-   "key": "MKE_TRADER_PETER_141815",
-   "name": "Peter Allen Trader",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793053659,
-   "photo": null
   },
   {
    "key": "JANIS_JULIA_2026-10-26",
@@ -431,17 +453,6 @@
    "photo": "photos/MAR_LEMMA_TYLER_2026-10-24.jpg"
   },
   {
-   "key": "MAR_GRAEF_NAINNE_2026-10-26",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Misappropriate Id Info - Avoid Penalty",
-   "more": 2,
-   "ts": 1793019387,
-   "photo": null
-  },
-  {
    "key": "TREM_MENDEZPEREZ_FREDY_4984",
    "name": "Fredy Mendez Perez",
    "age": "31",
@@ -516,17 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792969033,
-   "photo": null
-  },
-  {
-   "key": "FDL_RUIZFLORES_JOSE_2026-10-25",
-   "name": "Jose Felix Ruizflores",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine",
-   "more": 3,
-   "ts": 1792952222,
    "photo": null
   }
  ]
