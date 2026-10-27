@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-27T15:49:32+00:00",
+ "updated": "2026-10-27T16:49:34+00:00",
  "items": [
+  {
+   "key": "RC_CVETNIC_ANDREW_120011075654682",
+   "name": "Andrew Nicholas Cvetnic",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Child Abuse-Recklessly Cause Harm",
+   "more": 2,
+   "ts": 1793119671,
+   "photo": null
+  },
+  {
+   "key": "RC_BEHM_DION_120011075654720",
+   "name": "Dion C Behm",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 0,
+   "ts": 1793119669,
+   "photo": "photos/RC_BEHM_DION_120011075654720.jpg"
+  },
+  {
+   "key": "MKE_RODRIGUEZ_CAIN_508478",
+   "name": "Cain L Rodriguez",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793118484,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRINGTONGLOVER_STEVEN_390598",
+   "name": "Steven Devon Harrington-Glover",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793118481,
+   "photo": null
+  },
+  {
+   "key": "MKE_PAYNE_TENESHA_390503",
+   "name": "Tenesha Dominique Payne",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disobedient Witness",
+   "more": 0,
+   "ts": 1793116667,
+   "photo": "photos/MKE_PAYNE_TENESHA_390503.jpg"
+  },
+  {
+   "key": "MKE_LEVINGSTON_DIONTE_609733",
+   "name": "Dionte M Levingston",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793116665,
+   "photo": null
+  },
+  {
+   "key": "MKE_HHAYES_EDWARD_648002",
+   "name": "Edward W Hhayes",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793116663,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANDERSON_PAUL_648003",
+   "name": "Paul Anderson",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793116660,
+   "photo": null
+  },
+  {
+   "key": "MAR_KOCH_BRYAN_2026-10-27",
+   "name": "Bryan Lee Koch",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 4,
+   "ts": 1793116503,
+   "photo": null
+  },
+  {
+   "key": "KEN_BECKER_AUSTIN_2026-00005947",
+   "name": "Austin Richard Becker",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793116441,
+   "photo": "photos/KEN_BECKER_AUSTIN_2026-00005947.jpg"
+  },
   {
    "key": "RC_STONG_MATTHEW_120011075651537",
    "name": "Matthew J Stong",
@@ -51,8 +161,8 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1793113064,
    "photo": null
   },
@@ -88,72 +198,6 @@
    "more": 0,
    "ts": 1793109294,
    "photo": null
-  },
-  {
-   "key": "KEN_SOLTERO_ASUMANDEZ_2026-00005944",
-   "name": "Asumandez Mandy Soltero",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793109260,
-   "photo": "photos/KEN_SOLTERO_ASUMANDEZ_2026-00005944.jpg"
-  },
-  {
-   "key": "RC_JONES_JAMIE_120011075636121",
-   "name": "Jamie Dayon Jones",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793108887,
-   "photo": "photos/RC_JONES_JAMIE_120011075636121.jpg"
-  },
-  {
-   "key": "MKE_ECKLUND_KAMARI_648000",
-   "name": "Kamari C Ecklund",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793107656,
-   "photo": "photos/MKE_ECKLUND_KAMARI_648000.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_WHITNEY_608401",
-   "name": "Whitney Leigh Jackson",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793105853,
-   "photo": "photos/MKE_JACKSON_WHITNEY_608401.jpg"
-  },
-  {
-   "key": "MKE_GARCIABAUTISTA_JESUS_647999",
-   "name": "Jesus E Garcia Bautista",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793096849,
-   "photo": "photos/MKE_GARCIABAUTISTA_JESUS_647999.jpg"
-  },
-  {
-   "key": "MKE_SANCHEZGONZALEZ_ALISHA_631303",
-   "name": "Alisha M Sanchez-Gonzalez",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793095059,
-   "photo": "photos/MKE_SANCHEZGONZALEZ_ALISHA_631303.jpg"
   },
   {
    "key": "TREM_SEAGO_JOHN_2668",
@@ -222,17 +266,6 @@
    "photo": "photos/TREM_GARRETT_DUSTIN_5578.jpg"
   },
   {
-   "key": "RC_FUENTES_BRIAN_120011075642234",
-   "name": "Brian Fuentes",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating W/Pac (1St)",
-   "more": 3,
-   "ts": 1793090870,
-   "photo": null
-  },
-  {
    "key": "MAR_FRYSTAK_NICHOLAS_2026-10-26_16434701",
    "name": "Nicholas Michael Frystak",
    "age": "24",
@@ -242,28 +275,6 @@
    "more": 0,
    "ts": 1793087756,
    "photo": "photos/MAR_FRYSTAK_NICHOLAS_2026-10-26_16434701.jpg"
-  },
-  {
-   "key": "KEN_DREWS_CHRISTOPHER_2026-00005943",
-   "name": "Christopher Steven Drews",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 3,
-   "ts": 1793087713,
-   "photo": null
-  },
-  {
-   "key": "RC_FLOWERS_DEONDREA_120011075641567",
-   "name": "Deondrea Maria Flowers",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Identity Theft - Avoidance",
-   "more": 3,
-   "ts": 1793087269,
-   "photo": "photos/RC_FLOWERS_DEONDREA_120011075641567.jpg"
   },
   {
    "key": "ROSE_BRIAN_2026-10-27",
@@ -506,17 +517,6 @@
    "more": 0,
    "ts": 1793041033,
    "photo": "photos/MAR_PETERS_JESSE_2026-10-26.jpg"
-  },
-  {
-   "key": "MAR_LUBECKE_MITCH_2026-10-26_330304",
-   "name": "Mitch Daniel Lubecke",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1793040998,
-   "photo": "photos/MAR_LUBECKE_MITCH_2026-10-26_330304.jpg"
   },
   {
    "key": "LOKEN_ESSENCE_2026-10-26",
