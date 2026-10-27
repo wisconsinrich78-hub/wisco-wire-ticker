@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-27T20:49:29+00:00",
+ "updated": "2026-10-27T21:49:31+00:00",
  "items": [
+  {
+   "key": "RC_PABON_PEDRO_120011075665964",
+   "name": "Pedro F Pabon",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137715,
+   "photo": "photos/RC_PABON_PEDRO_120011075665964.jpg"
+  },
+  {
+   "key": "RC_MARGETSON_RICHARD_120011075666168",
+   "name": "Richard David Margetson",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137712,
+   "photo": "photos/RC_MARGETSON_RICHARD_120011075666168.jpg"
+  },
+  {
+   "key": "RC_BROE_DAVID_120011075666262",
+   "name": "David Broe",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137707,
+   "photo": "photos/RC_BROE_DAVID_120011075666262.jpg"
+  },
+  {
+   "key": "RC_BRENNER_ISAIAH_120011075666087",
+   "name": "Isaiah James Brenner",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137703,
+   "photo": "photos/RC_BRENNER_ISAIAH_120011075666087.jpg"
+  },
+  {
+   "key": "RC_ALVAREZ_JULIAN_120011075666211",
+   "name": "Julian Raymond Alvarez",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137698,
+   "photo": "photos/RC_ALVAREZ_JULIAN_120011075666211.jpg"
+  },
+  {
+   "key": "MKE_VIRES_CHEYENNE_648006",
+   "name": "Cheyenne Lynn Vires",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793134676,
+   "photo": null
+  },
+  {
+   "key": "MKE_QUILES_NOEL_639666",
+   "name": "Noel Roberto Quiles",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793134674,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARCIA_JAMES_624176",
+   "name": "James Jacob Garcia",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1793134672,
+   "photo": null
+  },
+  {
+   "key": "MAR_PAYETTE_ALLEN_2026-10-27",
+   "name": "Allen Joseph Payette",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793134571,
+   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-27.jpg"
+  },
   {
    "key": "RC_MERTINS_SCOTT_120011075664602",
    "name": "Scott Douglas Mertins",
@@ -18,7 +117,7 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 0,
    "ts": 1793132889,
    "photo": null
@@ -29,8 +128,8 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1793132886,
    "photo": null
   },
@@ -117,32 +216,10 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Failure To Support Child (<120 Days)",
    "more": 0,
    "ts": 1793130505,
    "photo": "photos/RC_SPEARS_JERMAINE_120011075662197.jpg"
-  },
-  {
-   "key": "RC_CARDENASTORRES_JESUS_120011075662792",
-   "name": "Jesus Manuel Cardenas-Torres",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
-   "more": 0,
-   "ts": 1793130501,
-   "photo": "photos/RC_CARDENASTORRES_JESUS_120011075662792.jpg"
-  },
-  {
-   "key": "MKE_MCDONALD_CONNOR_648004",
-   "name": "Connor McDonald",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793129259,
-   "photo": null
   },
   {
    "key": "TABOR_ZACHARY_2026-10-27",
@@ -156,39 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_POLNITZ_DAVID_603453",
-   "name": "David Earl Polnitz",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1793127463,
-   "photo": null
-  },
-  {
-   "key": "MKE_LAWONN_ALEXANDER_612734",
-   "name": "Alexander James Lawonn",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793127461,
-   "photo": null
-  },
-  {
-   "key": "MKE_HAYES_EDWARD_648002",
-   "name": "Edward W Hayes",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793127458,
-   "photo": "photos/MKE_HAYES_EDWARD_648002.jpg"
-  },
-  {
    "key": "MAR_GRAEF_NAINNE_2026-10-27",
    "name": "Nainne Graef",
    "age": "33",
@@ -198,39 +242,6 @@
    "more": 3,
    "ts": 1793127325,
    "photo": "photos/MAR_GRAEF_NAINNE_2026-10-27.jpg"
-  },
-  {
-   "key": "KEN_ALDRIDGE_TIMOTHY_2026-00005950",
-   "name": "Timothy James Aldridge",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1793127308,
-   "photo": "photos/KEN_ALDRIDGE_TIMOTHY_2026-00005950.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_JERRAD_120011075659002",
-   "name": "Jerrad L Williams",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Take and Drive Vehicle Without Owner's Consent - 2nd+ Offense",
-   "more": 2,
-   "ts": 1793126880,
-   "photo": "photos/RC_WILLIAMS_JERRAD_120011075659002.jpg"
-  },
-  {
-   "key": "RC_LOZANO_ANAKIN_120011075660391",
-   "name": "Anakin E Lozano",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Neglecting a Child - Specified Harm Did Not Occur",
-   "more": 1,
-   "ts": 1793126878,
-   "photo": "photos/RC_LOZANO_ANAKIN_120011075660391.jpg"
   },
   {
    "key": "LITTLEJOHN_ASHLEY_2026-10-27",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793055388,
    "photo": "photos/MAR_CHAPMAN_DEAVON_2026-10-26.jpg"
-  },
-  {
-   "key": "MAR_COLLINS_RAY_2026-10-26",
-   "name": "Ray Junior Collins",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 1,
-   "ts": 1793055353,
-   "photo": "photos/MAR_COLLINS_RAY_2026-10-26.jpg"
   }
  ]
 }
