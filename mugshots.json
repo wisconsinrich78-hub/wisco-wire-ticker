@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T13:49:34+00:00",
+ "updated": "2026-10-27T14:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_STOCKTON_MACKEON_2054940",
+   "name": "Mackeon James Stockton",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 0,
+   "ts": 1793111271,
+   "photo": null
+  },
+  {
+   "key": "KEN_ZEAS_JHONNY_2026-00005945",
+   "name": "Jhonny Zeas",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793109294,
+   "photo": null
+  },
+  {
+   "key": "KEN_SOLTERO_ASUMANDEZ_2026-00005944",
+   "name": "Asumandez Mandy Soltero",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793109260,
+   "photo": "photos/KEN_SOLTERO_ASUMANDEZ_2026-00005944.jpg"
+  },
   {
    "key": "RC_JONES_JAMIE_120011075636121",
    "name": "Jamie Dayon Jones",
@@ -18,8 +51,8 @@
    "age": "17",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793107656,
    "photo": null
   },
@@ -32,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1793105853,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_WHITNEY_608401.jpg"
   },
   {
    "key": "MKE_GARCIABAUTISTA_JESUS_647999",
@@ -222,17 +255,6 @@
    "photo": "photos/KEN_BERRY_PERRY_2026-00005942.jpg"
   },
   {
-   "key": "RC_CHAVARRIAZEAS_JHONNY_120011075641065",
-   "name": "Jhonny Chavarriazeas",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793083668,
-   "photo": null
-  },
-  {
    "key": "ROSE_BRIAN_2026-10-27",
    "name": "Brian R Rose",
    "age": "23",
@@ -242,28 +264,6 @@
    "more": 0,
    "ts": 1793082420,
    "photo": null
-  },
-  {
-   "key": "MKE_GIEMZA_MIDNIGHT_638263",
-   "name": "Midnight Jane Giemza",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793080648,
-   "photo": "photos/MKE_GIEMZA_MIDNIGHT_638263.jpg"
-  },
-  {
-   "key": "MKE_DEAN_KAYLA_647997",
-   "name": "Kayla Marie Dean",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1793080646,
-   "photo": "photos/MKE_DEAN_KAYLA_647997.jpg"
   },
   {
    "key": "MAR_FRYSTAK_NICHOLAS_2026-10-26",
