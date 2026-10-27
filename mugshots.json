@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-27T01:49:30+00:00",
+ "updated": "2026-10-27T02:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_POLK_SHAQUETA_542326",
+   "name": "Shaqueta N Polk",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793068059,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANAGNOST_GABRIELLE_647996",
+   "name": "Gabrielle M Anagnost",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793068057,
+   "photo": null
+  },
+  {
+   "key": "MAR_COLLINS_RAY_2026-10-26_4299208",
+   "name": "Ray Junior Collins",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 1,
+   "ts": 1793066158,
+   "photo": "photos/MAR_COLLINS_RAY_2026-10-26_4299208.jpg"
+  },
+  {
+   "key": "KEN_MATUS_IAN_2026-00005938",
+   "name": "Ian Francisco Matus",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 2,
+   "ts": 1793066063,
+   "photo": "photos/KEN_MATUS_IAN_2026-00005938.jpg"
+  },
   {
    "key": "RC_WILLIAMS_HAROLD_120011075636059",
    "name": "Harold Gerard Williams",
@@ -29,8 +73,8 @@
    "age": "65",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Violate/harassment Restraining Order",
+   "more": 1,
    "ts": 1793065688,
    "photo": null
   },
@@ -106,7 +150,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Disorderly Conduct",
    "more": 14,
    "ts": 1793059053,
    "photo": null
@@ -165,39 +209,6 @@
    "more": 0,
    "ts": 1793058902,
    "photo": "photos/KEN_PINKTON_CAMAREN_2026-00005937.jpg"
-  },
-  {
-   "key": "KEN_OCANA_JESSICA_2026-00005936",
-   "name": "Jessica Sky Ocana",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 4,
-   "ts": 1793058827,
-   "photo": "photos/KEN_OCANA_JESSICA_2026-00005936.jpg"
-  },
-  {
-   "key": "RC_COSEY_CHRISTOPHER_120011075633240",
-   "name": "Christopher A Cosey",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793058476,
-   "photo": "photos/RC_COSEY_CHRISTOPHER_120011075633240.jpg"
-  },
-  {
-   "key": "MKE_WILLIS_DAEVION_625916",
-   "name": "Daevion Willis",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 1,
-   "ts": 1793057257,
-   "photo": "photos/MKE_WILLIS_DAEVION_625916.jpg"
   },
   {
    "key": "MAR_DZIEWIK_RYAN_2026-10-26",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1793022429,
    "photo": null
-  },
-  {
-   "key": "MAR_LEMMA_TYLER_2026-10-24",
-   "name": "Tyler Clayton Lemma",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 2,
-   "ts": 1793019430,
-   "photo": "photos/MAR_LEMMA_TYLER_2026-10-24.jpg"
   },
   {
    "key": "TREM_MENDEZPEREZ_FREDY_4984",
