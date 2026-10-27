@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T07:49:26+00:00",
+ "updated": "2026-10-27T08:49:27+00:00",
  "items": [
+  {
+   "key": "RC_FUENTES_BRIAN_120011075642234",
+   "name": "Brian Fuentes",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating W/Pac (1St)",
+   "more": 3,
+   "ts": 1793090870,
+   "photo": null
+  },
+  {
+   "key": "MAR_FRYSTAK_NICHOLAS_2026-10-26_16434701",
+   "name": "Nicholas Michael Frystak",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793087756,
+   "photo": "photos/MAR_FRYSTAK_NICHOLAS_2026-10-26_16434701.jpg"
+  },
+  {
+   "key": "KEN_DREWS_CHRISTOPHER_2026-00005943",
+   "name": "Christopher Steven Drews",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793087713,
+   "photo": null
+  },
   {
    "key": "RC_FLOWERS_DEONDREA_120011075641567",
    "name": "Deondrea Maria Flowers",
@@ -164,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793075279,
-   "photo": null
+   "photo": "photos/MKE_GOODE_AZZIZH_526236.jpg"
   },
   {
    "key": "MKE_ALLEN_SYLVESTER_288441",
@@ -197,18 +230,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793073455,
-   "photo": null
-  },
-  {
-   "key": "MKE_BUTLER_ASIA_521724",
-   "name": "Asia Denise Butler",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793073453,
-   "photo": "photos/MKE_BUTLER_ASIA_521724.jpg"
+   "photo": "photos/MKE_TAYLOR_JAYLEN_626610.jpg"
   },
   {
    "key": "MAYNARD_JOSEPH_2026-10-26",
@@ -231,17 +253,6 @@
    "more": 7,
    "ts": 1793069722,
    "photo": "photos/MAR_BROWN_DONTAY_2026-10-26.jpg"
-  },
-  {
-   "key": "KEN_CAROTHERS_CAYDEN_2026-00005939",
-   "name": "Cayden Tyrese Carothers",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1793069635,
-   "photo": "photos/KEN_CAROTHERS_CAYDEN_2026-00005939.jpg"
   },
   {
    "key": "MAR_COLLINS_RAY_2026-10-26_4299208",
@@ -440,17 +451,6 @@
    "more": 4,
    "ts": 1793037355,
    "photo": "photos/MAR_HER_MICHAEL_2026-10-26.jpg"
-  },
-  {
-   "key": "MAR_THOMAS_QUINCY_2026-10-26",
-   "name": "Quincy Lamar Thomas",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 4,
-   "ts": 1793033739,
-   "photo": "photos/MAR_THOMAS_QUINCY_2026-10-26.jpg"
   },
   {
    "key": "LOKEN_ESSENCE_2026-10-26",
