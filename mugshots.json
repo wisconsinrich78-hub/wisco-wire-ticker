@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-27T08:49:27+00:00",
+ "updated": "2026-10-27T09:49:34+00:00",
  "items": [
+  {
+   "key": "TREM_SEAGO_JOHN_2668",
+   "name": "John Robert Seago",
+   "age": "63",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1793094443,
+   "photo": "photos/TREM_SEAGO_JOHN_2668.jpg"
+  },
+  {
+   "key": "TREM_SANCHEZ_JUAN_5833",
+   "name": "Juan D Dios Sanchez",
+   "age": "28",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793094441,
+   "photo": "photos/TREM_SANCHEZ_JUAN_5833.jpg"
+  },
+  {
+   "key": "TREM_MAYNARD_JOSEPH_6195",
+   "name": "Joseph Mason Maynard",
+   "age": "34",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1793094439,
+   "photo": "photos/TREM_MAYNARD_JOSEPH_6195.jpg"
+  },
+  {
+   "key": "TREM_LAWLER_JEREMY_6194",
+   "name": "Jeremy Robert Lawler",
+   "age": "44",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 7th, 8th or 9th Offense",
+   "more": 0,
+   "ts": 1793094437,
+   "photo": "photos/TREM_LAWLER_JEREMY_6194.jpg"
+  },
+  {
+   "key": "TREM_HABHAB_SCOTT_6193",
+   "name": "Scott Allen Habhab",
+   "age": "39",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793094435,
+   "photo": "photos/TREM_HABHAB_SCOTT_6193.jpg"
+  },
+  {
+   "key": "TREM_GARRETT_DUSTIN_5578",
+   "name": "Dustin Allen Garrett",
+   "age": "34",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793094433,
+   "photo": "photos/TREM_GARRETT_DUSTIN_5578.jpg"
+  },
   {
    "key": "RC_FUENTES_BRIAN_120011075642234",
    "name": "Brian Fuentes",
@@ -29,8 +95,8 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 3,
    "ts": 1793087713,
    "photo": null
   },
@@ -87,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793084249,
-   "photo": null
+   "photo": "photos/MKE_FLOWERS_JACOB_626596.jpg"
   },
   {
    "key": "KEN_BERRY_PERRY_2026-00005942",
@@ -131,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793080648,
-   "photo": null
+   "photo": "photos/MKE_GIEMZA_MIDNIGHT_638263.jpg"
   },
   {
    "key": "MKE_DEAN_KAYLA_647997",
@@ -142,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 9,
    "ts": 1793080646,
-   "photo": null
+   "photo": "photos/MKE_DEAN_KAYLA_647997.jpg"
   },
   {
    "key": "MAR_FRYSTAK_NICHOLAS_2026-10-26",
@@ -208,7 +274,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1793075276,
-   "photo": null
+   "photo": "photos/MKE_ALLEN_SYLVESTER_288441.jpg"
   },
   {
    "key": "FDL_KELLEY_JAMES_2026-10-26",
@@ -462,72 +528,6 @@
    "more": 2,
    "ts": 1793029628,
    "photo": null
-  },
-  {
-   "key": "GUERRA_MALIK_2026-10-26",
-   "name": "Malik M Guerra",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793022430,
-   "photo": null
-  },
-  {
-   "key": "MCKINNEY_JATAY_2026-10-26",
-   "name": "Ja Tay W Mckinney",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793022429,
-   "photo": null
-  },
-  {
-   "key": "TREM_MENDEZPEREZ_FREDY_4984",
-   "name": "Fredy Mendez Perez",
-   "age": "31",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating while Intoxicated - 1st Offense, with a Minor Child in the V",
-   "more": 4,
-   "ts": 1793008035,
-   "photo": "photos/TREM_MENDEZPEREZ_FREDY_4984.jpg"
-  },
-  {
-   "key": "TREM_HOLMES_BRYONT_6191",
-   "name": "Bryont Lamar Holmes",
-   "age": "33",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1793008033,
-   "photo": "photos/TREM_HOLMES_BRYONT_6191.jpg"
-  },
-  {
-   "key": "FDL_SCHUH_DESTIN_2026-10-25",
-   "name": "Destin Jo Schuh",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792984622,
-   "photo": "photos/FDL_SCHUH_DESTIN_2026-10-25.jpg"
-  },
-  {
-   "key": "FDL_WESTRA_RUEBEN_2026-10-25",
-   "name": "Rueben Daniel Westra",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792981027,
-   "photo": "photos/FDL_WESTRA_RUEBEN_2026-10-25.jpg"
   }
  ]
 }
