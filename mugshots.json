@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-27T05:49:30+00:00",
+ "updated": "2026-10-27T06:49:26+00:00",
  "items": [
+  {
+   "key": "RC_CHAVARRIAZEAS_JHONNY_120011075641065",
+   "name": "Jhonny Chavarriazeas",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793083668,
+   "photo": null
+  },
+  {
+   "key": "ROSE_BRIAN_2026-10-27",
+   "name": "Brian R Rose",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793082420,
+   "photo": null
+  },
+  {
+   "key": "MKE_GIEMZA_MIDNIGHT_638263",
+   "name": "Midnight Jane Giemza",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793080648,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEAN_KAYLA_647997",
+   "name": "Kayla Marie Dean",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 9,
+   "ts": 1793080646,
+   "photo": null
+  },
+  {
+   "key": "MAR_FRYSTAK_NICHOLAS_2026-10-26",
+   "name": "Nicholas Michael Frystak",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793080548,
+   "photo": null
+  },
+  {
+   "key": "KEN_ESTEBAN_ERWIN_2026-00005940",
+   "name": "Erwin Np Esteban",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793080408,
+   "photo": "photos/KEN_ESTEBAN_ERWIN_2026-00005940.jpg"
+  },
   {
    "key": "MAR_CHAPMAN_DEAVON_2026-10-26_6323404",
    "name": "Deavon Allen Chapman",
@@ -189,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_FORTENBERRY_CHRISTOPHER_386590",
-   "name": "Christopher D Fortenberry",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793064449,
-   "photo": null
-  },
-  {
-   "key": "MKE_AKINS_ELIJAH_647995",
-   "name": "Elijah R Akins",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Incident",
-   "more": 4,
-   "ts": 1793064447,
-   "photo": null
-  },
-  {
    "key": "LESLIE_KYLIE_2026-10-26",
    "name": "Kylie Rose Leslie",
    "age": "31",
@@ -231,28 +275,6 @@
    "more": 2,
    "ts": 1793063832,
    "photo": "photos/DOU_ANDERSON_JOSEPH_2026-10-26.jpg"
-  },
-  {
-   "key": "RC_STYTES_KEVIN_120011075635193",
-   "name": "Kevin Stytes",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1793062084,
-   "photo": null
-  },
-  {
-   "key": "RC_CALLEWART_CHRIS_120011075635477",
-   "name": "Chris J Callewart",
-   "age": "65",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793062080,
-   "photo": null
   },
   {
    "key": "MAR_DZIEWIK_RYAN_2026-10-26",
@@ -431,17 +453,6 @@
    "photo": "photos/MAR_THOMAS_QUINCY_2026-10-26.jpg"
   },
   {
-   "key": "MAR_BYARS_RALPH_2026-10-24_13011609",
-   "name": "Ralph Eugene Byars",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793030190,
-   "photo": "photos/MAR_BYARS_RALPH_2026-10-24_13011609.jpg"
-  },
-  {
    "key": "LOKEN_ESSENCE_2026-10-26",
    "name": "Essence A Loken",
    "age": "30",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792981027,
    "photo": "photos/FDL_WESTRA_RUEBEN_2026-10-25.jpg"
-  },
-  {
-   "key": "THOMAS_MORRIS_2026-10-25",
-   "name": "Morris M Thomas",
-   "age": "65",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1792978046,
-   "photo": null
   }
  ]
 }
