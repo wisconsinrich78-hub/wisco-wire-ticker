@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-27T22:49:34+00:00",
+ "updated": "2026-10-27T23:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_MILLIKIN_KYLE_631095",
+   "name": "Kyle Andrew Millikin",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 1,
+   "ts": 1793143682,
+   "photo": null
+  },
+  {
+   "key": "MKE_AHMEDYAHIA_RYAN_648007",
+   "name": "Ryan Fahd Ahmed-yahia",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793143679,
+   "photo": null
+  },
+  {
+   "key": "MAR_ALMENDAREZCASTRO_DOUGLAS_2026-10-27",
+   "name": "Douglas Alejandro Almendarez Castro",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "False Imprisonment",
+   "more": 1,
+   "ts": 1793141766,
+   "photo": null
+  },
+  {
+   "key": "MAR_ZOUL_ALBERTO_2026-10-27",
+   "name": "Alberto Matthew Zoul",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "2Nd Sexual Assault With Child Under 16 Years",
+   "more": 0,
+   "ts": 1793141727,
+   "photo": null
+  },
   {
    "key": "MKE_RANDLE_NEHEMIAH_372526",
    "name": "Nehemiah D Randle",
@@ -84,7 +128,7 @@
    "age": "42",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1793137712,
    "photo": "photos/RC_MARGETSON_RICHARD_120011075666168.jpg"
@@ -95,8 +139,8 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent/Deliver Non-Narcotics",
+   "more": 10,
    "ts": 1793137707,
    "photo": "photos/RC_BROE_DAVID_120011075666262.jpg"
   },
@@ -186,18 +230,7 @@
    "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 0,
    "ts": 1793132889,
-   "photo": null
-  },
-  {
-   "key": "MKE_HATCHER_REGGIE_648005",
-   "name": "Reggie Hatcher",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793132886,
-   "photo": null
+   "photo": "photos/MKE_SANDERS_LARONDA_504728.jpg"
   },
   {
    "key": "BONNER_SHEDRICK_2026-10-27",
@@ -220,17 +253,6 @@
    "more": 0,
    "ts": 1793132202,
    "photo": "photos/FDL_LAST_JAMES_2026-10-27.jpg"
-  },
-  {
-   "key": "KEN_VEGA_NELSON_2026-00005954",
-   "name": "NELSON Junior VEGA",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793131218,
-   "photo": "photos/KEN_VEGA_NELSON_2026-00005954.jpg"
   },
   {
    "key": "MAR_COVINGTON_TERRELL_2026-10-27",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1793066158,
    "photo": "photos/MAR_COLLINS_RAY_2026-10-26_4299208.jpg"
-  },
-  {
-   "key": "LESLIE_KYLIE_2026-10-26",
-   "name": "Kylie Rose Leslie",
-   "age": "31",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793064422,
-   "photo": null
-  },
-  {
-   "key": "DOU_ANDERSON_JOSEPH_2026-10-26",
-   "name": "Joseph L Anderson",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793063832,
-   "photo": "photos/DOU_ANDERSON_JOSEPH_2026-10-26.jpg"
   }
  ]
 }
