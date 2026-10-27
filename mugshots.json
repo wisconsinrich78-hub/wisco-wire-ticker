@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-27T21:49:31+00:00",
+ "updated": "2026-10-27T22:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_RANDLE_NEHEMIAH_372526",
+   "name": "Nehemiah D Randle",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Reckless Homicide",
+   "more": 5,
+   "ts": 1793138268,
+   "photo": null
+  },
+  {
+   "key": "MKE_LANE_ROMEO_536557",
+   "name": "Romeo B Lane",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Posses W/Intent-Fentanyl (>50G)",
+   "more": 0,
+   "ts": 1793138267,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEGGINS_FAVIAN_637659",
+   "name": "Favian J Deggins",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
+   "more": 0,
+   "ts": 1793138265,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENFORD_DORIAN_646223",
+   "name": "Dorian Ross Benford",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793138263,
+   "photo": null
+  },
+  {
+   "key": "WITTENBERG_CARLI_2026-10-27",
+   "name": "Carli M Wittenberg",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793138226,
+   "photo": null
+  },
+  {
+   "key": "MAR_PETERS_DANIELLE_2026-10-27",
+   "name": "Danielle Sue Peters",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Motor Vehicle Theft - Take And Drive W/O Consent",
+   "more": 0,
+   "ts": 1793138141,
+   "photo": null
+  },
   {
    "key": "RC_PABON_PEDRO_120011075665964",
    "name": "Pedro F Pabon",
@@ -65,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793134676,
-   "photo": null
+   "photo": "photos/MKE_VIRES_CHEYENNE_648006.jpg"
   },
   {
    "key": "MKE_QUILES_NOEL_639666",
@@ -76,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793134674,
-   "photo": null
+   "photo": "photos/MKE_QUILES_NOEL_639666.jpg"
   },
   {
    "key": "MKE_GARCIA_JAMES_624176",
@@ -87,7 +153,7 @@
    "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 0,
    "ts": 1793134672,
-   "photo": null
+   "photo": "photos/MKE_GARCIA_JAMES_624176.jpg"
   },
   {
    "key": "MAR_PAYETTE_ALLEN_2026-10-27",
@@ -167,39 +233,6 @@
    "photo": "photos/KEN_VEGA_NELSON_2026-00005954.jpg"
   },
   {
-   "key": "KEN_OLRICH_JASON_2026-00005953",
-   "name": "Jason Allen Olrich",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793131142,
-   "photo": "photos/KEN_OLRICH_JASON_2026-00005953.jpg"
-  },
-  {
-   "key": "KEN_GARRETT_ANDREA_2026-00005951",
-   "name": "Andrea Jean Garrett",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793131067,
-   "photo": "photos/KEN_GARRETT_ANDREA_2026-00005951.jpg"
-  },
-  {
-   "key": "KEN_BODY_EDWARD_2026-00005955",
-   "name": "EDWARD LEWIS Junior BODY",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793130990,
-   "photo": "photos/KEN_BODY_EDWARD_2026-00005955.jpg"
-  },
-  {
    "key": "MAR_COVINGTON_TERRELL_2026-10-27",
    "name": "Terrell Douglas Covington",
    "age": "29",
@@ -209,17 +242,6 @@
    "more": 0,
    "ts": 1793130972,
    "photo": "photos/MAR_COVINGTON_TERRELL_2026-10-27.jpg"
-  },
-  {
-   "key": "RC_SPEARS_JERMAINE_120011075662197",
-   "name": "Jermaine Lamonte Spears",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Failure To Support Child (<120 Days)",
-   "more": 0,
-   "ts": 1793130505,
-   "photo": "photos/RC_SPEARS_JERMAINE_120011075662197.jpg"
   },
   {
    "key": "TABOR_ZACHARY_2026-10-27",
@@ -506,28 +528,6 @@
    "more": 2,
    "ts": 1793063832,
    "photo": "photos/DOU_ANDERSON_JOSEPH_2026-10-26.jpg"
-  },
-  {
-   "key": "MAR_DZIEWIK_RYAN_2026-10-26",
-   "name": "Ryan Dziewik",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793055431,
-   "photo": null
-  },
-  {
-   "key": "MAR_CHAPMAN_DEAVON_2026-10-26",
-   "name": "Deavon Allen Chapman",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "False Imprisonment",
-   "more": 0,
-   "ts": 1793055388,
-   "photo": "photos/MAR_CHAPMAN_DEAVON_2026-10-26.jpg"
   }
  ]
 }
