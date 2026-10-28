@@ -1,16 +1,27 @@
 {
- "updated": "2026-10-28T08:49:31+00:00",
+ "updated": "2026-10-28T09:49:30+00:00",
  "items": [
+  {
+   "key": "KEN_LUCAS_JERRY_2026-00005961",
+   "name": "JERRY DARNELL Junior LUCAS",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793177794,
+   "photo": "photos/KEN_LUCAS_JERRY_2026-00005961.jpg"
+  },
   {
    "key": "KEN_HUTCHINSON_SHANIKE_2026-00005960",
    "name": "Shanike T Hutchinson",
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Battery",
+   "more": 1,
    "ts": 1793174037,
-   "photo": null
+   "photo": "photos/KEN_HUTCHINSON_SHANIKE_2026-00005960.jpg"
   },
   {
    "key": "KEN_DANIEL_ANTONIO_2026-00005959",
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1793157385,
    "photo": "photos/FDL_HAUBOLDT_MATTHEW_2026-10-27.jpg"
-  },
-  {
-   "key": "MKE_YOUNG_KIZZIE_648013",
-   "name": "Kizzie Marie Young",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793156251,
-   "photo": null
   },
   {
    "key": "MAR_ZOUL_ALBERTO_2026-10-27_15487001",
