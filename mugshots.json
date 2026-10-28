@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-28T13:49:29+00:00",
+ "updated": "2026-10-28T14:49:28+00:00",
  "items": [
+  {
+   "key": "RC_GILLIOM_MARVIN_120011075686055",
+   "name": "Marvin E Gilliom",
+   "age": "64",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793198879,
+   "photo": "photos/RC_GILLIOM_MARVIN_120011075686055.jpg"
+  },
+  {
+   "key": "RC_FORD_JAMAUEL_120011075684531",
+   "name": "Jamauel A Ford",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Child Abuse-Recklessly Cause Harm",
+   "more": 2,
+   "ts": 1793198876,
+   "photo": "photos/RC_FORD_JAMAUEL_120011075684531.jpg"
+  },
+  {
+   "key": "WENZEL_LUKE_2026-10-28",
+   "name": "Luke G Wenzel",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1793197624,
+   "photo": null
+  },
   {
    "key": "MKE_REED_CHARLES_338785",
    "name": "Charles Edward Reed",
@@ -21,7 +54,7 @@
    "charge": "Neglecting a Child (Consequence is Great Bodily Harm)",
    "more": 1,
    "ts": 1793194056,
-   "photo": null
+   "photo": "photos/MKE_MIER_ALYSSA_638170.jpg"
   },
   {
    "key": "MKE_FAN_LINLIN_648018",
@@ -32,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793194054,
-   "photo": null
+   "photo": "photos/MKE_FAN_LINLIN_648018.jpg"
   },
   {
    "key": "MKE_CORSO_CRISTY_615315",
@@ -40,8 +73,8 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793194051,
    "photo": null
   },
@@ -165,28 +198,6 @@
    "more": 1,
    "ts": 1793173676,
    "photo": "photos/RC_WHITFIELD_HASSAN_120011075677341.jpg"
-  },
-  {
-   "key": "MKE_MCKINLEY_BRIAN_266756",
-   "name": "Brian Keith McKinley",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793172472,
-   "photo": "photos/MKE_MCKINLEY_BRIAN_266756.jpg"
-  },
-  {
-   "key": "MKE_LEWIS_LARRON_270283",
-   "name": "Larron Terrell Lewis",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793172470,
-   "photo": "photos/MKE_LEWIS_LARRON_270283.jpg"
   },
   {
    "key": "MAR_TRIGOTENCOFLORES_MIGUEL_2026-10-27",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793094437,
    "photo": "photos/TREM_LAWLER_JEREMY_6194.jpg"
-  },
-  {
-   "key": "TREM_HABHAB_SCOTT_6193",
-   "name": "Scott Allen Habhab",
-   "age": "39",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793094435,
-   "photo": "photos/TREM_HABHAB_SCOTT_6193.jpg"
   }
  ]
 }
