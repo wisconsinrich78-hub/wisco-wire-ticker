@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-28T19:49:30+00:00",
+ "updated": "2026-10-28T20:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_MENDOZA_ANDREW_386372",
+   "name": "Andrew Joseph Mendoza",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1793219265,
+   "photo": null
+  },
+  {
+   "key": "DOU_BROWN_ALLANA_2026-10-28",
+   "name": "Allana G Brown",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793218765,
+   "photo": "photos/DOU_BROWN_ALLANA_2026-10-28.jpg"
+  },
+  {
+   "key": "MAR_VANG_RICHARD_2026-10-28_12481402",
+   "name": "Richard Vang",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1793217438,
+   "photo": "photos/MAR_VANG_RICHARD_2026-10-28_12481402.jpg"
+  },
+  {
+   "key": "MAR_DRAKE_BRANDON_2026-10-28",
+   "name": "Brandon Lee Drake",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793217398,
+   "photo": null
+  },
+  {
+   "key": "MAR_CAUTHEN_TRISHA_2026-10-28",
+   "name": "Trisha Lynn Cauthen",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793217363,
+   "photo": "photos/MAR_CAUTHEN_TRISHA_2026-10-28.jpg"
+  },
+  {
+   "key": "MAR_MAGEE_CHAYSE_2026-10-28",
+   "name": "Chayse R Magee",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1793217321,
+   "photo": "photos/MAR_MAGEE_CHAYSE_2026-10-28.jpg"
+  },
   {
    "key": "RC_TRIPLETT_DEANGELO_120011075695776",
    "name": "Deangelo Triplett",
@@ -29,8 +95,8 @@
    "age": "26",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Veh. Operator Flee/Elude Officer",
+   "more": 3,
    "ts": 1793216881,
    "photo": null
   },
@@ -233,17 +299,6 @@
    "photo": null
   },
   {
-   "key": "MKE_CANNADY_LAMONT_600920",
-   "name": "Lamont Marshawn Cannady",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 16,
-   "ts": 1793208461,
-   "photo": null
-  },
-  {
    "key": "DOU_MITCHELL_KWAME_2026-10-28",
    "name": "Kwame N Mitchell",
    "age": "32",
@@ -332,17 +387,6 @@
    "photo": "photos/MAR_MARX_RAMONA_2026-10-27_13492401.jpg"
   },
   {
-   "key": "MAR_MARX_RAMONA_2026-10-27",
-   "name": "Ramona Lynne Marx",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793166918,
-   "photo": null
-  },
-  {
    "key": "FDL_MILLER_MATTHEW_2026-10-27",
    "name": "Matthew H Miller",
    "age": "",
@@ -354,28 +398,6 @@
    "photo": "photos/FDL_MILLER_MATTHEW_2026-10-27.jpg"
   },
   {
-   "key": "MAR_BROWN_DONTAY_2026-10-26_15177204",
-   "name": "Dontay Lee Brown",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 8,
-   "ts": 1793159740,
-   "photo": "photos/MAR_BROWN_DONTAY_2026-10-26_15177204.jpg"
-  },
-  {
-   "key": "MAR_ALMENDAREZCASTRO_DOUGLAS_2026-10-27_15754801",
-   "name": "Douglas Alejandro Almendarez Castro",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "False Imprisonment",
-   "more": 1,
-   "ts": 1793159704,
-   "photo": null
-  },
-  {
    "key": "FDL_HAUBOLDT_MATTHEW_2026-10-27",
    "name": "Matthew James Hauboldt",
    "age": "",
@@ -385,28 +407,6 @@
    "more": 0,
    "ts": 1793157385,
    "photo": "photos/FDL_HAUBOLDT_MATTHEW_2026-10-27.jpg"
-  },
-  {
-   "key": "MAR_ZOUL_ALBERTO_2026-10-27_15487001",
-   "name": "Alberto Matthew Zoul",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "2Nd Sexual Assault With Child Under 16 Years",
-   "more": 0,
-   "ts": 1793152515,
-   "photo": "photos/MAR_ZOUL_ALBERTO_2026-10-27_15487001.jpg"
-  },
-  {
-   "key": "DOU_KALASH_JACKI_2026-10-27",
-   "name": "Jacki M Kalash",
-   "age": "41",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793147347,
-   "photo": "photos/DOU_KALASH_JACKI_2026-10-27.jpg"
   },
   {
    "key": "CARMODY_CASSANDRA_2026-10-27",
