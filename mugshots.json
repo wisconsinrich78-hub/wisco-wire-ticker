@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-27T23:49:34+00:00",
+ "updated": "2026-10-28T00:49:27+00:00",
  "items": [
+  {
+   "key": "RC_SMITH_STANLEY_120011075670334",
+   "name": "Stanley Ja'von Smith",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 0,
+   "ts": 1793148485,
+   "photo": null
+  },
+  {
+   "key": "DOU_KALASH_JACKI_2026-10-27",
+   "name": "Jacki M Kalash",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793147347,
+   "photo": "photos/DOU_KALASH_JACKI_2026-10-27.jpg"
+  },
+  {
+   "key": "CARMODY_CASSANDRA_2026-10-27",
+   "name": "Cassandra M Carmody",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1793147230,
+   "photo": null
+  },
+  {
+   "key": "FDL_GERARD_TYLER_2026-10-27",
+   "name": "Tyler E Gerard",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Physical Abuse Of A Child",
+   "more": 3,
+   "ts": 1793146635,
+   "photo": "photos/FDL_GERARD_TYLER_2026-10-27.jpg"
+  },
+  {
+   "key": "MKE_SIMS_DARIUS_371865",
+   "name": "Darius Cortez Sims",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793145474,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIESZAK_ZACHARY_648008",
+   "name": "Zachary Sean Pieszak",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793145470,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_KIARA_642790",
+   "name": "Kiara N Moore",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to Healthcare Provider or Family",
+   "more": 0,
+   "ts": 1793145468,
+   "photo": null
+  },
+  {
+   "key": "MAR_COVINGTON_TERRELL_2026-10-27_5867205",
+   "name": "Terrell Douglas Covington",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793145319,
+   "photo": "photos/MAR_COVINGTON_TERRELL_2026-10-27_5867205.jpg"
+  },
   {
    "key": "MKE_MILLIKIN_KYLE_631095",
    "name": "Kyle Andrew Millikin",
@@ -65,7 +153,7 @@
    "charge": "Posses W/Intent-Fentanyl (>50G)",
    "more": 0,
    "ts": 1793138267,
-   "photo": null
+   "photo": "photos/MKE_LANE_ROMEO_536557.jpg"
   },
   {
    "key": "MKE_DEGGINS_FAVIAN_637659",
@@ -161,8 +249,8 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 2,
    "ts": 1793137698,
    "photo": "photos/RC_ALVAREZ_JULIAN_120011075666211.jpg"
   },
@@ -178,28 +266,6 @@
    "photo": "photos/MKE_VIRES_CHEYENNE_648006.jpg"
   },
   {
-   "key": "MKE_QUILES_NOEL_639666",
-   "name": "Noel Roberto Quiles",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793134674,
-   "photo": "photos/MKE_QUILES_NOEL_639666.jpg"
-  },
-  {
-   "key": "MKE_GARCIA_JAMES_624176",
-   "name": "James Jacob Garcia",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 0,
-   "ts": 1793134672,
-   "photo": "photos/MKE_GARCIA_JAMES_624176.jpg"
-  },
-  {
    "key": "MAR_PAYETTE_ALLEN_2026-10-27",
    "name": "Allen Joseph Payette",
    "age": "47",
@@ -209,28 +275,6 @@
    "more": 0,
    "ts": 1793134571,
    "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-27.jpg"
-  },
-  {
-   "key": "RC_MERTINS_SCOTT_120011075664602",
-   "name": "Scott Douglas Mertins",
-   "age": "60",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793134091,
-   "photo": "photos/RC_MERTINS_SCOTT_120011075664602.jpg"
-  },
-  {
-   "key": "MKE_SANDERS_LARONDA_504728",
-   "name": "Laronda Shondae Sanders",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1793132889,
-   "photo": "photos/MKE_SANDERS_LARONDA_504728.jpg"
   },
   {
    "key": "BONNER_SHEDRICK_2026-10-27",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1793077017,
    "photo": "photos/MAR_CHAPMAN_DEAVON_2026-10-26_6323404.jpg"
-  },
-  {
-   "key": "FDL_KELLEY_JAMES_2026-10-26",
-   "name": "James D Kelley",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1793074603,
-   "photo": "photos/FDL_KELLEY_JAMES_2026-10-26.jpg"
-  },
-  {
-   "key": "MAYNARD_JOSEPH_2026-10-26",
-   "name": "Joseph M Maynard",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Out Of County Warrant",
-   "more": 1,
-   "ts": 1793071622,
-   "photo": null
-  },
-  {
-   "key": "MAR_BROWN_DONTAY_2026-10-26",
-   "name": "Dontay Lee Brown",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 7,
-   "ts": 1793069722,
-   "photo": "photos/MAR_BROWN_DONTAY_2026-10-26.jpg"
-  },
-  {
-   "key": "MAR_COLLINS_RAY_2026-10-26_4299208",
-   "name": "Ray Junior Collins",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 1,
-   "ts": 1793066158,
-   "photo": "photos/MAR_COLLINS_RAY_2026-10-26_4299208.jpg"
   }
  ]
 }
