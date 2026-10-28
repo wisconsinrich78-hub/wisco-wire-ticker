@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-28T02:49:34+00:00",
+ "updated": "2026-10-28T03:49:26+00:00",
  "items": [
+  {
+   "key": "FDL_HAUBOLDT_MATTHEW_2026-10-27",
+   "name": "Matthew James Hauboldt",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1793157385,
+   "photo": "photos/FDL_HAUBOLDT_MATTHEW_2026-10-27.jpg"
+  },
+  {
+   "key": "MKE_YOUNG_KIZZIE_648013",
+   "name": "Kizzie Marie Young",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793156251,
+   "photo": null
+  },
+  {
+   "key": "MKE_SPEARS_TIERA_648012",
+   "name": "Tiera C Spears",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793156250,
+   "photo": null
+  },
   {
    "key": "MKE_VANLANDINGHAM_WILLIE_168905",
    "name": "Willie Vanlandingham",
@@ -40,8 +73,8 @@
    "age": "55",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Drug Paraphernalia (Forfeiture)",
+   "more": 1,
    "ts": 1793150869,
    "photo": null
   },
@@ -231,28 +264,6 @@
    "more": 0,
    "ts": 1793141727,
    "photo": null
-  },
-  {
-   "key": "MKE_RANDLE_NEHEMIAH_372526",
-   "name": "Nehemiah D Randle",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Reckless Homicide",
-   "more": 5,
-   "ts": 1793138268,
-   "photo": null
-  },
-  {
-   "key": "MKE_LANE_ROMEO_536557",
-   "name": "Romeo B Lane",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Posses W/Intent-Fentanyl (>50G)",
-   "more": 0,
-   "ts": 1793138267,
-   "photo": "photos/MKE_LANE_ROMEO_536557.jpg"
   },
   {
    "key": "WITTENBERG_CARLI_2026-10-27",
@@ -516,17 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793082420,
-   "photo": null
-  },
-  {
-   "key": "MAR_FRYSTAK_NICHOLAS_2026-10-26",
-   "name": "Nicholas Michael Frystak",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793080548,
    "photo": null
   }
  ]
