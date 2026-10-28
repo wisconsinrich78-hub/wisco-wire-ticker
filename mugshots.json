@@ -1,14 +1,36 @@
 {
- "updated": "2026-10-28T07:49:30+00:00",
+ "updated": "2026-10-28T08:49:31+00:00",
  "items": [
+  {
+   "key": "KEN_HUTCHINSON_SHANIKE_2026-00005960",
+   "name": "Shanike T Hutchinson",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793174037,
+   "photo": null
+  },
+  {
+   "key": "KEN_DANIEL_ANTONIO_2026-00005959",
+   "name": "Antonio D Daniel",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Marijuana (Thc) 2Nd+",
+   "more": 0,
+   "ts": 1793174001,
+   "photo": null
+  },
   {
    "key": "RC_WHITFIELD_HASSAN_120011075677341",
    "name": "Hassan A Whitfield",
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-felony",
+   "more": 1,
    "ts": 1793173676,
    "photo": "photos/RC_WHITFIELD_HASSAN_120011075677341.jpg"
   },
@@ -230,28 +252,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793156251,
-   "photo": null
-  },
-  {
-   "key": "MKE_SPEARS_TIERA_648012",
-   "name": "Tiera C Spears",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793156250,
-   "photo": null
-  },
-  {
-   "key": "MKE_VANLANDINGHAM_WILLIE_168905",
-   "name": "Willie Vanlandingham",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery to an Elder Person - Intend Bodily Harm",
-   "more": 1,
-   "ts": 1793154455,
    "photo": null
   },
   {
