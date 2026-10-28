@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-28T01:49:29+00:00",
+ "updated": "2026-10-28T02:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_VANLANDINGHAM_WILLIE_168905",
+   "name": "Willie Vanlandingham",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to an Elder Person - Intend Bodily Harm",
+   "more": 1,
+   "ts": 1793154455,
+   "photo": null
+  },
+  {
+   "key": "MKE_REED_LORENZO_648011",
+   "name": "Lorenzo Antonio Reed",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793154454,
+   "photo": null
+  },
+  {
+   "key": "MAR_ZOUL_ALBERTO_2026-10-27_15487001",
+   "name": "Alberto Matthew Zoul",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "2Nd Sexual Assault With Child Under 16 Years",
+   "more": 0,
+   "ts": 1793152515,
+   "photo": "photos/MAR_ZOUL_ALBERTO_2026-10-27_15487001.jpg"
+  },
   {
    "key": "MKE_SHAW_CHARLES_230970",
    "name": "Charles Albert Shaw",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1793138267,
    "photo": "photos/MKE_LANE_ROMEO_536557.jpg"
-  },
-  {
-   "key": "MKE_DEGGINS_FAVIAN_637659",
-   "name": "Favian J Deggins",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Adjudicated Delinquent",
-   "more": 0,
-   "ts": 1793138265,
-   "photo": null
-  },
-  {
-   "key": "MKE_BENFORD_DORIAN_646223",
-   "name": "Dorian Ross Benford",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793138263,
-   "photo": null
   },
   {
    "key": "WITTENBERG_CARLI_2026-10-27",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793080548,
    "photo": null
-  },
-  {
-   "key": "MAR_CHAPMAN_DEAVON_2026-10-26_6323404",
-   "name": "Deavon Allen Chapman",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "False Imprisonment",
-   "more": 0,
-   "ts": 1793077017,
-   "photo": "photos/MAR_CHAPMAN_DEAVON_2026-10-26_6323404.jpg"
   }
  ]
 }
