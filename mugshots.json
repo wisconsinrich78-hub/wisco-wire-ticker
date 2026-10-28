@@ -1,14 +1,36 @@
 {
- "updated": "2026-10-28T04:49:29+00:00",
+ "updated": "2026-10-28T06:49:27+00:00",
  "items": [
+  {
+   "key": "MAR_MARX_RAMONA_2026-10-27",
+   "name": "Ramona Lynne Marx",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793166918,
+   "photo": null
+  },
+  {
+   "key": "KEN_LOVE_GERRELL_2026-00005957",
+   "name": "Gerrell Dominique Love",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793166831,
+   "photo": "photos/KEN_LOVE_GERRELL_2026-00005957.jpg"
+  },
   {
    "key": "RC_WILLIAMS_DAZARIUS_120011075675014",
    "name": "Dazarius T Williams",
    "age": "26",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of a Firearm by a Felon",
+   "more": 3,
    "ts": 1793162884,
    "photo": "photos/RC_WILLIAMS_DAZARIUS_120011075675014.jpg"
   },
@@ -150,7 +172,7 @@
    "age": "63",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery to an Elder Person - Intend Bodily Harm",
+   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
    "more": 1,
    "ts": 1793154455,
    "photo": null
@@ -183,7 +205,7 @@
    "age": "55",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess Drug Paraphernalia (Forfeiture)",
+   "charge": "Charges Pending",
    "more": 1,
    "ts": 1793150869,
    "photo": null
@@ -219,17 +241,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793150863,
-   "photo": null
-  },
-  {
-   "key": "MKE_BELL_PATRICK_648009",
-   "name": "Patrick Ryan Bell",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793149056,
    "photo": null
   },
   {
@@ -462,17 +473,6 @@
    "more": 4,
    "ts": 1793116503,
    "photo": null
-  },
-  {
-   "key": "MAR_VANG_PANG_2026-10-27",
-   "name": "Pang Nang Vang",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793112913,
-   "photo": "photos/MAR_VANG_PANG_2026-10-27.jpg"
   },
   {
    "key": "TREM_SEAGO_JOHN_2668",
