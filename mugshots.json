@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-28T09:49:30+00:00",
+ "updated": "2026-10-28T10:49:25+00:00",
  "items": [
+  {
+   "key": "MKE_WOODS_ANTHONY_364874",
+   "name": "Anthony Clarence Woods",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793183247,
+   "photo": null
+  },
+  {
+   "key": "MKE_CONERY_LARENZO_648016",
+   "name": "Larenzo M Conery",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793183245,
+   "photo": null
+  },
+  {
+   "key": "MKE_STOTT_KAMRON_611411",
+   "name": "Kamron Hakeim Stott",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793181466,
+   "photo": null
+  },
+  {
+   "key": "MAR_LEMMA_TYLER_2026-10-24",
+   "name": "Tyler Clayton Lemma",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 2,
+   "ts": 1793181305,
+   "photo": "photos/MAR_LEMMA_TYLER_2026-10-24.jpg"
+  },
   {
    "key": "KEN_LUCAS_JERRY_2026-00005961",
    "name": "JERRY DARNELL Junior LUCAS",
@@ -178,17 +222,6 @@
    "photo": "photos/RC_AYERS_MICHAEL_120011075674935.jpg"
   },
   {
-   "key": "MKE_SOLIS_ERIC_648015",
-   "name": "Eric Solis",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793161655,
-   "photo": null
-  },
-  {
    "key": "FDL_MILLER_MATTHEW_2026-10-27",
    "name": "Matthew H Miller",
    "age": "",
@@ -198,28 +231,6 @@
    "more": 1,
    "ts": 1793160996,
    "photo": "photos/FDL_MILLER_MATTHEW_2026-10-27.jpg"
-  },
-  {
-   "key": "MKE_MOORE_RODRICK_648014",
-   "name": "Rodrick Moore",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793159867,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAY_DEONTAY_636687",
-   "name": "Deontay D Day",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793159865,
-   "photo": null
   },
   {
    "key": "MAR_BROWN_DONTAY_2026-10-26_15177204",
@@ -461,17 +472,6 @@
    "charge": "Bail Jumping-Felony",
    "more": 0,
    "ts": 1793122020,
-   "photo": null
-  },
-  {
-   "key": "DOU_HOFF_SAMUEL_2026-10-27",
-   "name": "Samuel J Hoff",
-   "age": "21",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793121434,
    "photo": null
   },
   {
