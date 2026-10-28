@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-28T06:49:27+00:00",
+ "updated": "2026-10-28T07:49:30+00:00",
  "items": [
+  {
+   "key": "RC_WHITFIELD_HASSAN_120011075677341",
+   "name": "Hassan A Whitfield",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793173676,
+   "photo": "photos/RC_WHITFIELD_HASSAN_120011075677341.jpg"
+  },
+  {
+   "key": "MKE_MCKINLEY_BRIAN_266756",
+   "name": "Brian Keith McKinley",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793172472,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_LARRON_270283",
+   "name": "Larron Terrell Lewis",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1793172470,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEARD_SHALENA_607558",
+   "name": "Shalena Laneek Beard",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793170650,
+   "photo": null
+  },
+  {
+   "key": "MAR_TRIGOTENCOFLORES_MIGUEL_2026-10-27",
+   "name": "Miguel Trigotenco Flores",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 1,
+   "ts": 1793170553,
+   "photo": null
+  },
+  {
+   "key": "MAR_MARX_RAMONA_2026-10-27_13492401",
+   "name": "Ramona Lynne Marx",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793170518,
+   "photo": "photos/MAR_MARX_RAMONA_2026-10-27_13492401.jpg"
+  },
+  {
+   "key": "KEN_KRUEGER_JASON_2026-00005958",
+   "name": "Jason Michael Krueger",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess Methamphetamine",
+   "more": 1,
+   "ts": 1793170434,
+   "photo": "photos/KEN_KRUEGER_JASON_2026-00005958.jpg"
+  },
   {
    "key": "MAR_MARX_RAMONA_2026-10-27",
    "name": "Ramona Lynne Marx",
@@ -18,7 +95,7 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out Of County",
    "more": 0,
    "ts": 1793166831,
    "photo": "photos/KEN_LOVE_GERRELL_2026-00005957.jpg"
@@ -51,8 +128,8 @@
    "age": "45",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Theft - False Representation - Impersonation - (<=$2,500)",
+   "more": 3,
    "ts": 1793162878,
    "photo": null
   },
@@ -172,20 +249,9 @@
    "age": "63",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
+   "charge": "Battery to an Elder Person - Intend Bodily Harm",
    "more": 1,
    "ts": 1793154455,
-   "photo": null
-  },
-  {
-   "key": "MKE_REED_LORENZO_648011",
-   "name": "Lorenzo Antonio Reed",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793154454,
    "photo": null
   },
   {
@@ -198,50 +264,6 @@
    "more": 0,
    "ts": 1793152515,
    "photo": "photos/MAR_ZOUL_ALBERTO_2026-10-27_15487001.jpg"
-  },
-  {
-   "key": "MKE_SHAW_CHARLES_230970",
-   "name": "Charles Albert Shaw",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793150869,
-   "photo": null
-  },
-  {
-   "key": "MKE_RAMOS_MARIA_329058",
-   "name": "Maria Julissa Ramos",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793150867,
-   "photo": null
-  },
-  {
-   "key": "MKE_GUTIERREZMANSILLA_DENISSE_648010",
-   "name": "Denisse N Gutierrez Mansilla",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793150865,
-   "photo": null
-  },
-  {
-   "key": "MKE_BUBOLZ_DENNIS_281672",
-   "name": "Dennis Robert Bubolz",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793150863,
-   "photo": null
   },
   {
    "key": "DOU_KALASH_JACKI_2026-10-27",
@@ -450,28 +472,6 @@
    "charge": "Charges:",
    "more": 2,
    "ts": 1793121434,
-   "photo": null
-  },
-  {
-   "key": "MAR_VANG_PANG_2026-10-27_13722",
-   "name": "Pang Nang Vang",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793120122,
-   "photo": "photos/MAR_VANG_PANG_2026-10-27_13722.jpg"
-  },
-  {
-   "key": "MAR_KOCH_BRYAN_2026-10-27",
-   "name": "Bryan Lee Koch",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 4,
-   "ts": 1793116503,
    "photo": null
   },
   {
