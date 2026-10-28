@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-28T17:49:33+00:00",
+ "updated": "2026-10-28T18:49:31+00:00",
  "items": [
+  {
+   "key": "RC_NEALON_BRYANT_120011075695051",
+   "name": "Bryant S Nealon",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793213273,
+   "photo": "photos/RC_NEALON_BRYANT_120011075695051.jpg"
+  },
+  {
+   "key": "FDL_DUFRANE_MATTHEW_2026-10-28",
+   "name": "Matthew C Du Frane",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1793211378,
+   "photo": "photos/FDL_DUFRANE_MATTHEW_2026-10-28.jpg"
+  },
+  {
+   "key": "MKE_MINER_TRAYVON_619829",
+   "name": "Trayvon Cornelius Miner",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793210278,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_DIONNE_614483",
+   "name": "Dionne Aaron Brown",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793210275,
+   "photo": "photos/MKE_BROWN_DIONNE_614483.jpg"
+  },
+  {
+   "key": "MKE_BRANSON_ELIZABETH_648021",
+   "name": "Elizabeth M Branson",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793210271,
+   "photo": null
+  },
+  {
+   "key": "KEN_ROSS_DOMINIQUE_2026-00005967",
+   "name": "Dominique Latoyacharmain Ross",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793210269,
+   "photo": "photos/KEN_ROSS_DOMINIQUE_2026-00005967.jpg"
+  },
+  {
+   "key": "MAR_PETERS_DANIELLE_2026-10-27_16026301",
+   "name": "Danielle Sue Peters",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Motor Vehicle Theft - Take And Drive W/O Consent",
+   "more": 8,
+   "ts": 1793210239,
+   "photo": "photos/MAR_PETERS_DANIELLE_2026-10-27_16026301.jpg"
+  },
+  {
+   "key": "MAR_KASENO_JAYDEN_2026-10-28_15109502",
+   "name": "Jayden Allen Kaseno",
+   "age": "19",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793210198,
+   "photo": "photos/MAR_KASENO_JAYDEN_2026-10-28_15109502.jpg"
+  },
+  {
+   "key": "KEN_PENG_REN_2026-00005966",
+   "name": "Ren Peng",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 3,
+   "ts": 1793210182,
+   "photo": null
+  },
+  {
+   "key": "MAR_CAMACHO_MARIO_2026-10-28",
+   "name": "Mario Tehron Camacho",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793210160,
+   "photo": "photos/MAR_CAMACHO_MARIO_2026-10-28.jpg"
+  },
   {
    "key": "RC_ORNELLAS_PAULINO_120011075605396",
    "name": "Paulino Miguel Ornellas",
@@ -18,8 +128,8 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Cocaine/Coca (2nd+)",
+   "more": 1,
    "ts": 1793208463,
    "photo": null
   },
@@ -29,7 +139,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Maintain Drug Trafficking Place",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 16,
    "ts": 1793208461,
    "photo": null
@@ -134,17 +244,6 @@
    "photo": "photos/MKE_MANN_FRANK_620289.jpg"
   },
   {
-   "key": "MKE_BROWN_NYLA_648019",
-   "name": "Nyla Aniyah Brown",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793199466,
-   "photo": "photos/MKE_BROWN_NYLA_648019.jpg"
-  },
-  {
    "key": "MAR_PAYETTE_ALLEN_2026-10-27_9640508",
    "name": "Allen Joseph Payette",
    "age": "47",
@@ -154,17 +253,6 @@
    "more": 0,
    "ts": 1793199372,
    "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-27_9640508.jpg"
-  },
-  {
-   "key": "KEN_BANKHEAD_SOLOMON_2026-00005965",
-   "name": "Solomon Ajai Bankhead",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793199359,
-   "photo": "photos/KEN_BANKHEAD_SOLOMON_2026-00005965.jpg"
   },
   {
    "key": "MAR_KASENO_JAYDEN_2026-10-28",
@@ -178,39 +266,6 @@
    "photo": "photos/MAR_KASENO_JAYDEN_2026-10-28.jpg"
   },
   {
-   "key": "KEN_LYNCH_DONTREYVIOUS_2026-00005964",
-   "name": "Dontreyvious Marquis Lynch",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793199280,
-   "photo": "photos/KEN_LYNCH_DONTREYVIOUS_2026-00005964.jpg"
-  },
-  {
-   "key": "RC_GILLIOM_MARVIN_120011075686055",
-   "name": "Marvin E Gilliom",
-   "age": "64",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine (2nd and subsequent)",
-   "more": 11,
-   "ts": 1793198879,
-   "photo": "photos/RC_GILLIOM_MARVIN_120011075686055.jpg"
-  },
-  {
-   "key": "RC_FORD_JAMAUEL_120011075684531",
-   "name": "Jamauel A Ford",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Child Abuse-Recklessly Cause Harm",
-   "more": 2,
-   "ts": 1793198876,
-   "photo": "photos/RC_FORD_JAMAUEL_120011075684531.jpg"
-  },
-  {
    "key": "WENZEL_LUKE_2026-10-28",
    "name": "Luke G Wenzel",
    "age": "22",
@@ -219,17 +274,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1793197624,
-   "photo": null
-  },
-  {
-   "key": "MKE_REED_CHARLES_338785",
-   "name": "Charles Edward Reed",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793194059,
    "photo": null
   },
   {
@@ -387,17 +431,6 @@
    "photo": null
   },
   {
-   "key": "MAR_ZOUL_ALBERTO_2026-10-27",
-   "name": "Alberto Matthew Zoul",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "2Nd Sexual Assault With Child Under 16 Years",
-   "more": 0,
-   "ts": 1793141727,
-   "photo": null
-  },
-  {
    "key": "WITTENBERG_CARLI_2026-10-27",
    "name": "Carli M Wittenberg",
    "age": "42",
@@ -407,28 +440,6 @@
    "more": 0,
    "ts": 1793138226,
    "photo": null
-  },
-  {
-   "key": "MAR_PETERS_DANIELLE_2026-10-27",
-   "name": "Danielle Sue Peters",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Motor Vehicle Theft - Take And Drive W/O Consent",
-   "more": 0,
-   "ts": 1793138141,
-   "photo": null
-  },
-  {
-   "key": "MAR_PAYETTE_ALLEN_2026-10-27",
-   "name": "Allen Joseph Payette",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793134571,
-   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-27.jpg"
   },
   {
    "key": "BONNER_SHEDRICK_2026-10-27",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793094441,
    "photo": "photos/TREM_SANCHEZ_JUAN_5833.jpg"
-  },
-  {
-   "key": "TREM_MAYNARD_JOSEPH_6195",
-   "name": "Joseph Mason Maynard",
-   "age": "34",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Appear Warrant",
-   "more": 0,
-   "ts": 1793094439,
-   "photo": "photos/TREM_MAYNARD_JOSEPH_6195.jpg"
   }
  ]
 }
