@@ -1,14 +1,113 @@
 {
- "updated": "2026-10-28T18:49:31+00:00",
+ "updated": "2026-10-28T19:49:30+00:00",
  "items": [
+  {
+   "key": "RC_TRIPLETT_DEANGELO_120011075695776",
+   "name": "Deangelo Triplett",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793216890,
+   "photo": "photos/RC_TRIPLETT_DEANGELO_120011075695776.jpg"
+  },
+  {
+   "key": "RC_SWANKE_BRADLEY_120011075697062",
+   "name": "Bradley A Swanke",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
+   "more": 0,
+   "ts": 1793216888,
+   "photo": "photos/RC_SWANKE_BRADLEY_120011075697062.jpg"
+  },
+  {
+   "key": "RC_HARPER_MILLION_120011075695668",
+   "name": "Million De'shazer Harper",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793216881,
+   "photo": null
+  },
+  {
+   "key": "RC_FINLEY_JAKARI_120011075696339",
+   "name": "Jakari Ray Finley",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Misdemeanor Battery",
+   "more": 1,
+   "ts": 1793216878,
+   "photo": "photos/RC_FINLEY_JAKARI_120011075696339.jpg"
+  },
+  {
+   "key": "MKE_RILEY_DEEAVLON_618762",
+   "name": "Deeavlon D Riley",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 1,
+   "ts": 1793213862,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOPSON_ANTUWON_640279",
+   "name": "Antuwon Z Hopson",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 5,
+   "ts": 1793213860,
+   "photo": null
+  },
+  {
+   "key": "MAR_VANG_RICHARD_2026-10-28",
+   "name": "Richard Vang",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1793213809,
+   "photo": "photos/MAR_VANG_RICHARD_2026-10-28.jpg"
+  },
+  {
+   "key": "KEN_LOPEZPEREZ_HORACIO_2026-00005968",
+   "name": "Horacio Efrain Lopez-Perez",
+   "age": "52",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793213792,
+   "photo": "photos/KEN_LOPEZPEREZ_HORACIO_2026-00005968.jpg"
+  },
+  {
+   "key": "MAR_CAMACHO_MARIO_2026-10-28_3258606",
+   "name": "Mario Tehron Camacho",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793213769,
+   "photo": "photos/MAR_CAMACHO_MARIO_2026-10-28_3258606.jpg"
+  },
   {
    "key": "RC_NEALON_BRYANT_120011075695051",
    "name": "Bryant S Nealon",
    "age": "18",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 3,
    "ts": 1793213273,
    "photo": "photos/RC_NEALON_BRYANT_120011075695051.jpg"
   },
@@ -62,8 +161,8 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
+   "more": 1,
    "ts": 1793210269,
    "photo": "photos/KEN_ROSS_DOMINIQUE_2026-00005967.jpg"
   },
@@ -139,7 +238,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Habitual Criminality",
    "more": 16,
    "ts": 1793208461,
    "photo": null
@@ -165,83 +264,6 @@
    "more": 5,
    "ts": 1793206036,
    "photo": "photos/HOU_HANSON_ANDREWDEAN_6312.jpg"
-  },
-  {
-   "key": "MKE_PHILPOTT_JAYNE_413960",
-   "name": "Jayne Catherine Philpott",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 1,
-   "ts": 1793204869,
-   "photo": null
-  },
-  {
-   "key": "MKE_MATUTE_KAYTHLYN_648020",
-   "name": "Kaythlyn Yashmira Matute",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793204867,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROWN_SHAUN_271982",
-   "name": "Shaun Derrick Brown",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793203082,
-   "photo": null
-  },
-  {
-   "key": "RC_WALRUP_JOHNNY_120011075687541",
-   "name": "Johnny Mariuce Walrup",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793202492,
-   "photo": "photos/RC_WALRUP_JOHNNY_120011075687541.jpg"
-  },
-  {
-   "key": "RC_SOBICZEWSKI_ANDREW_120011075687851",
-   "name": "Andrew P Sobiczewski",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 0,
-   "ts": 1793202488,
-   "photo": "photos/RC_SOBICZEWSKI_ANDREW_120011075687851.jpg"
-  },
-  {
-   "key": "MKE_NASH_LATOYA_289245",
-   "name": "Latoya Marie Nash",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793199469,
-   "photo": "photos/MKE_NASH_LATOYA_289245.jpg"
-  },
-  {
-   "key": "MKE_MANN_FRANK_620289",
-   "name": "Frank Vernon Mann",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793199468,
-   "photo": "photos/MKE_MANN_FRANK_620289.jpg"
   },
   {
    "key": "MAR_PAYETTE_ALLEN_2026-10-27_9640508",
@@ -407,28 +429,6 @@
    "more": 3,
    "ts": 1793146635,
    "photo": "photos/FDL_GERARD_TYLER_2026-10-27.jpg"
-  },
-  {
-   "key": "MAR_COVINGTON_TERRELL_2026-10-27_5867205",
-   "name": "Terrell Douglas Covington",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793145319,
-   "photo": "photos/MAR_COVINGTON_TERRELL_2026-10-27_5867205.jpg"
-  },
-  {
-   "key": "MAR_ALMENDAREZCASTRO_DOUGLAS_2026-10-27",
-   "name": "Douglas Alejandro Almendarez Castro",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "False Imprisonment",
-   "more": 1,
-   "ts": 1793141766,
-   "photo": null
   },
   {
    "key": "WITTENBERG_CARLI_2026-10-27",
