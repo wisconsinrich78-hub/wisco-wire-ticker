@@ -1,14 +1,102 @@
 {
- "updated": "2026-10-28T22:49:30+00:00",
+ "updated": "2026-10-28T23:49:33+00:00",
  "items": [
+  {
+   "key": "RC_MATUTE_KAYTHLYN_120011075702866",
+   "name": "Kaythlyn Matute",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793231278,
+   "photo": null
+  },
+  {
+   "key": "MKE_YOUNG_AMANIE_634231",
+   "name": "Amanie R Young",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793230061,
+   "photo": null
+  },
+  {
+   "key": "MKE_WHITE_ADRIONNA_643254",
+   "name": "Adrionna J White",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 5,
+   "ts": 1793230059,
+   "photo": null
+  },
+  {
+   "key": "MKE_BALDWIN_JARON_631299",
+   "name": "Jaron Semaj Baldwin",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disobedient Witness",
+   "more": 0,
+   "ts": 1793230057,
+   "photo": null
+  },
+  {
+   "key": "MCCOY_WILLIAM_2026-10-28",
+   "name": "William E Mccoy",
+   "age": "50",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1793230026,
+   "photo": null
+  },
+  {
+   "key": "KEN_WALKER_KEVIS_2026-00005971",
+   "name": "KEVIS KEAUNDRE Junior WALKER",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793228721,
+   "photo": "photos/KEN_WALKER_KEVIS_2026-00005971.jpg"
+  },
+  {
+   "key": "KEN_MARTINEZ_SALENA_2026-00005973",
+   "name": "Salena Alberta Martinez",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793228569,
+   "photo": "photos/KEN_MARTINEZ_SALENA_2026-00005973.jpg"
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-10-28_133707",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Alter Price",
+   "more": 1,
+   "ts": 1793228255,
+   "photo": "photos/MAR_ALSOWITI_RHEA_2026-10-28_133707.jpg"
+  },
   {
    "key": "RC_KOSINSKI_THOMAS_120011075702383",
    "name": "Thomas John Kosinski",
    "age": "57",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Owi (5Th Or 6Th)",
+   "more": 3,
    "ts": 1793227689,
    "photo": "photos/RC_KOSINSKI_THOMAS_120011075702383.jpg"
   },
@@ -18,8 +106,8 @@
    "age": "55",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
+   "more": 1,
    "ts": 1793227686,
    "photo": null
   },
@@ -51,7 +139,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1793224687,
    "photo": null
@@ -189,50 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_ROLLINS_KOBE_640471",
-   "name": "Kobe Jamaal Rollins",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793221076,
-   "photo": null
-  },
-  {
-   "key": "MKE_COLEMAN_LIONEL_340895",
-   "name": "Lionel Coleman",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 2,
-   "ts": 1793221074,
-   "photo": null
-  },
-  {
-   "key": "MKE_ARNOLD_ISIAH_645670",
-   "name": "Isiah Elijah Arnold",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793221072,
-   "photo": null
-  },
-  {
-   "key": "MKE_ADAMS_RASHAAD_648022",
-   "name": "Rashaad Adams",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793221070,
-   "photo": "photos/MKE_ADAMS_RASHAAD_648022.jpg"
-  },
-  {
    "key": "MAR_DRAKE_BRANDON_2026-10-28_9189702",
    "name": "Brandon Lee Drake",
    "age": "37",
@@ -242,17 +286,6 @@
    "more": 0,
    "ts": 1793220916,
    "photo": "photos/MAR_DRAKE_BRANDON_2026-10-28_9189702.jpg"
-  },
-  {
-   "key": "MKE_MENDOZA_ANDREW_386372",
-   "name": "Andrew Joseph Mendoza",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1793219265,
-   "photo": null
   },
   {
    "key": "DOU_BROWN_ALLANA_2026-10-28",
@@ -308,17 +341,6 @@
    "more": 0,
    "ts": 1793217321,
    "photo": "photos/MAR_MAGEE_CHAYSE_2026-10-28.jpg"
-  },
-  {
-   "key": "RC_TRIPLETT_DEANGELO_120011075695776",
-   "name": "Deangelo Triplett",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793216890,
-   "photo": "photos/RC_TRIPLETT_DEANGELO_120011075695776.jpg"
   },
   {
    "key": "MAR_VANG_RICHARD_2026-10-28",
@@ -385,17 +407,6 @@
    "more": 0,
    "ts": 1793210160,
    "photo": "photos/MAR_CAMACHO_MARIO_2026-10-28.jpg"
-  },
-  {
-   "key": "DOU_MITCHELL_KWAME_2026-10-28",
-   "name": "Kwame N Mitchell",
-   "age": "32",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793207845,
-   "photo": null
   },
   {
    "key": "HOU_HANSON_ANDREWDEAN_6312",
@@ -516,17 +527,6 @@
    "charge": "Obstructing An Officer",
    "more": 2,
    "ts": 1793125624,
-   "photo": null
-  },
-  {
-   "key": "CLOUD_ARNOLD_2026-10-27",
-   "name": "Arnold Cloud",
-   "age": "60",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1793125623,
    "photo": null
   }
  ]
