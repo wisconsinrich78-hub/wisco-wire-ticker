@@ -1,14 +1,25 @@
 {
- "updated": "2026-10-28T10:49:25+00:00",
+ "updated": "2026-10-28T11:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_EUBANKS_JARQUEZ_648017",
+   "name": "Jarquez Eubanks",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1793186853,
+   "photo": null
+  },
   {
    "key": "MKE_WOODS_ANTHONY_364874",
    "name": "Anthony Clarence Woods",
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793183247,
    "photo": null
   },
@@ -51,8 +62,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1793177794,
    "photo": "photos/KEN_LUCAS_JERRY_2026-00005961.jpg"
   },
@@ -120,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793170650,
-   "photo": null
+   "photo": "photos/MKE_BEARD_SHALENA_607558.jpg"
   },
   {
    "key": "MAR_TRIGOTENCOFLORES_MIGUEL_2026-10-27",
@@ -209,17 +220,6 @@
    "more": 3,
    "ts": 1793162878,
    "photo": null
-  },
-  {
-   "key": "RC_AYERS_MICHAEL_120011075674935",
-   "name": "Michael Ayers",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793162875,
-   "photo": "photos/RC_AYERS_MICHAEL_120011075674935.jpg"
   },
   {
    "key": "FDL_MILLER_MATTHEW_2026-10-27",
