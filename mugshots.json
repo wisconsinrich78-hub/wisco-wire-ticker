@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-28T03:49:26+00:00",
+ "updated": "2026-10-28T04:49:29+00:00",
  "items": [
+  {
+   "key": "RC_WILLIAMS_DAZARIUS_120011075675014",
+   "name": "Dazarius T Williams",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793162884,
+   "photo": "photos/RC_WILLIAMS_DAZARIUS_120011075675014.jpg"
+  },
+  {
+   "key": "RC_MAJORS_JERMANI_120011075674962",
+   "name": "Jermani Majors",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793162881,
+   "photo": "photos/RC_MAJORS_JERMANI_120011075674962.jpg"
+  },
+  {
+   "key": "RC_HEEGER_JOHN_120011075675038",
+   "name": "John R Heeger",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793162878,
+   "photo": null
+  },
+  {
+   "key": "RC_AYERS_MICHAEL_120011075674935",
+   "name": "Michael Ayers",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793162875,
+   "photo": "photos/RC_AYERS_MICHAEL_120011075674935.jpg"
+  },
+  {
+   "key": "MKE_SOLIS_ERIC_648015",
+   "name": "Eric Solis",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793161655,
+   "photo": null
+  },
+  {
+   "key": "FDL_MILLER_MATTHEW_2026-10-27",
+   "name": "Matthew H Miller",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1793160996,
+   "photo": "photos/FDL_MILLER_MATTHEW_2026-10-27.jpg"
+  },
+  {
+   "key": "MKE_MOORE_RODRICK_648014",
+   "name": "Rodrick Moore",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793159867,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAY_DEONTAY_636687",
+   "name": "Deontay D Day",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793159865,
+   "photo": null
+  },
+  {
+   "key": "MAR_BROWN_DONTAY_2026-10-26_15177204",
+   "name": "Dontay Lee Brown",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 8,
+   "ts": 1793159740,
+   "photo": "photos/MAR_BROWN_DONTAY_2026-10-26_15177204.jpg"
+  },
+  {
+   "key": "MAR_ALMENDAREZCASTRO_DOUGLAS_2026-10-27_15754801",
+   "name": "Douglas Alejandro Almendarez Castro",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "False Imprisonment",
+   "more": 1,
+   "ts": 1793159704,
+   "photo": null
+  },
   {
    "key": "FDL_HAUBOLDT_MATTHEW_2026-10-27",
    "name": "Matthew James Hauboldt",
@@ -123,28 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BANKS_ELIJAH_641929",
-   "name": "Elijah Banks",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793149054,
-   "photo": "photos/MKE_BANKS_ELIJAH_641929.jpg"
-  },
-  {
-   "key": "RC_SMITH_STANLEY_120011075670334",
-   "name": "Stanley Ja'von Smith",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1793148485,
-   "photo": null
-  },
-  {
    "key": "DOU_KALASH_JACKI_2026-10-27",
    "name": "Jacki M Kalash",
    "age": "41",
@@ -178,39 +266,6 @@
    "photo": "photos/FDL_GERARD_TYLER_2026-10-27.jpg"
   },
   {
-   "key": "MKE_SIMS_DARIUS_371865",
-   "name": "Darius Cortez Sims",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1793145474,
-   "photo": null
-  },
-  {
-   "key": "MKE_PIESZAK_ZACHARY_648008",
-   "name": "Zachary Sean Pieszak",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793145470,
-   "photo": null
-  },
-  {
-   "key": "MKE_MOORE_KIARA_642790",
-   "name": "Kiara N Moore",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery to Healthcare Provider or Family",
-   "more": 0,
-   "ts": 1793145468,
-   "photo": null
-  },
-  {
    "key": "MAR_COVINGTON_TERRELL_2026-10-27_5867205",
    "name": "Terrell Douglas Covington",
    "age": "29",
@@ -220,28 +275,6 @@
    "more": 0,
    "ts": 1793145319,
    "photo": "photos/MAR_COVINGTON_TERRELL_2026-10-27_5867205.jpg"
-  },
-  {
-   "key": "MKE_MILLIKIN_KYLE_631095",
-   "name": "Kyle Andrew Millikin",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 1,
-   "ts": 1793143682,
-   "photo": null
-  },
-  {
-   "key": "MKE_AHMEDYAHIA_RYAN_648007",
-   "name": "Ryan Fahd Ahmed-yahia",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793143679,
-   "photo": null
   },
   {
    "key": "MAR_ALMENDAREZCASTRO_DOUGLAS_2026-10-27",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793094435,
    "photo": "photos/TREM_HABHAB_SCOTT_6193.jpg"
-  },
-  {
-   "key": "TREM_GARRETT_DUSTIN_5578",
-   "name": "Dustin Allen Garrett",
-   "age": "34",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793094433,
-   "photo": "photos/TREM_GARRETT_DUSTIN_5578.jpg"
-  },
-  {
-   "key": "MAR_FRYSTAK_NICHOLAS_2026-10-26_16434701",
-   "name": "Nicholas Michael Frystak",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793087756,
-   "photo": "photos/MAR_FRYSTAK_NICHOLAS_2026-10-26_16434701.jpg"
-  },
-  {
-   "key": "ROSE_BRIAN_2026-10-27",
-   "name": "Brian R Rose",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793082420,
-   "photo": null
   }
  ]
 }
