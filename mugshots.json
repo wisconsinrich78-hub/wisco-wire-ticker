@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-28T14:49:28+00:00",
+ "updated": "2026-10-28T15:49:30+00:00",
  "items": [
+  {
+   "key": "RC_WALRUP_JOHNNY_120011075687541",
+   "name": "Johnny Mariuce Walrup",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793202492,
+   "photo": "photos/RC_WALRUP_JOHNNY_120011075687541.jpg"
+  },
+  {
+   "key": "RC_SOBICZEWSKI_ANDREW_120011075687851",
+   "name": "Andrew P Sobiczewski",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 0,
+   "ts": 1793202488,
+   "photo": "photos/RC_SOBICZEWSKI_ANDREW_120011075687851.jpg"
+  },
+  {
+   "key": "MKE_NASH_LATOYA_289245",
+   "name": "Latoya Marie Nash",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793199469,
+   "photo": null
+  },
+  {
+   "key": "MKE_MANN_FRANK_620289",
+   "name": "Frank Vernon Mann",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793199468,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_NYLA_648019",
+   "name": "Nyla Aniyah Brown",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1793199466,
+   "photo": null
+  },
+  {
+   "key": "MAR_PAYETTE_ALLEN_2026-10-27_9640508",
+   "name": "Allen Joseph Payette",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793199372,
+   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-27_9640508.jpg"
+  },
+  {
+   "key": "KEN_BANKHEAD_SOLOMON_2026-00005965",
+   "name": "Solomon Ajai Bankhead",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793199359,
+   "photo": "photos/KEN_BANKHEAD_SOLOMON_2026-00005965.jpg"
+  },
+  {
+   "key": "MAR_KASENO_JAYDEN_2026-10-28",
+   "name": "Jayden Allen Kaseno",
+   "age": "19",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793199336,
+   "photo": "photos/MAR_KASENO_JAYDEN_2026-10-28.jpg"
+  },
+  {
+   "key": "KEN_LYNCH_DONTREYVIOUS_2026-00005964",
+   "name": "Dontreyvious Marquis Lynch",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793199280,
+   "photo": "photos/KEN_LYNCH_DONTREYVIOUS_2026-00005964.jpg"
+  },
   {
    "key": "RC_GILLIOM_MARVIN_120011075686055",
    "name": "Marvin E Gilliom",
@@ -112,39 +211,6 @@
    "photo": "photos/MKE_EUBANKS_JARQUEZ_648017.jpg"
   },
   {
-   "key": "MKE_WOODS_ANTHONY_364874",
-   "name": "Anthony Clarence Woods",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793183247,
-   "photo": null
-  },
-  {
-   "key": "MKE_CONERY_LARENZO_648016",
-   "name": "Larenzo M Conery",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793183245,
-   "photo": "photos/MKE_CONERY_LARENZO_648016.jpg"
-  },
-  {
-   "key": "MKE_STOTT_KAMRON_611411",
-   "name": "Kamron Hakeim Stott",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793181466,
-   "photo": "photos/MKE_STOTT_KAMRON_611411.jpg"
-  },
-  {
    "key": "MAR_LEMMA_TYLER_2026-10-24",
    "name": "Tyler Clayton Lemma",
    "age": "39",
@@ -154,50 +220,6 @@
    "more": 2,
    "ts": 1793181305,
    "photo": "photos/MAR_LEMMA_TYLER_2026-10-24.jpg"
-  },
-  {
-   "key": "KEN_LUCAS_JERRY_2026-00005961",
-   "name": "JERRY DARNELL Junior LUCAS",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793177794,
-   "photo": "photos/KEN_LUCAS_JERRY_2026-00005961.jpg"
-  },
-  {
-   "key": "KEN_HUTCHINSON_SHANIKE_2026-00005960",
-   "name": "Shanike T Hutchinson",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1793174037,
-   "photo": "photos/KEN_HUTCHINSON_SHANIKE_2026-00005960.jpg"
-  },
-  {
-   "key": "KEN_DANIEL_ANTONIO_2026-00005959",
-   "name": "Antonio D Daniel",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Marijuana (Thc) 2Nd+",
-   "more": 0,
-   "ts": 1793174001,
-   "photo": null
-  },
-  {
-   "key": "RC_WHITFIELD_HASSAN_120011075677341",
-   "name": "Hassan A Whitfield",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 1,
-   "ts": 1793173676,
-   "photo": "photos/RC_WHITFIELD_HASSAN_120011075677341.jpg"
   },
   {
    "key": "MAR_TRIGOTENCOFLORES_MIGUEL_2026-10-27",
@@ -431,17 +453,6 @@
    "photo": null
   },
   {
-   "key": "MAR_GRAEF_NAINNE_2026-10-27",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Misappropriate Id Info - Avoid Penalty",
-   "more": 3,
-   "ts": 1793127325,
-   "photo": "photos/MAR_GRAEF_NAINNE_2026-10-27.jpg"
-  },
-  {
    "key": "LITTLEJOHN_ASHLEY_2026-10-27",
    "name": "Ashley A Littlejohn",
    "age": "41",
@@ -461,17 +472,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 1,
    "ts": 1793125623,
-   "photo": null
-  },
-  {
-   "key": "DOU_MYER_EDWARD_2026-10-27",
-   "name": "Edward D Myer",
-   "age": "41",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 6,
-   "ts": 1793125039,
    "photo": null
   },
   {
