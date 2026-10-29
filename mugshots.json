@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-29T16:49:29+00:00",
+ "updated": "2026-10-29T17:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_ROBINSONJACKSON_ISIS_641913",
+   "name": "Isis Robinson-Jackson",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 6,
+   "ts": 1793294890,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUGHES_TYLER_646125",
+   "name": "Tyler Hughes",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793294888,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOKS_VINCENT_364826",
+   "name": "Vincent Charles Cooks",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793294885,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOOKERNORTHERN_JATASSIA_648035",
+   "name": "Jatassia Booker Northern",
+   "age": "125",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793294883,
+   "photo": null
+  },
+  {
+   "key": "MKE_AZABY_SHAIMA_647283",
+   "name": "Shaima Ebrahim Easa Azaby",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793294880,
+   "photo": null
+  },
+  {
+   "key": "MKE_AUSTIN_REGINALD_401099",
+   "name": "Reginald Redmond Austin",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
+   "more": 3,
+   "ts": 1793294878,
+   "photo": null
+  },
+  {
+   "key": "DOU_VALENTINE_MICHAEL_2026-10-29",
+   "name": "Michael P Valentine",
+   "age": "49",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793294233,
+   "photo": null
+  },
+  {
+   "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
+   "name": "Keshawn Jimmy Johnson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793294193,
+   "photo": "photos/FDL_JOHNSON_KESHAWN_2026-10-29.jpg"
+  },
   {
    "key": "MKE_WHITAKER_LARRY_643722",
    "name": "Larry Whitaker",
@@ -18,7 +106,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Burglary-Building or Dwelling",
    "more": 0,
    "ts": 1793291301,
    "photo": null
@@ -29,8 +117,8 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
+   "more": 3,
    "ts": 1793291299,
    "photo": null
   },
@@ -120,72 +208,6 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1793285873,
-   "photo": null
-  },
-  {
-   "key": "MKE_GHALIM_SARA_648032",
-   "name": "Sara Ghalim",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793285871,
-   "photo": null
-  },
-  {
-   "key": "RC_VANDENBUSH_MASON_120011075718898",
-   "name": "Mason A Vandenbush",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Child Abuse-Recklessly Cause Harm",
-   "more": 0,
-   "ts": 1793285282,
-   "photo": "photos/RC_VANDENBUSH_MASON_120011075718898.jpg"
-  },
-  {
-   "key": "RC_KETCHUM_SUNSHINE_120011075718801",
-   "name": "Sunshine Kathirene Ketchum",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793285280,
-   "photo": "photos/RC_KETCHUM_SUNSHINE_120011075718801.jpg"
-  },
-  {
-   "key": "MKE_MARTELL_ANDRES_639091",
-   "name": "Andres Martell",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1793284061,
-   "photo": "photos/MKE_MARTELL_ANDRES_639091.jpg"
-  },
-  {
-   "key": "MKE_HODGES_ANTHONY_627534",
-   "name": "Anthony Hodges",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 0,
-   "ts": 1793284058,
-   "photo": "photos/MKE_HODGES_ANTHONY_627534.jpg"
-  },
-  {
-   "key": "MKE_TOWNSEND_CHRISTOPHER_219906",
-   "name": "Christopher Townsend",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793280465,
    "photo": null
   },
   {
@@ -486,17 +508,6 @@
    "photo": "photos/FDL_DUFRANE_MATTHEW_2026-10-28.jpg"
   },
   {
-   "key": "MAR_PETERS_DANIELLE_2026-10-27_16026301",
-   "name": "Danielle Sue Peters",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Motor Vehicle Theft - Take And Drive W/O Consent",
-   "more": 8,
-   "ts": 1793210239,
-   "photo": "photos/MAR_PETERS_DANIELLE_2026-10-27_16026301.jpg"
-  },
-  {
    "key": "HOU_HANSON_ANDREWDEAN_6312",
    "name": "Andrew Dean Hanson",
    "age": "42",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793197624,
    "photo": null
-  },
-  {
-   "key": "FDL_MILLER_MATTHEW_2026-10-27",
-   "name": "Matthew H Miller",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793160996,
-   "photo": "photos/FDL_MILLER_MATTHEW_2026-10-27.jpg"
   }
  ]
 }
