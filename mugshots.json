@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-29T01:49:29+00:00",
+ "updated": "2026-10-29T02:49:35+00:00",
  "items": [
+  {
+   "key": "MKE_CARSON_TAVIS_309451",
+   "name": "Tavis Tyrese Carson",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 3,
+   "ts": 1793240860,
+   "photo": null
+  },
+  {
+   "key": "FDL_PRYOR_SAMANTHA_2026-10-28",
+   "name": "Samantha Jo Pryor",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Resisting Or Obstructing Officer",
+   "more": 0,
+   "ts": 1793240209,
+   "photo": null
+  },
   {
    "key": "MKE_PICKETT_LOVIE_383600",
    "name": "Lovie F Pickett",
@@ -40,8 +62,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 4,
    "ts": 1793235442,
    "photo": "photos/KEN_JUAREZGALVAN_JOSELIN_2026-00005975.jpg"
   },
@@ -187,17 +209,6 @@
    "more": 3,
    "ts": 1793230026,
    "photo": null
-  },
-  {
-   "key": "KEN_WALKER_KEVIS_2026-00005971",
-   "name": "KEVIS KEAUNDRE Junior WALKER",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1793228721,
-   "photo": "photos/KEN_WALKER_KEVIS_2026-00005971.jpg"
   },
   {
    "key": "MAR_ALSOWITI_RHEA_2026-10-28_133707",
@@ -516,17 +527,6 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1793129219,
-   "photo": null
-  },
-  {
-   "key": "LITTLEJOHN_ASHLEY_2026-10-27",
-   "name": "Ashley A Littlejohn",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Obstructing An Officer",
-   "more": 2,
-   "ts": 1793125624,
    "photo": null
   }
  ]
