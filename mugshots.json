@@ -1,6 +1,160 @@
 {
- "updated": "2026-10-29T18:49:29+00:00",
+ "updated": "2026-10-29T19:49:28+00:00",
  "items": [
+  {
+   "key": "RC_VARGAS_MICHEAL_120011075730701",
+   "name": "Micheal Leigh Vargas",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793303306,
+   "photo": "photos/RC_VARGAS_MICHEAL_120011075730701.jpg"
+  },
+  {
+   "key": "RC_TRIMBERGER_TRACI_120011075731313",
+   "name": "Traci L Trimberger",
+   "age": "57",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793303302,
+   "photo": null
+  },
+  {
+   "key": "RC_ROLLINS_ROBERT_120011075730718",
+   "name": "Robert C Rollins",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793303299,
+   "photo": null
+  },
+  {
+   "key": "RC_MICHALAK_TIMOTHY_120011075730807",
+   "name": "Timothy A Michalak",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Burglary - Building Or Dwelling",
+   "more": 0,
+   "ts": 1793303295,
+   "photo": "photos/RC_MICHALAK_TIMOTHY_120011075730807.jpg"
+  },
+  {
+   "key": "RC_GARCIA_JAVIER_120011075730246",
+   "name": "Javier Garcia",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793303291,
+   "photo": "photos/RC_GARCIA_JAVIER_120011075730246.jpg"
+  },
+  {
+   "key": "RC_FLOWERS_ALLEN_120011075730865",
+   "name": "Allen Akeem Flowers",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793303288,
+   "photo": "photos/RC_FLOWERS_ALLEN_120011075730865.jpg"
+  },
+  {
+   "key": "THOMAS_ALEXIS_2026-10-29",
+   "name": "Alexis A Thomas",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1793302023,
+   "photo": null
+  },
+  {
+   "key": "DOU_FLINT_MEGAN_2026-10-29",
+   "name": "Megan M Flint",
+   "age": "46",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793301509,
+   "photo": null
+  },
+  {
+   "key": "MKE_WREN_CORDNEY_360322",
+   "name": "Cordney Eugene Wren",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 2,
+   "ts": 1793300278,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEFLORE_MICHAEL_648038",
+   "name": "Michael Andrew Leflore",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793300275,
+   "photo": null
+  },
+  {
+   "key": "MAR_BUENNING_MATTHEW_2026-10-29_11239602",
+   "name": "Matthew John Buenning",
+   "age": "56",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1793300260,
+   "photo": "photos/MAR_BUENNING_MATTHEW_2026-10-29_11239602.jpg"
+  },
+  {
+   "key": "MAR_HOWARD_CHRISTOPHER_2026-10-29_7237503",
+   "name": "Christopher John Howard",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt Of Court-Disobey Order",
+   "more": 0,
+   "ts": 1793300224,
+   "photo": "photos/MAR_HOWARD_CHRISTOPHER_2026-10-29_7237503.jpg"
+  },
+  {
+   "key": "MAR_COMSTOCK_JAMES_2026-10-29_1160602",
+   "name": "James A Comstock",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793300189,
+   "photo": "photos/MAR_COMSTOCK_JAMES_2026-10-29_1160602.jpg"
+  },
+  {
+   "key": "MAR_ROWE_DAVID_2026-10-29_491604",
+   "name": "David William Rowe",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt Of Court-Disobey Order",
+   "more": 0,
+   "ts": 1793300152,
+   "photo": "photos/MAR_ROWE_DAVID_2026-10-29_491604.jpg"
+  },
   {
    "key": "RC_MATUS_IAN_120011075727861",
    "name": "Ian F Matus",
@@ -178,94 +332,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MARTINEZ_OSCAR_611719",
-   "name": "Oscar Martinez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/ Intent-THC(>200-1000g)",
-   "more": 9,
-   "ts": 1793296670,
-   "photo": null
-  },
-  {
-   "key": "MKE_BOOKERNORTHERN_JATASSIA_648036",
-   "name": "Jatassia Booker-Northern",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793296667,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROBINSONJACKSON_ISIS_641913",
-   "name": "Isis Robinson-Jackson",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
-   "more": 6,
-   "ts": 1793294890,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUGHES_TYLER_646125",
-   "name": "Tyler Hughes",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793294888,
-   "photo": "photos/MKE_HUGHES_TYLER_646125.jpg"
-  },
-  {
-   "key": "MKE_COOKS_VINCENT_364826",
-   "name": "Vincent Charles Cooks",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793294885,
-   "photo": null
-  },
-  {
-   "key": "MKE_BOOKERNORTHERN_JATASSIA_648035",
-   "name": "Jatassia Booker Northern",
-   "age": "125",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793294883,
-   "photo": null
-  },
-  {
-   "key": "MKE_AZABY_SHAIMA_647283",
-   "name": "Shaima Ebrahim Easa Azaby",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793294880,
-   "photo": null
-  },
-  {
-   "key": "MKE_AUSTIN_REGINALD_401099",
-   "name": "Reginald Redmond Austin",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
-   "more": 3,
-   "ts": 1793294878,
-   "photo": null
-  },
-  {
    "key": "DOU_VALENTINE_MICHAEL_2026-10-29",
    "name": "Michael P Valentine",
    "age": "49",
@@ -409,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "MAR_ALSOWITI_RHEA_2026-10-28_133707",
-   "name": "Rhea Alsowiti",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Alter Price",
-   "more": 1,
-   "ts": 1793228255,
-   "photo": "photos/MAR_ALSOWITI_RHEA_2026-10-28_133707.jpg"
-  },
-  {
    "key": "CHAVEZ_JESUS_2026-10-28",
    "name": "Jesus Mathew Chavez",
    "age": "38",
@@ -431,39 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_CAUTHEN_TRISHA_2026-10-28_8460012",
-   "name": "Trisha Lynn Cauthen",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793224603,
-   "photo": "photos/MAR_CAUTHEN_TRISHA_2026-10-28_8460012.jpg"
-  },
-  {
-   "key": "MAR_MAGEE_CHAYSE_2026-10-28_4624710",
-   "name": "Chayse Raenard Magee",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 0,
-   "ts": 1793224567,
-   "photo": "photos/MAR_MAGEE_CHAYSE_2026-10-28_4624710.jpg"
-  },
-  {
-   "key": "MAR_ALSOWITI_RHEA_2026-10-28",
-   "name": "Rhea Alsowiti",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Alter Price",
-   "more": 1,
-   "ts": 1793224527,
-   "photo": "photos/MAR_ALSOWITI_RHEA_2026-10-28.jpg"
-  },
-  {
    "key": "SANDS_MICHAEL_2026-10-28",
    "name": "Michael T Sands",
    "age": "58",
@@ -473,17 +495,6 @@
    "more": 1,
    "ts": 1793224028,
    "photo": null
-  },
-  {
-   "key": "DOU_NGUYEN_HOANG_2026-10-28",
-   "name": "Hoang N Nguyen",
-   "age": "55",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793222261,
-   "photo": "photos/DOU_NGUYEN_HOANG_2026-10-28.jpg"
   },
   {
    "key": "FDL_GONZALEZGARCIA_LEON_2026-10-28",
@@ -517,17 +528,6 @@
    "more": 5,
    "ts": 1793206036,
    "photo": "photos/HOU_HANSON_ANDREWDEAN_6312.jpg"
-  },
-  {
-   "key": "WENZEL_LUKE_2026-10-28",
-   "name": "Luke G Wenzel",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1793197624,
-   "photo": null
   }
  ]
 }
