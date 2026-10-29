@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-29T12:49:27+00:00",
+ "updated": "2026-10-29T13:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_TOWNSEND_CHRISTOPHER_219906",
+   "name": "Christopher Townsend",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793280465,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_MILTON_260622",
+   "name": "Milton Lee Smith",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1793280463,
+   "photo": null
+  },
+  {
+   "key": "MKE_KNIPPEL_CHRISTOPHER_384802",
+   "name": "Christopher John Knippel",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793280461,
+   "photo": null
+  },
+  {
+   "key": "MKE_CONNERS_COREY_646878",
+   "name": "Corey Marquis Conners",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793280459,
+   "photo": null
+  },
+  {
+   "key": "CHACON_BRANDON_2026-10-29",
+   "name": "Brandon A Chacon",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793280428,
+   "photo": null
+  },
+  {
+   "key": "MKE_WANTA_SCOTT_325965",
+   "name": "Scott Joseph Wanta",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793278659,
+   "photo": null
+  },
+  {
+   "key": "MKE_OLOMWEME_ERICK_648031",
+   "name": "Erick Olomweme",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793278657,
+   "photo": null
+  },
   {
    "key": "MKE_GUENTNER_DURRELL_415070",
    "name": "Durrell Thomas Guentner",
@@ -10,7 +87,7 @@
    "charge": "Sex Registry Violation",
    "more": 0,
    "ts": 1793275050,
-   "photo": null
+   "photo": "photos/MKE_GUENTNER_DURRELL_415070.jpg"
   },
   {
    "key": "MKE_MCCOTTRY_DESTINE_366391",
@@ -65,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793269651,
-   "photo": null
+   "photo": "photos/MKE_COLLINS_ADRIAN_367132.jpg"
   },
   {
    "key": "MKE_JONES_JADA_648029",
@@ -131,18 +208,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1793264266,
-   "photo": null
-  },
-  {
-   "key": "KEN_NICKOS_ADAM_2026-00005979",
-   "name": "Adam James Nickos",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793264133,
-   "photo": "photos/KEN_NICKOS_ADAM_2026-00005979.jpg"
+   "photo": "photos/MKE_THOMAS_DEREK_378307.jpg"
   },
   {
    "key": "MAR_GUZMANPIMIENTA_ARTURO_2026-10-29",
@@ -153,61 +219,6 @@
    "charge": "Disorderly Conduct",
    "more": 4,
    "ts": 1793260557,
-   "photo": null
-  },
-  {
-   "key": "RC_PASKEL_BRYANT_120011075712135",
-   "name": "Bryant O Paskel",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 2,
-   "ts": 1793260089,
-   "photo": "photos/RC_PASKEL_BRYANT_120011075712135.jpg"
-  },
-  {
-   "key": "RC_LEMEROND_WILLIAM_120011075711752",
-   "name": "William Robert Lemerond",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Receiving Stolen Property >$5000-$10,000",
-   "more": 1,
-   "ts": 1793260087,
-   "photo": "photos/RC_LEMEROND_WILLIAM_120011075711752.jpg"
-  },
-  {
-   "key": "RC_BYRD_ARIELLE_120011075712143",
-   "name": "Arielle Yisrael Byrd",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Forfeiture)",
-   "more": 1,
-   "ts": 1793260083,
-   "photo": "photos/RC_BYRD_ARIELLE_120011075712143.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_PATRICK_648027",
-   "name": "Patrick L Williams",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793258860,
-   "photo": null
-  },
-  {
-   "key": "MKE_WALKER_BREIONE_603077",
-   "name": "Breione T Walker",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793258858,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793157385,
    "photo": "photos/FDL_HAUBOLDT_MATTHEW_2026-10-27.jpg"
-  },
-  {
-   "key": "CARMODY_CASSANDRA_2026-10-27",
-   "name": "Cassandra M Carmody",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793147230,
-   "photo": null
   }
  ]
 }
