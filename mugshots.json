@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-29T07:49:31+00:00",
+ "updated": "2026-10-29T08:49:28+00:00",
  "items": [
+  {
+   "key": "MAR_GUZMANPIMIENTA_ARTURO_2026-10-29",
+   "name": "Arturo Pimienta Guzman Pimienta",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 4,
+   "ts": 1793260557,
+   "photo": null
+  },
   {
    "key": "RC_PASKEL_BRYANT_120011075712135",
    "name": "Bryant O Paskel",
@@ -51,8 +62,8 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793258858,
    "photo": null
   },
@@ -73,7 +84,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Bail Jumping-Felony",
    "more": 16,
    "ts": 1793257064,
    "photo": null
@@ -84,10 +95,10 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Causing Mental Harm To Child",
+   "more": 2,
    "ts": 1793256833,
-   "photo": null
+   "photo": "photos/KEN_BROWN_INGLESH_2026-00005977.jpg"
   },
   {
    "key": "RC_GOLLAZ_ARMANDO_120011075711152",
@@ -440,17 +451,6 @@
    "more": 8,
    "ts": 1793210239,
    "photo": "photos/MAR_PETERS_DANIELLE_2026-10-27_16026301.jpg"
-  },
-  {
-   "key": "MAR_KASENO_JAYDEN_2026-10-28_15109502",
-   "name": "Jayden Allen Kaseno",
-   "age": "19",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793210198,
-   "photo": "photos/MAR_KASENO_JAYDEN_2026-10-28_15109502.jpg"
   },
   {
    "key": "HOU_HANSON_ANDREWDEAN_6312",
