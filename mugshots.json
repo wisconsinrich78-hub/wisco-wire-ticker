@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-29T04:49:29+00:00",
+ "updated": "2026-10-29T05:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_OCTAVIA_648025",
+   "name": "Octavia Nicole Williams",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793251663,
+   "photo": null
+  },
+  {
+   "key": "MKE_MASSEY_ANTOINE_227029",
+   "name": "Antoine Lamont Massey",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 10,
+   "ts": 1793251661,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_ROEDON_616833",
+   "name": "Roedon Durell Cortez Jones",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 20,
+   "ts": 1793251659,
+   "photo": null
+  },
+  {
+   "key": "FDL_BAUTISTAGONZALEZ_JOSE_2026-10-28",
+   "name": "Jose Guadalupe Bautista Gonzalez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793250972,
+   "photo": "photos/FDL_BAUTISTAGONZALEZ_JOSE_2026-10-28.jpg"
+  },
   {
    "key": "MKE_JENKINS_GERALD_2016409",
    "name": "Gerald Jawaun Jenkins",
@@ -19,7 +63,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 7,
+   "more": 13,
    "ts": 1793248056,
    "photo": null
   },
@@ -73,7 +117,7 @@
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "OWI (3rd)",
+   "charge": "Operating w/ PAC (3rd)",
    "more": 3,
    "ts": 1793240860,
    "photo": null
@@ -187,39 +231,6 @@
    "more": 0,
    "ts": 1793231879,
    "photo": "photos/MKE_CARTER_EMMANUEL_299686.jpg"
-  },
-  {
-   "key": "MKE_BLUEMEL_RACHEL_643753",
-   "name": "Rachel Taylor Bluemel",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1793231877,
-   "photo": null
-  },
-  {
-   "key": "MKE_BANKS_WILLIAM_645417",
-   "name": "William D Banks",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793231876,
-   "photo": "photos/MKE_BANKS_WILLIAM_645417.jpg"
-  },
-  {
-   "key": "MKE_ANTONIODIAZ_MIGUEL_637653",
-   "name": "Miguel A Antonio Diaz",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793231873,
-   "photo": "photos/MKE_ANTONIODIAZ_MIGUEL_637653.jpg"
   },
   {
    "key": "MCCOY_WILLIAM_2026-10-28",
@@ -516,17 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793138226,
-   "photo": null
-  },
-  {
-   "key": "BONNER_SHEDRICK_2026-10-27",
-   "name": "Shedrick L Bonner",
-   "age": "51",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793132823,
    "photo": null
   }
  ]
