@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-29T15:49:31+00:00",
+ "updated": "2026-10-29T16:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_WHITAKER_LARRY_643722",
+   "name": "Larry Whitaker",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Injury",
+   "more": 2,
+   "ts": 1793291303,
+   "photo": null
+  },
+  {
+   "key": "MKE_LANGTIW_EMILY_642345",
+   "name": "Emily Rose Langtiw",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793291301,
+   "photo": null
+  },
+  {
+   "key": "MKE_FINCHIS_TAEVION_641315",
+   "name": "Taevion Valentino Finchis",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793291299,
+   "photo": null
+  },
+  {
+   "key": "MKE_ELLIS_KARDEAIR_641759",
+   "name": "Kardeair E. Ellis",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to an Elder Person - Intend Bodily Harm",
+   "more": 0,
+   "ts": 1793291297,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANTUNEZJIMENEZ_MIGUELANGEL_648034",
+   "name": "Miguelangel R Antunez Jimenez",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793291295,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOVETT_WILLIE_179707",
+   "name": "Willie Albert Lovett",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793289470,
+   "photo": null
+  },
+  {
+   "key": "MKE_JUAREZ_JESSICA_648033",
+   "name": "Jessica Juarez",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793289468,
+   "photo": null
+  },
+  {
+   "key": "PRIDGEON_JUSTIN_2026-10-29",
+   "name": "Justin R Pridgeon",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793289420,
+   "photo": null
+  },
   {
    "key": "RC_TESTNEW5_TESTNEW5_120011075720795",
    "name": "Test New5 Test New5 Test New5",
@@ -101,39 +189,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SMITH_MILTON_260622",
-   "name": "Milton Lee Smith",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1793280463,
-   "photo": null
-  },
-  {
-   "key": "MKE_KNIPPEL_CHRISTOPHER_384802",
-   "name": "Christopher John Knippel",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 0,
-   "ts": 1793280461,
-   "photo": "photos/MKE_KNIPPEL_CHRISTOPHER_384802.jpg"
-  },
-  {
-   "key": "MKE_CONNERS_COREY_646878",
-   "name": "Corey Marquis Conners",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Contact After Domestic Abuse Arrest",
-   "more": 15,
-   "ts": 1793280459,
-   "photo": null
-  },
-  {
    "key": "CHACON_BRANDON_2026-10-29",
    "name": "Brandon A Chacon",
    "age": "33",
@@ -142,50 +197,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793280428,
-   "photo": null
-  },
-  {
-   "key": "MKE_WANTA_SCOTT_325965",
-   "name": "Scott Joseph Wanta",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793278659,
-   "photo": null
-  },
-  {
-   "key": "MKE_OLOMWEME_ERICK_648031",
-   "name": "Erick Olomweme",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793278657,
-   "photo": null
-  },
-  {
-   "key": "MKE_GUENTNER_DURRELL_415070",
-   "name": "Durrell Thomas Guentner",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1793275050,
-   "photo": "photos/MKE_GUENTNER_DURRELL_415070.jpg"
-  },
-  {
-   "key": "MKE_MCCOTTRY_DESTINE_366391",
-   "name": "Destine R Mccottry",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793273249,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793160996,
    "photo": "photos/FDL_MILLER_MATTHEW_2026-10-27.jpg"
-  },
-  {
-   "key": "FDL_HAUBOLDT_MATTHEW_2026-10-27",
-   "name": "Matthew James Hauboldt",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1793157385,
-   "photo": "photos/FDL_HAUBOLDT_MATTHEW_2026-10-27.jpg"
   }
  ]
 }
