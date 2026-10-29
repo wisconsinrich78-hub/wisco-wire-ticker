@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-29T03:49:30+00:00",
+ "updated": "2026-10-29T04:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_JENKINS_GERALD_2016409",
+   "name": "Gerald Jawaun Jenkins",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793248057,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_MICHAEL_267109",
+   "name": "Michael Terrell Brown",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 7,
+   "ts": 1793248056,
+   "photo": null
+  },
+  {
+   "key": "FDL_SALGUEROVELASQUEZ_WALTER_2026-10-28",
+   "name": "Walter Ottoniel Salguero Velasquez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793247410,
+   "photo": "photos/FDL_SALGUEROVELASQUEZ_WALTER_2026-10-28.jpg"
+  },
+  {
+   "key": "FDL_MOLITOR_JUSTIN_2026-10-28",
+   "name": "Justin Richard Molitor",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793247399,
+   "photo": "photos/FDL_MOLITOR_JUSTIN_2026-10-28.jpg"
+  },
+  {
+   "key": "MKE_MALICKI_JOSHUA_344149",
+   "name": "Joshua D Malicki",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793246252,
+   "photo": null
+  },
   {
    "key": "RC_CUNNINGHAM_EARL_120011075707956",
    "name": "Earl Cunningham",
@@ -165,39 +220,6 @@
    "more": 0,
    "ts": 1793231873,
    "photo": "photos/MKE_ANTONIODIAZ_MIGUEL_637653.jpg"
-  },
-  {
-   "key": "RC_MATUTE_KAYTHLYN_120011075702866",
-   "name": "Kaythlyn Matute",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793231278,
-   "photo": null
-  },
-  {
-   "key": "MKE_YOUNG_AMANIE_634231",
-   "name": "Amanie R Young",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793230061,
-   "photo": null
-  },
-  {
-   "key": "MKE_WHITE_ADRIONNA_643254",
-   "name": "Adrionna J White",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 5,
-   "ts": 1793230059,
-   "photo": "photos/MKE_WHITE_ADRIONNA_643254.jpg"
   },
   {
    "key": "MCCOY_WILLIAM_2026-10-28",
@@ -505,28 +527,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1793132823,
-   "photo": null
-  },
-  {
-   "key": "FDL_LAST_JAMES_2026-10-27",
-   "name": "James A Last",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793132202,
-   "photo": "photos/FDL_LAST_JAMES_2026-10-27.jpg"
-  },
-  {
-   "key": "TABOR_ZACHARY_2026-10-27",
-   "name": "Zachary S Tabor",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793129219,
    "photo": null
   }
  ]
