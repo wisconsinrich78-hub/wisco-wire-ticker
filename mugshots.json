@@ -1,14 +1,80 @@
 {
- "updated": "2026-10-29T00:49:29+00:00",
+ "updated": "2026-10-29T01:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_PICKETT_LOVIE_383600",
+   "name": "Lovie F Pickett",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793237263,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_HAKEEM_351053",
+   "name": "Hakeem Dontrail Harris",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793237262,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAYMES_JOSE_635948",
+   "name": "Jose N Jaymes",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793235456,
+   "photo": null
+  },
+  {
+   "key": "KEN_JUAREZGALVAN_JOSELIN_2026-00005975",
+   "name": "Joselin E Juarez-Galvan",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793235442,
+   "photo": "photos/KEN_JUAREZGALVAN_JOSELIN_2026-00005975.jpg"
+  },
+  {
+   "key": "KEN_CRUZ_CHRISTIAN_2026-00005974",
+   "name": "Christian Cruz",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid D/L 3Rd + Offense",
+   "more": 0,
+   "ts": 1793235362,
+   "photo": null
+  },
+  {
+   "key": "MAR_BURKS_MATTHEW_2026-10-28",
+   "name": "Matthew Campbell Burks",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793235345,
+   "photo": "photos/MAR_BURKS_MATTHEW_2026-10-28.jpg"
+  },
   {
    "key": "RC_HILGERS_BRADLEY_120011075704985",
    "name": "Bradley J Hilgers",
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 14,
    "ts": 1793234885,
    "photo": "photos/RC_HILGERS_BRADLEY_120011075704985.jpg"
   },
@@ -32,7 +98,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1793231879,
-   "photo": null
+   "photo": "photos/MKE_CARTER_EMMANUEL_299686.jpg"
   },
   {
    "key": "MKE_BLUEMEL_RACHEL_643753",
@@ -65,7 +131,7 @@
    "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1793231873,
-   "photo": null
+   "photo": "photos/MKE_ANTONIODIAZ_MIGUEL_637653.jpg"
   },
   {
    "key": "RC_MATUTE_KAYTHLYN_120011075702866",
@@ -98,7 +164,7 @@
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 5,
    "ts": 1793230059,
-   "photo": null
+   "photo": "photos/MKE_WHITE_ADRIONNA_643254.jpg"
   },
   {
    "key": "MKE_BALDWIN_JARON_631299",
@@ -128,21 +194,10 @@
    "age": "24",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Retail Theft-Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1793228721,
    "photo": "photos/KEN_WALKER_KEVIS_2026-00005971.jpg"
-  },
-  {
-   "key": "KEN_MARTINEZ_SALENA_2026-00005973",
-   "name": "Salena Alberta Martinez",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793228569,
-   "photo": "photos/KEN_MARTINEZ_SALENA_2026-00005973.jpg"
   },
   {
    "key": "MAR_ALSOWITI_RHEA_2026-10-28_133707",
@@ -156,28 +211,6 @@
    "photo": "photos/MAR_ALSOWITI_RHEA_2026-10-28_133707.jpg"
   },
   {
-   "key": "RC_KOSINSKI_THOMAS_120011075702383",
-   "name": "Thomas John Kosinski",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Owi (5Th Or 6Th)",
-   "more": 3,
-   "ts": 1793227689,
-   "photo": "photos/RC_KOSINSKI_THOMAS_120011075702383.jpg"
-  },
-  {
-   "key": "RC_GARDNER_STEPHEN_120011075702365",
-   "name": "Stephen Anton Gardner",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
-   "more": 1,
-   "ts": 1793227686,
-   "photo": null
-  },
-  {
    "key": "CHAVEZ_JESUS_2026-10-28",
    "name": "Jesus Mathew Chavez",
    "age": "38",
@@ -186,28 +219,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 0,
    "ts": 1793227629,
-   "photo": null
-  },
-  {
-   "key": "MKE_GRAVES_CHRIS_166549",
-   "name": "Chris William Graves",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793226478,
-   "photo": null
-  },
-  {
-   "key": "MKE_RAY_CLIFFORD_621359",
-   "name": "Clifford Ray",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1793224687,
    "photo": null
   },
   {
@@ -396,17 +407,6 @@
    "more": 0,
    "ts": 1793210198,
    "photo": "photos/MAR_KASENO_JAYDEN_2026-10-28_15109502.jpg"
-  },
-  {
-   "key": "MAR_CAMACHO_MARIO_2026-10-28",
-   "name": "Mario Tehron Camacho",
-   "age": "23",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793210160,
-   "photo": "photos/MAR_CAMACHO_MARIO_2026-10-28.jpg"
   },
   {
    "key": "HOU_HANSON_ANDREWDEAN_6312",
