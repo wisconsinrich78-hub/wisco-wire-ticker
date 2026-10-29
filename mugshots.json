@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-29T20:49:35+00:00",
+ "updated": "2026-10-29T21:49:42+00:00",
  "items": [
+  {
+   "key": "RC_TYSON_ZYSHONNE_120011075735486",
+   "name": "Zyshonne Z Tyson",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793310506,
+   "photo": "photos/RC_TYSON_ZYSHONNE_120011075735486.jpg"
+  },
+  {
+   "key": "RC_MIDDLETON_MATTHEW_120011075735634",
+   "name": "Matthew David Middleton",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793310500,
+   "photo": null
+  },
+  {
+   "key": "RC_HOLLAND_LARON_120011075735230",
+   "name": "Laron Tierre Holland",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793310495,
+   "photo": "photos/RC_HOLLAND_LARON_120011075735230.jpg"
+  },
+  {
+   "key": "RC_BROWN_CHRISTOPHER_120011075735648",
+   "name": "Christopher Scott Brown",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793310491,
+   "photo": "photos/RC_BROWN_CHRISTOPHER_120011075735648.jpg"
+  },
+  {
+   "key": "MKE_VARELA_LUIS_638577",
+   "name": "Luis E Varela",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 1,
+   "ts": 1793307493,
+   "photo": null
+  },
+  {
+   "key": "MAR_DEBORD_KRISTEN_2026-10-29_13329902",
+   "name": "Kristen F Debord",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793307493,
+   "photo": "photos/MAR_DEBORD_KRISTEN_2026-10-29_13329902.jpg"
+  },
+  {
+   "key": "MKE_BROOKS_KWILEK_632382",
+   "name": "Kwilek Turon Brooks",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 6,
+   "ts": 1793307492,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILLIAMS_SARA_2026-10-29",
+   "name": "Sara Marci Williams",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793307458,
+   "photo": "photos/MAR_WILLIAMS_SARA_2026-10-29.jpg"
+  },
+  {
+   "key": "MAR_VANG_CHUE_2026-10-29",
+   "name": "Chue Vang",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1793307423,
+   "photo": "photos/MAR_VANG_CHUE_2026-10-29.jpg"
+  },
   {
    "key": "RC_MCKENZIE_CALEB_120011075733094",
    "name": "Caleb L McKenzie",
@@ -156,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_WREN_CORDNEY_360322",
-   "name": "Cordney Eugene Wren",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 2,
-   "ts": 1793300278,
-   "photo": null
-  },
-  {
-   "key": "MKE_LEFLORE_MICHAEL_648038",
-   "name": "Michael Andrew Leflore",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793300275,
-   "photo": null
-  },
-  {
    "key": "MAR_BUENNING_MATTHEW_2026-10-29_11239602",
    "name": "Matthew John Buenning",
    "age": "56",
@@ -220,50 +297,6 @@
    "more": 0,
    "ts": 1793300152,
    "photo": "photos/MAR_ROWE_DAVID_2026-10-29_491604.jpg"
-  },
-  {
-   "key": "RC_MATUS_IAN_120011075727861",
-   "name": "Ian F Matus",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Veh. Operator Flee/Elude Officer",
-   "more": 1,
-   "ts": 1793299686,
-   "photo": "photos/RC_MATUS_IAN_120011075727861.jpg"
-  },
-  {
-   "key": "RC_JACKSON_DONOVAN_120011075727170",
-   "name": "Donovan Aquisesupreme Jackson",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Open Intoxicants in MV",
-   "more": 0,
-   "ts": 1793299683,
-   "photo": "photos/RC_JACKSON_DONOVAN_120011075727170.jpg"
-  },
-  {
-   "key": "RC_ALDRIDGE_TIMOTHY_120011075727790",
-   "name": "Timothy James Aldridge",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
-   "more": 2,
-   "ts": 1793299680,
-   "photo": "photos/RC_ALDRIDGE_TIMOTHY_120011075727790.jpg"
-  },
-  {
-   "key": "KEN_TAYLOR_JAMES_2026-00005981",
-   "name": "James Deshaun Taylor",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Fail/Wear Seat Belt",
-   "more": 2,
-   "ts": 1793297706,
-   "photo": null
   },
   {
    "key": "MAR_GUZMANPIMIENTA_ARTURO_2026-10-29_12777901",
@@ -330,39 +363,6 @@
    "more": 0,
    "ts": 1793296860,
    "photo": "photos/MAR_COMSTOCK_JAMES_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_ROWE_DAVID_2026-10-29",
-   "name": "David William Rowe",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1793296759,
-   "photo": "photos/MAR_ROWE_DAVID_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_DUNLAP_DIONTE_2026-10-29",
-   "name": "Dionte Montez Dunlap",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793296690,
-   "photo": "photos/MAR_DUNLAP_DIONTE_2026-10-29.jpg"
-  },
-  {
-   "key": "DOU_VALENTINE_MICHAEL_2026-10-29",
-   "name": "Michael P Valentine",
-   "age": "49",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793294233,
-   "photo": null
   },
   {
    "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
