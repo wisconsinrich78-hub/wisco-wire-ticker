@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-29T05:49:29+00:00",
+ "updated": "2026-10-29T06:49:30+00:00",
  "items": [
+  {
+   "key": "RC_GOLLAZ_ARMANDO_120011075711152",
+   "name": "Armando Jimenez Gollaz",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793256474,
+   "photo": "photos/RC_GOLLAZ_ARMANDO_120011075711152.jpg"
+  },
+  {
+   "key": "MKE_JACKSON_CHANEL_639747",
+   "name": "Chanel C Jackson",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Fraud/Innkeeper,etc-Nonpayment (<=$2500)",
+   "more": 0,
+   "ts": 1793253463,
+   "photo": null
+  },
+  {
+   "key": "MKE_HICKS_SENECE_648026",
+   "name": "Senece Mary Francie Hicks",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793253461,
+   "photo": null
+  },
+  {
+   "key": "MKE_FLORES_NEHEMIAS_632000",
+   "name": "Nehemias Zieer Flores",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793253459,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_OCTAVIA_648025",
    "name": "Octavia Nicole Williams",
@@ -10,7 +54,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793251663,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_OCTAVIA_648025.jpg"
   },
   {
    "key": "MKE_MASSEY_ANTOINE_227029",
@@ -19,7 +63,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 10,
+   "more": 11,
    "ts": 1793251661,
    "photo": null
   },
@@ -117,7 +161,7 @@
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating w/ PAC (3rd)",
+   "charge": "OWI (3rd)",
    "more": 3,
    "ts": 1793240860,
    "photo": null
@@ -178,17 +222,6 @@
    "photo": "photos/KEN_JUAREZGALVAN_JOSELIN_2026-00005975.jpg"
   },
   {
-   "key": "KEN_CRUZ_CHRISTIAN_2026-00005974",
-   "name": "Christian Cruz",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L 3Rd + Offense",
-   "more": 0,
-   "ts": 1793235362,
-   "photo": null
-  },
-  {
    "key": "MAR_BURKS_MATTHEW_2026-10-28",
    "name": "Matthew Campbell Burks",
    "age": "38",
@@ -198,39 +231,6 @@
    "more": 0,
    "ts": 1793235345,
    "photo": "photos/MAR_BURKS_MATTHEW_2026-10-28.jpg"
-  },
-  {
-   "key": "RC_HILGERS_BRADLEY_120011075704985",
-   "name": "Bradley J Hilgers",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 14,
-   "ts": 1793234885,
-   "photo": "photos/RC_HILGERS_BRADLEY_120011075704985.jpg"
-  },
-  {
-   "key": "MKE_RODRIGUEZSANTO_ELLESENIA_648024",
-   "name": "Ellesenia Rodriguez Santo",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793231881,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARTER_EMMANUEL_299686",
-   "name": "Emmanuel T Carter",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1793231879,
-   "photo": "photos/MKE_CARTER_EMMANUEL_299686.jpg"
   },
   {
    "key": "MCCOY_WILLIAM_2026-10-28",
