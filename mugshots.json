@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-28T23:49:33+00:00",
+ "updated": "2026-10-29T00:49:29+00:00",
  "items": [
+  {
+   "key": "RC_HILGERS_BRADLEY_120011075704985",
+   "name": "Bradley J Hilgers",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793234885,
+   "photo": "photos/RC_HILGERS_BRADLEY_120011075704985.jpg"
+  },
+  {
+   "key": "MKE_RODRIGUEZSANTO_ELLESENIA_648024",
+   "name": "Ellesenia Rodriguez Santo",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793231881,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_EMMANUEL_299686",
+   "name": "Emmanuel T Carter",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1793231879,
+   "photo": null
+  },
+  {
+   "key": "MKE_BLUEMEL_RACHEL_643753",
+   "name": "Rachel Taylor Bluemel",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 0,
+   "ts": 1793231877,
+   "photo": null
+  },
+  {
+   "key": "MKE_BANKS_WILLIAM_645417",
+   "name": "William D Banks",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793231876,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANTONIODIAZ_MIGUEL_637653",
+   "name": "Miguel A Antonio Diaz",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793231873,
+   "photo": null
+  },
   {
    "key": "RC_MATUTE_KAYTHLYN_120011075702866",
    "name": "Kaythlyn Matute",
@@ -139,42 +205,9 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Domestic Abuse Surcharges",
    "more": 3,
    "ts": 1793224687,
-   "photo": null
-  },
-  {
-   "key": "MKE_CHATMAN_OMARI_604491",
-   "name": "Omari J Chatman",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793224685,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROWN_MALIK_623694",
-   "name": "Malik Laparius Brown",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793224683,
-   "photo": null
-  },
-  {
-   "key": "MKE_AUGUSTINE_GUY_609019",
-   "name": "Guy Augustine",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating w/ PAC (3rd)",
-   "more": 1,
-   "ts": 1793224681,
    "photo": null
   },
   {
@@ -187,17 +220,6 @@
    "more": 0,
    "ts": 1793224603,
    "photo": "photos/MAR_CAUTHEN_TRISHA_2026-10-28_8460012.jpg"
-  },
-  {
-   "key": "KEN_SIMPSON_DWAYNE_2026-00005970",
-   "name": "Dwayne Jason Simpson",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Disobey Order",
-   "more": 0,
-   "ts": 1793224595,
-   "photo": "photos/KEN_SIMPSON_DWAYNE_2026-00005970.jpg"
   },
   {
    "key": "MAR_MAGEE_CHAYSE_2026-10-28_4624710",
@@ -220,17 +242,6 @@
    "more": 1,
    "ts": 1793224527,
    "photo": "photos/MAR_ALSOWITI_RHEA_2026-10-28.jpg"
-  },
-  {
-   "key": "KEN_RODRIGUEZ_JUAN_2026-00005969",
-   "name": "Juan Noel Rodriguez",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 2,
-   "ts": 1793224518,
-   "photo": "photos/KEN_RODRIGUEZ_JUAN_2026-00005969.jpg"
   },
   {
    "key": "SANDS_MICHAEL_2026-10-28",
@@ -264,17 +275,6 @@
    "more": 0,
    "ts": 1793222183,
    "photo": "photos/FDL_GONZALEZGARCIA_LEON_2026-10-28.jpg"
-  },
-  {
-   "key": "MKE_SAMPTON_JAVARIUS_648023",
-   "name": "Javarius Lavar Sampton",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1793221078,
-   "photo": null
   },
   {
    "key": "MAR_DRAKE_BRANDON_2026-10-28_9189702",
