@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-29T08:49:28+00:00",
+ "updated": "2026-10-29T09:49:27+00:00",
  "items": [
+  {
+   "key": "TREM_COHAN_CLINT_4817",
+   "name": "Clint Anderson Cohan",
+   "age": "44",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793267229,
+   "photo": "photos/TREM_COHAN_CLINT_4817.jpg"
+  },
+  {
+   "key": "CARTER_PRINCE_2026-10-29",
+   "name": "Prince A Carter",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793266022,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_DEREK_378307",
+   "name": "Derek J Thomas",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1793264266,
+   "photo": null
+  },
+  {
+   "key": "KEN_NICKOS_ADAM_2026-00005979",
+   "name": "Adam James Nickos",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793264133,
+   "photo": "photos/KEN_NICKOS_ADAM_2026-00005979.jpg"
+  },
   {
    "key": "MAR_GUZMANPIMIENTA_ARTURO_2026-10-29",
    "name": "Arturo Pimienta Guzman Pimienta",
@@ -18,8 +62,8 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 2,
    "ts": 1793260089,
    "photo": "photos/RC_PASKEL_BRYANT_120011075712135.jpg"
   },
@@ -29,8 +73,8 @@
    "age": "39",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Receiving Stolen Property >$5000-$10,000",
+   "more": 1,
    "ts": 1793260087,
    "photo": "photos/RC_LEMEROND_WILLIAM_120011075711752.jpg"
   },
@@ -40,8 +84,8 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Forfeiture)",
+   "more": 1,
    "ts": 1793260083,
    "photo": "photos/RC_BYRD_ARIELLE_120011075712143.jpg"
   },
@@ -84,7 +128,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Charges Pending",
    "more": 16,
    "ts": 1793257064,
    "photo": null
@@ -167,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JONES_ROEDON_616833",
-   "name": "Roedon Durell Cortez Jones",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 20,
-   "ts": 1793251659,
-   "photo": null
-  },
-  {
    "key": "FDL_BAUTISTAGONZALEZ_JOSE_2026-10-28",
    "name": "Jose Guadalupe Bautista Gonzalez",
    "age": "",
@@ -187,17 +220,6 @@
    "more": 0,
    "ts": 1793250972,
    "photo": "photos/FDL_BAUTISTAGONZALEZ_JOSE_2026-10-28.jpg"
-  },
-  {
-   "key": "MKE_JENKINS_GERALD_2016409",
-   "name": "Gerald Jawaun Jenkins",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793248057,
-   "photo": null
   },
   {
    "key": "FDL_SALGUEROVELASQUEZ_WALTER_2026-10-28",
@@ -505,28 +527,6 @@
    "charge": "Probation Violation",
    "more": 1,
    "ts": 1793147230,
-   "photo": null
-  },
-  {
-   "key": "FDL_GERARD_TYLER_2026-10-27",
-   "name": "Tyler E Gerard",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Physical Abuse Of A Child",
-   "more": 3,
-   "ts": 1793146635,
-   "photo": "photos/FDL_GERARD_TYLER_2026-10-27.jpg"
-  },
-  {
-   "key": "WITTENBERG_CARLI_2026-10-27",
-   "name": "Carli M Wittenberg",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793138226,
    "photo": null
   }
  ]
