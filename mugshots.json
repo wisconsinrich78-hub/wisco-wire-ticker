@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-29T22:49:27+00:00",
+ "updated": "2026-10-29T23:49:36+00:00",
  "items": [
+  {
+   "key": "MKE_WADE_IVORY_353886",
+   "name": "Ivory Wade",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st or",
+   "more": 0,
+   "ts": 1793314933,
+   "photo": null
+  },
+  {
+   "key": "MKE_CORTEZ_KITTY_644701",
+   "name": "Kitty Ann Cortez",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 3,
+   "ts": 1793314931,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILLIAMS_SARA_2026-10-29_3958208",
+   "name": "Sara Marci Williams",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793314520,
+   "photo": "photos/MAR_WILLIAMS_SARA_2026-10-29_3958208.jpg"
+  },
   {
    "key": "OLSEN_ANDREW_2026-10-29",
    "name": "Andrew R Olsen",
@@ -62,8 +95,8 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793311069,
    "photo": null
   },
@@ -222,17 +255,6 @@
    "photo": "photos/MKE_WILDER_QUANELL_361440.jpg"
   },
   {
-   "key": "MKE_ANDERSON_KARDION_637015",
-   "name": "Kardion D Anderson",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793305665,
-   "photo": null
-  },
-  {
    "key": "MAR_DEBORD_KRISTEN_2026-10-29",
    "name": "Kristen F Debord",
    "age": "40",
@@ -253,17 +275,6 @@
    "more": 2,
    "ts": 1793303788,
    "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-10-29_2393502.jpg"
-  },
-  {
-   "key": "RC_VARGAS_MICHEAL_120011075730701",
-   "name": "Micheal Leigh Vargas",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793303306,
-   "photo": "photos/RC_VARGAS_MICHEAL_120011075730701.jpg"
   },
   {
    "key": "THOMAS_ALEXIS_2026-10-29",
@@ -363,17 +374,6 @@
    "more": 0,
    "ts": 1793296980,
    "photo": "photos/MAR_JANIAK_CONNOR_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_HOWARD_CHRISTOPHER_2026-10-29",
-   "name": "Christopher John Howard",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1793296944,
-   "photo": "photos/MAR_HOWARD_CHRISTOPHER_2026-10-29.jpg"
   },
   {
    "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
