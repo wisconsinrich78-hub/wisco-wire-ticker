@@ -1,13 +1,101 @@
 {
- "updated": "2026-10-29T06:49:30+00:00",
+ "updated": "2026-10-29T07:49:31+00:00",
  "items": [
+  {
+   "key": "RC_PASKEL_BRYANT_120011075712135",
+   "name": "Bryant O Paskel",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793260089,
+   "photo": "photos/RC_PASKEL_BRYANT_120011075712135.jpg"
+  },
+  {
+   "key": "RC_LEMEROND_WILLIAM_120011075711752",
+   "name": "William Robert Lemerond",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793260087,
+   "photo": "photos/RC_LEMEROND_WILLIAM_120011075711752.jpg"
+  },
+  {
+   "key": "RC_BYRD_ARIELLE_120011075712143",
+   "name": "Arielle Yisrael Byrd",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793260083,
+   "photo": "photos/RC_BYRD_ARIELLE_120011075712143.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_PATRICK_648027",
+   "name": "Patrick L Williams",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793258860,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALKER_BREIONE_603077",
+   "name": "Breione T Walker",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793258858,
+   "photo": null
+  },
+  {
+   "key": "MKE_VILLACARRILLO_GERARDO_2062714",
+   "name": "Gerardo Villa-Carrillo",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793257065,
+   "photo": "photos/MKE_VILLACARRILLO_GERARDO_2062714.jpg"
+  },
+  {
+   "key": "MKE_THOMAS_DEVONTA_500875",
+   "name": "Devonta Jamall Thomas",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 16,
+   "ts": 1793257064,
+   "photo": null
+  },
+  {
+   "key": "KEN_BROWN_INGLESH_2026-00005977",
+   "name": "Inglesh Jaguar Brown",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793256833,
+   "photo": null
+  },
   {
    "key": "RC_GOLLAZ_ARMANDO_120011075711152",
    "name": "Armando Jimenez Gollaz",
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
    "more": 0,
    "ts": 1793256474,
    "photo": "photos/RC_GOLLAZ_ARMANDO_120011075711152.jpg"
@@ -101,17 +189,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BROWN_MICHAEL_267109",
-   "name": "Michael Terrell Brown",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 13,
-   "ts": 1793248056,
-   "photo": null
-  },
-  {
    "key": "FDL_SALGUEROVELASQUEZ_WALTER_2026-10-28",
    "name": "Walter Ottoniel Salguero Velasquez",
    "age": "",
@@ -134,39 +211,6 @@
    "photo": "photos/FDL_MOLITOR_JUSTIN_2026-10-28.jpg"
   },
   {
-   "key": "MKE_MALICKI_JOSHUA_344149",
-   "name": "Joshua D Malicki",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793246252,
-   "photo": null
-  },
-  {
-   "key": "RC_CUNNINGHAM_EARL_120011075707956",
-   "name": "Earl Cunningham",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
-   "more": 0,
-   "ts": 1793245678,
-   "photo": "photos/RC_CUNNINGHAM_EARL_120011075707956.jpg"
-  },
-  {
-   "key": "MKE_CARSON_TAVIS_309451",
-   "name": "Tavis Tyrese Carson",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 3,
-   "ts": 1793240860,
-   "photo": null
-  },
-  {
    "key": "FDL_PRYOR_SAMANTHA_2026-10-28",
    "name": "Samantha Jo Pryor",
    "age": "",
@@ -176,50 +220,6 @@
    "more": 0,
    "ts": 1793240209,
    "photo": null
-  },
-  {
-   "key": "MKE_PICKETT_LOVIE_383600",
-   "name": "Lovie F Pickett",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793237263,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARRIS_HAKEEM_351053",
-   "name": "Hakeem Dontrail Harris",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793237262,
-   "photo": null
-  },
-  {
-   "key": "MKE_JAYMES_JOSE_635948",
-   "name": "Jose N Jaymes",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793235456,
-   "photo": null
-  },
-  {
-   "key": "KEN_JUAREZGALVAN_JOSELIN_2026-00005975",
-   "name": "Joselin E Juarez-Galvan",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 4,
-   "ts": 1793235442,
-   "photo": "photos/KEN_JUAREZGALVAN_JOSELIN_2026-00005975.jpg"
   },
   {
    "key": "MAR_BURKS_MATTHEW_2026-10-28",
