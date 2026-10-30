@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-30T03:49:26+00:00",
+ "updated": "2026-10-30T04:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_JAMALLE_643810",
+   "name": "Jamalle L Williams",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793334464,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_ELLIAUNTE_626336",
+   "name": "Elliaunte Charles Williams",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793334462,
+   "photo": null
+  },
+  {
+   "key": "MKE_SKONECKI_DEEANN_374572",
+   "name": "DeeAnn Marie Skonecki",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 2,
+   "ts": 1793334460,
+   "photo": null
+  },
+  {
+   "key": "MKE_QUALLS_BRIAN_307393",
+   "name": "Brian Lamar Qualls",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793334458,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOVE_ANTHONY_347571",
+   "name": "Anthony Jarome Love",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793334457,
+   "photo": null
+  },
+  {
+   "key": "MKE_ESSEX_DEMOND_292980",
+   "name": "Demond Lavelle Essex",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793334455,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_JOHNISHA_648043",
+   "name": "Johnisha Nicole Smith",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793332823,
+   "photo": null
+  },
+  {
+   "key": "MKE_FREEMAN_LEVELL_644578",
+   "name": "Levell J Freeman",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793332821,
+   "photo": null
+  },
+  {
+   "key": "MAR_RATTANASACK_KHAM_2026-10-29",
+   "name": "Kham Junior Rattanasack",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Narcotic Drugs",
+   "more": 4,
+   "ts": 1793332601,
+   "photo": "photos/MAR_RATTANASACK_KHAM_2026-10-29.jpg"
+  },
   {
    "key": "MERCADO_DAMON_2026-10-29",
    "name": "Damon B Mercado",
@@ -29,7 +128,7 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 2,
    "ts": 1793329063,
    "photo": null
@@ -43,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793329061,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_TRANARD_363900.jpg"
   },
   {
    "key": "MKE_PRESTON_LIONEL_648041",
@@ -106,8 +205,8 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 2,
    "ts": 1793325287,
    "photo": "photos/KEN_PEASE_ZACHERY_2026-00005990.jpg"
   },
@@ -167,17 +266,6 @@
    "photo": "photos/MKE_KONATE_MAMOUDOU_641409.jpg"
   },
   {
-   "key": "MKE_DICKERSON_SAMUEL_421498",
-   "name": "Samuel C Dickerson",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1793321862,
-   "photo": null
-  },
-  {
    "key": "MAR_RUTZEN_DYLAN_2026-10-29",
    "name": "Dylan Randy Rutzen",
    "age": "26",
@@ -187,17 +275,6 @@
    "more": 2,
    "ts": 1793321738,
    "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29.jpg"
-  },
-  {
-   "key": "KEN_KUMMER_JACOB_2026-00005989",
-   "name": "Jacob Frederick Kummer",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793321614,
-   "photo": "photos/KEN_KUMMER_JACOB_2026-00005989.jpg"
   },
   {
    "key": "GORR_BRODERICK_2026-10-29",
@@ -222,28 +299,6 @@
    "photo": "photos/FDL_CLAY_SHAKIRA_2026-10-29.jpg"
   },
   {
-   "key": "MKE_PEREZZETINA_MAURICIO_646593",
-   "name": "Mauricio J Perez-Zetina",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 3,
-   "ts": 1793318276,
-   "photo": null
-  },
-  {
-   "key": "MKE_DUCKWORTH_MARCELLUS_612138",
-   "name": "Marcellus J Duckworth",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 1,
-   "ts": 1793318274,
-   "photo": null
-  },
-  {
    "key": "MAR_VANG_CHUE_2026-10-29_15517",
    "name": "Chue Vang",
    "age": "39",
@@ -253,39 +308,6 @@
    "more": 3,
    "ts": 1793318123,
    "photo": "photos/MAR_VANG_CHUE_2026-10-29_15517.jpg"
-  },
-  {
-   "key": "KEN_LOSCH_JOSEPH_2026-00005988",
-   "name": "Joseph William Losch",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Child Pornography",
-   "more": 0,
-   "ts": 1793317998,
-   "photo": null
-  },
-  {
-   "key": "MKE_WADE_IVORY_353886",
-   "name": "Ivory Wade",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st or",
-   "more": 0,
-   "ts": 1793314933,
-   "photo": null
-  },
-  {
-   "key": "MKE_CORTEZ_KITTY_644701",
-   "name": "Kitty Ann Cortez",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 3,
-   "ts": 1793314931,
-   "photo": null
   },
   {
    "key": "MAR_WILLIAMS_SARA_2026-10-29_3958208",
@@ -319,17 +341,6 @@
    "more": 4,
    "ts": 1793312904,
    "photo": "photos/DOU_WILLIAMS_TRISTON_2026-10-29.jpg"
-  },
-  {
-   "key": "MKE_MORENO_ADONIS_631522",
-   "name": "Adonis Moreno",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793312864,
-   "photo": null
   },
   {
    "key": "MAR_THAO_SOU_2026-10-29",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1793300224,
    "photo": "photos/MAR_HOWARD_CHRISTOPHER_2026-10-29_7237503.jpg"
-  },
-  {
-   "key": "MAR_COMSTOCK_JAMES_2026-10-29_1160602",
-   "name": "James A Comstock",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793300189,
-   "photo": "photos/MAR_COMSTOCK_JAMES_2026-10-29_1160602.jpg"
   },
   {
    "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
