@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-30T20:49:30+00:00",
+ "updated": "2026-10-30T21:49:30+00:00",
  "items": [
+  {
+   "key": "RC_HARTMAN_DAVID_120011075762681",
+   "name": "David Sean Hartman",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793396882,
+   "photo": null
+  },
+  {
+   "key": "RC_BLOUNT_EMANI_120011075763747",
+   "name": "Emani A Blount",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793396880,
+   "photo": null
+  },
+  {
+   "key": "FDL_JONES_TROY_2026-10-30",
+   "name": "Troy J Jones",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
+   "more": 0,
+   "ts": 1793394986,
+   "photo": "photos/FDL_JONES_TROY_2026-10-30.jpg"
+  },
+  {
+   "key": "MKE_SCOTT_DEVIN_648049",
+   "name": "Devin Trayvon Scott",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793393854,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOWARD_JIMMY_371785",
+   "name": "Jimmy L Howard",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793393852,
+   "photo": null
+  },
+  {
+   "key": "KEN_GORDON_JARVIS_2026-00006000",
+   "name": "Jarvis Javonte Gordon",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793393823,
+   "photo": "photos/KEN_GORDON_JARVIS_2026-00006000.jpg"
+  },
+  {
+   "key": "MAR_COOK_JASON_2026-10-30",
+   "name": "Jason Bradley Cook",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Conceal",
+   "more": 0,
+   "ts": 1793393790,
+   "photo": "photos/MAR_COOK_JASON_2026-10-30.jpg"
+  },
+  {
+   "key": "MAR_SKAR_JORDAN_2026-10-30",
+   "name": "Jordan Todd Skar",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1793393755,
+   "photo": "photos/MAR_SKAR_JORDAN_2026-10-30.jpg"
+  },
+  {
+   "key": "KEN_BUTLER_TERRANCE_2026-00005999",
+   "name": "TERRANCE SIROD Junior BUTLER",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 0,
+   "ts": 1793393724,
+   "photo": "photos/KEN_BUTLER_TERRANCE_2026-00005999.jpg"
+  },
   {
    "key": "RC_MRKVICKA_KRISTEN_120011075762986",
    "name": "Kristen Miller Mrkvicka",
@@ -167,17 +266,6 @@
    "photo": "photos/MKE_COMBS_CHARLES_407606.jpg"
   },
   {
-   "key": "KEN_GARDNER_STEPHEN_2026-00005998",
-   "name": "STEPHEN ANTON Fourth GARDNER",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1793382968,
-   "photo": "photos/KEN_GARDNER_STEPHEN_2026-00005998.jpg"
-  },
-  {
    "key": "MAR_RUTZEN_DYLAN_2026-10-29_1540403",
    "name": "Dylan Randy Rutzen",
    "age": "26",
@@ -189,17 +277,6 @@
    "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29_1540403.jpg"
   },
   {
-   "key": "MKE_LANIER_JONATHAN_347150",
-   "name": "Jonathan Trevell Lanier",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Posses W/Intent-Fentanyl (>10-50)",
-   "more": 26,
-   "ts": 1793381271,
-   "photo": null
-  },
-  {
    "key": "MAR_KLEINSCHMIDT_RYAN_2026-10-30_714106",
    "name": "Ryan Orin Kleinschmidt",
    "age": "33",
@@ -209,50 +286,6 @@
    "more": 0,
    "ts": 1793379322,
    "photo": "photos/MAR_KLEINSCHMIDT_RYAN_2026-10-30_714106.jpg"
-  },
-  {
-   "key": "KEN_SNOW_MARQUESE_2026-00005997",
-   "name": "Marquese M Snow",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1793379230,
-   "photo": "photos/KEN_SNOW_MARQUESE_2026-00005997.jpg"
-  },
-  {
-   "key": "RC_REDISKE_BROOKE_120011075754891",
-   "name": "Brooke L Rediske",
-   "age": "F",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793378877,
-   "photo": null
-  },
-  {
-   "key": "RC_JOHNSON_JASON_120011075754603",
-   "name": "Jason L Johnson",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793378874,
-   "photo": "photos/RC_JOHNSON_JASON_120011075754603.jpg"
-  },
-  {
-   "key": "RC_CABRERALOPEZ_JOVANI_120011075755185",
-   "name": "Jovani Cabrera Lopez",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793378869,
-   "photo": null
   },
   {
    "key": "DOU_MACMANUS_LISA_2026-10-19",
@@ -475,28 +508,6 @@
    "photo": null
   },
   {
-   "key": "DOU_ROLSON_JOSHUA_2026-10-29",
-   "name": "Joshua D Rolson",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793323032,
-   "photo": null
-  },
-  {
-   "key": "MAR_RUTZEN_DYLAN_2026-10-29",
-   "name": "Dylan Randy Rutzen",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 2,
-   "ts": 1793321738,
-   "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29.jpg"
-  },
-  {
    "key": "GORR_BRODERICK_2026-10-29",
    "name": "Broderick M Gorr",
    "age": "21",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793319374,
    "photo": "photos/FDL_CLAY_SHAKIRA_2026-10-29.jpg"
-  },
-  {
-   "key": "OLSEN_ANDREW_2026-10-29",
-   "name": "Andrew R Olsen",
-   "age": "27",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793314043,
-   "photo": null
   }
  ]
 }
