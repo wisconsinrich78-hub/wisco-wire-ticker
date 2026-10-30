@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T09:49:31+00:00",
+ "updated": "2026-10-30T10:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_SUTTON_TAYLOR_648045",
+   "name": "Taylor S Sutton",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793356059,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCLAURIN_DAVID_402388",
+   "name": "David Dajuan Mclaurin",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1793354257,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOSTON_NEJEHWON_648044",
+   "name": "Nejehwon Boston",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793354255,
+   "photo": null
+  },
   {
    "key": "RC_PERDUE_JAMAUL_120011075745339",
    "name": "Jamaul M Perdue",
@@ -62,7 +95,7 @@
    "age": "18",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793350547,
    "photo": "photos/KEN_GARCIA_ANTHONY_2026-00005993.jpg"
@@ -95,7 +128,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 4,
    "ts": 1793345266,
    "photo": null
@@ -187,39 +220,6 @@
    "more": 4,
    "ts": 1793336172,
    "photo": "photos/MAR_RATTANASACK_KHAM_2026-10-29_743005.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_JAMALLE_643810",
-   "name": "Jamalle L Williams",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793334464,
-   "photo": "photos/MKE_WILLIAMS_JAMALLE_643810.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_ELLIAUNTE_626336",
-   "name": "Elliaunte Charles Williams",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793334462,
-   "photo": "photos/MKE_WILLIAMS_ELLIAUNTE_626336.jpg"
-  },
-  {
-   "key": "MKE_SKONECKI_DEEANN_374572",
-   "name": "DeeAnn Marie Skonecki",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
-   "more": 2,
-   "ts": 1793334460,
-   "photo": "photos/MKE_SKONECKI_DEEANN_374572.jpg"
   },
   {
    "key": "MAR_RATTANASACK_KHAM_2026-10-29",
