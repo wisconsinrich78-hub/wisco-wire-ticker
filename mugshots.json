@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-30T18:49:27+00:00",
+ "updated": "2026-10-30T19:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_LOPEZPEREZ_HORACIO_604527",
+   "name": "Horacio Efrain Lopez-Perez",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 1,
+   "ts": 1793388470,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_CHRISTIAN_648048",
+   "name": "Christian Tyler Allen",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1793388468,
+   "photo": null
+  },
+  {
+   "key": "FDL_JONES_TROY_2026-08-21",
+   "name": "Troy J Jones",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 2,
+   "ts": 1793387792,
+   "photo": "photos/FDL_JONES_TROY_2026-08-21.jpg"
+  },
+  {
+   "key": "MKE_MARCHESE_SAMUEL_338471",
+   "name": "Samuel Jude Marchese",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Knowingly Violate a Domestic Abuse Order - Injunction",
+   "more": 2,
+   "ts": 1793386665,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALONE_DEVONTE_600261",
+   "name": "Devonte TerrianeMac Malone",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1793386663,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRELL_TARONE_276816",
+   "name": "Tarone Lamell Harrell",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
+   "more": 18,
+   "ts": 1793386661,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRAZIL_TEONDRE_515003",
+   "name": "Teondre Douglas Brazil",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 23,
+   "ts": 1793386660,
+   "photo": null
+  },
   {
    "key": "RC_MENDOZA_RICARDO_120011075759170",
    "name": "Ricardo Mendoza",
@@ -51,7 +128,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
+   "charge": "Posses W/Intent-Fentanyl (>10-50)",
    "more": 26,
    "ts": 1793381271,
    "photo": null
@@ -167,28 +244,6 @@
    "photo": "photos/FDL_GUZMANFLORES_GUSTAVO_2026-10-30.jpg"
   },
   {
-   "key": "MKE_GATSON_DANIEL_622428",
-   "name": "Daniel Judah Gatson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793375861,
-   "photo": null
-  },
-  {
-   "key": "MKE_ADRIA_MELVIN_154331",
-   "name": "Melvin Nmn Adria",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793375859,
-   "photo": null
-  },
-  {
    "key": "MAR_COOPER_CAMRY_2026-10-30",
    "name": "Camry Oshae Cooper",
    "age": "33",
@@ -209,39 +264,6 @@
    "more": 0,
    "ts": 1793373383,
    "photo": null
-  },
-  {
-   "key": "KEN_SPIKES_NEVILLE_2026-00005996",
-   "name": "Neville X Spikes",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Exceeding Speed Zones (24-29 Mph)",
-   "more": 4,
-   "ts": 1793372084,
-   "photo": "photos/KEN_SPIKES_NEVILLE_2026-00005996.jpg"
-  },
-  {
-   "key": "RC_WINSTON_MICHAEL_120011075750502",
-   "name": "Michael Winston",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1793371680,
-   "photo": null
-  },
-  {
-   "key": "MKE_COLE_DESTINY_648047",
-   "name": "Destiny M Cole",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793370460,
-   "photo": "photos/MKE_COLE_DESTINY_648047.jpg"
   },
   {
    "key": "DOU_DRAPER_MARLENE_2026-10-30",
@@ -274,17 +296,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793368026,
-   "photo": null
-  },
-  {
-   "key": "MKE_MANZANOMANUEL_PABLO_648046",
-   "name": "Pablo Manzano-Manuel",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793366861,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793302023,
    "photo": null
-  },
-  {
-   "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
-   "name": "Keshawn Jimmy Johnson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793294193,
-   "photo": "photos/FDL_JOHNSON_KESHAWN_2026-10-29.jpg"
   }
  ]
 }
