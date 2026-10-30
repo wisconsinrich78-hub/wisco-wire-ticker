@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-29T23:49:36+00:00",
+ "updated": "2026-10-30T00:49:32+00:00",
  "items": [
+  {
+   "key": "GORR_BRODERICK_2026-10-29",
+   "name": "Broderick M Gorr",
+   "age": "21",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Substantial Battery-Intend Bodily Harm",
+   "more": 0,
+   "ts": 1793320022,
+   "photo": null
+  },
+  {
+   "key": "FDL_CLAY_SHAKIRA_2026-10-29",
+   "name": "Shakira Marie Clay",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793319374,
+   "photo": "photos/FDL_CLAY_SHAKIRA_2026-10-29.jpg"
+  },
+  {
+   "key": "MKE_PEREZZETINA_MAURICIO_646593",
+   "name": "Mauricio J Perez-Zetina",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 3,
+   "ts": 1793318276,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUCKWORTH_MARCELLUS_612138",
+   "name": "Marcellus J Duckworth",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Reckless Homicide",
+   "more": 1,
+   "ts": 1793318274,
+   "photo": null
+  },
+  {
+   "key": "MAR_VANG_CHUE_2026-10-29_15517",
+   "name": "Chue Vang",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1793318123,
+   "photo": "photos/MAR_VANG_CHUE_2026-10-29_15517.jpg"
+  },
+  {
+   "key": "KEN_LOSCH_JOSEPH_2026-00005988",
+   "name": "Joseph William Losch",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Child Pornography",
+   "more": 0,
+   "ts": 1793317998,
+   "photo": null
+  },
   {
    "key": "MKE_WADE_IVORY_353886",
    "name": "Ivory Wade",
@@ -222,39 +288,6 @@
    "photo": "photos/MAR_VANG_CHUE_2026-10-29.jpg"
   },
   {
-   "key": "RC_MCKENZIE_CALEB_120011075733094",
-   "name": "Caleb L McKenzie",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Second Degree Sexual Assault - Use of Force",
-   "more": 0,
-   "ts": 1793306887,
-   "photo": "photos/RC_MCKENZIE_CALEB_120011075733094.jpg"
-  },
-  {
-   "key": "RC_COLEMAN_CALAIA_120011075733179",
-   "name": "Calaia Rochae Coleman",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793306883,
-   "photo": "photos/RC_COLEMAN_CALAIA_120011075733179.jpg"
-  },
-  {
-   "key": "MKE_WILDER_QUANELL_361440",
-   "name": "Quanell James Wilder",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1793305667,
-   "photo": "photos/MKE_WILDER_QUANELL_361440.jpg"
-  },
-  {
    "key": "MAR_DEBORD_KRISTEN_2026-10-29",
    "name": "Kristen F Debord",
    "age": "40",
@@ -363,17 +396,6 @@
    "more": 0,
    "ts": 1793297018,
    "photo": "photos/MAR_BUENNING_MATTHEW_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_JANIAK_CONNOR_2026-10-29",
-   "name": "Connor Theodore Janiak",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793296980,
-   "photo": "photos/MAR_JANIAK_CONNOR_2026-10-29.jpg"
   },
   {
    "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1793224028,
    "photo": null
-  },
-  {
-   "key": "FDL_GONZALEZGARCIA_LEON_2026-10-28",
-   "name": "Leon D Gonzalezgarcia",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Operate Motor Vehicle Without A Valid License - Cause Great Bodily Har",
-   "more": 0,
-   "ts": 1793222183,
-   "photo": "photos/FDL_GONZALEZGARCIA_LEON_2026-10-28.jpg"
-  },
-  {
-   "key": "FDL_DUFRANE_MATTHEW_2026-10-28",
-   "name": "Matthew C Du Frane",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1793211378,
-   "photo": "photos/FDL_DUFRANE_MATTHEW_2026-10-28.jpg"
   }
  ]
 }
