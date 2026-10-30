@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-30T05:49:27+00:00",
+ "updated": "2026-10-30T06:49:33+00:00",
  "items": [
+  {
+   "key": "RC_SMITH_KEITH_120011075743237",
+   "name": "Keith Merwin Smith",
+   "age": "71",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793342874,
+   "photo": "photos/RC_SMITH_KEITH_120011075743237.jpg"
+  },
+  {
+   "key": "RC_CZAPPA_DYLAN_120011075742614",
+   "name": "Dylan Patrick Czappa",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793342871,
+   "photo": "photos/RC_CZAPPA_DYLAN_120011075742614.jpg"
+  },
   {
    "key": "RC_BOOKER_JAVERIAN_120011075742041",
    "name": "Javerian L Booker",
@@ -51,8 +73,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793338051,
    "photo": null
   },
@@ -73,7 +95,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1793334464,
    "photo": null
@@ -95,7 +117,7 @@
    "age": "53",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Party to a Crime",
+   "charge": "Possession of Methamphetamine",
    "more": 2,
    "ts": 1793334460,
    "photo": null
@@ -128,7 +150,7 @@
    "age": "43",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1793334455,
    "photo": null
@@ -197,28 +219,6 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 2,
    "ts": 1793329063,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_TRANARD_363900",
-   "name": "Tranard Lacy Davis",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793329061,
-   "photo": "photos/MKE_DAVIS_TRANARD_363900.jpg"
-  },
-  {
-   "key": "MKE_PRESTON_LIONEL_648041",
-   "name": "Lionel D Preston",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793327272,
    "photo": null
   },
   {
