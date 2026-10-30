@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-30T02:49:34+00:00",
+ "updated": "2026-10-30T03:49:26+00:00",
  "items": [
+  {
+   "key": "MERCADO_DAMON_2026-10-29",
+   "name": "Damon B Mercado",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793330830,
+   "photo": null
+  },
+  {
+   "key": "GONYIER_DENISE_2026-10-29",
+   "name": "Denise M Gonyier",
+   "age": "39",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793330829,
+   "photo": null
+  },
+  {
+   "key": "MKE_PRUITT_TERRENCE_644351",
+   "name": "Terrence Nausean Pruitt",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793329063,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_TRANARD_363900",
+   "name": "Tranard Lacy Davis",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793329061,
+   "photo": null
+  },
   {
    "key": "MKE_PRESTON_LIONEL_648041",
    "name": "Lionel D Preston",
@@ -76,7 +120,7 @@
    "charge": "Conspire to Manufacture/Deliver Drugs",
    "more": 16,
    "ts": 1793323659,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_LARRICK_291372.jpg"
   },
   {
    "key": "MKE_JACKSON_KAMRON_624476",
@@ -288,28 +332,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JEMISON_JUMAL_648040",
-   "name": "Jumal Willie Jemison",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793312862,
-   "photo": null
-  },
-  {
-   "key": "MKE_CULPEPPER_VICTOR_646893",
-   "name": "Victor Lee Culpepper",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793312860,
-   "photo": null
-  },
-  {
    "key": "MAR_THAO_SOU_2026-10-29",
    "name": "Sou Thao",
    "age": "33",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793247410,
    "photo": "photos/FDL_SALGUEROVELASQUEZ_WALTER_2026-10-28.jpg"
-  },
-  {
-   "key": "FDL_MOLITOR_JUSTIN_2026-10-28",
-   "name": "Justin Richard Molitor",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793247399,
-   "photo": "photos/FDL_MOLITOR_JUSTIN_2026-10-28.jpg"
-  },
-  {
-   "key": "FDL_PRYOR_SAMANTHA_2026-10-28",
-   "name": "Samantha Jo Pryor",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Resisting Or Obstructing Officer",
-   "more": 0,
-   "ts": 1793240209,
-   "photo": null
   }
  ]
 }
