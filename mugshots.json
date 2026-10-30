@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T11:49:27+00:00",
+ "updated": "2026-10-30T12:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_SHEPPARD_MAURICE_387801",
+   "name": "Maurice David Sheppard",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793361457,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOUSE_TANA_623829",
+   "name": "Tana S Gouse",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 4,
+   "ts": 1793361455,
+   "photo": null
+  },
+  {
+   "key": "KEN_WILSON_JAY_2026-00005994",
+   "name": "Jay Andrew Wilson",
+   "age": "67",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793361353,
+   "photo": "photos/KEN_WILSON_JAY_2026-00005994.jpg"
+  },
   {
    "key": "MKE_SUTTON_TAYLOR_648045",
    "name": "Taylor S Sutton",
@@ -21,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1793354257,
-   "photo": null
+   "photo": "photos/MKE_MCLAURIN_DAVID_402388.jpg"
   },
   {
    "key": "MKE_BOSTON_NEJEHWON_648044",
@@ -176,39 +209,6 @@
    "more": 3,
    "ts": 1793338056,
    "photo": "photos/MKE_JONES_LEVESTER_640315.jpg"
-  },
-  {
-   "key": "MKE_HARDING_ETOYA_622958",
-   "name": "Etoya Shirlene Harding",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793338055,
-   "photo": "photos/MKE_HARDING_ETOYA_622958.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_DETONIA_373631",
-   "name": "Detonia Denise Davis",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793338053,
-   "photo": "photos/MKE_DAVIS_DETONIA_373631.jpg"
-  },
-  {
-   "key": "MKE_CHAMBERLAIN_JOHN_517376",
-   "name": "John Chester Chamberlain",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793338051,
-   "photo": "photos/MKE_CHAMBERLAIN_JOHN_517376.jpg"
   },
   {
    "key": "MAR_RATTANASACK_KHAM_2026-10-29_743005",
