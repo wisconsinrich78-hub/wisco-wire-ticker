@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-30T00:49:32+00:00",
+ "updated": "2026-10-30T01:49:50+00:00",
  "items": [
+  {
+   "key": "MKE_ROBINSON_LARRICK_291372",
+   "name": "Larrick Dewayne Robinson",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Conspire to Manufacture/Deliver Drugs",
+   "more": 16,
+   "ts": 1793323659,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_KAMRON_624476",
+   "name": "Kamron L Jackson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793323657,
+   "photo": null
+  },
+  {
+   "key": "DOYLE_KENNETH_2026-10-29",
+   "name": "Kenneth A Doyle",
+   "age": "70",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1793323622,
+   "photo": null
+  },
+  {
+   "key": "DOU_ROLSON_JOSHUA_2026-10-29",
+   "name": "Joshua D Rolson",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793323032,
+   "photo": null
+  },
+  {
+   "key": "MKE_KONATE_MAMOUDOU_641409",
+   "name": "Mamoudou Konate",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 0,
+   "ts": 1793321863,
+   "photo": "photos/MKE_KONATE_MAMOUDOU_641409.jpg"
+  },
+  {
+   "key": "MKE_DICKERSON_SAMUEL_421498",
+   "name": "Samuel C Dickerson",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1793321862,
+   "photo": null
+  },
+  {
+   "key": "MAR_RUTZEN_DYLAN_2026-10-29",
+   "name": "Dylan Randy Rutzen",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 2,
+   "ts": 1793321738,
+   "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29.jpg"
+  },
+  {
+   "key": "KEN_KUMMER_JACOB_2026-00005989",
+   "name": "Jacob Frederick Kummer",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793321614,
+   "photo": "photos/KEN_KUMMER_JACOB_2026-00005989.jpg"
+  },
   {
    "key": "GORR_BRODERICK_2026-10-29",
    "name": "Broderick M Gorr",
@@ -128,7 +216,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1793312864,
    "photo": null
@@ -200,50 +288,6 @@
    "photo": "photos/RC_TYSON_ZYSHONNE_120011075735486.jpg"
   },
   {
-   "key": "RC_MIDDLETON_MATTHEW_120011075735634",
-   "name": "Matthew David Middleton",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793310500,
-   "photo": null
-  },
-  {
-   "key": "RC_HOLLAND_LARON_120011075735230",
-   "name": "Laron Tierre Holland",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793310495,
-   "photo": "photos/RC_HOLLAND_LARON_120011075735230.jpg"
-  },
-  {
-   "key": "RC_BROWN_CHRISTOPHER_120011075735648",
-   "name": "Christopher Scott Brown",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793310491,
-   "photo": "photos/RC_BROWN_CHRISTOPHER_120011075735648.jpg"
-  },
-  {
-   "key": "MKE_VARELA_LUIS_638577",
-   "name": "Luis E Varela",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 1,
-   "ts": 1793307493,
-   "photo": null
-  },
-  {
    "key": "MAR_DEBORD_KRISTEN_2026-10-29_13329902",
    "name": "Kristen F Debord",
    "age": "40",
@@ -253,17 +297,6 @@
    "more": 0,
    "ts": 1793307493,
    "photo": "photos/MAR_DEBORD_KRISTEN_2026-10-29_13329902.jpg"
-  },
-  {
-   "key": "MKE_BROOKS_KWILEK_632382",
-   "name": "Kwilek Turon Brooks",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 6,
-   "ts": 1793307492,
-   "photo": null
   },
   {
    "key": "MAR_WILLIAMS_SARA_2026-10-29",
@@ -374,28 +407,6 @@
    "more": 0,
    "ts": 1793300152,
    "photo": "photos/MAR_ROWE_DAVID_2026-10-29_491604.jpg"
-  },
-  {
-   "key": "MAR_GUZMANPIMIENTA_ARTURO_2026-10-29_12777901",
-   "name": "Arturo Pimienta Guzman Pimienta",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 4,
-   "ts": 1793297051,
-   "photo": "photos/MAR_GUZMANPIMIENTA_ARTURO_2026-10-29_12777901.jpg"
-  },
-  {
-   "key": "MAR_BUENNING_MATTHEW_2026-10-29",
-   "name": "Matthew John Buenning",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1793297018,
-   "photo": "photos/MAR_BUENNING_MATTHEW_2026-10-29.jpg"
   },
   {
    "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
@@ -516,17 +527,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 0,
    "ts": 1793227629,
-   "photo": null
-  },
-  {
-   "key": "SANDS_MICHAEL_2026-10-28",
-   "name": "Michael T Sands",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Invasion Of Privacy-Occupied Place",
-   "more": 1,
-   "ts": 1793224028,
    "photo": null
   }
  ]
