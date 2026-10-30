@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-30T14:49:27+00:00",
+ "updated": "2026-10-30T15:49:27+00:00",
  "items": [
+  {
+   "key": "FDL_GUZMAN_GUSTAVO_2026-10-30",
+   "name": "Gustavo F Guzman",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793373383,
+   "photo": null
+  },
+  {
+   "key": "KEN_SPIKES_NEVILLE_2026-00005996",
+   "name": "Neville X Spikes",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793372084,
+   "photo": "photos/KEN_SPIKES_NEVILLE_2026-00005996.jpg"
+  },
   {
    "key": "RC_WINSTON_MICHAEL_120011075750502",
    "name": "Michael Winston",
@@ -21,7 +43,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793370460,
-   "photo": null
+   "photo": "photos/MKE_COLE_DESTINY_648047.jpg"
   },
   {
    "key": "DOU_DRAPER_MARLENE_2026-10-30",
@@ -242,17 +264,6 @@
    "more": 2,
    "ts": 1793348870,
    "photo": "photos/MKE_KEARNEY_COREY_540361.jpg"
-  },
-  {
-   "key": "MKE_SWIAMS_AYANNA_644686",
-   "name": "Ayanna Miasia Swiams",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793345268,
-   "photo": "photos/MKE_SWIAMS_AYANNA_644686.jpg"
   },
   {
    "key": "MAR_RATTANASACK_KHAM_2026-10-29_743005",
@@ -516,17 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793289420,
-   "photo": null
-  },
-  {
-   "key": "CHACON_BRANDON_2026-10-29",
-   "name": "Brandon A Chacon",
-   "age": "33",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793280428,
    "photo": null
   }
  ]
