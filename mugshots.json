@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-30T12:49:29+00:00",
+ "updated": "2026-10-30T13:49:28+00:00",
  "items": [
+  {
+   "key": "TRAYLOR_TERRANCE_2026-10-30",
+   "name": "Terrance V Traylor",
+   "age": "51",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793368026,
+   "photo": null
+  },
+  {
+   "key": "MKE_MANZANOMANUEL_PABLO_648046",
+   "name": "Pablo Manzano-Manuel",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793366861,
+   "photo": null
+  },
+  {
+   "key": "MKE_TRIGGS_VALENTINUS_316145",
+   "name": "Valentinus Demere Triggs",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 0,
+   "ts": 1793365058,
+   "photo": "photos/MKE_TRIGGS_VALENTINUS_316145.jpg"
+  },
+  {
+   "key": "MKE_ASHFORD_SEVILLE_401310",
+   "name": "Seville Dontray Ashford",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 4,
+   "ts": 1793365056,
+   "photo": "photos/MKE_ASHFORD_SEVILLE_401310.jpg"
+  },
+  {
+   "key": "MAR_GOLOMB_MICHAEL_2026-10-30",
+   "name": "Michael James Golomb",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1793364982,
+   "photo": "photos/MAR_GOLOMB_MICHAEL_2026-10-30.jpg"
+  },
   {
    "key": "MKE_SHEPPARD_MAURICE_387801",
    "name": "Maurice David Sheppard",
@@ -10,7 +65,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793361457,
-   "photo": null
+   "photo": "photos/MKE_SHEPPARD_MAURICE_387801.jpg"
   },
   {
    "key": "MKE_GOUSE_TANA_623829",
@@ -18,10 +73,10 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery",
+   "charge": "Charges Pending",
    "more": 4,
    "ts": 1793361455,
-   "photo": null
+   "photo": "photos/MKE_GOUSE_TANA_623829.jpg"
   },
   {
    "key": "KEN_WILSON_JAY_2026-00005994",
@@ -29,7 +84,7 @@
    "age": "67",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793361353,
    "photo": "photos/KEN_WILSON_JAY_2026-00005994.jpg"
@@ -65,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793354255,
-   "photo": null
+   "photo": "photos/MKE_BOSTON_NEJEHWON_648044.jpg"
   },
   {
    "key": "RC_PERDUE_JAMAUL_120011075745339",
@@ -176,39 +231,6 @@
    "more": 0,
    "ts": 1793342874,
    "photo": "photos/RC_SMITH_KEITH_120011075743237.jpg"
-  },
-  {
-   "key": "RC_CZAPPA_DYLAN_120011075742614",
-   "name": "Dylan Patrick Czappa",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793342871,
-   "photo": "photos/RC_CZAPPA_DYLAN_120011075742614.jpg"
-  },
-  {
-   "key": "RC_BOOKER_JAVERIAN_120011075742041",
-   "name": "Javerian L Booker",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793339272,
-   "photo": null
-  },
-  {
-   "key": "MKE_JONES_LEVESTER_640315",
-   "name": "Levester S Jones",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
-   "more": 3,
-   "ts": 1793338056,
-   "photo": "photos/MKE_JONES_LEVESTER_640315.jpg"
   },
   {
    "key": "MAR_RATTANASACK_KHAM_2026-10-29_743005",
@@ -475,17 +497,6 @@
    "photo": null
   },
   {
-   "key": "MAR_BUENNING_MATTHEW_2026-10-29_11239602",
-   "name": "Matthew John Buenning",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1793300260,
-   "photo": "photos/MAR_BUENNING_MATTHEW_2026-10-29_11239602.jpg"
-  },
-  {
    "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
    "name": "Keshawn Jimmy Johnson",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793280428,
    "photo": null
-  },
-  {
-   "key": "TREM_COHAN_CLINT_4817",
-   "name": "Clint Anderson Cohan",
-   "age": "44",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793267229,
-   "photo": "photos/TREM_COHAN_CLINT_4817.jpg"
   }
  ]
 }
