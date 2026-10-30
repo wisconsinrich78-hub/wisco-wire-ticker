@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-30T01:49:50+00:00",
+ "updated": "2026-10-30T02:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_PRESTON_LIONEL_648041",
+   "name": "Lionel D Preston",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793327272,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCKENZIE_CALEB_648042",
+   "name": "Caleb L Mckenzie",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793327270,
+   "photo": null
+  },
+  {
+   "key": "FDL_OLEARY_TIMOTHY_2026-10-29",
+   "name": "Timothy Kyle Oleary",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793326607,
+   "photo": "photos/FDL_OLEARY_TIMOTHY_2026-10-29.jpg"
+  },
+  {
+   "key": "FDL_MALCOLM_NICHOLAS_2026-10-29",
+   "name": "Nicholas Michael Malcolm",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WRIT (x0)",
+   "more": 0,
+   "ts": 1793326600,
+   "photo": "photos/FDL_MALCOLM_NICHOLAS_2026-10-29.jpg"
+  },
+  {
+   "key": "MAR_THAO_SOU_2026-10-29_6346111",
+   "name": "Sou Thao",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Controlled Substance",
+   "more": 4,
+   "ts": 1793325352,
+   "photo": "photos/MAR_THAO_SOU_2026-10-29_6346111.jpg"
+  },
+  {
+   "key": "KEN_PEASE_ZACHERY_2026-00005990",
+   "name": "Zachery Gregory Pease",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793325287,
+   "photo": "photos/KEN_PEASE_ZACHERY_2026-00005990.jpg"
+  },
   {
    "key": "MKE_ROBINSON_LARRICK_291372",
    "name": "Larrick Dewayne Robinson",
@@ -84,8 +150,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1793321614,
    "photo": "photos/KEN_KUMMER_JACOB_2026-00005989.jpg"
   },
@@ -128,7 +194,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "1st-Degree Reckless Homicide",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 1,
    "ts": 1793318274,
    "photo": null
@@ -244,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "MKE_RODRIGUEZDIAZ_OLVIN_648039",
-   "name": "Olvin J Rodriguez-Diaz",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793311069,
-   "photo": null
-  },
-  {
    "key": "MAR_THAO_SOU_2026-10-29",
    "name": "Sou Thao",
    "age": "33",
@@ -264,28 +319,6 @@
    "more": 4,
    "ts": 1793310977,
    "photo": "photos/MAR_THAO_SOU_2026-10-29.jpg"
-  },
-  {
-   "key": "KEN_PEASE_ZACHERY_2026-00005986",
-   "name": "Zachery Gregory Pease",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793310969,
-   "photo": "photos/KEN_PEASE_ZACHERY_2026-00005986.jpg"
-  },
-  {
-   "key": "RC_TYSON_ZYSHONNE_120011075735486",
-   "name": "Zyshonne Z Tyson",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793310506,
-   "photo": "photos/RC_TYSON_ZYSHONNE_120011075735486.jpg"
   },
   {
    "key": "MAR_DEBORD_KRISTEN_2026-10-29_13329902",
@@ -398,17 +431,6 @@
    "photo": "photos/MAR_COMSTOCK_JAMES_2026-10-29_1160602.jpg"
   },
   {
-   "key": "MAR_ROWE_DAVID_2026-10-29_491604",
-   "name": "David William Rowe",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1793300152,
-   "photo": "photos/MAR_ROWE_DAVID_2026-10-29_491604.jpg"
-  },
-  {
    "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
    "name": "Keshawn Jimmy Johnson",
    "age": "",
@@ -505,28 +527,6 @@
    "charge": "Resisting Or Obstructing Officer",
    "more": 0,
    "ts": 1793240209,
-   "photo": null
-  },
-  {
-   "key": "MCCOY_WILLIAM_2026-10-28",
-   "name": "William E Mccoy",
-   "age": "50",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1793230026,
-   "photo": null
-  },
-  {
-   "key": "CHAVEZ_JESUS_2026-10-28",
-   "name": "Jesus Mathew Chavez",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1793227629,
    "photo": null
   }
  ]
