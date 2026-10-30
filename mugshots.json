@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-30T21:49:30+00:00",
+ "updated": "2026-10-30T22:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_WALKER_MARISA_506930",
+   "name": "Marisa Shanae Walker",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793399257,
+   "photo": null
+  },
+  {
+   "key": "MKE_PATE_DANIEL_338137",
+   "name": "Daniel B Pate",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1793399255,
+   "photo": null
+  },
+  {
+   "key": "MKE_CUNNINGHAM_SHAMERCE_648050",
+   "name": "Shamerce Quenon Cunningham",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793399254,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_ORLANDO_641218",
+   "name": "Orlando Anthony Smith",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793397466,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_CHARLESTON_526928",
+   "name": "Charleston Demarco Smith",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793397464,
+   "photo": null
+  },
+  {
+   "key": "MKE_KUENG_BENJAMIN_610525",
+   "name": "Benjamin J Kueng",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 4,
+   "ts": 1793397462,
+   "photo": null
+  },
+  {
+   "key": "KEN_SPEK_COREY_2026-00006001",
+   "name": "Corey Michael Spek",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793397443,
+   "photo": "photos/KEN_SPEK_COREY_2026-00006001.jpg"
+  },
+  {
+   "key": "LEE_VONG_2026-10-30",
+   "name": "Vong Lee",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1793397439,
+   "photo": null
+  },
+  {
+   "key": "KEN_EVANS_ERIC_2026-00006002",
+   "name": "Eric Darzel Evans",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793397372,
+   "photo": null
+  },
   {
    "key": "RC_HARTMAN_DAVID_120011075762681",
    "name": "David Sean Hartman",
@@ -40,8 +139,8 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793393854,
    "photo": null
   },
@@ -62,7 +161,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return On Writ",
    "more": 0,
    "ts": 1793393823,
    "photo": "photos/KEN_GORDON_JARVIS_2026-00006000.jpg"
@@ -167,28 +266,6 @@
    "photo": "photos/MAR_COOPER_CAMRY_2026-10-30_982010.jpg"
   },
   {
-   "key": "MKE_LOPEZPEREZ_HORACIO_604527",
-   "name": "Horacio Efrain Lopez-Perez",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 1,
-   "ts": 1793388470,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALLEN_CHRISTIAN_648048",
-   "name": "Christian Tyler Allen",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793388468,
-   "photo": null
-  },
-  {
    "key": "FDL_JONES_TROY_2026-08-21",
    "name": "Troy J Jones",
    "age": "",
@@ -198,72 +275,6 @@
    "more": 2,
    "ts": 1793387792,
    "photo": "photos/FDL_JONES_TROY_2026-08-21.jpg"
-  },
-  {
-   "key": "MKE_MARCHESE_SAMUEL_338471",
-   "name": "Samuel Jude Marchese",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Knowingly Violate a Domestic Abuse Order - Injunction",
-   "more": 2,
-   "ts": 1793386665,
-   "photo": null
-  },
-  {
-   "key": "MKE_MALONE_DEVONTE_600261",
-   "name": "Devonte TerrianeMac Malone",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 0,
-   "ts": 1793386663,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARRELL_TARONE_276816",
-   "name": "Tarone Lamell Harrell",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Strangulation and Suffocation",
-   "more": 18,
-   "ts": 1793386661,
-   "photo": null
-  },
-  {
-   "key": "MKE_BRAZIL_TEONDRE_515003",
-   "name": "Teondre Douglas Brazil",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 23,
-   "ts": 1793386660,
-   "photo": null
-  },
-  {
-   "key": "RC_MENDOZA_RICARDO_120011075759170",
-   "name": "Ricardo Mendoza",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793386072,
-   "photo": "photos/RC_MENDOZA_RICARDO_120011075759170.jpg"
-  },
-  {
-   "key": "MKE_COMBS_CHARLES_407606",
-   "name": "Charles Edward Combs",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793383068,
-   "photo": "photos/MKE_COMBS_CHARLES_407606.jpg"
   },
   {
    "key": "MAR_RUTZEN_DYLAN_2026-10-29_1540403",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793320022,
    "photo": null
-  },
-  {
-   "key": "FDL_CLAY_SHAKIRA_2026-10-29",
-   "name": "Shakira Marie Clay",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793319374,
-   "photo": "photos/FDL_CLAY_SHAKIRA_2026-10-29.jpg"
   }
  ]
 }
