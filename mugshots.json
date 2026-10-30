@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-30T08:49:26+00:00",
+ "updated": "2026-10-30T09:49:31+00:00",
  "items": [
+  {
+   "key": "RC_PERDUE_JAMAUL_120011075745339",
+   "name": "Jamaul M Perdue",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793353676,
+   "photo": null
+  },
+  {
+   "key": "TREM_WESSON_JACOB_4360",
+   "name": "Jacob Silas Wesson",
+   "age": "36",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Support Child (<120 Days)",
+   "more": 0,
+   "ts": 1793353635,
+   "photo": "photos/TREM_WESSON_JACOB_4360.jpg"
+  },
+  {
+   "key": "TREM_AMES_JENASSA_6197",
+   "name": "Jenassa Veronica Ames",
+   "age": "33",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 1,
+   "ts": 1793353634,
+   "photo": "photos/TREM_AMES_JENASSA_6197.jpg"
+  },
+  {
+   "key": "TREM_ADAMS_BRADY_6198",
+   "name": "Brady John Adams",
+   "age": "36",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793353632,
+   "photo": "photos/TREM_ADAMS_BRADY_6198.jpg"
+  },
+  {
+   "key": "MKE_DIAZ_DIAMANTE_645205",
+   "name": "Diamante Diaz",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793350663,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIA_ANTHONY_2026-00005993",
+   "name": "Anthony Ray Garcia",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793350547,
+   "photo": "photos/KEN_GARCIA_ANTHONY_2026-00005993.jpg"
+  },
   {
    "key": "MKE_KEARNEY_COREY_540361",
    "name": "Corey Shawnell Kearney",
@@ -21,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793345268,
-   "photo": null
+   "photo": "photos/MKE_SWIAMS_AYANNA_644686.jpg"
   },
   {
    "key": "MKE_LLOYD_JERICHO_619712",
@@ -29,7 +95,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Habitual Criminality",
    "more": 4,
    "ts": 1793345266,
    "photo": null
@@ -73,10 +139,10 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Theft-Movable Property <=$2500",
+   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
    "more": 3,
    "ts": 1793338056,
-   "photo": null
+   "photo": "photos/MKE_JONES_LEVESTER_640315.jpg"
   },
   {
    "key": "MKE_HARDING_ETOYA_622958",
@@ -154,39 +220,6 @@
    "more": 2,
    "ts": 1793334460,
    "photo": "photos/MKE_SKONECKI_DEEANN_374572.jpg"
-  },
-  {
-   "key": "MKE_QUALLS_BRIAN_307393",
-   "name": "Brian Lamar Qualls",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793334458,
-   "photo": "photos/MKE_QUALLS_BRIAN_307393.jpg"
-  },
-  {
-   "key": "MKE_LOVE_ANTHONY_347571",
-   "name": "Anthony Jarome Love",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793334457,
-   "photo": "photos/MKE_LOVE_ANTHONY_347571.jpg"
-  },
-  {
-   "key": "MKE_ESSEX_DEMOND_292980",
-   "name": "Demond Lavelle Essex",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793334455,
-   "photo": null
   },
   {
    "key": "MAR_RATTANASACK_KHAM_2026-10-29",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793267229,
    "photo": "photos/TREM_COHAN_CLINT_4817.jpg"
-  },
-  {
-   "key": "CARTER_PRINCE_2026-10-29",
-   "name": "Prince A Carter",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793266022,
-   "photo": null
-  },
-  {
-   "key": "FDL_BAUTISTAGONZALEZ_JOSE_2026-10-28",
-   "name": "Jose Guadalupe Bautista Gonzalez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793250972,
-   "photo": "photos/FDL_BAUTISTAGONZALEZ_JOSE_2026-10-28.jpg"
-  },
-  {
-   "key": "FDL_SALGUEROVELASQUEZ_WALTER_2026-10-28",
-   "name": "Walter Ottoniel Salguero Velasquez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793247410,
-   "photo": "photos/FDL_SALGUEROVELASQUEZ_WALTER_2026-10-28.jpg"
   }
  ]
 }
