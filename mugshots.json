@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-30T06:49:33+00:00",
+ "updated": "2026-10-30T07:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_SWIAMS_AYANNA_644686",
+   "name": "Ayanna Miasia Swiams",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793345268,
+   "photo": null
+  },
+  {
+   "key": "MKE_LLOYD_JERICHO_619712",
+   "name": "Jericho Dupree Lloyd",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 4,
+   "ts": 1793345266,
+   "photo": null
+  },
   {
    "key": "RC_SMITH_KEITH_120011075743237",
    "name": "Keith Merwin Smith",
@@ -40,7 +62,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
+   "charge": "Theft-Movable Property <=$2500",
    "more": 3,
    "ts": 1793338056,
    "photo": null
@@ -98,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793334464,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_JAMALLE_643810.jpg"
   },
   {
    "key": "MKE_WILLIAMS_ELLIAUNTE_626336",
@@ -109,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793334462,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ELLIAUNTE_626336.jpg"
   },
   {
    "key": "MKE_SKONECKI_DEEANN_374572",
@@ -117,10 +139,10 @@
    "age": "53",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Methamphetamine",
+   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
    "more": 2,
    "ts": 1793334460,
-   "photo": null
+   "photo": "photos/MKE_SKONECKI_DEEANN_374572.jpg"
   },
   {
    "key": "MKE_QUALLS_BRIAN_307393",
@@ -167,17 +189,6 @@
    "photo": "photos/MKE_SMITH_JOHNISHA_648043.jpg"
   },
   {
-   "key": "MKE_FREEMAN_LEVELL_644578",
-   "name": "Levell J Freeman",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793332821,
-   "photo": null
-  },
-  {
    "key": "MAR_RATTANASACK_KHAM_2026-10-29",
    "name": "Kham Junior Rattanasack",
    "age": "24",
@@ -208,17 +219,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793330829,
-   "photo": null
-  },
-  {
-   "key": "MKE_PRUITT_TERRENCE_644351",
-   "name": "Terrence Nausean Pruitt",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 2,
-   "ts": 1793329063,
    "photo": null
   },
   {
