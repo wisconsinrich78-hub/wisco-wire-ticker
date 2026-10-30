@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T16:49:26+00:00",
+ "updated": "2026-10-30T17:49:31+00:00",
  "items": [
+  {
+   "key": "MKE_LANIER_JONATHAN_347150",
+   "name": "Jonathan Trevell Lanier",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Posses W/Intent-Fentanyl (>10-50)",
+   "more": 21,
+   "ts": 1793381271,
+   "photo": null
+  },
+  {
+   "key": "MAR_KLEINSCHMIDT_RYAN_2026-10-30_714106",
+   "name": "Ryan Orin Kleinschmidt",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793379322,
+   "photo": "photos/MAR_KLEINSCHMIDT_RYAN_2026-10-30_714106.jpg"
+  },
+  {
+   "key": "KEN_SNOW_MARQUESE_2026-00005997",
+   "name": "Marquese M Snow",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793379230,
+   "photo": "photos/KEN_SNOW_MARQUESE_2026-00005997.jpg"
+  },
   {
    "key": "RC_REDISKE_BROOKE_120011075754891",
    "name": "Brooke L Rediske",
@@ -40,8 +73,8 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess Drug Paraphernalia (Forfeiture)",
-   "more": 3,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793377668,
    "photo": null
   },
@@ -52,7 +85,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Intimidate Victim/Use or Attempt Force",
-   "more": 12,
+   "more": 16,
    "ts": 1793377666,
    "photo": null
   },
@@ -253,28 +286,6 @@
    "more": 0,
    "ts": 1793361457,
    "photo": "photos/MKE_SHEPPARD_MAURICE_387801.jpg"
-  },
-  {
-   "key": "MKE_GOUSE_TANA_623829",
-   "name": "Tana S Gouse",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793361455,
-   "photo": "photos/MKE_GOUSE_TANA_623829.jpg"
-  },
-  {
-   "key": "KEN_WILSON_JAY_2026-00005994",
-   "name": "Jay Andrew Wilson",
-   "age": "67",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793361353,
-   "photo": "photos/KEN_WILSON_JAY_2026-00005994.jpg"
   },
   {
    "key": "TREM_WESSON_JACOB_4360",
@@ -495,17 +506,6 @@
    "more": 4,
    "ts": 1793310977,
    "photo": "photos/MAR_THAO_SOU_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_DEBORD_KRISTEN_2026-10-29_13329902",
-   "name": "Kristen F Debord",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793307493,
-   "photo": "photos/MAR_DEBORD_KRISTEN_2026-10-29_13329902.jpg"
   },
   {
    "key": "THOMAS_ALEXIS_2026-10-29",
