@@ -1,14 +1,58 @@
 {
- "updated": "2026-10-30T17:49:31+00:00",
+ "updated": "2026-10-30T18:49:27+00:00",
  "items": [
+  {
+   "key": "RC_MENDOZA_RICARDO_120011075759170",
+   "name": "Ricardo Mendoza",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793386072,
+   "photo": "photos/RC_MENDOZA_RICARDO_120011075759170.jpg"
+  },
+  {
+   "key": "MKE_COMBS_CHARLES_407606",
+   "name": "Charles Edward Combs",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793383068,
+   "photo": "photos/MKE_COMBS_CHARLES_407606.jpg"
+  },
+  {
+   "key": "KEN_GARDNER_STEPHEN_2026-00005998",
+   "name": "STEPHEN ANTON Fourth GARDNER",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 0,
+   "ts": 1793382968,
+   "photo": "photos/KEN_GARDNER_STEPHEN_2026-00005998.jpg"
+  },
+  {
+   "key": "MAR_RUTZEN_DYLAN_2026-10-29_1540403",
+   "name": "Dylan Randy Rutzen",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 2,
+   "ts": 1793382938,
+   "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29_1540403.jpg"
+  },
   {
    "key": "MKE_LANIER_JONATHAN_347150",
    "name": "Jonathan Trevell Lanier",
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Posses W/Intent-Fentanyl (>10-50)",
-   "more": 21,
+   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
+   "more": 26,
    "ts": 1793381271,
    "photo": null
   },
@@ -29,8 +73,8 @@
    "age": "26",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
    "ts": 1793379230,
    "photo": "photos/KEN_SNOW_MARQUESE_2026-00005997.jpg"
   },
@@ -84,10 +128,10 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Intimidate Victim/Use or Attempt Force",
+   "charge": "Contact After Domestic Abuse Arrest",
    "more": 16,
    "ts": 1793377666,
-   "photo": null
+   "photo": "photos/MKE_BLAKE_JASON_288871.jpg"
   },
   {
    "key": "DOU_MACMANUS_LISA_2026-10-19",
@@ -244,28 +288,6 @@
    "photo": null
   },
   {
-   "key": "MKE_TRIGGS_VALENTINUS_316145",
-   "name": "Valentinus Demere Triggs",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1793365058,
-   "photo": "photos/MKE_TRIGGS_VALENTINUS_316145.jpg"
-  },
-  {
-   "key": "MKE_ASHFORD_SEVILLE_401310",
-   "name": "Seville Dontray Ashford",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 4,
-   "ts": 1793365056,
-   "photo": "photos/MKE_ASHFORD_SEVILLE_401310.jpg"
-  },
-  {
    "key": "MAR_GOLOMB_MICHAEL_2026-10-30",
    "name": "Michael James Golomb",
    "age": "41",
@@ -275,17 +297,6 @@
    "more": 0,
    "ts": 1793364982,
    "photo": "photos/MAR_GOLOMB_MICHAEL_2026-10-30.jpg"
-  },
-  {
-   "key": "MKE_SHEPPARD_MAURICE_387801",
-   "name": "Maurice David Sheppard",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793361457,
-   "photo": "photos/MKE_SHEPPARD_MAURICE_387801.jpg"
   },
   {
    "key": "TREM_WESSON_JACOB_4360",
@@ -495,17 +506,6 @@
    "more": 4,
    "ts": 1793312904,
    "photo": "photos/DOU_WILLIAMS_TRISTON_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_THAO_SOU_2026-10-29",
-   "name": "Sou Thao",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Controlled Substance",
-   "more": 4,
-   "ts": 1793310977,
-   "photo": "photos/MAR_THAO_SOU_2026-10-29.jpg"
   },
   {
    "key": "THOMAS_ALEXIS_2026-10-29",
