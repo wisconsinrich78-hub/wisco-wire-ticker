@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-31T15:59:37+00:00",
+ "updated": "2026-10-31T16:28:46+00:00",
  "items": [
+  {
+   "key": "MKE_KENDRICK_LINCOLN_292746",
+   "name": "Lincoln Kendrick",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 3,
+   "ts": 1793464072,
+   "photo": null
+  },
+  {
+   "key": "FDL_AGUILARCERVELLON_JAXEL_2026-10-31",
+   "name": "Jaxel J Aguilar Cervellon",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793463368,
+   "photo": null
+  },
   {
    "key": "MKE_VAZQUEZ_MARCOS_386219",
    "name": "Marcos Vazquez",
@@ -231,17 +253,6 @@
    "more": 0,
    "ts": 1793444104,
    "photo": "photos/MAR_HIGNITE_SHAWN_2026-10-31.jpg"
-  },
-  {
-   "key": "RC_MOTTA_MAIARA_120011075776200",
-   "name": "Maiara C Motta",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793443669,
-   "photo": null
   },
   {
    "key": "DOU_DEMPSEY_TIJWAUNA_2026-10-31",
@@ -516,17 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793373383,
-   "photo": null
-  },
-  {
-   "key": "TRAYLOR_TERRANCE_2026-10-30",
-   "name": "Terrance V Traylor",
-   "age": "51",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793368026,
    "photo": null
   }
  ]
