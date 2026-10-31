@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-31T20:57:33+00:00",
+ "updated": "2026-10-31T21:49:30+00:00",
  "items": [
+  {
+   "key": "RC_ROYSTER_ROBERT_120011075788459",
+   "name": "Robert David Royster",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793483274,
+   "photo": "photos/RC_ROYSTER_ROBERT_120011075788459.jpg"
+  },
+  {
+   "key": "RC_LANNINGHAM_TONYA_120011075788306",
+   "name": "Tonya Sue Lanningham",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793483271,
+   "photo": null
+  },
+  {
+   "key": "RC_KELLEY_TIMOTHY_120011075787811",
+   "name": "Timothy Carl Kelley",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Physical Abuse of a Child - High Probability of Great Bodily Harm",
+   "more": 2,
+   "ts": 1793483269,
+   "photo": "photos/RC_KELLEY_TIMOTHY_120011075787811.jpg"
+  },
+  {
+   "key": "FDL_PIRTLE_MARCUS_2026-10-31",
+   "name": "Marcus Lakeith Pirtle",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793481409,
+   "photo": "photos/FDL_PIRTLE_MARCUS_2026-10-31.jpg"
+  },
   {
    "key": "MKE_KEY_MICHAEL_206328",
    "name": "Michael Anthony Key",
@@ -220,39 +264,6 @@
    "more": 0,
    "ts": 1793462143,
    "photo": "photos/MAR_BERENS_AIDEN_2026-10-31_16089001.jpg"
-  },
-  {
-   "key": "RC_MARTIN_TRAVEON_120011075780312",
-   "name": "Traveon Marshaun Martin",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793461680,
-   "photo": "photos/RC_MARTIN_TRAVEON_120011075780312.jpg"
-  },
-  {
-   "key": "RC_HILER_LETEPHIA_120011075780625",
-   "name": "Letephia Evonne Hiler",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793461673,
-   "photo": "photos/RC_HILER_LETEPHIA_120011075780625.jpg"
-  },
-  {
-   "key": "MKE_BURKS_SUMMER_402695",
-   "name": "Summer Hope Burks",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793458712,
-   "photo": null
   },
   {
    "key": "FDL_ROCHAVALBERDE_MILO_2026-10-31",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793393755,
    "photo": "photos/MAR_SKAR_JORDAN_2026-10-30.jpg"
-  },
-  {
-   "key": "FDL_SCHNEIDER_BRAD_2026-10-30",
-   "name": "Brad E Schneider",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793391407,
-   "photo": "photos/FDL_SCHNEIDER_BRAD_2026-10-30.jpg"
   }
  ]
 }
