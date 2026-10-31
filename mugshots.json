@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-31T03:49:31+00:00",
+ "updated": "2026-10-31T04:49:35+00:00",
  "items": [
+  {
+   "key": "RC_BURNS_KIONTAE_120011075771654",
+   "name": "Kiontae Burns",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Criminal Damage To Property",
+   "more": 2,
+   "ts": 1793422101,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_JAVION_638464",
+   "name": "Javion Kewon Lee",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793419093,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHATMAN_MARTEA_640243",
+   "name": "Martea J Chatman",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793419090,
+   "photo": null
+  },
   {
    "key": "RC_PHILLIPS_JORDAN_120011075770565",
    "name": "Jordan Elliot Phillips",
@@ -186,39 +219,6 @@
    "charge": "Contempt Of Court - Disobey Order",
    "more": 0,
    "ts": 1793404413,
-   "photo": null
-  },
-  {
-   "key": "RC_ORTIZ_EMMANUEL_120011075766764",
-   "name": "Emmanuel Jose Ortiz",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793404069,
-   "photo": "photos/RC_ORTIZ_EMMANUEL_120011075766764.jpg"
-  },
-  {
-   "key": "MKE_MOLINAWAGNER_CHRISTIAN_637169",
-   "name": "Christian Gabriel Molina Wagner",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793402900,
-   "photo": "photos/MKE_MOLINAWAGNER_CHRISTIAN_637169.jpg"
-  },
-  {
-   "key": "MKE_KOBLISKA_PATRICK_304515",
-   "name": "Patrick James Kobliska",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 1,
-   "ts": 1793402898,
    "photo": null
   },
   {
