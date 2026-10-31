@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-31T07:49:29+00:00",
+ "updated": "2026-10-31T08:49:35+00:00",
  "items": [
+  {
+   "key": "RC_GUTIERREZ_ROBERTO_120011075774659",
+   "name": "Roberto Ordonez Gutierrez",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793436474,
+   "photo": "photos/RC_GUTIERREZ_ROBERTO_120011075774659.jpg"
+  },
+  {
+   "key": "MAR_WOLD_TARA_2026-10-31",
+   "name": "Tara Marie Wold",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1793433327,
+   "photo": "photos/MAR_WOLD_TARA_2026-10-31.jpg"
+  },
   {
    "key": "RC_DELAROSA_EDGAR_120011075774118",
    "name": "Edgar DeLaRosa",
@@ -21,7 +43,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793431655,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ZONIQUE_648052.jpg"
   },
   {
    "key": "MKE_BLACK_SANJAYA_632317",
@@ -32,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793431653,
-   "photo": null
+   "photo": "photos/MKE_BLACK_SANJAYA_632317.jpg"
   },
   {
    "key": "FDL_WITKOWSKI_DAYNE_2026-10-31",
@@ -244,17 +266,6 @@
    "photo": "photos/MKE_ELLICKSON_MARK_630431.jpg"
   },
   {
-   "key": "MKE_GARCIA_JOSE_2057994",
-   "name": "Jose Estuardo Garcia",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793408260,
-   "photo": "photos/MKE_GARCIA_JOSE_2057994.jpg"
-  },
-  {
    "key": "BURZINSKI_DAVID_2026-10-30",
    "name": "David E Burzinski",
    "age": "61",
@@ -461,17 +472,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793373383,
-   "photo": null
-  },
-  {
-   "key": "DOU_DRAPER_MARLENE_2026-10-30",
-   "name": "Marlene M Draper",
-   "age": "33",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793369865,
    "photo": null
   },
   {
