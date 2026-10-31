@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-31T08:49:35+00:00",
+ "updated": "2026-10-31T09:49:32+00:00",
  "items": [
+  {
+   "key": "TREM_CALLENDER_TIMOTHY_4981",
+   "name": "Timothy Joseph Callender",
+   "age": "39",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "1st Degree Sexual Assault of a Child Under Age 13 with Resulting Great",
+   "more": 0,
+   "ts": 1793440030,
+   "photo": "photos/TREM_CALLENDER_TIMOTHY_4981.jpg"
+  },
+  {
+   "key": "KEN_SPRINGER_JACOB_2026-00006009",
+   "name": "Jacob Daniel Springer",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793437015,
+   "photo": "photos/KEN_SPRINGER_JACOB_2026-00006009.jpg"
+  },
+  {
+   "key": "KEN_MOSLEY_TYRANN_2026-00006008",
+   "name": "Tyrann R Mosley",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Forfeiture 4Th+)",
+   "more": 4,
+   "ts": 1793436944,
+   "photo": "photos/KEN_MOSLEY_TYRANN_2026-00006008.jpg"
+  },
+  {
+   "key": "MAR_BERENS_AIDEN_2026-10-31",
+   "name": "Aiden Russell Berens",
+   "age": "17",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1793436915,
+   "photo": null
+  },
   {
    "key": "RC_GUTIERREZ_ROBERTO_120011075774659",
    "name": "Roberto Ordonez Gutierrez",
@@ -244,28 +288,6 @@
    "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30.jpg"
   },
   {
-   "key": "MKE_SCOTT_BRYSON_646912",
-   "name": "Bryson O Scott",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793410067,
-   "photo": "photos/MKE_SCOTT_BRYSON_646912.jpg"
-  },
-  {
-   "key": "MKE_ELLICKSON_MARK_630431",
-   "name": "Mark Robert Ellickson",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Child Pornography",
-   "more": 13,
-   "ts": 1793410065,
-   "photo": "photos/MKE_ELLICKSON_MARK_630431.jpg"
-  },
-  {
    "key": "BURZINSKI_DAVID_2026-10-30",
    "name": "David E Burzinski",
    "age": "61",
@@ -453,17 +475,6 @@
    "photo": "photos/FDL_GUZMANFLORES_GUSTAVO_2026-10-30.jpg"
   },
   {
-   "key": "MAR_COOPER_CAMRY_2026-10-30",
-   "name": "Camry Oshae Cooper",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793375707,
-   "photo": "photos/MAR_COOPER_CAMRY_2026-10-30.jpg"
-  },
-  {
    "key": "FDL_GUZMAN_GUSTAVO_2026-10-30",
    "name": "Gustavo F Guzman",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793353632,
    "photo": "photos/TREM_ADAMS_BRADY_6198.jpg"
-  },
-  {
-   "key": "MERCADO_DAMON_2026-10-29",
-   "name": "Damon B Mercado",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793330830,
-   "photo": null
   }
  ]
 }
