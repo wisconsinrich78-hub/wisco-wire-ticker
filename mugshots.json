@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-31T13:49:26+00:00",
+ "updated": "2026-10-31T14:48:30+00:00",
  "items": [
+  {
+   "key": "MKE_HUBBARD_SHIRLEYANN_648056",
+   "name": "Shirleyann Caprice Hubbard",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793456891,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOWERS_CINMEON_410446",
+   "name": "Cinmeon Henry Bowers",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793456887,
+   "photo": null
+  },
+  {
+   "key": "FDL_ROCHAVALBERDE_MILO_2026-10-31",
+   "name": "Milo Rocha Valberde",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793456233,
+   "photo": null
+  },
+  {
+   "key": "FDL_BROECKER_CASSANDRA_2026-10-31",
+   "name": "Cassandra Lee Broecker",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793456179,
+   "photo": null
+  },
+  {
+   "key": "KEN_WELLS_CORY_2026-00006011",
+   "name": "Cory Ray Wells",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793455132,
+   "photo": "photos/KEN_WELLS_CORY_2026-00006011.jpg"
+  },
+  {
+   "key": "KEN_LEESESCHULTE_JOSEPH_2026-00006012",
+   "name": "Joseph Theodore Leese-Schulte",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Intentionally Point Firearm At Person",
+   "more": 0,
+   "ts": 1793455056,
+   "photo": "photos/KEN_LEESESCHULTE_JOSEPH_2026-00006012.jpg"
+  },
+  {
+   "key": "KEN_HART_BREANNE_2026-00006013",
+   "name": "Breanne M Hart",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793454979,
+   "photo": "photos/KEN_HART_BREANNE_2026-00006013.jpg"
+  },
   {
    "key": "MKE_PONCEMERCADO_MONICO_352003",
    "name": "Monico A Ponce-Mercado",
@@ -21,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793453258,
-   "photo": null
+   "photo": "photos/MKE_PADILLA_REINA_648054.jpg"
   },
   {
    "key": "MKE_DAVID_PEGGY_648055",
@@ -43,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793451456,
-   "photo": null
+   "photo": "photos/MKE_PYANT_RAYNAL_372045.jpg"
   },
   {
    "key": "DOU_REIMER_WILLIAM_2026-10-31",
@@ -189,17 +266,6 @@
    "photo": "photos/KEN_SPRINGER_JACOB_2026-00006009.jpg"
   },
   {
-   "key": "KEN_MOSLEY_TYRANN_2026-00006008",
-   "name": "Tyrann R Mosley",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Forfeiture 4Th+)",
-   "more": 4,
-   "ts": 1793436944,
-   "photo": "photos/KEN_MOSLEY_TYRANN_2026-00006008.jpg"
-  },
-  {
    "key": "MAR_BERENS_AIDEN_2026-10-31",
    "name": "Aiden Russell Berens",
    "age": "17",
@@ -211,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "RC_GUTIERREZ_ROBERTO_120011075774659",
-   "name": "Roberto Ordonez Gutierrez",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793436474,
-   "photo": "photos/RC_GUTIERREZ_ROBERTO_120011075774659.jpg"
-  },
-  {
    "key": "MAR_WOLD_TARA_2026-10-31",
    "name": "Tara Marie Wold",
    "age": "36",
@@ -231,39 +286,6 @@
    "more": 0,
    "ts": 1793433327,
    "photo": "photos/MAR_WOLD_TARA_2026-10-31.jpg"
-  },
-  {
-   "key": "RC_DELAROSA_EDGAR_120011075774118",
-   "name": "Edgar DeLaRosa",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793432872,
-   "photo": "photos/RC_DELAROSA_EDGAR_120011075774118.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_ZONIQUE_648052",
-   "name": "Zonique F Williams",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793431655,
-   "photo": "photos/MKE_WILLIAMS_ZONIQUE_648052.jpg"
-  },
-  {
-   "key": "MKE_BLACK_SANJAYA_632317",
-   "name": "Sanjaya L Black",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793431653,
-   "photo": "photos/MKE_BLACK_SANJAYA_632317.jpg"
   },
   {
    "key": "FDL_WITKOWSKI_DAYNE_2026-10-31",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793368026,
    "photo": null
-  },
-  {
-   "key": "TREM_WESSON_JACOB_4360",
-   "name": "Jacob Silas Wesson",
-   "age": "36",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Support Child (<120 Days)",
-   "more": 0,
-   "ts": 1793353635,
-   "photo": "photos/TREM_WESSON_JACOB_4360.jpg"
-  },
-  {
-   "key": "TREM_AMES_JENASSA_6197",
-   "name": "Jenassa Veronica Ames",
-   "age": "33",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 1,
-   "ts": 1793353634,
-   "photo": "photos/TREM_AMES_JENASSA_6197.jpg"
   }
  ]
 }
