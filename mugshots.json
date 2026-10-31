@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-31T00:49:26+00:00",
+ "updated": "2026-10-31T01:49:25+00:00",
  "items": [
+  {
+   "key": "MKE_SCOTT_BRYSON_646912",
+   "name": "Bryson O Scott",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793410067,
+   "photo": null
+  },
+  {
+   "key": "MKE_ELLICKSON_MARK_630431",
+   "name": "Mark Robert Ellickson",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793410065,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARCIA_JOSE_2057994",
+   "name": "Jose Estuardo Garcia",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793408260,
+   "photo": null
+  },
   {
    "key": "BURZINSKI_DAVID_2026-10-30",
    "name": "David E Burzinski",
@@ -106,7 +139,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Criminal Damage to Property",
    "more": 1,
    "ts": 1793402898,
    "photo": null
@@ -176,39 +209,6 @@
    "more": 1,
    "ts": 1793400966,
    "photo": "photos/MAR_SKAR_JORDAN_2026-10-30_9809.jpg"
-  },
-  {
-   "key": "MKE_WALKER_MARISA_506930",
-   "name": "Marisa Shanae Walker",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793399257,
-   "photo": null
-  },
-  {
-   "key": "MKE_PATE_DANIEL_338137",
-   "name": "Daniel B Pate",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1793399255,
-   "photo": null
-  },
-  {
-   "key": "MKE_CUNNINGHAM_SHAMERCE_648050",
-   "name": "Shamerce Quenon Cunningham",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793399254,
-   "photo": "photos/MKE_CUNNINGHAM_SHAMERCE_648050.jpg"
   },
   {
    "key": "LEE_VONG_2026-10-30",
