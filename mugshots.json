@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-31T01:49:25+00:00",
+ "updated": "2026-10-31T02:49:27+00:00",
  "items": [
+  {
+   "key": "RC_SUMMERS_BILLY_120011075770151",
+   "name": "Billy Ray Summers",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793414875,
+   "photo": "photos/RC_SUMMERS_BILLY_120011075770151.jpg"
+  },
+  {
+   "key": "MKE_TWOEAGLE_TEEANA_641485",
+   "name": "Teeana Shannon Two Eagle",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 3,
+   "ts": 1793413654,
+   "photo": null
+  },
+  {
+   "key": "KLINE_DAKODA_2026-10-30",
+   "name": "Dakoda G Kline",
+   "age": "21",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Substantial Battery-Intend Bodily Harm",
+   "more": 1,
+   "ts": 1793413620,
+   "photo": null
+  },
+  {
+   "key": "MAR_BOHMAN_FRANK_2026-10-30",
+   "name": "Frank Lee Bohman",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793411753,
+   "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30.jpg"
+  },
   {
    "key": "MKE_SCOTT_BRYSON_646912",
    "name": "Bryson O Scott",
@@ -18,8 +62,8 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Child Pornography",
+   "more": 13,
    "ts": 1793410065,
    "photo": null
   },
@@ -106,7 +150,7 @@
    "age": "26",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt Of Court - Disobey Order",
    "more": 0,
    "ts": 1793404413,
    "photo": null
@@ -139,7 +183,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1793402898,
    "photo": null
@@ -165,28 +209,6 @@
    "more": 2,
    "ts": 1793402894,
    "photo": null
-  },
-  {
-   "key": "MKE_BYARS_CHIRON_618744",
-   "name": "Chiron D Byars",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793402892,
-   "photo": null
-  },
-  {
-   "key": "MKE_BENSON_ROBERT_333343",
-   "name": "Robert John Benson",
-   "age": "57",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793402890,
-   "photo": "photos/MKE_BENSON_ROBERT_333343.jpg"
   },
   {
    "key": "MAR_SMITH_GERALD_2026-10-30_16171202",
@@ -464,17 +486,6 @@
    "photo": "photos/TREM_ADAMS_BRADY_6198.jpg"
   },
   {
-   "key": "MAR_RATTANASACK_KHAM_2026-10-29_743005",
-   "name": "Kham Junior Rattanasack",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Narcotic Drugs",
-   "more": 4,
-   "ts": 1793336172,
-   "photo": "photos/MAR_RATTANASACK_KHAM_2026-10-29_743005.jpg"
-  },
-  {
    "key": "MERCADO_DAMON_2026-10-29",
    "name": "Damon B Mercado",
    "age": "38",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793326600,
    "photo": "photos/FDL_MALCOLM_NICHOLAS_2026-10-29.jpg"
-  },
-  {
-   "key": "DOYLE_KENNETH_2026-10-29",
-   "name": "Kenneth A Doyle",
-   "age": "70",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1793323622,
-   "photo": null
   }
  ]
 }
