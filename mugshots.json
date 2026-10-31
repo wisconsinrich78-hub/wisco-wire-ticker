@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-31T20:49:29+00:00",
+ "updated": "2026-10-31T20:57:33+00:00",
  "items": [
+  {
+   "key": "MKE_KEY_MICHAEL_206328",
+   "name": "Michael Anthony Key",
+   "age": "57",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793480249,
+   "photo": null
+  },
+  {
+   "key": "MAR_HITZ_ALEX_2026-10-31",
+   "name": "Alex Nicholas Hitz",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 5Th",
+   "more": 0,
+   "ts": 1793480132,
+   "photo": null
+  },
   {
    "key": "MERRILL_RICHARD_2026-10-31",
    "name": "Richard J Merrill",
@@ -231,17 +253,6 @@
    "more": 2,
    "ts": 1793458712,
    "photo": null
-  },
-  {
-   "key": "MKE_HUBBARD_SHIRLEYANN_648056",
-   "name": "Shirleyann Caprice Hubbard",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793456891,
-   "photo": "photos/MKE_HUBBARD_SHIRLEYANN_648056.jpg"
   },
   {
    "key": "FDL_ROCHAVALBERDE_MILO_2026-10-31",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793391407,
    "photo": "photos/FDL_SCHNEIDER_BRAD_2026-10-30.jpg"
-  },
-  {
-   "key": "MAR_SMITH_GERALD_2026-10-30",
-   "name": "Gerald Lynn Smith",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793390206,
-   "photo": null
   }
  ]
 }
