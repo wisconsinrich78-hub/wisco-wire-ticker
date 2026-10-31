@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-31T09:49:32+00:00",
+ "updated": "2026-10-31T10:49:26+00:00",
  "items": [
+  {
+   "key": "RC_MOTTA_MAIARA_120011075776200",
+   "name": "Maiara C Motta",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793443669,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCADORY_AUTREY_607821",
+   "name": "Autrey Ann Mcadory",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793442451,
+   "photo": null
+  },
+  {
+   "key": "MKE_COFFEY_SAMUEL_646748",
+   "name": "Samuel Isaiah Coffey",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Deviation from Designated Lane",
+   "more": 1,
+   "ts": 1793442450,
+   "photo": null
+  },
+  {
+   "key": "DOU_DEMPSEY_TIJWAUNA_2026-10-31",
+   "name": "Tijwauna B Dempsey",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793441817,
+   "photo": "photos/DOU_DEMPSEY_TIJWAUNA_2026-10-31.jpg"
+  },
+  {
+   "key": "MKE_HARLEAUX_JABARI_398105",
+   "name": "Jabari Ali Harleaux",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793440661,
+   "photo": "photos/MKE_HARLEAUX_JABARI_398105.jpg"
+  },
+  {
+   "key": "MAR_GOBRECHT_SIERRA_2026-10-31",
+   "name": "Sierra Helen Gobrecht",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793440508,
+   "photo": null
+  },
+  {
+   "key": "KEN_BOHO_JONATHAN_2026-00006010",
+   "name": "Jonathan James Boho",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (1St)",
+   "more": 0,
+   "ts": 1793440405,
+   "photo": null
+  },
   {
    "key": "TREM_CALLENDER_TIMOTHY_4981",
    "name": "Timothy Joseph Callender",
@@ -18,8 +95,8 @@
    "age": "25",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Non-Registration Of Other Vehicle",
+   "more": 3,
    "ts": 1793437015,
    "photo": "photos/KEN_SPRINGER_JACOB_2026-00006009.jpg"
   },
@@ -200,39 +277,6 @@
    "photo": "photos/MKE_LEE_JAVION_638464.jpg"
   },
   {
-   "key": "MKE_CHATMAN_MARTEA_640243",
-   "name": "Martea J Chatman",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793419090,
-   "photo": "photos/MKE_CHATMAN_MARTEA_640243.jpg"
-  },
-  {
-   "key": "RC_PHILLIPS_JORDAN_120011075770565",
-   "name": "Jordan Elliot Phillips",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793418500,
-   "photo": null
-  },
-  {
-   "key": "RC_CUCCIA_SHEILA_120011075771221",
-   "name": "Sheila Marie Cuccia",
-   "age": "65",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793418497,
-   "photo": "photos/RC_CUCCIA_SHEILA_120011075771221.jpg"
-  },
-  {
    "key": "MAR_BOHMAN_FRANK_2026-10-30_5866405",
    "name": "Frank Lee Bohman",
    "age": "55",
@@ -242,28 +286,6 @@
    "more": 0,
    "ts": 1793415300,
    "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30_5866405.jpg"
-  },
-  {
-   "key": "RC_SUMMERS_BILLY_120011075770151",
-   "name": "Billy Ray Summers",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793414875,
-   "photo": "photos/RC_SUMMERS_BILLY_120011075770151.jpg"
-  },
-  {
-   "key": "MKE_TWOEAGLE_TEEANA_641485",
-   "name": "Teeana Shannon Two Eagle",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1793413654,
-   "photo": "photos/MKE_TWOEAGLE_TEEANA_641485.jpg"
   },
   {
    "key": "KLINE_DAKODA_2026-10-30",
@@ -440,28 +462,6 @@
    "more": 0,
    "ts": 1793379322,
    "photo": "photos/MAR_KLEINSCHMIDT_RYAN_2026-10-30_714106.jpg"
-  },
-  {
-   "key": "DOU_MACMANUS_LISA_2026-10-19",
-   "name": "Lisa E Macmanus",
-   "age": "37",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793377037,
-   "photo": "photos/DOU_MACMANUS_LISA_2026-10-19.jpg"
-  },
-  {
-   "key": "DOU_STAMPER_TUCKER_2026-10-30",
-   "name": "Tucker M Stamper",
-   "age": "26",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793377035,
-   "photo": null
   },
   {
    "key": "FDL_GUZMANFLORES_GUSTAVO_2026-10-30",
