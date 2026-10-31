@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-31T21:49:30+00:00",
+ "updated": "2026-10-31T21:57:58+00:00",
  "items": [
+  {
+   "key": "MKE_WALTER_JAMES_648059",
+   "name": "James Robert Walter",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 1,
+   "ts": 1793483872,
+   "photo": null
+  },
+  {
+   "key": "MKE_MILLER_AMIR_648060",
+   "name": "Amir L Miller",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793483870,
+   "photo": null
+  },
+  {
+   "key": "MKE_EVANS_KEIMAREY_648058",
+   "name": "Keimarey Lebrian Evans",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793483868,
+   "photo": "photos/MKE_EVANS_KEIMAREY_648058.jpg"
+  },
+  {
+   "key": "MAR_HITZ_ALEX_2026-10-31_15732501",
+   "name": "Alex Nicholas Hitz",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 5Th",
+   "more": 0,
+   "ts": 1793483775,
+   "photo": "photos/MAR_HITZ_ALEX_2026-10-31_15732501.jpg"
+  },
+  {
+   "key": "KEN_PARRISH_ROGER_2026-00006015",
+   "name": "Roger Louis Parrish",
+   "age": "63",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793483700,
+   "photo": "photos/KEN_PARRISH_ROGER_2026-00006015.jpg"
+  },
   {
    "key": "RC_ROYSTER_ROBERT_120011075788459",
    "name": "Robert David Royster",
@@ -200,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JONESHARRIS_SHAKILLE_526075",
-   "name": "Shakille Kevin Jones-Harris",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793467658,
-   "photo": null
-  },
-  {
-   "key": "MKE_KENDRICK_LINCOLN_292746",
-   "name": "Lincoln Kendrick",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1793464072,
-   "photo": null
-  },
-  {
    "key": "FDL_AGUILARCERVELLON_JAXEL_2026-10-31",
    "name": "Jaxel J Aguilar Cervellon",
    "age": "",
@@ -231,28 +264,6 @@
    "more": 0,
    "ts": 1793463368,
    "photo": null
-  },
-  {
-   "key": "MKE_VAZQUEZ_MARCOS_386219",
-   "name": "Marcos Vazquez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793462292,
-   "photo": "photos/MKE_VAZQUEZ_MARCOS_386219.jpg"
-  },
-  {
-   "key": "KEN_BURTON_DERRICK_2026-00006014",
-   "name": "Derrick Lamar Burton",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793462169,
-   "photo": "photos/KEN_BURTON_DERRICK_2026-00006014.jpg"
   },
   {
    "key": "MAR_BERENS_AIDEN_2026-10-31_16089001",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793393790,
    "photo": "photos/MAR_COOK_JASON_2026-10-30.jpg"
-  },
-  {
-   "key": "MAR_SKAR_JORDAN_2026-10-30",
-   "name": "Jordan Todd Skar",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793393755,
-   "photo": "photos/MAR_SKAR_JORDAN_2026-10-30.jpg"
   }
  ]
 }
