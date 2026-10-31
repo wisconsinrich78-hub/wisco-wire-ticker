@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-31T17:58:10+00:00",
+ "updated": "2026-10-31T18:49:29+00:00",
  "items": [
+  {
+   "key": "RC_GOVEA_KEVIN_120011075784472",
+   "name": "Kevin Govea",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793472471,
+   "photo": "photos/RC_GOVEA_KEVIN_120011075784472.jpg"
+  },
+  {
+   "key": "RC_DELEON_NICHOLAS_120011075785283",
+   "name": "Nicholas R Deleon",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793472468,
+   "photo": "photos/RC_DELEON_NICHOLAS_120011075785283.jpg"
+  },
+  {
+   "key": "MKE_VALLECRUZ_GABRIELA_635063",
+   "name": "Gabriela Valle Cruz",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793469500,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_KIMISTERY_648057",
+   "name": "Kimistery Unique Jones",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793469498,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARONIN_WILLIAM_359363",
+   "name": "William Aldine Aronin",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793469495,
+   "photo": null
+  },
   {
    "key": "SCOTT_JOSHUAH_2026-10-31",
    "name": "Joshuah R Scott",
@@ -18,8 +73,8 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793467658,
    "photo": null
   },
@@ -131,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793456887,
-   "photo": null
+   "photo": "photos/MKE_BOWERS_CINMEON_410446.jpg"
   },
   {
    "key": "FDL_ROCHAVALBERDE_MILO_2026-10-31",
@@ -176,61 +231,6 @@
    "more": 0,
    "ts": 1793455056,
    "photo": "photos/KEN_LEESESCHULTE_JOSEPH_2026-00006012.jpg"
-  },
-  {
-   "key": "KEN_HART_BREANNE_2026-00006013",
-   "name": "Breanne M Hart",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Conceal (>$500-$5000)",
-   "more": 0,
-   "ts": 1793454979,
-   "photo": "photos/KEN_HART_BREANNE_2026-00006013.jpg"
-  },
-  {
-   "key": "MKE_PONCEMERCADO_MONICO_352003",
-   "name": "Monico A Ponce-Mercado",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793453260,
-   "photo": "photos/MKE_PONCEMERCADO_MONICO_352003.jpg"
-  },
-  {
-   "key": "MKE_PADILLA_REINA_648054",
-   "name": "Reina Alexandra Padilla",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793453258,
-   "photo": "photos/MKE_PADILLA_REINA_648054.jpg"
-  },
-  {
-   "key": "MKE_DAVID_PEGGY_648055",
-   "name": "Peggy Lee David",
-   "age": "74",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793453256,
-   "photo": null
-  },
-  {
-   "key": "MKE_PYANT_RAYNAL_372045",
-   "name": "Raynal Deron Pyant",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793451456,
-   "photo": "photos/MKE_PYANT_RAYNAL_372045.jpg"
   },
   {
    "key": "DOU_REIMER_WILLIAM_2026-10-31",
