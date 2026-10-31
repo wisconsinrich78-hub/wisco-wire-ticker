@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-31T05:49:27+00:00",
+ "updated": "2026-10-31T06:49:27+00:00",
  "items": [
+  {
+   "key": "RC_LEGNAIOLI_BRIAN_120011075773443",
+   "name": "Brian Anthony Legnaioli",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793429271,
+   "photo": null
+  },
+  {
+   "key": "MKE_VEGASGUANCHEZ_JHON_631435",
+   "name": "Jhon Vegas-Guanchez",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793426255,
+   "photo": null
+  },
+  {
+   "key": "MAR_DUNLAP_DIONTE_2026-10-31",
+   "name": "Dionte Montez Dunlap",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 5,
+   "ts": 1793426094,
+   "photo": "photos/MAR_DUNLAP_DIONTE_2026-10-31.jpg"
+  },
   {
    "key": "RC_ROBINSON_MARQUISE_120011075772841",
    "name": "Marquise X Robinson",
@@ -32,7 +65,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793419093,
-   "photo": null
+   "photo": "photos/MKE_LEE_JAVION_638464.jpg"
   },
   {
    "key": "MKE_CHATMAN_MARTEA_640243",
@@ -43,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793419090,
-   "photo": null
+   "photo": "photos/MKE_CHATMAN_MARTEA_640243.jpg"
   },
   {
    "key": "RC_PHILLIPS_JORDAN_120011075770565",
@@ -131,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793410067,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_BRYSON_646912.jpg"
   },
   {
    "key": "MKE_ELLICKSON_MARK_630431",
@@ -153,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793408260,
-   "photo": null
+   "photo": "photos/MKE_GARCIA_JOSE_2057994.jpg"
   },
   {
    "key": "BURZINSKI_DAVID_2026-10-30",
@@ -198,28 +231,6 @@
    "more": 0,
    "ts": 1793404670,
    "photo": "photos/MKE_MALONE_JASAVION_618926.jpg"
-  },
-  {
-   "key": "KEN_TORRES_VANESSA_2026-00006004",
-   "name": "Vanessa M Torres",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 0,
-   "ts": 1793404485,
-   "photo": "photos/KEN_TORRES_VANESSA_2026-00006004.jpg"
-  },
-  {
-   "key": "KEN_SHERRON_CAROL_2026-00006005",
-   "name": "Carol Helen Sherron",
-   "age": "65",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1793404448,
-   "photo": null
   },
   {
    "key": "MAR_SMITH_GERALD_2026-10-30_16171202",
@@ -429,17 +440,6 @@
    "more": 1,
    "ts": 1793369865,
    "photo": null
-  },
-  {
-   "key": "MAR_KLEINSCHMIDT_RYAN_2026-10-30",
-   "name": "Ryan Orin Kleinschmidt",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793368548,
-   "photo": "photos/MAR_KLEINSCHMIDT_RYAN_2026-10-30.jpg"
   },
   {
    "key": "TRAYLOR_TERRANCE_2026-10-30",
