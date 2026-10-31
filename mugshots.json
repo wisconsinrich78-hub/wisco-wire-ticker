@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-31T23:27:36+00:00",
+ "updated": "2026-10-31T23:49:29+00:00",
  "items": [
+  {
+   "key": "RC_CAGLE_GARRETT_120011075789854",
+   "name": "Garrett W Cagle",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793490474,
+   "photo": "photos/RC_CAGLE_GARRETT_120011075789854.jpg"
+  },
+  {
+   "key": "MKE_TAYLOR_DAMARIO_299720",
+   "name": "Damario A Taylor",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793489264,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOCKETT_JARI_630820",
+   "name": "Jari Scott Lockett",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1793489262,
+   "photo": null
+  },
+  {
+   "key": "MKE_DIOMANDE_BREUNA_648062",
+   "name": "Breuna Mariam Diomande",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793489260,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLISON_MASTER_603094",
+   "name": "Master Edwin Allison",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793489259,
+   "photo": null
+  },
   {
    "key": "DOU_MONTGOMERY_PATRICK_2026-10-31",
    "name": "Patrick L Montgomery",
@@ -131,7 +186,7 @@
    "charge": "Carry Concealed Weapon",
    "more": 1,
    "ts": 1793483872,
-   "photo": null
+   "photo": "photos/MKE_WALTER_JAMES_648059.jpg"
   },
   {
    "key": "MKE_MILLER_AMIR_648060",
@@ -167,50 +222,6 @@
    "photo": "photos/MAR_HITZ_ALEX_2026-10-31_15732501.jpg"
   },
   {
-   "key": "KEN_PARRISH_ROGER_2026-00006015",
-   "name": "Roger Louis Parrish",
-   "age": "63",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793483700,
-   "photo": "photos/KEN_PARRISH_ROGER_2026-00006015.jpg"
-  },
-  {
-   "key": "RC_ROYSTER_ROBERT_120011075788459",
-   "name": "Robert David Royster",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793483274,
-   "photo": "photos/RC_ROYSTER_ROBERT_120011075788459.jpg"
-  },
-  {
-   "key": "RC_LANNINGHAM_TONYA_120011075788306",
-   "name": "Tonya Sue Lanningham",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793483271,
-   "photo": null
-  },
-  {
-   "key": "RC_KELLEY_TIMOTHY_120011075787811",
-   "name": "Timothy Carl Kelley",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Physical Abuse of a Child - High Probability of Great Bodily Harm",
-   "more": 2,
-   "ts": 1793483269,
-   "photo": "photos/RC_KELLEY_TIMOTHY_120011075787811.jpg"
-  },
-  {
    "key": "FDL_PIRTLE_MARCUS_2026-10-31",
    "name": "Marcus Lakeith Pirtle",
    "age": "",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1793481409,
    "photo": "photos/FDL_PIRTLE_MARCUS_2026-10-31.jpg"
-  },
-  {
-   "key": "MKE_KEY_MICHAEL_206328",
-   "name": "Michael Anthony Key",
-   "age": "57",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st)",
-   "more": 0,
-   "ts": 1793480249,
-   "photo": null
   },
   {
    "key": "MAR_HITZ_ALEX_2026-10-31",
