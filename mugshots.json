@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-31T02:49:27+00:00",
+ "updated": "2026-10-31T03:49:31+00:00",
  "items": [
+  {
+   "key": "RC_PHILLIPS_JORDAN_120011075770565",
+   "name": "Jordan Elliot Phillips",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793418500,
+   "photo": null
+  },
+  {
+   "key": "RC_CUCCIA_SHEILA_120011075771221",
+   "name": "Sheila Marie Cuccia",
+   "age": "65",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793418497,
+   "photo": "photos/RC_CUCCIA_SHEILA_120011075771221.jpg"
+  },
+  {
+   "key": "MAR_BOHMAN_FRANK_2026-10-30_5866405",
+   "name": "Frank Lee Bohman",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793415300,
+   "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30_5866405.jpg"
+  },
   {
    "key": "RC_SUMMERS_BILLY_120011075770151",
    "name": "Billy Ray Summers",
@@ -128,10 +161,10 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 0,
    "ts": 1793404485,
-   "photo": null
+   "photo": "photos/KEN_TORRES_VANESSA_2026-00006004.jpg"
   },
   {
    "key": "KEN_SHERRON_CAROL_2026-00006005",
@@ -139,7 +172,7 @@
    "age": "65",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
    "more": 0,
    "ts": 1793404448,
    "photo": null
@@ -183,31 +216,9 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Criminal Damage to Property",
    "more": 1,
    "ts": 1793402898,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOWARD_JENNIFER_2043778",
-   "name": "Jennifer Lee Howard",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793402896,
-   "photo": "photos/MKE_HOWARD_JENNIFER_2043778.jpg"
-  },
-  {
-   "key": "MKE_GRUNEWALD_GARY_643686",
-   "name": "Gary Grunewald",
-   "age": "72",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Child Pornography",
-   "more": 2,
-   "ts": 1793402894,
    "photo": null
   },
   {
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1793368026,
    "photo": null
-  },
-  {
-   "key": "MAR_GOLOMB_MICHAEL_2026-10-30",
-   "name": "Michael James Golomb",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793364982,
-   "photo": "photos/MAR_GOLOMB_MICHAEL_2026-10-30.jpg"
   },
   {
    "key": "TREM_WESSON_JACOB_4360",
