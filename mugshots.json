@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-31T18:49:29+00:00",
+ "updated": "2026-10-31T19:49:20+00:00",
  "items": [
+  {
+   "key": "RC_DAMOTTA_MAIARA_120011075776200",
+   "name": "Maiara C Da Motta",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 2,
+   "ts": 1793476067,
+   "photo": "photos/RC_DAMOTTA_MAIARA_120011075776200.jpg"
+  },
+  {
+   "key": "MKE_EVANS_KEIMARY_648058",
+   "name": "Keimary Lebrian Evans",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793474851,
+   "photo": null
+  },
+  {
+   "key": "FDL_ONORIOVILLEGAS_JOSE_2026-10-31",
+   "name": "Jose Angel Onorio Villegas",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793474200,
+   "photo": null
+  },
+  {
+   "key": "FDL_GIPSON_KAYLA_2026-10-31",
+   "name": "Kayla Sellers Gipson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793474178,
+   "photo": "photos/FDL_GIPSON_KAYLA_2026-10-31.jpg"
+  },
+  {
+   "key": "MKE_ARMONDODELEON_VICTOR_640359",
+   "name": "Victor Armondo-Deleon",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793473055,
+   "photo": null
+  },
   {
    "key": "RC_GOVEA_KEVIN_120011075784472",
    "name": "Kevin Govea",
@@ -109,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793462292,
-   "photo": null
+   "photo": "photos/MKE_VAZQUEZ_MARCOS_386219.jpg"
   },
   {
    "key": "KEN_BURTON_DERRICK_2026-00006014",
@@ -178,17 +233,6 @@
    "photo": "photos/MKE_HUBBARD_SHIRLEYANN_648056.jpg"
   },
   {
-   "key": "MKE_BOWERS_CINMEON_410446",
-   "name": "Cinmeon Henry Bowers",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793456887,
-   "photo": "photos/MKE_BOWERS_CINMEON_410446.jpg"
-  },
-  {
    "key": "FDL_ROCHAVALBERDE_MILO_2026-10-31",
    "name": "Milo Rocha Valberde",
    "age": "",
@@ -209,28 +253,6 @@
    "more": 0,
    "ts": 1793456179,
    "photo": null
-  },
-  {
-   "key": "KEN_WELLS_CORY_2026-00006011",
-   "name": "Cory Ray Wells",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793455132,
-   "photo": "photos/KEN_WELLS_CORY_2026-00006011.jpg"
-  },
-  {
-   "key": "KEN_LEESESCHULTE_JOSEPH_2026-00006012",
-   "name": "Joseph Theodore Leese-Schulte",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Intentionally Point Firearm At Person",
-   "more": 0,
-   "ts": 1793455056,
-   "photo": "photos/KEN_LEESESCHULTE_JOSEPH_2026-00006012.jpg"
   },
   {
    "key": "DOU_REIMER_WILLIAM_2026-10-31",
@@ -506,28 +528,6 @@
    "more": 7,
    "ts": 1793390173,
    "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-10-30.jpg"
-  },
-  {
-   "key": "FDL_JONES_TROY_2026-08-21",
-   "name": "Troy J Jones",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 2,
-   "ts": 1793387792,
-   "photo": "photos/FDL_JONES_TROY_2026-08-21.jpg"
-  },
-  {
-   "key": "FDL_GUZMANFLORES_GUSTAVO_2026-10-30",
-   "name": "Gustavo F Guzman-Flores",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793376984,
-   "photo": "photos/FDL_GUZMANFLORES_GUSTAVO_2026-10-30.jpg"
   }
  ]
 }
