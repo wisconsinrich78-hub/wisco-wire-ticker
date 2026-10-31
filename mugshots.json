@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T21:57:58+00:00",
+ "updated": "2026-10-31T22:27:26+00:00",
  "items": [
+  {
+   "key": "BETSINGER_BRIAN_2026-10-31",
+   "name": "Brian T Betsinger",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1793485624,
+   "photo": null
+  },
   {
    "key": "MKE_WALTER_JAMES_648059",
    "name": "James Robert Walter",
@@ -106,8 +117,8 @@
    "age": "57",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
+   "charge": "OWI (1st)",
+   "more": 0,
    "ts": 1793480249,
    "photo": null
   },
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793394986,
    "photo": "photos/FDL_JONES_TROY_2026-10-30.jpg"
-  },
-  {
-   "key": "MAR_COOK_JASON_2026-10-30",
-   "name": "Jason Bradley Cook",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Conceal",
-   "more": 0,
-   "ts": 1793393790,
-   "photo": "photos/MAR_COOK_JASON_2026-10-30.jpg"
   }
  ]
 }
