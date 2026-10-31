@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-31T22:49:31+00:00",
+ "updated": "2026-10-31T23:27:36+00:00",
  "items": [
+  {
+   "key": "DOU_MONTGOMERY_PATRICK_2026-10-31",
+   "name": "Patrick L Montgomery",
+   "age": "52",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1793488637,
+   "photo": null
+  },
+  {
+   "key": "KEN_LARSON_JAMESON_2026-00006018",
+   "name": "Jameson Robert Larson",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793487490,
+   "photo": "photos/KEN_LARSON_JAMESON_2026-00006018.jpg"
+  },
+  {
+   "key": "KEN_GASCOIGNE_WALTER_2026-00006016",
+   "name": "Walter Joseph Gascoigne",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793487420,
+   "photo": "photos/KEN_GASCOIGNE_WALTER_2026-00006016.jpg"
+  },
+  {
+   "key": "KEN_CAMPBELL_LEE_2026-00006017",
+   "name": "LEE ARTHUR Junior CAMPBELL",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793487351,
+   "photo": "photos/KEN_CAMPBELL_LEE_2026-00006017.jpg"
+  },
   {
    "key": "RC_SANDERS_KYLE_120011075789202",
    "name": "Kyle W Sanders",
@@ -211,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "RC_DAMOTTA_MAIARA_120011075776200",
-   "name": "Maiara C Da Motta",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 2,
-   "ts": 1793476067,
-   "photo": "photos/RC_DAMOTTA_MAIARA_120011075776200.jpg"
-  },
-  {
-   "key": "MKE_EVANS_KEIMARY_648058",
-   "name": "Keimary Lebrian Evans",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793474851,
-   "photo": "photos/MKE_EVANS_KEIMARY_648058.jpg"
-  },
-  {
    "key": "FDL_ONORIOVILLEGAS_JOSE_2026-10-31",
    "name": "Jose Angel Onorio Villegas",
    "age": "",
@@ -253,17 +275,6 @@
    "more": 0,
    "ts": 1793474178,
    "photo": "photos/FDL_GIPSON_KAYLA_2026-10-31.jpg"
-  },
-  {
-   "key": "MKE_ARMONDODELEON_VICTOR_640359",
-   "name": "Victor Armondo-Deleon",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793473055,
-   "photo": null
   },
   {
    "key": "SCOTT_JOSHUAH_2026-10-31",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793400966,
    "photo": "photos/MAR_SKAR_JORDAN_2026-10-30_9809.jpg"
-  },
-  {
-   "key": "LEE_VONG_2026-10-30",
-   "name": "Vong Lee",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793397439,
-   "photo": null
   }
  ]
 }
