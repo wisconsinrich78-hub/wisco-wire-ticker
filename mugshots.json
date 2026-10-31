@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-31T11:49:28+00:00",
+ "updated": "2026-10-31T12:49:32+00:00",
  "items": [
+  {
+   "key": "DOU_REIMER_WILLIAM_2026-10-31",
+   "name": "William R Reimer",
+   "age": "55",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793449035,
+   "photo": "photos/DOU_REIMER_WILLIAM_2026-10-31.jpg"
+  },
+  {
+   "key": "FDL_LUMBIMORENO_INGRIS_2026-10-31",
+   "name": "Ingris Alicia Lumbi Moreno",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793449003,
+   "photo": null
+  },
   {
    "key": "MKE_SANTIAGOMENDIOLA_MARTIN_648053",
    "name": "Martin Santiago Mendiola",
@@ -40,7 +62,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1793442451,
    "photo": null
@@ -453,17 +475,6 @@
    "photo": "photos/FDL_JONES_TROY_2026-08-21.jpg"
   },
   {
-   "key": "MAR_RUTZEN_DYLAN_2026-10-29_1540403",
-   "name": "Dylan Randy Rutzen",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 2,
-   "ts": 1793382938,
-   "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29_1540403.jpg"
-  },
-  {
    "key": "FDL_GUZMANFLORES_GUSTAVO_2026-10-30",
    "name": "Gustavo F Guzman-Flores",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793353634,
    "photo": "photos/TREM_AMES_JENASSA_6197.jpg"
-  },
-  {
-   "key": "TREM_ADAMS_BRADY_6198",
-   "name": "Brady John Adams",
-   "age": "36",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793353632,
-   "photo": "photos/TREM_ADAMS_BRADY_6198.jpg"
   }
  ]
 }
