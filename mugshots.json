@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-31T06:49:27+00:00",
+ "updated": "2026-10-31T07:49:29+00:00",
  "items": [
+  {
+   "key": "RC_DELAROSA_EDGAR_120011075774118",
+   "name": "Edgar DeLaRosa",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793432872,
+   "photo": "photos/RC_DELAROSA_EDGAR_120011075774118.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_ZONIQUE_648052",
+   "name": "Zonique F Williams",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793431655,
+   "photo": null
+  },
+  {
+   "key": "MKE_BLACK_SANJAYA_632317",
+   "name": "Sanjaya L Black",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793431653,
+   "photo": null
+  },
+  {
+   "key": "FDL_WITKOWSKI_DAYNE_2026-10-31",
+   "name": "Dayne Kenneth Witkowski",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 4Th Offense",
+   "more": 0,
+   "ts": 1793431028,
+   "photo": "photos/FDL_WITKOWSKI_DAYNE_2026-10-31.jpg"
+  },
+  {
+   "key": "FDL_PIERQUET_NICHOLAS_2026-10-31",
+   "name": "Nicholas Alex Pierquet",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 3Rd Offense",
+   "more": 0,
+   "ts": 1793431009,
+   "photo": null
+  },
+  {
+   "key": "FDL_PEREZ_JAROL_2026-10-31",
+   "name": "Jarol Orlando Perez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x3)",
+   "more": 0,
+   "ts": 1793431007,
+   "photo": "photos/FDL_PEREZ_JAROL_2026-10-31.jpg"
+  },
   {
    "key": "RC_LEGNAIOLI_BRIAN_120011075773443",
    "name": "Brian Anthony Legnaioli",
@@ -21,7 +87,7 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1793426255,
-   "photo": null
+   "photo": "photos/MKE_VEGASGUANCHEZ_JHON_631435.jpg"
   },
   {
    "key": "MAR_DUNLAP_DIONTE_2026-10-31",
@@ -198,39 +264,6 @@
    "more": 0,
    "ts": 1793407628,
    "photo": null
-  },
-  {
-   "key": "MKE_SPIVEY_TAYDEN_641532",
-   "name": "Tayden R Spivey",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1793404677,
-   "photo": "photos/MKE_SPIVEY_TAYDEN_641532.jpg"
-  },
-  {
-   "key": "MKE_MUCH_TIMOTHY_648051",
-   "name": "Timothy I Much",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793404674,
-   "photo": "photos/MKE_MUCH_TIMOTHY_648051.jpg"
-  },
-  {
-   "key": "MKE_MALONE_JASAVION_618926",
-   "name": "Jasavion Chavez Malone",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1793404670,
-   "photo": "photos/MKE_MALONE_JASAVION_618926.jpg"
   },
   {
    "key": "MAR_SMITH_GERALD_2026-10-30_16171202",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793330830,
    "photo": null
-  },
-  {
-   "key": "GONYIER_DENISE_2026-10-29",
-   "name": "Denise M Gonyier",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793330829,
-   "photo": null
-  },
-  {
-   "key": "FDL_OLEARY_TIMOTHY_2026-10-29",
-   "name": "Timothy Kyle Oleary",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793326607,
-   "photo": "photos/FDL_OLEARY_TIMOTHY_2026-10-29.jpg"
-  },
-  {
-   "key": "FDL_MALCOLM_NICHOLAS_2026-10-29",
-   "name": "Nicholas Michael Malcolm",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WRIT (x0)",
-   "more": 0,
-   "ts": 1793326600,
-   "photo": "photos/FDL_MALCOLM_NICHOLAS_2026-10-29.jpg"
   }
  ]
 }
