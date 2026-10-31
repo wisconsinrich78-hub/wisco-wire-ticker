@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T19:49:20+00:00",
+ "updated": "2026-10-31T20:49:29+00:00",
  "items": [
+  {
+   "key": "MERRILL_RICHARD_2026-10-31",
+   "name": "Richard J Merrill",
+   "age": "55",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1793479627,
+   "photo": null
+  },
   {
    "key": "RC_DAMOTTA_MAIARA_120011075776200",
    "name": "Maiara C Da Motta",
@@ -21,7 +32,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793474851,
-   "photo": null
+   "photo": "photos/MKE_EVANS_KEIMARY_648058.jpg"
   },
   {
    "key": "FDL_ONORIOVILLEGAS_JOSE_2026-10-31",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793390206,
    "photo": null
-  },
-  {
-   "key": "MAR_BOTTENSEK_SHELBY_2026-10-30",
-   "name": "Shelby Lea Bottensek",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Drive Or Operate Vehicle W/O Consent",
-   "more": 7,
-   "ts": 1793390173,
-   "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-10-30.jpg"
   }
  ]
 }
