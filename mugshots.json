@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-01T03:49:28+00:00",
+ "updated": "2026-11-01T04:28:02+00:00",
  "items": [
+  {
+   "key": "MKE_HOPSON_CHAKA_618837",
+   "name": "Chaka Bootsy Hopson",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793507257,
+   "photo": null
+  },
+  {
+   "key": "DOU_SANDERS_RONALD_2026-10-31",
+   "name": "Ronald D Sanders",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793506645,
+   "photo": null
+  },
+  {
+   "key": "FDL_LYNN_CAMARIEA_2026-10-31",
+   "name": "Camariea S Lynn",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Resisting Or Obstructing Officer",
+   "more": 0,
+   "ts": 1793506598,
+   "photo": "photos/FDL_LYNN_CAMARIEA_2026-10-31.jpg"
+  },
+  {
+   "key": "KEN_DOHMEN_THOMAS_2026-00006030",
+   "name": "THOMAS ALBIN Junior DOHMEN",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793505506,
+   "photo": "photos/KEN_DOHMEN_THOMAS_2026-00006030.jpg"
+  },
+  {
+   "key": "MKE_BARKSDALE_DEWITT_208322",
+   "name": "Dewitt Terrell Barksdale",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793505457,
+   "photo": null
+  },
   {
    "key": "RC_CASTRO_KELLY_120011075795482",
    "name": "Kelly Lynne Castro",
@@ -29,7 +84,7 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793501872,
    "photo": "photos/KEN_GORDON_MICHAEL_2026-00006027.jpg"
@@ -51,7 +106,7 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession Of Child Pornography",
    "more": 0,
    "ts": 1793501761,
    "photo": "photos/KEN_BENNING_DUSTIN_2026-00006028.jpg"
@@ -156,28 +211,6 @@
    "photo": "photos/RC_BROWN_JADA_120011075792669.jpg"
   },
   {
-   "key": "MKE_VAZQUEZ_MERCED_386218",
-   "name": "Merced Vazquez",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793496466,
-   "photo": null
-  },
-  {
-   "key": "MKE_CROOKS_VANITA_642430",
-   "name": "Vanita S Crooks",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793496464,
-   "photo": null
-  },
-  {
    "key": "CURTI_ROBERT_2026-10-31",
    "name": "Robert L Curti",
    "age": "45",
@@ -187,17 +220,6 @@
    "more": 0,
    "ts": 1793496422,
    "photo": null
-  },
-  {
-   "key": "KEN_PERRAULT_JEREMIAH_2026-00006020",
-   "name": "Jeremiah James Perrault",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793494805,
-   "photo": "photos/KEN_PERRAULT_JEREMIAH_2026-00006020.jpg"
   },
   {
    "key": "MONTGOMERY_TODD_2026-10-31",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793431007,
    "photo": "photos/FDL_PEREZ_JAROL_2026-10-31.jpg"
-  },
-  {
-   "key": "MAR_DUNLAP_DIONTE_2026-10-31",
-   "name": "Dionte Montez Dunlap",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 5,
-   "ts": 1793426094,
-   "photo": "photos/MAR_DUNLAP_DIONTE_2026-10-31.jpg"
-  },
-  {
-   "key": "MAR_BOHMAN_FRANK_2026-10-30_5866405",
-   "name": "Frank Lee Bohman",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793415300,
-   "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30_5866405.jpg"
   }
  ]
 }
