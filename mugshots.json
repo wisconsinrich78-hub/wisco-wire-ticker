@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T17:49:28+00:00",
+ "updated": "2026-11-01T17:57:50+00:00",
  "items": [
+  {
+   "key": "MAR_BUGGS_ALLAH_2026-11-01_2662201",
+   "name": "Allah Koran Buggs",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 3,
+   "ts": 1793555764,
+   "photo": null
+  },
   {
    "key": "MKE_GEROWJIMENEZ_SHYLA_625748",
    "name": "Shyla Gerow-Jimenez",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1793510819,
    "photo": null
-  },
-  {
-   "key": "DOU_LOPEZ_NELSON_2026-10-31",
-   "name": "Nelson S Lopez",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793510227,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_BUGGS_ALLAH_2026-11-01_2662201",
+   "name": "Allah Koran Buggs",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 3,
+   "ts": 1793555764,
+   "photo": null
+  },
   {
    "key": "MKE_GEROWJIMENEZ_SHYLA_625748",
    "name": "Shyla Gerow-Jimenez",
@@ -4974,28 +4985,6 @@
    "more": 1,
    "ts": 1793296673,
    "photo": "photos/MKE_MUNIZVALENTIN_JONATHAN_648037.jpg"
-  },
-  {
-   "key": "MKE_MARTINEZ_OSCAR_611719",
-   "name": "Oscar Martinez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/ Intent-THC(>200-1000g)",
-   "more": 8,
-   "ts": 1793296670,
-   "photo": "photos/MKE_MARTINEZ_OSCAR_611719.jpg"
-  },
-  {
-   "key": "MKE_BOOKERNORTHERN_JATASSIA_648036",
-   "name": "Jatassia Booker-Northern",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793296667,
-   "photo": "photos/MKE_BOOKERNORTHERN_JATASSIA_648036.jpg"
   }
  ]
 }
