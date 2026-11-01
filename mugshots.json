@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-31T23:49:29+00:00",
+ "updated": "2026-11-01T00:28:58+00:00",
  "items": [
+  {
+   "key": "MONTGOMERY_TODD_2026-10-31",
+   "name": "Todd J Montgomery",
+   "age": "53",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793492825,
+   "photo": null
+  },
+  {
+   "key": "FDL_HARRIS_WILLIAM_2026-10-31",
+   "name": "William Carmen Harris",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793492187,
+   "photo": "photos/FDL_HARRIS_WILLIAM_2026-10-31.jpg"
+  },
+  {
+   "key": "KEN_WASHA_LEON_2026-00006019",
+   "name": "Leon E Washa",
+   "age": "59",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793491036,
+   "photo": "photos/KEN_WASHA_LEON_2026-00006019.jpg"
+  },
+  {
+   "key": "MAR_PAYETTE_ALLEN_2026-10-31",
+   "name": "Allen Joseph Payette",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 3,
+   "ts": 1793490938,
+   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-31.jpg"
+  },
   {
    "key": "RC_CAGLE_GARRETT_120011075789854",
    "name": "Garrett W Cagle",
@@ -32,7 +76,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1793489262,
-   "photo": null
+   "photo": "photos/MKE_LOCKETT_JARI_630820.jpg"
   },
   {
    "key": "MKE_DIOMANDE_BREUNA_648062",
@@ -84,7 +128,7 @@
    "age": "55",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793487420,
    "photo": "photos/KEN_GASCOIGNE_WALTER_2026-00006016.jpg"
@@ -95,7 +139,7 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793487351,
    "photo": "photos/KEN_CAMPBELL_LEE_2026-00006017.jpg"
@@ -197,18 +241,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793483870,
-   "photo": null
-  },
-  {
-   "key": "MKE_EVANS_KEIMAREY_648058",
-   "name": "Keimarey Lebrian Evans",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793483868,
-   "photo": "photos/MKE_EVANS_KEIMAREY_648058.jpg"
+   "photo": "photos/MKE_MILLER_AMIR_648060.jpg"
   },
   {
    "key": "MAR_HITZ_ALEX_2026-10-31_15732501",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793411753,
    "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30.jpg"
-  },
-  {
-   "key": "BURZINSKI_DAVID_2026-10-30",
-   "name": "David E Burzinski",
-   "age": "61",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793407628,
-   "photo": null
-  },
-  {
-   "key": "MAR_SMITH_GERALD_2026-10-30_16171202",
-   "name": "Gerald Lynn Smith",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793401001,
-   "photo": "photos/MAR_SMITH_GERALD_2026-10-30_16171202.jpg"
-  },
-  {
-   "key": "MAR_SKAR_JORDAN_2026-10-30_9809",
-   "name": "Jordan Todd Skar",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793400966,
-   "photo": "photos/MAR_SKAR_JORDAN_2026-10-30_9809.jpg"
   }
  ]
 }
