@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T10:57:43+00:00",
+ "updated": "2026-11-01T11:27:39+00:00",
  "items": [
+  {
+   "key": "MKE_JONES_LATOYA_648075",
+   "name": "Latoya Marie Jones",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793532453,
+   "photo": null
+  },
+  {
+   "key": "FDL_GOMEZSOSA_EMERSON_2026-11-01",
+   "name": "Emerson Gomez Sosa",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793531779,
+   "photo": null
+  },
+  {
+   "key": "DOU_SCHULTIES_GORDON_2026-11-01",
+   "name": "Gordon R Schulties",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793531758,
+   "photo": null
+  },
   {
    "key": "MKE_REED_DEASHUN_648073",
    "name": "Deashun Treivon Reed",
@@ -277,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "RC_MORRISPINAGER_CORINTHIAN_120011075799317",
-   "name": "Corinthian Terrell Morris Pinager",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793522875,
-   "photo": "photos/RC_MORRISPINAGER_CORINTHIAN_120011075799317.jpg"
-  },
-  {
    "key": "LONG_JENICE_2026-11-01",
    "name": "Jenice N Long",
    "age": "44",
@@ -506,31 +528,42 @@
    "more": 4,
    "ts": 1793488637,
    "photo": null
-  },
-  {
-   "key": "MCDERMITT_TRAVIS_2026-10-31",
-   "name": "Travis M Mcdermitt",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793486830,
-   "photo": null
-  },
-  {
-   "key": "BETSINGER_BRIAN_2026-10-31",
-   "name": "Brian T Betsinger",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1793485624,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JONES_LATOYA_648075",
+   "name": "Latoya Marie Jones",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793532453,
+   "photo": null
+  },
+  {
+   "key": "FDL_GOMEZSOSA_EMERSON_2026-11-01",
+   "name": "Emerson Gomez Sosa",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793531779,
+   "photo": null
+  },
+  {
+   "key": "DOU_SCHULTIES_GORDON_2026-11-01",
+   "name": "Gordon R Schulties",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793531758,
+   "photo": null
+  },
   {
    "key": "MKE_REED_DEASHUN_648073",
    "name": "Deashun Treivon Reed",
@@ -991,7 +1024,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793512677,
-   "photo": null
+   "photo": "photos/MKE_ANDERSON_DAMON_648065.jpg"
   },
   {
    "key": "MAR_WILLIAMS_CHANTELL_2026-10-31",
@@ -5018,28 +5051,6 @@
    "more": 0,
    "ts": 1793275050,
    "photo": "photos/MKE_GUENTNER_DURRELL_415070.jpg"
-  },
-  {
-   "key": "MKE_MCCOTTRY_DESTINE_366391",
-   "name": "Destine R Mccottry",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793273249,
-   "photo": "photos/MKE_MCCOTTRY_DESTINE_366391.jpg"
-  },
-  {
-   "key": "MKE_CRUZCHAVEZ_HERICK_504024",
-   "name": "Herick H Cruz-chavez",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793273247,
-   "photo": "photos/MKE_CRUZCHAVEZ_HERICK_504024.jpg"
   }
  ]
 }
