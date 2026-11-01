@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T01:28:42+00:00",
+ "updated": "2026-11-01T01:49:28+00:00",
  "items": [
+  {
+   "key": "RC_ROMNEK_JONATHON_120011075792458",
+   "name": "Jonathon Barry Romnek",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793497689,
+   "photo": "photos/RC_ROMNEK_JONATHON_120011075792458.jpg"
+  },
+  {
+   "key": "RC_LEWANDOSKI_JESSICA_120011075793541",
+   "name": "Jessica L Lewandoski",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793497682,
+   "photo": null
+  },
+  {
+   "key": "RC_DAVIS_GLORIA_120011075792891",
+   "name": "Gloria J Davis",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793497679,
+   "photo": "photos/RC_DAVIS_GLORIA_120011075792891.jpg"
+  },
+  {
+   "key": "RC_BROWN_JADA_120011075792669",
+   "name": "Jada Monique Brown",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793497676,
+   "photo": "photos/RC_BROWN_JADA_120011075792669.jpg"
+  },
   {
    "key": "MKE_VAZQUEZ_MERCED_386218",
    "name": "Merced Vazquez",
@@ -176,50 +220,6 @@
    "more": 0,
    "ts": 1793490474,
    "photo": "photos/RC_CAGLE_GARRETT_120011075789854.jpg"
-  },
-  {
-   "key": "MKE_TAYLOR_DAMARIO_299720",
-   "name": "Damario A Taylor",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793489264,
-   "photo": null
-  },
-  {
-   "key": "MKE_LOCKETT_JARI_630820",
-   "name": "Jari Scott Lockett",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1793489262,
-   "photo": "photos/MKE_LOCKETT_JARI_630820.jpg"
-  },
-  {
-   "key": "MKE_DIOMANDE_BREUNA_648062",
-   "name": "Breuna Mariam Diomande",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793489260,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALLISON_MASTER_603094",
-   "name": "Master Edwin Allison",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793489259,
-   "photo": null
   },
   {
    "key": "DOU_MONTGOMERY_PATRICK_2026-10-31",
