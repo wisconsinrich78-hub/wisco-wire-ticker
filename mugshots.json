@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-01T21:57:47+00:00",
+ "updated": "2026-11-01T22:49:30+00:00",
  "items": [
+  {
+   "key": "RC_VALLADARESSANTOS_JOSE_120011075815502",
+   "name": "Jose M Valladares-Santos",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793573272,
+   "photo": null
+  },
+  {
+   "key": "RC_DRANE_MARLINZO_120011075815979",
+   "name": "Marlinzo Markays Drane",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 0,
+   "ts": 1793573270,
+   "photo": "photos/RC_DRANE_MARLINZO_120011075815979.jpg"
+  },
+  {
+   "key": "MKE_MONCADABENITEZ_JUNIOR_648082",
+   "name": "Junior Romario Moncada Benitez",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793570283,
+   "photo": null
+  },
+  {
+   "key": "MKE_LUSK_JOSHUA_297548",
+   "name": "Joshua Marcus Lusk",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793570281,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAMILTON_SHAYLA_630889",
+   "name": "Shayla Rozalyn Hamilton",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793570278,
+   "photo": null
+  },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
    "name": "Roger Allen Kennedy",
@@ -222,39 +277,6 @@
    "photo": "photos/RC_WARREN_JASMINE_120011075810441.jpg"
   },
   {
-   "key": "RC_OSBOURNE_KEVIN_120011075809574",
-   "name": "Kevin O Osbourne",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793558880,
-   "photo": null
-  },
-  {
-   "key": "RC_MOZEE_IAN_120011075810427",
-   "name": "Ian Thomas Mozee",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793558877,
-   "photo": "photos/RC_MOZEE_IAN_120011075810427.jpg"
-  },
-  {
-   "key": "MKE_LECHUGA_ADILENE_648080",
-   "name": "Adilene W Lechuga",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793557660,
-   "photo": null
-  },
-  {
    "key": "HAYES_BAILEY_2026-11-01",
    "name": "Bailey Lynn Hayes",
    "age": "18",
@@ -277,17 +299,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GEROWJIMENEZ_SHYLA_625748",
-   "name": "Shyla Gerow-Jimenez",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793554055,
-   "photo": null
-  },
-  {
    "key": "SCHMALENBERG_MELISSA_2026-11-01",
    "name": "Melissa M Schmalenberg",
    "age": "30",
@@ -297,17 +308,6 @@
    "more": 0,
    "ts": 1793551626,
    "photo": null
-  },
-  {
-   "key": "MKE_LYNKLEMONS_AMARI_648078",
-   "name": "Amari V Lynk-Lemons",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793548663,
-   "photo": "photos/MKE_LYNKLEMONS_AMARI_648078.jpg"
   },
   {
    "key": "MAR_BUGGS_ALLAH_2026-11-01_NOIMAGE",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_VALLADARESSANTOS_JOSE_120011075815502",
+   "name": "Jose M Valladares-Santos",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793573272,
+   "photo": null
+  },
+  {
+   "key": "RC_DRANE_MARLINZO_120011075815979",
+   "name": "Marlinzo Markays Drane",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 0,
+   "ts": 1793573270,
+   "photo": "photos/RC_DRANE_MARLINZO_120011075815979.jpg"
+  },
+  {
+   "key": "MKE_MONCADABENITEZ_JUNIOR_648082",
+   "name": "Junior Romario Moncada Benitez",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793570283,
+   "photo": null
+  },
+  {
+   "key": "MKE_LUSK_JOSHUA_297548",
+   "name": "Joshua Marcus Lusk",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793570281,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAMILTON_SHAYLA_630889",
+   "name": "Shayla Rozalyn Hamilton",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793570278,
+   "photo": null
+  },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
    "name": "Roger Allen Kennedy",
@@ -4666,72 +4721,6 @@
    "more": 0,
    "ts": 1793314520,
    "photo": "photos/MAR_WILLIAMS_SARA_2026-10-29_3958208.jpg"
-  },
-  {
-   "key": "OLSEN_ANDREW_2026-10-29",
-   "name": "Andrew R Olsen",
-   "age": "27",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793314043,
-   "photo": null
-  },
-  {
-   "key": "DOU_WILLIAMS_TRISTON_2026-10-29",
-   "name": "Triston M Williams",
-   "age": "28",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
-   "ts": 1793312904,
-   "photo": "photos/DOU_WILLIAMS_TRISTON_2026-10-29.jpg"
-  },
-  {
-   "key": "MKE_MORENO_ADONIS_631522",
-   "name": "Adonis Moreno",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793312864,
-   "photo": "photos/MKE_MORENO_ADONIS_631522.jpg"
-  },
-  {
-   "key": "MKE_JEMISON_JUMAL_648040",
-   "name": "Jumal Willie Jemison",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793312862,
-   "photo": "photos/MKE_JEMISON_JUMAL_648040.jpg"
-  },
-  {
-   "key": "MKE_CULPEPPER_VICTOR_646893",
-   "name": "Victor Lee Culpepper",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793312860,
-   "photo": "photos/MKE_CULPEPPER_VICTOR_646893.jpg"
-  },
-  {
-   "key": "MKE_RODRIGUEZDIAZ_OLVIN_648039",
-   "name": "Olvin J Rodriguez-Diaz",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793311069,
-   "photo": "photos/MKE_RODRIGUEZDIAZ_OLVIN_648039.jpg"
   }
  ]
 }
