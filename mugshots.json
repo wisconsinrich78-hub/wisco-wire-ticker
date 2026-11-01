@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-01T07:27:55+00:00",
+ "updated": "2026-11-01T08:27:55+00:00",
  "items": [
+  {
+   "key": "MKE_TVRZ_BRIAN_648069",
+   "name": "Brian Frederick Tvrz",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793521662,
+   "photo": null
+  },
+  {
+   "key": "MKE_MURPHY_TREVEON_633270",
+   "name": "Treveon H Murphy",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793521660,
+   "photo": null
+  },
+  {
+   "key": "MKE_MAY_JOHNNY_648070",
+   "name": "Johnny C May",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793521657,
+   "photo": null
+  },
+  {
+   "key": "MKE_BANNISTER_DESTINEY_648068",
+   "name": "Destiney Tianna Bannister",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793521655,
+   "photo": "photos/MKE_BANNISTER_DESTINEY_648068.jpg"
+  },
+  {
+   "key": "LONG_JENICE_2026-11-01",
+   "name": "Jenice N Long",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793521624,
+   "photo": null
+  },
+  {
+   "key": "FDL_BALL_SHEREE_2026-11-01",
+   "name": "Sheree Cionnia Ball",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Resisting Or Obstructing Officer",
+   "more": 0,
+   "ts": 1793520963,
+   "photo": null
+  },
+  {
+   "key": "FDL_BALL_AMON_2026-11-01",
+   "name": "Amon Kevontae Ball",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793520962,
+   "photo": "photos/FDL_BALL_AMON_2026-11-01.jpg"
+  },
   {
    "key": "FDL_FANNAN_VERONICA_2026-11-01",
    "name": "Veronica Beth Fannan",
@@ -209,50 +286,6 @@
    "more": 0,
    "ts": 1793505506,
    "photo": "photos/KEN_DOHMEN_THOMAS_2026-00006030.jpg"
-  },
-  {
-   "key": "MKE_BARKSDALE_DEWITT_208322",
-   "name": "Dewitt Terrell Barksdale",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793505457,
-   "photo": "photos/MKE_BARKSDALE_DEWITT_208322.jpg"
-  },
-  {
-   "key": "RC_CASTRO_KELLY_120011075795482",
-   "name": "Kelly Lynne Castro",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 0,
-   "ts": 1793504867,
-   "photo": "photos/RC_CASTRO_KELLY_120011075795482.jpg"
-  },
-  {
-   "key": "KEN_ZOERNER_NICHOLAS_2026-00006026",
-   "name": "Nicholas M Zoerner",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793501978,
-   "photo": "photos/KEN_ZOERNER_NICHOLAS_2026-00006026.jpg"
-  },
-  {
-   "key": "KEN_GORDON_MICHAEL_2026-00006027",
-   "name": "Michael Javor Gordon",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793501872,
-   "photo": "photos/KEN_GORDON_MICHAEL_2026-00006027.jpg"
   },
   {
    "key": "MAR_DUNLAP_DIONTE_2026-10-31_34023",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793444104,
    "photo": "photos/MAR_HIGNITE_SHAWN_2026-10-31.jpg"
-  },
-  {
-   "key": "DOU_DEMPSEY_TIJWAUNA_2026-10-31",
-   "name": "Tijwauna B Dempsey",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793441817,
-   "photo": "photos/DOU_DEMPSEY_TIJWAUNA_2026-10-31.jpg"
-  },
-  {
-   "key": "MAR_GOBRECHT_SIERRA_2026-10-31",
-   "name": "Sierra Helen Gobrecht",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793440508,
-   "photo": null
-  },
-  {
-   "key": "TREM_CALLENDER_TIMOTHY_4981",
-   "name": "Timothy Joseph Callender",
-   "age": "39",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "1st Degree Sexual Assault of a Child Under Age 13 with Resulting Great",
-   "more": 0,
-   "ts": 1793440030,
-   "photo": "photos/TREM_CALLENDER_TIMOTHY_4981.jpg"
   }
  ]
 }
