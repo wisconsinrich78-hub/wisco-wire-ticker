@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T05:28:20+00:00",
+ "updated": "2026-11-01T05:49:23+00:00",
  "items": [
+  {
+   "key": "RC_SMITH_JOHNATHAN_120011075797865",
+   "name": "Johnathan Richard Smith",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793512070,
+   "photo": "photos/RC_SMITH_JOHNATHAN_120011075797865.jpg"
+  },
+  {
+   "key": "RC_SCHUMACHER_CLINT_120011075797334",
+   "name": "Clint J Schumacher",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence",
+   "more": 0,
+   "ts": 1793512067,
+   "photo": "photos/RC_SCHUMACHER_CLINT_120011075797334.jpg"
+  },
   {
    "key": "MKE_TRAVIS_PHILLIP_648063",
    "name": "Phillip L Travis",
@@ -211,17 +233,6 @@
    "photo": "photos/KEN_DIAMOND_DONALD_2026-00006024.jpg"
   },
   {
-   "key": "KEN_BROWN_TERRY_2026-00006023",
-   "name": "Terry L Brown",
-   "age": "51",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Marijuana (Thc) 2Nd+",
-   "more": 1,
-   "ts": 1793498186,
-   "photo": "photos/KEN_BROWN_TERRY_2026-00006023.jpg"
-  },
-  {
    "key": "MAR_DUNLAP_DIONTE_2026-10-31_34023",
    "name": "Dionte Montez Dunlap",
    "age": "35",
@@ -231,17 +242,6 @@
    "more": 5,
    "ts": 1793498164,
    "photo": "photos/MAR_DUNLAP_DIONTE_2026-10-31_34023.jpg"
-  },
-  {
-   "key": "RC_ROMNEK_JONATHON_120011075792458",
-   "name": "Jonathon Barry Romnek",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793497689,
-   "photo": "photos/RC_ROMNEK_JONATHON_120011075792458.jpg"
   },
   {
    "key": "CURTI_ROBERT_2026-10-31",
