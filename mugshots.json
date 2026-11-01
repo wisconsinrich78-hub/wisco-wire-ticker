@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-01T15:49:41+00:00",
+ "updated": "2026-11-01T15:58:03+00:00",
  "items": [
+  {
+   "key": "MKE_LYNKLEMONS_AMARI_648078",
+   "name": "Amari V Lynk-Lemons",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793548663,
+   "photo": "photos/MKE_LYNKLEMONS_AMARI_648078.jpg"
+  },
+  {
+   "key": "MKE_CARTER_OMONIQUE_648079",
+   "name": "Omonique Maurshari Carter",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793548661,
+   "photo": null
+  },
+  {
+   "key": "MAR_BUGGS_ALLAH_2026-11-01_NOIMAGE",
+   "name": "Allah Koran Buggs",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 3,
+   "ts": 1793548538,
+   "photo": null
+  },
+  {
+   "key": "KEN_HERNANDEZ_JARED_2026-00006042",
+   "name": "Jared Hernandez",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793548494,
+   "photo": null
+  },
+  {
+   "key": "KEN_GASTON_KEAIRA_2026-00006041",
+   "name": "Keaira Sanota Gaston",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 5,
+   "ts": 1793548457,
+   "photo": "photos/KEN_GASTON_KEAIRA_2026-00006041.jpg"
+  },
   {
    "key": "MKE_LYNKLENONS_AMARI_648078",
    "name": "Amari V Lynk-Lenons",
@@ -40,7 +95,7 @@
    "age": "61",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Misd",
    "more": 0,
    "ts": 1793545112,
    "photo": "photos/KEN_PERRONI_JOSEPH_2026-00006040.jpg"
@@ -222,17 +277,6 @@
    "photo": "photos/MAR_OLDS_KYLELEY_2026-11-01.jpg"
   },
   {
-   "key": "MKE_JONES_LATOYA_648075",
-   "name": "Latoya Marie Jones",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793532453,
-   "photo": "photos/MKE_JONES_LATOYA_648075.jpg"
-  },
-  {
    "key": "FDL_GOMEZSOSA_EMERSON_2026-11-01",
    "name": "Emerson Gomez Sosa",
    "age": "",
@@ -255,28 +299,6 @@
    "photo": null
   },
   {
-   "key": "MKE_REED_DEASHUN_648073",
-   "name": "Deashun Treivon Reed",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793530650,
-   "photo": "photos/MKE_REED_DEASHUN_648073.jpg"
-  },
-  {
-   "key": "MKE_NELSON_QUAZAHN_648074",
-   "name": "Quazahn RussellD Nelson",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793530649,
-   "photo": "photos/MKE_NELSON_QUAZAHN_648074.jpg"
-  },
-  {
    "key": "MAR_EDWARDS_DONALD_2026-11-01_7111602",
    "name": "Donald Richard Edwards",
    "age": "22",
@@ -286,17 +308,6 @@
    "more": 0,
    "ts": 1793530502,
    "photo": "photos/MAR_EDWARDS_DONALD_2026-11-01_7111602.jpg"
-  },
-  {
-   "key": "KEN_BRONNER_ELIJAH_2026-00006035",
-   "name": "Elijah Adam Bronner",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793530439,
-   "photo": "photos/KEN_BRONNER_ELIJAH_2026-00006035.jpg"
   },
   {
    "key": "TREM_WESTVIK_TIMOTHY_6200",
@@ -517,20 +528,64 @@
    "more": 3,
    "ts": 1793510168,
    "photo": "photos/FDL_BUTLER_DEVIN_2026-11-01.jpg"
-  },
-  {
-   "key": "DOU_SANDERS_RONALD_2026-10-31",
-   "name": "Ronald D Sanders",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793506645,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LYNKLEMONS_AMARI_648078",
+   "name": "Amari V Lynk-Lemons",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793548663,
+   "photo": "photos/MKE_LYNKLEMONS_AMARI_648078.jpg"
+  },
+  {
+   "key": "MKE_CARTER_OMONIQUE_648079",
+   "name": "Omonique Maurshari Carter",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793548661,
+   "photo": null
+  },
+  {
+   "key": "MAR_BUGGS_ALLAH_2026-11-01_NOIMAGE",
+   "name": "Allah Koran Buggs",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 3,
+   "ts": 1793548538,
+   "photo": null
+  },
+  {
+   "key": "KEN_HERNANDEZ_JARED_2026-00006042",
+   "name": "Jared Hernandez",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793548494,
+   "photo": null
+  },
+  {
+   "key": "KEN_GASTON_KEAIRA_2026-00006041",
+   "name": "Keaira Sanota Gaston",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 5,
+   "ts": 1793548457,
+   "photo": "photos/KEN_GASTON_KEAIRA_2026-00006041.jpg"
+  },
   {
    "key": "MKE_LYNKLENONS_AMARI_648078",
    "name": "Amari V Lynk-Lenons",
@@ -570,7 +625,7 @@
    "age": "61",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Misd",
    "more": 0,
    "ts": 1793545112,
    "photo": "photos/KEN_PERRONI_JOSEPH_2026-00006040.jpg"
@@ -5062,39 +5117,6 @@
    "more": 1,
    "ts": 1793291295,
    "photo": "photos/MKE_ANTUNEZJIMENEZ_MIGUELANGEL_648034.jpg"
-  },
-  {
-   "key": "MKE_LOVETT_WILLIE_179707",
-   "name": "Willie Albert Lovett",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793289470,
-   "photo": "photos/MKE_LOVETT_WILLIE_179707.jpg"
-  },
-  {
-   "key": "MKE_JUAREZ_JESSICA_648033",
-   "name": "Jessica Juarez",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793289468,
-   "photo": "photos/MKE_JUAREZ_JESSICA_648033.jpg"
-  },
-  {
-   "key": "PRIDGEON_JUSTIN_2026-10-29",
-   "name": "Justin R Pridgeon",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793289420,
-   "photo": null
   }
  ]
 }
