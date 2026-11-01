@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T13:49:29+00:00",
+ "updated": "2026-11-01T13:57:35+00:00",
  "items": [
+  {
+   "key": "MAR_TOLPPI_SYDNEY_2026-11-01",
+   "name": "Sydney Renee Tolppi",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1793541331,
+   "photo": null
+  },
   {
    "key": "HOU_WEAVER_RYANMATTHEW_6320",
    "name": "Ryan Matthew Weaver",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793496422,
    "photo": null
-  },
-  {
-   "key": "KOTEK_SAMUEL_2026-10-31",
-   "name": "Samuel J Kotek",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1793492826,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_TOLPPI_SYDNEY_2026-11-01",
+   "name": "Sydney Renee Tolppi",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1793541331,
+   "photo": null
+  },
   {
    "key": "HOU_WEAVER_RYANMATTHEW_6320",
    "name": "Ryan Matthew Weaver",
