@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T20:49:35+00:00",
+ "updated": "2026-11-01T20:57:43+00:00",
  "items": [
+  {
+   "key": "MAR_WILLIAMS_CHANTELL_2026-10-31_17033901",
+   "name": "Chantell Ladon Williams",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Aggravated Battery Or Threat To Judge, Prosecutor, Or Leo",
+   "more": 1,
+   "ts": 1793566545,
+   "photo": "photos/MAR_WILLIAMS_CHANTELL_2026-10-31_17033901.jpg"
+  },
   {
    "key": "RC_ZOERNER_NICHOLAS_120011075812989",
    "name": "Nicholas M Zoerner",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1793521622,
    "photo": null
-  },
-  {
-   "key": "FDL_BALL_SHEREE_2026-11-01",
-   "name": "Sheree Cionnia Ball",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Resisting Or Obstructing Officer",
-   "more": 0,
-   "ts": 1793520963,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_WILLIAMS_CHANTELL_2026-10-31_17033901",
+   "name": "Chantell Ladon Williams",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Aggravated Battery Or Threat To Judge, Prosecutor, Or Leo",
+   "more": 1,
+   "ts": 1793566545,
+   "photo": "photos/MAR_WILLIAMS_CHANTELL_2026-10-31_17033901.jpg"
+  },
   {
    "key": "RC_ZOERNER_NICHOLAS_120011075812989",
    "name": "Nicholas M Zoerner",
@@ -4765,28 +4776,6 @@
    "more": 6,
    "ts": 1793307492,
    "photo": "photos/MKE_BROOKS_KWILEK_632382.jpg"
-  },
-  {
-   "key": "MAR_WILLIAMS_SARA_2026-10-29",
-   "name": "Sara Marci Williams",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793307458,
-   "photo": "photos/MAR_WILLIAMS_SARA_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_VANG_CHUE_2026-10-29",
-   "name": "Chue Vang",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1793307423,
-   "photo": "photos/MAR_VANG_CHUE_2026-10-29.jpg"
   }
  ]
 }
