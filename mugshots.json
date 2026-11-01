@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T05:49:23+00:00",
+ "updated": "2026-11-01T06:28:04+00:00",
  "items": [
+  {
+   "key": "MKE_ANDERSON_DAMON_648065",
+   "name": "Damon Reshawn Antione Anderson",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793512677,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILLIAMS_CHANTELL_2026-10-31",
+   "name": "Chantell Labon Williams",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Aggravated Battery Or Threat To Judge, Prosecutor, Or Leo",
+   "more": 1,
+   "ts": 1793512532,
+   "photo": null
+  },
   {
    "key": "RC_SMITH_JOHNATHAN_120011075797865",
    "name": "Johnathan Richard Smith",
@@ -32,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793510857,
-   "photo": null
+   "photo": "photos/MKE_TRAVIS_PHILLIP_648063.jpg"
   },
   {
    "key": "MKE_PAYNE_SIRHINESS_648064",
@@ -40,7 +62,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Trespass-Buildings/Premises",
    "more": 4,
    "ts": 1793510856,
    "photo": null
@@ -98,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793507257,
-   "photo": null
+   "photo": "photos/MKE_HOPSON_CHAKA_618837.jpg"
   },
   {
    "key": "DOU_SANDERS_RONALD_2026-10-31",
@@ -142,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793505457,
-   "photo": null
+   "photo": "photos/MKE_BARKSDALE_DEWITT_208322.jpg"
   },
   {
    "key": "RC_CASTRO_KELLY_120011075795482",
@@ -186,7 +208,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1793501858,
-   "photo": null
+   "photo": "photos/MKE_WILSON_JAMES_615101.jpg"
   },
   {
    "key": "KEN_BENNING_DUSTIN_2026-00006028",
@@ -220,17 +242,6 @@
    "more": 0,
    "ts": 1793498383,
    "photo": "photos/KEN_HENLEY_CHARLIE_2026-00006025.jpg"
-  },
-  {
-   "key": "KEN_DIAMOND_DONALD_2026-00006024",
-   "name": "Donald Louis Diamond",
-   "age": "76",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793498304,
-   "photo": "photos/KEN_DIAMOND_DONALD_2026-00006024.jpg"
   },
   {
    "key": "MAR_DUNLAP_DIONTE_2026-10-31_34023",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793436915,
    "photo": null
-  },
-  {
-   "key": "MAR_WOLD_TARA_2026-10-31",
-   "name": "Tara Marie Wold",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 0,
-   "ts": 1793433327,
-   "photo": "photos/MAR_WOLD_TARA_2026-10-31.jpg"
   }
  ]
 }
