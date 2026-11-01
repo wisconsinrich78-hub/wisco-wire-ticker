@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T09:58:04+00:00",
+ "updated": "2026-11-01T10:49:31+00:00",
  "items": [
+  {
+   "key": "TREM_WESTVIK_TIMOTHY_6200",
+   "name": "Timothy Gene Westvik",
+   "age": "45",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Firearm Convicted of Out of State Felony",
+   "more": 0,
+   "ts": 1793530027,
+   "photo": "photos/TREM_WESTVIK_TIMOTHY_6200.jpg"
+  },
+  {
+   "key": "DOU_HOIVIK_COLLIN_2026-11-01",
+   "name": "Collin R Hoivik",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793528235,
+   "photo": null
+  },
   {
    "key": "MKE_HACKETT_MICHAEL_375769",
    "name": "Michael D Hackett",
@@ -186,7 +208,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793525253,
-   "photo": null
+   "photo": "photos/MKE_TOSCANO_JOVANY_648071.jpg"
   },
   {
    "key": "DAVIS_DESMOND_2026-11-01",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1793483775,
    "photo": "photos/MAR_HITZ_ALEX_2026-10-31_15732501.jpg"
-  },
-  {
-   "key": "FDL_PIRTLE_MARCUS_2026-10-31",
-   "name": "Marcus Lakeith Pirtle",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793481409,
-   "photo": "photos/FDL_PIRTLE_MARCUS_2026-10-31.jpg"
-  },
-  {
-   "key": "MAR_HITZ_ALEX_2026-10-31",
-   "name": "Alex Nicholas Hitz",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 5Th",
-   "more": 0,
-   "ts": 1793480132,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "TREM_WESTVIK_TIMOTHY_6200",
+   "name": "Timothy Gene Westvik",
+   "age": "45",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Firearm Convicted of Out of State Felony",
+   "more": 0,
+   "ts": 1793530027,
+   "photo": "photos/TREM_WESTVIK_TIMOTHY_6200.jpg"
+  },
+  {
+   "key": "DOU_HOIVIK_COLLIN_2026-11-01",
+   "name": "Collin R Hoivik",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793528235,
+   "photo": null
+  },
   {
    "key": "MKE_HACKETT_MICHAEL_375769",
    "name": "Michael D Hackett",
@@ -716,7 +738,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793525253,
-   "photo": null
+   "photo": "photos/MKE_TOSCANO_JOVANY_648071.jpg"
   },
   {
    "key": "DAVIS_DESMOND_2026-11-01",
@@ -4974,39 +4996,6 @@
    "more": 0,
    "ts": 1793273247,
    "photo": "photos/MKE_CRUZCHAVEZ_HERICK_504024.jpg"
-  },
-  {
-   "key": "MKE_NEUVILLEROBINSON_TERREE_648030",
-   "name": "Terree Briana Neuville-Robinson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1793269654,
-   "photo": "photos/MKE_NEUVILLEROBINSON_TERREE_648030.jpg"
-  },
-  {
-   "key": "MKE_DONOHOE_KELLY_606705",
-   "name": "Kelly Michelle Donohoe",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793269653,
-   "photo": "photos/MKE_DONOHOE_KELLY_606705.jpg"
-  },
-  {
-   "key": "MKE_COLLINS_ADRIAN_367132",
-   "name": "Adrian D Collins",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793269651,
-   "photo": "photos/MKE_COLLINS_ADRIAN_367132.jpg"
   }
  ]
 }
