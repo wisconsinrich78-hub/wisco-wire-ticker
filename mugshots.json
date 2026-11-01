@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T20:57:43+00:00",
+ "updated": "2026-11-01T21:28:03+00:00",
  "items": [
+  {
+   "key": "JONES_RYLEE_2026-11-01",
+   "name": "Rylee J Jones",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1793568426,
+   "photo": null
+  },
+  {
+   "key": "PEAK_ADAM_2026-11-01",
+   "name": "Adam M Peak",
+   "age": "43",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1793568425,
+   "photo": null
+  },
+  {
+   "key": "FDL_RAMAGE_DANIEL_2026-11-01",
+   "name": "Daniel Ray Ramage",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793567809,
+   "photo": "photos/FDL_RAMAGE_DANIEL_2026-11-01.jpg"
+  },
   {
    "key": "MAR_WILLIAMS_CHANTELL_2026-10-31_17033901",
    "name": "Chantell Ladon Williams",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1793525219,
    "photo": null
-  },
-  {
-   "key": "LONG_JENICE_2026-11-01",
-   "name": "Jenice N Long",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793521624,
-   "photo": null
-  },
-  {
-   "key": "DAVIS_KELSEY_2026-11-01",
-   "name": "Kelsey J Davis",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1793521623,
-   "photo": null
-  },
-  {
-   "key": "TATE_ETHAN_2026-11-01",
-   "name": "Ethan J Tate",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793521622,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "JONES_RYLEE_2026-11-01",
+   "name": "Rylee J Jones",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1793568426,
+   "photo": null
+  },
+  {
+   "key": "PEAK_ADAM_2026-11-01",
+   "name": "Adam M Peak",
+   "age": "43",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1793568425,
+   "photo": null
+  },
+  {
+   "key": "FDL_RAMAGE_DANIEL_2026-11-01",
+   "name": "Daniel Ray Ramage",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793567809,
+   "photo": "photos/FDL_RAMAGE_DANIEL_2026-11-01.jpg"
+  },
   {
    "key": "MAR_WILLIAMS_CHANTELL_2026-10-31_17033901",
    "name": "Chantell Ladon Williams",
@@ -4743,39 +4776,6 @@
    "more": 0,
    "ts": 1793310491,
    "photo": "photos/RC_BROWN_CHRISTOPHER_120011075735648.jpg"
-  },
-  {
-   "key": "MKE_VARELA_LUIS_638577",
-   "name": "Luis E Varela",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 1,
-   "ts": 1793307493,
-   "photo": "photos/MKE_VARELA_LUIS_638577.jpg"
-  },
-  {
-   "key": "MAR_DEBORD_KRISTEN_2026-10-29_13329902",
-   "name": "Kristen F Debord",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793307493,
-   "photo": "photos/MAR_DEBORD_KRISTEN_2026-10-29_13329902.jpg"
-  },
-  {
-   "key": "MKE_BROOKS_KWILEK_632382",
-   "name": "Kwilek Turon Brooks",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 6,
-   "ts": 1793307492,
-   "photo": "photos/MKE_BROOKS_KWILEK_632382.jpg"
   }
  ]
 }
