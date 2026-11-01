@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T18:49:32+00:00",
+ "updated": "2026-11-01T19:27:46+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_KENNETH_387729",
+   "name": "Kenneth Tyrel Williams",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793559481,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCVICKER_DAMIRUS_648081",
+   "name": "Damirus Gerald Mcvicker",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793559479,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_QUENTIN_346995",
+   "name": "Quentin L Carter",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793559477,
+   "photo": null
+  },
   {
    "key": "RC_WARREN_JASMINE_120011075810441",
    "name": "Jasmine Marie Warren",
@@ -211,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "KEN_LEE_TANILA_2026-00006039",
-   "name": "Tanila Heavyn Lee",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (2Nd)",
-   "more": 0,
-   "ts": 1793545031,
-   "photo": "photos/KEN_LEE_TANILA_2026-00006039.jpg"
-  },
-  {
    "key": "MAR_TOLPPI_SYDNEY_2026-11-01_1740901",
    "name": "Sydney Renee Tolppi",
    "age": "27",
@@ -231,28 +253,6 @@
    "more": 0,
    "ts": 1793545004,
    "photo": "photos/MAR_TOLPPI_SYDNEY_2026-11-01_1740901.jpg"
-  },
-  {
-   "key": "MKE_LYNXKENONS_AMARI_648078",
-   "name": "Amari V Lynx-Kenons",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793543255,
-   "photo": null
-  },
-  {
-   "key": "MKE_GARCIA_ERICK_318960",
-   "name": "Erick Romero Garcia",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793543253,
-   "photo": "photos/MKE_GARCIA_ERICK_318960.jpg"
   },
   {
    "key": "MAR_TOLPPI_SYDNEY_2026-11-01",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_KENNETH_387729",
+   "name": "Kenneth Tyrel Williams",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793559481,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCVICKER_DAMIRUS_648081",
+   "name": "Damirus Gerald Mcvicker",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793559479,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_QUENTIN_346995",
+   "name": "Quentin L Carter",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793559477,
+   "photo": null
+  },
   {
    "key": "RC_WARREN_JASMINE_120011075810441",
    "name": "Jasmine Marie Warren",
@@ -1362,8 +1395,8 @@
    "age": "29",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 1,
    "ts": 1793516183,
    "photo": "photos/KEN_ATILANO_JUAN_2026-00006032.jpg"
   },
@@ -4776,94 +4809,6 @@
    "more": 0,
    "ts": 1793303288,
    "photo": "photos/RC_FLOWERS_ALLEN_120011075730865.jpg"
-  },
-  {
-   "key": "THOMAS_ALEXIS_2026-10-29",
-   "name": "Alexis A Thomas",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793302023,
-   "photo": null
-  },
-  {
-   "key": "DOU_FLINT_MEGAN_2026-10-29",
-   "name": "Megan M Flint",
-   "age": "46",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793301509,
-   "photo": null
-  },
-  {
-   "key": "MKE_WREN_CORDNEY_360322",
-   "name": "Cordney Eugene Wren",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 2,
-   "ts": 1793300278,
-   "photo": "photos/MKE_WREN_CORDNEY_360322.jpg"
-  },
-  {
-   "key": "MKE_LEFLORE_MICHAEL_648038",
-   "name": "Michael Andrew Leflore",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793300275,
-   "photo": "photos/MKE_LEFLORE_MICHAEL_648038.jpg"
-  },
-  {
-   "key": "MAR_BUENNING_MATTHEW_2026-10-29_11239602",
-   "name": "Matthew John Buenning",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1793300260,
-   "photo": "photos/MAR_BUENNING_MATTHEW_2026-10-29_11239602.jpg"
-  },
-  {
-   "key": "MAR_HOWARD_CHRISTOPHER_2026-10-29_7237503",
-   "name": "Christopher John Howard",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1793300224,
-   "photo": "photos/MAR_HOWARD_CHRISTOPHER_2026-10-29_7237503.jpg"
-  },
-  {
-   "key": "MAR_COMSTOCK_JAMES_2026-10-29_1160602",
-   "name": "James A Comstock",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793300189,
-   "photo": "photos/MAR_COMSTOCK_JAMES_2026-10-29_1160602.jpg"
-  },
-  {
-   "key": "MAR_ROWE_DAVID_2026-10-29_491604",
-   "name": "David William Rowe",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1793300152,
-   "photo": "photos/MAR_ROWE_DAVID_2026-10-29_491604.jpg"
   }
  ]
 }
