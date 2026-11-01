@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T21:49:30+00:00",
+ "updated": "2026-11-01T21:57:47+00:00",
  "items": [
+  {
+   "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
+   "name": "Roger Allen Kennedy",
+   "age": "69",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793570139,
+   "photo": "photos/MAR_KENNEDY_ROGER_2026-11-01_6926012.jpg"
+  },
+  {
+   "key": "KEN_EVERETT_KALEB_2026-00006043",
+   "name": "Kaleb Ryan Everett",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793570075,
+   "photo": "photos/KEN_EVERETT_KALEB_2026-00006043.jpg"
+  },
   {
    "key": "JONES_RYLEE_2026-11-01",
    "name": "Rylee J Jones",
@@ -288,17 +310,6 @@
    "photo": "photos/MKE_LYNKLEMONS_AMARI_648078.jpg"
   },
   {
-   "key": "MKE_CARTER_OMONIQUE_648079",
-   "name": "Omonique Maurshari Carter",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793548661,
-   "photo": null
-  },
-  {
    "key": "MAR_BUGGS_ALLAH_2026-11-01_NOIMAGE",
    "name": "Allah Koran Buggs",
    "age": "30",
@@ -475,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_EDWARDS_DONALD_2026-11-01",
-   "name": "Donald Richard Edwards",
-   "age": "22",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 0,
-   "ts": 1793526894,
-   "photo": "photos/MAR_EDWARDS_DONALD_2026-11-01.jpg"
-  },
-  {
    "key": "HOU_HUNT_TYRELLALLEN_6318",
    "name": "Tyrell Allen Hunt",
    "age": "28",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
+   "name": "Roger Allen Kennedy",
+   "age": "69",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793570139,
+   "photo": "photos/MAR_KENNEDY_ROGER_2026-11-01_6926012.jpg"
+  },
+  {
+   "key": "KEN_EVERETT_KALEB_2026-00006043",
+   "name": "Kaleb Ryan Everett",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793570075,
+   "photo": "photos/KEN_EVERETT_KALEB_2026-00006043.jpg"
+  },
   {
    "key": "JONES_RYLEE_2026-11-01",
    "name": "Rylee J Jones",
@@ -4710,28 +4732,6 @@
    "more": 2,
    "ts": 1793311069,
    "photo": "photos/MKE_RODRIGUEZDIAZ_OLVIN_648039.jpg"
-  },
-  {
-   "key": "MAR_THAO_SOU_2026-10-29",
-   "name": "Sou Thao",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Controlled Substance",
-   "more": 4,
-   "ts": 1793310977,
-   "photo": "photos/MAR_THAO_SOU_2026-10-29.jpg"
-  },
-  {
-   "key": "KEN_PEASE_ZACHERY_2026-00005986",
-   "name": "Zachery Gregory Pease",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793310969,
-   "photo": "photos/KEN_PEASE_ZACHERY_2026-00005986.jpg"
   }
  ]
 }
