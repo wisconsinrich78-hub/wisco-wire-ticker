@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T19:49:27+00:00",
+ "updated": "2026-11-01T19:57:44+00:00",
  "items": [
+  {
+   "key": "MAR_KENNEDY_ROGER_2026-11-01",
+   "name": "Roger Allen Kennedy",
+   "age": "69",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793562952,
+   "photo": "photos/MAR_KENNEDY_ROGER_2026-11-01.jpg"
+  },
+  {
+   "key": "MAR_OLDS_KYLELEY_2026-11-01_1472202",
+   "name": "Kyleley Eric Olds",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793562912,
+   "photo": "photos/MAR_OLDS_KYLELEY_2026-11-01_1472202.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_KENNETH_387729",
    "name": "Kenneth Tyrel Williams",
@@ -506,31 +528,31 @@
    "more": 1,
    "ts": 1793517374,
    "photo": "photos/FDL_FANNAN_VERONICA_2026-11-01.jpg"
-  },
-  {
-   "key": "MAR_WILLIAMS_CHANTELL_2026-10-31",
-   "name": "Chantell Labon Williams",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Aggravated Battery Or Threat To Judge, Prosecutor, Or Leo",
-   "more": 1,
-   "ts": 1793512532,
-   "photo": null
-  },
-  {
-   "key": "IBE_MALIKI_2026-11-01",
-   "name": "Maliki A Ibe",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1793510820,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_KENNEDY_ROGER_2026-11-01",
+   "name": "Roger Allen Kennedy",
+   "age": "69",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793562952,
+   "photo": "photos/MAR_KENNEDY_ROGER_2026-11-01.jpg"
+  },
+  {
+   "key": "MAR_OLDS_KYLELEY_2026-11-01_1472202",
+   "name": "Kyleley Eric Olds",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793562912,
+   "photo": "photos/MAR_OLDS_KYLELEY_2026-11-01_1472202.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_KENNETH_387729",
    "name": "Kenneth Tyrel Williams",
@@ -4721,28 +4743,6 @@
    "more": 3,
    "ts": 1793305665,
    "photo": "photos/MKE_ANDERSON_KARDION_637015.jpg"
-  },
-  {
-   "key": "MAR_DEBORD_KRISTEN_2026-10-29",
-   "name": "Kristen F Debord",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793303823,
-   "photo": "photos/MAR_DEBORD_KRISTEN_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_BOTTENSEK_SHELBY_2026-10-29_2393502",
-   "name": "Shelby Lea Bottensek",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Drive Or Operate Vehicle W/O Consent",
-   "more": 2,
-   "ts": 1793303788,
-   "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-10-29_2393502.jpg"
   }
  ]
 }
