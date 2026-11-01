@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T22:57:49+00:00",
+ "updated": "2026-11-01T23:49:27+00:00",
  "items": [
+  {
+   "key": "RC_CHRISTENSEN_MILTON_120011075817627",
+   "name": "Milton John Christensen",
+   "age": "71",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1793576880,
+   "photo": "photos/RC_CHRISTENSEN_MILTON_120011075817627.jpg"
+  },
+  {
+   "key": "MKE_BROWN_LAMONT_631938",
+   "name": "Lamont Leon Brown",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793575661,
+   "photo": null
+  },
   {
    "key": "MKE_WARREN_WILLIE_297099",
    "name": "Willie Oliver Warren",
@@ -73,8 +95,8 @@
    "age": "33",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793570283,
    "photo": null
   },
@@ -231,28 +253,6 @@
    "more": 0,
    "ts": 1793564209,
    "photo": "photos/FDL_GREEN_DARRELL_2026-11-01.jpg"
-  },
-  {
-   "key": "MKE_EDWARDS_JOSHUA_420296",
-   "name": "Joshua Curtis Edwards",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793563087,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALEXANDER_COLIN_501948",
-   "name": "Colin T Alexander",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793563085,
-   "photo": null
   },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "RC_CHRISTENSEN_MILTON_120011075817627",
+   "name": "Milton John Christensen",
+   "age": "71",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1793576880,
+   "photo": "photos/RC_CHRISTENSEN_MILTON_120011075817627.jpg"
+  },
+  {
+   "key": "MKE_BROWN_LAMONT_631938",
+   "name": "Lamont Leon Brown",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793575661,
+   "photo": null
+  },
+  {
    "key": "MKE_WARREN_WILLIE_297099",
    "name": "Willie Oliver Warren",
    "age": "44",
@@ -603,8 +625,8 @@
    "age": "33",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793570283,
    "photo": null
   },
@@ -837,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793559477,
-   "photo": null
+   "photo": "photos/MKE_CARTER_QUENTIN_346995.jpg"
   },
   {
    "key": "RC_WARREN_JASMINE_120011075810441",
@@ -881,7 +903,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793557660,
-   "photo": null
+   "photo": "photos/MKE_LECHUGA_ADILENE_648080.jpg"
   },
   {
    "key": "HAYES_BAILEY_2026-11-01",
@@ -914,7 +936,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793554055,
-   "photo": null
+   "photo": "photos/MKE_GEROWJIMENEZ_SHYLA_625748.jpg"
   },
   {
    "key": "SCHMALENBERG_MELISSA_2026-11-01",
@@ -947,7 +969,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793548661,
-   "photo": null
+   "photo": "photos/MKE_CARTER_OMONIQUE_648079.jpg"
   },
   {
    "key": "MAR_BUGGS_ALLAH_2026-11-01_NOIMAGE",
@@ -4732,28 +4754,6 @@
    "more": 0,
    "ts": 1793317998,
    "photo": null
-  },
-  {
-   "key": "MKE_WADE_IVORY_353886",
-   "name": "Ivory Wade",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st or",
-   "more": 0,
-   "ts": 1793314933,
-   "photo": "photos/MKE_WADE_IVORY_353886.jpg"
-  },
-  {
-   "key": "MKE_CORTEZ_KITTY_644701",
-   "name": "Kitty Ann Cortez",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 3,
-   "ts": 1793314931,
-   "photo": "photos/MKE_CORTEZ_KITTY_644701.jpg"
   }
  ]
 }
