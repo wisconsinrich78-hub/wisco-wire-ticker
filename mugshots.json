@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T01:56:30+00:00",
+ "updated": "2026-11-01T02:28:12+00:00",
  "items": [
+  {
+   "key": "KEN_HENLEY_CHARLIE_2026-00006025",
+   "name": "CHARLIE WILLIAM Junior HENLEY",
+   "age": "56",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793498383,
+   "photo": "photos/KEN_HENLEY_CHARLIE_2026-00006025.jpg"
+  },
+  {
+   "key": "KEN_DIAMOND_DONALD_2026-00006024",
+   "name": "Donald Louis Diamond",
+   "age": "76",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793498304,
+   "photo": "photos/KEN_DIAMOND_DONALD_2026-00006024.jpg"
+  },
   {
    "key": "KEN_BROWN_TERRY_2026-00006023",
    "name": "Terry L Brown",
@@ -11,6 +33,17 @@
    "more": 1,
    "ts": 1793498186,
    "photo": "photos/KEN_BROWN_TERRY_2026-00006023.jpg"
+  },
+  {
+   "key": "MAR_DUNLAP_DIONTE_2026-10-31_34023",
+   "name": "Dionte Montez Dunlap",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 5,
+   "ts": 1793498164,
+   "photo": "photos/MAR_DUNLAP_DIONTE_2026-10-31_34023.jpg"
   },
   {
    "key": "RC_ROMNEK_JONATHON_120011075792458",
@@ -117,7 +150,7 @@
    "age": "40",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793494617,
    "photo": "photos/KEN_DANIEL_DERRICK_2026-00006022.jpg"
@@ -167,17 +200,6 @@
    "photo": "photos/RC_ESPINOZA_JUAN_120011075791530.jpg"
   },
   {
-   "key": "RC_BUTLER_RICHARD_120011075791600",
-   "name": "Richard Earl Butler",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793494076,
-   "photo": "photos/RC_BUTLER_RICHARD_120011075791600.jpg"
-  },
-  {
    "key": "MONTGOMERY_TODD_2026-10-31",
    "name": "Todd J Montgomery",
    "age": "53",
@@ -198,17 +220,6 @@
    "more": 0,
    "ts": 1793492187,
    "photo": "photos/FDL_HARRIS_WILLIAM_2026-10-31.jpg"
-  },
-  {
-   "key": "KEN_WASHA_LEON_2026-00006019",
-   "name": "Leon E Washa",
-   "age": "59",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793491036,
-   "photo": "photos/KEN_WASHA_LEON_2026-00006019.jpg"
   },
   {
    "key": "MAR_PAYETTE_ALLEN_2026-10-31",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793415300,
    "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30_5866405.jpg"
-  },
-  {
-   "key": "KLINE_DAKODA_2026-10-30",
-   "name": "Dakoda G Kline",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Substantial Battery-Intend Bodily Harm",
-   "more": 1,
-   "ts": 1793413620,
-   "photo": null
   }
  ]
 }
