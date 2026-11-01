@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-01T17:57:50+00:00",
+ "updated": "2026-11-01T18:49:32+00:00",
  "items": [
+  {
+   "key": "RC_WARREN_JASMINE_120011075810441",
+   "name": "Jasmine Marie Warren",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793558883,
+   "photo": "photos/RC_WARREN_JASMINE_120011075810441.jpg"
+  },
+  {
+   "key": "RC_OSBOURNE_KEVIN_120011075809574",
+   "name": "Kevin O Osbourne",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793558880,
+   "photo": null
+  },
+  {
+   "key": "RC_MOZEE_IAN_120011075810427",
+   "name": "Ian Thomas Mozee",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793558877,
+   "photo": "photos/RC_MOZEE_IAN_120011075810427.jpg"
+  },
+  {
+   "key": "MKE_LECHUGA_ADILENE_648080",
+   "name": "Adilene W Lechuga",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793557660,
+   "photo": null
+  },
+  {
+   "key": "HAYES_BAILEY_2026-11-01",
+   "name": "Bailey Lynn Hayes",
+   "age": "18",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793557619,
+   "photo": null
+  },
   {
    "key": "MAR_BUGGS_ALLAH_2026-11-01_2662201",
    "name": "Allah Koran Buggs",
@@ -231,50 +286,6 @@
    "more": 0,
    "ts": 1793540832,
    "photo": "photos/HOU_VANGUNDY_MATTHEWSTEVEN_6319.jpg"
-  },
-  {
-   "key": "MKE_CROSSLEY_PARIS_387163",
-   "name": "Paris Giovanni Crossley",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793537847,
-   "photo": "photos/MKE_CROSSLEY_PARIS_387163.jpg"
-  },
-  {
-   "key": "RC_DIAZHERNANDEZ_ADOLFO_120011075804585",
-   "name": "Adolfo Diaz-Hernandez",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793537269,
-   "photo": null
-  },
-  {
-   "key": "MKE_PEREYRA_EDUARDO_648076",
-   "name": "Eduardo Daniel Pereyra",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793536064,
-   "photo": "photos/MKE_PEREYRA_EDUARDO_648076.jpg"
-  },
-  {
-   "key": "MKE_MUHAMMAD_BAITH_648077",
-   "name": "Baith Allah Muhammad",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793536063,
-   "photo": "photos/MKE_MUHAMMAD_BAITH_648077.jpg"
   },
   {
    "key": "MAR_SANDOVALPENA_JORDAN_2026-11-01",
@@ -517,20 +528,64 @@
    "more": 3,
    "ts": 1793510820,
    "photo": null
-  },
-  {
-   "key": "REICHENBACH_DALE_2026-11-01",
-   "name": "Dale C Reichenbach",
-   "age": "43",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1793510819,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WARREN_JASMINE_120011075810441",
+   "name": "Jasmine Marie Warren",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793558883,
+   "photo": "photos/RC_WARREN_JASMINE_120011075810441.jpg"
+  },
+  {
+   "key": "RC_OSBOURNE_KEVIN_120011075809574",
+   "name": "Kevin O Osbourne",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793558880,
+   "photo": null
+  },
+  {
+   "key": "RC_MOZEE_IAN_120011075810427",
+   "name": "Ian Thomas Mozee",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793558877,
+   "photo": "photos/RC_MOZEE_IAN_120011075810427.jpg"
+  },
+  {
+   "key": "MKE_LECHUGA_ADILENE_648080",
+   "name": "Adilene W Lechuga",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793557660,
+   "photo": null
+  },
+  {
+   "key": "HAYES_BAILEY_2026-11-01",
+   "name": "Bailey Lynn Hayes",
+   "age": "18",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793557619,
+   "photo": null
+  },
   {
    "key": "MAR_BUGGS_ALLAH_2026-11-01_2662201",
    "name": "Allah Koran Buggs",
@@ -4809,182 +4864,6 @@
    "more": 0,
    "ts": 1793300152,
    "photo": "photos/MAR_ROWE_DAVID_2026-10-29_491604.jpg"
-  },
-  {
-   "key": "RC_MATUS_IAN_120011075727861",
-   "name": "Ian F Matus",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Veh. Operator Flee/Elude Officer",
-   "more": 1,
-   "ts": 1793299686,
-   "photo": "photos/RC_MATUS_IAN_120011075727861.jpg"
-  },
-  {
-   "key": "RC_JACKSON_DONOVAN_120011075727170",
-   "name": "Donovan Aquisesupreme Jackson",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Open Intoxicants in MV",
-   "more": 0,
-   "ts": 1793299683,
-   "photo": "photos/RC_JACKSON_DONOVAN_120011075727170.jpg"
-  },
-  {
-   "key": "RC_ALDRIDGE_TIMOTHY_120011075727790",
-   "name": "Timothy James Aldridge",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
-   "more": 2,
-   "ts": 1793299680,
-   "photo": "photos/RC_ALDRIDGE_TIMOTHY_120011075727790.jpg"
-  },
-  {
-   "key": "KEN_TAYLOR_JAMES_2026-00005981",
-   "name": "James Deshaun Taylor",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Fail/Wear Seat Belt",
-   "more": 2,
-   "ts": 1793297706,
-   "photo": null
-  },
-  {
-   "key": "KEN_KASHI_ADAM_2026-00005985",
-   "name": "Adam G Kashi",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793297637,
-   "photo": null
-  },
-  {
-   "key": "KEN_HAND_KENNETH_2026-00005980",
-   "name": "KENNETH FRANKLIN Senior HAND",
-   "age": "69",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 3,
-   "ts": 1793297594,
-   "photo": "photos/KEN_HAND_KENNETH_2026-00005980.jpg"
-  },
-  {
-   "key": "MAR_GUZMANPIMIENTA_ARTURO_2026-10-29_12777901",
-   "name": "Arturo Pimienta Guzman Pimienta",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 4,
-   "ts": 1793297051,
-   "photo": "photos/MAR_GUZMANPIMIENTA_ARTURO_2026-10-29_12777901.jpg"
-  },
-  {
-   "key": "MAR_BUENNING_MATTHEW_2026-10-29",
-   "name": "Matthew John Buenning",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1793297018,
-   "photo": "photos/MAR_BUENNING_MATTHEW_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_JANIAK_CONNOR_2026-10-29",
-   "name": "Connor Theodore Janiak",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793296980,
-   "photo": "photos/MAR_JANIAK_CONNOR_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_HOWARD_CHRISTOPHER_2026-10-29",
-   "name": "Christopher John Howard",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1793296944,
-   "photo": "photos/MAR_HOWARD_CHRISTOPHER_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_BOTTENSEK_SHELBY_2026-10-29",
-   "name": "Shelby Lea Bottensek",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Drive Or Operate Vehicle W/O Consent",
-   "more": 1,
-   "ts": 1793296908,
-   "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_COMSTOCK_JAMES_2026-10-29",
-   "name": "James A Comstock",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793296860,
-   "photo": "photos/MAR_COMSTOCK_JAMES_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_ROWE_DAVID_2026-10-29",
-   "name": "David William Rowe",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1793296759,
-   "photo": "photos/MAR_ROWE_DAVID_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_DUNLAP_DIONTE_2026-10-29",
-   "name": "Dionte Montez Dunlap",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793296690,
-   "photo": "photos/MAR_DUNLAP_DIONTE_2026-10-29.jpg"
-  },
-  {
-   "key": "MKE_SOWERS_CONTELLIOUS_297251",
-   "name": "Contellious C Sowers",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1793296675,
-   "photo": "photos/MKE_SOWERS_CONTELLIOUS_297251.jpg"
-  },
-  {
-   "key": "MKE_MUNIZVALENTIN_JONATHAN_648037",
-   "name": "Jonathan Muniz Valentin",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793296673,
-   "photo": "photos/MKE_MUNIZVALENTIN_JONATHAN_648037.jpg"
   }
  ]
 }
