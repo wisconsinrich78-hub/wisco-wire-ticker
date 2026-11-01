@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T12:49:26+00:00",
+ "updated": "2026-11-01T13:49:29+00:00",
  "items": [
+  {
+   "key": "HOU_WEAVER_RYANMATTHEW_6320",
+   "name": "Ryan Matthew Weaver",
+   "age": "36",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Domestic Assault-Misdemeanor-Intentionally In (1-Court Pending)",
+   "more": 1,
+   "ts": 1793540833,
+   "photo": "photos/HOU_WEAVER_RYANMATTHEW_6320.jpg"
+  },
+  {
+   "key": "HOU_VANGUNDY_MATTHEWSTEVEN_6319",
+   "name": "Matthew Steven VanGundy",
+   "age": "47",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Domestic Assault-Misdemeanor-Intentionally In (1-Court Pending)",
+   "more": 0,
+   "ts": 1793540832,
+   "photo": "photos/HOU_VANGUNDY_MATTHEWSTEVEN_6319.jpg"
+  },
+  {
+   "key": "MKE_CROSSLEY_PARIS_387163",
+   "name": "Paris Giovanni Crossley",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793537847,
+   "photo": null
+  },
   {
    "key": "RC_DIAZHERNANDEZ_ADOLFO_120011075804585",
    "name": "Adolfo Diaz-Hernandez",
@@ -277,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "RC_BELL_LISA_120011075800702",
-   "name": "Lisa Bell",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793526475,
-   "photo": null
-  },
-  {
    "key": "HOU_HUNT_TYRELLALLEN_6318",
    "name": "Tyrell Allen Hunt",
    "age": "28",
@@ -506,31 +528,42 @@
    "more": 1,
    "ts": 1793492826,
    "photo": null
-  },
-  {
-   "key": "MONTGOMERY_TODD_2026-10-31",
-   "name": "Todd J Montgomery",
-   "age": "53",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793492825,
-   "photo": null
-  },
-  {
-   "key": "FDL_HARRIS_WILLIAM_2026-10-31",
-   "name": "William Carmen Harris",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793492187,
-   "photo": "photos/FDL_HARRIS_WILLIAM_2026-10-31.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "HOU_WEAVER_RYANMATTHEW_6320",
+   "name": "Ryan Matthew Weaver",
+   "age": "36",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Domestic Assault-Misdemeanor-Intentionally In (1-Court Pending)",
+   "more": 1,
+   "ts": 1793540833,
+   "photo": "photos/HOU_WEAVER_RYANMATTHEW_6320.jpg"
+  },
+  {
+   "key": "HOU_VANGUNDY_MATTHEWSTEVEN_6319",
+   "name": "Matthew Steven VanGundy",
+   "age": "47",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Domestic Assault-Misdemeanor-Intentionally In (1-Court Pending)",
+   "more": 0,
+   "ts": 1793540832,
+   "photo": "photos/HOU_VANGUNDY_MATTHEWSTEVEN_6319.jpg"
+  },
+  {
+   "key": "MKE_CROSSLEY_PARIS_387163",
+   "name": "Paris Giovanni Crossley",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793537847,
+   "photo": null
+  },
   {
    "key": "RC_DIAZHERNANDEZ_ADOLFO_120011075804585",
    "name": "Adolfo Diaz-Hernandez",
@@ -5029,83 +5062,6 @@
    "more": 0,
    "ts": 1793284058,
    "photo": "photos/MKE_HODGES_ANTHONY_627534.jpg"
-  },
-  {
-   "key": "MKE_TOWNSEND_CHRISTOPHER_219906",
-   "name": "Christopher Townsend",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793280465,
-   "photo": "photos/MKE_TOWNSEND_CHRISTOPHER_219906.jpg"
-  },
-  {
-   "key": "MKE_SMITH_MILTON_260622",
-   "name": "Milton Lee Smith",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1793280463,
-   "photo": "photos/MKE_SMITH_MILTON_260622.jpg"
-  },
-  {
-   "key": "MKE_KNIPPEL_CHRISTOPHER_384802",
-   "name": "Christopher John Knippel",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 0,
-   "ts": 1793280461,
-   "photo": "photos/MKE_KNIPPEL_CHRISTOPHER_384802.jpg"
-  },
-  {
-   "key": "MKE_CONNERS_COREY_646878",
-   "name": "Corey Marquis Conners",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Contact After Domestic Abuse Arrest",
-   "more": 15,
-   "ts": 1793280459,
-   "photo": "photos/MKE_CONNERS_COREY_646878.jpg"
-  },
-  {
-   "key": "CHACON_BRANDON_2026-10-29",
-   "name": "Brandon A Chacon",
-   "age": "33",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793280428,
-   "photo": null
-  },
-  {
-   "key": "MKE_WANTA_SCOTT_325965",
-   "name": "Scott Joseph Wanta",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793278659,
-   "photo": "photos/MKE_WANTA_SCOTT_325965.jpg"
-  },
-  {
-   "key": "MKE_OLOMWEME_ERICK_648031",
-   "name": "Erick Olomweme",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793278657,
-   "photo": "photos/MKE_OLOMWEME_ERICK_648031.jpg"
   }
  ]
 }
