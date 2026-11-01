@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T10:49:31+00:00",
+ "updated": "2026-11-01T10:57:43+00:00",
  "items": [
+  {
+   "key": "MKE_REED_DEASHUN_648073",
+   "name": "Deashun Treivon Reed",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793530650,
+   "photo": null
+  },
+  {
+   "key": "MKE_NELSON_QUAZAHN_648074",
+   "name": "Quazahn RussellD Nelson",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793530649,
+   "photo": null
+  },
+  {
+   "key": "MAR_EDWARDS_DONALD_2026-11-01_7111602",
+   "name": "Donald Richard Edwards",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1793530502,
+   "photo": "photos/MAR_EDWARDS_DONALD_2026-11-01_7111602.jpg"
+  },
+  {
+   "key": "KEN_BRONNER_ELIJAH_2026-00006035",
+   "name": "Elijah Adam Bronner",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793530439,
+   "photo": "photos/KEN_BRONNER_ELIJAH_2026-00006035.jpg"
+  },
   {
    "key": "TREM_WESTVIK_TIMOTHY_6200",
    "name": "Timothy Gene Westvik",
@@ -244,39 +288,6 @@
    "photo": "photos/RC_MORRISPINAGER_CORINTHIAN_120011075799317.jpg"
   },
   {
-   "key": "RC_CHONCOAMORALES_ABRAHAM_120011075800307",
-   "name": "Abraham Choncoa-Morales",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793522872,
-   "photo": null
-  },
-  {
-   "key": "MKE_TVRZ_BRIAN_648069",
-   "name": "Brian Frederick Tvrz",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793521662,
-   "photo": "photos/MKE_TVRZ_BRIAN_648069.jpg"
-  },
-  {
-   "key": "MKE_MURPHY_TREVEON_633270",
-   "name": "Treveon H Murphy",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793521660,
-   "photo": "photos/MKE_MURPHY_TREVEON_633270.jpg"
-  },
-  {
    "key": "LONG_JENICE_2026-11-01",
    "name": "Jenice N Long",
    "age": "44",
@@ -517,20 +528,53 @@
    "more": 1,
    "ts": 1793485624,
    "photo": null
-  },
-  {
-   "key": "MAR_HITZ_ALEX_2026-10-31_15732501",
-   "name": "Alex Nicholas Hitz",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 5Th",
-   "more": 0,
-   "ts": 1793483775,
-   "photo": "photos/MAR_HITZ_ALEX_2026-10-31_15732501.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_REED_DEASHUN_648073",
+   "name": "Deashun Treivon Reed",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793530650,
+   "photo": null
+  },
+  {
+   "key": "MKE_NELSON_QUAZAHN_648074",
+   "name": "Quazahn RussellD Nelson",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793530649,
+   "photo": null
+  },
+  {
+   "key": "MAR_EDWARDS_DONALD_2026-11-01_7111602",
+   "name": "Donald Richard Edwards",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1793530502,
+   "photo": "photos/MAR_EDWARDS_DONALD_2026-11-01_7111602.jpg"
+  },
+  {
+   "key": "KEN_BRONNER_ELIJAH_2026-00006035",
+   "name": "Elijah Adam Bronner",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793530439,
+   "photo": "photos/KEN_BRONNER_ELIJAH_2026-00006035.jpg"
+  },
   {
    "key": "TREM_WESTVIK_TIMOTHY_6200",
    "name": "Timothy Gene Westvik",
