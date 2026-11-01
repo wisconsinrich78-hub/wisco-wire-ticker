@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-01T00:49:28+00:00",
+ "updated": "2026-11-01T01:28:42+00:00",
  "items": [
+  {
+   "key": "MKE_VAZQUEZ_MERCED_386218",
+   "name": "Merced Vazquez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793496466,
+   "photo": null
+  },
+  {
+   "key": "MKE_CROOKS_VANITA_642430",
+   "name": "Vanita S Crooks",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793496464,
+   "photo": null
+  },
+  {
+   "key": "CURTI_ROBERT_2026-10-31",
+   "name": "Robert L Curti",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793496422,
+   "photo": null
+  },
+  {
+   "key": "KEN_PERRAULT_JEREMIAH_2026-00006020",
+   "name": "Jeremiah James Perrault",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793494805,
+   "photo": "photos/KEN_PERRAULT_JEREMIAH_2026-00006020.jpg"
+  },
+  {
+   "key": "KEN_NIGHTINGALE_WILLIAM_2026-00006021",
+   "name": "William G Nightingale",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793494731,
+   "photo": "photos/KEN_NIGHTINGALE_WILLIAM_2026-00006021.jpg"
+  },
+  {
+   "key": "KEN_DANIEL_DERRICK_2026-00006022",
+   "name": "DERRICK DAREL Senior DANIEL",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793494617,
+   "photo": "photos/KEN_DANIEL_DERRICK_2026-00006022.jpg"
+  },
   {
    "key": "RC_WALKER_CHRISTOPHER_120011075791571",
    "name": "Christopher A Walker",
@@ -84,7 +150,7 @@
    "age": "59",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793491036,
    "photo": "photos/KEN_WASHA_LEON_2026-00006019.jpg"
@@ -164,61 +230,6 @@
    "charge": "Charges:",
    "more": 4,
    "ts": 1793488637,
-   "photo": null
-  },
-  {
-   "key": "KEN_LARSON_JAMESON_2026-00006018",
-   "name": "Jameson Robert Larson",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793487490,
-   "photo": "photos/KEN_LARSON_JAMESON_2026-00006018.jpg"
-  },
-  {
-   "key": "KEN_GASCOIGNE_WALTER_2026-00006016",
-   "name": "Walter Joseph Gascoigne",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793487420,
-   "photo": "photos/KEN_GASCOIGNE_WALTER_2026-00006016.jpg"
-  },
-  {
-   "key": "KEN_CAMPBELL_LEE_2026-00006017",
-   "name": "LEE ARTHUR Junior CAMPBELL",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793487351,
-   "photo": "photos/KEN_CAMPBELL_LEE_2026-00006017.jpg"
-  },
-  {
-   "key": "RC_SANDERS_KYLE_120011075789202",
-   "name": "Kyle W Sanders",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793486877,
-   "photo": "photos/RC_SANDERS_KYLE_120011075789202.jpg"
-  },
-  {
-   "key": "RC_HOPPE_CASSANDRA_120011075789287",
-   "name": "Cassandra Shannon Hoppe",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793486875,
    "photo": null
   },
   {
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793413620,
    "photo": null
-  },
-  {
-   "key": "MAR_BOHMAN_FRANK_2026-10-30",
-   "name": "Frank Lee Bohman",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793411753,
-   "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30.jpg"
   }
  ]
 }
