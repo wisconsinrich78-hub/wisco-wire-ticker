@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T11:57:43+00:00",
+ "updated": "2026-11-01T12:49:26+00:00",
  "items": [
+  {
+   "key": "RC_DIAZHERNANDEZ_ADOLFO_120011075804585",
+   "name": "Adolfo Diaz-Hernandez",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793537269,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREYRA_EDUARDO_648076",
+   "name": "Eduardo Daniel Pereyra",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793536064,
+   "photo": null
+  },
+  {
+   "key": "MKE_MUHAMMAD_BAITH_648077",
+   "name": "Baith Allah Muhammad",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793536063,
+   "photo": null
+  },
+  {
+   "key": "MKE_MINTER_TROY_509870",
+   "name": "Troy L Minter",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793536061,
+   "photo": null
+  },
   {
    "key": "MAR_SANDOVALPENA_JORDAN_2026-11-01",
    "name": "Jordan Aaron Sandoval Pena",
@@ -65,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793530650,
-   "photo": null
+   "photo": "photos/MKE_REED_DEASHUN_648073.jpg"
   },
   {
    "key": "MKE_NELSON_QUAZAHN_648074",
@@ -244,28 +288,6 @@
    "photo": null
   },
   {
-   "key": "RC_BELL_JUWON_120011075800736",
-   "name": "Juwon Darsal Bell",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793526472,
-   "photo": "photos/RC_BELL_JUWON_120011075800736.jpg"
-  },
-  {
-   "key": "RC_ALLEN_AAILANDAE_120011075801185",
-   "name": "Aailandae D Allen",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793526470,
-   "photo": null
-  },
-  {
    "key": "HOU_HUNT_TYRELLALLEN_6318",
    "name": "Tyrell Allen Hunt",
    "age": "28",
@@ -286,28 +308,6 @@
    "more": 0,
    "ts": 1793526429,
    "photo": "photos/HOU_GRASSMAN_SHAWNALEE_6316.jpg"
-  },
-  {
-   "key": "MKE_YOUNG_QUENTIN_406900",
-   "name": "Quentin Lamont Young",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793525254,
-   "photo": "photos/MKE_YOUNG_QUENTIN_406900.jpg"
-  },
-  {
-   "key": "MKE_TOSCANO_JOVANY_648071",
-   "name": "Jovany Toscano",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793525253,
-   "photo": "photos/MKE_TOSCANO_JOVANY_648071.jpg"
   },
   {
    "key": "DAVIS_DESMOND_2026-11-01",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "RC_DIAZHERNANDEZ_ADOLFO_120011075804585",
+   "name": "Adolfo Diaz-Hernandez",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793537269,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREYRA_EDUARDO_648076",
+   "name": "Eduardo Daniel Pereyra",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793536064,
+   "photo": null
+  },
+  {
+   "key": "MKE_MUHAMMAD_BAITH_648077",
+   "name": "Baith Allah Muhammad",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793536063,
+   "photo": null
+  },
+  {
+   "key": "MKE_MINTER_TROY_509870",
+   "name": "Troy L Minter",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793536061,
+   "photo": null
+  },
+  {
    "key": "MAR_SANDOVALPENA_JORDAN_2026-11-01",
    "name": "Jordan Aaron Sandoval Pena",
    "age": "19",
@@ -595,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793530650,
-   "photo": null
+   "photo": "photos/MKE_REED_DEASHUN_648073.jpg"
   },
   {
    "key": "MKE_NELSON_QUAZAHN_648074",
