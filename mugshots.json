@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T15:58:03+00:00",
+ "updated": "2026-11-01T16:49:27+00:00",
  "items": [
+  {
+   "key": "SCHMALENBERG_MELISSA_2026-11-01",
+   "name": "Melissa M Schmalenberg",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793551626,
+   "photo": null
+  },
   {
    "key": "MKE_LYNKLEMONS_AMARI_648078",
    "name": "Amari V Lynk-Lemons",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1793510227,
    "photo": null
-  },
-  {
-   "key": "FDL_BUTLER_DEVIN_2026-11-01",
-   "name": "Devin J Butler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1793510168,
-   "photo": "photos/FDL_BUTLER_DEVIN_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "SCHMALENBERG_MELISSA_2026-11-01",
+   "name": "Melissa M Schmalenberg",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793551626,
+   "photo": null
+  },
   {
    "key": "MKE_LYNKLEMONS_AMARI_648078",
    "name": "Amari V Lynk-Lemons",
@@ -5062,61 +5073,6 @@
    "more": 0,
    "ts": 1793294193,
    "photo": "photos/FDL_JOHNSON_KESHAWN_2026-10-29.jpg"
-  },
-  {
-   "key": "MKE_WHITAKER_LARRY_643722",
-   "name": "Larry Whitaker",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Reckless Injury",
-   "more": 2,
-   "ts": 1793291303,
-   "photo": "photos/MKE_WHITAKER_LARRY_643722.jpg"
-  },
-  {
-   "key": "MKE_LANGTIW_EMILY_642345",
-   "name": "Emily Rose Langtiw",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 0,
-   "ts": 1793291301,
-   "photo": "photos/MKE_LANGTIW_EMILY_642345.jpg"
-  },
-  {
-   "key": "MKE_FINCHIS_TAEVION_641315",
-   "name": "Taevion Valentino Finchis",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess Dangerous Weapon-Person < 18",
-   "more": 3,
-   "ts": 1793291299,
-   "photo": "photos/MKE_FINCHIS_TAEVION_641315.jpg"
-  },
-  {
-   "key": "MKE_ELLIS_KARDEAIR_641759",
-   "name": "Kardeair E. Ellis",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery to an Elder Person - Intend Bodily Harm",
-   "more": 0,
-   "ts": 1793291297,
-   "photo": "photos/MKE_ELLIS_KARDEAIR_641759.jpg"
-  },
-  {
-   "key": "MKE_ANTUNEZJIMENEZ_MIGUELANGEL_648034",
-   "name": "Miguelangel R Antunez Jimenez",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793291295,
-   "photo": "photos/MKE_ANTUNEZJIMENEZ_MIGUELANGEL_648034.jpg"
   }
  ]
 }
