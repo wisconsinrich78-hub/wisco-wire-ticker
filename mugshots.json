@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T17:01:12+00:00",
+ "updated": "2026-11-01T17:27:57+00:00",
  "items": [
+  {
+   "key": "MKE_GEROWJIMENEZ_SHYLA_625748",
+   "name": "Shyla Gerow-Jimenez",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793554055,
+   "photo": null
+  },
   {
    "key": "SCHMALENBERG_MELISSA_2026-11-01",
    "name": "Melissa M Schmalenberg",
@@ -253,17 +264,6 @@
    "more": 1,
    "ts": 1793536063,
    "photo": "photos/MKE_MUHAMMAD_BAITH_648077.jpg"
-  },
-  {
-   "key": "MKE_MINTER_TROY_509870",
-   "name": "Troy L Minter",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793536061,
-   "photo": "photos/MKE_MINTER_TROY_509870.jpg"
   },
   {
    "key": "MAR_SANDOVALPENA_JORDAN_2026-11-01",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_GEROWJIMENEZ_SHYLA_625748",
+   "name": "Shyla Gerow-Jimenez",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793554055,
+   "photo": null
+  },
   {
    "key": "SCHMALENBERG_MELISSA_2026-11-01",
    "name": "Melissa M Schmalenberg",
@@ -5051,28 +5062,6 @@
    "more": 3,
    "ts": 1793294878,
    "photo": "photos/MKE_AUSTIN_REGINALD_401099.jpg"
-  },
-  {
-   "key": "DOU_VALENTINE_MICHAEL_2026-10-29",
-   "name": "Michael P Valentine",
-   "age": "49",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793294233,
-   "photo": null
-  },
-  {
-   "key": "FDL_JOHNSON_KESHAWN_2026-10-29",
-   "name": "Keshawn Jimmy Johnson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793294193,
-   "photo": "photos/FDL_JOHNSON_KESHAWN_2026-10-29.jpg"
   }
  ]
 }
