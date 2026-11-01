@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T19:57:44+00:00",
+ "updated": "2026-11-01T20:27:42+00:00",
  "items": [
+  {
+   "key": "PRINZ_JASON_2026-11-01",
+   "name": "Jason B Prinz",
+   "age": "57",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Theft-Movable Property >$10,000",
+   "more": 0,
+   "ts": 1793564824,
+   "photo": null
+  },
+  {
+   "key": "FDL_GREEN_DARRELL_2026-11-01",
+   "name": "Darrell Bonnell Green",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793564209,
+   "photo": "photos/FDL_GREEN_DARRELL_2026-11-01.jpg"
+  },
+  {
+   "key": "MKE_EDWARDS_JOSHUA_420296",
+   "name": "Joshua Curtis Edwards",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793563087,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALEXANDER_COLIN_501948",
+   "name": "Colin T Alexander",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793563085,
+   "photo": null
+  },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01",
    "name": "Roger Allen Kennedy",
@@ -40,8 +84,8 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793559479,
    "photo": null
   },
@@ -220,28 +264,6 @@
    "more": 0,
    "ts": 1793546852,
    "photo": "photos/MKE_JONES_LAQUIECA_407009.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZWILSON_JORGE_534241",
-   "name": "Jorge Luis Gonzalez-Wilson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793546851,
-   "photo": "photos/MKE_GONZALEZWILSON_JORGE_534241.jpg"
-  },
-  {
-   "key": "KEN_PERRONI_JOSEPH_2026-00006040",
-   "name": "Joseph John Perroni",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793545112,
-   "photo": "photos/KEN_PERRONI_JOSEPH_2026-00006040.jpg"
   },
   {
    "key": "MAR_SOSA_SAUL_2026-11-01",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1793520963,
    "photo": null
-  },
-  {
-   "key": "FDL_BALL_AMON_2026-11-01",
-   "name": "Amon Kevontae Ball",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793520962,
-   "photo": "photos/FDL_BALL_AMON_2026-11-01.jpg"
-  },
-  {
-   "key": "FDL_FANNAN_VERONICA_2026-11-01",
-   "name": "Veronica Beth Fannan",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793517374,
-   "photo": "photos/FDL_FANNAN_VERONICA_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "PRINZ_JASON_2026-11-01",
+   "name": "Jason B Prinz",
+   "age": "57",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Theft-Movable Property >$10,000",
+   "more": 0,
+   "ts": 1793564824,
+   "photo": null
+  },
+  {
+   "key": "FDL_GREEN_DARRELL_2026-11-01",
+   "name": "Darrell Bonnell Green",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793564209,
+   "photo": "photos/FDL_GREEN_DARRELL_2026-11-01.jpg"
+  },
+  {
+   "key": "MKE_EDWARDS_JOSHUA_420296",
+   "name": "Joshua Curtis Edwards",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793563087,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALEXANDER_COLIN_501948",
+   "name": "Colin T Alexander",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793563085,
+   "photo": null
+  },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01",
    "name": "Roger Allen Kennedy",
@@ -570,8 +614,8 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793559479,
    "photo": null
   },
