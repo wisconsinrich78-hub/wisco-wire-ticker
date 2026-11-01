@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T02:57:25+00:00",
+ "updated": "2026-11-01T03:28:18+00:00",
  "items": [
+  {
+   "key": "KEN_ZOERNER_NICHOLAS_2026-00006026",
+   "name": "Nicholas M Zoerner",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793501978,
+   "photo": "photos/KEN_ZOERNER_NICHOLAS_2026-00006026.jpg"
+  },
+  {
+   "key": "KEN_GORDON_MICHAEL_2026-00006027",
+   "name": "Michael Javor Gordon",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793501872,
+   "photo": "photos/KEN_GORDON_MICHAEL_2026-00006027.jpg"
+  },
+  {
+   "key": "MKE_WILSON_JAMES_615101",
+   "name": "James Calvin Wilson",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1793501858,
+   "photo": null
+  },
   {
    "key": "KEN_BENNING_DUSTIN_2026-00006028",
    "name": "Dustin Charles Benning",
@@ -29,7 +62,7 @@
    "age": "56",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Misd",
    "more": 0,
    "ts": 1793498383,
    "photo": "photos/KEN_HENLEY_CHARLIE_2026-00006025.jpg"
@@ -40,7 +73,7 @@
    "age": "76",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793498304,
    "photo": "photos/KEN_DIAMOND_DONALD_2026-00006024.jpg"
@@ -161,43 +194,10 @@
    "age": "64",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793494731,
    "photo": "photos/KEN_NIGHTINGALE_WILLIAM_2026-00006021.jpg"
-  },
-  {
-   "key": "KEN_DANIEL_DERRICK_2026-00006022",
-   "name": "DERRICK DAREL Senior DANIEL",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793494617,
-   "photo": "photos/KEN_DANIEL_DERRICK_2026-00006022.jpg"
-  },
-  {
-   "key": "RC_WALKER_CHRISTOPHER_120011075791571",
-   "name": "Christopher A Walker",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793494092,
-   "photo": "photos/RC_WALKER_CHRISTOPHER_120011075791571.jpg"
-  },
-  {
-   "key": "RC_ROBINSON_ROBERT_120011075791653",
-   "name": "Robert Ivan Robinson",
-   "age": "69",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793494088,
-   "photo": "photos/RC_ROBINSON_ROBERT_120011075791653.jpg"
   },
   {
    "key": "MONTGOMERY_TODD_2026-10-31",
