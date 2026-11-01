@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T06:49:28+00:00",
+ "updated": "2026-11-01T07:27:55+00:00",
  "items": [
+  {
+   "key": "FDL_FANNAN_VERONICA_2026-11-01",
+   "name": "Veronica Beth Fannan",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793517374,
+   "photo": "photos/FDL_FANNAN_VERONICA_2026-11-01.jpg"
+  },
+  {
+   "key": "MKE_LEGGINS_TANIA_648067",
+   "name": "Tania Naiyeh Leggins",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793516251,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANTUNEZMATUTE_CHRISTIAN_648066",
+   "name": "Christian Y Antunez Matute",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793516250,
+   "photo": null
+  },
+  {
+   "key": "KEN_ATILANO_JUAN_2026-00006032",
+   "name": "Juan Alberto Atilano",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793516183,
+   "photo": "photos/KEN_ATILANO_JUAN_2026-00006032.jpg"
+  },
   {
    "key": "RC_BOYKIN_SAMARION_120011075798331",
    "name": "Samarion Ji'shaun Boykin",
@@ -76,7 +120,7 @@
    "charge": "Trespass-Buildings/Premises",
    "more": 4,
    "ts": 1793510856,
-   "photo": null
+   "photo": "photos/MKE_PAYNE_SIRHINESS_648064.jpg"
   },
   {
    "key": "IBE_MALIKI_2026-11-01",
@@ -209,39 +253,6 @@
    "more": 0,
    "ts": 1793501872,
    "photo": "photos/KEN_GORDON_MICHAEL_2026-00006027.jpg"
-  },
-  {
-   "key": "MKE_WILSON_JAMES_615101",
-   "name": "James Calvin Wilson",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1793501858,
-   "photo": "photos/MKE_WILSON_JAMES_615101.jpg"
-  },
-  {
-   "key": "KEN_BENNING_DUSTIN_2026-00006028",
-   "name": "Dustin Charles Benning",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Child Pornography",
-   "more": 0,
-   "ts": 1793501761,
-   "photo": "photos/KEN_BENNING_DUSTIN_2026-00006028.jpg"
-  },
-  {
-   "key": "RC_ROBERTS_MATTHEW_120011075794853",
-   "name": "Matthew R Roberts",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793501273,
-   "photo": null
   },
   {
    "key": "MAR_DUNLAP_DIONTE_2026-10-31_34023",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793440030,
    "photo": "photos/TREM_CALLENDER_TIMOTHY_4981.jpg"
-  },
-  {
-   "key": "MAR_BERENS_AIDEN_2026-10-31",
-   "name": "Aiden Russell Berens",
-   "age": "17",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 0,
-   "ts": 1793436915,
-   "photo": null
   }
  ]
 }
