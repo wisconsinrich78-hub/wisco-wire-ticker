@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T21:28:16+00:00",
+ "updated": "2026-11-02T21:49:32+00:00",
  "items": [
+  {
+   "key": "RC_HUGHES_JESSICA_120011075854794",
+   "name": "Jessica James Hughes",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793656084,
+   "photo": "photos/RC_HUGHES_JESSICA_120011075854794.jpg"
+  },
+  {
+   "key": "RC_COATES_CAMARRI_120011075855820",
+   "name": "Camarri Marcell Coates",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793656081,
+   "photo": "photos/RC_COATES_CAMARRI_120011075855820.jpg"
+  },
   {
    "key": "MKE_TORRES_JESSE_648100",
    "name": "Jesse Blake Torres",
@@ -84,7 +106,7 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Disorderly Conduct",
    "more": 2,
    "ts": 1793651260,
    "photo": null
@@ -95,7 +117,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "charge": "Habitual Criminality",
    "more": 7,
    "ts": 1793651258,
    "photo": null
@@ -175,28 +197,6 @@
    "charge": "Possess w/ Intent-THC (>1000-2500 grams)",
    "more": 3,
    "ts": 1793649557,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_JADEAN_619483",
-   "name": "JaDean Capone Davis",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run",
-   "more": 9,
-   "ts": 1793649555,
-   "photo": null
-  },
-  {
-   "key": "MKE_BIVENS_JESSE_622015",
-   "name": "Jesse Allen Bivens",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>15-40g)",
-   "more": 0,
-   "ts": 1793649553,
    "photo": null
   },
   {
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "RC_HUGHES_JESSICA_120011075854794",
+   "name": "Jessica James Hughes",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793656084,
+   "photo": "photos/RC_HUGHES_JESSICA_120011075854794.jpg"
+  },
+  {
+   "key": "RC_COATES_CAMARRI_120011075855820",
+   "name": "Camarri Marcell Coates",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793656081,
+   "photo": "photos/RC_COATES_CAMARRI_120011075855820.jpg"
+  },
+  {
    "key": "MKE_TORRES_JESSE_648100",
    "name": "Jesse Blake Torres",
    "age": "22",
@@ -614,7 +636,7 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Disorderly Conduct",
    "more": 2,
    "ts": 1793651260,
    "photo": null
@@ -625,7 +647,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "charge": "Habitual Criminality",
    "more": 7,
    "ts": 1793651258,
    "photo": null
@@ -713,7 +735,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Hit and Run",
+   "charge": "Habitual Criminality",
    "more": 9,
    "ts": 1793649555,
    "photo": null
@@ -1021,7 +1043,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery",
+   "charge": "Domestic Abuse Surcharges",
    "more": 6,
    "ts": 1793638703,
    "photo": null
@@ -4929,28 +4951,6 @@
    "charge": "Counterfeit Certificate Of Title",
    "more": 1,
    "ts": 1793397372,
-   "photo": null
-  },
-  {
-   "key": "RC_HARTMAN_DAVID_120011075762681",
-   "name": "David Sean Hartman",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793396882,
-   "photo": null
-  },
-  {
-   "key": "RC_BLOUNT_EMANI_120011075763747",
-   "name": "Emani A Blount",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793396880,
    "photo": null
   }
  ]
