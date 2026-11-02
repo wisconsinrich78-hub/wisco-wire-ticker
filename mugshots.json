@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T23:49:27+00:00",
+ "updated": "2026-11-02T23:56:56+00:00",
  "items": [
+  {
+   "key": "KEN_JONES_JAMIRE_2026-00006060",
+   "name": "Jamire L Jones",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793663637,
+   "photo": null
+  },
   {
    "key": "LUOMA_BENJAMIN_2026-11-02",
    "name": "Benjamin R Luoma",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1793652863,
    "photo": "photos/KEN_IRBY_BOBBY_2026-00006058.jpg"
-  },
-  {
-   "key": "RC_CONNER_BRITTANY_120011075852414",
-   "name": "Brittany J Conner",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793652470,
-   "photo": "photos/RC_CONNER_BRITTANY_120011075852414.jpg"
   },
   {
    "key": "ABSTON_DANIEL_2026-11-02",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_JONES_JAMIRE_2026-00006060",
+   "name": "Jamire L Jones",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793663637,
+   "photo": null
+  },
   {
    "key": "LUOMA_BENJAMIN_2026-11-02",
    "name": "Benjamin R Luoma",
@@ -4897,39 +4908,6 @@
    "more": 0,
    "ts": 1793404670,
    "photo": "photos/MKE_MALONE_JASAVION_618926.jpg"
-  },
-  {
-   "key": "KEN_TORRES_VANESSA_2026-00006004",
-   "name": "Vanessa M Torres",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 0,
-   "ts": 1793404485,
-   "photo": "photos/KEN_TORRES_VANESSA_2026-00006004.jpg"
-  },
-  {
-   "key": "KEN_SHERRON_CAROL_2026-00006005",
-   "name": "Carol Helen Sherron",
-   "age": "65",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1793404448,
-   "photo": null
-  },
-  {
-   "key": "KEN_OKEEFE_RHYS_2026-00006003",
-   "name": "Rhys Katryn Okeefe",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Disobey Order",
-   "more": 0,
-   "ts": 1793404413,
-   "photo": null
   }
  ]
 }
