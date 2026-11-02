@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T12:49:27+00:00",
+ "updated": "2026-11-02T12:57:34+00:00",
  "items": [
+  {
+   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
+   "name": "Christian Ivan Genchi Zamora",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 2,
+   "ts": 1793624138,
+   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004.jpg"
+  },
   {
    "key": "MKE_THOMAS_DEVIN_352263",
    "name": "Devin Devon Thomas",
@@ -508,17 +519,6 @@
    "photo": "photos/MAR_TOLPPI_SYDNEY_2026-11-01_1740901.jpg"
   },
   {
-   "key": "MAR_TOLPPI_SYDNEY_2026-11-01",
-   "name": "Sydney Renee Tolppi",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1793541331,
-   "photo": null
-  },
-  {
    "key": "HOU_WEAVER_RYANMATTHEW_6320",
    "name": "Ryan Matthew Weaver",
    "age": "36",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
+   "name": "Christian Ivan Genchi Zamora",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 2,
+   "ts": 1793624138,
+   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004.jpg"
+  },
   {
    "key": "MKE_THOMAS_DEVIN_352263",
    "name": "Devin Devon Thomas",
@@ -4721,17 +4732,6 @@
    "more": 4,
    "ts": 1793365056,
    "photo": "photos/MKE_ASHFORD_SEVILLE_401310.jpg"
-  },
-  {
-   "key": "MAR_GOLOMB_MICHAEL_2026-10-30",
-   "name": "Michael James Golomb",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793364982,
-   "photo": "photos/MAR_GOLOMB_MICHAEL_2026-10-30.jpg"
   }
  ]
 }
