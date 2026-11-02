@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T02:57:52+00:00",
+ "updated": "2026-11-02T03:49:37+00:00",
  "items": [
+  {
+   "key": "RC_JOHNSON_VANCE_120011075824481",
+   "name": "Vance L Johnson",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Burglary - Building Or Dwelling",
+   "more": 4,
+   "ts": 1793591274,
+   "photo": "photos/RC_JOHNSON_VANCE_120011075824481.jpg"
+  },
+  {
+   "key": "RC_JOHNSON_CAROLINE_120011075824354",
+   "name": "Caroline Tashaundra Johnson",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Burglary - Building Or Dwelling",
+   "more": 4,
+   "ts": 1793591271,
+   "photo": "photos/RC_JOHNSON_CAROLINE_120011075824354.jpg"
+  },
+  {
+   "key": "MKE_REDMOND_LEON_648085",
+   "name": "Leon Albert Redmond",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793590062,
+   "photo": null
+  },
+  {
+   "key": "SWEENEY_ERIC_2026-11-01",
+   "name": "Eric J Sweeney",
+   "age": "52",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793590024,
+   "photo": null
+  },
+  {
+   "key": "DOU_WUORINEN_ROBERT_2026-11-01",
+   "name": "Robert R Wuorinen",
+   "age": "47",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1793589444,
+   "photo": "photos/DOU_WUORINEN_ROBERT_2026-11-01.jpg"
+  },
   {
    "key": "KEN_POLK_THOMAS_2026-00006049",
    "name": "Thomas Alan Polk",
@@ -40,8 +95,8 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793586465,
    "photo": null
   },
@@ -186,39 +241,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793579274,
-   "photo": null
-  },
-  {
-   "key": "KEN_MCKEE_WAYNE_2026-00006045",
-   "name": "Wayne Michael Mckee",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (1St)",
-   "more": 0,
-   "ts": 1793577327,
-   "photo": "photos/KEN_MCKEE_WAYNE_2026-00006045.jpg"
-  },
-  {
-   "key": "RC_CHRISTENSEN_MILTON_120011075817627",
-   "name": "Milton John Christensen",
-   "age": "71",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1793576880,
-   "photo": "photos/RC_CHRISTENSEN_MILTON_120011075817627.jpg"
-  },
-  {
-   "key": "MKE_BROWN_LAMONT_631938",
-   "name": "Lamont Leon Brown",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793575661,
    "photo": null
   },
   {
@@ -464,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "DOU_SCHULTIES_GORDON_2026-11-01",
-   "name": "Gordon R Schulties",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793531758,
-   "photo": null
-  },
-  {
    "key": "TREM_WESTVIK_TIMOTHY_6200",
    "name": "Timothy Gene Westvik",
    "age": "45",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1793526429,
    "photo": "photos/HOU_GRASSMAN_SHAWNALEE_6316.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "RC_JOHNSON_VANCE_120011075824481",
+   "name": "Vance L Johnson",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Burglary - Building Or Dwelling",
+   "more": 4,
+   "ts": 1793591274,
+   "photo": "photos/RC_JOHNSON_VANCE_120011075824481.jpg"
   },
   {
-   "key": "DAVIS_DESMOND_2026-11-01",
-   "name": "Desmond W Davis",
-   "age": "41",
+   "key": "RC_JOHNSON_CAROLINE_120011075824354",
+   "name": "Caroline Tashaundra Johnson",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Burglary - Building Or Dwelling",
+   "more": 4,
+   "ts": 1793591271,
+   "photo": "photos/RC_JOHNSON_CAROLINE_120011075824354.jpg"
+  },
+  {
+   "key": "MKE_REDMOND_LEON_648085",
+   "name": "Leon Albert Redmond",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793590062,
+   "photo": null
+  },
+  {
+   "key": "SWEENEY_ERIC_2026-11-01",
+   "name": "Eric J Sweeney",
+   "age": "52",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "",
    "more": 0,
-   "ts": 1793525219,
+   "ts": 1793590024,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "DOU_WUORINEN_ROBERT_2026-11-01",
+   "name": "Robert R Wuorinen",
+   "age": "47",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1793589444,
+   "photo": "photos/DOU_WUORINEN_ROBERT_2026-11-01.jpg"
+  },
   {
    "key": "KEN_POLK_THOMAS_2026-00006049",
    "name": "Thomas Alan Polk",
@@ -570,8 +625,8 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793586465,
    "photo": null
   },
@@ -771,7 +826,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793573857,
-   "photo": null
+   "photo": "photos/MKE_ULLAH_RAY_632536.jpg"
   },
   {
    "key": "MKE_ROCKWELL_TODD_623387",
@@ -848,7 +903,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793570278,
-   "photo": null
+   "photo": "photos/MKE_HAMILTON_SHAYLA_630889.jpg"
   },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
@@ -4688,28 +4743,6 @@
    "more": 4,
    "ts": 1793332601,
    "photo": "photos/MAR_RATTANASACK_KHAM_2026-10-29.jpg"
-  },
-  {
-   "key": "MERCADO_DAMON_2026-10-29",
-   "name": "Damon B Mercado",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793330830,
-   "photo": null
-  },
-  {
-   "key": "GONYIER_DENISE_2026-10-29",
-   "name": "Denise M Gonyier",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793330829,
-   "photo": null
   }
  ]
 }
