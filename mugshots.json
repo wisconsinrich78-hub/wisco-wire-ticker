@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T14:58:14+00:00",
+ "updated": "2026-11-02T15:49:33+00:00",
  "items": [
+  {
+   "key": "RC_FREEMAN_ADARIAN_120011075838985",
+   "name": "Adarian E Freeman",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793634470,
+   "photo": null
+  },
+  {
+   "key": "WILSON_SHAWN_2026-11-02",
+   "name": "Shawn Larry Wilson",
+   "age": "48",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1793634426,
+   "photo": null
+  },
+  {
+   "key": "OLSON_RONALD_2026-11-02",
+   "name": "Ronald A Olson",
+   "age": "43",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1793634425,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_MICHAEL_635979",
+   "name": "Michael A Carter",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793633256,
+   "photo": null
+  },
   {
    "key": "MAR_WEIL_DONNA_2026-11-02_942301",
    "name": "Donna M Weil",
@@ -98,7 +142,7 @@
    "charge": "Criminal Damage to Property",
    "more": 3,
    "ts": 1793624257,
-   "photo": null
+   "photo": "photos/MKE_CAMERON_JERMAINE_335273.jpg"
   },
   {
    "key": "MKE_CAIN_STEFAN_234350",
@@ -253,28 +297,6 @@
    "more": 3,
    "ts": 1793606260,
    "photo": "photos/MKE_WESTBROOK_ELIJAH_648087.jpg"
-  },
-  {
-   "key": "MKE_RAYOPAGUADA_LURIEX_648088",
-   "name": "Luriex Rayo-Paguada",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793606258,
-   "photo": "photos/MKE_RAYOPAGUADA_LURIEX_648088.jpg"
-  },
-  {
-   "key": "MKE_BOOTH_SHAUN_383863",
-   "name": "Shaun Robert Booth",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793606256,
-   "photo": "photos/MKE_BOOTH_SHAUN_383863.jpg"
   },
   {
    "key": "DOU_BELWOOD_ANNA_2026-11-01",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1793562912,
    "photo": "photos/MAR_OLDS_KYLELEY_2026-11-01_1472202.jpg"
-  },
-  {
-   "key": "HAYES_BAILEY_2026-11-01",
-   "name": "Bailey Lynn Hayes",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793557619,
-   "photo": null
-  },
-  {
-   "key": "MAR_BUGGS_ALLAH_2026-11-01_2662201",
-   "name": "Allah Koran Buggs",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1793555764,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FREEMAN_ADARIAN_120011075838985",
+   "name": "Adarian E Freeman",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793634470,
+   "photo": null
+  },
+  {
+   "key": "WILSON_SHAWN_2026-11-02",
+   "name": "Shawn Larry Wilson",
+   "age": "48",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1793634426,
+   "photo": null
+  },
+  {
+   "key": "OLSON_RONALD_2026-11-02",
+   "name": "Ronald A Olson",
+   "age": "43",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1793634425,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_MICHAEL_635979",
+   "name": "Michael A Carter",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793633256,
+   "photo": null
+  },
   {
    "key": "MAR_WEIL_DONNA_2026-11-02_942301",
    "name": "Donna M Weil",
@@ -628,7 +672,7 @@
    "charge": "Criminal Damage to Property",
    "more": 3,
    "ts": 1793624257,
-   "photo": null
+   "photo": "photos/MKE_CAMERON_JERMAINE_335273.jpg"
   },
   {
    "key": "MKE_CAIN_STEFAN_234350",
@@ -4732,17 +4776,6 @@
    "more": 0,
    "ts": 1793375707,
    "photo": "photos/MAR_COOPER_CAMRY_2026-10-30.jpg"
-  },
-  {
-   "key": "FDL_GUZMAN_GUSTAVO_2026-10-30",
-   "name": "Gustavo F Guzman",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793373383,
-   "photo": null
   }
  ]
 }
