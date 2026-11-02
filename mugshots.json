@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-02T16:49:32+00:00",
+ "updated": "2026-11-02T17:27:59+00:00",
  "items": [
+  {
+   "key": "MKE_CAPPEL_JODI_648095",
+   "name": "Jodi L Cappel",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793640464,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARNOLD_DANTRELL_283952",
+   "name": "Dantrell Tremone Arnold",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793640462,
+   "photo": null
+  },
+  {
+   "key": "JACKSON_RENADO_2026-11-02",
+   "name": "Renado Jackson",
+   "age": "62",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Serving A Sentence Without Huber",
+   "more": 0,
+   "ts": 1793640421,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILEY_KAHMANI_636727",
+   "name": "Kahmani Amir Josiah Wiley",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793638703,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREZ_KEJUAN_614134",
+   "name": "Kejuan Vito Perez",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 0,
+   "ts": 1793638697,
+   "photo": null
+  },
+  {
+   "key": "MKE_KARLIK_ALISSA_648094",
+   "name": "Alissa Jo Karlik",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793638694,
+   "photo": null
+  },
+  {
+   "key": "MAR_HINZ_COURTNEY_2026-11-02_17016001",
+   "name": "Courtney Hinz",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1793638585,
+   "photo": "photos/MAR_HINZ_COURTNEY_2026-11-02_17016001.jpg"
+  },
   {
    "key": "LIMESTAHL_TODD_2026-11-02",
    "name": "Todd W Limestahl",
@@ -32,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793635095,
-   "photo": null
+   "photo": "photos/MKE_SHAW_XAVIER_409660.jpg"
   },
   {
    "key": "MKE_MCKINNEY_BRIAN_340284",
@@ -40,8 +117,8 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793635092,
    "photo": null
   },
@@ -54,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793635090,
-   "photo": null
+   "photo": "photos/MKE_MARTIN_BRANDON_354926.jpg"
   },
   {
    "key": "MAR_HINZ_COURTNEY_2026-11-02",
@@ -255,17 +332,6 @@
    "photo": "photos/MKE_SHAFFER_NITTKEA_412078.jpg"
   },
   {
-   "key": "MKE_GROVER_PENNY_648093",
-   "name": "Penny T Grover",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793617058,
-   "photo": "photos/MKE_GROVER_PENNY_648093.jpg"
-  },
-  {
    "key": "TREM_BAUTCH_ASHTON_5402",
    "name": "Ashton Michael Bautch",
    "age": "23",
@@ -275,50 +341,6 @@
    "more": 0,
    "ts": 1793616428,
    "photo": "photos/TREM_BAUTCH_ASHTON_5402.jpg"
-  },
-  {
-   "key": "MKE_MITCHELL_QUILINDA_648092",
-   "name": "Quilinda L Mitchell",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793613449,
-   "photo": "photos/MKE_MITCHELL_QUILINDA_648092.jpg"
-  },
-  {
-   "key": "KEN_KAZEE_IZIAH_2026-00006053",
-   "name": "Iziah Jermainejames Kazee",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Suspended",
-   "more": 1,
-   "ts": 1793613271,
-   "photo": "photos/KEN_KAZEE_IZIAH_2026-00006053.jpg"
-  },
-  {
-   "key": "MKE_WYDERKA_MARA_648091",
-   "name": "Mara Lynn Wyderka",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793611660,
-   "photo": "photos/MKE_WYDERKA_MARA_648091.jpg"
-  },
-  {
-   "key": "MKE_REDMOND_NERINDA_648090",
-   "name": "Nerinda J Redmond",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793611657,
-   "photo": "photos/MKE_REDMOND_NERINDA_648090.jpg"
   },
   {
    "key": "FDL_FRASE_VICTORIA_2026-11-02",
@@ -506,31 +528,86 @@
    "more": 0,
    "ts": 1793567809,
    "photo": "photos/FDL_RAMAGE_DANIEL_2026-11-01.jpg"
-  },
-  {
-   "key": "MAR_WILLIAMS_CHANTELL_2026-10-31_17033901",
-   "name": "Chantell Ladon Williams",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Aggravated Battery Or Threat To Judge, Prosecutor, Or Leo",
-   "more": 1,
-   "ts": 1793566545,
-   "photo": "photos/MAR_WILLIAMS_CHANTELL_2026-10-31_17033901.jpg"
-  },
-  {
-   "key": "PRINZ_JASON_2026-11-01",
-   "name": "Jason B Prinz",
-   "age": "57",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Theft-Movable Property >$10,000",
-   "more": 0,
-   "ts": 1793564824,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CAPPEL_JODI_648095",
+   "name": "Jodi L Cappel",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793640464,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARNOLD_DANTRELL_283952",
+   "name": "Dantrell Tremone Arnold",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793640462,
+   "photo": null
+  },
+  {
+   "key": "JACKSON_RENADO_2026-11-02",
+   "name": "Renado Jackson",
+   "age": "62",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Serving A Sentence Without Huber",
+   "more": 0,
+   "ts": 1793640421,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILEY_KAHMANI_636727",
+   "name": "Kahmani Amir Josiah Wiley",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793638703,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREZ_KEJUAN_614134",
+   "name": "Kejuan Vito Perez",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 0,
+   "ts": 1793638697,
+   "photo": null
+  },
+  {
+   "key": "MKE_KARLIK_ALISSA_648094",
+   "name": "Alissa Jo Karlik",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793638694,
+   "photo": null
+  },
+  {
+   "key": "MAR_HINZ_COURTNEY_2026-11-02_17016001",
+   "name": "Courtney Hinz",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1793638585,
+   "photo": "photos/MAR_HINZ_COURTNEY_2026-11-02_17016001.jpg"
+  },
   {
    "key": "LIMESTAHL_TODD_2026-11-02",
    "name": "Todd W Limestahl",
@@ -562,7 +639,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793635095,
-   "photo": null
+   "photo": "photos/MKE_SHAW_XAVIER_409660.jpg"
   },
   {
    "key": "MKE_MCKINNEY_BRIAN_340284",
@@ -570,8 +647,8 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793635092,
    "photo": null
   },
@@ -584,7 +661,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793635090,
-   "photo": null
+   "photo": "photos/MKE_MARTIN_BRANDON_354926.jpg"
   },
   {
    "key": "MAR_HINZ_COURTNEY_2026-11-02",
@@ -4688,39 +4765,6 @@
    "more": 2,
    "ts": 1793382938,
    "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29_1540403.jpg"
-  },
-  {
-   "key": "MKE_LANIER_JONATHAN_347150",
-   "name": "Jonathan Trevell Lanier",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 26,
-   "ts": 1793381271,
-   "photo": "photos/MKE_LANIER_JONATHAN_347150.jpg"
-  },
-  {
-   "key": "MAR_KLEINSCHMIDT_RYAN_2026-10-30_714106",
-   "name": "Ryan Orin Kleinschmidt",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793379322,
-   "photo": "photos/MAR_KLEINSCHMIDT_RYAN_2026-10-30_714106.jpg"
-  },
-  {
-   "key": "KEN_SNOW_MARQUESE_2026-00005997",
-   "name": "Marquese M Snow",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1793379230,
-   "photo": "photos/KEN_SNOW_MARQUESE_2026-00005997.jpg"
   }
  ]
 }
