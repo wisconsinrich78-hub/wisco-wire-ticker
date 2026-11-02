@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T17:49:29+00:00",
+ "updated": "2026-11-02T17:58:01+00:00",
  "items": [
+  {
+   "key": "KEN_BURKS_AMARE_2026-00006055",
+   "name": "Amare Burks",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793642247,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_BENJAMIN_2026-11-02",
+   "name": "Benjamin Boyd Johnson",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1793642221,
+   "photo": "photos/MAR_JOHNSON_BENJAMIN_2026-11-02.jpg"
+  },
+  {
+   "key": "KEN_BANNISTER_DESTINEY_2026-00006056",
+   "name": "Destiney T Bannister",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793642213,
+   "photo": "photos/KEN_BANNISTER_DESTINEY_2026-00006056.jpg"
+  },
+  {
+   "key": "MAR_ZASTROW_KELSEY_2026-11-02",
+   "name": "Kelsey Cassandra Zastrow",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793642176,
+   "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02.jpg"
+  },
   {
    "key": "BOLSTAD_TRAVIS_2026-11-02",
    "name": "Travis Michael Bolstad",
@@ -321,28 +365,6 @@
    "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004.jpg"
   },
   {
-   "key": "MKE_THOMAS_DEVIN_352263",
-   "name": "Devin Devon Thomas",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1793622460,
-   "photo": "photos/MKE_THOMAS_DEVIN_352263.jpg"
-  },
-  {
-   "key": "MKE_SHAFFER_NITTKEA_412078",
-   "name": "Nittkea A Shaffer",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 5,
-   "ts": 1793622458,
-   "photo": "photos/MKE_SHAFFER_NITTKEA_412078.jpg"
-  },
-  {
    "key": "TREM_BAUTCH_ASHTON_5402",
    "name": "Ashton Michael Bautch",
    "age": "23",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1793570139,
    "photo": "photos/MAR_KENNEDY_ROGER_2026-11-01_6926012.jpg"
-  },
-  {
-   "key": "JONES_RYLEE_2026-11-01",
-   "name": "Rylee J Jones",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1793568426,
-   "photo": null
-  },
-  {
-   "key": "PEAK_ADAM_2026-11-01",
-   "name": "Adam M Peak",
-   "age": "43",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1793568425,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_BURKS_AMARE_2026-00006055",
+   "name": "Amare Burks",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793642247,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_BENJAMIN_2026-11-02",
+   "name": "Benjamin Boyd Johnson",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1793642221,
+   "photo": "photos/MAR_JOHNSON_BENJAMIN_2026-11-02.jpg"
+  },
+  {
+   "key": "KEN_BANNISTER_DESTINEY_2026-00006056",
+   "name": "Destiney T Bannister",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793642213,
+   "photo": "photos/KEN_BANNISTER_DESTINEY_2026-00006056.jpg"
+  },
+  {
+   "key": "MAR_ZASTROW_KELSEY_2026-11-02",
+   "name": "Kelsey Cassandra Zastrow",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793642176,
+   "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02.jpg"
+  },
   {
    "key": "BOLSTAD_TRAVIS_2026-11-02",
    "name": "Travis Michael Bolstad",
@@ -4743,39 +4787,6 @@
    "more": 0,
    "ts": 1793386072,
    "photo": "photos/RC_MENDOZA_RICARDO_120011075759170.jpg"
-  },
-  {
-   "key": "MKE_COMBS_CHARLES_407606",
-   "name": "Charles Edward Combs",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793383068,
-   "photo": "photos/MKE_COMBS_CHARLES_407606.jpg"
-  },
-  {
-   "key": "KEN_GARDNER_STEPHEN_2026-00005998",
-   "name": "STEPHEN ANTON Fourth GARDNER",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1793382968,
-   "photo": "photos/KEN_GARDNER_STEPHEN_2026-00005998.jpg"
-  },
-  {
-   "key": "MAR_RUTZEN_DYLAN_2026-10-29_1540403",
-   "name": "Dylan Randy Rutzen",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 2,
-   "ts": 1793382938,
-   "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29_1540403.jpg"
   }
  ]
 }
