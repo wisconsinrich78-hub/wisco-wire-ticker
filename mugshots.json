@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T15:57:57+00:00",
+ "updated": "2026-11-02T16:27:59+00:00",
  "items": [
+  {
+   "key": "FDL_BEAUGRAND_DAVID_2026-11-02",
+   "name": "David Dean Beaugrand",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793636163,
+   "photo": "photos/FDL_BEAUGRAND_DAVID_2026-11-02.jpg"
+  },
+  {
+   "key": "MKE_SHAW_XAVIER_409660",
+   "name": "Xavier S Shaw",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793635095,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCKINNEY_BRIAN_340284",
+   "name": "Brian Edward Mckinney",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793635092,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTIN_BRANDON_354926",
+   "name": "Brandon Lynell Martin",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793635090,
+   "photo": null
+  },
   {
    "key": "MAR_HINZ_COURTNEY_2026-11-02",
    "name": "Courtney Hinz",
@@ -54,7 +98,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793633256,
-   "photo": null
+   "photo": "photos/MKE_CARTER_MICHAEL_635979.jpg"
   },
   {
    "key": "MAR_WEIL_DONNA_2026-11-02_942301",
@@ -120,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793627859,
-   "photo": null
+   "photo": "photos/MKE_RAMSEY_CARLOS_646132.jpg"
   },
   {
    "key": "MKE_NOWAK_CHANCE_533095",
@@ -186,7 +230,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1793622460,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_DEVIN_352263.jpg"
   },
   {
    "key": "MKE_SHAFFER_NITTKEA_412078",
@@ -194,10 +238,10 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 5,
    "ts": 1793622458,
-   "photo": null
+   "photo": "photos/MKE_SHAFFER_NITTKEA_412078.jpg"
   },
   {
    "key": "MKE_GROVER_PENNY_648093",
@@ -275,39 +319,6 @@
    "more": 3,
    "ts": 1793610978,
    "photo": "photos/FDL_FRASE_VICTORIA_2026-11-02.jpg"
-  },
-  {
-   "key": "KEN_MADRIZ_ELBA_2026-00006052",
-   "name": "Elba Milagros Madriz",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 0,
-   "ts": 1793609796,
-   "photo": "photos/KEN_MADRIZ_ELBA_2026-00006052.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_DEVIN_648089",
-   "name": "Devin Montel Johnson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793608065,
-   "photo": "photos/MKE_JOHNSON_DEVIN_648089.jpg"
-  },
-  {
-   "key": "MKE_WESTBROOK_ELIJAH_648087",
-   "name": "Elijah Jatavion Westbrook",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793606260,
-   "photo": "photos/MKE_WESTBROOK_ELIJAH_648087.jpg"
   },
   {
    "key": "DOU_BELWOOD_ANNA_2026-11-01",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1793564209,
    "photo": "photos/FDL_GREEN_DARRELL_2026-11-01.jpg"
-  },
-  {
-   "key": "MAR_KENNEDY_ROGER_2026-11-01",
-   "name": "Roger Allen Kennedy",
-   "age": "69",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793562952,
-   "photo": "photos/MAR_KENNEDY_ROGER_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_BEAUGRAND_DAVID_2026-11-02",
+   "name": "David Dean Beaugrand",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793636163,
+   "photo": "photos/FDL_BEAUGRAND_DAVID_2026-11-02.jpg"
+  },
+  {
+   "key": "MKE_SHAW_XAVIER_409660",
+   "name": "Xavier S Shaw",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793635095,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCKINNEY_BRIAN_340284",
+   "name": "Brian Edward Mckinney",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793635092,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTIN_BRANDON_354926",
+   "name": "Brandon Lynell Martin",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793635090,
+   "photo": null
+  },
   {
    "key": "MAR_HINZ_COURTNEY_2026-11-02",
    "name": "Courtney Hinz",
@@ -584,7 +628,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793633256,
-   "photo": null
+   "photo": "photos/MKE_CARTER_MICHAEL_635979.jpg"
   },
   {
    "key": "MAR_WEIL_DONNA_2026-11-02_942301",
@@ -650,7 +694,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793627859,
-   "photo": null
+   "photo": "photos/MKE_RAMSEY_CARLOS_646132.jpg"
   },
   {
    "key": "MKE_NOWAK_CHANCE_533095",
@@ -716,7 +760,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1793622460,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_DEVIN_352263.jpg"
   },
   {
    "key": "MKE_SHAFFER_NITTKEA_412078",
@@ -724,10 +768,10 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 5,
    "ts": 1793622458,
-   "photo": null
+   "photo": "photos/MKE_SHAFFER_NITTKEA_412078.jpg"
   },
   {
    "key": "MKE_GROVER_PENNY_648093",
@@ -4699,61 +4743,6 @@
    "more": 0,
    "ts": 1793378869,
    "photo": null
-  },
-  {
-   "key": "MKE_HOLMON_LAKESHA_270857",
-   "name": "Lakesha Monique Holmon",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793377668,
-   "photo": null
-  },
-  {
-   "key": "MKE_BLAKE_JASON_288871",
-   "name": "Jason Tyrone Blake",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Contact After Domestic Abuse Arrest",
-   "more": 16,
-   "ts": 1793377666,
-   "photo": "photos/MKE_BLAKE_JASON_288871.jpg"
-  },
-  {
-   "key": "DOU_MACMANUS_LISA_2026-10-19",
-   "name": "Lisa E Macmanus",
-   "age": "37",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793377037,
-   "photo": "photos/DOU_MACMANUS_LISA_2026-10-19.jpg"
-  },
-  {
-   "key": "DOU_STAMPER_TUCKER_2026-10-30",
-   "name": "Tucker M Stamper",
-   "age": "26",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793377035,
-   "photo": null
-  },
-  {
-   "key": "FDL_GUZMANFLORES_GUSTAVO_2026-10-30",
-   "name": "Gustavo F Guzman-Flores",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793376984,
-   "photo": "photos/FDL_GUZMANFLORES_GUSTAVO_2026-10-30.jpg"
   }
  ]
 }
