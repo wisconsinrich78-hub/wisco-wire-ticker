@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T23:05:24+00:00",
+ "updated": "2026-11-02T23:28:38+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_ORA_616989",
+   "name": "Ora Shataria Williams",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793662065,
+   "photo": null
+  },
+  {
+   "key": "MKE_LUNAPENA_JESUS_648102",
+   "name": "Jesus Ramon Luna-Pena",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793662062,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_MONIQUE_405079",
+   "name": "Monique Jabravdis Davis",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793662061,
+   "photo": "photos/MKE_DAVIS_MONIQUE_405079.jpg"
+  },
+  {
+   "key": "FDL_SESMADOMINGUEZ_DANIEL_2026-11-02",
+   "name": "Daniel Sesma-Dominguez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793661425,
+   "photo": "photos/FDL_SESMADOMINGUEZ_DANIEL_2026-11-02.jpg"
+  },
   {
    "key": "MKE_SCOTT_MICHAELANTHONY_648101",
    "name": "Michael Anthony T Scott",
@@ -209,39 +253,6 @@
    "more": 0,
    "ts": 1793652470,
    "photo": "photos/RC_CONNER_BRITTANY_120011075852414.jpg"
-  },
-  {
-   "key": "MKE_RYAN_BOBBY_623876",
-   "name": "Bobby Daniel Ryan",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1793651263,
-   "photo": null
-  },
-  {
-   "key": "MKE_PERRY_CHRISTIAN_395756",
-   "name": "Christian A Perry",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793651260,
-   "photo": null
-  },
-  {
-   "key": "MKE_ANAYA_IVAN_646854",
-   "name": "Ivan Alberto Anaya",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Reckless Driving-Cause Bodily Harm",
-   "more": 7,
-   "ts": 1793651258,
-   "photo": null
   },
   {
    "key": "ABSTON_DANIEL_2026-11-02",
@@ -517,20 +528,53 @@
    "more": 2,
    "ts": 1793603837,
    "photo": "photos/DOU_BELWOOD_ANNA_2026-11-01.jpg"
-  },
-  {
-   "key": "FDL_TORRES_EDUARDO_2026-11-02",
-   "name": "Eduardo Torres",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
-   "more": 0,
-   "ts": 1793603827,
-   "photo": "photos/FDL_TORRES_EDUARDO_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_ORA_616989",
+   "name": "Ora Shataria Williams",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793662065,
+   "photo": null
+  },
+  {
+   "key": "MKE_LUNAPENA_JESUS_648102",
+   "name": "Jesus Ramon Luna-Pena",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793662062,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_MONIQUE_405079",
+   "name": "Monique Jabravdis Davis",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793662061,
+   "photo": "photos/MKE_DAVIS_MONIQUE_405079.jpg"
+  },
+  {
+   "key": "FDL_SESMADOMINGUEZ_DANIEL_2026-11-02",
+   "name": "Daniel Sesma-Dominguez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793661425,
+   "photo": "photos/FDL_SESMADOMINGUEZ_DANIEL_2026-11-02.jpg"
+  },
   {
    "key": "MKE_SCOTT_MICHAELANTHONY_648101",
    "name": "Michael Anthony T Scott",
@@ -1178,7 +1222,7 @@
    "charge": "Resisting or Obstructing an Officer",
    "more": 6,
    "ts": 1793638697,
-   "photo": null
+   "photo": "photos/MKE_PEREZ_KEJUAN_614134.jpg"
   },
   {
    "key": "MKE_KARLIK_ALISSA_648094",
@@ -4886,72 +4930,6 @@
    "more": 0,
    "ts": 1793404069,
    "photo": "photos/RC_ORTIZ_EMMANUEL_120011075766764.jpg"
-  },
-  {
-   "key": "MKE_MOLINAWAGNER_CHRISTIAN_637169",
-   "name": "Christian Gabriel Molina Wagner",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793402900,
-   "photo": "photos/MKE_MOLINAWAGNER_CHRISTIAN_637169.jpg"
-  },
-  {
-   "key": "MKE_KOBLISKA_PATRICK_304515",
-   "name": "Patrick James Kobliska",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793402898,
-   "photo": "photos/MKE_KOBLISKA_PATRICK_304515.jpg"
-  },
-  {
-   "key": "MKE_HOWARD_JENNIFER_2043778",
-   "name": "Jennifer Lee Howard",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793402896,
-   "photo": "photos/MKE_HOWARD_JENNIFER_2043778.jpg"
-  },
-  {
-   "key": "MKE_GRUNEWALD_GARY_643686",
-   "name": "Gary Grunewald",
-   "age": "72",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Child Pornography",
-   "more": 2,
-   "ts": 1793402894,
-   "photo": null
-  },
-  {
-   "key": "MKE_BYARS_CHIRON_618744",
-   "name": "Chiron D Byars",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793402892,
-   "photo": "photos/MKE_BYARS_CHIRON_618744.jpg"
-  },
-  {
-   "key": "MKE_BENSON_ROBERT_333343",
-   "name": "Robert John Benson",
-   "age": "57",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793402890,
-   "photo": "photos/MKE_BENSON_ROBERT_333343.jpg"
   }
  ]
 }
