@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-02T22:49:32+00:00",
+ "updated": "2026-11-02T22:58:18+00:00",
  "items": [
+  {
+   "key": "MKE_SCOTT_MICHAELANTHONY_648101",
+   "name": "Michael Anthony T Scott",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1793660266,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROTH_MARCUS_2027380",
+   "name": "Marcus Lamar Roth",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793660264,
+   "photo": null
+  },
+  {
+   "key": "MAR_EWAN_CORDERO_2026-11-02_16320701",
+   "name": "Cordero Robert Ewan",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 3,
+   "ts": 1793660223,
+   "photo": "photos/MAR_EWAN_CORDERO_2026-11-02_16320701.jpg"
+  },
+  {
+   "key": "MAR_BOTTENSEK_SHELBY_2026-11-02",
+   "name": "Shelby Lea Bottensek",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Drive Or Operate Vehicle W/O Consent",
+   "more": 8,
+   "ts": 1793660185,
+   "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-11-02.jpg"
+  },
+  {
+   "key": "MAR_HOLLINGSWORTH_JAYDEN_2026-11-02_1683801",
+   "name": "Jayden Lee Joseph Hollingsworth",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "2Nd Deg. Sex Assault-Intoxicated Victim",
+   "more": 1,
+   "ts": 1793660149,
+   "photo": "photos/MAR_HOLLINGSWORTH_JAYDEN_2026-11-02_1683801.jpg"
+  },
+  {
+   "key": "KEN_TIJERINA_YNETTE_2026-00006059",
+   "name": "Ynette Tijerina",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793660060,
+   "photo": "photos/KEN_TIJERINA_YNETTE_2026-00006059.jpg"
+  },
   {
    "key": "RC_FRANKLIN_RICKEY_120011075856962",
    "name": "Rickey Charles Franklin",
@@ -186,39 +252,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793651229,
-   "photo": null
-  },
-  {
-   "key": "MKE_WELLS_ANTHONY_292435",
-   "name": "Anthony Maurice Wells",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793649566,
-   "photo": null
-  },
-  {
-   "key": "MKE_WASHINGTON_RONTRELL_372945",
-   "name": "Rontrell M Washington",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1793649565,
-   "photo": null
-  },
-  {
-   "key": "MKE_SARTLER_JULIAN_600156",
-   "name": "Julian Joseph Sartler",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Lewd, Lascivious Behavior-In Public",
-   "more": 0,
-   "ts": 1793649563,
    "photo": null
   },
   {
@@ -495,42 +528,75 @@
    "more": 0,
    "ts": 1793603827,
    "photo": "photos/FDL_TORRES_EDUARDO_2026-11-02.jpg"
-  },
-  {
-   "key": "MILLER_PHILLIP_2026-11-02",
-   "name": "Phillip L Miller",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793602028,
-   "photo": null
-  },
-  {
-   "key": "FABIAN_DAVID_2026-11-01",
-   "name": "David Oliver Fabian",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793597221,
-   "photo": null
-  },
-  {
-   "key": "SARVER_HUNTER_2026-11-01",
-   "name": "Hunter Scott Sarver",
-   "age": "19",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1793591822,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SCOTT_MICHAELANTHONY_648101",
+   "name": "Michael Anthony T Scott",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1793660266,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROTH_MARCUS_2027380",
+   "name": "Marcus Lamar Roth",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793660264,
+   "photo": null
+  },
+  {
+   "key": "MAR_EWAN_CORDERO_2026-11-02_16320701",
+   "name": "Cordero Robert Ewan",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 3,
+   "ts": 1793660223,
+   "photo": "photos/MAR_EWAN_CORDERO_2026-11-02_16320701.jpg"
+  },
+  {
+   "key": "MAR_BOTTENSEK_SHELBY_2026-11-02",
+   "name": "Shelby Lea Bottensek",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Drive Or Operate Vehicle W/O Consent",
+   "more": 8,
+   "ts": 1793660185,
+   "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-11-02.jpg"
+  },
+  {
+   "key": "MAR_HOLLINGSWORTH_JAYDEN_2026-11-02_1683801",
+   "name": "Jayden Lee Joseph Hollingsworth",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "2Nd Deg. Sex Assault-Intoxicated Victim",
+   "more": 1,
+   "ts": 1793660149,
+   "photo": "photos/MAR_HOLLINGSWORTH_JAYDEN_2026-11-02_1683801.jpg"
+  },
+  {
+   "key": "KEN_TIJERINA_YNETTE_2026-00006059",
+   "name": "Ynette Tijerina",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793660060,
+   "photo": "photos/KEN_TIJERINA_YNETTE_2026-00006059.jpg"
+  },
   {
    "key": "RC_FRANKLIN_RICKEY_120011075856962",
    "name": "Rickey Charles Franklin",
@@ -4886,28 +4952,6 @@
    "more": 1,
    "ts": 1793402890,
    "photo": "photos/MKE_BENSON_ROBERT_333343.jpg"
-  },
-  {
-   "key": "MAR_SMITH_GERALD_2026-10-30_16171202",
-   "name": "Gerald Lynn Smith",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793401001,
-   "photo": "photos/MAR_SMITH_GERALD_2026-10-30_16171202.jpg"
-  },
-  {
-   "key": "MAR_SKAR_JORDAN_2026-10-30_9809",
-   "name": "Jordan Todd Skar",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793400966,
-   "photo": "photos/MAR_SKAR_JORDAN_2026-10-30_9809.jpg"
   }
  ]
 }
