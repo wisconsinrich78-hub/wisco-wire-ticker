@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T00:49:32+00:00",
+ "updated": "2026-11-02T00:58:14+00:00",
  "items": [
+  {
+   "key": "MKE_SALVADORI_KRISTINA_648084",
+   "name": "Kristina Kaye Salvadori",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793581059,
+   "photo": null
+  },
+  {
+   "key": "MKE_FONTANEZACEVEDO_GENARO_643696",
+   "name": "Genaro Fontanez Acevedo",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793581057,
+   "photo": null
+  },
+  {
+   "key": "MAR_SOSA_SAUL_2026-11-01_17034101",
+   "name": "Saul Sosa",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 2,
+   "ts": 1793580909,
+   "photo": "photos/MAR_SOSA_SAUL_2026-11-01_17034101.jpg"
+  },
+  {
+   "key": "KEN_HICKSURQUHART_DEQUAN_2026-00006046",
+   "name": "Dequan Le Hicks-Urquhart",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793580844,
+   "photo": "photos/KEN_HICKSURQUHART_DEQUAN_2026-00006046.jpg"
+  },
   {
    "key": "RC_WILLIAMS_XAVIER_120011075819563",
    "name": "Xavier Ramone Williams",
@@ -40,7 +84,7 @@
    "age": "54",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Owi (1St)",
    "more": 0,
    "ts": 1793577327,
    "photo": "photos/KEN_MCKEE_WAYNE_2026-00006045.jpg"
@@ -145,28 +189,6 @@
    "photo": null
   },
   {
-   "key": "MKE_LUSK_JOSHUA_297548",
-   "name": "Joshua Marcus Lusk",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793570281,
-   "photo": null
-  },
-  {
-   "key": "MKE_HAMILTON_SHAYLA_630889",
-   "name": "Shayla Rozalyn Hamilton",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793570278,
-   "photo": null
-  },
-  {
    "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
    "name": "Roger Allen Kennedy",
    "age": "69",
@@ -176,17 +198,6 @@
    "more": 0,
    "ts": 1793570139,
    "photo": "photos/MAR_KENNEDY_ROGER_2026-11-01_6926012.jpg"
-  },
-  {
-   "key": "KEN_EVERETT_KALEB_2026-00006043",
-   "name": "Kaleb Ryan Everett",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793570075,
-   "photo": "photos/KEN_EVERETT_KALEB_2026-00006043.jpg"
   },
   {
    "key": "JONES_RYLEE_2026-11-01",
@@ -475,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_HERNANDEZWHITE_DANIEL_2026-11-01",
-   "name": "Daniel Javier Hernandez White",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1793526932,
-   "photo": null
-  },
-  {
    "key": "HOU_HUNT_TYRELLALLEN_6318",
    "name": "Tyrell Allen Hunt",
    "age": "28",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SALVADORI_KRISTINA_648084",
+   "name": "Kristina Kaye Salvadori",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793581059,
+   "photo": null
+  },
+  {
+   "key": "MKE_FONTANEZACEVEDO_GENARO_643696",
+   "name": "Genaro Fontanez Acevedo",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793581057,
+   "photo": null
+  },
+  {
+   "key": "MAR_SOSA_SAUL_2026-11-01_17034101",
+   "name": "Saul Sosa",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 2,
+   "ts": 1793580909,
+   "photo": "photos/MAR_SOSA_SAUL_2026-11-01_17034101.jpg"
+  },
+  {
+   "key": "KEN_HICKSURQUHART_DEQUAN_2026-00006046",
+   "name": "Dequan Le Hicks-Urquhart",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793580844,
+   "photo": "photos/KEN_HICKSURQUHART_DEQUAN_2026-00006046.jpg"
+  },
+  {
    "key": "RC_WILLIAMS_XAVIER_120011075819563",
    "name": "Xavier Ramone Williams",
    "age": "31",
@@ -570,7 +614,7 @@
    "age": "54",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Owi (1St)",
    "more": 0,
    "ts": 1793577327,
    "photo": "photos/KEN_MCKEE_WAYNE_2026-00006045.jpg"
@@ -4688,50 +4732,6 @@
    "more": 1,
    "ts": 1793323032,
    "photo": null
-  },
-  {
-   "key": "MKE_KONATE_MAMOUDOU_641409",
-   "name": "Mamoudou Konate",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1793321863,
-   "photo": "photos/MKE_KONATE_MAMOUDOU_641409.jpg"
-  },
-  {
-   "key": "MKE_DICKERSON_SAMUEL_421498",
-   "name": "Samuel C Dickerson",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1793321862,
-   "photo": "photos/MKE_DICKERSON_SAMUEL_421498.jpg"
-  },
-  {
-   "key": "MAR_RUTZEN_DYLAN_2026-10-29",
-   "name": "Dylan Randy Rutzen",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 2,
-   "ts": 1793321738,
-   "photo": "photos/MAR_RUTZEN_DYLAN_2026-10-29.jpg"
-  },
-  {
-   "key": "KEN_KUMMER_JACOB_2026-00005989",
-   "name": "Jacob Frederick Kummer",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793321614,
-   "photo": "photos/KEN_KUMMER_JACOB_2026-00005989.jpg"
   }
  ]
 }
