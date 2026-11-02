@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T03:49:37+00:00",
+ "updated": "2026-11-02T03:58:05+00:00",
  "items": [
+  {
+   "key": "MKE_SCOTT_GINUWINE_639473",
+   "name": "Ginuwine Dartell Scott",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793591871,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_JANYIJA_648086",
+   "name": "Janyija Deloise Robinson",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793591869,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORER_JACOB_602868",
+   "name": "Jacob Perry Moorer",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793591868,
+   "photo": null
+  },
+  {
+   "key": "SARVER_HUNTER_2026-11-01",
+   "name": "Hunter Scott Sarver",
+   "age": "19",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1793591822,
+   "photo": null
+  },
+  {
+   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_12254902",
+   "name": "Christian Ivan Genchi Zamora",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 2,
+   "ts": 1793591721,
+   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_12254902.jpg"
+  },
   {
    "key": "RC_JOHNSON_VANCE_120011075824481",
    "name": "Vance L Johnson",
@@ -62,8 +117,8 @@
    "age": "57",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1793588120,
    "photo": "photos/KEN_POLK_THOMAS_2026-00006049.jpg"
   },
@@ -209,39 +264,6 @@
    "more": 5,
    "ts": 1793580844,
    "photo": "photos/KEN_HICKSURQUHART_DEQUAN_2026-00006046.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_XAVIER_120011075819563",
-   "name": "Xavier Ramone Williams",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793580477,
-   "photo": "photos/RC_WILLIAMS_XAVIER_120011075819563.jpg"
-  },
-  {
-   "key": "MKE_HAWKINS_MARQUITA_648083",
-   "name": "Marquita S Hawkins",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793579276,
-   "photo": null
-  },
-  {
-   "key": "MKE_DYE_KEANDRE_627313",
-   "name": "Keandre Quantrell Dye",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793579274,
-   "photo": null
   },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
@@ -464,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_OLDS_KYLELEY_2026-11-01",
-   "name": "Kyleley Eric Olds",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793534174,
-   "photo": "photos/MAR_OLDS_KYLELEY_2026-11-01.jpg"
-  },
-  {
    "key": "FDL_GOMEZSOSA_EMERSON_2026-11-01",
    "name": "Emerson Gomez Sosa",
    "age": "",
@@ -517,20 +528,64 @@
    "more": 1,
    "ts": 1793526430,
    "photo": "photos/HOU_HUNT_TYRELLALLEN_6318.jpg"
-  },
-  {
-   "key": "HOU_GRASSMAN_SHAWNALEE_6316",
-   "name": "Shawna Lee Grassman",
-   "age": "36",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Disorderly Conduct - Brawling or Fighting (1-Court Pending)",
-   "more": 0,
-   "ts": 1793526429,
-   "photo": "photos/HOU_GRASSMAN_SHAWNALEE_6316.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SCOTT_GINUWINE_639473",
+   "name": "Ginuwine Dartell Scott",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793591871,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_JANYIJA_648086",
+   "name": "Janyija Deloise Robinson",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793591869,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORER_JACOB_602868",
+   "name": "Jacob Perry Moorer",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793591868,
+   "photo": null
+  },
+  {
+   "key": "SARVER_HUNTER_2026-11-01",
+   "name": "Hunter Scott Sarver",
+   "age": "19",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1793591822,
+   "photo": null
+  },
+  {
+   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_12254902",
+   "name": "Christian Ivan Genchi Zamora",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 2,
+   "ts": 1793591721,
+   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_12254902.jpg"
+  },
   {
    "key": "RC_JOHNSON_VANCE_120011075824481",
    "name": "Vance L Johnson",
@@ -592,8 +647,8 @@
    "age": "57",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1793588120,
    "photo": "photos/KEN_POLK_THOMAS_2026-00006049.jpg"
   },
@@ -4732,17 +4787,6 @@
    "more": 3,
    "ts": 1793332821,
    "photo": "photos/MKE_FREEMAN_LEVELL_644578.jpg"
-  },
-  {
-   "key": "MAR_RATTANASACK_KHAM_2026-10-29",
-   "name": "Kham Junior Rattanasack",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Narcotic Drugs",
-   "more": 4,
-   "ts": 1793332601,
-   "photo": "photos/MAR_RATTANASACK_KHAM_2026-10-29.jpg"
   }
  ]
 }
