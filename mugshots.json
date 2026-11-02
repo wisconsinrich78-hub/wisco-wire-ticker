@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T13:57:34+00:00",
+ "updated": "2026-11-02T14:28:02+00:00",
  "items": [
+  {
+   "key": "DOU_PEKKALA_BRANDON_2026-11-02",
+   "name": "Brandon M Pekkala",
+   "age": "42",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793629162,
+   "photo": "photos/DOU_PEKKALA_BRANDON_2026-11-02.jpg"
+  },
+  {
+   "key": "FDL_KREIS_MASON_2026-11-02",
+   "name": "Mason William Kreis",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793629015,
+   "photo": null
+  },
+  {
+   "key": "FDL_BUNTING_JOHN_2026-11-02",
+   "name": "John Robert Bunting",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 4,
+   "ts": 1793628983,
+   "photo": "photos/FDL_BUNTING_JOHN_2026-11-02.jpg"
+  },
+  {
+   "key": "MKE_RAMSEY_CARLOS_646132",
+   "name": "Carlos A Ramsey",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793627859,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOWAK_CHANCE_533095",
+   "name": "Chance Dakota Nowak",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Armed Robbery",
+   "more": 1,
+   "ts": 1793627857,
+   "photo": "photos/MKE_NOWAK_CHANCE_533095.jpg"
+  },
   {
    "key": "MAR_WEIL_DONNA_2026-11-02",
    "name": "Donna M Weil",
@@ -32,7 +87,7 @@
    "charge": "Habitual Criminality",
    "more": 5,
    "ts": 1793624255,
-   "photo": null
+   "photo": "photos/MKE_CAIN_STEFAN_234350.jpg"
   },
   {
    "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
@@ -62,7 +117,7 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Charges Pending",
    "more": 5,
    "ts": 1793622458,
    "photo": null
@@ -200,17 +255,6 @@
    "photo": "photos/MKE_BOOTH_SHAUN_383863.jpg"
   },
   {
-   "key": "RC_ROMAN_DUSTIN_120011075829122",
-   "name": "Dustin Eduardo Roman",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793605670,
-   "photo": "photos/RC_ROMAN_DUSTIN_120011075829122.jpg"
-  },
-  {
    "key": "DOU_BELWOOD_ANNA_2026-11-01",
    "name": "Anna M Belwood",
    "age": "48",
@@ -242,17 +286,6 @@
    "more": 0,
    "ts": 1793602028,
    "photo": null
-  },
-  {
-   "key": "KEN_WILLIAMS_ROBERT_2026-00006051",
-   "name": "Robert Deandre Williams",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1793598861,
-   "photo": "photos/KEN_WILLIAMS_ROBERT_2026-00006051.jpg"
   },
   {
    "key": "FABIAN_DAVID_2026-11-01",
@@ -495,42 +528,64 @@
    "more": 3,
    "ts": 1793548538,
    "photo": null
-  },
-  {
-   "key": "MAR_SOSA_SAUL_2026-11-01",
-   "name": "Saul Sosa",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793545083,
-   "photo": null
-  },
-  {
-   "key": "MAR_BUGGS_ALLAH_2026-11-01",
-   "name": "Allah K Buggs",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1793545040,
-   "photo": null
-  },
-  {
-   "key": "HOU_WEAVER_RYANMATTHEW_6320",
-   "name": "Ryan Matthew Weaver",
-   "age": "36",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Domestic Assault-Misdemeanor-Intentionally In (1-Court Pending)",
-   "more": 1,
-   "ts": 1793540833,
-   "photo": "photos/HOU_WEAVER_RYANMATTHEW_6320.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_PEKKALA_BRANDON_2026-11-02",
+   "name": "Brandon M Pekkala",
+   "age": "42",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793629162,
+   "photo": "photos/DOU_PEKKALA_BRANDON_2026-11-02.jpg"
+  },
+  {
+   "key": "FDL_KREIS_MASON_2026-11-02",
+   "name": "Mason William Kreis",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793629015,
+   "photo": null
+  },
+  {
+   "key": "FDL_BUNTING_JOHN_2026-11-02",
+   "name": "John Robert Bunting",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 4,
+   "ts": 1793628983,
+   "photo": "photos/FDL_BUNTING_JOHN_2026-11-02.jpg"
+  },
+  {
+   "key": "MKE_RAMSEY_CARLOS_646132",
+   "name": "Carlos A Ramsey",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793627859,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOWAK_CHANCE_533095",
+   "name": "Chance Dakota Nowak",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Armed Robbery",
+   "more": 1,
+   "ts": 1793627857,
+   "photo": "photos/MKE_NOWAK_CHANCE_533095.jpg"
+  },
   {
    "key": "MAR_WEIL_DONNA_2026-11-02",
    "name": "Donna M Weil",
@@ -562,7 +617,7 @@
    "charge": "Habitual Criminality",
    "more": 5,
    "ts": 1793624255,
-   "photo": null
+   "photo": "photos/MKE_CAIN_STEFAN_234350.jpg"
   },
   {
    "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
@@ -592,7 +647,7 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Charges Pending",
    "more": 5,
    "ts": 1793622458,
    "photo": null
@@ -4687,28 +4742,6 @@
    "charge": "Operating While Under The Influence(2Nd)",
    "more": 0,
    "ts": 1793371680,
-   "photo": null
-  },
-  {
-   "key": "MKE_COLE_DESTINY_648047",
-   "name": "Destiny M Cole",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793370460,
-   "photo": "photos/MKE_COLE_DESTINY_648047.jpg"
-  },
-  {
-   "key": "DOU_DRAPER_MARLENE_2026-10-30",
-   "name": "Marlene M Draper",
-   "age": "33",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793369865,
    "photo": null
   }
  ]
