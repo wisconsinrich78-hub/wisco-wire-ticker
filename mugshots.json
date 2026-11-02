@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-02T19:49:28+00:00",
+ "updated": "2026-11-02T19:59:32+00:00",
  "items": [
+  {
+   "key": "MKE_WELLS_ANTHONY_292435",
+   "name": "Anthony Maurice Wells",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793649566,
+   "photo": null
+  },
+  {
+   "key": "MKE_WASHINGTON_RONTRELL_372945",
+   "name": "Rontrell M Washington",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1793649565,
+   "photo": null
+  },
+  {
+   "key": "MKE_SARTLER_JULIAN_600156",
+   "name": "Julian Joseph Sartler",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Lewd, Lascivious Behavior-In Public",
+   "more": 0,
+   "ts": 1793649563,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREZ_SONNY_648099",
+   "name": "Sonny Ames Perez",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793649561,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCFARLING_JORDAN_620149",
+   "name": "Jordan Jaquette McFarling",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1793649559,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRANDBERRY_RODNEY_500864",
+   "name": "Rodney Grandberry",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-THC (>1000-2500 grams)",
+   "more": 3,
+   "ts": 1793649557,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_JADEAN_619483",
+   "name": "JaDean Capone Davis",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run",
+   "more": 9,
+   "ts": 1793649555,
+   "photo": null
+  },
+  {
+   "key": "MKE_BIVENS_JESSE_622015",
+   "name": "Jesse Allen Bivens",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>15-40g)",
+   "more": 0,
+   "ts": 1793649553,
+   "photo": null
+  },
   {
    "key": "RC_LACHANCE_STEVEN_120011075848713",
    "name": "Steven Lachance",
@@ -123,17 +211,6 @@
    "photo": "photos/RC_COUILLARD_MICHAEL_120011075846840.jpg"
   },
   {
-   "key": "RC_BLAKE_MARY_120011075846728",
-   "name": "Mary Magdalene Blake",
-   "age": "62",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793645280,
-   "photo": "photos/RC_BLAKE_MARY_120011075846728.jpg"
-  },
-  {
    "key": "SCHRAMM_SHERWIN_2026-11-02",
    "name": "Sherwin James Schramm",
    "age": "38",
@@ -145,72 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SIMONS_BETH_648096",
-   "name": "Beth R Simons",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793644063,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNICAN_BRELL_648097",
-   "name": "Brell Nysharri Johnican",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793644061,
-   "photo": null
-  },
-  {
-   "key": "MKE_EDWARDS_KENDREIA_638885",
-   "name": "Kendreia Korjay Edwards",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793644059,
-   "photo": null
-  },
-  {
-   "key": "MKE_DISMUKE_DIAMOND_297810",
-   "name": "Diamond Isiah Dismuke",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793644058,
-   "photo": null
-  },
-  {
-   "key": "KEN_ROBINSON_ANTHONY_2026-00006054",
-   "name": "Anthony D Robinson",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 1,
-   "ts": 1793642512,
-   "photo": "photos/KEN_ROBINSON_ANTHONY_2026-00006054.jpg"
-  },
-  {
-   "key": "KEN_BURKS_AMARE_2026-00006055",
-   "name": "Amare Burks",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Substantial Battery- Intend Bodily Harm",
-   "more": 1,
-   "ts": 1793642247,
-   "photo": "photos/KEN_BURKS_AMARE_2026-00006055.jpg"
-  },
-  {
    "key": "MAR_JOHNSON_BENJAMIN_2026-11-02",
    "name": "Benjamin Boyd Johnson",
    "age": "52",
@@ -220,17 +231,6 @@
    "more": 1,
    "ts": 1793642221,
    "photo": "photos/MAR_JOHNSON_BENJAMIN_2026-11-02.jpg"
-  },
-  {
-   "key": "KEN_BANNISTER_DESTINEY_2026-00006056",
-   "name": "Destiney T Bannister",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793642213,
-   "photo": "photos/KEN_BANNISTER_DESTINEY_2026-00006056.jpg"
   },
   {
    "key": "MAR_ZASTROW_KELSEY_2026-11-02",
@@ -532,6 +532,94 @@
  ],
  "all_items": [
   {
+   "key": "MKE_WELLS_ANTHONY_292435",
+   "name": "Anthony Maurice Wells",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793649566,
+   "photo": null
+  },
+  {
+   "key": "MKE_WASHINGTON_RONTRELL_372945",
+   "name": "Rontrell M Washington",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1793649565,
+   "photo": null
+  },
+  {
+   "key": "MKE_SARTLER_JULIAN_600156",
+   "name": "Julian Joseph Sartler",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Lewd, Lascivious Behavior-In Public",
+   "more": 0,
+   "ts": 1793649563,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREZ_SONNY_648099",
+   "name": "Sonny Ames Perez",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793649561,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCFARLING_JORDAN_620149",
+   "name": "Jordan Jaquette McFarling",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1793649559,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRANDBERRY_RODNEY_500864",
+   "name": "Rodney Grandberry",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-THC (>1000-2500 grams)",
+   "more": 3,
+   "ts": 1793649557,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_JADEAN_619483",
+   "name": "JaDean Capone Davis",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run",
+   "more": 9,
+   "ts": 1793649555,
+   "photo": null
+  },
+  {
+   "key": "MKE_BIVENS_JESSE_622015",
+   "name": "Jesse Allen Bivens",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>15-40g)",
+   "more": 0,
+   "ts": 1793649553,
+   "photo": null
+  },
+  {
    "key": "RC_LACHANCE_STEVEN_120011075848713",
    "name": "Steven Lachance",
    "age": "43",
@@ -757,8 +845,8 @@
    "age": "29",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Marijuana (Thc)",
+   "more": 1,
    "ts": 1793642213,
    "photo": "photos/KEN_BANNISTER_DESTINEY_2026-00006056.jpg"
   },
@@ -4864,39 +4952,6 @@
    "more": 0,
    "ts": 1793391407,
    "photo": "photos/FDL_SCHNEIDER_BRAD_2026-10-30.jpg"
-  },
-  {
-   "key": "MAR_SMITH_GERALD_2026-10-30",
-   "name": "Gerald Lynn Smith",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793390206,
-   "photo": null
-  },
-  {
-   "key": "MAR_BOTTENSEK_SHELBY_2026-10-30",
-   "name": "Shelby Lea Bottensek",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Drive Or Operate Vehicle W/O Consent",
-   "more": 7,
-   "ts": 1793390173,
-   "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-10-30.jpg"
-  },
-  {
-   "key": "MAR_COOPER_CAMRY_2026-10-30_982010",
-   "name": "Camry Oshae Cooper",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793390139,
-   "photo": "photos/MAR_COOPER_CAMRY_2026-10-30_982010.jpg"
   }
  ]
 }
