@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-02T06:49:26+00:00",
+ "updated": "2026-11-02T07:49:26+00:00",
  "items": [
+  {
+   "key": "RC_ROMAN_DUSTIN_120011075829122",
+   "name": "Dustin Eduardo Roman",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793605670,
+   "photo": "photos/RC_ROMAN_DUSTIN_120011075829122.jpg"
+  },
+  {
+   "key": "DOU_BELWOOD_ANNA_2026-11-01",
+   "name": "Anna M Belwood",
+   "age": "48",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793603837,
+   "photo": "photos/DOU_BELWOOD_ANNA_2026-11-01.jpg"
+  },
+  {
+   "key": "FDL_TORRES_EDUARDO_2026-11-02",
+   "name": "Eduardo Torres",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
+   "more": 0,
+   "ts": 1793603827,
+   "photo": "photos/FDL_TORRES_EDUARDO_2026-11-02.jpg"
+  },
   {
    "key": "MILLER_PHILLIP_2026-11-02",
    "name": "Phillip L Miller",
@@ -131,7 +164,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793591868,
-   "photo": null
+   "photo": "photos/MKE_MOORER_JACOB_602868.jpg"
   },
   {
    "key": "SARVER_HUNTER_2026-11-01",
@@ -252,7 +285,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793586465,
-   "photo": null
+   "photo": "photos/MKE_ROUNDTREE_CHRISTOPHER_516351.jpg"
   },
   {
    "key": "DOU_SCHLAIS_KELSEY_2026-11-01",
@@ -264,17 +297,6 @@
    "more": 1,
    "ts": 1793585829,
    "photo": "photos/DOU_SCHLAIS_KELSEY_2026-11-01.jpg"
-  },
-  {
-   "key": "MKE_THOMAS_EDWARD_621091",
-   "name": "Edward Contrell Thomas",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793584659,
-   "photo": null
   },
   {
    "key": "MAR_SOSA_SAUL_2026-11-01_17034101",
@@ -497,17 +519,6 @@
    "photo": "photos/HOU_VANGUNDY_MATTHEWSTEVEN_6319.jpg"
   },
   {
-   "key": "MAR_SANDOVALPENA_JORDAN_2026-11-01",
-   "name": "Jordan Aaron Sandoval Pena",
-   "age": "19",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 0,
-   "ts": 1793534221,
-   "photo": null
-  },
-  {
    "key": "FDL_GOMEZSOSA_EMERSON_2026-11-01",
    "name": "Emerson Gomez Sosa",
    "age": "",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793531779,
    "photo": null
-  },
-  {
-   "key": "TREM_WESTVIK_TIMOTHY_6200",
-   "name": "Timothy Gene Westvik",
-   "age": "45",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Firearm Convicted of Out of State Felony",
-   "more": 0,
-   "ts": 1793530027,
-   "photo": "photos/TREM_WESTVIK_TIMOTHY_6200.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ROMAN_DUSTIN_120011075829122",
+   "name": "Dustin Eduardo Roman",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793605670,
+   "photo": "photos/RC_ROMAN_DUSTIN_120011075829122.jpg"
+  },
+  {
+   "key": "DOU_BELWOOD_ANNA_2026-11-01",
+   "name": "Anna M Belwood",
+   "age": "48",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793603837,
+   "photo": "photos/DOU_BELWOOD_ANNA_2026-11-01.jpg"
+  },
+  {
+   "key": "FDL_TORRES_EDUARDO_2026-11-02",
+   "name": "Eduardo Torres",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
+   "more": 0,
+   "ts": 1793603827,
+   "photo": "photos/FDL_TORRES_EDUARDO_2026-11-02.jpg"
+  },
   {
    "key": "MILLER_PHILLIP_2026-11-02",
    "name": "Phillip L Miller",
@@ -661,7 +694,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793591868,
-   "photo": null
+   "photo": "photos/MKE_MOORER_JACOB_602868.jpg"
   },
   {
    "key": "SARVER_HUNTER_2026-11-01",
@@ -782,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793586465,
-   "photo": null
+   "photo": "photos/MKE_ROUNDTREE_CHRISTOPHER_516351.jpg"
   },
   {
    "key": "DOU_SCHLAIS_KELSEY_2026-11-01",
@@ -859,7 +892,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793581059,
-   "photo": null
+   "photo": "photos/MKE_SALVADORI_KRISTINA_648084.jpg"
   },
   {
    "key": "MKE_FONTANEZACEVEDO_GENARO_643696",
@@ -925,7 +958,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793579274,
-   "photo": null
+   "photo": "photos/MKE_DYE_KEANDRE_627313.jpg"
   },
   {
    "key": "KEN_MCKEE_WAYNE_2026-00006045",
@@ -958,7 +991,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793575661,
-   "photo": null
+   "photo": "photos/MKE_BROWN_LAMONT_631938.jpg"
   },
   {
    "key": "MKE_WARREN_WILLIE_297099",
@@ -991,7 +1024,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793573855,
-   "photo": null
+   "photo": "photos/MKE_ROCKWELL_TODD_623387.jpg"
   },
   {
    "key": "KEN_GARCIAEVERETT_AIDEN_2026-00006044",
@@ -4688,28 +4721,6 @@
    "more": 2,
    "ts": 1793348870,
    "photo": "photos/MKE_KEARNEY_COREY_540361.jpg"
-  },
-  {
-   "key": "MKE_SWIAMS_AYANNA_644686",
-   "name": "Ayanna Miasia Swiams",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793345268,
-   "photo": "photos/MKE_SWIAMS_AYANNA_644686.jpg"
-  },
-  {
-   "key": "MKE_LLOYD_JERICHO_619712",
-   "name": "Jericho Dupree Lloyd",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793345266,
-   "photo": "photos/MKE_LLOYD_JERICHO_619712.jpg"
   }
  ]
 }
