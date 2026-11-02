@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-02T04:49:32+00:00",
+ "updated": "2026-11-02T05:49:40+00:00",
  "items": [
+  {
+   "key": "RC_NIELSEN_HAYLEE_120011075827915",
+   "name": "Haylee Rae Nielsen",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793598476,
+   "photo": "photos/RC_NIELSEN_HAYLEE_120011075827915.jpg"
+  },
+  {
+   "key": "RC_CASEY_WILLIAM_120011075826596",
+   "name": "William Thomas Casey",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793598473,
+   "photo": null
+  },
+  {
+   "key": "RC_BAHENA_EDWIN_120011075826916",
+   "name": "Edwin Bahena",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
+   "ts": 1793598471,
+   "photo": "photos/RC_BAHENA_EDWIN_120011075826916.jpg"
+  },
+  {
+   "key": "MKE_RODRIQUEZLOZADA_ANTHONY_640185",
+   "name": "Anthony M Rodriquez-Lozada",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793597275,
+   "photo": null
+  },
+  {
+   "key": "MKE_RASH_DONNELL_414876",
+   "name": "Donnell D Rash",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793597273,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLEMENTS_MAGNOLIA_609047",
+   "name": "Magnolia F Clements",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793597270,
+   "photo": null
+  },
+  {
+   "key": "FABIAN_DAVID_2026-11-01",
+   "name": "David Oliver Fabian",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793597221,
+   "photo": null
+  },
   {
    "key": "MKE_SCOTT_GINUWINE_639473",
    "name": "Ginuwine Dartell Scott",
@@ -189,61 +266,6 @@
    "photo": "photos/MKE_BARKSDALECAWTHORN_CORY_516550.jpg"
   },
   {
-   "key": "KEN_FREEMAN_ERIC_2026-00006047",
-   "name": "Eric Freeman",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (1St)",
-   "more": 3,
-   "ts": 1793584414,
-   "photo": null
-  },
-  {
-   "key": "RC_ZAMITALO_STEVEN_120011075821368",
-   "name": "Steven Michael Zamitalo",
-   "age": "70",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793584071,
-   "photo": null
-  },
-  {
-   "key": "RC_LUSTER_NATRYIANA_120011075820239",
-   "name": "Natryiana M Luster",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793584069,
-   "photo": "photos/RC_LUSTER_NATRYIANA_120011075820239.jpg"
-  },
-  {
-   "key": "MKE_SALVADORI_KRISTINA_648084",
-   "name": "Kristina Kaye Salvadori",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793581059,
-   "photo": null
-  },
-  {
-   "key": "MKE_FONTANEZACEVEDO_GENARO_643696",
-   "name": "Genaro Fontanez Acevedo",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793581057,
-   "photo": null
-  },
-  {
    "key": "MAR_SOSA_SAUL_2026-11-01_17034101",
    "name": "Saul Sosa",
    "age": "28",
@@ -253,17 +275,6 @@
    "more": 2,
    "ts": 1793580909,
    "photo": "photos/MAR_SOSA_SAUL_2026-11-01_17034101.jpg"
-  },
-  {
-   "key": "KEN_HICKSURQUHART_DEQUAN_2026-00006046",
-   "name": "Dequan Le Hicks-Urquhart",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Tail Lamps-Lenses-Working/Not Covered",
-   "more": 5,
-   "ts": 1793580844,
-   "photo": "photos/KEN_HICKSURQUHART_DEQUAN_2026-00006046.jpg"
   },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
@@ -517,20 +528,86 @@
    "more": 0,
    "ts": 1793527018,
    "photo": null
-  },
-  {
-   "key": "HOU_HUNT_TYRELLALLEN_6318",
-   "name": "Tyrell Allen Hunt",
-   "age": "28",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Assault-5th Degree-Fear of Bodily Harm or Dea (1-Court Pending)",
-   "more": 1,
-   "ts": 1793526430,
-   "photo": "photos/HOU_HUNT_TYRELLALLEN_6318.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_NIELSEN_HAYLEE_120011075827915",
+   "name": "Haylee Rae Nielsen",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793598476,
+   "photo": "photos/RC_NIELSEN_HAYLEE_120011075827915.jpg"
+  },
+  {
+   "key": "RC_CASEY_WILLIAM_120011075826596",
+   "name": "William Thomas Casey",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793598473,
+   "photo": null
+  },
+  {
+   "key": "RC_BAHENA_EDWIN_120011075826916",
+   "name": "Edwin Bahena",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
+   "ts": 1793598471,
+   "photo": "photos/RC_BAHENA_EDWIN_120011075826916.jpg"
+  },
+  {
+   "key": "MKE_RODRIQUEZLOZADA_ANTHONY_640185",
+   "name": "Anthony M Rodriquez-Lozada",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793597275,
+   "photo": null
+  },
+  {
+   "key": "MKE_RASH_DONNELL_414876",
+   "name": "Donnell D Rash",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793597273,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLEMENTS_MAGNOLIA_609047",
+   "name": "Magnolia F Clements",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793597270,
+   "photo": null
+  },
+  {
+   "key": "FABIAN_DAVID_2026-11-01",
+   "name": "David Oliver Fabian",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793597221,
+   "photo": null
+  },
   {
    "key": "MKE_SCOTT_GINUWINE_639473",
    "name": "Ginuwine Dartell Scott",
@@ -4633,72 +4710,6 @@
    "more": 0,
    "ts": 1793342871,
    "photo": "photos/RC_CZAPPA_DYLAN_120011075742614.jpg"
-  },
-  {
-   "key": "RC_BOOKER_JAVERIAN_120011075742041",
-   "name": "Javerian L Booker",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793339272,
-   "photo": null
-  },
-  {
-   "key": "MKE_JONES_LEVESTER_640315",
-   "name": "Levester S Jones",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
-   "more": 3,
-   "ts": 1793338056,
-   "photo": "photos/MKE_JONES_LEVESTER_640315.jpg"
-  },
-  {
-   "key": "MKE_HARDING_ETOYA_622958",
-   "name": "Etoya Shirlene Harding",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793338055,
-   "photo": "photos/MKE_HARDING_ETOYA_622958.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_DETONIA_373631",
-   "name": "Detonia Denise Davis",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793338053,
-   "photo": "photos/MKE_DAVIS_DETONIA_373631.jpg"
-  },
-  {
-   "key": "MKE_CHAMBERLAIN_JOHN_517376",
-   "name": "John Chester Chamberlain",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793338051,
-   "photo": "photos/MKE_CHAMBERLAIN_JOHN_517376.jpg"
-  },
-  {
-   "key": "MAR_RATTANASACK_KHAM_2026-10-29_743005",
-   "name": "Kham Junior Rattanasack",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Narcotic Drugs",
-   "more": 4,
-   "ts": 1793336172,
-   "photo": "photos/MAR_RATTANASACK_KHAM_2026-10-29_743005.jpg"
   }
  ]
 }
