@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T05:57:59+00:00",
+ "updated": "2026-11-02T06:49:26+00:00",
  "items": [
+  {
+   "key": "MILLER_PHILLIP_2026-11-02",
+   "name": "Phillip L Miller",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793602028,
+   "photo": null
+  },
   {
    "key": "KEN_WILLIAMS_ROBERT_2026-00006051",
    "name": "Robert Deandre Williams",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793530027,
    "photo": "photos/TREM_WESTVIK_TIMOTHY_6200.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "SIEDSCHLAG_JACK_2026-11-01",
-   "name": "Jack D Siedschlag",
-   "age": "21",
+   "key": "MILLER_PHILLIP_2026-11-02",
+   "name": "Phillip L Miller",
+   "age": "29",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "",
    "more": 0,
-   "ts": 1793527018,
+   "ts": 1793602028,
    "photo": null
-  }
- ],
- "all_items": [
+  },
   {
    "key": "KEN_WILLIAMS_ROBERT_2026-00006051",
    "name": "Robert Deandre Williams",
@@ -1024,7 +1035,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793570283,
-   "photo": null
+   "photo": "photos/MKE_MONCADABENITEZ_JUNIOR_648082.jpg"
   },
   {
    "key": "MKE_LUSK_JOSHUA_297548",
@@ -4699,28 +4710,6 @@
    "more": 4,
    "ts": 1793345266,
    "photo": "photos/MKE_LLOYD_JERICHO_619712.jpg"
-  },
-  {
-   "key": "RC_SMITH_KEITH_120011075743237",
-   "name": "Keith Merwin Smith",
-   "age": "71",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793342874,
-   "photo": "photos/RC_SMITH_KEITH_120011075743237.jpg"
-  },
-  {
-   "key": "RC_CZAPPA_DYLAN_120011075742614",
-   "name": "Dylan Patrick Czappa",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793342871,
-   "photo": "photos/RC_CZAPPA_DYLAN_120011075742614.jpg"
   }
  ]
 }
