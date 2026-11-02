@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:28:38+00:00",
+ "updated": "2026-11-02T23:36:38+00:00",
  "items": [
   {
    "key": "MKE_WILLIAMS_ORA_616989",
@@ -205,8 +205,8 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793654871,
    "photo": null
   },
@@ -219,7 +219,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793654869,
-   "photo": null
+   "photo": "photos/MKE_ALVARADO_JAIME_270149.jpg"
   },
   {
    "key": "LUBA_JOSHUA_2026-11-02",
@@ -735,8 +735,8 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793654871,
    "photo": null
   },
@@ -749,7 +749,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793654869,
-   "photo": null
+   "photo": "photos/MKE_ALVARADO_JAIME_270149.jpg"
   },
   {
    "key": "LUBA_JOSHUA_2026-11-02",
@@ -793,7 +793,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1793651263,
-   "photo": null
+   "photo": "photos/MKE_RYAN_BOBBY_623876.jpg"
   },
   {
    "key": "MKE_PERRY_CHRISTIAN_395756",
@@ -801,7 +801,7 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 2,
    "ts": 1793651260,
    "photo": null
