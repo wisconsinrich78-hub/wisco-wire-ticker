@@ -1,14 +1,47 @@
 {
- "updated": "2026-11-02T01:58:05+00:00",
+ "updated": "2026-11-02T02:49:28+00:00",
  "items": [
+  {
+   "key": "DEVAULT_DILLON_2026-11-01",
+   "name": "Dillon J Devault",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793587629,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROUNDTREE_CHRISTOPHER_516351",
+   "name": "Christopher Bryant Roundtree",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793586465,
+   "photo": null
+  },
+  {
+   "key": "DOU_SCHLAIS_KELSEY_2026-11-01",
+   "name": "Kelsey R Schlais",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793585829,
+   "photo": "photos/DOU_SCHLAIS_KELSEY_2026-11-01.jpg"
+  },
   {
    "key": "MKE_THOMAS_EDWARD_621091",
    "name": "Edward Contrell Thomas",
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793584659,
    "photo": null
   },
@@ -21,7 +54,7 @@
    "charge": "Carry Concealed Weapon",
    "more": 0,
    "ts": 1793584657,
-   "photo": null
+   "photo": "photos/MKE_BARKSDALECAWTHORN_CORY_516550.jpg"
   },
   {
    "key": "KEN_FREEMAN_ERIC_2026-00006047",
@@ -175,17 +208,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793573859,
-   "photo": null
-  },
-  {
-   "key": "MKE_ULLAH_RAY_632536",
-   "name": "Ray Ullah",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793573857,
    "photo": null
   },
   {
@@ -464,17 +486,6 @@
    "photo": "photos/TREM_WESTVIK_TIMOTHY_6200.jpg"
   },
   {
-   "key": "DOU_HOIVIK_COLLIN_2026-11-01",
-   "name": "Collin R Hoivik",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793528235,
-   "photo": null
-  },
-  {
    "key": "SIEDSCHLAG_JACK_2026-11-01",
    "name": "Jack D Siedschlag",
    "age": "21",
@@ -517,28 +528,50 @@
    "more": 0,
    "ts": 1793525219,
    "photo": null
-  },
-  {
-   "key": "MURPHY_KAYLA_2026-11-01",
-   "name": "Kayla Marie Murphy",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793525219,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "DEVAULT_DILLON_2026-11-01",
+   "name": "Dillon J Devault",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793587629,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROUNDTREE_CHRISTOPHER_516351",
+   "name": "Christopher Bryant Roundtree",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793586465,
+   "photo": null
+  },
+  {
+   "key": "DOU_SCHLAIS_KELSEY_2026-11-01",
+   "name": "Kelsey R Schlais",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793585829,
+   "photo": "photos/DOU_SCHLAIS_KELSEY_2026-11-01.jpg"
+  },
   {
    "key": "MKE_THOMAS_EDWARD_621091",
    "name": "Edward Contrell Thomas",
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793584659,
    "photo": null
   },
@@ -551,7 +584,7 @@
    "charge": "Carry Concealed Weapon",
    "more": 0,
    "ts": 1793584657,
-   "photo": null
+   "photo": "photos/MKE_BARKSDALECAWTHORN_CORY_516550.jpg"
   },
   {
    "key": "KEN_FREEMAN_ERIC_2026-00006047",
@@ -903,7 +936,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793564864,
-   "photo": null
+   "photo": "photos/MKE_AHOLA_KAI_2025656.jpg"
   },
   {
    "key": "PRINZ_JASON_2026-11-01",
@@ -936,7 +969,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793563087,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_JOSHUA_420296.jpg"
   },
   {
    "key": "MKE_ALEXANDER_COLIN_501948",
@@ -947,7 +980,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793563085,
-   "photo": null
+   "photo": "photos/MKE_ALEXANDER_COLIN_501948.jpg"
   },
   {
    "key": "MAR_KENNEDY_ROGER_2026-11-01",
@@ -980,7 +1013,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793559481,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_KENNETH_387729.jpg"
   },
   {
    "key": "MKE_MCVICKER_DAMIRUS_648081",
@@ -4677,50 +4710,6 @@
    "more": 0,
    "ts": 1793329061,
    "photo": "photos/MKE_DAVIS_TRANARD_363900.jpg"
-  },
-  {
-   "key": "MKE_PRESTON_LIONEL_648041",
-   "name": "Lionel D Preston",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793327272,
-   "photo": "photos/MKE_PRESTON_LIONEL_648041.jpg"
-  },
-  {
-   "key": "MKE_MCKENZIE_CALEB_648042",
-   "name": "Caleb L Mckenzie",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793327270,
-   "photo": "photos/MKE_MCKENZIE_CALEB_648042.jpg"
-  },
-  {
-   "key": "FDL_OLEARY_TIMOTHY_2026-10-29",
-   "name": "Timothy Kyle Oleary",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793326607,
-   "photo": "photos/FDL_OLEARY_TIMOTHY_2026-10-29.jpg"
-  },
-  {
-   "key": "FDL_MALCOLM_NICHOLAS_2026-10-29",
-   "name": "Nicholas Michael Malcolm",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WRIT (x0)",
-   "more": 0,
-   "ts": 1793326600,
-   "photo": "photos/FDL_MALCOLM_NICHOLAS_2026-10-29.jpg"
   }
  ]
 }
