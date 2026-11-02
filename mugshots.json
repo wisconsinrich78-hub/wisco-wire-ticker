@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T11:49:26+00:00",
+ "updated": "2026-11-02T12:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_THOMAS_DEVIN_352263",
+   "name": "Devin Devon Thomas",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793622460,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHAFFER_NITTKEA_412078",
+   "name": "Nittkea A Shaffer",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 5,
+   "ts": 1793622458,
+   "photo": null
+  },
   {
    "key": "MKE_GROVER_PENNY_648093",
    "name": "Penny T Grover",
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1793598473,
    "photo": null
-  },
-  {
-   "key": "RC_BAHENA_EDWIN_120011075826916",
-   "name": "Edwin Bahena",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 2,
-   "ts": 1793598471,
-   "photo": "photos/RC_BAHENA_EDWIN_120011075826916.jpg"
-  },
-  {
-   "key": "MKE_RODRIQUEZLOZADA_ANTHONY_640185",
-   "name": "Anthony M Rodriquez-Lozada",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793597275,
-   "photo": "photos/MKE_RODRIQUEZLOZADA_ANTHONY_640185.jpg"
   },
   {
    "key": "FABIAN_DAVID_2026-11-01",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_THOMAS_DEVIN_352263",
+   "name": "Devin Devon Thomas",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793622460,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHAFFER_NITTKEA_412078",
+   "name": "Nittkea A Shaffer",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 5,
+   "ts": 1793622458,
+   "photo": null
+  },
   {
    "key": "MKE_GROVER_PENNY_648093",
    "name": "Penny T Grover",
@@ -4710,39 +4732,6 @@
    "more": 0,
    "ts": 1793364982,
    "photo": "photos/MAR_GOLOMB_MICHAEL_2026-10-30.jpg"
-  },
-  {
-   "key": "MKE_SHEPPARD_MAURICE_387801",
-   "name": "Maurice David Sheppard",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793361457,
-   "photo": "photos/MKE_SHEPPARD_MAURICE_387801.jpg"
-  },
-  {
-   "key": "MKE_GOUSE_TANA_623829",
-   "name": "Tana S Gouse",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793361455,
-   "photo": "photos/MKE_GOUSE_TANA_623829.jpg"
-  },
-  {
-   "key": "KEN_WILSON_JAY_2026-00005994",
-   "name": "Jay Andrew Wilson",
-   "age": "67",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793361353,
-   "photo": "photos/KEN_WILSON_JAY_2026-00005994.jpg"
   }
  ]
 }
