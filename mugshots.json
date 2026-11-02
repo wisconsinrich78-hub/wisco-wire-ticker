@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-02T19:28:18+00:00",
+ "updated": "2026-11-02T19:49:28+00:00",
  "items": [
+  {
+   "key": "RC_LACHANCE_STEVEN_120011075848713",
+   "name": "Steven Lachance",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793648884,
+   "photo": "photos/RC_LACHANCE_STEVEN_120011075848713.jpg"
+  },
+  {
+   "key": "RC_JANN_RYAN_120011075848584",
+   "name": "Ryan Winslow Jann",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793648881,
+   "photo": "photos/RC_JANN_RYAN_120011075848584.jpg"
+  },
+  {
+   "key": "RC_ALEXANDER_MONIQUE_120011075851030",
+   "name": "Monique M Alexander",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793648878,
+   "photo": "photos/RC_ALEXANDER_MONIQUE_120011075851030.jpg"
+  },
   {
    "key": "MAHNKE_DARRIN_2026-11-02",
    "name": "Darrin Kenneth Mahnke",
@@ -222,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_CAPPEL_JODI_648095",
-   "name": "Jodi L Cappel",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793640464,
-   "photo": "photos/MKE_CAPPEL_JODI_648095.jpg"
-  },
-  {
-   "key": "MKE_ARNOLD_DANTRELL_283952",
-   "name": "Dantrell Tremone Arnold",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793640462,
-   "photo": null
-  },
-  {
    "key": "JACKSON_RENADO_2026-11-02",
    "name": "Renado Jackson",
    "age": "62",
@@ -252,17 +263,6 @@
    "charge": "Serving A Sentence Without Huber",
    "more": 0,
    "ts": 1793640421,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILEY_KAHMANI_636727",
-   "name": "Kahmani Amir Josiah Wiley",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 6,
-   "ts": 1793638703,
    "photo": null
   },
   {
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_LACHANCE_STEVEN_120011075848713",
+   "name": "Steven Lachance",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793648884,
+   "photo": "photos/RC_LACHANCE_STEVEN_120011075848713.jpg"
+  },
+  {
+   "key": "RC_JANN_RYAN_120011075848584",
+   "name": "Ryan Winslow Jann",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793648881,
+   "photo": "photos/RC_JANN_RYAN_120011075848584.jpg"
+  },
+  {
+   "key": "RC_ALEXANDER_MONIQUE_120011075851030",
+   "name": "Monique M Alexander",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793648878,
+   "photo": "photos/RC_ALEXANDER_MONIQUE_120011075851030.jpg"
+  },
   {
    "key": "MAHNKE_DARRIN_2026-11-02",
    "name": "Darrin Kenneth Mahnke",
