@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T17:27:59+00:00",
+ "updated": "2026-11-02T17:49:29+00:00",
  "items": [
+  {
+   "key": "BOLSTAD_TRAVIS_2026-11-02",
+   "name": "Travis Michael Bolstad",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793641626,
+   "photo": null
+  },
   {
    "key": "MKE_CAPPEL_JODI_648095",
    "name": "Jodi L Cappel",
@@ -40,8 +51,8 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Felony",
+   "more": 6,
    "ts": 1793638703,
    "photo": null
   },
@@ -51,8 +62,8 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 6,
    "ts": 1793638697,
    "photo": null
   },
@@ -65,7 +76,7 @@
    "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1793638694,
-   "photo": null
+   "photo": "photos/MKE_KARLIK_ALISSA_648094.jpg"
   },
   {
    "key": "MAR_HINZ_COURTNEY_2026-11-02_17016001",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793568425,
    "photo": null
-  },
-  {
-   "key": "FDL_RAMAGE_DANIEL_2026-11-01",
-   "name": "Daniel Ray Ramage",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793567809,
-   "photo": "photos/FDL_RAMAGE_DANIEL_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "BOLSTAD_TRAVIS_2026-11-02",
+   "name": "Travis Michael Bolstad",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793641626,
+   "photo": null
+  },
   {
    "key": "MKE_CAPPEL_JODI_648095",
    "name": "Jodi L Cappel",
@@ -570,8 +581,8 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Felony",
+   "more": 6,
    "ts": 1793638703,
    "photo": null
   },
@@ -581,8 +592,8 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 6,
    "ts": 1793638697,
    "photo": null
   },
@@ -595,7 +606,7 @@
    "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1793638694,
-   "photo": null
+   "photo": "photos/MKE_KARLIK_ALISSA_648094.jpg"
   },
   {
    "key": "MAR_HINZ_COURTNEY_2026-11-02_17016001",
