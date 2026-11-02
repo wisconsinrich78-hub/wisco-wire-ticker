@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T23:36:38+00:00",
+ "updated": "2026-11-02T23:49:27+00:00",
  "items": [
+  {
+   "key": "LUOMA_BENJAMIN_2026-11-02",
+   "name": "Benjamin R Luoma",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793663230,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_ORA_616989",
    "name": "Ora Shataria Williams",
@@ -517,20 +528,20 @@
    "more": 3,
    "ts": 1793610978,
    "photo": "photos/FDL_FRASE_VICTORIA_2026-11-02.jpg"
-  },
-  {
-   "key": "DOU_BELWOOD_ANNA_2026-11-01",
-   "name": "Anna M Belwood",
-   "age": "48",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793603837,
-   "photo": "photos/DOU_BELWOOD_ANNA_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "LUOMA_BENJAMIN_2026-11-02",
+   "name": "Benjamin R Luoma",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793663230,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_ORA_616989",
    "name": "Ora Shataria Williams",
@@ -4919,17 +4930,6 @@
    "more": 0,
    "ts": 1793404413,
    "photo": null
-  },
-  {
-   "key": "RC_ORTIZ_EMMANUEL_120011075766764",
-   "name": "Emmanuel Jose Ortiz",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793404069,
-   "photo": "photos/RC_ORTIZ_EMMANUEL_120011075766764.jpg"
   }
  ]
 }
