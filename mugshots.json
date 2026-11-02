@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T09:57:49+00:00",
+ "updated": "2026-11-02T10:49:20+00:00",
  "items": [
+  {
+   "key": "TREM_BAUTCH_ASHTON_5402",
+   "name": "Ashton Michael Bautch",
+   "age": "23",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 2nd Offense",
+   "more": 0,
+   "ts": 1793616428,
+   "photo": "photos/TREM_BAUTCH_ASHTON_5402.jpg"
+  },
   {
    "key": "MKE_MITCHELL_QUILINDA_648092",
    "name": "Quilinda L Mitchell",
@@ -30,7 +41,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 1,
+   "more": 3,
    "ts": 1793611660,
    "photo": null
   },
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1793540833,
    "photo": "photos/HOU_WEAVER_RYANMATTHEW_6320.jpg"
-  },
-  {
-   "key": "HOU_VANGUNDY_MATTHEWSTEVEN_6319",
-   "name": "Matthew Steven VanGundy",
-   "age": "47",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Domestic Assault-Misdemeanor-Intentionally In (1-Court Pending)",
-   "more": 0,
-   "ts": 1793540832,
-   "photo": "photos/HOU_VANGUNDY_MATTHEWSTEVEN_6319.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "TREM_BAUTCH_ASHTON_5402",
+   "name": "Ashton Michael Bautch",
+   "age": "23",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 2nd Offense",
+   "more": 0,
+   "ts": 1793616428,
+   "photo": "photos/TREM_BAUTCH_ASHTON_5402.jpg"
+  },
   {
    "key": "MKE_MITCHELL_QUILINDA_648092",
    "name": "Quilinda L Mitchell",
@@ -560,7 +571,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 1,
+   "more": 3,
    "ts": 1793611660,
    "photo": null
   },
@@ -4721,17 +4732,6 @@
    "more": 0,
    "ts": 1793361353,
    "photo": "photos/KEN_WILSON_JAY_2026-00005994.jpg"
-  },
-  {
-   "key": "MKE_SUTTON_TAYLOR_648045",
-   "name": "Taylor S Sutton",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793356059,
-   "photo": "photos/MKE_SUTTON_TAYLOR_648045.jpg"
   }
  ]
 }
