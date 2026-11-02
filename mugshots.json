@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T09:49:29+00:00",
+ "updated": "2026-11-02T09:57:49+00:00",
  "items": [
+  {
+   "key": "MKE_MITCHELL_QUILINDA_648092",
+   "name": "Quilinda L Mitchell",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793613449,
+   "photo": null
+  },
+  {
+   "key": "KEN_KAZEE_IZIAH_2026-00006053",
+   "name": "Iziah Jermainejames Kazee",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 1,
+   "ts": 1793613271,
+   "photo": "photos/KEN_KAZEE_IZIAH_2026-00006053.jpg"
+  },
   {
    "key": "MKE_WYDERKA_MARA_648091",
    "name": "Mara Lynn Wyderka",
@@ -200,17 +222,6 @@
    "photo": "photos/MKE_RASH_DONNELL_414876.jpg"
   },
   {
-   "key": "MKE_CLEMENTS_MAGNOLIA_609047",
-   "name": "Magnolia F Clements",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793597270,
-   "photo": "photos/MKE_CLEMENTS_MAGNOLIA_609047.jpg"
-  },
-  {
    "key": "FABIAN_DAVID_2026-11-01",
    "name": "David Oliver Fabian",
    "age": "40",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1793597221,
    "photo": null
-  },
-  {
-   "key": "MKE_SCOTT_GINUWINE_639473",
-   "name": "Ginuwine Dartell Scott",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793591871,
-   "photo": "photos/MKE_SCOTT_GINUWINE_639473.jpg"
   },
   {
    "key": "SARVER_HUNTER_2026-11-01",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MITCHELL_QUILINDA_648092",
+   "name": "Quilinda L Mitchell",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793613449,
+   "photo": null
+  },
+  {
+   "key": "KEN_KAZEE_IZIAH_2026-00006053",
+   "name": "Iziah Jermainejames Kazee",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 1,
+   "ts": 1793613271,
+   "photo": "photos/KEN_KAZEE_IZIAH_2026-00006053.jpg"
+  },
   {
    "key": "MKE_WYDERKA_MARA_648091",
    "name": "Mara Lynn Wyderka",
@@ -4710,28 +4732,6 @@
    "more": 0,
    "ts": 1793356059,
    "photo": "photos/MKE_SUTTON_TAYLOR_648045.jpg"
-  },
-  {
-   "key": "MKE_MCLAURIN_DAVID_402388",
-   "name": "David Dajuan Mclaurin",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793354257,
-   "photo": "photos/MKE_MCLAURIN_DAVID_402388.jpg"
-  },
-  {
-   "key": "MKE_BOSTON_NEJEHWON_648044",
-   "name": "Nejehwon Boston",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793354255,
-   "photo": "photos/MKE_BOSTON_NEJEHWON_648044.jpg"
   }
  ]
 }
