@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T00:58:14+00:00",
+ "updated": "2026-11-02T01:49:27+00:00",
  "items": [
+  {
+   "key": "RC_ZAMITALO_STEVEN_120011075821368",
+   "name": "Steven Michael Zamitalo",
+   "age": "70",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793584071,
+   "photo": null
+  },
+  {
+   "key": "RC_LUSTER_NATRYIANA_120011075820239",
+   "name": "Natryiana M Luster",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793584069,
+   "photo": "photos/RC_LUSTER_NATRYIANA_120011075820239.jpg"
+  },
   {
    "key": "MKE_SALVADORI_KRISTINA_648084",
    "name": "Kristina Kaye Salvadori",
@@ -164,28 +186,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793573272,
-   "photo": null
-  },
-  {
-   "key": "RC_DRANE_MARLINZO_120011075815979",
-   "name": "Marlinzo Markays Drane",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1793573270,
-   "photo": "photos/RC_DRANE_MARLINZO_120011075815979.jpg"
-  },
-  {
-   "key": "MKE_MONCADABENITEZ_JUNIOR_648082",
-   "name": "Junior Romario Moncada Benitez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793570283,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ZAMITALO_STEVEN_120011075821368",
+   "name": "Steven Michael Zamitalo",
+   "age": "70",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793584071,
+   "photo": null
+  },
+  {
+   "key": "RC_LUSTER_NATRYIANA_120011075820239",
+   "name": "Natryiana M Luster",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793584069,
+   "photo": "photos/RC_LUSTER_NATRYIANA_120011075820239.jpg"
+  },
   {
    "key": "MKE_SALVADORI_KRISTINA_648084",
    "name": "Kristina Kaye Salvadori",
@@ -4688,50 +4710,6 @@
    "more": 2,
    "ts": 1793325287,
    "photo": "photos/KEN_PEASE_ZACHERY_2026-00005990.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_LARRICK_291372",
-   "name": "Larrick Dewayne Robinson",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Conspire to Manufacture/Deliver Drugs",
-   "more": 16,
-   "ts": 1793323659,
-   "photo": "photos/MKE_ROBINSON_LARRICK_291372.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_KAMRON_624476",
-   "name": "Kamron L Jackson",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793323657,
-   "photo": "photos/MKE_JACKSON_KAMRON_624476.jpg"
-  },
-  {
-   "key": "DOYLE_KENNETH_2026-10-29",
-   "name": "Kenneth A Doyle",
-   "age": "70",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1793323622,
-   "photo": null
-  },
-  {
-   "key": "DOU_ROLSON_JOSHUA_2026-10-29",
-   "name": "Joshua D Rolson",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793323032,
-   "photo": null
   }
  ]
 }
