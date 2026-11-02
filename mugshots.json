@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T18:49:32+00:00",
+ "updated": "2026-11-02T18:57:46+00:00",
  "items": [
+  {
+   "key": "MAR_ZASTROW_KELSEY_2026-11-02_24018",
+   "name": "Kelsey Cassandra Zastrow",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793645761,
+   "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02_24018.jpg"
+  },
   {
    "key": "RC_COUILLARD_MICHAEL_120011075846840",
    "name": "Michael Thomas Couillard",
@@ -95,10 +106,10 @@
    "age": "21",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Substantial Battery- Intend Bodily Harm",
+   "more": 1,
    "ts": 1793642247,
-   "photo": null
+   "photo": "photos/KEN_BURKS_AMARE_2026-00006055.jpg"
   },
   {
    "key": "MAR_JOHNSON_BENJAMIN_2026-11-02",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1793585829,
    "photo": "photos/DOU_SCHLAIS_KELSEY_2026-11-01.jpg"
-  },
-  {
-   "key": "MAR_SOSA_SAUL_2026-11-01_17034101",
-   "name": "Saul Sosa",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793580909,
-   "photo": "photos/MAR_SOSA_SAUL_2026-11-01_17034101.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_ZASTROW_KELSEY_2026-11-02_24018",
+   "name": "Kelsey Cassandra Zastrow",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793645761,
+   "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02_24018.jpg"
+  },
   {
    "key": "RC_COUILLARD_MICHAEL_120011075846840",
    "name": "Michael Thomas Couillard",
@@ -625,10 +636,10 @@
    "age": "21",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Substantial Battery- Intend Bodily Harm",
+   "more": 1,
    "ts": 1793642247,
-   "photo": null
+   "photo": "photos/KEN_BURKS_AMARE_2026-00006055.jpg"
   },
   {
    "key": "MAR_JOHNSON_BENJAMIN_2026-11-02",
@@ -4820,50 +4831,6 @@
    "more": 2,
    "ts": 1793387792,
    "photo": "photos/FDL_JONES_TROY_2026-08-21.jpg"
-  },
-  {
-   "key": "MKE_MARCHESE_SAMUEL_338471",
-   "name": "Samuel Jude Marchese",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Knowingly Violate a Domestic Abuse Order - Injunction",
-   "more": 2,
-   "ts": 1793386665,
-   "photo": "photos/MKE_MARCHESE_SAMUEL_338471.jpg"
-  },
-  {
-   "key": "MKE_MALONE_DEVONTE_600261",
-   "name": "Devonte TerrianeMac Malone",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 0,
-   "ts": 1793386663,
-   "photo": "photos/MKE_MALONE_DEVONTE_600261.jpg"
-  },
-  {
-   "key": "MKE_HARRELL_TARONE_276816",
-   "name": "Tarone Lamell Harrell",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Strangulation and Suffocation",
-   "more": 18,
-   "ts": 1793386661,
-   "photo": "photos/MKE_HARRELL_TARONE_276816.jpg"
-  },
-  {
-   "key": "MKE_BRAZIL_TEONDRE_515003",
-   "name": "Teondre Douglas Brazil",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 23,
-   "ts": 1793386660,
-   "photo": "photos/MKE_BRAZIL_TEONDRE_515003.jpg"
   }
  ]
 }
