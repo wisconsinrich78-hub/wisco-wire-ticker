@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T12:57:34+00:00",
+ "updated": "2026-11-02T13:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_CAMERON_JERMAINE_335273",
+   "name": "Jermaine Deshawn Cameron",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 3,
+   "ts": 1793624257,
+   "photo": null
+  },
+  {
+   "key": "MKE_CAIN_STEFAN_234350",
+   "name": "Stefan Christopher Cain",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 5,
+   "ts": 1793624255,
+   "photo": null
+  },
   {
    "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
    "name": "Christian Ivan Genchi Zamora",
@@ -18,7 +40,7 @@
    "age": "41",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Failure to Support",
    "more": 0,
    "ts": 1793622460,
    "photo": null
@@ -220,28 +242,6 @@
    "more": 1,
    "ts": 1793598861,
    "photo": "photos/KEN_WILLIAMS_ROBERT_2026-00006051.jpg"
-  },
-  {
-   "key": "RC_NIELSEN_HAYLEE_120011075827915",
-   "name": "Haylee Rae Nielsen",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793598476,
-   "photo": "photos/RC_NIELSEN_HAYLEE_120011075827915.jpg"
-  },
-  {
-   "key": "RC_CASEY_WILLIAM_120011075826596",
-   "name": "William Thomas Casey",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793598473,
-   "photo": null
   },
   {
    "key": "FABIAN_DAVID_2026-11-01",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_CAMERON_JERMAINE_335273",
+   "name": "Jermaine Deshawn Cameron",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 3,
+   "ts": 1793624257,
+   "photo": null
+  },
+  {
+   "key": "MKE_CAIN_STEFAN_234350",
+   "name": "Stefan Christopher Cain",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 5,
+   "ts": 1793624255,
+   "photo": null
+  },
+  {
    "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
    "name": "Christian Ivan Genchi Zamora",
    "age": "22",
@@ -548,7 +570,7 @@
    "age": "41",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Failure to Support",
    "more": 0,
    "ts": 1793622460,
    "photo": null
@@ -4688,50 +4710,6 @@
    "more": 0,
    "ts": 1793368548,
    "photo": "photos/MAR_KLEINSCHMIDT_RYAN_2026-10-30.jpg"
-  },
-  {
-   "key": "TRAYLOR_TERRANCE_2026-10-30",
-   "name": "Terrance V Traylor",
-   "age": "51",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793368026,
-   "photo": null
-  },
-  {
-   "key": "MKE_MANZANOMANUEL_PABLO_648046",
-   "name": "Pablo Manzano-Manuel",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793366861,
-   "photo": null
-  },
-  {
-   "key": "MKE_TRIGGS_VALENTINUS_316145",
-   "name": "Valentinus Demere Triggs",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1793365058,
-   "photo": "photos/MKE_TRIGGS_VALENTINUS_316145.jpg"
-  },
-  {
-   "key": "MKE_ASHFORD_SEVILLE_401310",
-   "name": "Seville Dontray Ashford",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 4,
-   "ts": 1793365056,
-   "photo": "photos/MKE_ASHFORD_SEVILLE_401310.jpg"
   }
  ]
 }
