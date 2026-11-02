@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T05:49:40+00:00",
+ "updated": "2026-11-02T05:57:59+00:00",
  "items": [
+  {
+   "key": "KEN_WILLIAMS_ROBERT_2026-00006051",
+   "name": "Robert Deandre Williams",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1793598861,
+   "photo": "photos/KEN_WILLIAMS_ROBERT_2026-00006051.jpg"
+  },
   {
    "key": "RC_NIELSEN_HAYLEE_120011075827915",
    "name": "Haylee Rae Nielsen",
@@ -253,17 +264,6 @@
    "more": 2,
    "ts": 1793584659,
    "photo": null
-  },
-  {
-   "key": "MKE_BARKSDALECAWTHORN_CORY_516550",
-   "name": "Cory Daniel Barksdale-Cawthorn",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 0,
-   "ts": 1793584657,
-   "photo": "photos/MKE_BARKSDALECAWTHORN_CORY_516550.jpg"
   },
   {
    "key": "MAR_SOSA_SAUL_2026-11-01_17034101",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_WILLIAMS_ROBERT_2026-00006051",
+   "name": "Robert Deandre Williams",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1793598861,
+   "photo": "photos/KEN_WILLIAMS_ROBERT_2026-00006051.jpg"
+  },
   {
    "key": "RC_NIELSEN_HAYLEE_120011075827915",
    "name": "Haylee Rae Nielsen",
