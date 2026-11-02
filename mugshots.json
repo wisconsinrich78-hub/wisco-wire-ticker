@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T20:49:37+00:00",
+ "updated": "2026-11-02T21:28:16+00:00",
  "items": [
+  {
+   "key": "MKE_TORRES_JESSE_648100",
+   "name": "Jesse Blake Torres",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793654873,
+   "photo": null
+  },
+  {
+   "key": "MKE_TIGGINS_LACHANDRA_293321",
+   "name": "Lachandra Sathy Tiggins",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793654871,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALVARADO_JAIME_270149",
+   "name": "Jaime Raul Alvarado",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793654869,
+   "photo": null
+  },
+  {
+   "key": "LUBA_JOSHUA_2026-11-02",
+   "name": "Joshua J Luba",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Unlawful Phone Use-Threatens Harm",
+   "more": 0,
+   "ts": 1793654823,
+   "photo": null
+  },
+  {
+   "key": "KEN_IRBY_BOBBY_2026-00006058",
+   "name": "BOBBY LEE Junior IRBY",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793652863,
+   "photo": "photos/KEN_IRBY_BOBBY_2026-00006058.jpg"
+  },
   {
    "key": "RC_CONNER_BRITTANY_120011075852414",
    "name": "Brittany J Conner",
@@ -145,39 +200,6 @@
    "photo": null
   },
   {
-   "key": "RC_LACHANCE_STEVEN_120011075848713",
-   "name": "Steven Lachance",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793648884,
-   "photo": "photos/RC_LACHANCE_STEVEN_120011075848713.jpg"
-  },
-  {
-   "key": "RC_JANN_RYAN_120011075848584",
-   "name": "Ryan Winslow Jann",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793648881,
-   "photo": "photos/RC_JANN_RYAN_120011075848584.jpg"
-  },
-  {
-   "key": "RC_ALEXANDER_MONIQUE_120011075851030",
-   "name": "Monique M Alexander",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793648878,
-   "photo": "photos/RC_ALEXANDER_MONIQUE_120011075851030.jpg"
-  },
-  {
    "key": "MAHNKE_DARRIN_2026-11-02",
    "name": "Darrin Kenneth Mahnke",
    "age": "60",
@@ -197,17 +219,6 @@
    "charge": "Disorderly Conduct",
    "more": 2,
    "ts": 1793646997,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_ZARIYAH_648098",
-   "name": "Zariyah Williams",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793645873,
    "photo": null
   },
   {
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1793590024,
    "photo": null
-  },
-  {
-   "key": "DOU_WUORINEN_ROBERT_2026-11-01",
-   "name": "Robert R Wuorinen",
-   "age": "47",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1793589444,
-   "photo": "photos/DOU_WUORINEN_ROBERT_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_TORRES_JESSE_648100",
+   "name": "Jesse Blake Torres",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793654873,
+   "photo": null
+  },
+  {
+   "key": "MKE_TIGGINS_LACHANDRA_293321",
+   "name": "Lachandra Sathy Tiggins",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793654871,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALVARADO_JAIME_270149",
+   "name": "Jaime Raul Alvarado",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793654869,
+   "photo": null
+  },
+  {
+   "key": "LUBA_JOSHUA_2026-11-02",
+   "name": "Joshua J Luba",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Unlawful Phone Use-Threatens Harm",
+   "more": 0,
+   "ts": 1793654823,
+   "photo": null
+  },
+  {
+   "key": "KEN_IRBY_BOBBY_2026-00006058",
+   "name": "BOBBY LEE Junior IRBY",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793652863,
+   "photo": "photos/KEN_IRBY_BOBBY_2026-00006058.jpg"
+  },
   {
    "key": "RC_CONNER_BRITTANY_120011075852414",
    "name": "Brittany J Conner",
@@ -4897,83 +4952,6 @@
    "more": 0,
    "ts": 1793396880,
    "photo": null
-  },
-  {
-   "key": "FDL_JONES_TROY_2026-10-30",
-   "name": "Troy J Jones",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
-   "more": 0,
-   "ts": 1793394986,
-   "photo": "photos/FDL_JONES_TROY_2026-10-30.jpg"
-  },
-  {
-   "key": "MKE_SCOTT_DEVIN_648049",
-   "name": "Devin Trayvon Scott",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793393854,
-   "photo": "photos/MKE_SCOTT_DEVIN_648049.jpg"
-  },
-  {
-   "key": "MKE_HOWARD_JIMMY_371785",
-   "name": "Jimmy L Howard",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793393852,
-   "photo": "photos/MKE_HOWARD_JIMMY_371785.jpg"
-  },
-  {
-   "key": "KEN_GORDON_JARVIS_2026-00006000",
-   "name": "Jarvis Javonte Gordon",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793393823,
-   "photo": "photos/KEN_GORDON_JARVIS_2026-00006000.jpg"
-  },
-  {
-   "key": "MAR_COOK_JASON_2026-10-30",
-   "name": "Jason Bradley Cook",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Conceal",
-   "more": 0,
-   "ts": 1793393790,
-   "photo": "photos/MAR_COOK_JASON_2026-10-30.jpg"
-  },
-  {
-   "key": "MAR_SKAR_JORDAN_2026-10-30",
-   "name": "Jordan Todd Skar",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793393755,
-   "photo": "photos/MAR_SKAR_JORDAN_2026-10-30.jpg"
-  },
-  {
-   "key": "KEN_BUTLER_TERRANCE_2026-00005999",
-   "name": "TERRANCE SIROD Junior BUTLER",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1793393724,
-   "photo": "photos/KEN_BUTLER_TERRANCE_2026-00005999.jpg"
   }
  ]
 }
