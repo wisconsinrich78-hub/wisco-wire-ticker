@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T07:49:26+00:00",
+ "updated": "2026-11-02T08:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_JOHNSON_DEVIN_648089",
+   "name": "Devin Montel Johnson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793608065,
+   "photo": null
+  },
+  {
+   "key": "MKE_WESTBROOK_ELIJAH_648087",
+   "name": "Elijah Jatavion Westbrook",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793606260,
+   "photo": "photos/MKE_WESTBROOK_ELIJAH_648087.jpg"
+  },
+  {
+   "key": "MKE_RAYOPAGUADA_LURIEX_648088",
+   "name": "Luriex Rayo-Paguada",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793606258,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOOTH_SHAUN_383863",
+   "name": "Shaun Robert Booth",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793606256,
+   "photo": "photos/MKE_BOOTH_SHAUN_383863.jpg"
+  },
   {
    "key": "RC_ROMAN_DUSTIN_120011075829122",
    "name": "Dustin Eduardo Roman",
@@ -98,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793597275,
-   "photo": null
+   "photo": "photos/MKE_RODRIQUEZLOZADA_ANTHONY_640185.jpg"
   },
   {
    "key": "MKE_RASH_DONNELL_414876",
@@ -109,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793597273,
-   "photo": null
+   "photo": "photos/MKE_RASH_DONNELL_414876.jpg"
   },
   {
    "key": "MKE_CLEMENTS_MAGNOLIA_609047",
@@ -120,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793597270,
-   "photo": null
+   "photo": "photos/MKE_CLEMENTS_MAGNOLIA_609047.jpg"
   },
   {
    "key": "FABIAN_DAVID_2026-11-01",
@@ -142,7 +186,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793591871,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_GINUWINE_639473.jpg"
   },
   {
    "key": "MKE_ROBINSON_JANYIJA_648086",
@@ -200,28 +244,6 @@
    "photo": "photos/RC_JOHNSON_VANCE_120011075824481.jpg"
   },
   {
-   "key": "RC_JOHNSON_CAROLINE_120011075824354",
-   "name": "Caroline Tashaundra Johnson",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Burglary - Building Or Dwelling",
-   "more": 4,
-   "ts": 1793591271,
-   "photo": "photos/RC_JOHNSON_CAROLINE_120011075824354.jpg"
-  },
-  {
-   "key": "MKE_REDMOND_LEON_648085",
-   "name": "Leon Albert Redmond",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793590062,
-   "photo": null
-  },
-  {
    "key": "SWEENEY_ERIC_2026-11-01",
    "name": "Eric J Sweeney",
    "age": "52",
@@ -244,17 +266,6 @@
    "photo": "photos/DOU_WUORINEN_ROBERT_2026-11-01.jpg"
   },
   {
-   "key": "KEN_POLK_THOMAS_2026-00006049",
-   "name": "Thomas Alan Polk",
-   "age": "57",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793588120,
-   "photo": "photos/KEN_POLK_THOMAS_2026-00006049.jpg"
-  },
-  {
    "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01",
    "name": "Christian Ivan Genchi Zamora",
    "age": "22",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1793587629,
    "photo": null
-  },
-  {
-   "key": "MKE_ROUNDTREE_CHRISTOPHER_516351",
-   "name": "Christopher Bryant Roundtree",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793586465,
-   "photo": "photos/MKE_ROUNDTREE_CHRISTOPHER_516351.jpg"
   },
   {
    "key": "DOU_SCHLAIS_KELSEY_2026-11-01",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_JOHNSON_DEVIN_648089",
+   "name": "Devin Montel Johnson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793608065,
+   "photo": null
+  },
+  {
+   "key": "MKE_WESTBROOK_ELIJAH_648087",
+   "name": "Elijah Jatavion Westbrook",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793606260,
+   "photo": "photos/MKE_WESTBROOK_ELIJAH_648087.jpg"
+  },
+  {
+   "key": "MKE_RAYOPAGUADA_LURIEX_648088",
+   "name": "Luriex Rayo-Paguada",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793606258,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOOTH_SHAUN_383863",
+   "name": "Shaun Robert Booth",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793606256,
+   "photo": "photos/MKE_BOOTH_SHAUN_383863.jpg"
+  },
+  {
    "key": "RC_ROMAN_DUSTIN_120011075829122",
    "name": "Dustin Eduardo Roman",
    "age": "18",
@@ -628,7 +672,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793597275,
-   "photo": null
+   "photo": "photos/MKE_RODRIQUEZLOZADA_ANTHONY_640185.jpg"
   },
   {
    "key": "MKE_RASH_DONNELL_414876",
@@ -639,7 +683,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793597273,
-   "photo": null
+   "photo": "photos/MKE_RASH_DONNELL_414876.jpg"
   },
   {
    "key": "MKE_CLEMENTS_MAGNOLIA_609047",
@@ -650,7 +694,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793597270,
-   "photo": null
+   "photo": "photos/MKE_CLEMENTS_MAGNOLIA_609047.jpg"
   },
   {
    "key": "FABIAN_DAVID_2026-11-01",
@@ -672,7 +716,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793591871,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_GINUWINE_639473.jpg"
   },
   {
    "key": "MKE_ROBINSON_JANYIJA_648086",
@@ -749,7 +793,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793590062,
-   "photo": null
+   "photo": "photos/MKE_REDMOND_LEON_648085.jpg"
   },
   {
    "key": "SWEENEY_ERIC_2026-11-01",
@@ -837,7 +881,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793584659,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_EDWARD_621091.jpg"
   },
   {
    "key": "MKE_BARKSDALECAWTHORN_CORY_516550",
@@ -903,7 +947,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793581057,
-   "photo": null
+   "photo": "photos/MKE_FONTANEZACEVEDO_GENARO_643696.jpg"
   },
   {
    "key": "MAR_SOSA_SAUL_2026-11-01_17034101",
@@ -947,7 +991,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793579276,
-   "photo": null
+   "photo": "photos/MKE_HAWKINS_MARQUITA_648083.jpg"
   },
   {
    "key": "MKE_DYE_KEANDRE_627313",
@@ -4710,17 +4754,6 @@
    "more": 0,
    "ts": 1793350547,
    "photo": "photos/KEN_GARCIA_ANTHONY_2026-00005993.jpg"
-  },
-  {
-   "key": "MKE_KEARNEY_COREY_540361",
-   "name": "Corey Shawnell Kearney",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793348870,
-   "photo": "photos/MKE_KEARNEY_COREY_540361.jpg"
   }
  ]
 }
