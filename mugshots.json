@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-02T01:49:27+00:00",
+ "updated": "2026-11-02T01:58:05+00:00",
  "items": [
+  {
+   "key": "MKE_THOMAS_EDWARD_621091",
+   "name": "Edward Contrell Thomas",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793584659,
+   "photo": null
+  },
+  {
+   "key": "MKE_BARKSDALECAWTHORN_CORY_516550",
+   "name": "Cory Daniel Barksdale-Cawthorn",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1793584657,
+   "photo": null
+  },
+  {
+   "key": "KEN_FREEMAN_ERIC_2026-00006047",
+   "name": "Eric Freeman",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (1St)",
+   "more": 3,
+   "ts": 1793584414,
+   "photo": null
+  },
   {
    "key": "RC_ZAMITALO_STEVEN_120011075821368",
    "name": "Steven Michael Zamitalo",
@@ -62,8 +95,8 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Tail Lamps-Lenses-Working/Not Covered",
+   "more": 5,
    "ts": 1793580844,
    "photo": "photos/KEN_HICKSURQUHART_DEQUAN_2026-00006046.jpg"
   },
@@ -153,39 +186,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793573857,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROCKWELL_TODD_623387",
-   "name": "Todd Keith Rockwell",
-   "age": "64",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793573855,
-   "photo": null
-  },
-  {
-   "key": "KEN_GARCIAEVERETT_AIDEN_2026-00006044",
-   "name": "Aiden Scott Garcia-Everett",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Hit And Run",
-   "more": 4,
-   "ts": 1793573811,
-   "photo": "photos/KEN_GARCIAEVERETT_AIDEN_2026-00006044.jpg"
-  },
-  {
-   "key": "RC_VALLADARESSANTOS_JOSE_120011075815502",
-   "name": "Jose M Valladares-Santos",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793573272,
    "photo": null
   },
   {
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_THOMAS_EDWARD_621091",
+   "name": "Edward Contrell Thomas",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793584659,
+   "photo": null
+  },
+  {
+   "key": "MKE_BARKSDALECAWTHORN_CORY_516550",
+   "name": "Cory Daniel Barksdale-Cawthorn",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1793584657,
+   "photo": null
+  },
+  {
+   "key": "KEN_FREEMAN_ERIC_2026-00006047",
+   "name": "Eric Freeman",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (1St)",
+   "more": 3,
+   "ts": 1793584414,
+   "photo": null
+  },
+  {
    "key": "RC_ZAMITALO_STEVEN_120011075821368",
    "name": "Steven Michael Zamitalo",
    "age": "70",
@@ -592,8 +625,8 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Tail Lamps-Lenses-Working/Not Covered",
+   "more": 5,
    "ts": 1793580844,
    "photo": "photos/KEN_HICKSURQUHART_DEQUAN_2026-00006046.jpg"
   },
@@ -4688,28 +4721,6 @@
    "more": 0,
    "ts": 1793326600,
    "photo": "photos/FDL_MALCOLM_NICHOLAS_2026-10-29.jpg"
-  },
-  {
-   "key": "MAR_THAO_SOU_2026-10-29_6346111",
-   "name": "Sou Thao",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Controlled Substance",
-   "more": 4,
-   "ts": 1793325352,
-   "photo": "photos/MAR_THAO_SOU_2026-10-29_6346111.jpg"
-  },
-  {
-   "key": "KEN_PEASE_ZACHERY_2026-00005990",
-   "name": "Zachery Gregory Pease",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1793325287,
-   "photo": "photos/KEN_PEASE_ZACHERY_2026-00005990.jpg"
   }
  ]
 }
