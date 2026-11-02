@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T19:59:32+00:00",
+ "updated": "2026-11-02T20:49:37+00:00",
  "items": [
+  {
+   "key": "RC_CONNER_BRITTANY_120011075852414",
+   "name": "Brittany J Conner",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793652470,
+   "photo": "photos/RC_CONNER_BRITTANY_120011075852414.jpg"
+  },
+  {
+   "key": "MKE_RYAN_BOBBY_623876",
+   "name": "Bobby Daniel Ryan",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1793651263,
+   "photo": null
+  },
+  {
+   "key": "MKE_PERRY_CHRISTIAN_395756",
+   "name": "Christian A Perry",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 2,
+   "ts": 1793651260,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANAYA_IVAN_646854",
+   "name": "Ivan Alberto Anaya",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 7,
+   "ts": 1793651258,
+   "photo": null
+  },
+  {
+   "key": "ABSTON_DANIEL_2026-11-02",
+   "name": "Daniel L C Abston",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793651229,
+   "photo": null
+  },
   {
    "key": "MKE_WELLS_ANTHONY_292435",
    "name": "Anthony Maurice Wells",
@@ -8,7 +63,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 4,
+   "more": 5,
    "ts": 1793649566,
    "photo": null
   },
@@ -40,8 +95,8 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793649561,
    "photo": null
   },
@@ -156,39 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MCGHEE_ABDULLAH_268616",
-   "name": "Abdullah R Mcghee",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793645871,
-   "photo": "photos/MKE_MCGHEE_ABDULLAH_268616.jpg"
-  },
-  {
-   "key": "MKE_HENDERSON_DERANZA_645253",
-   "name": "Deranza Henderson",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793645869,
-   "photo": null
-  },
-  {
-   "key": "MKE_ABULFOYEZ_IMRAN_640802",
-   "name": "Imran Abulfoyez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793645867,
-   "photo": null
-  },
-  {
    "key": "MAR_ZASTROW_KELSEY_2026-11-02_24018",
    "name": "Kelsey Cassandra Zastrow",
    "age": "37",
@@ -198,17 +220,6 @@
    "more": 0,
    "ts": 1793645761,
    "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02_24018.jpg"
-  },
-  {
-   "key": "RC_COUILLARD_MICHAEL_120011075846840",
-   "name": "Michael Thomas Couillard",
-   "age": "69",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793645283,
-   "photo": "photos/RC_COUILLARD_MICHAEL_120011075846840.jpg"
   },
   {
    "key": "SCHRAMM_SHERWIN_2026-11-02",
@@ -517,20 +528,64 @@
    "more": 3,
    "ts": 1793589444,
    "photo": "photos/DOU_WUORINEN_ROBERT_2026-11-01.jpg"
-  },
-  {
-   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01",
-   "name": "Christian Ivan Genchi Zamora",
-   "age": "22",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793588111,
-   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_CONNER_BRITTANY_120011075852414",
+   "name": "Brittany J Conner",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793652470,
+   "photo": "photos/RC_CONNER_BRITTANY_120011075852414.jpg"
+  },
+  {
+   "key": "MKE_RYAN_BOBBY_623876",
+   "name": "Bobby Daniel Ryan",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1793651263,
+   "photo": null
+  },
+  {
+   "key": "MKE_PERRY_CHRISTIAN_395756",
+   "name": "Christian A Perry",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 2,
+   "ts": 1793651260,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANAYA_IVAN_646854",
+   "name": "Ivan Alberto Anaya",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 7,
+   "ts": 1793651258,
+   "photo": null
+  },
+  {
+   "key": "ABSTON_DANIEL_2026-11-02",
+   "name": "Daniel L C Abston",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793651229,
+   "photo": null
+  },
   {
    "key": "MKE_WELLS_ANTHONY_292435",
    "name": "Anthony Maurice Wells",
@@ -538,7 +593,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 4,
+   "more": 5,
    "ts": 1793649566,
    "photo": null
   },
@@ -570,8 +625,8 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793649561,
    "photo": null
   },
@@ -892,7 +947,7 @@
    "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1793640462,
-   "photo": null
+   "photo": "photos/MKE_ARNOLD_DANTRELL_283952.jpg"
   },
   {
    "key": "JACKSON_RENADO_2026-11-02",
@@ -911,7 +966,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Battery",
    "more": 6,
    "ts": 1793638703,
    "photo": null
@@ -922,7 +977,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 6,
    "ts": 1793638697,
    "photo": null
@@ -4919,39 +4974,6 @@
    "more": 0,
    "ts": 1793393724,
    "photo": "photos/KEN_BUTLER_TERRANCE_2026-00005999.jpg"
-  },
-  {
-   "key": "RC_MRKVICKA_KRISTEN_120011075762986",
-   "name": "Kristen Miller Mrkvicka",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793393279,
-   "photo": "photos/RC_MRKVICKA_KRISTEN_120011075762986.jpg"
-  },
-  {
-   "key": "RC_HARTMANN_DAVID_120011075762681",
-   "name": "David Sean Hartmann",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793393277,
-   "photo": null
-  },
-  {
-   "key": "FDL_SCHNEIDER_BRAD_2026-10-30",
-   "name": "Brad E Schneider",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793391407,
-   "photo": "photos/FDL_SCHNEIDER_BRAD_2026-10-30.jpg"
   }
  ]
 }
