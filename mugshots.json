@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T17:58:01+00:00",
+ "updated": "2026-11-02T18:28:06+00:00",
  "items": [
+  {
+   "key": "MKE_SIMONS_BETH_648096",
+   "name": "Beth R Simons",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793644063,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNICAN_BRELL_648097",
+   "name": "Brell Nysharri Johnican",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793644061,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_KENDREIA_638885",
+   "name": "Kendreia Korjay Edwards",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793644059,
+   "photo": null
+  },
+  {
+   "key": "MKE_DISMUKE_DIAMOND_297810",
+   "name": "Diamond Isiah Dismuke",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793644058,
+   "photo": null
+  },
+  {
+   "key": "KEN_ROBINSON_ANTHONY_2026-00006054",
+   "name": "Anthony D Robinson",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 1,
+   "ts": 1793642512,
+   "photo": "photos/KEN_ROBINSON_ANTHONY_2026-00006054.jpg"
+  },
   {
    "key": "KEN_BURKS_AMARE_2026-00006055",
    "name": "Amare Burks",
@@ -233,17 +288,6 @@
    "photo": null
   },
   {
-   "key": "MKE_CARTER_MICHAEL_635979",
-   "name": "Michael A Carter",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793633256,
-   "photo": "photos/MKE_CARTER_MICHAEL_635979.jpg"
-  },
-  {
    "key": "MAR_WEIL_DONNA_2026-11-02_942301",
    "name": "Donna M Weil",
    "age": "54",
@@ -299,28 +343,6 @@
    "photo": "photos/FDL_BUNTING_JOHN_2026-11-02.jpg"
   },
   {
-   "key": "MKE_RAMSEY_CARLOS_646132",
-   "name": "Carlos A Ramsey",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793627859,
-   "photo": "photos/MKE_RAMSEY_CARLOS_646132.jpg"
-  },
-  {
-   "key": "MKE_NOWAK_CHANCE_533095",
-   "name": "Chance Dakota Nowak",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Armed Robbery",
-   "more": 1,
-   "ts": 1793627857,
-   "photo": "photos/MKE_NOWAK_CHANCE_533095.jpg"
-  },
-  {
    "key": "MAR_WEIL_DONNA_2026-11-02",
    "name": "Donna M Weil",
    "age": "54",
@@ -330,28 +352,6 @@
    "more": 2,
    "ts": 1793627743,
    "photo": null
-  },
-  {
-   "key": "MKE_CAMERON_JERMAINE_335273",
-   "name": "Jermaine Deshawn Cameron",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1793624257,
-   "photo": "photos/MKE_CAMERON_JERMAINE_335273.jpg"
-  },
-  {
-   "key": "MKE_CAIN_STEFAN_234350",
-   "name": "Stefan Christopher Cain",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 5,
-   "ts": 1793624255,
-   "photo": "photos/MKE_CAIN_STEFAN_234350.jpg"
   },
   {
    "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SIMONS_BETH_648096",
+   "name": "Beth R Simons",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793644063,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNICAN_BRELL_648097",
+   "name": "Brell Nysharri Johnican",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793644061,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_KENDREIA_638885",
+   "name": "Kendreia Korjay Edwards",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793644059,
+   "photo": null
+  },
+  {
+   "key": "MKE_DISMUKE_DIAMOND_297810",
+   "name": "Diamond Isiah Dismuke",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793644058,
+   "photo": null
+  },
+  {
+   "key": "KEN_ROBINSON_ANTHONY_2026-00006054",
+   "name": "Anthony D Robinson",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 1,
+   "ts": 1793642512,
+   "photo": "photos/KEN_ROBINSON_ANTHONY_2026-00006054.jpg"
+  },
   {
    "key": "KEN_BURKS_AMARE_2026-00006055",
    "name": "Amare Burks",
