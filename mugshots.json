@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-02T08:57:53+00:00",
+ "updated": "2026-11-02T09:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_WYDERKA_MARA_648091",
+   "name": "Mara Lynn Wyderka",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793611660,
+   "photo": null
+  },
+  {
+   "key": "MKE_REDMOND_NERINDA_648090",
+   "name": "Nerinda J Redmond",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793611657,
+   "photo": null
+  },
+  {
+   "key": "FDL_FRASE_VICTORIA_2026-11-02",
+   "name": "Victoria Ann Frase",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 3,
+   "ts": 1793610978,
+   "photo": "photos/FDL_FRASE_VICTORIA_2026-11-02.jpg"
+  },
   {
    "key": "KEN_MADRIZ_ELBA_2026-00006052",
    "name": "Elba Milagros Madriz",
@@ -21,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793608065,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_DEVIN_648089.jpg"
   },
   {
    "key": "MKE_WESTBROOK_ELIJAH_648087",
@@ -198,28 +231,6 @@
    "more": 0,
    "ts": 1793591871,
    "photo": "photos/MKE_SCOTT_GINUWINE_639473.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_JANYIJA_648086",
-   "name": "Janyija Deloise Robinson",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793591869,
-   "photo": null
-  },
-  {
-   "key": "MKE_MOORER_JACOB_602868",
-   "name": "Jacob Perry Moorer",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793591868,
-   "photo": "photos/MKE_MOORER_JACOB_602868.jpg"
   },
   {
    "key": "SARVER_HUNTER_2026-11-01",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793540832,
    "photo": "photos/HOU_VANGUNDY_MATTHEWSTEVEN_6319.jpg"
-  },
-  {
-   "key": "FDL_GOMEZSOSA_EMERSON_2026-11-01",
-   "name": "Emerson Gomez Sosa",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793531779,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WYDERKA_MARA_648091",
+   "name": "Mara Lynn Wyderka",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793611660,
+   "photo": null
+  },
+  {
+   "key": "MKE_REDMOND_NERINDA_648090",
+   "name": "Nerinda J Redmond",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793611657,
+   "photo": null
+  },
+  {
+   "key": "FDL_FRASE_VICTORIA_2026-11-02",
+   "name": "Victoria Ann Frase",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 3,
+   "ts": 1793610978,
+   "photo": "photos/FDL_FRASE_VICTORIA_2026-11-02.jpg"
+  },
   {
    "key": "KEN_MADRIZ_ELBA_2026-00006052",
    "name": "Elba Milagros Madriz",
@@ -551,7 +584,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793608065,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_DEVIN_648089.jpg"
   },
   {
    "key": "MKE_WESTBROOK_ELIJAH_648087",
@@ -738,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1793591869,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_JANYIJA_648086.jpg"
   },
   {
    "key": "MKE_MOORER_JACOB_602868",
@@ -4699,50 +4732,6 @@
    "more": 3,
    "ts": 1793354255,
    "photo": "photos/MKE_BOSTON_NEJEHWON_648044.jpg"
-  },
-  {
-   "key": "RC_PERDUE_JAMAUL_120011075745339",
-   "name": "Jamaul M Perdue",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793353676,
-   "photo": null
-  },
-  {
-   "key": "TREM_WESSON_JACOB_4360",
-   "name": "Jacob Silas Wesson",
-   "age": "36",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Support Child (<120 Days)",
-   "more": 0,
-   "ts": 1793353635,
-   "photo": "photos/TREM_WESSON_JACOB_4360.jpg"
-  },
-  {
-   "key": "TREM_AMES_JENASSA_6197",
-   "name": "Jenassa Veronica Ames",
-   "age": "33",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 1,
-   "ts": 1793353634,
-   "photo": "photos/TREM_AMES_JENASSA_6197.jpg"
-  },
-  {
-   "key": "TREM_ADAMS_BRADY_6198",
-   "name": "Brady John Adams",
-   "age": "36",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793353632,
-   "photo": "photos/TREM_ADAMS_BRADY_6198.jpg"
   }
  ]
 }
