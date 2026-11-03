@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T20:27:35+00:00",
+ "updated": "2026-11-03T20:49:28+00:00",
  "items": [
+  {
+   "key": "RC_TAYLOR_MICHAEL_120011075899667",
+   "name": "Michael Charles Nathani Taylor",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793738890,
+   "photo": null
+  },
+  {
+   "key": "RC_REYES_JUAN_120011075899609",
+   "name": "Juan Reyes",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793738887,
+   "photo": "photos/RC_REYES_JUAN_120011075899609.jpg"
+  },
+  {
+   "key": "RC_REYES_JR_120011075899689",
+   "name": "Jr Gerardo Reyes",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793738884,
+   "photo": "photos/RC_REYES_JR_120011075899689.jpg"
+  },
+  {
+   "key": "RC_GALVAN_ABEL_120011075899698",
+   "name": "Abel Galvan",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
+   "more": 0,
+   "ts": 1793738880,
+   "photo": null
+  },
+  {
+   "key": "RC_ELLIS_FAAREZ_120011075893580",
+   "name": "Faarez Ellis",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Department Of Corrections Hold",
+   "more": 0,
+   "ts": 1793738877,
+   "photo": "photos/RC_ELLIS_FAAREZ_120011075893580.jpg"
+  },
   {
    "key": "MKE_TURNER_MICHAEL_376975",
    "name": "Michael Avant Turner",
@@ -134,39 +189,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BENSON_JOSEPH_365183",
-   "name": "Joseph Lee Benson",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Reckless Injury",
-   "more": 0,
-   "ts": 1793730476,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALBANILOTAPA_SANTIAGO_648112",
-   "name": "Santiago Albanil Otapa",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793730473,
-   "photo": null
-  },
-  {
-   "key": "MKE_ADAMS_IVE_631753",
-   "name": "Ive J Adams",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793730471,
-   "photo": null
-  },
-  {
    "key": "FDL_SHIPS_KENDALL_2026-11-03",
    "name": "Kendall Jermaine Ships",
    "age": "",
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1793729006,
    "photo": "photos/MAR_VANG_PHOOJYWG_2026-11-03.jpg"
-  },
-  {
-   "key": "RC_WALLACE_CHARLES_120011075893484",
-   "name": "Charles Lee Wallace",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728084,
-   "photo": null
-  },
-  {
-   "key": "RC_THOMAS_JENNIFER_120011075891601",
-   "name": "Jennifer M Thomas",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728082,
-   "photo": "photos/RC_THOMAS_JENNIFER_120011075891601.jpg"
   },
   {
    "key": "MAR_AGUILAR_JOHN_2026-11-03",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_TAYLOR_MICHAEL_120011075899667",
+   "name": "Michael Charles Nathani Taylor",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793738890,
+   "photo": null
+  },
+  {
+   "key": "RC_REYES_JUAN_120011075899609",
+   "name": "Juan Reyes",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793738887,
+   "photo": "photos/RC_REYES_JUAN_120011075899609.jpg"
+  },
+  {
+   "key": "RC_REYES_JR_120011075899689",
+   "name": "Jr Gerardo Reyes",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793738884,
+   "photo": "photos/RC_REYES_JR_120011075899689.jpg"
+  },
+  {
+   "key": "RC_GALVAN_ABEL_120011075899698",
+   "name": "Abel Galvan",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
+   "more": 0,
+   "ts": 1793738880,
+   "photo": null
+  },
+  {
+   "key": "RC_ELLIS_FAAREZ_120011075893580",
+   "name": "Faarez Ellis",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Department Of Corrections Hold",
+   "more": 0,
+   "ts": 1793738877,
+   "photo": "photos/RC_ELLIS_FAAREZ_120011075893580.jpg"
+  },
   {
    "key": "MKE_TURNER_MICHAEL_376975",
    "name": "Michael Avant Turner",
@@ -5182,17 +5237,6 @@
    "charge": "Operating While Under The Influence 5Th",
    "more": 0,
    "ts": 1793480132,
-   "photo": null
-  },
-  {
-   "key": "MERRILL_RICHARD_2026-10-31",
-   "name": "Richard J Merrill",
-   "age": "55",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1793479627,
    "photo": null
   }
  ]
