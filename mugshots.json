@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T12:49:47+00:00",
+ "updated": "2026-11-03T13:28:23+00:00",
  "items": [
+  {
+   "key": "KEMPAINEN_KARL_2026-11-03",
+   "name": "Karl Lindsay Kempainen",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1793712424,
+   "photo": null
+  },
+  {
+   "key": "MKE_RODRIGUEZ_YANDIEL_648110",
+   "name": "Yandiel Alexis Rodriguez",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793710729,
+   "photo": null
+  },
   {
    "key": "MKE_LARA_DENNIS_331853",
    "name": "Dennis Anthony Lara",
@@ -139,8 +161,8 @@
    "age": "58",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 6,
    "ts": 1793699831,
    "photo": "photos/KEN_JAMESON_RANDY_2026-00006063.jpg"
   },
@@ -242,17 +264,6 @@
    "more": 2,
    "ts": 1793696183,
    "photo": "photos/KEN_MILLER_STEVEN_2026-00006062.jpg"
-  },
-  {
-   "key": "RC_ROGERSIRISH_CARL_120011075868955",
-   "name": "Carl Alexander Rogers-Irish",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793695778,
-   "photo": "photos/RC_ROGERSIRISH_CARL_120011075868955.jpg"
   },
   {
    "key": "WINJUM_ADRIAN_2026-11-03",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793640421,
    "photo": null
-  },
-  {
-   "key": "LIMESTAHL_TODD_2026-11-02",
-   "name": "Todd W Limestahl",
-   "age": "60",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1793638024,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "KEMPAINEN_KARL_2026-11-03",
+   "name": "Karl Lindsay Kempainen",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1793712424,
+   "photo": null
+  },
+  {
+   "key": "MKE_RODRIGUEZ_YANDIEL_648110",
+   "name": "Yandiel Alexis Rodriguez",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793710729,
+   "photo": null
+  },
   {
    "key": "MKE_LARA_DENNIS_331853",
    "name": "Dennis Anthony Lara",
@@ -669,8 +691,8 @@
    "age": "58",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 6,
    "ts": 1793699831,
    "photo": "photos/KEN_JAMESON_RANDY_2026-00006063.jpg"
   },
@@ -4963,50 +4985,6 @@
    "more": 0,
    "ts": 1793454979,
    "photo": "photos/KEN_HART_BREANNE_2026-00006013.jpg"
-  },
-  {
-   "key": "MKE_PONCEMERCADO_MONICO_352003",
-   "name": "Monico A Ponce-Mercado",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793453260,
-   "photo": "photos/MKE_PONCEMERCADO_MONICO_352003.jpg"
-  },
-  {
-   "key": "MKE_PADILLA_REINA_648054",
-   "name": "Reina Alexandra Padilla",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793453258,
-   "photo": "photos/MKE_PADILLA_REINA_648054.jpg"
-  },
-  {
-   "key": "MKE_DAVID_PEGGY_648055",
-   "name": "Peggy Lee David",
-   "age": "74",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793453256,
-   "photo": "photos/MKE_DAVID_PEGGY_648055.jpg"
-  },
-  {
-   "key": "MKE_PYANT_RAYNAL_372045",
-   "name": "Raynal Deron Pyant",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793451456,
-   "photo": "photos/MKE_PYANT_RAYNAL_372045.jpg"
   }
  ]
 }
