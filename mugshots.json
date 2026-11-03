@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T02:49:28+00:00",
+ "updated": "2026-11-03T03:28:04+00:00",
  "items": [
+  {
+   "key": "DOU_SWANSTROM_BRODIE_2026-11-02",
+   "name": "Brodie T Swanstrom",
+   "age": "29",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793675831,
+   "photo": null
+  },
   {
    "key": "MKE_MCNEAL_BRIDGET_648106",
    "name": "Bridget McNeal",
@@ -51,8 +62,8 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct Dv",
+   "more": 1,
    "ts": 1793670877,
    "photo": "photos/KEN_CARLISLE_DEMARIO_2026-00006061.jpg"
   },
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1793624138,
    "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004.jpg"
-  },
-  {
-   "key": "TREM_BAUTCH_ASHTON_5402",
-   "name": "Ashton Michael Bautch",
-   "age": "23",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated - 2nd Offense",
-   "more": 0,
-   "ts": 1793616428,
-   "photo": "photos/TREM_BAUTCH_ASHTON_5402.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_SWANSTROM_BRODIE_2026-11-02",
+   "name": "Brodie T Swanstrom",
+   "age": "29",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793675831,
+   "photo": null
+  },
   {
    "key": "MKE_MCNEAL_BRIDGET_648106",
    "name": "Bridget McNeal",
@@ -581,8 +592,8 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct Dv",
+   "more": 1,
    "ts": 1793670877,
    "photo": "photos/KEN_CARLISLE_DEMARIO_2026-00006061.jpg"
   },
@@ -4919,17 +4930,6 @@
    "more": 0,
    "ts": 1793418497,
    "photo": "photos/RC_CUCCIA_SHEILA_120011075771221.jpg"
-  },
-  {
-   "key": "MAR_BOHMAN_FRANK_2026-10-30_5866405",
-   "name": "Frank Lee Bohman",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793415300,
-   "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30_5866405.jpg"
   }
  ]
 }
