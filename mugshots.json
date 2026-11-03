@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T21:49:29+00:00",
+ "updated": "2026-11-03T21:59:07+00:00",
  "items": [
+  {
+   "key": "MKE_NICKESON_KATHRYN_644624",
+   "name": "Kathryn Michelle Nickeson",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1793743063,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWNTERRY_DEJA_621612",
+   "name": "Deja A Brown-Terry",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 3,
+   "ts": 1793743061,
+   "photo": null
+  },
+  {
+   "key": "MAR_AGUILAR_JOHN_2026-11-03_16618402",
+   "name": "John Joaquin Aguilar",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1793743029,
+   "photo": "photos/MAR_AGUILAR_JOHN_2026-11-03_16618402.jpg"
+  },
+  {
+   "key": "MAR_CAROLFI_SCOTT_2026-11-03_4789808",
+   "name": "Scott Duane Carolfi",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1793742993,
+   "photo": "photos/MAR_CAROLFI_SCOTT_2026-11-03_4789808.jpg"
+  },
+  {
+   "key": "MAR_SEEFELDT_CAMERON_2026-11-03_4613817",
+   "name": "Cameron P Seefeldt",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 0,
+   "ts": 1793742956,
+   "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03_4613817.jpg"
+  },
   {
    "key": "RC_WILLIAMS_KEYONTA_120011075901001",
    "name": "Keyonta T Williams",
@@ -40,7 +95,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Robbery with Use of Force",
+   "charge": "Attempt",
    "more": 1,
    "ts": 1793741260,
    "photo": null
@@ -189,17 +244,6 @@
    "photo": "photos/RC_KLOSS_ROBERT_120011075896527.jpg"
   },
   {
-   "key": "RC_ARONIN_WILLIAM_120011075896388",
-   "name": "William A Aronin",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735289,
-   "photo": "photos/RC_ARONIN_WILLIAM_120011075896388.jpg"
-  },
-  {
    "key": "SCHMALENBERG_MELISSA_2026-11-03",
    "name": "Melissa M Schmalenberg",
    "age": "30",
@@ -208,17 +252,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793734023,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_TEDDY_513435",
-   "name": "Teddy L Williams",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793732263,
    "photo": null
   },
   {
@@ -464,17 +497,6 @@
    "photo": "photos/DOU_SLOAN_ROBERT_2026-11-02.jpg"
   },
   {
-   "key": "MAR_LUTHER_ISAAC_2026-11-02",
-   "name": "Isaac Robert Luther",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793681753,
-   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-02.jpg"
-  },
-  {
    "key": "DAYTON_EMILY_2026-11-02",
    "name": "Emily Sue Dayton",
    "age": "23",
@@ -483,28 +505,6 @@
    "charge": "Operating While Under The Influence",
    "more": 0,
    "ts": 1793681225,
-   "photo": null
-  },
-  {
-   "key": "DOU_GLENN_DARIN_2026-11-02",
-   "name": "Darin A Glenn",
-   "age": "64",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793679427,
-   "photo": null
-  },
-  {
-   "key": "DOU_SWANSTROM_BRODIE_2026-11-02",
-   "name": "Brodie T Swanstrom",
-   "age": "29",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793675831,
    "photo": null
   },
   {
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_NICKESON_KATHRYN_644624",
+   "name": "Kathryn Michelle Nickeson",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1793743063,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWNTERRY_DEJA_621612",
+   "name": "Deja A Brown-Terry",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 3,
+   "ts": 1793743061,
+   "photo": null
+  },
+  {
+   "key": "MAR_AGUILAR_JOHN_2026-11-03_16618402",
+   "name": "John Joaquin Aguilar",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1793743029,
+   "photo": "photos/MAR_AGUILAR_JOHN_2026-11-03_16618402.jpg"
+  },
+  {
+   "key": "MAR_CAROLFI_SCOTT_2026-11-03_4789808",
+   "name": "Scott Duane Carolfi",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1793742993,
+   "photo": "photos/MAR_CAROLFI_SCOTT_2026-11-03_4789808.jpg"
+  },
+  {
+   "key": "MAR_SEEFELDT_CAMERON_2026-11-03_4613817",
+   "name": "Cameron P Seefeldt",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 0,
+   "ts": 1793742956,
+   "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03_4613817.jpg"
+  },
   {
    "key": "RC_WILLIAMS_KEYONTA_120011075901001",
    "name": "Keyonta T Williams",
@@ -570,7 +625,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Robbery with Use of Force",
+   "charge": "Attempt",
    "more": 1,
    "ts": 1793741260,
    "photo": null
@@ -793,7 +848,7 @@
    "charge": "Criminal Damage to Property",
    "more": 1,
    "ts": 1793730478,
-   "photo": null
+   "photo": "photos/MKE_HUFFMAN_JEFFREY_645343.jpg"
   },
   {
    "key": "MKE_BENSON_JOSEPH_365183",
@@ -815,7 +870,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793730473,
-   "photo": null
+   "photo": "photos/MKE_ALBANILOTAPA_SANTIAGO_648112.jpg"
   },
   {
    "key": "MKE_ADAMS_IVE_631753",
@@ -1013,7 +1068,7 @@
    "charge": "Resist/Obstruct Police Officer",
    "more": 0,
    "ts": 1793725061,
-   "photo": null
+   "photo": "photos/MKE_MACKBELL_AARON_648111.jpg"
   },
   {
    "key": "MKE_HOPSON_CYNTHIA_372929",
@@ -1032,7 +1087,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Bail Jumping-Felony",
    "more": 2,
    "ts": 1793725057,
    "photo": null
@@ -1101,7 +1156,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793721474,
-   "photo": null
+   "photo": "photos/MKE_LLOYD_MAURICE_502407.jpg"
   },
   {
    "key": "RC_REED_TERRANCE_120011075888000",
@@ -1233,7 +1288,7 @@
    "charge": "Neglecting a Child (Consequence is Bodily Harm)",
    "more": 1,
    "ts": 1793703457,
-   "photo": null
+   "photo": "photos/MKE_GALIOTO_MANDI_510997.jpg"
   },
   {
    "key": "RC_DELEON_SELENA_120011075870834",
@@ -5194,61 +5249,6 @@
    "more": 1,
    "ts": 1793485624,
    "photo": null
-  },
-  {
-   "key": "MKE_WALTER_JAMES_648059",
-   "name": "James Robert Walter",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 1,
-   "ts": 1793483872,
-   "photo": "photos/MKE_WALTER_JAMES_648059.jpg"
-  },
-  {
-   "key": "MKE_MILLER_AMIR_648060",
-   "name": "Amir L Miller",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793483870,
-   "photo": "photos/MKE_MILLER_AMIR_648060.jpg"
-  },
-  {
-   "key": "MKE_EVANS_KEIMAREY_648058",
-   "name": "Keimarey Lebrian Evans",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793483868,
-   "photo": "photos/MKE_EVANS_KEIMAREY_648058.jpg"
-  },
-  {
-   "key": "MAR_HITZ_ALEX_2026-10-31_15732501",
-   "name": "Alex Nicholas Hitz",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 5Th",
-   "more": 0,
-   "ts": 1793483775,
-   "photo": "photos/MAR_HITZ_ALEX_2026-10-31_15732501.jpg"
-  },
-  {
-   "key": "KEN_PARRISH_ROGER_2026-00006015",
-   "name": "Roger Louis Parrish",
-   "age": "63",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793483700,
-   "photo": "photos/KEN_PARRISH_ROGER_2026-00006015.jpg"
   }
  ]
 }
