@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T21:05:11+00:00",
+ "updated": "2026-11-03T21:28:20+00:00",
  "items": [
+  {
+   "key": "MKE_NEALMISSOURI_JATERRIUS_644248",
+   "name": "Jaterrius T Neal-Missouri",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Robbery with Use of Force",
+   "more": 1,
+   "ts": 1793741260,
+   "photo": null
+  },
+  {
+   "key": "FDL_WALKER_TODD_2026-11-03",
+   "name": "Todd M Walker",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793740620,
+   "photo": "photos/FDL_WALKER_TODD_2026-11-03.jpg"
+  },
   {
    "key": "KEN_SMITH_ERIN_2026-00006070",
    "name": "Erin Marie Smith",
@@ -186,17 +208,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793731675,
-   "photo": null
-  },
-  {
-   "key": "RC_ELLIS_FAARZE_120011075893580",
-   "name": "Faarze Ellis",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1793731672,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793654823,
    "photo": null
-  },
-  {
-   "key": "ABSTON_DANIEL_2026-11-02",
-   "name": "Daniel L C Abston",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793651229,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_NEALMISSOURI_JATERRIUS_644248",
+   "name": "Jaterrius T Neal-Missouri",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Robbery with Use of Force",
+   "more": 1,
+   "ts": 1793741260,
+   "photo": null
+  },
+  {
+   "key": "FDL_WALKER_TODD_2026-11-03",
+   "name": "Todd M Walker",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793740620,
+   "photo": "photos/FDL_WALKER_TODD_2026-11-03.jpg"
+  },
   {
    "key": "KEN_SMITH_ERIN_2026-00006070",
    "name": "Erin Marie Smith",
@@ -5227,17 +5249,6 @@
    "more": 2,
    "ts": 1793483269,
    "photo": "photos/RC_KELLEY_TIMOTHY_120011075787811.jpg"
-  },
-  {
-   "key": "FDL_PIRTLE_MARCUS_2026-10-31",
-   "name": "Marcus Lakeith Pirtle",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793481409,
-   "photo": "photos/FDL_PIRTLE_MARCUS_2026-10-31.jpg"
   }
  ]
 }
