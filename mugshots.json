@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-03T06:27:16+00:00",
+ "updated": "2026-11-03T06:49:29+00:00",
  "items": [
+  {
+   "key": "RC_DAVIS_OLIVIA_120011075866834",
+   "name": "Olivia Kimberly Davis",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793688472,
+   "photo": "photos/RC_DAVIS_OLIVIA_120011075866834.jpg"
+  },
+  {
+   "key": "RC_CAMPTON_JESIAH_120011075866771",
+   "name": "Jesiah Campton",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793688469,
+   "photo": "photos/RC_CAMPTON_JESIAH_120011075866771.jpg"
+  },
+  {
+   "key": "RC_BENITEZTORRES_JOVANY_120011075866902",
+   "name": "Jovany Benitez-torres",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793688466,
+   "photo": "photos/RC_BENITEZTORRES_JOVANY_120011075866902.jpg"
+  },
+  {
+   "key": "CARTER_PRINCE_2026-11-03",
+   "name": "Prince A Carter",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793688426,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUCKER_DANAJA_634775",
+   "name": "Danaja Monique Rucker",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793687262,
+   "photo": null
+  },
+  {
+   "key": "MKE_PADILLA_RICARDO_394180",
+   "name": "Ricardo Padilla",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793687261,
+   "photo": null
+  },
   {
    "key": "MKE_GILLIAM_KEON_532485",
    "name": "Keon Kortez Gilliam",
@@ -189,50 +255,6 @@
    "photo": "photos/MKE_TREJODONGHU_GAMALIEL_639135.jpg"
   },
   {
-   "key": "MKE_RIEMER_DASHAWN_648104",
-   "name": "Dashawn M Riemer",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793665679,
-   "photo": "photos/MKE_RIEMER_DASHAWN_648104.jpg"
-  },
-  {
-   "key": "MKE_HILL_JERIUS_648103",
-   "name": "Jerius L Hill",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
-   "more": 3,
-   "ts": 1793665676,
-   "photo": null
-  },
-  {
-   "key": "MKE_GRANT_GAVIN_646264",
-   "name": "Gavin Christopher Grant",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1793665673,
-   "photo": "photos/MKE_GRANT_GAVIN_646264.jpg"
-  },
-  {
-   "key": "KEN_JONES_JAMIRE_2026-00006060",
-   "name": "Jamire L Jones",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate After Rev/Susp Of Registration",
-   "more": 2,
-   "ts": 1793663637,
-   "photo": null
-  },
-  {
    "key": "LUOMA_BENJAMIN_2026-11-02",
    "name": "Benjamin R Luoma",
    "age": "26",
@@ -241,17 +263,6 @@
    "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1793663230,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_ORA_616989",
-   "name": "Ora Shataria Williams",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793662065,
    "photo": null
   },
   {
@@ -517,20 +528,75 @@
    "more": 5,
    "ts": 1793630827,
    "photo": null
-  },
-  {
-   "key": "FDL_KREIS_MASON_2026-11-02",
-   "name": "Mason William Kreis",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793629015,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DAVIS_OLIVIA_120011075866834",
+   "name": "Olivia Kimberly Davis",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793688472,
+   "photo": "photos/RC_DAVIS_OLIVIA_120011075866834.jpg"
+  },
+  {
+   "key": "RC_CAMPTON_JESIAH_120011075866771",
+   "name": "Jesiah Campton",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793688469,
+   "photo": "photos/RC_CAMPTON_JESIAH_120011075866771.jpg"
+  },
+  {
+   "key": "RC_BENITEZTORRES_JOVANY_120011075866902",
+   "name": "Jovany Benitez-torres",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793688466,
+   "photo": "photos/RC_BENITEZTORRES_JOVANY_120011075866902.jpg"
+  },
+  {
+   "key": "CARTER_PRINCE_2026-11-03",
+   "name": "Prince A Carter",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793688426,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUCKER_DANAJA_634775",
+   "name": "Danaja Monique Rucker",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793687262,
+   "photo": null
+  },
+  {
+   "key": "MKE_PADILLA_RICARDO_394180",
+   "name": "Ricardo Padilla",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793687261,
+   "photo": null
+  },
   {
    "key": "MKE_GILLIAM_KEON_532485",
    "name": "Keon Kortez Gilliam",
@@ -980,7 +1046,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793654871,
-   "photo": null
+   "photo": "photos/MKE_TIGGINS_LACHANDRA_293321.jpg"
   },
   {
    "key": "MKE_ALVARADO_JAIME_270149",
@@ -1079,7 +1145,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1793649566,
-   "photo": null
+   "photo": "photos/MKE_WELLS_ANTHONY_292435.jpg"
   },
   {
    "key": "MKE_WASHINGTON_RONTRELL_372945",
@@ -1112,7 +1178,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793649561,
-   "photo": null
+   "photo": "photos/MKE_PEREZ_SONNY_648099.jpg"
   },
   {
    "key": "MKE_MCFARLING_JORDAN_620149",
@@ -1156,7 +1222,7 @@
    "charge": "Possess w/Intent-Cocaine (>15-40g)",
    "more": 0,
    "ts": 1793649553,
-   "photo": null
+   "photo": "photos/MKE_BIVENS_JESSE_622015.jpg"
   },
   {
    "key": "RC_LACHANCE_STEVEN_120011075848713",
@@ -4897,17 +4963,6 @@
    "more": 0,
    "ts": 1793431007,
    "photo": "photos/FDL_PEREZ_JAROL_2026-10-31.jpg"
-  },
-  {
-   "key": "RC_LEGNAIOLI_BRIAN_120011075773443",
-   "name": "Brian Anthony Legnaioli",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793429271,
-   "photo": null
   }
  ]
 }
