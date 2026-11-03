@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-03T10:57:23+00:00",
+ "updated": "2026-11-03T11:27:54+00:00",
  "items": [
+  {
+   "key": "MKE_LARA_DENNIS_331853",
+   "name": "Dennis Anthony Lara",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793705251,
+   "photo": null
+  },
+  {
+   "key": "MKE_FULGHEM_BREON_359458",
+   "name": "Breon Lamar Fulghem",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793705249,
+   "photo": null
+  },
+  {
+   "key": "MKE_LESTER_QUINCY_500723",
+   "name": "Quincy Isiah Lester",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793703458,
+   "photo": null
+  },
+  {
+   "key": "MKE_GALIOTO_MANDI_510997",
+   "name": "Mandi Lynn Galioto",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Neglecting a Child (Consequence is Bodily Harm)",
+   "more": 1,
+   "ts": 1793703457,
+   "photo": null
+  },
   {
    "key": "RC_DELEON_SELENA_120011075870834",
    "name": "Selena Deleon",
@@ -62,8 +106,8 @@
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793699853,
    "photo": null
   },
@@ -73,10 +117,10 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "charge": "Possession of Narcotic Drugs",
    "more": 4,
    "ts": 1793699851,
-   "photo": null
+   "photo": "photos/MKE_BICKNELL_ASHLEY_631873.jpg"
   },
   {
    "key": "MAR_ANDRUSS_JOSEPH_2026-11-03",
@@ -211,17 +255,6 @@
    "photo": "photos/RC_ROGERSIRISH_CARL_120011075868955.jpg"
   },
   {
-   "key": "MKE_HILL_BURTON_386339",
-   "name": "Burton L Hill",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793694452,
-   "photo": "photos/MKE_HILL_BURTON_386339.jpg"
-  },
-  {
    "key": "WINJUM_ADRIAN_2026-11-03",
    "name": "Adrian M Winjum",
    "age": "23",
@@ -231,39 +264,6 @@
    "more": 1,
    "ts": 1793692026,
    "photo": null
-  },
-  {
-   "key": "MKE_PAYNE_QUIANNA_637283",
-   "name": "Quianna Aaliyah Payne",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1793689118,
-   "photo": "photos/MKE_PAYNE_QUIANNA_637283.jpg"
-  },
-  {
-   "key": "MKE_LAWRENCE_PHILLIP_240291",
-   "name": "Phillip Phillip Lawrence",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793689117,
-   "photo": "photos/MKE_LAWRENCE_PHILLIP_240291.jpg"
-  },
-  {
-   "key": "RC_DAVIS_OLIVIA_120011075866834",
-   "name": "Olivia Kimberly Davis",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793688472,
-   "photo": "photos/RC_DAVIS_OLIVIA_120011075866834.jpg"
   },
   {
    "key": "CARTER_PRINCE_2026-11-03",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_LARA_DENNIS_331853",
+   "name": "Dennis Anthony Lara",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793705251,
+   "photo": null
+  },
+  {
+   "key": "MKE_FULGHEM_BREON_359458",
+   "name": "Breon Lamar Fulghem",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793705249,
+   "photo": null
+  },
+  {
+   "key": "MKE_LESTER_QUINCY_500723",
+   "name": "Quincy Isiah Lester",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793703458,
+   "photo": null
+  },
+  {
+   "key": "MKE_GALIOTO_MANDI_510997",
+   "name": "Mandi Lynn Galioto",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Neglecting a Child (Consequence is Bodily Harm)",
+   "more": 1,
+   "ts": 1793703457,
+   "photo": null
+  },
+  {
    "key": "RC_DELEON_SELENA_120011075870834",
    "name": "Selena Deleon",
    "age": "27",
@@ -592,8 +636,8 @@
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793699853,
    "photo": null
   },
@@ -603,10 +647,10 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "charge": "Possession of Narcotic Drugs",
    "more": 4,
    "ts": 1793699851,
-   "photo": null
+   "photo": "photos/MKE_BICKNELL_ASHLEY_631873.jpg"
   },
   {
    "key": "MAR_ANDRUSS_JOSEPH_2026-11-03",
@@ -4985,17 +5029,6 @@
    "more": 0,
    "ts": 1793449003,
    "photo": null
-  },
-  {
-   "key": "MKE_SANTIAGOMENDIOLA_MARTIN_648053",
-   "name": "Martin Santiago Mendiola",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793446051,
-   "photo": "photos/MKE_SANTIAGOMENDIOLA_MARTIN_648053.jpg"
   }
  ]
 }
