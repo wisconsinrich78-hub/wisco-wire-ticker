@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-03T17:33:19+00:00",
+ "updated": "2026-11-03T17:49:25+00:00",
  "items": [
+  {
+   "key": "RC_WALLACE_CHARLES_120011075893484",
+   "name": "Charles Lee Wallace",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728084,
+   "photo": null
+  },
+  {
+   "key": "RC_THOMAS_JENNIFER_120011075891601",
+   "name": "Jennifer M Thomas",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728082,
+   "photo": "photos/RC_THOMAS_JENNIFER_120011075891601.jpg"
+  },
+  {
+   "key": "RC_SMITH_JAMAAL_120011075893394",
+   "name": "Jamaal Smith",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728080,
+   "photo": null
+  },
+  {
+   "key": "RC_JAIMES_NOAH_120011075891755",
+   "name": "Noah Ciro Jaimes",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728077,
+   "photo": "photos/RC_JAIMES_NOAH_120011075891755.jpg"
+  },
+  {
+   "key": "RC_DANCER_BARON_120011075893092",
+   "name": "Baron Dancer",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728075,
+   "photo": null
+  },
+  {
+   "key": "RC_BUNTON_CRAIG_120011075893266",
+   "name": "Craig Bunton",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728072,
+   "photo": null
+  },
+  {
+   "key": "RC_BRANTMIER_JACOB_120011075892991",
+   "name": "Jacob Brantmier",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728070,
+   "photo": null
+  },
   {
    "key": "MKE_STOKES_ROBYN_638891",
    "name": "Robyn Lynn Stokes",
@@ -134,39 +211,6 @@
    "photo": "photos/DOU_LAFAVE_EDWARD_2026-11-03.jpg"
   },
   {
-   "key": "MKE_STEVENSON_KEVIONTA_622593",
-   "name": "Kevionta T Stevenson",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793721477,
-   "photo": null
-  },
-  {
-   "key": "MKE_LLOYD_MAURICE_502407",
-   "name": "Maurice Lloyd",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793721474,
-   "photo": null
-  },
-  {
-   "key": "RC_REED_TERRANCE_120011075888000",
-   "name": "Terrance R Reed",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793720879,
-   "photo": "photos/RC_REED_TERRANCE_120011075888000.jpg"
-  },
-  {
    "key": "TABOR_ZACHARY_2026-11-03",
    "name": "Zachary S Tabor",
    "age": "34",
@@ -187,17 +231,6 @@
    "more": 0,
    "ts": 1793718973,
    "photo": "photos/FDL_BARTA_JULIE_2026-11-03.jpg"
-  },
-  {
-   "key": "MKE_FRANKLIN_RAYNARD_378062",
-   "name": "Raynard Franklin",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793716052,
-   "photo": null
   },
   {
    "key": "MAR_ANDRUSS_JOSEPH_2026-11-03_NOIMAGE",
@@ -230,39 +263,6 @@
    "charge": "Out Of County Warrant",
    "more": 0,
    "ts": 1793712424,
-   "photo": null
-  },
-  {
-   "key": "MKE_RODRIGUEZ_YANDIEL_648110",
-   "name": "Yandiel Alexis Rodriguez",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793710729,
-   "photo": null
-  },
-  {
-   "key": "MKE_LARA_DENNIS_331853",
-   "name": "Dennis Anthony Lara",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793705251,
-   "photo": null
-  },
-  {
-   "key": "MKE_FULGHEM_BREON_359458",
-   "name": "Breon Lamar Fulghem",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793705249,
    "photo": null
   },
   {
@@ -531,6 +531,83 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WALLACE_CHARLES_120011075893484",
+   "name": "Charles Lee Wallace",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728084,
+   "photo": null
+  },
+  {
+   "key": "RC_THOMAS_JENNIFER_120011075891601",
+   "name": "Jennifer M Thomas",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728082,
+   "photo": "photos/RC_THOMAS_JENNIFER_120011075891601.jpg"
+  },
+  {
+   "key": "RC_SMITH_JAMAAL_120011075893394",
+   "name": "Jamaal Smith",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728080,
+   "photo": null
+  },
+  {
+   "key": "RC_JAIMES_NOAH_120011075891755",
+   "name": "Noah Ciro Jaimes",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728077,
+   "photo": "photos/RC_JAIMES_NOAH_120011075891755.jpg"
+  },
+  {
+   "key": "RC_DANCER_BARON_120011075893092",
+   "name": "Baron Dancer",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728075,
+   "photo": null
+  },
+  {
+   "key": "RC_BUNTON_CRAIG_120011075893266",
+   "name": "Craig Bunton",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728072,
+   "photo": null
+  },
+  {
+   "key": "RC_BRANTMIER_JACOB_120011075892991",
+   "name": "Jacob Brantmier",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793728070,
+   "photo": null
+  },
   {
    "key": "MKE_STOKES_ROBYN_638891",
    "name": "Robyn Lynn Stokes",
