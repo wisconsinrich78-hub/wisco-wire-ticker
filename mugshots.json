@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T16:27:21+00:00",
+ "updated": "2026-11-03T16:49:28+00:00",
  "items": [
+  {
+   "key": "RC_WILLIAMS_DARRELL_120011075889931",
+   "name": "Darrell Williams",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
+   "more": 0,
+   "ts": 1793724468,
+   "photo": "photos/RC_WILLIAMS_DARRELL_120011075889931.jpg"
+  },
   {
    "key": "DOU_LAFAVE_EDWARD_2026-11-03",
    "name": "Edward J Lafave",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1793699841,
    "photo": null
-  },
-  {
-   "key": "KEN_JAMESON_RANDY_2026-00006063",
-   "name": "Randy Jameson",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 6,
-   "ts": 1793699831,
-   "photo": "photos/KEN_JAMESON_RANDY_2026-00006063.jpg"
   },
   {
    "key": "MAR_FULLER_JOSHUA_2026-11-03",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WILLIAMS_DARRELL_120011075889931",
+   "name": "Darrell Williams",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
+   "more": 0,
+   "ts": 1793724468,
+   "photo": "photos/RC_WILLIAMS_DARRELL_120011075889931.jpg"
+  },
   {
    "key": "DOU_LAFAVE_EDWARD_2026-11-03",
    "name": "Edward J Lafave",
@@ -4919,17 +4930,6 @@
    "more": 1,
    "ts": 1793467658,
    "photo": "photos/MKE_JONESHARRIS_SHAKILLE_526075.jpg"
-  },
-  {
-   "key": "MKE_KENDRICK_LINCOLN_292746",
-   "name": "Lincoln Kendrick",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1793464072,
-   "photo": "photos/MKE_KENDRICK_LINCOLN_292746.jpg"
   }
  ]
 }
