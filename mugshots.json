@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T20:49:28+00:00",
+ "updated": "2026-11-03T20:57:57+00:00",
  "items": [
+  {
+   "key": "MAR_SEEFELDT_CAMERON_2026-11-03",
+   "name": "Cameron P Seefeldt",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 0,
+   "ts": 1793739350,
+   "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03.jpg"
+  },
   {
    "key": "RC_TAYLOR_MICHAEL_120011075899667",
    "name": "Michael Charles Nathani Taylor",
@@ -475,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_GOSCH_TAMMIE_2026-11-02",
-   "name": "Tammie Annette Gosch",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793670965,
-   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-02.jpg"
-  },
-  {
    "key": "LUOMA_BENJAMIN_2026-11-02",
    "name": "Benjamin R Luoma",
    "age": "26",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_SEEFELDT_CAMERON_2026-11-03",
+   "name": "Cameron P Seefeldt",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 0,
+   "ts": 1793739350,
+   "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03.jpg"
+  },
   {
    "key": "RC_TAYLOR_MICHAEL_120011075899667",
    "name": "Michael Charles Nathani Taylor",
@@ -5216,28 +5227,6 @@
    "more": 0,
    "ts": 1793481409,
    "photo": "photos/FDL_PIRTLE_MARCUS_2026-10-31.jpg"
-  },
-  {
-   "key": "MKE_KEY_MICHAEL_206328",
-   "name": "Michael Anthony Key",
-   "age": "57",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st)",
-   "more": 0,
-   "ts": 1793480249,
-   "photo": "photos/MKE_KEY_MICHAEL_206328.jpg"
-  },
-  {
-   "key": "MAR_HITZ_ALEX_2026-10-31",
-   "name": "Alex Nicholas Hitz",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 5Th",
-   "more": 0,
-   "ts": 1793480132,
-   "photo": null
   }
  ]
 }
