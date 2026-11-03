@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T18:34:43+00:00",
+ "updated": "2026-11-03T18:49:19+00:00",
  "items": [
+  {
+   "key": "RC_WALKER_PHILLIP_120011075893731",
+   "name": "Phillip Walker",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793731675,
+   "photo": null
+  },
+  {
+   "key": "RC_ELLIS_FAARZE_120011075893580",
+   "name": "Faarze Ellis",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Department Of Corrections Hold",
+   "more": 0,
+   "ts": 1793731672,
+   "photo": null
+  },
   {
    "key": "MKE_HUFFMAN_JEFFREY_645343",
    "name": "Jeffrey A Huffman",
@@ -197,28 +219,6 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793726862,
-   "photo": null
-  },
-  {
-   "key": "MKE_NEWMAN_WALLACE_647267",
-   "name": "Wallace Newman",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793726860,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCLAURIN_FREDDIE_195701",
-   "name": "Freddie Terrel Mclaurin",
-   "age": "69",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793726858,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WALKER_PHILLIP_120011075893731",
+   "name": "Phillip Walker",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793731675,
+   "photo": null
+  },
+  {
+   "key": "RC_ELLIS_FAARZE_120011075893580",
+   "name": "Faarze Ellis",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Department Of Corrections Hold",
+   "more": 0,
+   "ts": 1793731672,
+   "photo": null
+  },
   {
    "key": "MKE_HUFFMAN_JEFFREY_645343",
    "name": "Jeffrey A Huffman",
@@ -5128,28 +5150,6 @@
    "more": 0,
    "ts": 1793473055,
    "photo": "photos/MKE_ARMONDODELEON_VICTOR_640359.jpg"
-  },
-  {
-   "key": "RC_GOVEA_KEVIN_120011075784472",
-   "name": "Kevin Govea",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793472471,
-   "photo": "photos/RC_GOVEA_KEVIN_120011075784472.jpg"
-  },
-  {
-   "key": "RC_DELEON_NICHOLAS_120011075785283",
-   "name": "Nicholas R Deleon",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793472468,
-   "photo": "photos/RC_DELEON_NICHOLAS_120011075785283.jpg"
   }
  ]
 }
