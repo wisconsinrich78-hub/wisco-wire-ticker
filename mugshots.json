@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-03T00:44:17+00:00",
+ "updated": "2026-11-03T00:49:37+00:00",
  "items": [
+  {
+   "key": "RC_KRAUSS_ISABELLA_120011075859065",
+   "name": "Isabella Krauss",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793666917,
+   "photo": "photos/RC_KRAUSS_ISABELLA_120011075859065.jpg"
+  },
+  {
+   "key": "RC_FOGGS_HIAWATHER_120011075859600",
+   "name": "Hiawather A Foggs",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793666914,
+   "photo": "photos/RC_FOGGS_HIAWATHER_120011075859600.jpg"
+  },
+  {
+   "key": "RC_ALLEN_LYDIA_120011075859075",
+   "name": "Lydia Ann Allen",
+   "age": "67",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793666911,
+   "photo": "photos/RC_ALLEN_LYDIA_120011075859075.jpg"
+  },
   {
    "key": "MKE_TREJODONGHU_GAMALIEL_639135",
    "name": "Gamaliel Trejo-Donghu",
@@ -200,17 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_DOOLEY_JAMES_601380",
-   "name": "James Oliver Dooley",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793656682,
-   "photo": null
-  },
-  {
    "key": "MAR_EWAN_CORDERO_2026-11-02",
    "name": "Cordero Robert Ewan",
    "age": "37",
@@ -231,28 +253,6 @@
    "more": 1,
    "ts": 1793656576,
    "photo": null
-  },
-  {
-   "key": "RC_HUGHES_JESSICA_120011075854794",
-   "name": "Jessica James Hughes",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793656084,
-   "photo": "photos/RC_HUGHES_JESSICA_120011075854794.jpg"
-  },
-  {
-   "key": "RC_COATES_CAMARRI_120011075855820",
-   "name": "Camarri Marcell Coates",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793656081,
-   "photo": "photos/RC_COATES_CAMARRI_120011075855820.jpg"
   },
   {
    "key": "LUBA_JOSHUA_2026-11-02",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KRAUSS_ISABELLA_120011075859065",
+   "name": "Isabella Krauss",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793666917,
+   "photo": "photos/RC_KRAUSS_ISABELLA_120011075859065.jpg"
+  },
+  {
+   "key": "RC_FOGGS_HIAWATHER_120011075859600",
+   "name": "Hiawather A Foggs",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793666914,
+   "photo": "photos/RC_FOGGS_HIAWATHER_120011075859600.jpg"
+  },
+  {
+   "key": "RC_ALLEN_LYDIA_120011075859075",
+   "name": "Lydia Ann Allen",
+   "age": "67",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793666911,
+   "photo": "photos/RC_ALLEN_LYDIA_120011075859075.jpg"
+  },
   {
    "key": "MKE_TREJODONGHU_GAMALIEL_639135",
    "name": "Gamaliel Trejo-Donghu",
@@ -4908,17 +4941,6 @@
    "more": 0,
    "ts": 1793408260,
    "photo": "photos/MKE_GARCIA_JOSE_2057994.jpg"
-  },
-  {
-   "key": "BURZINSKI_DAVID_2026-10-30",
-   "name": "David E Burzinski",
-   "age": "61",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793407628,
-   "photo": null
   }
  ]
 }
