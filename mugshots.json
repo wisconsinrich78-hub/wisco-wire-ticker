@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-03T15:49:27+00:00",
+ "updated": "2026-11-03T16:27:21+00:00",
  "items": [
+  {
+   "key": "DOU_LAFAVE_EDWARD_2026-11-03",
+   "name": "Edward J Lafave",
+   "age": "49",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793722626,
+   "photo": "photos/DOU_LAFAVE_EDWARD_2026-11-03.jpg"
+  },
+  {
+   "key": "MKE_STEVENSON_KEVIONTA_622593",
+   "name": "Kevionta T Stevenson",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793721477,
+   "photo": null
+  },
+  {
+   "key": "MKE_LLOYD_MAURICE_502407",
+   "name": "Maurice Lloyd",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793721474,
+   "photo": null
+  },
   {
    "key": "RC_REED_TERRANCE_120011075888000",
    "name": "Terrance R Reed",
@@ -255,28 +288,6 @@
    "photo": "photos/HOU_SHELTON_RAHSANAHKEEM_6324.jpg"
   },
   {
-   "key": "MKE_TOOMBSS_ERVIN_648108",
-   "name": "Ervin Corkey Toombss",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793698066,
-   "photo": "photos/MKE_TOOMBSS_ERVIN_648108.jpg"
-  },
-  {
-   "key": "MKE_RENGIFOOCHICA_YESID_648109",
-   "name": "Yesid Rengifo-Ochica",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793698064,
-   "photo": "photos/MKE_RENGIFOOCHICA_YESID_648109.jpg"
-  },
-  {
    "key": "HESSELBERG_TAYLOR_2026-11-03",
    "name": "Taylor J Hesselberg",
    "age": "35",
@@ -464,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "MAR_HOLLINGSWORTH_JAYDEN_2026-11-02",
-   "name": "Jayden Lee Joseph Hollingsworth",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "2Nd Deg. Sex Assault-Intoxicated Victim",
-   "more": 1,
-   "ts": 1793656576,
-   "photo": null
-  },
-  {
    "key": "LUBA_JOSHUA_2026-11-02",
    "name": "Joshua J Luba",
    "age": "44",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_LAFAVE_EDWARD_2026-11-03",
+   "name": "Edward J Lafave",
+   "age": "49",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793722626,
+   "photo": "photos/DOU_LAFAVE_EDWARD_2026-11-03.jpg"
+  },
+  {
+   "key": "MKE_STEVENSON_KEVIONTA_622593",
+   "name": "Kevionta T Stevenson",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793721477,
+   "photo": null
+  },
+  {
+   "key": "MKE_LLOYD_MAURICE_502407",
+   "name": "Maurice Lloyd",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793721474,
+   "photo": null
+  },
   {
    "key": "RC_REED_TERRANCE_120011075888000",
    "name": "Terrance R Reed",
@@ -4897,50 +4930,6 @@
    "more": 3,
    "ts": 1793464072,
    "photo": "photos/MKE_KENDRICK_LINCOLN_292746.jpg"
-  },
-  {
-   "key": "FDL_AGUILARCERVELLON_JAXEL_2026-10-31",
-   "name": "Jaxel J Aguilar Cervellon",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793463368,
-   "photo": null
-  },
-  {
-   "key": "MKE_VAZQUEZ_MARCOS_386219",
-   "name": "Marcos Vazquez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793462292,
-   "photo": "photos/MKE_VAZQUEZ_MARCOS_386219.jpg"
-  },
-  {
-   "key": "KEN_BURTON_DERRICK_2026-00006014",
-   "name": "Derrick Lamar Burton",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793462169,
-   "photo": "photos/KEN_BURTON_DERRICK_2026-00006014.jpg"
-  },
-  {
-   "key": "MAR_BERENS_AIDEN_2026-10-31_16089001",
-   "name": "Aiden Russell Berens",
-   "age": "17",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 0,
-   "ts": 1793462143,
-   "photo": "photos/MAR_BERENS_AIDEN_2026-10-31_16089001.jpg"
   }
  ]
 }
