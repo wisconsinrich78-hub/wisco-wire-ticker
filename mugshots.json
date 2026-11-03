@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-03T09:54:39+00:00",
+ "updated": "2026-11-03T10:28:29+00:00",
  "items": [
+  {
+   "key": "HAASE_BRIAN_2026-11-03",
+   "name": "Brian R Haase",
+   "age": "28",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793701619,
+   "photo": null
+  },
+  {
+   "key": "KEN_ROLLINS_CHARLOTTE_2026-00006064",
+   "name": "Charlotte Frances Rollins",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Misd",
+   "more": 0,
+   "ts": 1793699910,
+   "photo": "photos/KEN_ROLLINS_CHARLOTTE_2026-00006064.jpg"
+  },
+  {
+   "key": "MKE_TALIAFERRO_KEVEONTAE_618733",
+   "name": "Keveontae Jakeil Taliaferro",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793699857,
+   "photo": null
+  },
+  {
+   "key": "MKE_PERRY_BARBARA_228553",
+   "name": "Barbara Jo Perry",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793699855,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRIDGES_TIMOTHY_328652",
+   "name": "Timothy T Bridges",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793699853,
+   "photo": null
+  },
+  {
+   "key": "MKE_BICKNELL_ASHLEY_631873",
+   "name": "Ashley Lynn Bicknell",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "more": 4,
+   "ts": 1793699851,
+   "photo": null
+  },
+  {
+   "key": "MAR_ANDRUSS_JOSEPH_2026-11-03",
+   "name": "Joseph Andruss",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793699841,
+   "photo": null
+  },
+  {
+   "key": "KEN_JAMESON_RANDY_2026-00006063",
+   "name": "Randy Jameson",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793699831,
+   "photo": "photos/KEN_JAMESON_RANDY_2026-00006063.jpg"
+  },
+  {
+   "key": "MAR_FULLER_JOSHUA_2026-11-03",
+   "name": "Joshua Michael Fuller",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1793699806,
+   "photo": "photos/MAR_FULLER_JOSHUA_2026-11-03.jpg"
+  },
   {
    "key": "HOU_SHELTON_RAHSANAHKEEM_6324",
    "name": "Rahsan Ahkeem Shelton",
@@ -142,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793689117,
-   "photo": null
+   "photo": "photos/MKE_LAWRENCE_PHILLIP_240291.jpg"
   },
   {
    "key": "RC_DAVIS_OLIVIA_120011075866834",
@@ -167,17 +266,6 @@
    "photo": "photos/RC_CAMPTON_JESIAH_120011075866771.jpg"
   },
   {
-   "key": "RC_BENITEZTORRES_JOVANY_120011075866902",
-   "name": "Jovany Benitez-torres",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793688466,
-   "photo": "photos/RC_BENITEZTORRES_JOVANY_120011075866902.jpg"
-  },
-  {
    "key": "CARTER_PRINCE_2026-11-03",
    "name": "Prince A Carter",
    "age": "32",
@@ -189,39 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_RUCKER_DANAJA_634775",
-   "name": "Danaja Monique Rucker",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793687262,
-   "photo": "photos/MKE_RUCKER_DANAJA_634775.jpg"
-  },
-  {
-   "key": "MKE_PADILLA_RICARDO_394180",
-   "name": "Ricardo Padilla",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793687261,
-   "photo": "photos/MKE_PADILLA_RICARDO_394180.jpg"
-  },
-  {
-   "key": "MKE_GILLIAM_KEON_532485",
-   "name": "Keon Kortez Gilliam",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793683683,
-   "photo": "photos/MKE_GILLIAM_KEON_532485.jpg"
-  },
-  {
    "key": "DOU_SLOAN_ROBERT_2026-11-02",
    "name": "Robert M Sloan",
    "age": "37",
@@ -231,17 +286,6 @@
    "more": 2,
    "ts": 1793683060,
    "photo": "photos/DOU_SLOAN_ROBERT_2026-11-02.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_MARCUS_274479",
-   "name": "Marcus Duane Johnson",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793681866,
-   "photo": null
   },
   {
    "key": "MAR_LUTHER_ISAAC_2026-11-02",
@@ -286,17 +330,6 @@
    "more": 1,
    "ts": 1793675831,
    "photo": null
-  },
-  {
-   "key": "MKE_MCNEAL_BRIDGET_648106",
-   "name": "Bridget McNeal",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793672854,
-   "photo": "photos/MKE_MCNEAL_BRIDGET_648106.jpg"
   },
   {
    "key": "MAR_GOSCH_TAMMIE_2026-11-02",
@@ -464,17 +497,6 @@
    "photo": "photos/MAR_JOHNSON_BENJAMIN_2026-11-02.jpg"
   },
   {
-   "key": "MAR_ZASTROW_KELSEY_2026-11-02",
-   "name": "Kelsey Cassandra Zastrow",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793642176,
-   "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02.jpg"
-  },
-  {
    "key": "BOLSTAD_TRAVIS_2026-11-02",
    "name": "Travis Michael Bolstad",
    "age": "44",
@@ -497,17 +519,6 @@
    "photo": null
   },
   {
-   "key": "MAR_HINZ_COURTNEY_2026-11-02_17016001",
-   "name": "Courtney Hinz",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1793638585,
-   "photo": "photos/MAR_HINZ_COURTNEY_2026-11-02_17016001.jpg"
-  },
-  {
    "key": "LIMESTAHL_TODD_2026-11-02",
    "name": "Todd W Limestahl",
    "age": "60",
@@ -517,20 +528,108 @@
    "more": 1,
    "ts": 1793638024,
    "photo": null
-  },
-  {
-   "key": "FDL_BEAUGRAND_DAVID_2026-11-02",
-   "name": "David Dean Beaugrand",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793636163,
-   "photo": "photos/FDL_BEAUGRAND_DAVID_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "HAASE_BRIAN_2026-11-03",
+   "name": "Brian R Haase",
+   "age": "28",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793701619,
+   "photo": null
+  },
+  {
+   "key": "KEN_ROLLINS_CHARLOTTE_2026-00006064",
+   "name": "Charlotte Frances Rollins",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Misd",
+   "more": 0,
+   "ts": 1793699910,
+   "photo": "photos/KEN_ROLLINS_CHARLOTTE_2026-00006064.jpg"
+  },
+  {
+   "key": "MKE_TALIAFERRO_KEVEONTAE_618733",
+   "name": "Keveontae Jakeil Taliaferro",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793699857,
+   "photo": null
+  },
+  {
+   "key": "MKE_PERRY_BARBARA_228553",
+   "name": "Barbara Jo Perry",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793699855,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRIDGES_TIMOTHY_328652",
+   "name": "Timothy T Bridges",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793699853,
+   "photo": null
+  },
+  {
+   "key": "MKE_BICKNELL_ASHLEY_631873",
+   "name": "Ashley Lynn Bicknell",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "more": 4,
+   "ts": 1793699851,
+   "photo": null
+  },
+  {
+   "key": "MAR_ANDRUSS_JOSEPH_2026-11-03",
+   "name": "Joseph Andruss",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793699841,
+   "photo": null
+  },
+  {
+   "key": "KEN_JAMESON_RANDY_2026-00006063",
+   "name": "Randy Jameson",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793699831,
+   "photo": "photos/KEN_JAMESON_RANDY_2026-00006063.jpg"
+  },
+  {
+   "key": "MAR_FULLER_JOSHUA_2026-11-03",
+   "name": "Joshua Michael Fuller",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1793699806,
+   "photo": "photos/MAR_FULLER_JOSHUA_2026-11-03.jpg"
+  },
   {
    "key": "HOU_SHELTON_RAHSANAHKEEM_6324",
    "name": "Rahsan Ahkeem Shelton",
@@ -672,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793689117,
-   "photo": null
+   "photo": "photos/MKE_LAWRENCE_PHILLIP_240291.jpg"
   },
   {
    "key": "RC_DAVIS_OLIVIA_120011075866834",
@@ -771,7 +870,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793681866,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_MARCUS_274479.jpg"
   },
   {
    "key": "MAR_LUTHER_ISAAC_2026-11-02",
@@ -4907,61 +5006,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793443669,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCADORY_AUTREY_607821",
-   "name": "Autrey Ann Mcadory",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793442451,
-   "photo": null
-  },
-  {
-   "key": "MKE_COFFEY_SAMUEL_646748",
-   "name": "Samuel Isaiah Coffey",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Deviation from Designated Lane",
-   "more": 1,
-   "ts": 1793442450,
-   "photo": "photos/MKE_COFFEY_SAMUEL_646748.jpg"
-  },
-  {
-   "key": "DOU_DEMPSEY_TIJWAUNA_2026-10-31",
-   "name": "Tijwauna B Dempsey",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793441817,
-   "photo": "photos/DOU_DEMPSEY_TIJWAUNA_2026-10-31.jpg"
-  },
-  {
-   "key": "MKE_HARLEAUX_JABARI_398105",
-   "name": "Jabari Ali Harleaux",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793440661,
-   "photo": "photos/MKE_HARLEAUX_JABARI_398105.jpg"
-  },
-  {
-   "key": "MAR_GOBRECHT_SIERRA_2026-10-31",
-   "name": "Sierra Helen Gobrecht",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793440508,
    "photo": null
   }
  ]
