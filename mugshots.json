@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T19:27:58+00:00",
+ "updated": "2026-11-03T19:49:28+00:00",
  "items": [
+  {
+   "key": "RC_KLOSS_ROBERT_120011075896527",
+   "name": "Robert Kloss",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735292,
+   "photo": "photos/RC_KLOSS_ROBERT_120011075896527.jpg"
+  },
+  {
+   "key": "RC_ARONIN_WILLIAM_120011075896388",
+   "name": "William A Aronin",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735289,
+   "photo": "photos/RC_ARONIN_WILLIAM_120011075896388.jpg"
+  },
   {
    "key": "SCHMALENBERG_MELISSA_2026-11-03",
    "name": "Melissa M Schmalenberg",
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1793728072,
    "photo": null
-  },
-  {
-   "key": "RC_BRANTMIER_JACOB_120011075892991",
-   "name": "Jacob Brantmier",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728070,
-   "photo": null
-  },
-  {
-   "key": "MKE_STOKES_ROBYN_638891",
-   "name": "Robyn Lynn Stokes",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793726865,
-   "photo": "photos/MKE_STOKES_ROBYN_638891.jpg"
   },
   {
    "key": "MAR_AGUILAR_JOHN_2026-11-03",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KLOSS_ROBERT_120011075896527",
+   "name": "Robert Kloss",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735292,
+   "photo": "photos/RC_KLOSS_ROBERT_120011075896527.jpg"
+  },
+  {
+   "key": "RC_ARONIN_WILLIAM_120011075896388",
+   "name": "William A Aronin",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735289,
+   "photo": "photos/RC_ARONIN_WILLIAM_120011075896388.jpg"
+  },
   {
    "key": "SCHMALENBERG_MELISSA_2026-11-03",
    "name": "Melissa M Schmalenberg",
@@ -5128,17 +5150,6 @@
    "more": 1,
    "ts": 1793479627,
    "photo": null
-  },
-  {
-   "key": "RC_DAMOTTA_MAIARA_120011075776200",
-   "name": "Maiara C Da Motta",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 2,
-   "ts": 1793476067,
-   "photo": "photos/RC_DAMOTTA_MAIARA_120011075776200.jpg"
   }
  ]
 }
