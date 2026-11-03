@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T00:49:37+00:00",
+ "updated": "2026-11-03T01:04:37+00:00",
  "items": [
+  {
+   "key": "MKE_RILEYCHAMBLISS_ARION_648105",
+   "name": "Arion Riley-chambliss",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793667478,
+   "photo": null
+  },
   {
    "key": "RC_KRAUSS_ISABELLA_120011075859065",
    "name": "Isabella Krauss",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1793659671,
    "photo": "photos/RC_FRANKLIN_RICKEY_120011075856962.jpg"
-  },
-  {
-   "key": "MKE_ROBINSONSANDERS_DEJUN_618915",
-   "name": "Dejun Cody Robinson-Sanders",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1793656685,
-   "photo": null
   },
   {
    "key": "MAR_EWAN_CORDERO_2026-11-02",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_RILEYCHAMBLISS_ARION_648105",
+   "name": "Arion Riley-chambliss",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793667478,
+   "photo": null
+  },
   {
    "key": "RC_KRAUSS_ISABELLA_120011075859065",
    "name": "Isabella Krauss",
@@ -900,7 +911,7 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Disorderly Conduct",
    "more": 2,
    "ts": 1793651260,
    "photo": null
@@ -988,7 +999,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/ Intent-THC (>1000-2500 grams)",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 3,
    "ts": 1793649557,
    "photo": null
@@ -4930,17 +4941,6 @@
    "more": 13,
    "ts": 1793410065,
    "photo": "photos/MKE_ELLICKSON_MARK_630431.jpg"
-  },
-  {
-   "key": "MKE_GARCIA_JOSE_2057994",
-   "name": "Jose Estuardo Garcia",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793408260,
-   "photo": "photos/MKE_GARCIA_JOSE_2057994.jpg"
   }
  ]
 }
