@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T15:32:30+00:00",
+ "updated": "2026-11-03T15:49:27+00:00",
  "items": [
+  {
+   "key": "RC_REED_TERRANCE_120011075888000",
+   "name": "Terrance R Reed",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793720879,
+   "photo": "photos/RC_REED_TERRANCE_120011075888000.jpg"
+  },
   {
    "key": "TABOR_ZACHARY_2026-11-03",
    "name": "Zachary S Tabor",
@@ -266,17 +277,6 @@
    "photo": "photos/MKE_RENGIFOOCHICA_YESID_648109.jpg"
   },
   {
-   "key": "MKE_BRITTON_QUANTAVIUS_648107",
-   "name": "Quantavius L Britton",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793698062,
-   "photo": "photos/MKE_BRITTON_QUANTAVIUS_648107.jpg"
-  },
-  {
    "key": "HESSELBERG_TAYLOR_2026-11-03",
    "name": "Taylor J Hesselberg",
    "age": "35",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_REED_TERRANCE_120011075888000",
+   "name": "Terrance R Reed",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793720879,
+   "photo": "photos/RC_REED_TERRANCE_120011075888000.jpg"
+  },
   {
    "key": "TABOR_ZACHARY_2026-11-03",
    "name": "Zachary S Tabor",
@@ -4930,28 +4941,6 @@
    "more": 0,
    "ts": 1793462143,
    "photo": "photos/MAR_BERENS_AIDEN_2026-10-31_16089001.jpg"
-  },
-  {
-   "key": "RC_MARTIN_TRAVEON_120011075780312",
-   "name": "Traveon Marshaun Martin",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793461680,
-   "photo": "photos/RC_MARTIN_TRAVEON_120011075780312.jpg"
-  },
-  {
-   "key": "RC_HILER_LETEPHIA_120011075780625",
-   "name": "Letephia Evonne Hiler",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793461673,
-   "photo": "photos/RC_HILER_LETEPHIA_120011075780625.jpg"
   }
  ]
 }
