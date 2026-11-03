@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T09:33:05+00:00",
+ "updated": "2026-11-03T09:49:29+00:00",
  "items": [
+  {
+   "key": "HOU_SHELTON_RAHSANAHKEEM_6324",
+   "name": "Rahsan Ahkeem Shelton",
+   "age": "35",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic - DWI - Third-Degree Driving While Im (1-Court Pending)",
+   "more": 0,
+   "ts": 1793699232,
+   "photo": "photos/HOU_SHELTON_RAHSANAHKEEM_6324.jpg"
+  },
   {
    "key": "MKE_TOOMBSS_ERVIN_648108",
    "name": "Ervin Corkey Toombss",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793636163,
    "photo": "photos/FDL_BEAUGRAND_DAVID_2026-11-02.jpg"
-  },
-  {
-   "key": "WILSON_SHAWN_2026-11-02",
-   "name": "Shawn Larry Wilson",
-   "age": "48",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 3,
-   "ts": 1793634426,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "HOU_SHELTON_RAHSANAHKEEM_6324",
+   "name": "Rahsan Ahkeem Shelton",
+   "age": "35",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic - DWI - Third-Degree Driving While Im (1-Court Pending)",
+   "more": 0,
+   "ts": 1793699232,
+   "photo": "photos/HOU_SHELTON_RAHSANAHKEEM_6324.jpg"
+  },
   {
    "key": "MKE_TOOMBSS_ERVIN_648108",
    "name": "Ervin Corkey Toombss",
@@ -4963,17 +4974,6 @@
    "more": 0,
    "ts": 1793440405,
    "photo": null
-  },
-  {
-   "key": "TREM_CALLENDER_TIMOTHY_4981",
-   "name": "Timothy Joseph Callender",
-   "age": "39",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "1st Degree Sexual Assault of a Child Under Age 13 with Resulting Great",
-   "more": 0,
-   "ts": 1793440030,
-   "photo": "photos/TREM_CALLENDER_TIMOTHY_4981.jpg"
   }
  ]
 }
