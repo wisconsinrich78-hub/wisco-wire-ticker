@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T03:48:52+00:00",
+ "updated": "2026-11-03T04:28:09+00:00",
  "items": [
+  {
+   "key": "DOU_GLENN_DARIN_2026-11-02",
+   "name": "Darin A Glenn",
+   "age": "64",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793679427,
+   "photo": null
+  },
   {
    "key": "DOU_SWANSTROM_BRODIE_2026-11-02",
    "name": "Brodie T Swanstrom",
@@ -131,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793665679,
-   "photo": null
+   "photo": "photos/MKE_RIEMER_DASHAWN_648104.jpg"
   },
   {
    "key": "MKE_HILL_JERIUS_648103",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1793627743,
    "photo": null
-  },
-  {
-   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
-   "name": "Christian Ivan Genchi Zamora",
-   "age": "22",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793624138,
-   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_GLENN_DARIN_2026-11-02",
+   "name": "Darin A Glenn",
+   "age": "64",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793679427,
+   "photo": null
+  },
   {
    "key": "DOU_SWANSTROM_BRODIE_2026-11-02",
    "name": "Brodie T Swanstrom",
@@ -661,7 +672,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793665679,
-   "photo": null
+   "photo": "photos/MKE_RIEMER_DASHAWN_648104.jpg"
   },
   {
    "key": "MKE_HILL_JERIUS_648103",
@@ -980,7 +991,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 2,
    "ts": 1793651260,
-   "photo": null
+   "photo": "photos/MKE_PERRY_CHRISTIAN_395756.jpg"
   },
   {
    "key": "MKE_ANAYA_IVAN_646854",
@@ -1068,7 +1079,7 @@
    "charge": "Possess w/ Intent-THC (>1000-2500 grams)",
    "more": 3,
    "ts": 1793649557,
-   "photo": null
+   "photo": "photos/MKE_GRANDBERRY_RODNEY_500864.jpg"
   },
   {
    "key": "MKE_DAVIS_JADEAN_619483",
@@ -1076,10 +1087,10 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 9,
    "ts": 1793649555,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_JADEAN_619483.jpg"
   },
   {
    "key": "MKE_BIVENS_JESSE_622015",
@@ -4886,28 +4897,6 @@
    "more": 2,
    "ts": 1793422101,
    "photo": null
-  },
-  {
-   "key": "MKE_LEE_JAVION_638464",
-   "name": "Javion Kewon Lee",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793419093,
-   "photo": "photos/MKE_LEE_JAVION_638464.jpg"
-  },
-  {
-   "key": "MKE_CHATMAN_MARTEA_640243",
-   "name": "Martea J Chatman",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793419090,
-   "photo": "photos/MKE_CHATMAN_MARTEA_640243.jpg"
   }
  ]
 }
