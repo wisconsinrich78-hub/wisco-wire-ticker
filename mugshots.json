@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T17:02:12+00:00",
+ "updated": "2026-11-03T17:28:05+00:00",
  "items": [
+  {
+   "key": "MKE_STOKES_ROBYN_638891",
+   "name": "Robyn Lynn Stokes",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793726865,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHELTON_JOHN_201634",
+   "name": "John F Shelton",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793726863,
+   "photo": null
+  },
+  {
+   "key": "MKE_SEMRAD_RYAN_639015",
+   "name": "Ryan L Semrad",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793726862,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEWMAN_WALLACE_647267",
+   "name": "Wallace Newman",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793726860,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCLAURIN_FREDDIE_195701",
+   "name": "Freddie Terrel Mclaurin",
+   "age": "69",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793726858,
+   "photo": null
+  },
   {
    "key": "MKE_MACKBELL_AARON_648111",
    "name": "Aaron B Mack Bell",
@@ -211,39 +266,6 @@
    "photo": null
   },
   {
-   "key": "MKE_LESTER_QUINCY_500723",
-   "name": "Quincy Isiah Lester",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793703458,
-   "photo": "photos/MKE_LESTER_QUINCY_500723.jpg"
-  },
-  {
-   "key": "MKE_GALIOTO_MANDI_510997",
-   "name": "Mandi Lynn Galioto",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Neglecting a Child (Consequence is Bodily Harm)",
-   "more": 1,
-   "ts": 1793703457,
-   "photo": null
-  },
-  {
-   "key": "RC_DELEON_SELENA_120011075870834",
-   "name": "Selena Deleon",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793702869,
-   "photo": "photos/RC_DELEON_SELENA_120011075870834.jpg"
-  },
-  {
    "key": "HAASE_BRIAN_2026-11-03",
    "name": "Brian R Haase",
    "age": "28",
@@ -252,28 +274,6 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1793701619,
-   "photo": null
-  },
-  {
-   "key": "KEN_ROLLINS_CHARLOTTE_2026-00006064",
-   "name": "Charlotte Frances Rollins",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793699910,
-   "photo": "photos/KEN_ROLLINS_CHARLOTTE_2026-00006064.jpg"
-  },
-  {
-   "key": "MKE_TALIAFERRO_KEVEONTAE_618733",
-   "name": "Keveontae Jakeil Taliaferro",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793699857,
    "photo": null
   },
   {
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_STOKES_ROBYN_638891",
+   "name": "Robyn Lynn Stokes",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793726865,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHELTON_JOHN_201634",
+   "name": "John F Shelton",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793726863,
+   "photo": null
+  },
+  {
+   "key": "MKE_SEMRAD_RYAN_639015",
+   "name": "Ryan L Semrad",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793726862,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEWMAN_WALLACE_647267",
+   "name": "Wallace Newman",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793726860,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCLAURIN_FREDDIE_195701",
+   "name": "Freddie Terrel Mclaurin",
+   "age": "69",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793726858,
+   "photo": null
+  },
   {
    "key": "MKE_MACKBELL_AARON_648111",
    "name": "Aaron B Mack Bell",
@@ -4974,17 +5029,6 @@
    "more": 0,
    "ts": 1793469423,
    "photo": null
-  },
-  {
-   "key": "MKE_JONESHARRIS_SHAKILLE_526075",
-   "name": "Shakille Kevin Jones-Harris",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793467658,
-   "photo": "photos/MKE_JONESHARRIS_SHAKILLE_526075.jpg"
   }
  ]
 }
