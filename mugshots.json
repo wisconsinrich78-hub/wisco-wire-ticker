@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T01:28:17+00:00",
+ "updated": "2026-11-03T02:28:24+00:00",
  "items": [
+  {
+   "key": "MKE_MCNEAL_BRIDGET_648106",
+   "name": "Bridget McNeal",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793672854,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOEBER_CHRISTOPHER_2045722",
+   "name": "Christopher J Loeber",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793672852,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCOTT_ANTWUAN_406080",
+   "name": "Antwuan M Scott",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793671059,
+   "photo": null
+  },
+  {
+   "key": "MAR_GOSCH_TAMMIE_2026-11-02",
+   "name": "Tammie Annette Gosch",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793670965,
+   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-02.jpg"
+  },
+  {
+   "key": "KEN_CARLISLE_DEMARIO_2026-00006061",
+   "name": "Demario Marionallen Carlisle",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793670877,
+   "photo": "photos/KEN_CARLISLE_DEMARIO_2026-00006061.jpg"
+  },
   {
    "key": "MKE_RILEYCHAMBLISS_ARION_648105",
    "name": "Arion Riley-chambliss",
@@ -95,8 +150,8 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operate After Rev/Susp Of Registration",
+   "more": 2,
    "ts": 1793663637,
    "photo": null
   },
@@ -156,28 +211,6 @@
    "photo": "photos/FDL_SESMADOMINGUEZ_DANIEL_2026-11-02.jpg"
   },
   {
-   "key": "MKE_SCOTT_MICHAELANTHONY_648101",
-   "name": "Michael Anthony T Scott",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793660266,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROTH_MARCUS_2027380",
-   "name": "Marcus Lamar Roth",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793660264,
-   "photo": null
-  },
-  {
    "key": "MAR_EWAN_CORDERO_2026-11-02_16320701",
    "name": "Cordero Robert Ewan",
    "age": "37",
@@ -209,28 +242,6 @@
    "more": 1,
    "ts": 1793660149,
    "photo": "photos/MAR_HOLLINGSWORTH_JAYDEN_2026-11-02_1683801.jpg"
-  },
-  {
-   "key": "KEN_TIJERINA_YNETTE_2026-00006059",
-   "name": "Ynette Tijerina",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793660060,
-   "photo": "photos/KEN_TIJERINA_YNETTE_2026-00006059.jpg"
-  },
-  {
-   "key": "RC_FRANKLIN_RICKEY_120011075856962",
-   "name": "Rickey Charles Franklin",
-   "age": "64",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793659671,
-   "photo": "photos/RC_FRANKLIN_RICKEY_120011075856962.jpg"
   },
   {
    "key": "MAR_EWAN_CORDERO_2026-11-02",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1793616428,
    "photo": "photos/TREM_BAUTCH_ASHTON_5402.jpg"
-  },
-  {
-   "key": "FDL_FRASE_VICTORIA_2026-11-02",
-   "name": "Victoria Ann Frase",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Failure To Appear / Warrants",
-   "more": 3,
-   "ts": 1793610978,
-   "photo": "photos/FDL_FRASE_VICTORIA_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MCNEAL_BRIDGET_648106",
+   "name": "Bridget McNeal",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793672854,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOEBER_CHRISTOPHER_2045722",
+   "name": "Christopher J Loeber",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793672852,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCOTT_ANTWUAN_406080",
+   "name": "Antwuan M Scott",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793671059,
+   "photo": null
+  },
+  {
+   "key": "MAR_GOSCH_TAMMIE_2026-11-02",
+   "name": "Tammie Annette Gosch",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793670965,
+   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-02.jpg"
+  },
+  {
+   "key": "KEN_CARLISLE_DEMARIO_2026-00006061",
+   "name": "Demario Marionallen Carlisle",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793670877,
+   "photo": "photos/KEN_CARLISLE_DEMARIO_2026-00006061.jpg"
+  },
   {
    "key": "MKE_RILEYCHAMBLISS_ARION_648105",
    "name": "Arion Riley-chambliss",
@@ -625,8 +680,8 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operate After Rev/Susp Of Registration",
+   "more": 2,
    "ts": 1793663637,
    "photo": null
   },
@@ -999,7 +1054,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "charge": "Possess w/ Intent-THC (>1000-2500 grams)",
    "more": 3,
    "ts": 1793649557,
    "photo": null
@@ -1010,7 +1065,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 9,
    "ts": 1793649555,
    "photo": null
@@ -1123,7 +1178,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793645867,
-   "photo": null
+   "photo": "photos/MKE_ABULFOYEZ_IMRAN_640802.jpg"
   },
   {
    "key": "MAR_ZASTROW_KELSEY_2026-11-02_24018",
@@ -1178,7 +1233,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793644063,
-   "photo": null
+   "photo": "photos/MKE_SIMONS_BETH_648096.jpg"
   },
   {
    "key": "MKE_JOHNICAN_BRELL_648097",
@@ -1189,7 +1244,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1793644061,
-   "photo": null
+   "photo": "photos/MKE_JOHNICAN_BRELL_648097.jpg"
   },
   {
    "key": "MKE_EDWARDS_KENDREIA_638885",
@@ -1200,7 +1255,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793644059,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_KENDREIA_638885.jpg"
   },
   {
    "key": "MKE_DISMUKE_DIAMOND_297810",
@@ -4886,39 +4941,6 @@
    "more": 0,
    "ts": 1793414875,
    "photo": "photos/RC_SUMMERS_BILLY_120011075770151.jpg"
-  },
-  {
-   "key": "MKE_TWOEAGLE_TEEANA_641485",
-   "name": "Teeana Shannon Two Eagle",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1793413654,
-   "photo": "photos/MKE_TWOEAGLE_TEEANA_641485.jpg"
-  },
-  {
-   "key": "KLINE_DAKODA_2026-10-30",
-   "name": "Dakoda G Kline",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Substantial Battery-Intend Bodily Harm",
-   "more": 1,
-   "ts": 1793413620,
-   "photo": null
-  },
-  {
-   "key": "MAR_BOHMAN_FRANK_2026-10-30",
-   "name": "Frank Lee Bohman",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793411753,
-   "photo": "photos/MAR_BOHMAN_FRANK_2026-10-30.jpg"
   }
  ]
 }
