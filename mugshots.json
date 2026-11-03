@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T04:49:29+00:00",
+ "updated": "2026-11-03T04:58:05+00:00",
  "items": [
+  {
+   "key": "MKE_JOHNSON_MARCUS_274479",
+   "name": "Marcus Duane Johnson",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793681866,
+   "photo": null
+  },
+  {
+   "key": "MAR_LUTHER_ISAAC_2026-11-02",
+   "name": "Isaac Robert Luther",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793681753,
+   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-02.jpg"
+  },
   {
    "key": "DAYTON_EMILY_2026-11-02",
    "name": "Emily Sue Dayton",
@@ -220,17 +242,6 @@
    "more": 2,
    "ts": 1793662062,
    "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_MONIQUE_405079",
-   "name": "Monique Jabravdis Davis",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793662061,
-   "photo": "photos/MKE_DAVIS_MONIQUE_405079.jpg"
   },
   {
    "key": "FDL_SESMADOMINGUEZ_DANIEL_2026-11-02",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793629015,
    "photo": null
-  },
-  {
-   "key": "FDL_BUNTING_JOHN_2026-11-02",
-   "name": "John Robert Bunting",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 4,
-   "ts": 1793628983,
-   "photo": "photos/FDL_BUNTING_JOHN_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JOHNSON_MARCUS_274479",
+   "name": "Marcus Duane Johnson",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793681866,
+   "photo": null
+  },
+  {
+   "key": "MAR_LUTHER_ISAAC_2026-11-02",
+   "name": "Isaac Robert Luther",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793681753,
+   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-02.jpg"
+  },
   {
    "key": "DAYTON_EMILY_2026-11-02",
    "name": "Emily Sue Dayton",
