@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T08:27:24+00:00",
+ "updated": "2026-11-03T08:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_HILL_BURTON_386339",
+   "name": "Burton L Hill",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793694452,
+   "photo": null
+  },
   {
    "key": "WINJUM_ADRIAN_2026-11-03",
    "name": "Adrian M Winjum",
@@ -186,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793672854,
-   "photo": null
+   "photo": "photos/MKE_MCNEAL_BRIDGET_648106.jpg"
   },
   {
    "key": "MKE_LOEBER_CHRISTOPHER_2045722",
@@ -208,7 +219,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793671059,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_ANTWUAN_406080.jpg"
   },
   {
    "key": "MAR_GOSCH_TAMMIE_2026-11-02",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1793666917,
    "photo": "photos/RC_KRAUSS_ISABELLA_120011075859065.jpg"
-  },
-  {
-   "key": "RC_FOGGS_HIAWATHER_120011075859600",
-   "name": "Hiawather A Foggs",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793666914,
-   "photo": "photos/RC_FOGGS_HIAWATHER_120011075859600.jpg"
   },
   {
    "key": "LUOMA_BENJAMIN_2026-11-02",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HILL_BURTON_386339",
+   "name": "Burton L Hill",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793694452,
+   "photo": null
+  },
+  {
    "key": "WINJUM_ADRIAN_2026-11-03",
    "name": "Adrian M Winjum",
    "age": "23",
@@ -716,7 +727,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793672854,
-   "photo": null
+   "photo": "photos/MKE_MCNEAL_BRIDGET_648106.jpg"
   },
   {
    "key": "MKE_LOEBER_CHRISTOPHER_2045722",
@@ -738,7 +749,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793671059,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_ANTWUAN_406080.jpg"
   },
   {
    "key": "MAR_GOSCH_TAMMIE_2026-11-02",
@@ -837,7 +848,7 @@
    "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
    "more": 3,
    "ts": 1793665676,
-   "photo": null
+   "photo": "photos/MKE_HILL_JERIUS_648103.jpg"
   },
   {
    "key": "MKE_GRANT_GAVIN_646264",
@@ -881,7 +892,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793662065,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ORA_616989.jpg"
   },
   {
    "key": "MKE_LUNAPENA_JESUS_648102",
@@ -892,7 +903,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793662062,
-   "photo": null
+   "photo": "photos/MKE_LUNAPENA_JESUS_648102.jpg"
   },
   {
    "key": "MKE_DAVIS_MONIQUE_405079",
@@ -4908,17 +4919,6 @@
    "more": 0,
    "ts": 1793436915,
    "photo": null
-  },
-  {
-   "key": "RC_GUTIERREZ_ROBERTO_120011075774659",
-   "name": "Roberto Ordonez Gutierrez",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793436474,
-   "photo": "photos/RC_GUTIERREZ_ROBERTO_120011075774659.jpg"
   }
  ]
 }
