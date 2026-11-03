@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-03T20:57:57+00:00",
+ "updated": "2026-11-03T21:05:11+00:00",
  "items": [
+  {
+   "key": "KEN_SMITH_ERIN_2026-00006070",
+   "name": "Erin Marie Smith",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793739788,
+   "photo": "photos/KEN_SMITH_ERIN_2026-00006070.jpg"
+  },
+  {
+   "key": "KEN_HEMPHILL_GREG_2026-00006069",
+   "name": "Greg Hemphill",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793739683,
+   "photo": "photos/KEN_HEMPHILL_GREG_2026-00006069.jpg"
+  },
+  {
+   "key": "KEN_DAVIS_DARNELL_2026-00006068",
+   "name": "Darnell Deanytonio Davis",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 2,
+   "ts": 1793739610,
+   "photo": "photos/KEN_DAVIS_DARNELL_2026-00006068.jpg"
+  },
   {
    "key": "MAR_SEEFELDT_CAMERON_2026-11-03",
    "name": "Cameron P Seefeldt",
@@ -90,28 +123,6 @@
    "photo": null
   },
   {
-   "key": "KEN_HEMPHILL_GREG_2026-00006069",
-   "name": "Greg Hemphill",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735677,
-   "photo": "photos/KEN_HEMPHILL_GREG_2026-00006069.jpg"
-  },
-  {
-   "key": "KEN_DAVIS_DARNELL_2026-00006068",
-   "name": "Darnell Deanytonio Davis",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735611,
-   "photo": "photos/KEN_DAVIS_DARNELL_2026-00006068.jpg"
-  },
-  {
    "key": "RC_KLOSS_ROBERT_120011075896527",
    "name": "Robert Kloss",
    "age": "55",
@@ -186,17 +197,6 @@
    "charge": "Department Of Corrections Hold",
    "more": 0,
    "ts": 1793731672,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUFFMAN_JEFFREY_645343",
-   "name": "Jeffrey A Huffman",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 1,
-   "ts": 1793730478,
    "photo": null
   },
   {
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "KEN_SMITH_ERIN_2026-00006070",
+   "name": "Erin Marie Smith",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793739788,
+   "photo": "photos/KEN_SMITH_ERIN_2026-00006070.jpg"
+  },
+  {
+   "key": "KEN_HEMPHILL_GREG_2026-00006069",
+   "name": "Greg Hemphill",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793739683,
+   "photo": "photos/KEN_HEMPHILL_GREG_2026-00006069.jpg"
+  },
+  {
+   "key": "KEN_DAVIS_DARNELL_2026-00006068",
+   "name": "Darnell Deanytonio Davis",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 2,
+   "ts": 1793739610,
+   "photo": "photos/KEN_DAVIS_DARNELL_2026-00006068.jpg"
+  },
+  {
    "key": "MAR_SEEFELDT_CAMERON_2026-11-03",
    "name": "Cameron P Seefeldt",
    "age": "36",
@@ -618,28 +651,6 @@
    "more": 2,
    "ts": 1793735865,
    "photo": null
-  },
-  {
-   "key": "KEN_HEMPHILL_GREG_2026-00006069",
-   "name": "Greg Hemphill",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735677,
-   "photo": "photos/KEN_HEMPHILL_GREG_2026-00006069.jpg"
-  },
-  {
-   "key": "KEN_DAVIS_DARNELL_2026-00006068",
-   "name": "Darnell Deanytonio Davis",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735611,
-   "photo": "photos/KEN_DAVIS_DARNELL_2026-00006068.jpg"
   },
   {
    "key": "RC_KLOSS_ROBERT_120011075896527",
