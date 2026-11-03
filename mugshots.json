@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:28:36+00:00",
+ "updated": "2026-11-03T23:49:32+00:00",
  "items": [
   {
    "key": "MKE_MLSNA_STIVEN_642828",
@@ -62,8 +62,8 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 3,
+   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
+   "more": 11,
    "ts": 1793746672,
    "photo": null
   },
@@ -592,8 +592,8 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 3,
+   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
+   "more": 11,
    "ts": 1793746672,
    "photo": null
   },
@@ -5194,17 +5194,6 @@
    "more": 3,
    "ts": 1793490938,
    "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-31.jpg"
-  },
-  {
-   "key": "RC_CAGLE_GARRETT_120011075789854",
-   "name": "Garrett W Cagle",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793490474,
-   "photo": "photos/RC_CAGLE_GARRETT_120011075789854.jpg"
   }
  ]
 }
