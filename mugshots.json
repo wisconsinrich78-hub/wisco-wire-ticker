@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T10:28:29+00:00",
+ "updated": "2026-11-03T10:49:10+00:00",
  "items": [
+  {
+   "key": "RC_DELEON_SELENA_120011075870834",
+   "name": "Selena Deleon",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793702869,
+   "photo": "photos/RC_DELEON_SELENA_120011075870834.jpg"
+  },
   {
    "key": "HAASE_BRIAN_2026-11-03",
    "name": "Brian R Haase",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1793688472,
    "photo": "photos/RC_DAVIS_OLIVIA_120011075866834.jpg"
-  },
-  {
-   "key": "RC_CAMPTON_JESIAH_120011075866771",
-   "name": "Jesiah Campton",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793688469,
-   "photo": "photos/RC_CAMPTON_JESIAH_120011075866771.jpg"
   },
   {
    "key": "CARTER_PRINCE_2026-11-03",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DELEON_SELENA_120011075870834",
+   "name": "Selena Deleon",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793702869,
+   "photo": "photos/RC_DELEON_SELENA_120011075870834.jpg"
+  },
   {
    "key": "HAASE_BRIAN_2026-11-03",
    "name": "Brian R Haase",
@@ -4996,17 +5007,6 @@
    "more": 0,
    "ts": 1793444104,
    "photo": "photos/MAR_HIGNITE_SHAWN_2026-10-31.jpg"
-  },
-  {
-   "key": "RC_MOTTA_MAIARA_120011075776200",
-   "name": "Maiara C Motta",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793443669,
-   "photo": null
   }
  ]
 }
