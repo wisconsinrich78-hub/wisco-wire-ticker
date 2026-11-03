@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T22:59:31+00:00",
+ "updated": "2026-11-03T23:28:36+00:00",
  "items": [
+  {
+   "key": "MKE_MLSNA_STIVEN_642828",
+   "name": "Stiven Mlsna",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793748467,
+   "photo": null
+  },
+  {
+   "key": "MKE_KING_LESTER_648113",
+   "name": "Lester F King",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Injury",
+   "more": 1,
+   "ts": 1793748465,
+   "photo": null
+  },
+  {
+   "key": "MKE_BLOODSON_LANA_398632",
+   "name": "Lana Tiara Bloodson",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793748463,
+   "photo": null
+  },
+  {
+   "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03",
+   "name": "Nereyda Jazmin Villaseca Obil",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793746890,
+   "photo": "photos/MAR_VILLASECAOBIL_NEREYDA_2026-11-03.jpg"
+  },
+  {
+   "key": "MAR_KOHN_STACIE_2026-11-03",
+   "name": "Stacie Jean Kohn",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793746858,
+   "photo": "photos/MAR_KOHN_STACIE_2026-11-03.jpg"
+  },
   {
    "key": "MKE_MOSLEY_CHYANN_601136",
    "name": "Chyann Chardinea Mosley",
@@ -200,17 +255,6 @@
    "photo": "photos/KEN_HEMPHILL_GREG_2026-00006069.jpg"
   },
   {
-   "key": "KEN_DAVIS_DARNELL_2026-00006068",
-   "name": "Darnell Deanytonio Davis",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 2,
-   "ts": 1793739610,
-   "photo": "photos/KEN_DAVIS_DARNELL_2026-00006068.jpg"
-  },
-  {
    "key": "MAR_SEEFELDT_CAMERON_2026-11-03",
    "name": "Cameron P Seefeldt",
    "age": "36",
@@ -220,28 +264,6 @@
    "more": 0,
    "ts": 1793739350,
    "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03.jpg"
-  },
-  {
-   "key": "RC_TAYLOR_MICHAEL_120011075899667",
-   "name": "Michael Charles Nathani Taylor",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793738890,
-   "photo": null
-  },
-  {
-   "key": "RC_REYES_JUAN_120011075899609",
-   "name": "Juan Reyes",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793738887,
-   "photo": "photos/RC_REYES_JUAN_120011075899609.jpg"
   },
   {
    "key": "SCHMALENBERG_MELISSA_2026-11-03",
@@ -453,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "MAR_LUTHER_ISAAC_2026-11-02_8609314",
-   "name": "Isaac Robert Luther",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793696210,
-   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-02_8609314.jpg"
-  },
-  {
    "key": "WINJUM_ADRIAN_2026-11-03",
    "name": "Adrian M Winjum",
    "age": "23",
@@ -484,17 +495,6 @@
    "more": 0,
    "ts": 1793688426,
    "photo": null
-  },
-  {
-   "key": "DOU_SLOAN_ROBERT_2026-11-02",
-   "name": "Robert M Sloan",
-   "age": "37",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793683060,
-   "photo": "photos/DOU_SLOAN_ROBERT_2026-11-02.jpg"
   },
   {
    "key": "DAYTON_EMILY_2026-11-02",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MLSNA_STIVEN_642828",
+   "name": "Stiven Mlsna",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793748467,
+   "photo": null
+  },
+  {
+   "key": "MKE_KING_LESTER_648113",
+   "name": "Lester F King",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Injury",
+   "more": 1,
+   "ts": 1793748465,
+   "photo": null
+  },
+  {
+   "key": "MKE_BLOODSON_LANA_398632",
+   "name": "Lana Tiara Bloodson",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793748463,
+   "photo": null
+  },
+  {
+   "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03",
+   "name": "Nereyda Jazmin Villaseca Obil",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793746890,
+   "photo": "photos/MAR_VILLASECAOBIL_NEREYDA_2026-11-03.jpg"
+  },
+  {
+   "key": "MAR_KOHN_STACIE_2026-11-03",
+   "name": "Stacie Jean Kohn",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793746858,
+   "photo": "photos/MAR_KOHN_STACIE_2026-11-03.jpg"
+  },
   {
    "key": "MKE_MOSLEY_CHYANN_601136",
    "name": "Chyann Chardinea Mosley",
@@ -5150,61 +5205,6 @@
    "more": 0,
    "ts": 1793490474,
    "photo": "photos/RC_CAGLE_GARRETT_120011075789854.jpg"
-  },
-  {
-   "key": "MKE_TAYLOR_DAMARIO_299720",
-   "name": "Damario A Taylor",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793489264,
-   "photo": "photos/MKE_TAYLOR_DAMARIO_299720.jpg"
-  },
-  {
-   "key": "MKE_LOCKETT_JARI_630820",
-   "name": "Jari Scott Lockett",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1793489262,
-   "photo": "photos/MKE_LOCKETT_JARI_630820.jpg"
-  },
-  {
-   "key": "MKE_DIOMANDE_BREUNA_648062",
-   "name": "Breuna Mariam Diomande",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793489260,
-   "photo": "photos/MKE_DIOMANDE_BREUNA_648062.jpg"
-  },
-  {
-   "key": "MKE_ALLISON_MASTER_603094",
-   "name": "Master Edwin Allison",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793489259,
-   "photo": "photos/MKE_ALLISON_MASTER_603094.jpg"
-  },
-  {
-   "key": "DOU_MONTGOMERY_PATRICK_2026-10-31",
-   "name": "Patrick L Montgomery",
-   "age": "52",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
-   "ts": 1793488637,
-   "photo": null
   }
  ]
 }
