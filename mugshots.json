@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T22:28:13+00:00",
+ "updated": "2026-11-03T22:49:26+00:00",
  "items": [
+  {
+   "key": "RC_VEGA_ANGELO_120011075904489",
+   "name": "Angelo Junior Vega",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746074,
+   "photo": "photos/RC_VEGA_ANGELO_120011075904489.jpg"
+  },
+  {
+   "key": "RC_MOSLEY_JANIQUA_120011075903948",
+   "name": "Janiqua Cashay Mosley",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746071,
+   "photo": "photos/RC_MOSLEY_JANIQUA_120011075903948.jpg"
+  },
   {
    "key": "MKE_NICKESON_KATHRYN_644624",
    "name": "Kathryn Michelle Nickeson",
@@ -220,28 +242,6 @@
    "more": 1,
    "ts": 1793735867,
    "photo": null
-  },
-  {
-   "key": "MKE_STEPHENS_JERMAINE_282166",
-   "name": "Jermaine Lashone Stephens",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793735865,
-   "photo": null
-  },
-  {
-   "key": "RC_KLOSS_ROBERT_120011075896527",
-   "name": "Robert Kloss",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735292,
-   "photo": "photos/RC_KLOSS_ROBERT_120011075896527.jpg"
   },
   {
    "key": "SCHMALENBERG_MELISSA_2026-11-03",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_VEGA_ANGELO_120011075904489",
+   "name": "Angelo Junior Vega",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746074,
+   "photo": "photos/RC_VEGA_ANGELO_120011075904489.jpg"
+  },
+  {
+   "key": "RC_MOSLEY_JANIQUA_120011075903948",
+   "name": "Janiqua Cashay Mosley",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746071,
+   "photo": "photos/RC_MOSLEY_JANIQUA_120011075903948.jpg"
+  },
   {
    "key": "MKE_NICKESON_KATHRYN_644624",
    "name": "Kathryn Michelle Nickeson",
@@ -5172,61 +5194,6 @@
    "more": 0,
    "ts": 1793487351,
    "photo": "photos/KEN_CAMPBELL_LEE_2026-00006017.jpg"
-  },
-  {
-   "key": "RC_SANDERS_KYLE_120011075789202",
-   "name": "Kyle W Sanders",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793486877,
-   "photo": "photos/RC_SANDERS_KYLE_120011075789202.jpg"
-  },
-  {
-   "key": "RC_HOPPE_CASSANDRA_120011075789287",
-   "name": "Cassandra Shannon Hoppe",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793486875,
-   "photo": null
-  },
-  {
-   "key": "RC_FLORES_GREGORIA_120011075789533",
-   "name": "Gregoria Nmn Flores",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793486872,
-   "photo": "photos/RC_FLORES_GREGORIA_120011075789533.jpg"
-  },
-  {
-   "key": "RC_AMBROSE_CASSANDRA_120011075789245",
-   "name": "Cassandra Celia Ambrose",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793486870,
-   "photo": null
-  },
-  {
-   "key": "MCDERMITT_TRAVIS_2026-10-31",
-   "name": "Travis M Mcdermitt",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793486830,
-   "photo": null
   }
  ]
 }
