@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-03T17:57:30+00:00",
+ "updated": "2026-11-03T18:28:08+00:00",
  "items": [
+  {
+   "key": "MKE_HUFFMAN_JEFFREY_645343",
+   "name": "Jeffrey A Huffman",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 1,
+   "ts": 1793730478,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENSON_JOSEPH_365183",
+   "name": "Joseph Lee Benson",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Injury",
+   "more": 0,
+   "ts": 1793730476,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALBANILOTAPA_SANTIAGO_648112",
+   "name": "Santiago Albanil Otapa",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793730473,
+   "photo": null
+  },
+  {
+   "key": "MKE_ADAMS_IVE_631753",
+   "name": "Ive J Adams",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793730471,
+   "photo": null
+  },
+  {
+   "key": "FDL_SHIPS_KENDALL_2026-11-03",
+   "name": "Kendall Jermaine Ships",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 2,
+   "ts": 1793729818,
+   "photo": "photos/FDL_SHIPS_KENDALL_2026-11-03.jpg"
+  },
+  {
+   "key": "FDL_LANSER_THERESA_2026-11-03",
+   "name": "Theresa Leona Lanser",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine",
+   "more": 1,
+   "ts": 1793729797,
+   "photo": "photos/FDL_LANSER_THERESA_2026-11-03.jpg"
+  },
+  {
+   "key": "MAR_SKITTONE_JOSEPH_2026-11-03",
+   "name": "Joseph Paul Skittone",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793729071,
+   "photo": "photos/MAR_SKITTONE_JOSEPH_2026-11-03.jpg"
+  },
+  {
+   "key": "MAR_VANG_PHOOJYWG_2026-11-03",
+   "name": "Phoojywg Ywg Ricky Vang",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1793729006,
+   "photo": "photos/MAR_VANG_PHOOJYWG_2026-11-03.jpg"
+  },
   {
    "key": "RC_WALLACE_CHARLES_120011075893484",
    "name": "Charles Lee Wallace",
@@ -134,39 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MACKBELL_AARON_648111",
-   "name": "Aaron B Mack Bell",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resist/Obstruct Police Officer",
-   "more": 0,
-   "ts": 1793725061,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOPSON_CYNTHIA_372929",
-   "name": "Cynthia Hopson",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793725059,
-   "photo": "photos/MKE_HOPSON_CYNTHIA_372929.jpg"
-  },
-  {
-   "key": "MKE_BARKSDALE_ETHAN_644177",
-   "name": "Ethan Barksdale",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 2,
-   "ts": 1793725057,
-   "photo": null
-  },
-  {
    "key": "MAR_AGUILAR_JOHN_2026-11-03",
    "name": "John Joaquin Aguilar",
    "age": "50",
@@ -187,17 +242,6 @@
    "more": 0,
    "ts": 1793724951,
    "photo": "photos/MAR_ROEKLE_CHRISTOPHER_2026-11-03.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_DARRELL_120011075889931",
-   "name": "Darrell Williams",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
-   "more": 0,
-   "ts": 1793724468,
-   "photo": "photos/RC_WILLIAMS_DARRELL_120011075889931.jpg"
   },
   {
    "key": "DOU_LAFAVE_EDWARD_2026-11-03",
@@ -453,28 +497,6 @@
    "photo": "photos/FDL_SESMADOMINGUEZ_DANIEL_2026-11-02.jpg"
   },
   {
-   "key": "MAR_EWAN_CORDERO_2026-11-02_16320701",
-   "name": "Cordero Robert Ewan",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 3,
-   "ts": 1793660223,
-   "photo": "photos/MAR_EWAN_CORDERO_2026-11-02_16320701.jpg"
-  },
-  {
-   "key": "MAR_BOTTENSEK_SHELBY_2026-11-02",
-   "name": "Shelby Lea Bottensek",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Drive Or Operate Vehicle W/O Consent",
-   "more": 8,
-   "ts": 1793660185,
-   "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-11-02.jpg"
-  },
-  {
    "key": "LUBA_JOSHUA_2026-11-02",
    "name": "Joshua J Luba",
    "age": "44",
@@ -506,31 +528,97 @@
    "more": 0,
    "ts": 1793647622,
    "photo": null
-  },
-  {
-   "key": "FDL_HERNANDEZLOPEZ_WILBERT_2026-11-02",
-   "name": "Wilbert Joel Hernandez Lopez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793646997,
-   "photo": null
-  },
-  {
-   "key": "SCHRAMM_SHERWIN_2026-11-02",
-   "name": "Sherwin James Schramm",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "La Crosse County Child Support W/C",
-   "more": 0,
-   "ts": 1793645229,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HUFFMAN_JEFFREY_645343",
+   "name": "Jeffrey A Huffman",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 1,
+   "ts": 1793730478,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENSON_JOSEPH_365183",
+   "name": "Joseph Lee Benson",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Injury",
+   "more": 0,
+   "ts": 1793730476,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALBANILOTAPA_SANTIAGO_648112",
+   "name": "Santiago Albanil Otapa",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793730473,
+   "photo": null
+  },
+  {
+   "key": "MKE_ADAMS_IVE_631753",
+   "name": "Ive J Adams",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793730471,
+   "photo": null
+  },
+  {
+   "key": "FDL_SHIPS_KENDALL_2026-11-03",
+   "name": "Kendall Jermaine Ships",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 2,
+   "ts": 1793729818,
+   "photo": "photos/FDL_SHIPS_KENDALL_2026-11-03.jpg"
+  },
+  {
+   "key": "FDL_LANSER_THERESA_2026-11-03",
+   "name": "Theresa Leona Lanser",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine",
+   "more": 1,
+   "ts": 1793729797,
+   "photo": "photos/FDL_LANSER_THERESA_2026-11-03.jpg"
+  },
+  {
+   "key": "MAR_SKITTONE_JOSEPH_2026-11-03",
+   "name": "Joseph Paul Skittone",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793729071,
+   "photo": "photos/MAR_SKITTONE_JOSEPH_2026-11-03.jpg"
+  },
+  {
+   "key": "MAR_VANG_PHOOJYWG_2026-11-03",
+   "name": "Phoojywg Ywg Ricky Vang",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1793729006,
+   "photo": "photos/MAR_VANG_PHOOJYWG_2026-11-03.jpg"
+  },
   {
    "key": "RC_WALLACE_CHARLES_120011075893484",
    "name": "Charles Lee Wallace",
@@ -5062,39 +5150,6 @@
    "more": 0,
    "ts": 1793472468,
    "photo": "photos/RC_DELEON_NICHOLAS_120011075785283.jpg"
-  },
-  {
-   "key": "MKE_VALLECRUZ_GABRIELA_635063",
-   "name": "Gabriela Valle Cruz",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793469500,
-   "photo": "photos/MKE_VALLECRUZ_GABRIELA_635063.jpg"
-  },
-  {
-   "key": "MKE_JONES_KIMISTERY_648057",
-   "name": "Kimistery Unique Jones",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793469498,
-   "photo": "photos/MKE_JONES_KIMISTERY_648057.jpg"
-  },
-  {
-   "key": "MKE_ARONIN_WILLIAM_359363",
-   "name": "William Aldine Aronin",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793469495,
-   "photo": "photos/MKE_ARONIN_WILLIAM_359363.jpg"
   }
  ]
 }
