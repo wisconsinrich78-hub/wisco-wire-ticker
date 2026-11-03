@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T04:58:05+00:00",
+ "updated": "2026-11-03T05:28:52+00:00",
  "items": [
+  {
+   "key": "MKE_GILLIAM_KEON_532485",
+   "name": "Keon Kortez Gilliam",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793683683,
+   "photo": null
+  },
+  {
+   "key": "DOU_SLOAN_ROBERT_2026-11-02",
+   "name": "Robert M Sloan",
+   "age": "37",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793683060,
+   "photo": "photos/DOU_SLOAN_ROBERT_2026-11-02.jpg"
+  },
   {
    "key": "MKE_JOHNSON_MARCUS_274479",
    "name": "Marcus Duane Johnson",
@@ -230,17 +252,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793662065,
-   "photo": null
-  },
-  {
-   "key": "MKE_LUNAPENA_JESUS_648102",
-   "name": "Jesus Ramon Luna-Pena",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793662062,
    "photo": null
   },
   {
@@ -508,17 +519,6 @@
    "photo": null
   },
   {
-   "key": "DOU_PEKKALA_BRANDON_2026-11-02",
-   "name": "Brandon M Pekkala",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793629162,
-   "photo": "photos/DOU_PEKKALA_BRANDON_2026-11-02.jpg"
-  },
-  {
    "key": "FDL_KREIS_MASON_2026-11-02",
    "name": "Mason William Kreis",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_GILLIAM_KEON_532485",
+   "name": "Keon Kortez Gilliam",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793683683,
+   "photo": null
+  },
+  {
+   "key": "DOU_SLOAN_ROBERT_2026-11-02",
+   "name": "Robert M Sloan",
+   "age": "37",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1793683060,
+   "photo": "photos/DOU_SLOAN_ROBERT_2026-11-02.jpg"
+  },
   {
    "key": "MKE_JOHNSON_MARCUS_274479",
    "name": "Marcus Duane Johnson",
