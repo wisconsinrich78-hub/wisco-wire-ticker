@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T19:49:28+00:00",
+ "updated": "2026-11-03T19:57:24+00:00",
  "items": [
+  {
+   "key": "KEN_HEMPHILL_GREG_2026-00006069",
+   "name": "Greg Hemphill",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735677,
+   "photo": "photos/KEN_HEMPHILL_GREG_2026-00006069.jpg"
+  },
+  {
+   "key": "KEN_DAVIS_DARNELL_2026-00006068",
+   "name": "Darnell Deanytonio Davis",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735611,
+   "photo": "photos/KEN_DAVIS_DARNELL_2026-00006068.jpg"
+  },
   {
    "key": "RC_KLOSS_ROBERT_120011075896527",
    "name": "Robert Kloss",
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1793728077,
    "photo": "photos/RC_JAIMES_NOAH_120011075891755.jpg"
-  },
-  {
-   "key": "RC_DANCER_BARON_120011075893092",
-   "name": "Baron Dancer",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728075,
-   "photo": null
-  },
-  {
-   "key": "RC_BUNTON_CRAIG_120011075893266",
-   "name": "Craig Bunton",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728072,
-   "photo": null
   },
   {
    "key": "MAR_AGUILAR_JOHN_2026-11-03",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_HEMPHILL_GREG_2026-00006069",
+   "name": "Greg Hemphill",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735677,
+   "photo": "photos/KEN_HEMPHILL_GREG_2026-00006069.jpg"
+  },
+  {
+   "key": "KEN_DAVIS_DARNELL_2026-00006068",
+   "name": "Darnell Deanytonio Davis",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735611,
+   "photo": "photos/KEN_DAVIS_DARNELL_2026-00006068.jpg"
+  },
   {
    "key": "RC_KLOSS_ROBERT_120011075896527",
    "name": "Robert Kloss",
