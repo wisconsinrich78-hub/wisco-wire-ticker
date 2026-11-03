@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T14:32:46+00:00",
+ "updated": "2026-11-03T15:27:41+00:00",
  "items": [
+  {
+   "key": "TABOR_ZACHARY_2026-11-03",
+   "name": "Zachary S Tabor",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1793719624,
+   "photo": null
+  },
+  {
+   "key": "FDL_BARTA_JULIE_2026-11-03",
+   "name": "Julie Eileen Barta",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793718973,
+   "photo": "photos/FDL_BARTA_JULIE_2026-11-03.jpg"
+  },
   {
    "key": "MKE_FRANKLIN_RAYNARD_378062",
    "name": "Raynard Franklin",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1793645229,
    "photo": null
-  },
-  {
-   "key": "BOLSTAD_TRAVIS_2026-11-02",
-   "name": "Travis Michael Bolstad",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793641626,
-   "photo": null
-  },
-  {
-   "key": "JACKSON_RENADO_2026-11-02",
-   "name": "Renado Jackson",
-   "age": "62",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Serving A Sentence Without Huber",
-   "more": 0,
-   "ts": 1793640421,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "TABOR_ZACHARY_2026-11-03",
+   "name": "Zachary S Tabor",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1793719624,
+   "photo": null
+  },
+  {
+   "key": "FDL_BARTA_JULIE_2026-11-03",
+   "name": "Julie Eileen Barta",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793718973,
+   "photo": "photos/FDL_BARTA_JULIE_2026-11-03.jpg"
+  },
   {
    "key": "MKE_FRANKLIN_RAYNARD_378062",
    "name": "Raynard Franklin",
@@ -4930,17 +4952,6 @@
    "more": 0,
    "ts": 1793461673,
    "photo": "photos/RC_HILER_LETEPHIA_120011075780625.jpg"
-  },
-  {
-   "key": "MKE_BURKS_SUMMER_402695",
-   "name": "Summer Hope Burks",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793458712,
-   "photo": "photos/MKE_BURKS_SUMMER_402695.jpg"
   }
  ]
 }
