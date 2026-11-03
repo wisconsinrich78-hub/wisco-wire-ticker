@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-03T18:49:19+00:00",
+ "updated": "2026-11-03T19:27:58+00:00",
  "items": [
+  {
+   "key": "SCHMALENBERG_MELISSA_2026-11-03",
+   "name": "Melissa M Schmalenberg",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793734023,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_TEDDY_513435",
+   "name": "Teddy L Williams",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793732263,
+   "photo": null
+  },
+  {
+   "key": "KEN_KOHNKE_KYLE_2026-00006067",
+   "name": "Kyle R Kohnke",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793732152,
+   "photo": "photos/KEN_KOHNKE_KYLE_2026-00006067.jpg"
+  },
   {
    "key": "RC_WALKER_PHILLIP_120011075893731",
    "name": "Phillip Walker",
@@ -62,8 +95,8 @@
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 6,
    "ts": 1793730471,
    "photo": null
   },
@@ -198,28 +231,6 @@
    "more": 0,
    "ts": 1793726865,
    "photo": "photos/MKE_STOKES_ROBYN_638891.jpg"
-  },
-  {
-   "key": "MKE_SHELTON_JOHN_201634",
-   "name": "John F Shelton",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793726863,
-   "photo": null
-  },
-  {
-   "key": "MKE_SEMRAD_RYAN_639015",
-   "name": "Ryan L Semrad",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793726862,
-   "photo": null
   },
   {
    "key": "MAR_AGUILAR_JOHN_2026-11-03",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793651229,
    "photo": null
-  },
-  {
-   "key": "MAHNKE_DARRIN_2026-11-02",
-   "name": "Darrin Kenneth Mahnke",
-   "age": "60",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793647622,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "SCHMALENBERG_MELISSA_2026-11-03",
+   "name": "Melissa M Schmalenberg",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793734023,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_TEDDY_513435",
+   "name": "Teddy L Williams",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793732263,
+   "photo": null
+  },
+  {
+   "key": "KEN_KOHNKE_KYLE_2026-00006067",
+   "name": "Kyle R Kohnke",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793732152,
+   "photo": "photos/KEN_KOHNKE_KYLE_2026-00006067.jpg"
+  },
   {
    "key": "RC_WALKER_PHILLIP_120011075893731",
    "name": "Phillip Walker",
@@ -592,8 +625,8 @@
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 6,
    "ts": 1793730471,
    "photo": null
   },
@@ -801,7 +834,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Bail Jumping-Felony",
    "more": 2,
    "ts": 1793725057,
    "photo": null
@@ -958,7 +991,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1793710729,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZ_YANDIEL_648110.jpg"
   },
   {
    "key": "MKE_LARA_DENNIS_331853",
@@ -980,7 +1013,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793705249,
-   "photo": null
+   "photo": "photos/MKE_FULGHEM_BREON_359458.jpg"
   },
   {
    "key": "MKE_LESTER_QUINCY_500723",
@@ -1046,7 +1079,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793699857,
-   "photo": null
+   "photo": "photos/MKE_TALIAFERRO_KEVEONTAE_618733.jpg"
   },
   {
    "key": "MKE_PERRY_BARBARA_228553",
@@ -5106,50 +5139,6 @@
    "more": 2,
    "ts": 1793476067,
    "photo": "photos/RC_DAMOTTA_MAIARA_120011075776200.jpg"
-  },
-  {
-   "key": "MKE_EVANS_KEIMARY_648058",
-   "name": "Keimary Lebrian Evans",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793474851,
-   "photo": "photos/MKE_EVANS_KEIMARY_648058.jpg"
-  },
-  {
-   "key": "FDL_ONORIOVILLEGAS_JOSE_2026-10-31",
-   "name": "Jose Angel Onorio Villegas",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793474200,
-   "photo": null
-  },
-  {
-   "key": "FDL_GIPSON_KAYLA_2026-10-31",
-   "name": "Kayla Sellers Gipson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793474178,
-   "photo": "photos/FDL_GIPSON_KAYLA_2026-10-31.jpg"
-  },
-  {
-   "key": "MKE_ARMONDODELEON_VICTOR_640359",
-   "name": "Victor Armondo-Deleon",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793473055,
-   "photo": "photos/MKE_ARMONDODELEON_VICTOR_640359.jpg"
   }
  ]
 }
