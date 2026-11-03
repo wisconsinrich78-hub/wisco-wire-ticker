@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-03T22:49:26+00:00",
+ "updated": "2026-11-03T22:59:31+00:00",
  "items": [
+  {
+   "key": "MKE_MOSLEY_CHYANN_601136",
+   "name": "Chyann Chardinea Mosley",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 3,
+   "ts": 1793746672,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEFFERSONTHORNTON_ALEXZANDERA_512207",
+   "name": "Alexzandera Jefferson-Thornton",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Stalking",
+   "more": 4,
+   "ts": 1793746670,
+   "photo": null
+  },
+  {
+   "key": "MKE_JANNY_JENNIFER_634507",
+   "name": "Jennifer L Janny",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (7th, 8th or 9th)",
+   "more": 0,
+   "ts": 1793746668,
+   "photo": null
+  },
+  {
+   "key": "KEN_GOMEZ_FERNANDO_2026-00006072",
+   "name": "Fernando X Gomez",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746394,
+   "photo": null
+  },
   {
    "key": "RC_VEGA_ANGELO_120011075904489",
    "name": "Angelo Junior Vega",
@@ -40,7 +84,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 3,
    "ts": 1793743061,
    "photo": null
@@ -117,7 +161,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Attempt",
+   "charge": "Robbery with Use of Force",
    "more": 1,
    "ts": 1793741260,
    "photo": null
@@ -198,50 +242,6 @@
    "more": 0,
    "ts": 1793738887,
    "photo": "photos/RC_REYES_JUAN_120011075899609.jpg"
-  },
-  {
-   "key": "RC_REYES_JR_120011075899689",
-   "name": "Jr Gerardo Reyes",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793738884,
-   "photo": "photos/RC_REYES_JR_120011075899689.jpg"
-  },
-  {
-   "key": "RC_GALVAN_ABEL_120011075899698",
-   "name": "Abel Galvan",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
-   "more": 0,
-   "ts": 1793738880,
-   "photo": null
-  },
-  {
-   "key": "RC_ELLIS_FAAREZ_120011075893580",
-   "name": "Faarez Ellis",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1793738877,
-   "photo": "photos/RC_ELLIS_FAAREZ_120011075893580.jpg"
-  },
-  {
-   "key": "MKE_TURNER_MICHAEL_376975",
-   "name": "Michael Avant Turner",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Tpr-Fail/Assume Parental Responsibility",
-   "more": 1,
-   "ts": 1793735867,
-   "photo": null
   },
   {
    "key": "SCHMALENBERG_MELISSA_2026-11-03",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_MOSLEY_CHYANN_601136",
+   "name": "Chyann Chardinea Mosley",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 3,
+   "ts": 1793746672,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEFFERSONTHORNTON_ALEXZANDERA_512207",
+   "name": "Alexzandera Jefferson-Thornton",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Stalking",
+   "more": 4,
+   "ts": 1793746670,
+   "photo": null
+  },
+  {
+   "key": "MKE_JANNY_JENNIFER_634507",
+   "name": "Jennifer L Janny",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (7th, 8th or 9th)",
+   "more": 0,
+   "ts": 1793746668,
+   "photo": null
+  },
+  {
+   "key": "KEN_GOMEZ_FERNANDO_2026-00006072",
+   "name": "Fernando X Gomez",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746394,
+   "photo": null
+  },
+  {
    "key": "RC_VEGA_ANGELO_120011075904489",
    "name": "Angelo Junior Vega",
    "age": "34",
@@ -570,7 +614,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 3,
    "ts": 1793743061,
    "photo": null
@@ -647,7 +691,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Attempt",
+   "charge": "Robbery with Use of Force",
    "more": 1,
    "ts": 1793741260,
    "photo": null
@@ -771,7 +815,7 @@
    "charge": "Tpr-Fail/Assume Parental Responsibility",
    "more": 1,
    "ts": 1793735867,
-   "photo": null
+   "photo": "photos/MKE_TURNER_MICHAEL_376975.jpg"
   },
   {
    "key": "MKE_STEPHENS_JERMAINE_282166",
@@ -881,7 +925,7 @@
    "charge": "1st Degree Reckless Injury",
    "more": 0,
    "ts": 1793730476,
-   "photo": null
+   "photo": "photos/MKE_BENSON_JOSEPH_365183.jpg"
   },
   {
    "key": "MKE_ALBANILOTAPA_SANTIAGO_648112",
@@ -903,7 +947,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1793730471,
-   "photo": null
+   "photo": "photos/MKE_ADAMS_IVE_631753.jpg"
   },
   {
    "key": "FDL_SHIPS_KENDALL_2026-11-03",
@@ -1046,7 +1090,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793726863,
-   "photo": null
+   "photo": "photos/MKE_SHELTON_JOHN_201634.jpg"
   },
   {
    "key": "MKE_SEMRAD_RYAN_639015",
@@ -1057,7 +1101,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793726862,
-   "photo": null
+   "photo": "photos/MKE_SEMRAD_RYAN_639015.jpg"
   },
   {
    "key": "MKE_NEWMAN_WALLACE_647267",
@@ -1068,7 +1112,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793726860,
-   "photo": null
+   "photo": "photos/MKE_NEWMAN_WALLACE_647267.jpg"
   },
   {
    "key": "MKE_MCLAURIN_FREDDIE_195701",
@@ -1079,7 +1123,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793726858,
-   "photo": null
+   "photo": "photos/MKE_MCLAURIN_FREDDIE_195701.jpg"
   },
   {
    "key": "MKE_MACKBELL_AARON_648111",
@@ -1109,10 +1153,10 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 2,
    "ts": 1793725057,
-   "photo": null
+   "photo": "photos/MKE_BARKSDALE_ETHAN_644177.jpg"
   },
   {
    "key": "MAR_AGUILAR_JOHN_2026-11-03",
@@ -5161,39 +5205,6 @@
    "more": 4,
    "ts": 1793488637,
    "photo": null
-  },
-  {
-   "key": "KEN_LARSON_JAMESON_2026-00006018",
-   "name": "Jameson Robert Larson",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793487490,
-   "photo": "photos/KEN_LARSON_JAMESON_2026-00006018.jpg"
-  },
-  {
-   "key": "KEN_GASCOIGNE_WALTER_2026-00006016",
-   "name": "Walter Joseph Gascoigne",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793487420,
-   "photo": "photos/KEN_GASCOIGNE_WALTER_2026-00006016.jpg"
-  },
-  {
-   "key": "KEN_CAMPBELL_LEE_2026-00006017",
-   "name": "LEE ARTHUR Junior CAMPBELL",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793487351,
-   "photo": "photos/KEN_CAMPBELL_LEE_2026-00006017.jpg"
   }
  ]
 }
