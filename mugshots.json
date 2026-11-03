@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T23:56:56+00:00",
+ "updated": "2026-11-03T00:29:16+00:00",
  "items": [
+  {
+   "key": "MKE_TREJODONGHU_GAMALIEL_639135",
+   "name": "Gamaliel Trejo-Donghu",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 0,
+   "ts": 1793665681,
+   "photo": "photos/MKE_TREJODONGHU_GAMALIEL_639135.jpg"
+  },
+  {
+   "key": "MKE_RIEMER_DASHAWN_648104",
+   "name": "Dashawn M Riemer",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793665679,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILL_JERIUS_648103",
+   "name": "Jerius L Hill",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
+   "more": 3,
+   "ts": 1793665676,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRANT_GAVIN_646264",
+   "name": "Gavin Christopher Grant",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1793665673,
+   "photo": "photos/MKE_GRANT_GAVIN_646264.jpg"
+  },
   {
    "key": "KEN_JONES_JAMIRE_2026-00006060",
    "name": "Jamire L Jones",
@@ -211,39 +255,6 @@
    "photo": "photos/RC_COATES_CAMARRI_120011075855820.jpg"
   },
   {
-   "key": "MKE_TORRES_JESSE_648100",
-   "name": "Jesse Blake Torres",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793654873,
-   "photo": null
-  },
-  {
-   "key": "MKE_TIGGINS_LACHANDRA_293321",
-   "name": "Lachandra Sathy Tiggins",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793654871,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALVARADO_JAIME_270149",
-   "name": "Jaime Raul Alvarado",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793654869,
-   "photo": "photos/MKE_ALVARADO_JAIME_270149.jpg"
-  },
-  {
    "key": "LUBA_JOSHUA_2026-11-02",
    "name": "Joshua J Luba",
    "age": "44",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1793654823,
    "photo": null
-  },
-  {
-   "key": "KEN_IRBY_BOBBY_2026-00006058",
-   "name": "BOBBY LEE Junior IRBY",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793652863,
-   "photo": "photos/KEN_IRBY_BOBBY_2026-00006058.jpg"
   },
   {
    "key": "ABSTON_DANIEL_2026-11-02",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_TREJODONGHU_GAMALIEL_639135",
+   "name": "Gamaliel Trejo-Donghu",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 0,
+   "ts": 1793665681,
+   "photo": "photos/MKE_TREJODONGHU_GAMALIEL_639135.jpg"
+  },
+  {
+   "key": "MKE_RIEMER_DASHAWN_648104",
+   "name": "Dashawn M Riemer",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793665679,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILL_JERIUS_648103",
+   "name": "Jerius L Hill",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
+   "more": 3,
+   "ts": 1793665676,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRANT_GAVIN_646264",
+   "name": "Gavin Christopher Grant",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1793665673,
+   "photo": "photos/MKE_GRANT_GAVIN_646264.jpg"
+  },
   {
    "key": "KEN_JONES_JAMIRE_2026-00006060",
    "name": "Jamire L Jones",
@@ -4875,39 +4919,6 @@
    "more": 0,
    "ts": 1793407628,
    "photo": null
-  },
-  {
-   "key": "MKE_SPIVEY_TAYDEN_641532",
-   "name": "Tayden R Spivey",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1793404677,
-   "photo": "photos/MKE_SPIVEY_TAYDEN_641532.jpg"
-  },
-  {
-   "key": "MKE_MUCH_TIMOTHY_648051",
-   "name": "Timothy I Much",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793404674,
-   "photo": "photos/MKE_MUCH_TIMOTHY_648051.jpg"
-  },
-  {
-   "key": "MKE_MALONE_JASAVION_618926",
-   "name": "Jasavion Chavez Malone",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1793404670,
-   "photo": "photos/MKE_MALONE_JASAVION_618926.jpg"
   }
  ]
 }
