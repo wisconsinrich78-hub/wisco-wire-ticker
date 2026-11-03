@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-03T21:28:20+00:00",
+ "updated": "2026-11-03T21:49:29+00:00",
  "items": [
+  {
+   "key": "RC_WILLIAMS_KEYONTA_120011075901001",
+   "name": "Keyonta T Williams",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793742490,
+   "photo": "photos/RC_WILLIAMS_KEYONTA_120011075901001.jpg"
+  },
+  {
+   "key": "RC_FLOWERS_DEDRICK_120011075900923",
+   "name": "Dedrick Lavell Flowers",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793742488,
+   "photo": "photos/RC_FLOWERS_DEDRICK_120011075900923.jpg"
+  },
+  {
+   "key": "KING_ANTWAN_2026-11-03",
+   "name": "Antwan L King",
+   "age": "50",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Court",
+   "more": 0,
+   "ts": 1793742445,
+   "photo": null
+  },
   {
    "key": "MKE_NEALMISSOURI_JATERRIUS_644248",
    "name": "Jaterrius T Neal-Missouri",
@@ -186,28 +219,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793732263,
-   "photo": null
-  },
-  {
-   "key": "KEN_KOHNKE_KYLE_2026-00006067",
-   "name": "Kyle R Kohnke",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793732152,
-   "photo": "photos/KEN_KOHNKE_KYLE_2026-00006067.jpg"
-  },
-  {
-   "key": "RC_WALKER_PHILLIP_120011075893731",
-   "name": "Phillip Walker",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793731675,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793661425,
    "photo": "photos/FDL_SESMADOMINGUEZ_DANIEL_2026-11-02.jpg"
-  },
-  {
-   "key": "LUBA_JOSHUA_2026-11-02",
-   "name": "Joshua J Luba",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Unlawful Phone Use-Threatens Harm",
-   "more": 0,
-   "ts": 1793654823,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WILLIAMS_KEYONTA_120011075901001",
+   "name": "Keyonta T Williams",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793742490,
+   "photo": "photos/RC_WILLIAMS_KEYONTA_120011075901001.jpg"
+  },
+  {
+   "key": "RC_FLOWERS_DEDRICK_120011075900923",
+   "name": "Dedrick Lavell Flowers",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793742488,
+   "photo": "photos/RC_FLOWERS_DEDRICK_120011075900923.jpg"
+  },
+  {
+   "key": "KING_ANTWAN_2026-11-03",
+   "name": "Antwan L King",
+   "age": "50",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Court",
+   "more": 0,
+   "ts": 1793742445,
+   "photo": null
+  },
   {
    "key": "MKE_NEALMISSOURI_JATERRIUS_644248",
    "name": "Jaterrius T Neal-Missouri",
@@ -5216,39 +5249,6 @@
    "more": 0,
    "ts": 1793483700,
    "photo": "photos/KEN_PARRISH_ROGER_2026-00006015.jpg"
-  },
-  {
-   "key": "RC_ROYSTER_ROBERT_120011075788459",
-   "name": "Robert David Royster",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793483274,
-   "photo": "photos/RC_ROYSTER_ROBERT_120011075788459.jpg"
-  },
-  {
-   "key": "RC_LANNINGHAM_TONYA_120011075788306",
-   "name": "Tonya Sue Lanningham",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793483271,
-   "photo": null
-  },
-  {
-   "key": "RC_KELLEY_TIMOTHY_120011075787811",
-   "name": "Timothy Carl Kelley",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Physical Abuse of a Child - High Probability of Great Bodily Harm",
-   "more": 2,
-   "ts": 1793483269,
-   "photo": "photos/RC_KELLEY_TIMOTHY_120011075787811.jpg"
   }
  ]
 }
