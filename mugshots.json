@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T19:57:24+00:00",
+ "updated": "2026-11-03T20:27:35+00:00",
  "items": [
+  {
+   "key": "MKE_TURNER_MICHAEL_376975",
+   "name": "Michael Avant Turner",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Tpr-Fail/Assume Parental Responsibility",
+   "more": 1,
+   "ts": 1793735867,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEPHENS_JERMAINE_282166",
+   "name": "Jermaine Lashone Stephens",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793735865,
+   "photo": null
+  },
   {
    "key": "KEN_HEMPHILL_GREG_2026-00006069",
    "name": "Greg Hemphill",
@@ -62,8 +84,8 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793732263,
    "photo": null
   },
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1793728082,
    "photo": "photos/RC_THOMAS_JENNIFER_120011075891601.jpg"
-  },
-  {
-   "key": "RC_SMITH_JAMAAL_120011075893394",
-   "name": "Jamaal Smith",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728080,
-   "photo": null
-  },
-  {
-   "key": "RC_JAIMES_NOAH_120011075891755",
-   "name": "Noah Ciro Jaimes",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728077,
-   "photo": "photos/RC_JAIMES_NOAH_120011075891755.jpg"
   },
   {
    "key": "MAR_AGUILAR_JOHN_2026-11-03",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_TURNER_MICHAEL_376975",
+   "name": "Michael Avant Turner",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Tpr-Fail/Assume Parental Responsibility",
+   "more": 1,
+   "ts": 1793735867,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEPHENS_JERMAINE_282166",
+   "name": "Jermaine Lashone Stephens",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793735865,
+   "photo": null
+  },
+  {
    "key": "KEN_HEMPHILL_GREG_2026-00006069",
    "name": "Greg Hemphill",
    "age": "54",
@@ -592,8 +614,8 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793732263,
    "photo": null
   },
@@ -878,7 +900,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 2,
    "ts": 1793725057,
    "photo": null
@@ -936,7 +958,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793721477,
-   "photo": null
+   "photo": "photos/MKE_STEVENSON_KEVIONTA_622593.jpg"
   },
   {
    "key": "MKE_LLOYD_MAURICE_502407",
@@ -991,7 +1013,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793716052,
-   "photo": null
+   "photo": "photos/MKE_FRANKLIN_RAYNARD_378062.jpg"
   },
   {
    "key": "MAR_ANDRUSS_JOSEPH_2026-11-03_NOIMAGE",
@@ -1046,7 +1068,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793705251,
-   "photo": null
+   "photo": "photos/MKE_LARA_DENNIS_331853.jpg"
   },
   {
    "key": "MKE_FULGHEM_BREON_359458",
