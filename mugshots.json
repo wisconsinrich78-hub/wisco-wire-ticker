@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T16:49:28+00:00",
+ "updated": "2026-11-03T17:02:12+00:00",
  "items": [
+  {
+   "key": "MKE_MACKBELL_AARON_648111",
+   "name": "Aaron B Mack Bell",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resist/Obstruct Police Officer",
+   "more": 0,
+   "ts": 1793725061,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOPSON_CYNTHIA_372929",
+   "name": "Cynthia Hopson",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793725059,
+   "photo": null
+  },
+  {
+   "key": "MKE_BARKSDALE_ETHAN_644177",
+   "name": "Ethan Barksdale",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 2,
+   "ts": 1793725057,
+   "photo": null
+  },
+  {
+   "key": "MAR_AGUILAR_JOHN_2026-11-03",
+   "name": "John Joaquin Aguilar",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1793724985,
+   "photo": "photos/MAR_AGUILAR_JOHN_2026-11-03.jpg"
+  },
+  {
+   "key": "MAR_ROEKLE_CHRISTOPHER_2026-11-03",
+   "name": "Christopher Phillip Roekle",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 0,
+   "ts": 1793724951,
+   "photo": "photos/MAR_ROEKLE_CHRISTOPHER_2026-11-03.jpg"
+  },
   {
    "key": "RC_WILLIAMS_DARRELL_120011075889931",
    "name": "Darrell Williams",
@@ -222,39 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_PERRY_BARBARA_228553",
-   "name": "Barbara Jo Perry",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793699855,
-   "photo": "photos/MKE_PERRY_BARBARA_228553.jpg"
-  },
-  {
-   "key": "MKE_BRIDGES_TIMOTHY_328652",
-   "name": "Timothy T Bridges",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793699853,
-   "photo": "photos/MKE_BRIDGES_TIMOTHY_328652.jpg"
-  },
-  {
-   "key": "MKE_BICKNELL_ASHLEY_631873",
-   "name": "Ashley Lynn Bicknell",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 4,
-   "ts": 1793699851,
-   "photo": "photos/MKE_BICKNELL_ASHLEY_631873.jpg"
-  },
-  {
    "key": "MAR_ANDRUSS_JOSEPH_2026-11-03",
    "name": "Joseph Andruss",
    "age": "41",
@@ -453,28 +475,6 @@
    "photo": "photos/MAR_BOTTENSEK_SHELBY_2026-11-02.jpg"
   },
   {
-   "key": "MAR_HOLLINGSWORTH_JAYDEN_2026-11-02_1683801",
-   "name": "Jayden Lee Joseph Hollingsworth",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "2Nd Deg. Sex Assault-Intoxicated Victim",
-   "more": 1,
-   "ts": 1793660149,
-   "photo": "photos/MAR_HOLLINGSWORTH_JAYDEN_2026-11-02_1683801.jpg"
-  },
-  {
-   "key": "MAR_EWAN_CORDERO_2026-11-02",
-   "name": "Cordero Robert Ewan",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 3,
-   "ts": 1793656614,
-   "photo": null
-  },
-  {
    "key": "LUBA_JOSHUA_2026-11-02",
    "name": "Joshua J Luba",
    "age": "44",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MACKBELL_AARON_648111",
+   "name": "Aaron B Mack Bell",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resist/Obstruct Police Officer",
+   "more": 0,
+   "ts": 1793725061,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOPSON_CYNTHIA_372929",
+   "name": "Cynthia Hopson",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793725059,
+   "photo": null
+  },
+  {
+   "key": "MKE_BARKSDALE_ETHAN_644177",
+   "name": "Ethan Barksdale",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 2,
+   "ts": 1793725057,
+   "photo": null
+  },
+  {
+   "key": "MAR_AGUILAR_JOHN_2026-11-03",
+   "name": "John Joaquin Aguilar",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1793724985,
+   "photo": "photos/MAR_AGUILAR_JOHN_2026-11-03.jpg"
+  },
+  {
+   "key": "MAR_ROEKLE_CHRISTOPHER_2026-11-03",
+   "name": "Christopher Phillip Roekle",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 0,
+   "ts": 1793724951,
+   "photo": "photos/MAR_ROEKLE_CHRISTOPHER_2026-11-03.jpg"
+  },
   {
    "key": "RC_WILLIAMS_DARRELL_120011075889931",
    "name": "Darrell Williams",
