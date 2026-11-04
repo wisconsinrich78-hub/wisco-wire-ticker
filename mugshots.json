@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T07:27:47+00:00",
+ "updated": "2026-11-04T08:27:43+00:00",
  "items": [
+  {
+   "key": "MKE_SCOTT_JACOBY_382431",
+   "name": "Jacoby T Scott",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1793779048,
+   "photo": null
+  },
   {
    "key": "FDL_WEELDREYER_EMILY_2026-11-04",
    "name": "Emily Eileen Weeldreyer",
@@ -230,7 +241,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 7,
    "ts": 1793764656,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_HOWARD_274846.jpg"
   },
   {
    "key": "MKE_DEANS_KEITA_279178",
@@ -319,17 +330,6 @@
    "more": 0,
    "ts": 1793757567,
    "photo": null
-  },
-  {
-   "key": "MKE_KLOSOWSKI_MARK_648116",
-   "name": "Mark lee Klosowski",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793757535,
-   "photo": "photos/MKE_KLOSOWSKI_MARK_648116.jpg"
   },
   {
    "key": "MAR_CLARK_CORTNEY_2026-11-03_2451104",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SCOTT_JACOBY_382431",
+   "name": "Jacoby T Scott",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1793779048,
+   "photo": null
+  },
+  {
    "key": "FDL_WEELDREYER_EMILY_2026-11-04",
    "name": "Emily Eileen Weeldreyer",
    "age": "",
@@ -760,7 +771,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 7,
    "ts": 1793764656,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_HOWARD_274846.jpg"
   },
   {
    "key": "MKE_DEANS_KEITA_279178",
@@ -5029,105 +5040,6 @@
    "more": 0,
    "ts": 1793522872,
    "photo": null
-  },
-  {
-   "key": "MKE_TVRZ_BRIAN_648069",
-   "name": "Brian Frederick Tvrz",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793521662,
-   "photo": "photos/MKE_TVRZ_BRIAN_648069.jpg"
-  },
-  {
-   "key": "MKE_MURPHY_TREVEON_633270",
-   "name": "Treveon H Murphy",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793521660,
-   "photo": "photos/MKE_MURPHY_TREVEON_633270.jpg"
-  },
-  {
-   "key": "MKE_MAY_JOHNNY_648070",
-   "name": "Johnny C May",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793521657,
-   "photo": "photos/MKE_MAY_JOHNNY_648070.jpg"
-  },
-  {
-   "key": "MKE_BANNISTER_DESTINEY_648068",
-   "name": "Destiney Tianna Bannister",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793521655,
-   "photo": "photos/MKE_BANNISTER_DESTINEY_648068.jpg"
-  },
-  {
-   "key": "LONG_JENICE_2026-11-01",
-   "name": "Jenice N Long",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793521624,
-   "photo": null
-  },
-  {
-   "key": "DAVIS_KELSEY_2026-11-01",
-   "name": "Kelsey J Davis",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1793521623,
-   "photo": null
-  },
-  {
-   "key": "TATE_ETHAN_2026-11-01",
-   "name": "Ethan J Tate",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793521622,
-   "photo": null
-  },
-  {
-   "key": "FDL_BALL_SHEREE_2026-11-01",
-   "name": "Sheree Cionnia Ball",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Resisting Or Obstructing Officer",
-   "more": 0,
-   "ts": 1793520963,
-   "photo": null
-  },
-  {
-   "key": "FDL_BALL_AMON_2026-11-01",
-   "name": "Amon Kevontae Ball",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793520962,
-   "photo": "photos/FDL_BALL_AMON_2026-11-01.jpg"
   }
  ]
 }
