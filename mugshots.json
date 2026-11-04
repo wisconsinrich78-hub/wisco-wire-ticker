@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-04T04:28:17+00:00",
+ "updated": "2026-11-04T05:28:34+00:00",
  "items": [
+  {
+   "key": "MKE_LISTON_BRIAN_381891",
+   "name": "Brian Christopher Liston",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793770072,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_MARKIECE_629413",
+   "name": "Markiece Damon Johnson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1793770070,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLLINS_STEVE_247040",
+   "name": "Steve Allen Hollins",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793770068,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_GREGORY_617222",
+   "name": "Gregory Juwan Harris",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793770066,
+   "photo": null
+  },
+  {
+   "key": "MKE_FORD_TANISHA_639689",
+   "name": "Tanisha Lashonda Ford",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793770064,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWNING_MAKALE_627758",
+   "name": "Makale A Browning",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793770062,
+   "photo": null
+  },
+  {
+   "key": "FDL_WEELDREYER_EMILY_2026-11-03",
+   "name": "Emily Eileen Weeldreyer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793769451,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUCKSMAJOR_DEMETRIANA_648118",
+   "name": "Demetriana D Rucks Major",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793768277,
+   "photo": null
+  },
+  {
+   "key": "MAR_RANGEL_MARTIN_2026-11-03",
+   "name": "Martin Ortega Rangel",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 2,
+   "ts": 1793768227,
+   "photo": null
+  },
+  {
+   "key": "MAR_THOMPSON_JONATHON_2026-11-03",
+   "name": "Jonathon William Thompson",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1793768190,
+   "photo": null
+  },
+  {
+   "key": "MAR_HAUKE_DYLAN_2026-11-03",
+   "name": "Dylan J Hauke",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 1,
+   "ts": 1793768153,
+   "photo": null
+  },
   {
    "key": "MKE_PRYOR_AIDEN_648117",
    "name": "Aiden Savant Pryor",
@@ -18,8 +139,8 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 7,
    "ts": 1793764656,
    "photo": null
   },
@@ -32,7 +153,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793764654,
-   "photo": null
+   "photo": "photos/MKE_DEANS_KEITA_279178.jpg"
   },
   {
    "key": "MKE_WICKLIFFE_BRYAN_639670",
@@ -178,83 +299,6 @@
    "photo": null
   },
   {
-   "key": "RC_BASCHE_DAVID_120011075907342",
-   "name": "David Basche",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793756976,
-   "photo": null
-  },
-  {
-   "key": "MKE_COLLINS_ZAKIYA_623899",
-   "name": "Zakiya Shante Collins",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793753863,
-   "photo": "photos/MKE_COLLINS_ZAKIYA_623899.jpg"
-  },
-  {
-   "key": "MKE_CHOMICKIHUDLEY_AUBRIANNA_648115",
-   "name": "Aubrianna A Chomicki Hudley",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793753861,
-   "photo": "photos/MKE_CHOMICKIHUDLEY_AUBRIANNA_648115.jpg"
-  },
-  {
-   "key": "MKE_CANAS_KATHERINE_2059551",
-   "name": "Katherine Canas",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793753859,
-   "photo": "photos/MKE_CANAS_KATHERINE_2059551.jpg"
-  },
-  {
-   "key": "KEN_PACZYNSKI_AMANDA_2026-00006074",
-   "name": "Amanda Rose Paczynski",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Fail To Install/Violate Court Orde",
-   "more": 2,
-   "ts": 1793753780,
-   "photo": "photos/KEN_PACZYNSKI_AMANDA_2026-00006074.jpg"
-  },
-  {
-   "key": "MKE_OLIVOCRESPO_ALBEL_648114",
-   "name": "Albel Yadiel Olivo Crespo",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793752064,
-   "photo": "photos/MKE_OLIVOCRESPO_ALBEL_648114.jpg"
-  },
-  {
-   "key": "MKE_MILLER_OCTAVIAN_513794",
-   "name": "Octavian Jeffrey Miller",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793752062,
-   "photo": "photos/MKE_MILLER_OCTAVIAN_513794.jpg"
-  },
-  {
    "key": "MAR_CLARK_CORTNEY_2026-11-03",
    "name": "Cortney Aijhan Clark",
    "age": "39",
@@ -398,39 +442,6 @@
    "photo": "photos/MAR_SKITTONE_JOSEPH_2026-11-03.jpg"
   },
   {
-   "key": "MAR_VANG_PHOOJYWG_2026-11-03",
-   "name": "Phoojywg Ywg Ricky Vang",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793729006,
-   "photo": "photos/MAR_VANG_PHOOJYWG_2026-11-03.jpg"
-  },
-  {
-   "key": "MAR_AGUILAR_JOHN_2026-11-03",
-   "name": "John Joaquin Aguilar",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793724985,
-   "photo": "photos/MAR_AGUILAR_JOHN_2026-11-03.jpg"
-  },
-  {
-   "key": "MAR_ROEKLE_CHRISTOPHER_2026-11-03",
-   "name": "Christopher Phillip Roekle",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 4Th",
-   "more": 0,
-   "ts": 1793724951,
-   "photo": "photos/MAR_ROEKLE_CHRISTOPHER_2026-11-03.jpg"
-  },
-  {
    "key": "TABOR_ZACHARY_2026-11-03",
    "name": "Zachary S Tabor",
    "age": "34",
@@ -517,20 +528,130 @@
    "more": 0,
    "ts": 1793688426,
    "photo": null
-  },
-  {
-   "key": "DAYTON_EMILY_2026-11-02",
-   "name": "Emily Sue Dayton",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1793681225,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LISTON_BRIAN_381891",
+   "name": "Brian Christopher Liston",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793770072,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_MARKIECE_629413",
+   "name": "Markiece Damon Johnson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1793770070,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLLINS_STEVE_247040",
+   "name": "Steve Allen Hollins",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793770068,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_GREGORY_617222",
+   "name": "Gregory Juwan Harris",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793770066,
+   "photo": null
+  },
+  {
+   "key": "MKE_FORD_TANISHA_639689",
+   "name": "Tanisha Lashonda Ford",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793770064,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWNING_MAKALE_627758",
+   "name": "Makale A Browning",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793770062,
+   "photo": null
+  },
+  {
+   "key": "FDL_WEELDREYER_EMILY_2026-11-03",
+   "name": "Emily Eileen Weeldreyer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793769451,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUCKSMAJOR_DEMETRIANA_648118",
+   "name": "Demetriana D Rucks Major",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793768277,
+   "photo": null
+  },
+  {
+   "key": "MAR_RANGEL_MARTIN_2026-11-03",
+   "name": "Martin Ortega Rangel",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 2,
+   "ts": 1793768227,
+   "photo": null
+  },
+  {
+   "key": "MAR_THOMPSON_JONATHON_2026-11-03",
+   "name": "Jonathon William Thompson",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1793768190,
+   "photo": null
+  },
+  {
+   "key": "MAR_HAUKE_DYLAN_2026-11-03",
+   "name": "Dylan J Hauke",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 1,
+   "ts": 1793768153,
+   "photo": null
+  },
   {
    "key": "MKE_PRYOR_AIDEN_648117",
    "name": "Aiden Savant Pryor",
@@ -548,8 +669,8 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 7,
    "ts": 1793764656,
    "photo": null
   },
@@ -562,7 +683,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793764654,
-   "photo": null
+   "photo": "photos/MKE_DEANS_KEITA_279178.jpg"
   },
   {
    "key": "MKE_WICKLIFFE_BRYAN_639670",
@@ -5018,83 +5139,6 @@
    "more": 0,
    "ts": 1793512067,
    "photo": "photos/RC_SCHUMACHER_CLINT_120011075797334.jpg"
-  },
-  {
-   "key": "MKE_TRAVIS_PHILLIP_648063",
-   "name": "Phillip L Travis",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793510857,
-   "photo": "photos/MKE_TRAVIS_PHILLIP_648063.jpg"
-  },
-  {
-   "key": "MKE_PAYNE_SIRHINESS_648064",
-   "name": "Sir Hiness Leroy Payne",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Trespass-Buildings/Premises",
-   "more": 4,
-   "ts": 1793510856,
-   "photo": "photos/MKE_PAYNE_SIRHINESS_648064.jpg"
-  },
-  {
-   "key": "IBE_MALIKI_2026-11-01",
-   "name": "Maliki A Ibe",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1793510820,
-   "photo": null
-  },
-  {
-   "key": "REICHENBACH_DALE_2026-11-01",
-   "name": "Dale C Reichenbach",
-   "age": "43",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1793510819,
-   "photo": null
-  },
-  {
-   "key": "DOU_LOPEZ_NELSON_2026-10-31",
-   "name": "Nelson S Lopez",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793510227,
-   "photo": null
-  },
-  {
-   "key": "FDL_BUTLER_DEVIN_2026-11-01",
-   "name": "Devin J Butler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1793510168,
-   "photo": "photos/FDL_BUTLER_DEVIN_2026-11-01.jpg"
-  },
-  {
-   "key": "KEN_FORTNER_STEVEN_2026-00006031",
-   "name": "Steven Richard Fortner",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793508997,
-   "photo": "photos/KEN_FORTNER_STEVEN_2026-00006031.jpg"
   }
  ]
 }
