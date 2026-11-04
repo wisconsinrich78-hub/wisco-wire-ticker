@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T22:28:22+00:00",
+ "updated": "2026-11-04T22:49:27+00:00",
  "items": [
+  {
+   "key": "RC_EPPS_ANDRE_120011075946434",
+   "name": "Andre Lapriese Epps",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793832467,
+   "photo": "photos/RC_EPPS_ANDRE_120011075946434.jpg"
+  },
   {
    "key": "DOU_GLENN_DARIN_2026-11-04",
    "name": "Darin A Glenn",
@@ -321,17 +332,6 @@
    "photo": "photos/MAR_WIDMANN_CHAD_2026-11-04.jpg"
   },
   {
-   "key": "KEN_SANDOVALCAREY_VALERIE_2026-00006090",
-   "name": "Valerie Ann Sandoval-Carey",
-   "age": "56",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1793822333,
-   "photo": "photos/KEN_SANDOVALCAREY_VALERIE_2026-00006090.jpg"
-  },
-  {
    "key": "VESSELL_SHANNON_2026-11-04",
    "name": "Shannon N Vessell",
    "age": "52",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_EPPS_ANDRE_120011075946434",
+   "name": "Andre Lapriese Epps",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793832467,
+   "photo": "photos/RC_EPPS_ANDRE_120011075946434.jpg"
+  },
   {
    "key": "DOU_GLENN_DARIN_2026-11-04",
    "name": "Darin A Glenn",
@@ -5183,28 +5194,6 @@
    "more": 4,
    "ts": 1793573811,
    "photo": "photos/KEN_GARCIAEVERETT_AIDEN_2026-00006044.jpg"
-  },
-  {
-   "key": "RC_VALLADARESSANTOS_JOSE_120011075815502",
-   "name": "Jose M Valladares-Santos",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793573272,
-   "photo": null
-  },
-  {
-   "key": "RC_DRANE_MARLINZO_120011075815979",
-   "name": "Marlinzo Markays Drane",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1793573270,
-   "photo": "photos/RC_DRANE_MARLINZO_120011075815979.jpg"
   }
  ]
 }
