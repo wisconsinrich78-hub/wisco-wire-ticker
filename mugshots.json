@@ -1,13 +1,90 @@
 {
- "updated": "2026-11-04T18:49:29+00:00",
+ "updated": "2026-11-04T19:28:43+00:00",
  "items": [
+  {
+   "key": "DOU_RUTH_TEDDY_2026-10-29",
+   "name": "Teddy L Ruth",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793819829,
+   "photo": "photos/DOU_RUTH_TEDDY_2026-10-29.jpg"
+  },
+  {
+   "key": "DOU_JUDE_BRADLEY_2026-11-04",
+   "name": "Bradley J Jude",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793819827,
+   "photo": null
+  },
+  {
+   "key": "FDL_THOMAS_DEVIN_2026-11-04",
+   "name": "Devin Devon Thomas",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793819817,
+   "photo": "photos/FDL_THOMAS_DEVIN_2026-11-04.jpg"
+  },
+  {
+   "key": "KEN_BRADLEY_DERRICK_2026-00006089",
+   "name": "Derrick D Bradley",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793818675,
+   "photo": null
+  },
+  {
+   "key": "MKE_SUAREZOLEA_JESUS_648129",
+   "name": "Jesus Suarez Olea",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793818659,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAEMMERT_JAMES_621287",
+   "name": "James Eugene Baemmert",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery by Prisoners",
+   "more": 1,
+   "ts": 1793818657,
+   "photo": null
+  },
+  {
+   "key": "KEN_TOWNSEND_WALLACE_2026-00006088",
+   "name": "WALLACE SHERWOOD Junior TOWNSEND",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 4,
+   "ts": 1793818638,
+   "photo": "photos/KEN_TOWNSEND_WALLACE_2026-00006088.jpg"
+  },
   {
    "key": "MKE_TAPIA_ADAM_625060",
    "name": "Adam Alexander Tapia",
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st De",
    "more": 0,
    "ts": 1793816875,
    "photo": null
@@ -41,7 +118,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 10,
+   "more": 12,
    "ts": 1793816869,
    "photo": null
   },
@@ -189,17 +266,6 @@
    "photo": "photos/MKE_MEAD_JEFFREY_648126.jpg"
   },
   {
-   "key": "MKE_BERRY_DARIUS_501067",
-   "name": "Darius Dywone Berry",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793811459,
-   "photo": null
-  },
-  {
    "key": "MAR_POLZIN_DOUGLAS_2026-11-04",
    "name": "Douglas William Polzin",
    "age": "50",
@@ -209,39 +275,6 @@
    "more": 0,
    "ts": 1793811354,
    "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04.jpg"
-  },
-  {
-   "key": "KEN_FAMOUS_KENNETH_2026-00006083",
-   "name": "Kenneth Bruce Famous",
-   "age": "66",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793811270,
-   "photo": "photos/KEN_FAMOUS_KENNETH_2026-00006083.jpg"
-  },
-  {
-   "key": "RC_GOVEA_JORGE_120011075934375",
-   "name": "Jorge Govea",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793810870,
-   "photo": "photos/RC_GOVEA_JORGE_120011075934375.jpg"
-  },
-  {
-   "key": "RC_BROADWAY_AWMORREUNCE_120011075924665",
-   "name": "Awmorreunce S Broadway",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793810866,
-   "photo": "photos/RC_BROADWAY_AWMORREUNCE_120011075924665.jpg"
   },
   {
    "key": "DOU_URMAN_QUINTIN_2026-11-04",
@@ -464,28 +497,6 @@
    "photo": "photos/DOU_MCPHERSON_BENJAMIN_2026-11-03.jpg"
   },
   {
-   "key": "MAR_DEMARS_SERENA_2026-11-03",
-   "name": "Serena Joy Demars",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Theft-Movable Property Under $2500",
-   "more": 0,
-   "ts": 1793757567,
-   "photo": null
-  },
-  {
-   "key": "MAR_CLARK_CORTNEY_2026-11-03_2451104",
-   "name": "Cortney Aijhan Clark",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operate With Restricted Controlled Substance",
-   "more": 1,
-   "ts": 1793757526,
-   "photo": "photos/MAR_CLARK_CORTNEY_2026-11-03_2451104.jpg"
-  },
-  {
    "key": "KING_ANTWAN_2026-11-03",
    "name": "Antwan L King",
    "age": "50",
@@ -517,27 +528,93 @@
    "more": 0,
    "ts": 1793734023,
    "photo": null
-  },
-  {
-   "key": "FDL_SHIPS_KENDALL_2026-11-03",
-   "name": "Kendall Jermaine Ships",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1793729818,
-   "photo": "photos/FDL_SHIPS_KENDALL_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_RUTH_TEDDY_2026-10-29",
+   "name": "Teddy L Ruth",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793819829,
+   "photo": "photos/DOU_RUTH_TEDDY_2026-10-29.jpg"
+  },
+  {
+   "key": "DOU_JUDE_BRADLEY_2026-11-04",
+   "name": "Bradley J Jude",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793819827,
+   "photo": null
+  },
+  {
+   "key": "FDL_THOMAS_DEVIN_2026-11-04",
+   "name": "Devin Devon Thomas",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793819817,
+   "photo": "photos/FDL_THOMAS_DEVIN_2026-11-04.jpg"
+  },
+  {
+   "key": "KEN_BRADLEY_DERRICK_2026-00006089",
+   "name": "Derrick D Bradley",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793818675,
+   "photo": null
+  },
+  {
+   "key": "MKE_SUAREZOLEA_JESUS_648129",
+   "name": "Jesus Suarez Olea",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793818659,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAEMMERT_JAMES_621287",
+   "name": "James Eugene Baemmert",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery by Prisoners",
+   "more": 1,
+   "ts": 1793818657,
+   "photo": null
+  },
+  {
+   "key": "KEN_TOWNSEND_WALLACE_2026-00006088",
+   "name": "WALLACE SHERWOOD Junior TOWNSEND",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 4,
+   "ts": 1793818638,
+   "photo": "photos/KEN_TOWNSEND_WALLACE_2026-00006088.jpg"
+  },
   {
    "key": "MKE_TAPIA_ADAM_625060",
    "name": "Adam Alexander Tapia",
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st De",
    "more": 0,
    "ts": 1793816875,
    "photo": null
@@ -571,7 +648,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 10,
+   "more": 12,
    "ts": 1793816869,
    "photo": null
   },
@@ -790,7 +867,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Possess w/ Intent-THC(>200-1000g)",
    "more": 18,
    "ts": 1793807873,
    "photo": null
@@ -4941,39 +5018,6 @@
    "more": 0,
    "ts": 1793562912,
    "photo": "photos/MAR_OLDS_KYLELEY_2026-11-01_1472202.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_KENNETH_387729",
-   "name": "Kenneth Tyrel Williams",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793559481,
-   "photo": "photos/MKE_WILLIAMS_KENNETH_387729.jpg"
-  },
-  {
-   "key": "MKE_MCVICKER_DAMIRUS_648081",
-   "name": "Damirus Gerald Mcvicker",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793559479,
-   "photo": "photos/MKE_MCVICKER_DAMIRUS_648081.jpg"
-  },
-  {
-   "key": "MKE_CARTER_QUENTIN_346995",
-   "name": "Quentin L Carter",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793559477,
-   "photo": "photos/MKE_CARTER_QUENTIN_346995.jpg"
   }
  ]
 }
