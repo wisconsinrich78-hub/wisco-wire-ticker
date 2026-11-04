@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-04T21:49:30+00:00",
+ "updated": "2026-11-04T22:28:22+00:00",
  "items": [
+  {
+   "key": "DOU_GLENN_DARIN_2026-11-04",
+   "name": "Darin A Glenn",
+   "age": "64",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793830839,
+   "photo": "photos/DOU_GLENN_DARIN_2026-11-04.jpg"
+  },
+  {
+   "key": "FDL_MORALES_ANTONIO_2026-11-04",
+   "name": "Antonio Joseph Morales",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x2)",
+   "more": 0,
+   "ts": 1793830764,
+   "photo": "photos/FDL_MORALES_ANTONIO_2026-11-04.jpg"
+  },
+  {
+   "key": "MKE_THACKER_DAVASSO_645491",
+   "name": "Davasso Thacker",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 3,
+   "ts": 1793829478,
+   "photo": null
+  },
+  {
+   "key": "MKE_SALIM_ADAM_641060",
+   "name": "Adam Salim",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 1,
+   "ts": 1793829476,
+   "photo": null
+  },
+  {
+   "key": "MKE_PENDELTON_VIANJE_648131",
+   "name": "Vianje L Pendelton",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793829474,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONESETAL_MARQUITA_387765",
+   "name": "Marquita Alyssa Jones ET AL",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1793829472,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_JEREMY_351025",
+   "name": "Jeremy Lamar Davis",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 17,
+   "ts": 1793829470,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUCHANAN_JUNE_525584",
+   "name": "June Marquise Buchanan",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 11,
+   "ts": 1793829465,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROOKS_KEIMON_618977",
+   "name": "Keimon Romell Brooks",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1793829463,
+   "photo": null
+  },
   {
    "key": "RC_STEWART_SUNNY_120011075944868",
    "name": "Sunny S Stewart",
@@ -233,61 +332,6 @@
    "photo": "photos/KEN_SANDOVALCAREY_VALERIE_2026-00006090.jpg"
   },
   {
-   "key": "MKE_WASHINGTON_ANTHONY_297173",
-   "name": "Anthony Lathon Washington",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Intentional Homicide",
-   "more": 1,
-   "ts": 1793822272,
-   "photo": null
-  },
-  {
-   "key": "MKE_JELKS_PAYSHARNEDALE_632216",
-   "name": "Paysharnedale M Jelks",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793822268,
-   "photo": null
-  },
-  {
-   "key": "KEN_EVANS_CHANZE_2026-00006091",
-   "name": "Chanze Dupre Evans",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793822250,
-   "photo": "photos/KEN_EVANS_CHANZE_2026-00006091.jpg"
-  },
-  {
-   "key": "RC_TORRE_ANGELA_120011075941355",
-   "name": "Angela Rose Torre",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793821685,
-   "photo": "photos/RC_TORRE_ANGELA_120011075941355.jpg"
-  },
-  {
-   "key": "RC_MONHEIM_KERI_120011075940914",
-   "name": "Keri L Monheim",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793821683,
-   "photo": "photos/RC_MONHEIM_KERI_120011075940914.jpg"
-  },
-  {
    "key": "VESSELL_SHANNON_2026-11-04",
    "name": "Shannon N Vessell",
    "age": "52",
@@ -330,28 +374,6 @@
    "more": 0,
    "ts": 1793819817,
    "photo": "photos/FDL_THOMAS_DEVIN_2026-11-04.jpg"
-  },
-  {
-   "key": "KEN_BRADLEY_DERRICK_2026-00006089",
-   "name": "Derrick D Bradley",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793818675,
-   "photo": null
-  },
-  {
-   "key": "MKE_SUAREZOLEA_JESUS_648129",
-   "name": "Jesus Suarez Olea",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793818659,
-   "photo": null
   },
   {
    "key": "DOU_GARDNER_DESHAWN_2026-11-04",
@@ -407,17 +429,6 @@
    "more": 0,
    "ts": 1793812627,
    "photo": null
-  },
-  {
-   "key": "MAR_POLZIN_DOUGLAS_2026-11-04",
-   "name": "Douglas William Polzin",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793811354,
-   "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04.jpg"
   },
   {
    "key": "CARTER_PRINCE_2026-11-04",
@@ -517,20 +528,108 @@
    "more": 0,
    "ts": 1793762821,
    "photo": null
-  },
-  {
-   "key": "FDL_SCALLON_JACOB_2026-11-03",
-   "name": "Jacob J Scallon",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Revocation Order",
-   "more": 0,
-   "ts": 1793762212,
-   "photo": "photos/FDL_SCALLON_JACOB_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_GLENN_DARIN_2026-11-04",
+   "name": "Darin A Glenn",
+   "age": "64",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793830839,
+   "photo": "photos/DOU_GLENN_DARIN_2026-11-04.jpg"
+  },
+  {
+   "key": "FDL_MORALES_ANTONIO_2026-11-04",
+   "name": "Antonio Joseph Morales",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x2)",
+   "more": 0,
+   "ts": 1793830764,
+   "photo": "photos/FDL_MORALES_ANTONIO_2026-11-04.jpg"
+  },
+  {
+   "key": "MKE_THACKER_DAVASSO_645491",
+   "name": "Davasso Thacker",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 3,
+   "ts": 1793829478,
+   "photo": null
+  },
+  {
+   "key": "MKE_SALIM_ADAM_641060",
+   "name": "Adam Salim",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 1,
+   "ts": 1793829476,
+   "photo": null
+  },
+  {
+   "key": "MKE_PENDELTON_VIANJE_648131",
+   "name": "Vianje L Pendelton",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793829474,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONESETAL_MARQUITA_387765",
+   "name": "Marquita Alyssa Jones ET AL",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1793829472,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_JEREMY_351025",
+   "name": "Jeremy Lamar Davis",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 17,
+   "ts": 1793829470,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUCHANAN_JUNE_525584",
+   "name": "June Marquise Buchanan",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 11,
+   "ts": 1793829465,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROOKS_KEIMON_618977",
+   "name": "Keimon Romell Brooks",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1793829463,
+   "photo": null
+  },
   {
    "key": "RC_STEWART_SUNNY_120011075944868",
    "name": "Sunny S Stewart",
@@ -881,7 +980,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793818659,
-   "photo": null
+   "photo": "photos/MKE_SUAREZOLEA_JESUS_648129.jpg"
   },
   {
    "key": "MKE_BAEMMERT_JAMES_621287",
@@ -1164,10 +1263,10 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/ Intent-THC(>200-1000g)",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 18,
    "ts": 1793807873,
-   "photo": null
+   "photo": "photos/MKE_LAWRENCE_DESHAWN_504199.jpg"
   },
   {
    "key": "MKE_GONZALEZ_IZAK_648124",
@@ -1420,7 +1519,7 @@
    "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1793791685,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_JASON_280267.jpg"
   },
   {
    "key": "MKE_IRISH_JOHN_369846",
@@ -5106,61 +5205,6 @@
    "more": 0,
    "ts": 1793573270,
    "photo": "photos/RC_DRANE_MARLINZO_120011075815979.jpg"
-  },
-  {
-   "key": "MKE_MONCADABENITEZ_JUNIOR_648082",
-   "name": "Junior Romario Moncada Benitez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793570283,
-   "photo": "photos/MKE_MONCADABENITEZ_JUNIOR_648082.jpg"
-  },
-  {
-   "key": "MKE_LUSK_JOSHUA_297548",
-   "name": "Joshua Marcus Lusk",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793570281,
-   "photo": "photos/MKE_LUSK_JOSHUA_297548.jpg"
-  },
-  {
-   "key": "MKE_HAMILTON_SHAYLA_630889",
-   "name": "Shayla Rozalyn Hamilton",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793570278,
-   "photo": "photos/MKE_HAMILTON_SHAYLA_630889.jpg"
-  },
-  {
-   "key": "MAR_KENNEDY_ROGER_2026-11-01_6926012",
-   "name": "Roger Allen Kennedy",
-   "age": "69",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793570139,
-   "photo": "photos/MAR_KENNEDY_ROGER_2026-11-01_6926012.jpg"
-  },
-  {
-   "key": "KEN_EVERETT_KALEB_2026-00006043",
-   "name": "Kaleb Ryan Everett",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793570075,
-   "photo": "photos/KEN_EVERETT_KALEB_2026-00006043.jpg"
   }
  ]
 }
