@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:28:15+00:00",
+ "updated": "2026-11-04T23:49:29+00:00",
  "items": [
   {
    "key": "MKE_TAYLOR_LAZARIAH_648133",
@@ -205,8 +205,8 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent-THC (<=200 grams)",
+   "more": 1,
    "ts": 1793827664,
    "photo": null
   },
@@ -735,8 +735,8 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent-THC (<=200 grams)",
+   "more": 1,
    "ts": 1793827664,
    "photo": null
   },
@@ -5183,17 +5183,6 @@
    "more": 0,
    "ts": 1793577327,
    "photo": "photos/KEN_MCKEE_WAYNE_2026-00006045.jpg"
-  },
-  {
-   "key": "RC_CHRISTENSEN_MILTON_120011075817627",
-   "name": "Milton John Christensen",
-   "age": "71",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1793576880,
-   "photo": "photos/RC_CHRISTENSEN_MILTON_120011075817627.jpg"
   }
  ]
 }
