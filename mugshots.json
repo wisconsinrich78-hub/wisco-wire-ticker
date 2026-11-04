@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-04T22:49:27+00:00",
+ "updated": "2026-11-04T23:28:15+00:00",
  "items": [
+  {
+   "key": "MKE_TAYLOR_LAZARIAH_648133",
+   "name": "Lazariah Sharee Taylor",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793834867,
+   "photo": null
+  },
+  {
+   "key": "DOU_HARE_CARTER_2026-10-29",
+   "name": "Carter J Hare",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793834239,
+   "photo": "photos/DOU_HARE_CARTER_2026-10-29.jpg"
+  },
+  {
+   "key": "DOU_PALMER_SETH_2026-11-04",
+   "name": "Seth A Palmer",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793834237,
+   "photo": "photos/DOU_PALMER_SETH_2026-11-04.jpg"
+  },
+  {
+   "key": "MKE_STOKES_ROBBIEL_648132",
+   "name": "Robbiel Lorenzo Stokes",
+   "age": "15",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 1,
+   "ts": 1793833060,
+   "photo": "photos/MKE_STOKES_ROBBIEL_648132.jpg"
+  },
+  {
+   "key": "MKE_ROBERTSON_TARREL_375553",
+   "name": "Tarrel T Robertson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793833057,
+   "photo": null
+  },
   {
    "key": "RC_EPPS_ANDRE_120011075946434",
    "name": "Andre Lapriese Epps",
@@ -277,39 +332,6 @@
    "photo": "photos/KEN_SCOTT_DIONIA_2026-00006093.jpg"
   },
   {
-   "key": "KEN_ARIZOLA_LARESA_2026-00006092",
-   "name": "Laresa Ann Arizola",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793825666,
-   "photo": null
-  },
-  {
-   "key": "RC_JORGENSEN_ERIN_120011075941859",
-   "name": "Erin Lee Jorgensen",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
-   "more": 0,
-   "ts": 1793825310,
-   "photo": null
-  },
-  {
-   "key": "MKE_GLADNEY_DONTE_293120",
-   "name": "Donte L Gladney",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 8,
-   "ts": 1793824095,
-   "photo": null
-  },
-  {
    "key": "MAR_LAMPKIN_ADAM_2026-11-04",
    "name": "Adam John Lampkin",
    "age": "28",
@@ -387,17 +409,6 @@
    "photo": null
   },
   {
-   "key": "MAR_RANGEL_MARTIN_2026-11-03_17057201",
-   "name": "Martin Ortega Rangel",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Extradition",
-   "more": 3,
-   "ts": 1793814956,
-   "photo": "photos/MAR_RANGEL_MARTIN_2026-11-03_17057201.jpg"
-  },
-  {
    "key": "HOU_HILL_JACOBEDWARD_6326",
    "name": "Jacob Edward Hill",
    "age": "36",
@@ -417,17 +428,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793814429,
-   "photo": null
-  },
-  {
-   "key": "DOU_MOLLER_RYAN_2026-11-04",
-   "name": "Ryan J Moller",
-   "age": "37",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793812627,
    "photo": null
   },
   {
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_TAYLOR_LAZARIAH_648133",
+   "name": "Lazariah Sharee Taylor",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793834867,
+   "photo": null
+  },
+  {
+   "key": "DOU_HARE_CARTER_2026-10-29",
+   "name": "Carter J Hare",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793834239,
+   "photo": "photos/DOU_HARE_CARTER_2026-10-29.jpg"
+  },
+  {
+   "key": "DOU_PALMER_SETH_2026-11-04",
+   "name": "Seth A Palmer",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793834237,
+   "photo": "photos/DOU_PALMER_SETH_2026-11-04.jpg"
+  },
+  {
+   "key": "MKE_STOKES_ROBBIEL_648132",
+   "name": "Robbiel Lorenzo Stokes",
+   "age": "15",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 1,
+   "ts": 1793833060,
+   "photo": "photos/MKE_STOKES_ROBBIEL_648132.jpg"
+  },
+  {
+   "key": "MKE_ROBERTSON_TARREL_375553",
+   "name": "Tarrel T Robertson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793833057,
+   "photo": null
+  },
   {
    "key": "RC_EPPS_ANDRE_120011075946434",
    "name": "Andre Lapriese Epps",
@@ -999,10 +1054,10 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery by Prisoners",
+   "charge": "Victim, Witness, or Co-Actor Contact - Felony",
    "more": 1,
    "ts": 1793818657,
-   "photo": null
+   "photo": "photos/MKE_BAEMMERT_JAMES_621287.jpg"
   },
   {
    "key": "KEN_TOWNSEND_WALLACE_2026-00006088",
@@ -1057,7 +1112,7 @@
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 12,
    "ts": 1793816869,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_ELI_513073.jpg"
   },
   {
    "key": "MKE_COSMESANTIAGO_ANGEL_648128",
@@ -1299,7 +1354,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793807870,
-   "photo": null
+   "photo": "photos/MKE_GARNER_SHIKELA_646900.jpg"
   },
   {
    "key": "MKE_BROWN_JAMAR_648125",
@@ -5139,61 +5194,6 @@
    "more": 1,
    "ts": 1793576880,
    "photo": "photos/RC_CHRISTENSEN_MILTON_120011075817627.jpg"
-  },
-  {
-   "key": "MKE_BROWN_LAMONT_631938",
-   "name": "Lamont Leon Brown",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793575661,
-   "photo": "photos/MKE_BROWN_LAMONT_631938.jpg"
-  },
-  {
-   "key": "MKE_WARREN_WILLIE_297099",
-   "name": "Willie Oliver Warren",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793573859,
-   "photo": "photos/MKE_WARREN_WILLIE_297099.jpg"
-  },
-  {
-   "key": "MKE_ULLAH_RAY_632536",
-   "name": "Ray Ullah",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793573857,
-   "photo": "photos/MKE_ULLAH_RAY_632536.jpg"
-  },
-  {
-   "key": "MKE_ROCKWELL_TODD_623387",
-   "name": "Todd Keith Rockwell",
-   "age": "64",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793573855,
-   "photo": "photos/MKE_ROCKWELL_TODD_623387.jpg"
-  },
-  {
-   "key": "KEN_GARCIAEVERETT_AIDEN_2026-00006044",
-   "name": "Aiden Scott Garcia-Everett",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Hit And Run",
-   "more": 4,
-   "ts": 1793573811,
-   "photo": "photos/KEN_GARCIAEVERETT_AIDEN_2026-00006044.jpg"
   }
  ]
 }
