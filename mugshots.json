@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-04T17:58:04+00:00",
+ "updated": "2026-11-04T18:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_TAPIA_ADAM_625060",
+   "name": "Adam Alexander Tapia",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793816875,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHIELDS_CHARLES_252516",
+   "name": "Charles Vincent Shields",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1793816873,
+   "photo": null
+  },
+  {
+   "key": "MKE_PERKINS_LATASHA_297784",
+   "name": "Latasha Monique Perkins",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793816871,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_ELI_513073",
+   "name": "Eli Jackson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 10,
+   "ts": 1793816869,
+   "photo": null
+  },
+  {
+   "key": "MKE_COSMESANTIAGO_ANGEL_648128",
+   "name": "Angel Gabriel Cosme Santiago",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793816867,
+   "photo": null
+  },
+  {
+   "key": "DOU_GARDNER_DESHAWN_2026-11-04",
+   "name": "Deshawn L Gardner",
+   "age": "27",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793816226,
+   "photo": null
+  },
   {
    "key": "MAR_RANGEL_MARTIN_2026-11-03_17057201",
    "name": "Martin Ortega Rangel",
@@ -73,7 +139,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Posses W/Intent-Fentanyl (>50G)",
    "more": 0,
    "ts": 1793813268,
    "photo": null
@@ -120,7 +186,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793811461,
-   "photo": null
+   "photo": "photos/MKE_MEAD_JEFFREY_648126.jpg"
   },
   {
    "key": "MKE_BERRY_DARIUS_501067",
@@ -189,50 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_LAWRENCE_DESHAWN_504199",
-   "name": "Deshawn Monte Lawrence",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 18,
-   "ts": 1793807873,
-   "photo": null
-  },
-  {
-   "key": "MKE_GONZALEZ_IZAK_648124",
-   "name": "Izak Anthony Gonzalez",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793807872,
-   "photo": null
-  },
-  {
-   "key": "MKE_GARNER_SHIKELA_646900",
-   "name": "Shikela Garner",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793807870,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROWN_JAMAR_648125",
-   "name": "Jamar Brown",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793807867,
-   "photo": null
-  },
-  {
    "key": "MAR_ALSOWITI_RHEA_2026-11-04",
    "name": "Rhea Alsowiti",
    "age": "48",
@@ -242,17 +264,6 @@
    "more": 1,
    "ts": 1793807783,
    "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04.jpg"
-  },
-  {
-   "key": "RC_JACKSON_TYMARYA_120011075921060",
-   "name": "Tymarya L Jackson",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793807275,
-   "photo": "photos/RC_JACKSON_TYMARYA_120011075921060.jpg"
   },
   {
    "key": "DOU_BARNES_DEANDRE_2026-11-04",
@@ -475,17 +486,6 @@
    "photo": "photos/MAR_CLARK_CORTNEY_2026-11-03_2451104.jpg"
   },
   {
-   "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03_1756407",
-   "name": "Nereyda Jazmin Villaseca Obil",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793757483,
-   "photo": "photos/MAR_VILLASECAOBIL_NEREYDA_2026-11-03_1756407.jpg"
-  },
-  {
    "key": "KING_ANTWAN_2026-11-03",
    "name": "Antwan L King",
    "age": "50",
@@ -531,6 +531,72 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_TAPIA_ADAM_625060",
+   "name": "Adam Alexander Tapia",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793816875,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHIELDS_CHARLES_252516",
+   "name": "Charles Vincent Shields",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1793816873,
+   "photo": null
+  },
+  {
+   "key": "MKE_PERKINS_LATASHA_297784",
+   "name": "Latasha Monique Perkins",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793816871,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_ELI_513073",
+   "name": "Eli Jackson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 10,
+   "ts": 1793816869,
+   "photo": null
+  },
+  {
+   "key": "MKE_COSMESANTIAGO_ANGEL_648128",
+   "name": "Angel Gabriel Cosme Santiago",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793816867,
+   "photo": null
+  },
+  {
+   "key": "DOU_GARDNER_DESHAWN_2026-11-04",
+   "name": "Deshawn L Gardner",
+   "age": "27",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793816226,
+   "photo": null
+  },
   {
    "key": "MAR_RANGEL_MARTIN_2026-11-03_17057201",
    "name": "Martin Ortega Rangel",
@@ -603,7 +669,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Posses W/Intent-Fentanyl (>50G)",
    "more": 0,
    "ts": 1793813268,
    "photo": null
@@ -650,7 +716,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793811461,
-   "photo": null
+   "photo": "photos/MKE_MEAD_JEFFREY_648126.jpg"
   },
   {
    "key": "MKE_BERRY_DARIUS_501067",
@@ -760,7 +826,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793807867,
-   "photo": null
+   "photo": "photos/MKE_BROWN_JAMAR_648125.jpg"
   },
   {
    "key": "MAR_ALSOWITI_RHEA_2026-11-04",
@@ -4908,61 +4974,6 @@
    "more": 1,
    "ts": 1793559477,
    "photo": "photos/MKE_CARTER_QUENTIN_346995.jpg"
-  },
-  {
-   "key": "RC_WARREN_JASMINE_120011075810441",
-   "name": "Jasmine Marie Warren",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793558883,
-   "photo": "photos/RC_WARREN_JASMINE_120011075810441.jpg"
-  },
-  {
-   "key": "RC_OSBOURNE_KEVIN_120011075809574",
-   "name": "Kevin O Osbourne",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793558880,
-   "photo": null
-  },
-  {
-   "key": "RC_MOZEE_IAN_120011075810427",
-   "name": "Ian Thomas Mozee",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793558877,
-   "photo": "photos/RC_MOZEE_IAN_120011075810427.jpg"
-  },
-  {
-   "key": "MKE_LECHUGA_ADILENE_648080",
-   "name": "Adilene W Lechuga",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793557660,
-   "photo": "photos/MKE_LECHUGA_ADILENE_648080.jpg"
-  },
-  {
-   "key": "HAYES_BAILEY_2026-11-01",
-   "name": "Bailey Lynn Hayes",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793557619,
-   "photo": null
   }
  ]
 }
