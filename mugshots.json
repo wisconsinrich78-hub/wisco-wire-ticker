@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T01:34:20+00:00",
+ "updated": "2026-11-04T01:49:48+00:00",
  "items": [
+  {
+   "key": "RC_JAMES_KAMARR_120011075907286",
+   "name": "Kamarr James",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793756981,
+   "photo": null
+  },
+  {
+   "key": "RC_BASCHE_DAVID_120011075907342",
+   "name": "David Basche",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793756976,
+   "photo": null
+  },
   {
    "key": "MKE_COLLINS_ZAKIYA_623899",
    "name": "Zakiya Shante Collins",
@@ -187,28 +209,6 @@
    "more": 0,
    "ts": 1793746668,
    "photo": "photos/MKE_JANNY_JENNIFER_634507.jpg"
-  },
-  {
-   "key": "KEN_GOMEZ_FERNANDO_2026-00006072",
-   "name": "Fernando X Gomez",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1793746394,
-   "photo": "photos/KEN_GOMEZ_FERNANDO_2026-00006072.jpg"
-  },
-  {
-   "key": "RC_VEGA_ANGELO_120011075904489",
-   "name": "Angelo Junior Vega",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793746074,
-   "photo": "photos/RC_VEGA_ANGELO_120011075904489.jpg"
   },
   {
    "key": "MAR_AGUILAR_JOHN_2026-11-03_16618402",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_JAMES_KAMARR_120011075907286",
+   "name": "Kamarr James",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793756981,
+   "photo": null
+  },
+  {
+   "key": "RC_BASCHE_DAVID_120011075907342",
+   "name": "David Basche",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793756976,
+   "photo": null
+  },
   {
    "key": "MKE_COLLINS_ZAKIYA_623899",
    "name": "Zakiya Shante Collins",
@@ -5073,50 +5095,6 @@
    "more": 5,
    "ts": 1793498164,
    "photo": "photos/MAR_DUNLAP_DIONTE_2026-10-31_34023.jpg"
-  },
-  {
-   "key": "RC_ROMNEK_JONATHON_120011075792458",
-   "name": "Jonathon Barry Romnek",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793497689,
-   "photo": "photos/RC_ROMNEK_JONATHON_120011075792458.jpg"
-  },
-  {
-   "key": "RC_LEWANDOSKI_JESSICA_120011075793541",
-   "name": "Jessica L Lewandoski",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793497682,
-   "photo": null
-  },
-  {
-   "key": "RC_DAVIS_GLORIA_120011075792891",
-   "name": "Gloria J Davis",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793497679,
-   "photo": "photos/RC_DAVIS_GLORIA_120011075792891.jpg"
-  },
-  {
-   "key": "RC_BROWN_JADA_120011075792669",
-   "name": "Jada Monique Brown",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793497676,
-   "photo": "photos/RC_BROWN_JADA_120011075792669.jpg"
   }
  ]
 }
