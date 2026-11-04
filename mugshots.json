@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-04T16:49:33+00:00",
+ "updated": "2026-11-04T16:58:15+00:00",
  "items": [
+  {
+   "key": "MKE_MEAD_JEFFREY_648126",
+   "name": "Jeffrey Mead",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793811461,
+   "photo": null
+  },
+  {
+   "key": "MKE_BERRY_DARIUS_501067",
+   "name": "Darius Dywone Berry",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793811459,
+   "photo": null
+  },
+  {
+   "key": "MAR_POLZIN_DOUGLAS_2026-11-04",
+   "name": "Douglas William Polzin",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793811354,
+   "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04.jpg"
+  },
+  {
+   "key": "KEN_FAMOUS_KENNETH_2026-00006083",
+   "name": "Kenneth Bruce Famous",
+   "age": "66",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793811270,
+   "photo": "photos/KEN_FAMOUS_KENNETH_2026-00006083.jpg"
+  },
   {
    "key": "RC_GOVEA_JORGE_120011075934375",
    "name": "Jorge Govea",
@@ -187,39 +231,6 @@
    "more": 1,
    "ts": 1793800731,
    "photo": "photos/MKE_FOWLER_LORENZO_410428.jpg"
-  },
-  {
-   "key": "MKE_DODD_KAMIA_648122",
-   "name": "Kamia N Dodd",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793800728,
-   "photo": null
-  },
-  {
-   "key": "MKE_CANNON_JOSHUA_623866",
-   "name": "Joshua Lamar Cannon",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Incident",
-   "more": 2,
-   "ts": 1793800725,
-   "photo": "photos/MKE_CANNON_JOSHUA_623866.jpg"
-  },
-  {
-   "key": "KEN_MCMILLIAN_ZIYAH_2026-00006080",
-   "name": "Ziyah Zanusha Mcmillian",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793800710,
-   "photo": "photos/KEN_MCMILLIAN_ZIYAH_2026-00006080.jpg"
   },
   {
    "key": "MAR_BENDER_CEDRICK_2026-11-04",
@@ -453,17 +464,6 @@
    "photo": "photos/MAR_CLARK_CORTNEY_2026-11-03.jpg"
   },
   {
-   "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03",
-   "name": "Nereyda Jazmin Villaseca Obil",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793746890,
-   "photo": "photos/MAR_VILLASECAOBIL_NEREYDA_2026-11-03.jpg"
-  },
-  {
    "key": "KING_ANTWAN_2026-11-03",
    "name": "Antwan L King",
    "age": "50",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MEAD_JEFFREY_648126",
+   "name": "Jeffrey Mead",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793811461,
+   "photo": null
+  },
+  {
+   "key": "MKE_BERRY_DARIUS_501067",
+   "name": "Darius Dywone Berry",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793811459,
+   "photo": null
+  },
+  {
+   "key": "MAR_POLZIN_DOUGLAS_2026-11-04",
+   "name": "Douglas William Polzin",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793811354,
+   "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04.jpg"
+  },
+  {
+   "key": "KEN_FAMOUS_KENNETH_2026-00006083",
+   "name": "Kenneth Bruce Famous",
+   "age": "66",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793811270,
+   "photo": "photos/KEN_FAMOUS_KENNETH_2026-00006083.jpg"
+  },
   {
    "key": "RC_GOVEA_JORGE_120011075934375",
    "name": "Jorge Govea",
