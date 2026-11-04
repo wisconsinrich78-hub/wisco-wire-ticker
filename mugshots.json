@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T16:28:04+00:00",
+ "updated": "2026-11-04T16:49:33+00:00",
  "items": [
+  {
+   "key": "RC_GOVEA_JORGE_120011075934375",
+   "name": "Jorge Govea",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793810870,
+   "photo": "photos/RC_GOVEA_JORGE_120011075934375.jpg"
+  },
+  {
+   "key": "RC_BROADWAY_AWMORREUNCE_120011075924665",
+   "name": "Awmorreunce S Broadway",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793810866,
+   "photo": "photos/RC_BROADWAY_AWMORREUNCE_120011075924665.jpg"
+  },
+  {
+   "key": "DOU_URMAN_QUINTIN_2026-11-04",
+   "name": "Quintin A Urman",
+   "age": "21",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793809747,
+   "photo": null
+  },
   {
    "key": "MKE_LAWRENCE_DESHAWN_504199",
    "name": "Deshawn Monte Lawrence",
@@ -8,7 +41,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Possess w/ Intent-THC(>200-1000g)",
-   "more": 2,
+   "more": 18,
    "ts": 1793807873,
    "photo": null
   },
@@ -40,8 +73,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793807867,
    "photo": null
   },
@@ -76,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793806073,
-   "photo": null
+   "photo": "photos/MKE_LANE_JAMAR_296092.jpg"
   },
   {
    "key": "DOU_BARNES_DEANDRE_2026-11-04",
@@ -187,28 +220,6 @@
    "more": 0,
    "ts": 1793800710,
    "photo": "photos/KEN_MCMILLIAN_ZIYAH_2026-00006080.jpg"
-  },
-  {
-   "key": "KEN_ALBRITTON_DALON_2026-00006079",
-   "name": "Dalon Tashon Albritton",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793800588,
-   "photo": "photos/KEN_ALBRITTON_DALON_2026-00006079.jpg"
-  },
-  {
-   "key": "MKE_KORTH_GJUAN_626061",
-   "name": "Gjuan D Korth",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1793797049,
-   "photo": "photos/MKE_KORTH_GJUAN_626061.jpg"
   },
   {
    "key": "MAR_BENDER_CEDRICK_2026-11-04",
@@ -453,17 +464,6 @@
    "photo": "photos/MAR_VILLASECAOBIL_NEREYDA_2026-11-03.jpg"
   },
   {
-   "key": "MAR_KOHN_STACIE_2026-11-03",
-   "name": "Stacie Jean Kohn",
-   "age": "23",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793746858,
-   "photo": "photos/MAR_KOHN_STACIE_2026-11-03.jpg"
-  },
-  {
    "key": "KING_ANTWAN_2026-11-03",
    "name": "Antwan L King",
    "age": "50",
@@ -532,13 +532,46 @@
  ],
  "all_items": [
   {
+   "key": "RC_GOVEA_JORGE_120011075934375",
+   "name": "Jorge Govea",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793810870,
+   "photo": "photos/RC_GOVEA_JORGE_120011075934375.jpg"
+  },
+  {
+   "key": "RC_BROADWAY_AWMORREUNCE_120011075924665",
+   "name": "Awmorreunce S Broadway",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793810866,
+   "photo": "photos/RC_BROADWAY_AWMORREUNCE_120011075924665.jpg"
+  },
+  {
+   "key": "DOU_URMAN_QUINTIN_2026-11-04",
+   "name": "Quintin A Urman",
+   "age": "21",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793809747,
+   "photo": null
+  },
+  {
    "key": "MKE_LAWRENCE_DESHAWN_504199",
    "name": "Deshawn Monte Lawrence",
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Possess w/ Intent-THC(>200-1000g)",
-   "more": 2,
+   "more": 18,
    "ts": 1793807873,
    "photo": null
   },
@@ -570,8 +603,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793807867,
    "photo": null
   },
@@ -606,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793806073,
-   "photo": null
+   "photo": "photos/MKE_LANE_JAMAR_296092.jpg"
   },
   {
    "key": "DOU_BARNES_DEANDRE_2026-11-04",
@@ -837,7 +870,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793789903,
-   "photo": null
+   "photo": "photos/MKE_MASHAKO_ABDULLAHI_541308.jpg"
   },
   {
    "key": "MKE_DUCK_JOSEPH_621332",
@@ -4798,17 +4831,6 @@
    "more": 1,
    "ts": 1793554055,
    "photo": "photos/MKE_GEROWJIMENEZ_SHYLA_625748.jpg"
-  },
-  {
-   "key": "SCHMALENBERG_MELISSA_2026-11-01",
-   "name": "Melissa M Schmalenberg",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793551626,
-   "photo": null
   }
  ]
 }
