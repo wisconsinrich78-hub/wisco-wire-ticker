@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T03:49:26+00:00",
+ "updated": "2026-11-04T04:28:17+00:00",
  "items": [
+  {
+   "key": "MKE_PRYOR_AIDEN_648117",
+   "name": "Aiden Savant Pryor",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793764658,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_HOWARD_274846",
+   "name": "Howard Lamon Harris",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793764656,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEANS_KEITA_279178",
+   "name": "Keita Joe Deans",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793764654,
+   "photo": null
+  },
   {
    "key": "MKE_WICKLIFFE_BRYAN_639670",
    "name": "Bryan Deaire Wickliffe",
@@ -10,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793762856,
-   "photo": null
+   "photo": "photos/MKE_WICKLIFFE_BRYAN_639670.jpg"
   },
   {
    "key": "MKE_COOPER_CLARENCE_630699",
@@ -87,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793757535,
-   "photo": null
+   "photo": "photos/MKE_KLOSOWSKI_MARK_648116.jpg"
   },
   {
    "key": "MAR_CLARK_CORTNEY_2026-11-03_2451104",
@@ -208,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793752064,
-   "photo": null
+   "photo": "photos/MKE_OLIVOCRESPO_ALBEL_648114.jpg"
   },
   {
    "key": "MKE_MILLER_OCTAVIAN_513794",
@@ -219,18 +252,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793752062,
-   "photo": null
-  },
-  {
-   "key": "MKE_CALDWELL_MORREAL_216545",
-   "name": "Morreal Caldwell",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 2,
-   "ts": 1793752059,
-   "photo": "photos/MKE_CALDWELL_MORREAL_216545.jpg"
+   "photo": "photos/MKE_MILLER_OCTAVIAN_513794.jpg"
   },
   {
    "key": "MAR_CLARK_CORTNEY_2026-11-03",
@@ -242,28 +264,6 @@
    "more": 1,
    "ts": 1793750149,
    "photo": "photos/MAR_CLARK_CORTNEY_2026-11-03.jpg"
-  },
-  {
-   "key": "KEN_WALSH_CAROLINE_2026-00006073",
-   "name": "Caroline Anne Walsh",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793750084,
-   "photo": "photos/KEN_WALSH_CAROLINE_2026-00006073.jpg"
-  },
-  {
-   "key": "MKE_MLSNA_STIVEN_642828",
-   "name": "Stiven Mlsna",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793748467,
-   "photo": "photos/MKE_MLSNA_STIVEN_642828.jpg"
   },
   {
    "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_PRYOR_AIDEN_648117",
+   "name": "Aiden Savant Pryor",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793764658,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_HOWARD_274846",
+   "name": "Howard Lamon Harris",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793764656,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEANS_KEITA_279178",
+   "name": "Keita Joe Deans",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793764654,
+   "photo": null
+  },
+  {
    "key": "MKE_WICKLIFFE_BRYAN_639670",
    "name": "Bryan Deaire Wickliffe",
    "age": "18",
@@ -540,7 +573,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793762856,
-   "photo": null
+   "photo": "photos/MKE_WICKLIFFE_BRYAN_639670.jpg"
   },
   {
    "key": "MKE_COOPER_CLARENCE_630699",
@@ -617,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793757535,
-   "photo": null
+   "photo": "photos/MKE_KLOSOWSKI_MARK_648116.jpg"
   },
   {
    "key": "MAR_CLARK_CORTNEY_2026-11-03_2451104",
@@ -738,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793752064,
-   "photo": null
+   "photo": "photos/MKE_OLIVOCRESPO_ALBEL_648114.jpg"
   },
   {
    "key": "MKE_MILLER_OCTAVIAN_513794",
@@ -749,7 +782,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793752062,
-   "photo": null
+   "photo": "photos/MKE_MILLER_OCTAVIAN_513794.jpg"
   },
   {
    "key": "MKE_CALDWELL_MORREAL_216545",
@@ -815,7 +848,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793748463,
-   "photo": null
+   "photo": "photos/MKE_BLOODSON_LANA_398632.jpg"
   },
   {
    "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03",
@@ -5062,61 +5095,6 @@
    "more": 0,
    "ts": 1793508997,
    "photo": "photos/KEN_FORTNER_STEVEN_2026-00006031.jpg"
-  },
-  {
-   "key": "MKE_HOPSON_CHAKA_618837",
-   "name": "Chaka Bootsy Hopson",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793507257,
-   "photo": "photos/MKE_HOPSON_CHAKA_618837.jpg"
-  },
-  {
-   "key": "DOU_SANDERS_RONALD_2026-10-31",
-   "name": "Ronald D Sanders",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793506645,
-   "photo": null
-  },
-  {
-   "key": "FDL_LYNN_CAMARIEA_2026-10-31",
-   "name": "Camariea S Lynn",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Resisting Or Obstructing Officer",
-   "more": 0,
-   "ts": 1793506598,
-   "photo": "photos/FDL_LYNN_CAMARIEA_2026-10-31.jpg"
-  },
-  {
-   "key": "KEN_DOHMEN_THOMAS_2026-00006030",
-   "name": "THOMAS ALBIN Junior DOHMEN",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793505506,
-   "photo": "photos/KEN_DOHMEN_THOMAS_2026-00006030.jpg"
-  },
-  {
-   "key": "MKE_BARKSDALE_DEWITT_208322",
-   "name": "Dewitt Terrell Barksdale",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793505457,
-   "photo": "photos/MKE_BARKSDALE_DEWITT_208322.jpg"
   }
  ]
 }
