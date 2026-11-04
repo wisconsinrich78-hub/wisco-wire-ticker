@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T20:50:47+00:00",
+ "updated": "2026-11-04T20:58:05+00:00",
  "items": [
+  {
+   "key": "KEN_SCOTT_DIONIA_2026-00006093",
+   "name": "DIONIA O Junior SCOTT",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793825786,
+   "photo": "photos/KEN_SCOTT_DIONIA_2026-00006093.jpg"
+  },
+  {
+   "key": "KEN_ARIZOLA_LARESA_2026-00006092",
+   "name": "Laresa Ann Arizola",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793825666,
+   "photo": null
+  },
   {
    "key": "RC_JORGENSEN_ERIN_120011075941859",
    "name": "Erin Lee Jorgensen",
@@ -84,7 +106,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793822250,
    "photo": "photos/KEN_EVANS_CHANZE_2026-00006091.jpg"
@@ -219,28 +241,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 2,
    "ts": 1793816873,
-   "photo": null
-  },
-  {
-   "key": "MKE_PERKINS_LATASHA_297784",
-   "name": "Latasha Monique Perkins",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793816871,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_ELI_513073",
-   "name": "Eli Jackson",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 12,
-   "ts": 1793816869,
    "photo": null
   },
   {
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "KEN_SCOTT_DIONIA_2026-00006093",
+   "name": "DIONIA O Junior SCOTT",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793825786,
+   "photo": "photos/KEN_SCOTT_DIONIA_2026-00006093.jpg"
+  },
+  {
+   "key": "KEN_ARIZOLA_LARESA_2026-00006092",
+   "name": "Laresa Ann Arizola",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793825666,
+   "photo": null
+  },
+  {
    "key": "RC_JORGENSEN_ERIN_120011075941859",
    "name": "Erin Lee Jorgensen",
    "age": "23",
@@ -614,7 +636,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793822250,
    "photo": "photos/KEN_EVANS_CHANZE_2026-00006091.jpg"
@@ -5018,17 +5040,6 @@
    "more": 0,
    "ts": 1793567809,
    "photo": "photos/FDL_RAMAGE_DANIEL_2026-11-01.jpg"
-  },
-  {
-   "key": "MAR_WILLIAMS_CHANTELL_2026-10-31_17033901",
-   "name": "Chantell Ladon Williams",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Aggravated Battery Or Threat To Judge, Prosecutor, Or Leo",
-   "more": 1,
-   "ts": 1793566545,
-   "photo": "photos/MAR_WILLIAMS_CHANTELL_2026-10-31_17033901.jpg"
   }
  ]
 }
