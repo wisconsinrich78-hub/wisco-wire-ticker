@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T06:49:31+00:00",
+ "updated": "2026-11-04T07:27:47+00:00",
  "items": [
+  {
+   "key": "FDL_WEELDREYER_EMILY_2026-11-04",
+   "name": "Emily Eileen Weeldreyer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 0,
+   "ts": 1793776619,
+   "photo": null
+  },
+  {
+   "key": "FDL_JACKSON_RYAN_2026-11-04",
+   "name": "Ryan Jerold Jackson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793776585,
+   "photo": "photos/FDL_JACKSON_RYAN_2026-11-04.jpg"
+  },
   {
    "key": "MCNELL_JOVAN_2026-11-04",
    "name": "Jovan D Mcnell",
@@ -29,8 +51,8 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Hit And Run Involve Injury (Elder Person Victim)",
+   "more": 2,
    "ts": 1793771647,
    "photo": "photos/KEN_BELOTTI_JUSTIN_2026-00006076.jpg"
   },
@@ -153,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793768277,
-   "photo": null
+   "photo": "photos/MKE_RUCKSMAJOR_DEMETRIANA_648118.jpg"
   },
   {
    "key": "MAR_RANGEL_MARTIN_2026-11-03",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1793712424,
    "photo": null
-  },
-  {
-   "key": "HAASE_BRIAN_2026-11-03",
-   "name": "Brian R Haase",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793701619,
-   "photo": null
-  },
-  {
-   "key": "HOU_SHELTON_RAHSANAHKEEM_6324",
-   "name": "Rahsan Ahkeem Shelton",
-   "age": "35",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Traffic - DWI - Third-Degree Driving While Im (1-Court Pending)",
-   "more": 0,
-   "ts": 1793699232,
-   "photo": "photos/HOU_SHELTON_RAHSANAHKEEM_6324.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_WEELDREYER_EMILY_2026-11-04",
+   "name": "Emily Eileen Weeldreyer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 0,
+   "ts": 1793776619,
+   "photo": null
+  },
+  {
+   "key": "FDL_JACKSON_RYAN_2026-11-04",
+   "name": "Ryan Jerold Jackson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793776585,
+   "photo": "photos/FDL_JACKSON_RYAN_2026-11-04.jpg"
+  },
   {
    "key": "MCNELL_JOVAN_2026-11-04",
    "name": "Jovan D Mcnell",
@@ -559,8 +581,8 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Hit And Run Involve Injury (Elder Person Victim)",
+   "more": 2,
    "ts": 1793771647,
    "photo": "photos/KEN_BELOTTI_JUSTIN_2026-00006076.jpg"
   },
@@ -683,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793768277,
-   "photo": null
+   "photo": "photos/MKE_RUCKSMAJOR_DEMETRIANA_648118.jpg"
   },
   {
    "key": "MAR_RANGEL_MARTIN_2026-11-03",
@@ -5106,50 +5128,6 @@
    "more": 1,
    "ts": 1793520962,
    "photo": "photos/FDL_BALL_AMON_2026-11-01.jpg"
-  },
-  {
-   "key": "FDL_FANNAN_VERONICA_2026-11-01",
-   "name": "Veronica Beth Fannan",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793517374,
-   "photo": "photos/FDL_FANNAN_VERONICA_2026-11-01.jpg"
-  },
-  {
-   "key": "MKE_LEGGINS_TANIA_648067",
-   "name": "Tania Naiyeh Leggins",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793516251,
-   "photo": "photos/MKE_LEGGINS_TANIA_648067.jpg"
-  },
-  {
-   "key": "MKE_ANTUNEZMATUTE_CHRISTIAN_648066",
-   "name": "Christian Y Antunez Matute",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793516250,
-   "photo": "photos/MKE_ANTUNEZMATUTE_CHRISTIAN_648066.jpg"
-  },
-  {
-   "key": "KEN_ATILANO_JUAN_2026-00006032",
-   "name": "Juan Alberto Atilano",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 1,
-   "ts": 1793516183,
-   "photo": "photos/KEN_ATILANO_JUAN_2026-00006032.jpg"
   }
  ]
 }
