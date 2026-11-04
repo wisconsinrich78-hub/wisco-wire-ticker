@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T00:49:28+00:00",
+ "updated": "2026-11-04T00:57:36+00:00",
  "items": [
+  {
+   "key": "KEN_PACZYNSKI_AMANDA_2026-00006074",
+   "name": "Amanda Rose Paczynski",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793753780,
+   "photo": "photos/KEN_PACZYNSKI_AMANDA_2026-00006074.jpg"
+  },
   {
    "key": "MKE_OLIVOCRESPO_ALBEL_648114",
    "name": "Albel Yadiel Olivo Crespo",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1793742956,
    "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03_4613817.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_KEYONTA_120011075901001",
-   "name": "Keyonta T Williams",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793742490,
-   "photo": "photos/RC_WILLIAMS_KEYONTA_120011075901001.jpg"
   },
   {
    "key": "KING_ANTWAN_2026-11-03",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_PACZYNSKI_AMANDA_2026-00006074",
+   "name": "Amanda Rose Paczynski",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793753780,
+   "photo": "photos/KEN_PACZYNSKI_AMANDA_2026-00006074.jpg"
+  },
   {
    "key": "MKE_OLIVOCRESPO_ALBEL_648114",
    "name": "Albel Yadiel Olivo Crespo",
@@ -5128,17 +5139,6 @@
    "more": 0,
    "ts": 1793494731,
    "photo": "photos/KEN_NIGHTINGALE_WILLIAM_2026-00006021.jpg"
-  },
-  {
-   "key": "KEN_DANIEL_DERRICK_2026-00006022",
-   "name": "DERRICK DAREL Senior DANIEL",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793494617,
-   "photo": "photos/KEN_DANIEL_DERRICK_2026-00006022.jpg"
   }
  ]
 }
