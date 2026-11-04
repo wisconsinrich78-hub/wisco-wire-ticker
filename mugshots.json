@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T14:56:42+00:00",
+ "updated": "2026-11-04T15:27:52+00:00",
  "items": [
+  {
+   "key": "DOU_BARNES_DEANDRE_2026-11-04",
+   "name": "Deandre L Barnes",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793805806,
+   "photo": null
+  },
   {
    "key": "KEN_JOHNSON_THOMAS_2026-00006082",
    "name": "Thomas William Johnson",
@@ -453,17 +464,6 @@
    "photo": "photos/MAR_AGUILAR_JOHN_2026-11-03_16618402.jpg"
   },
   {
-   "key": "MAR_CAROLFI_SCOTT_2026-11-03_4789808",
-   "name": "Scott Duane Carolfi",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1793742993,
-   "photo": "photos/MAR_CAROLFI_SCOTT_2026-11-03_4789808.jpg"
-  },
-  {
    "key": "KING_ANTWAN_2026-11-03",
    "name": "Antwan L King",
    "age": "50",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_BARNES_DEANDRE_2026-11-04",
+   "name": "Deandre L Barnes",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793805806,
+   "photo": null
+  },
   {
    "key": "KEN_JOHNSON_THOMAS_2026-00006082",
    "name": "Thomas William Johnson",
@@ -4776,94 +4787,6 @@
    "more": 5,
    "ts": 1793548457,
    "photo": "photos/KEN_GASTON_KEAIRA_2026-00006041.jpg"
-  },
-  {
-   "key": "MKE_LYNKLENONS_AMARI_648078",
-   "name": "Amari V Lynk-Lenons",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793546854,
-   "photo": "photos/MKE_LYNKLENONS_AMARI_648078.jpg"
-  },
-  {
-   "key": "MKE_JONES_LAQUIECA_407009",
-   "name": "Laquieca S Jones",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 0,
-   "ts": 1793546852,
-   "photo": "photos/MKE_JONES_LAQUIECA_407009.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZWILSON_JORGE_534241",
-   "name": "Jorge Luis Gonzalez-Wilson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793546851,
-   "photo": "photos/MKE_GONZALEZWILSON_JORGE_534241.jpg"
-  },
-  {
-   "key": "KEN_PERRONI_JOSEPH_2026-00006040",
-   "name": "Joseph John Perroni",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793545112,
-   "photo": "photos/KEN_PERRONI_JOSEPH_2026-00006040.jpg"
-  },
-  {
-   "key": "MAR_SOSA_SAUL_2026-11-01",
-   "name": "Saul Sosa",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793545083,
-   "photo": null
-  },
-  {
-   "key": "MAR_BUGGS_ALLAH_2026-11-01",
-   "name": "Allah K Buggs",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1793545040,
-   "photo": null
-  },
-  {
-   "key": "KEN_LEE_TANILA_2026-00006039",
-   "name": "Tanila Heavyn Lee",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (2Nd)",
-   "more": 0,
-   "ts": 1793545031,
-   "photo": "photos/KEN_LEE_TANILA_2026-00006039.jpg"
-  },
-  {
-   "key": "MAR_TOLPPI_SYDNEY_2026-11-01_1740901",
-   "name": "Sydney Renee Tolppi",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1793545004,
-   "photo": "photos/MAR_TOLPPI_SYDNEY_2026-11-01_1740901.jpg"
   }
  ]
 }
