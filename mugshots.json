@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T14:35:28+00:00",
+ "updated": "2026-11-04T14:56:42+00:00",
  "items": [
+  {
+   "key": "KEN_JOHNSON_THOMAS_2026-00006082",
+   "name": "Thomas William Johnson",
+   "age": "51",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Child Pornography",
+   "more": 0,
+   "ts": 1793804168,
+   "photo": null
+  },
   {
    "key": "MKE_MITCHELL_NELSON_648123",
    "name": "Nelson Mitchell",
@@ -187,17 +198,6 @@
    "more": 2,
    "ts": 1793791681,
    "photo": null
-  },
-  {
-   "key": "MKE_SANCHEZ_SANTOS_648120",
-   "name": "Santos Sanchez",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793789908,
-   "photo": "photos/MKE_SANCHEZ_SANTOS_648120.jpg"
   },
   {
    "key": "FDL_PEACHY_STEVEN_2026-11-04",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_JOHNSON_THOMAS_2026-00006082",
+   "name": "Thomas William Johnson",
+   "age": "51",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Child Pornography",
+   "more": 0,
+   "ts": 1793804168,
+   "photo": null
+  },
   {
    "key": "MKE_MITCHELL_NELSON_648123",
    "name": "Nelson Mitchell",
