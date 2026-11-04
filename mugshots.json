@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T17:49:26+00:00",
+ "updated": "2026-11-04T17:58:04+00:00",
  "items": [
+  {
+   "key": "MAR_RANGEL_MARTIN_2026-11-03_17057201",
+   "name": "Martin Ortega Rangel",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Extradition",
+   "more": 3,
+   "ts": 1793814956,
+   "photo": "photos/MAR_RANGEL_MARTIN_2026-11-03_17057201.jpg"
+  },
+  {
+   "key": "KEN_THOMAS_BRANDON_2026-00006084",
+   "name": "Brandon Avery Thomas",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793814948,
+   "photo": "photos/KEN_THOMAS_BRANDON_2026-00006084.jpg"
+  },
   {
    "key": "RC_JACKSON_XAVIER_120011075935573",
    "name": "Xavier D Jackson",
@@ -128,7 +150,7 @@
    "age": "66",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793811270,
    "photo": "photos/KEN_FAMOUS_KENNETH_2026-00006083.jpg"
@@ -231,17 +253,6 @@
    "more": 0,
    "ts": 1793807275,
    "photo": "photos/RC_JACKSON_TYMARYA_120011075921060.jpg"
-  },
-  {
-   "key": "MKE_LANE_JAMAR_296092",
-   "name": "Jamar Deontray Lane",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793806073,
-   "photo": "photos/MKE_LANE_JAMAR_296092.jpg"
   },
   {
    "key": "DOU_BARNES_DEANDRE_2026-11-04",
@@ -475,17 +486,6 @@
    "photo": "photos/MAR_VILLASECAOBIL_NEREYDA_2026-11-03_1756407.jpg"
   },
   {
-   "key": "MAR_SKITTONE_JOSEPH_2026-11-03_930904",
-   "name": "Joseph Paul Skittone",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793757438,
-   "photo": "photos/MAR_SKITTONE_JOSEPH_2026-11-03_930904.jpg"
-  },
-  {
    "key": "KING_ANTWAN_2026-11-03",
    "name": "Antwan L King",
    "age": "50",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_RANGEL_MARTIN_2026-11-03_17057201",
+   "name": "Martin Ortega Rangel",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Extradition",
+   "more": 3,
+   "ts": 1793814956,
+   "photo": "photos/MAR_RANGEL_MARTIN_2026-11-03_17057201.jpg"
+  },
+  {
+   "key": "KEN_THOMAS_BRANDON_2026-00006084",
+   "name": "Brandon Avery Thomas",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793814948,
+   "photo": "photos/KEN_THOMAS_BRANDON_2026-00006084.jpg"
+  },
   {
    "key": "RC_JACKSON_XAVIER_120011075935573",
    "name": "Xavier D Jackson",
@@ -658,7 +680,7 @@
    "age": "66",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793811270,
    "photo": "photos/KEN_FAMOUS_KENNETH_2026-00006083.jpg"
@@ -4940,17 +4962,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793557619,
-   "photo": null
-  },
-  {
-   "key": "MAR_BUGGS_ALLAH_2026-11-01_2662201",
-   "name": "Allah Koran Buggs",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1793555764,
    "photo": null
   }
  ]
