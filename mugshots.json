@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T12:28:48+00:00",
+ "updated": "2026-11-04T12:49:29+00:00",
  "items": [
+  {
+   "key": "RC_DAVID_SEAN_120011075916114",
+   "name": "Sean Michael David",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793796476,
+   "photo": null
+  },
   {
    "key": "MAR_BENDER_CEDRICK_2026-11-04",
    "name": "Cedrick Antwan Bender",
@@ -266,17 +277,6 @@
    "photo": "photos/MKE_JOHNSON_MARKIECE_629413.jpg"
   },
   {
-   "key": "MKE_HOLLINS_STEVE_247040",
-   "name": "Steve Allen Hollins",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793770068,
-   "photo": "photos/MKE_HOLLINS_STEVE_247040.jpg"
-  },
-  {
    "key": "FDL_WEELDREYER_EMILY_2026-11-03",
    "name": "Emily Eileen Weeldreyer",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DAVID_SEAN_120011075916114",
+   "name": "Sean Michael David",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793796476,
+   "photo": null
+  },
   {
    "key": "MAR_BENDER_CEDRICK_2026-11-04",
    "name": "Cedrick Antwan Bender",
@@ -4787,17 +4798,6 @@
    "more": 4,
    "ts": 1793537847,
    "photo": "photos/MKE_CROSSLEY_PARIS_387163.jpg"
-  },
-  {
-   "key": "RC_DIAZHERNANDEZ_ADOLFO_120011075804585",
-   "name": "Adolfo Diaz-Hernandez",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793537269,
-   "photo": null
   }
  ]
 }
