@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:49:32+00:00",
+ "updated": "2026-11-04T03:00:31+00:00",
  "items": [
   {
    "key": "RC_BURNS_MARCUS_120011075908665",
@@ -84,7 +84,7 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Theft-Movable Property <=$2500",
    "more": 0,
    "ts": 1793757338,
    "photo": null
@@ -150,8 +150,8 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Ignition Interlock Device Tampering/Fail To Install/Violate Court Orde",
+   "more": 2,
    "ts": 1793753780,
    "photo": "photos/KEN_PACZYNSKI_AMANDA_2026-00006074.jpg"
   },
@@ -614,7 +614,7 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Theft-Movable Property <=$2500",
    "more": 0,
    "ts": 1793757338,
    "photo": null
@@ -680,8 +680,8 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Ignition Interlock Device Tampering/Fail To Install/Violate Court Orde",
+   "more": 2,
    "ts": 1793753780,
    "photo": "photos/KEN_PACZYNSKI_AMANDA_2026-00006074.jpg"
   },
@@ -5084,50 +5084,6 @@
    "more": 0,
    "ts": 1793504867,
    "photo": "photos/RC_CASTRO_KELLY_120011075795482.jpg"
-  },
-  {
-   "key": "KEN_ZOERNER_NICHOLAS_2026-00006026",
-   "name": "Nicholas M Zoerner",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793501978,
-   "photo": "photos/KEN_ZOERNER_NICHOLAS_2026-00006026.jpg"
-  },
-  {
-   "key": "KEN_GORDON_MICHAEL_2026-00006027",
-   "name": "Michael Javor Gordon",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793501872,
-   "photo": "photos/KEN_GORDON_MICHAEL_2026-00006027.jpg"
-  },
-  {
-   "key": "MKE_WILSON_JAMES_615101",
-   "name": "James Calvin Wilson",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1793501858,
-   "photo": "photos/MKE_WILSON_JAMES_615101.jpg"
-  },
-  {
-   "key": "KEN_BENNING_DUSTIN_2026-00006028",
-   "name": "Dustin Charles Benning",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Child Pornography",
-   "more": 0,
-   "ts": 1793501761,
-   "photo": "photos/KEN_BENNING_DUSTIN_2026-00006028.jpg"
   }
  ]
 }
