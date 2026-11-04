@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T23:49:29+00:00",
+ "updated": "2026-11-04T23:57:53+00:00",
  "items": [
+  {
+   "key": "MAR_LINDQUIST_JUSTIN_2026-11-04",
+   "name": "Justin Michael Lindquist",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Make Terrorist Threats",
+   "more": 0,
+   "ts": 1793836621,
+   "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_BENDER_CEDRICK_2026-11-04_11104",
+   "name": "Cedrick Antwan Bender",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1793836581,
+   "photo": "photos/MAR_BENDER_CEDRICK_2026-11-04_11104.jpg"
+  },
+  {
+   "key": "KEN_NICHOLS_DEUNDRA_2026-00006094",
+   "name": "Deundra Da Mircle Nichols",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793836565,
+   "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
+  },
   {
    "key": "MKE_TAYLOR_LAZARIAH_648133",
    "name": "Lazariah Sharee Taylor",
@@ -321,17 +354,6 @@
    "photo": "photos/MAR_BARTHEL_CRYSTAL_2026-11-04.jpg"
   },
   {
-   "key": "KEN_SCOTT_DIONIA_2026-00006093",
-   "name": "DIONIA O Junior SCOTT",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793825786,
-   "photo": "photos/KEN_SCOTT_DIONIA_2026-00006093.jpg"
-  },
-  {
    "key": "MAR_LAMPKIN_ADAM_2026-11-04",
    "name": "Adam John Lampkin",
    "age": "28",
@@ -376,17 +398,6 @@
    "photo": "photos/DOU_RUTH_TEDDY_2026-10-29.jpg"
   },
   {
-   "key": "DOU_JUDE_BRADLEY_2026-11-04",
-   "name": "Bradley J Jude",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793819827,
-   "photo": null
-  },
-  {
    "key": "FDL_THOMAS_DEVIN_2026-11-04",
    "name": "Devin Devon Thomas",
    "age": "",
@@ -396,17 +407,6 @@
    "more": 0,
    "ts": 1793819817,
    "photo": "photos/FDL_THOMAS_DEVIN_2026-11-04.jpg"
-  },
-  {
-   "key": "DOU_GARDNER_DESHAWN_2026-11-04",
-   "name": "Deshawn L Gardner",
-   "age": "27",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793816226,
-   "photo": null
   },
   {
    "key": "HOU_HILL_JACOBEDWARD_6326",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_LINDQUIST_JUSTIN_2026-11-04",
+   "name": "Justin Michael Lindquist",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Make Terrorist Threats",
+   "more": 0,
+   "ts": 1793836621,
+   "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_BENDER_CEDRICK_2026-11-04_11104",
+   "name": "Cedrick Antwan Bender",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1793836581,
+   "photo": "photos/MAR_BENDER_CEDRICK_2026-11-04_11104.jpg"
+  },
+  {
+   "key": "KEN_NICHOLS_DEUNDRA_2026-00006094",
+   "name": "Deundra Da Mircle Nichols",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793836565,
+   "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
+  },
   {
    "key": "MKE_TAYLOR_LAZARIAH_648133",
    "name": "Lazariah Sharee Taylor",
@@ -5172,17 +5205,6 @@
    "more": 2,
    "ts": 1793579274,
    "photo": "photos/MKE_DYE_KEANDRE_627313.jpg"
-  },
-  {
-   "key": "KEN_MCKEE_WAYNE_2026-00006045",
-   "name": "Wayne Michael Mckee",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (1St)",
-   "more": 0,
-   "ts": 1793577327,
-   "photo": "photos/KEN_MCKEE_WAYNE_2026-00006045.jpg"
   }
  ]
 }
