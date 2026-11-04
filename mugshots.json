@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T05:28:34+00:00",
+ "updated": "2026-11-04T05:49:27+00:00",
  "items": [
+  {
+   "key": "RC_BLOUNT_EMANI_120011075912130",
+   "name": "Emani A Blount",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793771277,
+   "photo": "photos/RC_BLOUNT_EMANI_120011075912130.jpg"
+  },
+  {
+   "key": "LIVINGSTON_CORIE_2026-11-03",
+   "name": "Corie Leigh Livingston",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1793771227,
+   "photo": null
+  },
+  {
+   "key": "GERRISH_WILLIAM_2026-11-03",
+   "name": "William R Gerrish",
+   "age": "63",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Trespass To Dwelling",
+   "more": 1,
+   "ts": 1793771226,
+   "photo": null
+  },
   {
    "key": "MKE_LISTON_BRIAN_381891",
    "name": "Brian Christopher Liston",
@@ -288,17 +321,6 @@
    "photo": null
   },
   {
-   "key": "RC_JAMES_KAMARR_120011075907286",
-   "name": "Kamarr James",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793756981,
-   "photo": null
-  },
-  {
    "key": "MAR_CLARK_CORTNEY_2026-11-03",
    "name": "Cortney Aijhan Clark",
    "age": "39",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1793698019,
    "photo": null
-  },
-  {
-   "key": "WINJUM_ADRIAN_2026-11-03",
-   "name": "Adrian M Winjum",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793692026,
-   "photo": null
-  },
-  {
-   "key": "CARTER_PRINCE_2026-11-03",
-   "name": "Prince A Carter",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793688426,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BLOUNT_EMANI_120011075912130",
+   "name": "Emani A Blount",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793771277,
+   "photo": "photos/RC_BLOUNT_EMANI_120011075912130.jpg"
+  },
+  {
+   "key": "LIVINGSTON_CORIE_2026-11-03",
+   "name": "Corie Leigh Livingston",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1793771227,
+   "photo": null
+  },
+  {
+   "key": "GERRISH_WILLIAM_2026-11-03",
+   "name": "William R Gerrish",
+   "age": "63",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Trespass To Dwelling",
+   "more": 1,
+   "ts": 1793771226,
+   "photo": null
+  },
   {
    "key": "MKE_LISTON_BRIAN_381891",
    "name": "Brian Christopher Liston",
@@ -5117,28 +5150,6 @@
    "more": 1,
    "ts": 1793512532,
    "photo": null
-  },
-  {
-   "key": "RC_SMITH_JOHNATHAN_120011075797865",
-   "name": "Johnathan Richard Smith",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793512070,
-   "photo": "photos/RC_SMITH_JOHNATHAN_120011075797865.jpg"
-  },
-  {
-   "key": "RC_SCHUMACHER_CLINT_120011075797334",
-   "name": "Clint J Schumacher",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1793512067,
-   "photo": "photos/RC_SCHUMACHER_CLINT_120011075797334.jpg"
   }
  ]
 }
