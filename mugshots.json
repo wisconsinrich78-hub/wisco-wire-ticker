@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T23:49:32+00:00",
+ "updated": "2026-11-04T00:27:58+00:00",
  "items": [
+  {
+   "key": "MKE_OLIVOCRESPO_ALBEL_648114",
+   "name": "Albel Yadiel Olivo Crespo",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793752064,
+   "photo": null
+  },
+  {
+   "key": "MKE_MILLER_OCTAVIAN_513794",
+   "name": "Octavian Jeffrey Miller",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793752062,
+   "photo": null
+  },
+  {
+   "key": "MKE_CALDWELL_MORREAL_216545",
+   "name": "Morreal Caldwell",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 2,
+   "ts": 1793752059,
+   "photo": null
+  },
+  {
+   "key": "MAR_CLARK_CORTNEY_2026-11-03",
+   "name": "Cortney Aijhan Clark",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operate With Restricted Controlled Substance",
+   "more": 1,
+   "ts": 1793750149,
+   "photo": "photos/MAR_CLARK_CORTNEY_2026-11-03.jpg"
+  },
+  {
+   "key": "KEN_WALSH_CAROLINE_2026-00006073",
+   "name": "Caroline Anne Walsh",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793750084,
+   "photo": "photos/KEN_WALSH_CAROLINE_2026-00006073.jpg"
+  },
   {
    "key": "MKE_MLSNA_STIVEN_642828",
    "name": "Stiven Mlsna",
@@ -95,10 +150,10 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
    "ts": 1793746394,
-   "photo": null
+   "photo": "photos/KEN_GOMEZ_FERNANDO_2026-00006072.jpg"
   },
   {
    "key": "RC_VEGA_ANGELO_120011075904489",
@@ -189,17 +244,6 @@
    "photo": "photos/RC_WILLIAMS_KEYONTA_120011075901001.jpg"
   },
   {
-   "key": "RC_FLOWERS_DEDRICK_120011075900923",
-   "name": "Dedrick Lavell Flowers",
-   "age": "49",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793742488,
-   "photo": "photos/RC_FLOWERS_DEDRICK_120011075900923.jpg"
-  },
-  {
    "key": "KING_ANTWAN_2026-11-03",
    "name": "Antwan L King",
    "age": "50",
@@ -208,17 +252,6 @@
    "charge": "Hold For Court",
    "more": 0,
    "ts": 1793742445,
-   "photo": null
-  },
-  {
-   "key": "MKE_NEALMISSOURI_JATERRIUS_644248",
-   "name": "Jaterrius T Neal-Missouri",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Robbery with Use of Force",
-   "more": 1,
-   "ts": 1793741260,
    "photo": null
   },
   {
@@ -231,28 +264,6 @@
    "more": 0,
    "ts": 1793740620,
    "photo": "photos/FDL_WALKER_TODD_2026-11-03.jpg"
-  },
-  {
-   "key": "KEN_SMITH_ERIN_2026-00006070",
-   "name": "Erin Marie Smith",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793739788,
-   "photo": "photos/KEN_SMITH_ERIN_2026-00006070.jpg"
-  },
-  {
-   "key": "KEN_HEMPHILL_GREG_2026-00006069",
-   "name": "Greg Hemphill",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793739683,
-   "photo": "photos/KEN_HEMPHILL_GREG_2026-00006069.jpg"
   },
   {
    "key": "MAR_SEEFELDT_CAMERON_2026-11-03",
@@ -464,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "DOU_GOLDEN_MALCOLM_2026-11-03",
-   "name": "Malcolm J Golden",
-   "age": "28",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793697437,
-   "photo": null
-  },
-  {
    "key": "WINJUM_ADRIAN_2026-11-03",
    "name": "Adrian M Winjum",
    "age": "23",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_OLIVOCRESPO_ALBEL_648114",
+   "name": "Albel Yadiel Olivo Crespo",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793752064,
+   "photo": null
+  },
+  {
+   "key": "MKE_MILLER_OCTAVIAN_513794",
+   "name": "Octavian Jeffrey Miller",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793752062,
+   "photo": null
+  },
+  {
+   "key": "MKE_CALDWELL_MORREAL_216545",
+   "name": "Morreal Caldwell",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 2,
+   "ts": 1793752059,
+   "photo": null
+  },
+  {
+   "key": "MAR_CLARK_CORTNEY_2026-11-03",
+   "name": "Cortney Aijhan Clark",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operate With Restricted Controlled Substance",
+   "more": 1,
+   "ts": 1793750149,
+   "photo": "photos/MAR_CLARK_CORTNEY_2026-11-03.jpg"
+  },
+  {
+   "key": "KEN_WALSH_CAROLINE_2026-00006073",
+   "name": "Caroline Anne Walsh",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793750084,
+   "photo": "photos/KEN_WALSH_CAROLINE_2026-00006073.jpg"
+  },
   {
    "key": "MKE_MLSNA_STIVEN_642828",
    "name": "Stiven Mlsna",
@@ -625,10 +680,10 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
    "ts": 1793746394,
-   "photo": null
+   "photo": "photos/KEN_GOMEZ_FERNANDO_2026-00006072.jpg"
   },
   {
    "key": "RC_VEGA_ANGELO_120011075904489",
@@ -5139,61 +5194,6 @@
    "more": 0,
    "ts": 1793494076,
    "photo": "photos/RC_BUTLER_RICHARD_120011075791600.jpg"
-  },
-  {
-   "key": "KOTEK_SAMUEL_2026-10-31",
-   "name": "Samuel J Kotek",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1793492826,
-   "photo": null
-  },
-  {
-   "key": "MONTGOMERY_TODD_2026-10-31",
-   "name": "Todd J Montgomery",
-   "age": "53",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793492825,
-   "photo": null
-  },
-  {
-   "key": "FDL_HARRIS_WILLIAM_2026-10-31",
-   "name": "William Carmen Harris",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793492187,
-   "photo": "photos/FDL_HARRIS_WILLIAM_2026-10-31.jpg"
-  },
-  {
-   "key": "KEN_WASHA_LEON_2026-00006019",
-   "name": "Leon E Washa",
-   "age": "59",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793491036,
-   "photo": "photos/KEN_WASHA_LEON_2026-00006019.jpg"
-  },
-  {
-   "key": "MAR_PAYETTE_ALLEN_2026-10-31",
-   "name": "Allen Joseph Payette",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 3,
-   "ts": 1793490938,
-   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-31.jpg"
   }
  ]
 }
