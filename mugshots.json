@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-04T20:58:05+00:00",
+ "updated": "2026-11-04T21:29:23+00:00",
  "items": [
+  {
+   "key": "MKE_REED_JAMES_625049",
+   "name": "James St Reed",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793827664,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUGHES_MALIK_648130",
+   "name": "Malik H Hughes",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793827663,
+   "photo": null
+  },
+  {
+   "key": "WILSON_ANTHONY_2026-11-04",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1793827625,
+   "photo": null
+  },
+  {
+   "key": "DOU_PAUL_CHISTOPHER_2026-11-04",
+   "name": "Chistopher G Paul",
+   "age": "53",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793827024,
+   "photo": "photos/DOU_PAUL_CHISTOPHER_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_PAYETTE_ALLEN_2026-10-31_9640509",
+   "name": "Allen Joseph Payette",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 3,
+   "ts": 1793827017,
+   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-31_9640509.jpg"
+  },
+  {
+   "key": "MAR_BOM_SHISHIR_2026-11-04",
+   "name": "Shishir Bom",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793826975,
+   "photo": "photos/MAR_BOM_SHISHIR_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_BOQUIST_BROCK_2026-11-04",
+   "name": "Brock Alan Boquist",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793826936,
+   "photo": "photos/MAR_BOQUIST_BROCK_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_YOUNG_COLLIN_2026-11-04",
+   "name": "Collin Jay Young",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793826894,
+   "photo": "photos/MAR_YOUNG_COLLIN_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_REED_DOUGLASS_2026-11-04",
+   "name": "Douglass Stafford Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793826855,
+   "photo": "photos/MAR_REED_DOUGLASS_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_LO_KA_2026-11-04",
+   "name": "Ka Zoua Lo",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1793826813,
+   "photo": "photos/MAR_LO_KA_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_BARTHEL_CRYSTAL_2026-11-04",
+   "name": "Crystal Starr Barthel",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793826773,
+   "photo": "photos/MAR_BARTHEL_CRYSTAL_2026-11-04.jpg"
+  },
   {
    "key": "KEN_SCOTT_DIONIA_2026-00006093",
    "name": "DIONIA O Junior SCOTT",
@@ -205,7 +326,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Victim, Witness, or Co-Actor Contact - Felony",
+   "charge": "Battery by Prisoners",
    "more": 1,
    "ts": 1793818657,
    "photo": null
@@ -220,28 +341,6 @@
    "more": 4,
    "ts": 1793818638,
    "photo": "photos/KEN_TOWNSEND_WALLACE_2026-00006088.jpg"
-  },
-  {
-   "key": "MKE_TAPIA_ADAM_625060",
-   "name": "Adam Alexander Tapia",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st De",
-   "more": 0,
-   "ts": 1793816875,
-   "photo": null
-  },
-  {
-   "key": "MKE_SHIELDS_CHARLES_252516",
-   "name": "Charles Vincent Shields",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1793816873,
-   "photo": null
   },
   {
    "key": "DOU_GARDNER_DESHAWN_2026-11-04",
@@ -310,39 +409,6 @@
    "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04.jpg"
   },
   {
-   "key": "DOU_URMAN_QUINTIN_2026-11-04",
-   "name": "Quintin A Urman",
-   "age": "21",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793809747,
-   "photo": null
-  },
-  {
-   "key": "MAR_ALSOWITI_RHEA_2026-11-04",
-   "name": "Rhea Alsowiti",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793807783,
-   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04.jpg"
-  },
-  {
-   "key": "DOU_BARNES_DEANDRE_2026-11-04",
-   "name": "Deandre L Barnes",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793805806,
-   "photo": null
-  },
-  {
    "key": "CARTER_PRINCE_2026-11-04",
    "name": "Prince A Carter",
    "age": "32",
@@ -354,17 +420,6 @@
    "photo": null
   },
   {
-   "key": "MAR_BENDER_CEDRICK_2026-11-04",
-   "name": "Cedrick Antwan Bender",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 2,
-   "ts": 1793793388,
-   "photo": "photos/MAR_BENDER_CEDRICK_2026-11-04.jpg"
-  },
-  {
    "key": "FDL_PEACHY_STEVEN_2026-11-04",
    "name": "Steven W Peachy",
    "age": "",
@@ -374,17 +429,6 @@
    "more": 0,
    "ts": 1793787401,
    "photo": "photos/FDL_PEACHY_STEVEN_2026-11-04.jpg"
-  },
-  {
-   "key": "DOU_MACK_DANIEL_2026-11-04",
-   "name": "Daniel L Mack",
-   "age": "32",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793783821,
-   "photo": "photos/DOU_MACK_DANIEL_2026-11-04.jpg"
   },
   {
    "key": "FDL_WEELDREYER_EMILY_2026-11-04",
@@ -417,17 +461,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793774831,
-   "photo": null
-  },
-  {
-   "key": "MAR_DEMARS_SERENA_2026-11-03_9661302",
-   "name": "Serena Joy Demars",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Theft-Movable Property Under $2500",
-   "more": 0,
-   "ts": 1793771746,
    "photo": null
   },
   {
@@ -464,28 +497,6 @@
    "photo": null
   },
   {
-   "key": "MAR_RANGEL_MARTIN_2026-11-03",
-   "name": "Martin Ortega Rangel",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 2,
-   "ts": 1793768227,
-   "photo": null
-  },
-  {
-   "key": "MAR_THOMPSON_JONATHON_2026-11-03",
-   "name": "Jonathon William Thompson",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1793768190,
-   "photo": null
-  },
-  {
    "key": "ISETTS_ELIZABETH_2026-11-03",
    "name": "Elizabeth G Isetts",
    "age": "34",
@@ -517,20 +528,130 @@
    "more": 0,
    "ts": 1793742445,
    "photo": null
-  },
-  {
-   "key": "FDL_WALKER_TODD_2026-11-03",
-   "name": "Todd M Walker",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793740620,
-   "photo": "photos/FDL_WALKER_TODD_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_REED_JAMES_625049",
+   "name": "James St Reed",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793827664,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUGHES_MALIK_648130",
+   "name": "Malik H Hughes",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793827663,
+   "photo": null
+  },
+  {
+   "key": "WILSON_ANTHONY_2026-11-04",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1793827625,
+   "photo": null
+  },
+  {
+   "key": "DOU_PAUL_CHISTOPHER_2026-11-04",
+   "name": "Chistopher G Paul",
+   "age": "53",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793827024,
+   "photo": "photos/DOU_PAUL_CHISTOPHER_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_PAYETTE_ALLEN_2026-10-31_9640509",
+   "name": "Allen Joseph Payette",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 3,
+   "ts": 1793827017,
+   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-31_9640509.jpg"
+  },
+  {
+   "key": "MAR_BOM_SHISHIR_2026-11-04",
+   "name": "Shishir Bom",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793826975,
+   "photo": "photos/MAR_BOM_SHISHIR_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_BOQUIST_BROCK_2026-11-04",
+   "name": "Brock Alan Boquist",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793826936,
+   "photo": "photos/MAR_BOQUIST_BROCK_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_YOUNG_COLLIN_2026-11-04",
+   "name": "Collin Jay Young",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793826894,
+   "photo": "photos/MAR_YOUNG_COLLIN_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_REED_DOUGLASS_2026-11-04",
+   "name": "Douglass Stafford Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793826855,
+   "photo": "photos/MAR_REED_DOUGLASS_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_LO_KA_2026-11-04",
+   "name": "Ka Zoua Lo",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1793826813,
+   "photo": "photos/MAR_LO_KA_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_BARTHEL_CRYSTAL_2026-11-04",
+   "name": "Crystal Starr Barthel",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793826773,
+   "photo": "photos/MAR_BARTHEL_CRYSTAL_2026-11-04.jpg"
+  },
   {
    "key": "KEN_SCOTT_DIONIA_2026-00006093",
    "name": "DIONIA O Junior SCOTT",
@@ -735,7 +856,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Victim, Witness, or Co-Actor Contact - Felony",
+   "charge": "Battery by Prisoners",
    "more": 1,
    "ts": 1793818657,
    "photo": null
@@ -1010,7 +1131,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Possess w/ Intent-THC(>200-1000g)",
    "more": 18,
    "ts": 1793807873,
    "photo": null
@@ -5007,39 +5128,6 @@
    "more": 0,
    "ts": 1793570075,
    "photo": "photos/KEN_EVERETT_KALEB_2026-00006043.jpg"
-  },
-  {
-   "key": "JONES_RYLEE_2026-11-01",
-   "name": "Rylee J Jones",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1793568426,
-   "photo": null
-  },
-  {
-   "key": "PEAK_ADAM_2026-11-01",
-   "name": "Adam M Peak",
-   "age": "43",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1793568425,
-   "photo": null
-  },
-  {
-   "key": "FDL_RAMAGE_DANIEL_2026-11-01",
-   "name": "Daniel Ray Ramage",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793567809,
-   "photo": "photos/FDL_RAMAGE_DANIEL_2026-11-01.jpg"
   }
  ]
 }
