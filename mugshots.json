@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-04T15:49:30+00:00",
+ "updated": "2026-11-04T16:28:04+00:00",
  "items": [
+  {
+   "key": "MKE_LAWRENCE_DESHAWN_504199",
+   "name": "Deshawn Monte Lawrence",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-THC(>200-1000g)",
+   "more": 2,
+   "ts": 1793807873,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_IZAK_648124",
+   "name": "Izak Anthony Gonzalez",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793807872,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARNER_SHIKELA_646900",
+   "name": "Shikela Garner",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793807870,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_JAMAR_648125",
+   "name": "Jamar Brown",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793807867,
+   "photo": null
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-11-04",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793807783,
+   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04.jpg"
+  },
   {
    "key": "RC_JACKSON_TYMARYA_120011075921060",
    "name": "Tymarya L Jackson",
@@ -120,7 +175,7 @@
    "charge": "Domestic Abuse Incident",
    "more": 2,
    "ts": 1793800725,
-   "photo": null
+   "photo": "photos/MKE_CANNON_JOSHUA_623866.jpg"
   },
   {
    "key": "KEN_MCMILLIAN_ZIYAH_2026-00006080",
@@ -156,28 +211,6 @@
    "photo": "photos/MKE_KORTH_GJUAN_626061.jpg"
   },
   {
-   "key": "MKE_BOYD_CORY_368167",
-   "name": "Cory L Boyd",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793797048,
-   "photo": null
-  },
-  {
-   "key": "RC_DAVID_SEAN_120011075916114",
-   "name": "Sean Michael David",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793796476,
-   "photo": null
-  },
-  {
    "key": "MAR_BENDER_CEDRICK_2026-11-04",
    "name": "Cedrick Antwan Bender",
    "age": "50",
@@ -187,28 +220,6 @@
    "more": 2,
    "ts": 1793793388,
    "photo": "photos/MAR_BENDER_CEDRICK_2026-11-04.jpg"
-  },
-  {
-   "key": "MKE_REEDIRISH_ADONIS_645563",
-   "name": "Adonis Jaeyn Reed Irish",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793791687,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_JASON_280267",
-   "name": "Jason Keyon Jackson",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793791685,
-   "photo": null
   },
   {
    "key": "FDL_PEACHY_STEVEN_2026-11-04",
@@ -453,17 +464,6 @@
    "photo": "photos/MAR_KOHN_STACIE_2026-11-03.jpg"
   },
   {
-   "key": "MAR_AGUILAR_JOHN_2026-11-03_16618402",
-   "name": "John Joaquin Aguilar",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793743029,
-   "photo": "photos/MAR_AGUILAR_JOHN_2026-11-03_16618402.jpg"
-  },
-  {
    "key": "KING_ANTWAN_2026-11-03",
    "name": "Antwan L King",
    "age": "50",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LAWRENCE_DESHAWN_504199",
+   "name": "Deshawn Monte Lawrence",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-THC(>200-1000g)",
+   "more": 2,
+   "ts": 1793807873,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_IZAK_648124",
+   "name": "Izak Anthony Gonzalez",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793807872,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARNER_SHIKELA_646900",
+   "name": "Shikela Garner",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793807870,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_JAMAR_648125",
+   "name": "Jamar Brown",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793807867,
+   "photo": null
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-11-04",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793807783,
+   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04.jpg"
+  },
   {
    "key": "RC_JACKSON_TYMARYA_120011075921060",
    "name": "Tymarya L Jackson",
@@ -650,7 +705,7 @@
    "charge": "Domestic Abuse Incident",
    "more": 2,
    "ts": 1793800725,
-   "photo": null
+   "photo": "photos/MKE_CANNON_JOSHUA_623866.jpg"
   },
   {
    "key": "KEN_MCMILLIAN_ZIYAH_2026-00006080",
@@ -694,7 +749,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793797048,
-   "photo": null
+   "photo": "photos/MKE_BOYD_CORY_368167.jpg"
   },
   {
    "key": "RC_DAVID_SEAN_120011075916114",
@@ -4754,61 +4809,6 @@
    "more": 0,
    "ts": 1793551626,
    "photo": null
-  },
-  {
-   "key": "MKE_LYNKLEMONS_AMARI_648078",
-   "name": "Amari V Lynk-Lemons",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793548663,
-   "photo": "photos/MKE_LYNKLEMONS_AMARI_648078.jpg"
-  },
-  {
-   "key": "MKE_CARTER_OMONIQUE_648079",
-   "name": "Omonique Maurshari Carter",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793548661,
-   "photo": "photos/MKE_CARTER_OMONIQUE_648079.jpg"
-  },
-  {
-   "key": "MAR_BUGGS_ALLAH_2026-11-01_NOIMAGE",
-   "name": "Allah Koran Buggs",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1793548538,
-   "photo": null
-  },
-  {
-   "key": "KEN_HERNANDEZ_JARED_2026-00006042",
-   "name": "Jared Hernandez",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Somers - Possession of Marijuana",
-   "more": 5,
-   "ts": 1793548494,
-   "photo": null
-  },
-  {
-   "key": "KEN_GASTON_KEAIRA_2026-00006041",
-   "name": "Keaira Sanota Gaston",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Suspended",
-   "more": 5,
-   "ts": 1793548457,
-   "photo": "photos/KEN_GASTON_KEAIRA_2026-00006041.jpg"
   }
  ]
 }
