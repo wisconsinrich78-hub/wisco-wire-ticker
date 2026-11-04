@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T20:29:17+00:00",
+ "updated": "2026-11-04T20:50:47+00:00",
  "items": [
+  {
+   "key": "RC_JORGENSEN_ERIN_120011075941859",
+   "name": "Erin Lee Jorgensen",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
+   "more": 0,
+   "ts": 1793825310,
+   "photo": null
+  },
   {
    "key": "MKE_GLADNEY_DONTE_293120",
    "name": "Donte L Gladney",
@@ -205,7 +216,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 2,
    "ts": 1793816873,
    "photo": null
@@ -230,17 +241,6 @@
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 12,
    "ts": 1793816869,
-   "photo": null
-  },
-  {
-   "key": "MKE_COSMESANTIAGO_ANGEL_648128",
-   "name": "Angel Gabriel Cosme Santiago",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793816867,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_JORGENSEN_ERIN_120011075941859",
+   "name": "Erin Lee Jorgensen",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
+   "more": 0,
+   "ts": 1793825310,
+   "photo": null
+  },
+  {
    "key": "MKE_GLADNEY_DONTE_293120",
    "name": "Donte L Gladney",
    "age": "41",
@@ -735,7 +746,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 2,
    "ts": 1793816873,
    "photo": null
@@ -5018,39 +5029,6 @@
    "more": 1,
    "ts": 1793566545,
    "photo": "photos/MAR_WILLIAMS_CHANTELL_2026-10-31_17033901.jpg"
-  },
-  {
-   "key": "RC_ZOERNER_NICHOLAS_120011075812989",
-   "name": "Nicholas M Zoerner",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793566071,
-   "photo": null
-  },
-  {
-   "key": "RC_BEAVERS_ELLIS_120011075812968",
-   "name": "Ellis Holmon Beavers",
-   "age": "69",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793566069,
-   "photo": "photos/RC_BEAVERS_ELLIS_120011075812968.jpg"
-  },
-  {
-   "key": "RC_ALLEN_BEULAH_120011075812473",
-   "name": "Beulah Camille Allen",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793566066,
-   "photo": null
   }
  ]
 }
