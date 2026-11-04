@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T20:01:23+00:00",
+ "updated": "2026-11-04T20:29:17+00:00",
  "items": [
+  {
+   "key": "MKE_GLADNEY_DONTE_293120",
+   "name": "Donte L Gladney",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 8,
+   "ts": 1793824095,
+   "photo": null
+  },
+  {
+   "key": "MAR_LAMPKIN_ADAM_2026-11-04",
+   "name": "Adam John Lampkin",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793822736,
+   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_WIDMANN_CHAD_2026-11-04",
+   "name": "Chad Charles Widmann",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793822689,
+   "photo": "photos/MAR_WIDMANN_CHAD_2026-11-04.jpg"
+  },
   {
    "key": "KEN_SANDOVALCAREY_VALERIE_2026-00006090",
    "name": "Valerie Ann Sandoval-Carey",
@@ -233,17 +266,6 @@
    "photo": "photos/MAR_RANGEL_MARTIN_2026-11-03_17057201.jpg"
   },
   {
-   "key": "KEN_THOMAS_BRANDON_2026-00006084",
-   "name": "Brandon Avery Thomas",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793814948,
-   "photo": "photos/KEN_THOMAS_BRANDON_2026-00006084.jpg"
-  },
-  {
    "key": "HOU_HILL_JACOBEDWARD_6326",
    "name": "Jacob Edward Hill",
    "age": "36",
@@ -464,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_HAUKE_DYLAN_2026-11-03",
-   "name": "Dylan J Hauke",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 1,
-   "ts": 1793768153,
-   "photo": null
-  },
-  {
    "key": "ISETTS_ELIZABETH_2026-11-03",
    "name": "Elizabeth G Isetts",
    "age": "34",
@@ -495,17 +506,6 @@
    "more": 0,
    "ts": 1793762212,
    "photo": "photos/FDL_SCALLON_JACOB_2026-11-03.jpg"
-  },
-  {
-   "key": "DOU_MCPHERSON_BENJAMIN_2026-11-03",
-   "name": "Benjamin W Mcpherson",
-   "age": "20",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793758744,
-   "photo": "photos/DOU_MCPHERSON_BENJAMIN_2026-11-03.jpg"
   },
   {
    "key": "KING_ANTWAN_2026-11-03",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_GLADNEY_DONTE_293120",
+   "name": "Donte L Gladney",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 8,
+   "ts": 1793824095,
+   "photo": null
+  },
+  {
+   "key": "MAR_LAMPKIN_ADAM_2026-11-04",
+   "name": "Adam John Lampkin",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793822736,
+   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_WIDMANN_CHAD_2026-11-04",
+   "name": "Chad Charles Widmann",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793822689,
+   "photo": "photos/MAR_WIDMANN_CHAD_2026-11-04.jpg"
+  },
   {
    "key": "KEN_SANDOVALCAREY_VALERIE_2026-00006090",
    "name": "Valerie Ann Sandoval-Carey",
@@ -5018,39 +5051,6 @@
    "more": 0,
    "ts": 1793566066,
    "photo": null
-  },
-  {
-   "key": "MKE_AHOLA_KAI_2025656",
-   "name": "Kai Stephen Ahola",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793564864,
-   "photo": "photos/MKE_AHOLA_KAI_2025656.jpg"
-  },
-  {
-   "key": "PRINZ_JASON_2026-11-01",
-   "name": "Jason B Prinz",
-   "age": "57",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Theft-Movable Property >$10,000",
-   "more": 0,
-   "ts": 1793564824,
-   "photo": null
-  },
-  {
-   "key": "FDL_GREEN_DARRELL_2026-11-01",
-   "name": "Darrell Bonnell Green",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793564209,
-   "photo": "photos/FDL_GREEN_DARRELL_2026-11-01.jpg"
   }
  ]
 }
