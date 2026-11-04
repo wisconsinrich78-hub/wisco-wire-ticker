@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-04T03:00:31+00:00",
+ "updated": "2026-11-04T03:28:31+00:00",
  "items": [
+  {
+   "key": "MKE_WICKLIFFE_BRYAN_639670",
+   "name": "Bryan Deaire Wickliffe",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793762856,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOPER_CLARENCE_630699",
+   "name": "Clarence Jaquan Cooper",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Increased Penalty - Domestic Abuse Repeater",
+   "more": 6,
+   "ts": 1793762854,
+   "photo": null
+  },
+  {
+   "key": "ISETTS_ELIZABETH_2026-11-03",
+   "name": "Elizabeth G Isetts",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft-Alter Price <=$2,500",
+   "more": 0,
+   "ts": 1793762821,
+   "photo": null
+  },
+  {
+   "key": "FDL_SCALLON_JACOB_2026-11-03",
+   "name": "Jacob J Scallon",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Revocation Order",
+   "more": 0,
+   "ts": 1793762212,
+   "photo": "photos/FDL_SCALLON_JACOB_2026-11-03.jpg"
+  },
   {
    "key": "RC_BURNS_MARCUS_120011075908665",
    "name": "Marcus Dywane Burns",
@@ -131,7 +175,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793753861,
-   "photo": null
+   "photo": "photos/MKE_CHOMICKIHUDLEY_AUBRIANNA_648115.jpg"
   },
   {
    "key": "MKE_CANAS_KATHERINE_2059551",
@@ -220,28 +264,6 @@
    "more": 0,
    "ts": 1793748467,
    "photo": "photos/MKE_MLSNA_STIVEN_642828.jpg"
-  },
-  {
-   "key": "MKE_KING_LESTER_648113",
-   "name": "Lester F King",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Reckless Injury",
-   "more": 1,
-   "ts": 1793748465,
-   "photo": null
-  },
-  {
-   "key": "MKE_BLOODSON_LANA_398632",
-   "name": "Lana Tiara Bloodson",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793748463,
-   "photo": null
   },
   {
    "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1793681225,
    "photo": null
-  },
-  {
-   "key": "LUOMA_BENJAMIN_2026-11-02",
-   "name": "Benjamin R Luoma",
-   "age": "26",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793663230,
-   "photo": null
-  },
-  {
-   "key": "FDL_SESMADOMINGUEZ_DANIEL_2026-11-02",
-   "name": "Daniel Sesma-Dominguez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793661425,
-   "photo": "photos/FDL_SESMADOMINGUEZ_DANIEL_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WICKLIFFE_BRYAN_639670",
+   "name": "Bryan Deaire Wickliffe",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793762856,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOPER_CLARENCE_630699",
+   "name": "Clarence Jaquan Cooper",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Increased Penalty - Domestic Abuse Repeater",
+   "more": 6,
+   "ts": 1793762854,
+   "photo": null
+  },
+  {
+   "key": "ISETTS_ELIZABETH_2026-11-03",
+   "name": "Elizabeth G Isetts",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft-Alter Price <=$2,500",
+   "more": 0,
+   "ts": 1793762821,
+   "photo": null
+  },
+  {
+   "key": "FDL_SCALLON_JACOB_2026-11-03",
+   "name": "Jacob J Scallon",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Revocation Order",
+   "more": 0,
+   "ts": 1793762212,
+   "photo": "photos/FDL_SCALLON_JACOB_2026-11-03.jpg"
+  },
   {
    "key": "RC_BURNS_MARCUS_120011075908665",
    "name": "Marcus Dywane Burns",
@@ -661,7 +705,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793753861,
-   "photo": null
+   "photo": "photos/MKE_CHOMICKIHUDLEY_AUBRIANNA_648115.jpg"
   },
   {
    "key": "MKE_CANAS_KATHERINE_2059551",
