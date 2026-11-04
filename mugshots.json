@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T02:34:40+00:00",
+ "updated": "2026-11-04T02:49:32+00:00",
  "items": [
+  {
+   "key": "RC_BURNS_MARCUS_120011075908665",
+   "name": "Marcus Dywane Burns",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Credit Card-Fraudulent Use (<= $2500)",
+   "more": 0,
+   "ts": 1793760523,
+   "photo": "photos/RC_BURNS_MARCUS_120011075908665.jpg"
+  },
   {
    "key": "DOU_MCPHERSON_BENJAMIN_2026-11-03",
    "name": "Benjamin W Mcpherson",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1793746858,
    "photo": "photos/MAR_KOHN_STACIE_2026-11-03.jpg"
-  },
-  {
-   "key": "MKE_MOSLEY_CHYANN_601136",
-   "name": "Chyann Chardinea Mosley",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
-   "more": 11,
-   "ts": 1793746672,
-   "photo": "photos/MKE_MOSLEY_CHYANN_601136.jpg"
   },
   {
    "key": "MAR_AGUILAR_JOHN_2026-11-03_16618402",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BURNS_MARCUS_120011075908665",
+   "name": "Marcus Dywane Burns",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Credit Card-Fraudulent Use (<= $2500)",
+   "more": 0,
+   "ts": 1793760523,
+   "photo": "photos/RC_BURNS_MARCUS_120011075908665.jpg"
+  },
   {
    "key": "DOU_MCPHERSON_BENJAMIN_2026-11-03",
    "name": "Benjamin W Mcpherson",
@@ -5117,17 +5128,6 @@
    "more": 0,
    "ts": 1793501761,
    "photo": "photos/KEN_BENNING_DUSTIN_2026-00006028.jpg"
-  },
-  {
-   "key": "RC_ROBERTS_MATTHEW_120011075794853",
-   "name": "Matthew R Roberts",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793501273,
-   "photo": null
   }
  ]
 }
