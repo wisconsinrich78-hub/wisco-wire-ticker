@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T15:31:56+00:00",
+ "updated": "2026-11-05T15:49:56+00:00",
  "items": [
+  {
+   "key": "RC_ORNELLAS_PAULINO_120011075967355",
+   "name": "Paulino Miguel Ornellas",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793893726,
+   "photo": "photos/RC_ORNELLAS_PAULINO_120011075967355.jpg"
+  },
   {
    "key": "MKE_VUNG_KHUA_622085",
    "name": "Khua Vung",
@@ -266,17 +277,6 @@
    "photo": "photos/TREM_MORFORD_SCOTT_1844.jpg"
   },
   {
-   "key": "MKE_SHINE_CURTIS_648145",
-   "name": "Curtis Lee Shine",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793872665,
-   "photo": null
-  },
-  {
    "key": "KUPKA_RILEY_2026-11-05",
    "name": "Riley N Kupka",
    "age": "42",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ORNELLAS_PAULINO_120011075967355",
+   "name": "Paulino Miguel Ornellas",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793893726,
+   "photo": "photos/RC_ORNELLAS_PAULINO_120011075967355.jpg"
+  },
   {
    "key": "MKE_VUNG_KHUA_622085",
    "name": "Khua Vung",
@@ -5413,39 +5424,6 @@
    "charge": "Operating While Under The Influence 2Nd",
    "more": 0,
    "ts": 1793634962,
-   "photo": null
-  },
-  {
-   "key": "RC_FREEMAN_ADARIAN_120011075838985",
-   "name": "Adarian E Freeman",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793634470,
-   "photo": null
-  },
-  {
-   "key": "WILSON_SHAWN_2026-11-02",
-   "name": "Shawn Larry Wilson",
-   "age": "48",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 3,
-   "ts": 1793634426,
-   "photo": null
-  },
-  {
-   "key": "OLSON_RONALD_2026-11-02",
-   "name": "Ronald A Olson",
-   "age": "43",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1793634425,
    "photo": null
   }
  ]
