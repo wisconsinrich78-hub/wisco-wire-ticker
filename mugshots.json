@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T05:28:30+00:00",
+ "updated": "2026-11-05T05:49:26+00:00",
  "items": [
+  {
+   "key": "RC_HIKES_DAMARRI_120011075954732",
+   "name": "Damarri Hikes",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793857666,
+   "photo": "photos/RC_HIKES_DAMARRI_120011075954732.jpg"
+  },
   {
    "key": "MKE_WHALEY_QUASHAWN_642547",
    "name": "Quashawn Calvin Whaley",
@@ -365,17 +376,6 @@
    "photo": "photos/HOU_MIRANDAGARCIA_JUANJOSE_6327.jpg"
   },
   {
-   "key": "MKE_CARRANZAPOLANCO_RAFAEL_648135",
-   "name": "Rafael Carranza Polanco",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793840404,
-   "photo": null
-  },
-  {
    "key": "MAR_BOGE_JOSHUA_2026-11-04",
    "name": "Joshua Douglas Boge",
    "age": "38",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_HIKES_DAMARRI_120011075954732",
+   "name": "Damarri Hikes",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793857666,
+   "photo": "photos/RC_HIKES_DAMARRI_120011075954732.jpg"
+  },
   {
    "key": "MKE_WHALEY_QUASHAWN_642547",
    "name": "Quashawn Calvin Whaley",
@@ -933,7 +944,7 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1793838460,
    "photo": null
@@ -5260,39 +5271,6 @@
    "more": 1,
    "ts": 1793598861,
    "photo": "photos/KEN_WILLIAMS_ROBERT_2026-00006051.jpg"
-  },
-  {
-   "key": "RC_NIELSEN_HAYLEE_120011075827915",
-   "name": "Haylee Rae Nielsen",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793598476,
-   "photo": "photos/RC_NIELSEN_HAYLEE_120011075827915.jpg"
-  },
-  {
-   "key": "RC_CASEY_WILLIAM_120011075826596",
-   "name": "William Thomas Casey",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793598473,
-   "photo": null
-  },
-  {
-   "key": "RC_BAHENA_EDWIN_120011075826916",
-   "name": "Edwin Bahena",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 2,
-   "ts": 1793598471,
-   "photo": "photos/RC_BAHENA_EDWIN_120011075826916.jpg"
   }
  ]
 }
