@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T19:49:28+00:00",
+ "updated": "2026-11-05T19:52:35+00:00",
  "items": [
+  {
+   "key": "MAR_SZITTA_HUNTER_2026-11-05",
+   "name": "Hunter Matthew Szitta",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1793908192,
+   "photo": "photos/MAR_SZITTA_HUNTER_2026-11-05.jpg"
+  },
+  {
+   "key": "MAR_MICHELS_JOSHUA_2026-11-05",
+   "name": "Joshua Franklin Michels",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793908132,
+   "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-05.jpg"
+  },
   {
    "key": "RC_SINGH_BIRYUVRAJ_120011075977694",
    "name": "Bir Yuvraj Singh",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1793851112,
    "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-04_4269520.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MAR_SZITTA_HUNTER_2026-11-05",
+   "name": "Hunter Matthew Szitta",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1793908192,
+   "photo": "photos/MAR_SZITTA_HUNTER_2026-11-05.jpg"
   },
   {
-   "key": "MAR_WIDMANN_CHAD_2026-11-04_2985307",
-   "name": "Chad Charles Widmann",
-   "age": "52",
+   "key": "MAR_MICHELS_JOSHUA_2026-11-05",
+   "name": "Joshua Franklin Michels",
+   "age": "46",
    "county": "Marathon County",
    "region": "northwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1793851075,
-   "photo": "photos/MAR_WIDMANN_CHAD_2026-11-04_2985307.jpg"
+   "ts": 1793908132,
+   "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-05.jpg"
   },
-  {
-   "key": "MAR_LINDQUIST_JUSTIN_2026-11-04_2337703",
-   "name": "Justin Michael Lindquist",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Make Terrorist Threats",
-   "more": 0,
-   "ts": 1793851038,
-   "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04_2337703.jpg"
-  }
- ],
- "all_items": [
   {
    "key": "RC_SINGH_BIRYUVRAJ_120011075977694",
    "name": "Bir Yuvraj Singh",
