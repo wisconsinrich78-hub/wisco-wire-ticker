@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-05T03:49:27+00:00",
+ "updated": "2026-11-05T03:58:10+00:00",
  "items": [
+  {
+   "key": "MKE_MALONE_KEANDRE_645336",
+   "name": "Keandre DT Malone",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793851057,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEMON_CRAIG_377671",
+   "name": "Craig Lemon Lemon",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793851054,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOPER_THOMAS_2030114",
+   "name": "Thomas P Cooper",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793851052,
+   "photo": null
+  },
+  {
+   "key": "MAR_LINDQUIST_JUSTIN_2026-11-04_2337703",
+   "name": "Justin Michael Lindquist",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Make Terrorist Threats",
+   "more": 0,
+   "ts": 1793851038,
+   "photo": null
+  },
+  {
+   "key": "MAR_BARTHEL_CRYSTAL_2026-11-04_312204",
+   "name": "Crystal Starr Barthel",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793851000,
+   "photo": "photos/MAR_BARTHEL_CRYSTAL_2026-11-04_312204.jpg"
+  },
+  {
+   "key": "KEN_FISHER_JOHN_2026-00006097",
+   "name": "John Henry Fisher",
+   "age": "72",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793850872,
+   "photo": "photos/KEN_FISHER_JOHN_2026-00006097.jpg"
+  },
   {
    "key": "MKE_SOBCZAKSILVA_ZAHID_635811",
    "name": "Zahid M Sobczak-Silva",
@@ -62,7 +128,7 @@
    "age": "63",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Physical Abuse Of Elder Person/Adult At Risk-Int Cause Bodily Harm",
    "more": 0,
    "ts": 1793847283,
    "photo": null
@@ -150,8 +216,8 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Burglary-Building Or Dwelling",
+   "more": 2,
    "ts": 1793843813,
    "photo": "photos/KEN_ESQUIVEL_KAIYLA_2026-00006095.jpg"
   },
@@ -277,17 +343,6 @@
    "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
   },
   {
-   "key": "MKE_TAYLOR_LAZARIAH_648133",
-   "name": "Lazariah Sharee Taylor",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793834867,
-   "photo": null
-  },
-  {
    "key": "DOU_HARE_CARTER_2026-10-29",
    "name": "Carter J Hare",
    "age": "22",
@@ -308,39 +363,6 @@
    "more": 1,
    "ts": 1793834237,
    "photo": "photos/DOU_PALMER_SETH_2026-11-04.jpg"
-  },
-  {
-   "key": "MKE_STOKES_ROBBIEL_648132",
-   "name": "Robbiel Lorenzo Stokes",
-   "age": "15",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 1,
-   "ts": 1793833060,
-   "photo": "photos/MKE_STOKES_ROBBIEL_648132.jpg"
-  },
-  {
-   "key": "MKE_ROBERTSON_TARREL_375553",
-   "name": "Tarrel T Robertson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793833057,
-   "photo": null
-  },
-  {
-   "key": "RC_EPPS_ANDRE_120011075946434",
-   "name": "Andre Lapriese Epps",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793832467,
-   "photo": "photos/RC_EPPS_ANDRE_120011075946434.jpg"
   },
   {
    "key": "DOU_GLENN_DARIN_2026-11-04",
@@ -385,28 +407,6 @@
    "more": 1,
    "ts": 1793827625,
    "photo": null
-  },
-  {
-   "key": "DOU_PAUL_CHISTOPHER_2026-11-04",
-   "name": "Chistopher G Paul",
-   "age": "53",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793827024,
-   "photo": "photos/DOU_PAUL_CHISTOPHER_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_PAYETTE_ALLEN_2026-10-31_9640509",
-   "name": "Allen Joseph Payette",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 3,
-   "ts": 1793827017,
-   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-31_9640509.jpg"
   },
   {
    "key": "VESSELL_SHANNON_2026-11-04",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "MKE_MALONE_KEANDRE_645336",
+   "name": "Keandre DT Malone",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793851057,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEMON_CRAIG_377671",
+   "name": "Craig Lemon Lemon",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793851054,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOPER_THOMAS_2030114",
+   "name": "Thomas P Cooper",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793851052,
+   "photo": null
+  },
+  {
+   "key": "MAR_LINDQUIST_JUSTIN_2026-11-04_2337703",
+   "name": "Justin Michael Lindquist",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Make Terrorist Threats",
+   "more": 0,
+   "ts": 1793851038,
+   "photo": null
+  },
+  {
+   "key": "MAR_BARTHEL_CRYSTAL_2026-11-04_312204",
+   "name": "Crystal Starr Barthel",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1793851000,
+   "photo": "photos/MAR_BARTHEL_CRYSTAL_2026-11-04_312204.jpg"
+  },
+  {
+   "key": "KEN_FISHER_JOHN_2026-00006097",
+   "name": "John Henry Fisher",
+   "age": "72",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793850872,
+   "photo": "photos/KEN_FISHER_JOHN_2026-00006097.jpg"
+  },
+  {
    "key": "MKE_SOBCZAKSILVA_ZAHID_635811",
    "name": "Zahid M Sobczak-Silva",
    "age": "20",
@@ -592,7 +658,7 @@
    "age": "63",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Physical Abuse Of Elder Person/Adult At Risk-Int Cause Bodily Harm",
    "more": 0,
    "ts": 1793847283,
    "photo": null
@@ -680,8 +746,8 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Burglary-Building Or Dwelling",
+   "more": 2,
    "ts": 1793843813,
    "photo": "photos/KEN_ESQUIVEL_KAIYLA_2026-00006095.jpg"
   },
@@ -5150,61 +5216,6 @@
    "more": 0,
    "ts": 1793597221,
    "photo": null
-  },
-  {
-   "key": "MKE_SCOTT_GINUWINE_639473",
-   "name": "Ginuwine Dartell Scott",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793591871,
-   "photo": "photos/MKE_SCOTT_GINUWINE_639473.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_JANYIJA_648086",
-   "name": "Janyija Deloise Robinson",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793591869,
-   "photo": "photos/MKE_ROBINSON_JANYIJA_648086.jpg"
-  },
-  {
-   "key": "MKE_MOORER_JACOB_602868",
-   "name": "Jacob Perry Moorer",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793591868,
-   "photo": "photos/MKE_MOORER_JACOB_602868.jpg"
-  },
-  {
-   "key": "SARVER_HUNTER_2026-11-01",
-   "name": "Hunter Scott Sarver",
-   "age": "19",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1793591822,
-   "photo": null
-  },
-  {
-   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_12254902",
-   "name": "Christian Ivan Genchi Zamora",
-   "age": "22",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793591721,
-   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_12254902.jpg"
   }
  ]
 }
