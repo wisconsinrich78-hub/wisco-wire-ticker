@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-04T23:57:53+00:00",
+ "updated": "2026-11-05T00:28:34+00:00",
  "items": [
+  {
+   "key": "MKE_SANCHEZ_MARCOS_648134",
+   "name": "Marcos A Sanchez",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793838462,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROWELL_DENARD_523983",
+   "name": "Denard Antwaun Rowell",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793838460,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARCELLIN_NEVILLE_419350",
+   "name": "Neville Charles Marcellin",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Injury by Negligent Use/Weapon/Explosive",
+   "more": 1,
+   "ts": 1793838458,
+   "photo": null
+  },
+  {
+   "key": "MAR_BOGE_JOSHUA_2026-11-04",
+   "name": "Joshua Douglas Boge",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793836663,
+   "photo": "photos/MAR_BOGE_JOSHUA_2026-11-04.jpg"
+  },
   {
    "key": "MAR_LINDQUIST_JUSTIN_2026-11-04",
    "name": "Justin Michael Lindquist",
@@ -172,7 +216,7 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "Posses W/Intent-Fentanyl (>10-50)",
    "more": 17,
    "ts": 1793829470,
    "photo": null
@@ -211,17 +255,6 @@
    "photo": "photos/RC_STEWART_SUNNY_120011075944868.jpg"
   },
   {
-   "key": "RC_HAMPTON_RASHAD_120011075945009",
-   "name": "Rashad Jaquon Hampton",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793828872,
-   "photo": "photos/RC_HAMPTON_RASHAD_120011075945009.jpg"
-  },
-  {
    "key": "SANCHEZRODRIGUEZ_SAULO_2026-11-04",
    "name": "Saulo Sanchez Rodriguez",
    "age": "18",
@@ -230,28 +263,6 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1793828826,
-   "photo": null
-  },
-  {
-   "key": "MKE_REED_JAMES_625049",
-   "name": "James St Reed",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-THC (<=200 grams)",
-   "more": 1,
-   "ts": 1793827664,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUGHES_MALIK_648130",
-   "name": "Malik H Hughes",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793827663,
    "photo": null
   },
   {
@@ -385,17 +396,6 @@
    "more": 0,
    "ts": 1793821634,
    "photo": null
-  },
-  {
-   "key": "DOU_RUTH_TEDDY_2026-10-29",
-   "name": "Teddy L Ruth",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793819829,
-   "photo": "photos/DOU_RUTH_TEDDY_2026-10-29.jpg"
   },
   {
    "key": "FDL_THOMAS_DEVIN_2026-11-04",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SANCHEZ_MARCOS_648134",
+   "name": "Marcos A Sanchez",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793838462,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROWELL_DENARD_523983",
+   "name": "Denard Antwaun Rowell",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793838460,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARCELLIN_NEVILLE_419350",
+   "name": "Neville Charles Marcellin",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Injury by Negligent Use/Weapon/Explosive",
+   "more": 1,
+   "ts": 1793838458,
+   "photo": null
+  },
+  {
+   "key": "MAR_BOGE_JOSHUA_2026-11-04",
+   "name": "Joshua Douglas Boge",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793836663,
+   "photo": "photos/MAR_BOGE_JOSHUA_2026-11-04.jpg"
+  },
+  {
    "key": "MAR_LINDQUIST_JUSTIN_2026-11-04",
    "name": "Justin Michael Lindquist",
    "age": "27",
@@ -702,7 +746,7 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "Posses W/Intent-Fentanyl (>10-50)",
    "more": 17,
    "ts": 1793829470,
    "photo": null
@@ -889,7 +933,7 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793825786,
    "photo": "photos/KEN_SCOTT_DIONIA_2026-00006093.jpg"
@@ -900,10 +944,10 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Criminal Damage To Property",
+   "more": 3,
    "ts": 1793825666,
-   "photo": null
+   "photo": "photos/KEN_ARIZOLA_LARESA_2026-00006092.jpg"
   },
   {
    "key": "RC_JORGENSEN_ERIN_120011075941859",
@@ -5183,28 +5227,6 @@
    "more": 0,
    "ts": 1793580477,
    "photo": "photos/RC_WILLIAMS_XAVIER_120011075819563.jpg"
-  },
-  {
-   "key": "MKE_HAWKINS_MARQUITA_648083",
-   "name": "Marquita S Hawkins",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793579276,
-   "photo": "photos/MKE_HAWKINS_MARQUITA_648083.jpg"
-  },
-  {
-   "key": "MKE_DYE_KEANDRE_627313",
-   "name": "Keandre Quantrell Dye",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793579274,
-   "photo": "photos/MKE_DYE_KEANDRE_627313.jpg"
   }
  ]
 }
