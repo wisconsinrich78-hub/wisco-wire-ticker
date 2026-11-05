@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T21:27:42+00:00",
+ "updated": "2026-11-05T21:49:32+00:00",
  "items": [
+  {
+   "key": "RC_THOMPSONNORTON_MICHAEL_120011075983104",
+   "name": "Michael Eugene Thompson-Norton",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793915277,
+   "photo": "photos/RC_THOMPSONNORTON_MICHAEL_120011075983104.jpg"
+  },
+  {
+   "key": "RC_EDER_ALAN_120011075982615",
+   "name": "Alan R Eder",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793915274,
+   "photo": "photos/RC_EDER_ALAN_120011075982615.jpg"
+  },
   {
    "key": "MKE_SHELBY_AVERY_618341",
    "name": "Avery Alexander Shelby",
@@ -51,7 +73,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Sale/Possess/Use/Transport Machine Guns",
    "more": 5,
    "ts": 1793910458,
    "photo": null
@@ -197,28 +219,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1793906819,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROWSEY_ANDREW_2060827",
-   "name": "Andrew Ray Travon Rowsey",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793905060,
-   "photo": null
-  },
-  {
-   "key": "MKE_PACHECOCRUZ_OSCAR_648147",
-   "name": "Oscar Pacheco-Cruz",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793905058,
    "photo": null
   },
   {
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "RC_THOMPSONNORTON_MICHAEL_120011075983104",
+   "name": "Michael Eugene Thompson-Norton",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793915277,
+   "photo": "photos/RC_THOMPSONNORTON_MICHAEL_120011075983104.jpg"
+  },
+  {
+   "key": "RC_EDER_ALAN_120011075982615",
+   "name": "Alan R Eder",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793915274,
+   "photo": "photos/RC_EDER_ALAN_120011075982615.jpg"
+  },
+  {
    "key": "MKE_SHELBY_AVERY_618341",
    "name": "Avery Alexander Shelby",
    "age": "25",
@@ -581,7 +603,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Sale/Possess/Use/Transport Machine Guns",
    "more": 5,
    "ts": 1793910458,
    "photo": null
@@ -5337,61 +5359,6 @@
    "more": 1,
    "ts": 1793656576,
    "photo": null
-  },
-  {
-   "key": "RC_HUGHES_JESSICA_120011075854794",
-   "name": "Jessica James Hughes",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793656084,
-   "photo": "photos/RC_HUGHES_JESSICA_120011075854794.jpg"
-  },
-  {
-   "key": "RC_COATES_CAMARRI_120011075855820",
-   "name": "Camarri Marcell Coates",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793656081,
-   "photo": "photos/RC_COATES_CAMARRI_120011075855820.jpg"
-  },
-  {
-   "key": "MKE_TORRES_JESSE_648100",
-   "name": "Jesse Blake Torres",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793654873,
-   "photo": "photos/MKE_TORRES_JESSE_648100.jpg"
-  },
-  {
-   "key": "MKE_TIGGINS_LACHANDRA_293321",
-   "name": "Lachandra Sathy Tiggins",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793654871,
-   "photo": "photos/MKE_TIGGINS_LACHANDRA_293321.jpg"
-  },
-  {
-   "key": "MKE_ALVARADO_JAIME_270149",
-   "name": "Jaime Raul Alvarado",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793654869,
-   "photo": "photos/MKE_ALVARADO_JAIME_270149.jpg"
   }
  ]
 }
