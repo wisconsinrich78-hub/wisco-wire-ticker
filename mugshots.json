@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T09:27:41+00:00",
+ "updated": "2026-11-05T09:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_WHITE_ED_410274",
+   "name": "Ed Orlando White",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 10,
+   "ts": 1793870867,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_SANDRA_205445",
+   "name": "Sandra Yvette Moore",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 0,
+   "ts": 1793870865,
+   "photo": null
+  },
   {
    "key": "RC_PAYNE_LAMAR_120011075957786",
    "name": "Lamar A Payne",
@@ -241,28 +263,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 2,
    "ts": 1793856436,
-   "photo": null
-  },
-  {
-   "key": "MKE_STREGE_AMYA_648139",
-   "name": "Amya E Strege",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793854656,
-   "photo": "photos/MKE_STREGE_AMYA_648139.jpg"
-  },
-  {
-   "key": "MKE_SINGLETON_ANTONIO_648138",
-   "name": "Antonio Michael Singleton",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793854654,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WHITE_ED_410274",
+   "name": "Ed Orlando White",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 10,
+   "ts": 1793870867,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_SANDRA_205445",
+   "name": "Sandra Yvette Moore",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 0,
+   "ts": 1793870865,
+   "photo": null
+  },
   {
    "key": "RC_PAYNE_LAMAR_120011075957786",
    "name": "Lamar A Payne",
