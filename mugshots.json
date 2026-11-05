@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-05T18:27:18+00:00",
+ "updated": "2026-11-05T18:35:07+00:00",
  "items": [
+  {
+   "key": "MKE_HUTCHINS_TERYN_266904",
+   "name": "Teryn Jontae Hutchins",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1793903284,
+   "photo": "photos/MKE_HUTCHINS_TERYN_266904.jpg"
+  },
+  {
+   "key": "MKE_GUZMANBUENO_ERIC_648146",
+   "name": "Eric Mauricio Guzman Bueno",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793903281,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_ADAREUS_640533",
+   "name": "Adareus Gonzalez",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793903279,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_DAZON_647391",
+   "name": "Dazon T Davis",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess Dangerous Weapon-Person < 18",
+   "more": 2,
+   "ts": 1793903277,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_YOLANDA_348478",
+   "name": "Yolanda Dominique Brown",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793903275,
+   "photo": null
+  },
   {
    "key": "CHRISTENSON_MORGAN_2026-11-05",
    "name": "Morgan A Christenson",
@@ -211,39 +266,6 @@
    "photo": "photos/KEN_RUPPKENT_CHUCK_2026-00006106.jpg"
   },
   {
-   "key": "KEN_MOSANSKY_JULIUS_2026-00006105",
-   "name": "Julius A Mosansky",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1793894344,
-   "photo": "photos/KEN_MOSANSKY_JULIUS_2026-00006105.jpg"
-  },
-  {
-   "key": "RC_ORNELLAS_PAULINO_120011075967355",
-   "name": "Paulino Miguel Ornellas",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793893726,
-   "photo": "photos/RC_ORNELLAS_PAULINO_120011075967355.jpg"
-  },
-  {
-   "key": "MKE_VUNG_KHUA_622085",
-   "name": "Khua Vung",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793892580,
-   "photo": null
-  },
-  {
    "key": "BURROWS_CHARLES_2026-11-05",
    "name": "Charles J Burrows",
    "age": "18",
@@ -264,28 +286,6 @@
    "more": 0,
    "ts": 1793892464,
    "photo": null
-  },
-  {
-   "key": "KEN_WILLIAMS_MONICA_2026-00006102",
-   "name": "Monica R Williams",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793891246,
-   "photo": "photos/KEN_WILLIAMS_MONICA_2026-00006102.jpg"
-  },
-  {
-   "key": "KEN_COLLINS_KATIE_2026-00006101",
-   "name": "Katie Lynn Collins",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793891167,
-   "photo": "photos/KEN_COLLINS_KATIE_2026-00006101.jpg"
   },
   {
    "key": "MAR_ANDRUSS_JOSEPH_2026-11-03_17051201",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HUTCHINS_TERYN_266904",
+   "name": "Teryn Jontae Hutchins",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1793903284,
+   "photo": "photos/MKE_HUTCHINS_TERYN_266904.jpg"
+  },
+  {
+   "key": "MKE_GUZMANBUENO_ERIC_648146",
+   "name": "Eric Mauricio Guzman Bueno",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793903281,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_ADAREUS_640533",
+   "name": "Adareus Gonzalez",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793903279,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_DAZON_647391",
+   "name": "Dazon T Davis",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess Dangerous Weapon-Person < 18",
+   "more": 2,
+   "ts": 1793903277,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_YOLANDA_348478",
+   "name": "Yolanda Dominique Brown",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793903275,
+   "photo": null
+  },
   {
    "key": "CHRISTENSON_MORGAN_2026-11-05",
    "name": "Morgan A Christenson",
@@ -1068,7 +1123,7 @@
    "charge": "Charges Pending",
    "more": 10,
    "ts": 1793870867,
-   "photo": null
+   "photo": "photos/MKE_WHITE_ED_410274.jpg"
   },
   {
    "key": "MKE_MOORE_SANDRA_205445",
@@ -1079,7 +1134,7 @@
    "charge": "Criminal Damage to Property",
    "more": 0,
    "ts": 1793870865,
-   "photo": null
+   "photo": "photos/MKE_MOORE_SANDRA_205445.jpg"
   },
   {
    "key": "RC_PAYNE_LAMAR_120011075957786",
@@ -1145,7 +1200,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793865459,
-   "photo": null
+   "photo": "photos/MKE_CAREY_MICHAEL_648142.jpg"
   },
   {
    "key": "MKE_ADKINS_WILLIAM_639296",
@@ -5392,50 +5447,6 @@
    "more": 0,
    "ts": 1793645229,
    "photo": null
-  },
-  {
-   "key": "MKE_SIMONS_BETH_648096",
-   "name": "Beth R Simons",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793644063,
-   "photo": "photos/MKE_SIMONS_BETH_648096.jpg"
-  },
-  {
-   "key": "MKE_JOHNICAN_BRELL_648097",
-   "name": "Brell Nysharri Johnican",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793644061,
-   "photo": "photos/MKE_JOHNICAN_BRELL_648097.jpg"
-  },
-  {
-   "key": "MKE_EDWARDS_KENDREIA_638885",
-   "name": "Kendreia Korjay Edwards",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793644059,
-   "photo": "photos/MKE_EDWARDS_KENDREIA_638885.jpg"
-  },
-  {
-   "key": "MKE_DISMUKE_DIAMOND_297810",
-   "name": "Diamond Isiah Dismuke",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793644058,
-   "photo": "photos/MKE_DISMUKE_DIAMOND_297810.jpg"
   }
  ]
 }
