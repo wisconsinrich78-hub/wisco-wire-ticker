@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T09:49:34+00:00",
+ "updated": "2026-11-05T10:28:20+00:00",
  "items": [
+  {
+   "key": "MKE_SHINE_CURTIS_648145",
+   "name": "Curtis Lee Shine",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793872665,
+   "photo": null
+  },
+  {
+   "key": "MKE_KAYWOOD_STEVEN_621288",
+   "name": "Steven L Kaywood",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793872662,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_CALI_648144",
+   "name": "Cali A Johnson",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793872660,
+   "photo": null
+  },
   {
    "key": "MKE_WHITE_ED_410274",
    "name": "Ed Orlando White",
@@ -220,39 +253,6 @@
    "more": 0,
    "ts": 1793858169,
    "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04_3020404.jpg"
-  },
-  {
-   "key": "RC_HIKES_DAMARRI_120011075954732",
-   "name": "Damarri Hikes",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793857666,
-   "photo": "photos/RC_HIKES_DAMARRI_120011075954732.jpg"
-  },
-  {
-   "key": "MKE_WHALEY_QUASHAWN_642547",
-   "name": "Quashawn Calvin Whaley",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793856455,
-   "photo": null
-  },
-  {
-   "key": "MKE_EDWARDS_TIMOTHY_602375",
-   "name": "Timothy M Edwards",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793856453,
-   "photo": null
   },
   {
    "key": "DRIVER_DARIUS_2026-11-04",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SHINE_CURTIS_648145",
+   "name": "Curtis Lee Shine",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793872665,
+   "photo": null
+  },
+  {
+   "key": "MKE_KAYWOOD_STEVEN_621288",
+   "name": "Steven L Kaywood",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793872662,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_CALI_648144",
+   "name": "Cali A Johnson",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793872660,
+   "photo": null
+  },
   {
    "key": "MKE_WHITE_ED_410274",
    "name": "Ed Orlando White",
@@ -5326,28 +5359,6 @@
    "more": 0,
    "ts": 1793616428,
    "photo": "photos/TREM_BAUTCH_ASHTON_5402.jpg"
-  },
-  {
-   "key": "MKE_MITCHELL_QUILINDA_648092",
-   "name": "Quilinda L Mitchell",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793613449,
-   "photo": "photos/MKE_MITCHELL_QUILINDA_648092.jpg"
-  },
-  {
-   "key": "KEN_KAZEE_IZIAH_2026-00006053",
-   "name": "Iziah Jermainejames Kazee",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Suspended",
-   "more": 1,
-   "ts": 1793613271,
-   "photo": "photos/KEN_KAZEE_IZIAH_2026-00006053.jpg"
   }
  ]
 }
