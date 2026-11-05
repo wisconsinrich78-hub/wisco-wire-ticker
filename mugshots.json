@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T19:28:03+00:00",
+ "updated": "2026-11-05T19:49:28+00:00",
  "items": [
+  {
+   "key": "RC_SINGH_BIRYUVRAJ_120011075977694",
+   "name": "Bir Yuvraj Singh",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793908070,
+   "photo": "photos/RC_SINGH_BIRYUVRAJ_120011075977694.jpg"
+  },
+  {
+   "key": "RC_COCROFT_DETREVON_120011075977585",
+   "name": "Detrevon Cocroft",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793908067,
+   "photo": "photos/RC_COCROFT_DETREVON_120011075977585.jpg"
+  },
   {
    "key": "STENBERG_WADE_2026-11-05",
    "name": "Wade C Stenberg",
@@ -198,28 +220,6 @@
    "more": 0,
    "ts": 1793899879,
    "photo": "photos/KEN_DAVIS_JOE_2026-00006111.jpg"
-  },
-  {
-   "key": "KEN_BAILEYPRESCOTT_JESSE_2026-00006107",
-   "name": "Jesse Junior Bailey-Prescott",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793899801,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCPHAN_DELMONTE_364629",
-   "name": "Delmonte Patrace Mcphan",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1793899659,
-   "photo": null
   },
   {
    "key": "ANDERSON_TANNER_2026-11-05",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_SINGH_BIRYUVRAJ_120011075977694",
+   "name": "Bir Yuvraj Singh",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793908070,
+   "photo": "photos/RC_SINGH_BIRYUVRAJ_120011075977694.jpg"
+  },
+  {
+   "key": "RC_COCROFT_DETREVON_120011075977585",
+   "name": "Detrevon Cocroft",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793908067,
+   "photo": "photos/RC_COCROFT_DETREVON_120011075977585.jpg"
+  },
   {
    "key": "STENBERG_WADE_2026-11-05",
    "name": "Wade C Stenberg",
@@ -5370,39 +5392,6 @@
    "more": 0,
    "ts": 1793649553,
    "photo": "photos/MKE_BIVENS_JESSE_622015.jpg"
-  },
-  {
-   "key": "RC_LACHANCE_STEVEN_120011075848713",
-   "name": "Steven Lachance",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793648884,
-   "photo": "photos/RC_LACHANCE_STEVEN_120011075848713.jpg"
-  },
-  {
-   "key": "RC_JANN_RYAN_120011075848584",
-   "name": "Ryan Winslow Jann",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793648881,
-   "photo": "photos/RC_JANN_RYAN_120011075848584.jpg"
-  },
-  {
-   "key": "RC_ALEXANDER_MONIQUE_120011075851030",
-   "name": "Monique M Alexander",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793648878,
-   "photo": "photos/RC_ALEXANDER_MONIQUE_120011075851030.jpg"
   }
  ]
 }
