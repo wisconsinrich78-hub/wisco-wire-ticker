@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T03:58:10+00:00",
+ "updated": "2026-11-05T04:28:24+00:00",
  "items": [
+  {
+   "key": "MAR_BURKS_MATTHEW_2026-11-04",
+   "name": "Matthew Campbell Burks",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793851152,
+   "photo": "photos/MAR_BURKS_MATTHEW_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_LAMPKIN_ADAM_2026-11-04_4269520",
+   "name": "Adam John Lampkin",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793851112,
+   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-04_4269520.jpg"
+  },
+  {
+   "key": "MAR_WIDMANN_CHAD_2026-11-04_2985307",
+   "name": "Chad Charles Widmann",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793851075,
+   "photo": "photos/MAR_WIDMANN_CHAD_2026-11-04_2985307.jpg"
+  },
   {
    "key": "MKE_MALONE_KEANDRE_645336",
    "name": "Keandre DT Malone",
@@ -43,7 +76,7 @@
    "charge": "Make Terrorist Threats",
    "more": 0,
    "ts": 1793851038,
-   "photo": null
+   "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04_2337703.jpg"
   },
   {
    "key": "MAR_BARTHEL_CRYSTAL_2026-11-04_312204",
@@ -343,39 +376,6 @@
    "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
   },
   {
-   "key": "DOU_HARE_CARTER_2026-10-29",
-   "name": "Carter J Hare",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793834239,
-   "photo": "photos/DOU_HARE_CARTER_2026-10-29.jpg"
-  },
-  {
-   "key": "DOU_PALMER_SETH_2026-11-04",
-   "name": "Seth A Palmer",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793834237,
-   "photo": "photos/DOU_PALMER_SETH_2026-11-04.jpg"
-  },
-  {
-   "key": "DOU_GLENN_DARIN_2026-11-04",
-   "name": "Darin A Glenn",
-   "age": "64",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793830839,
-   "photo": "photos/DOU_GLENN_DARIN_2026-11-04.jpg"
-  },
-  {
    "key": "FDL_MORALES_ANTONIO_2026-11-04",
    "name": "Antonio Joseph Morales",
    "age": "",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MAR_BURKS_MATTHEW_2026-11-04",
+   "name": "Matthew Campbell Burks",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793851152,
+   "photo": "photos/MAR_BURKS_MATTHEW_2026-11-04.jpg"
+  },
+  {
+   "key": "MAR_LAMPKIN_ADAM_2026-11-04_4269520",
+   "name": "Adam John Lampkin",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793851112,
+   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-04_4269520.jpg"
+  },
+  {
+   "key": "MAR_WIDMANN_CHAD_2026-11-04_2985307",
+   "name": "Chad Charles Widmann",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793851075,
+   "photo": "photos/MAR_WIDMANN_CHAD_2026-11-04_2985307.jpg"
+  },
+  {
    "key": "MKE_MALONE_KEANDRE_645336",
    "name": "Keandre DT Malone",
    "age": "18",
@@ -573,7 +606,7 @@
    "charge": "Make Terrorist Threats",
    "more": 0,
    "ts": 1793851038,
-   "photo": null
+   "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04_2337703.jpg"
   },
   {
    "key": "MAR_BARTHEL_CRYSTAL_2026-11-04_312204",
@@ -1024,7 +1057,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 11,
    "ts": 1793829465,
-   "photo": null
+   "photo": "photos/MKE_BUCHANAN_JUNE_525584.jpg"
   },
   {
    "key": "MKE_BROOKS_KEIMON_618977",
@@ -1079,7 +1112,7 @@
    "charge": "Possess w/Intent-THC (<=200 grams)",
    "more": 1,
    "ts": 1793827664,
-   "photo": null
+   "photo": "photos/MKE_REED_JAMES_625049.jpg"
   },
   {
    "key": "MKE_HUGHES_MALIK_648130",
@@ -1277,7 +1310,7 @@
    "charge": "1st-Degree Intentional Homicide",
    "more": 1,
    "ts": 1793822272,
-   "photo": null
+   "photo": "photos/MKE_WASHINGTON_ANTHONY_297173.jpg"
   },
   {
    "key": "MKE_JELKS_PAYSHARNEDALE_632216",
