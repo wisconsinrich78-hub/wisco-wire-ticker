@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T19:00:37+00:00",
+ "updated": "2026-11-05T19:28:03+00:00",
  "items": [
+  {
+   "key": "STENBERG_WADE_2026-11-05",
+   "name": "Wade C Stenberg",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793906819,
+   "photo": null
+  },
   {
    "key": "MKE_ROWSEY_ANDREW_2060827",
    "name": "Andrew Ray Travon Rowsey",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793851038,
    "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04_2337703.jpg"
-  },
-  {
-   "key": "MAR_BARTHEL_CRYSTAL_2026-11-04_312204",
-   "name": "Crystal Starr Barthel",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793851000,
-   "photo": "photos/MAR_BARTHEL_CRYSTAL_2026-11-04_312204.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "STENBERG_WADE_2026-11-05",
+   "name": "Wade C Stenberg",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793906819,
+   "photo": null
+  },
   {
    "key": "MKE_ROWSEY_ANDREW_2060827",
    "name": "Andrew Ray Travon Rowsey",
@@ -5392,28 +5403,6 @@
    "more": 0,
    "ts": 1793648878,
    "photo": "photos/RC_ALEXANDER_MONIQUE_120011075851030.jpg"
-  },
-  {
-   "key": "MAHNKE_DARRIN_2026-11-02",
-   "name": "Darrin Kenneth Mahnke",
-   "age": "60",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793647622,
-   "photo": null
-  },
-  {
-   "key": "FDL_HERNANDEZLOPEZ_WILBERT_2026-11-02",
-   "name": "Wilbert Joel Hernandez Lopez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793646997,
-   "photo": null
   }
  ]
 }
