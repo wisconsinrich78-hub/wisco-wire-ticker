@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T07:34:39+00:00",
+ "updated": "2026-11-05T07:49:27+00:00",
  "items": [
+  {
+   "key": "KUPKA_RILEY_2026-11-05",
+   "name": "Riley N Kupka",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793864834,
+   "photo": null
+  },
   {
    "key": "WEDWICK_JOSHUA_2026-11-05",
    "name": "Joshua A Wedwick",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793787401,
    "photo": "photos/FDL_PEACHY_STEVEN_2026-11-04.jpg"
-  },
-  {
-   "key": "FDL_WEELDREYER_EMILY_2026-11-04",
-   "name": "Emily Eileen Weeldreyer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
-   "more": 0,
-   "ts": 1793776619,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "KUPKA_RILEY_2026-11-05",
+   "name": "Riley N Kupka",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793864834,
+   "photo": null
+  },
   {
    "key": "WEDWICK_JOSHUA_2026-11-05",
    "name": "Joshua A Wedwick",
@@ -5326,17 +5337,6 @@
    "more": 1,
    "ts": 1793606256,
    "photo": "photos/MKE_BOOTH_SHAUN_383863.jpg"
-  },
-  {
-   "key": "RC_ROMAN_DUSTIN_120011075829122",
-   "name": "Dustin Eduardo Roman",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793605670,
-   "photo": "photos/RC_ROMAN_DUSTIN_120011075829122.jpg"
   }
  ]
 }
