@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:28:33+00:00",
+ "updated": "2026-11-05T23:49:32+00:00",
  "items": [
   {
    "key": "MKE_TURNER_ROBERT_298953",
@@ -205,8 +205,8 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
+   "more": 5,
    "ts": 1793915877,
    "photo": null
   },
@@ -735,8 +735,8 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
+   "more": 5,
    "ts": 1793915877,
    "photo": null
   },
@@ -801,7 +801,7 @@
    "age": "60",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Child Enticement-Give/Sell Drugs",
+   "charge": "Possession of Cocaine/Coca (2nd+)",
    "more": 3,
    "ts": 1793914055,
    "photo": null
@@ -991,7 +991,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793905060,
-   "photo": null
+   "photo": "photos/MKE_ROWSEY_ANDREW_2060827.jpg"
   },
   {
    "key": "MKE_PACHECOCRUZ_OSCAR_648147",
@@ -1090,7 +1090,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793903275,
-   "photo": null
+   "photo": "photos/MKE_BROWN_YOLANDA_348478.jpg"
   },
   {
    "key": "CHRISTENSON_MORGAN_2026-11-05",
@@ -1244,7 +1244,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793897860,
-   "photo": null
+   "photo": "photos/MKE_COFFIN_RENO_292587.jpg"
   },
   {
    "key": "ASHMORE_DAVID_2026-11-05",
@@ -1332,7 +1332,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793892580,
-   "photo": null
+   "photo": "photos/MKE_VUNG_KHUA_622085.jpg"
   },
   {
    "key": "BURROWS_CHARLES_2026-11-05",
@@ -5413,17 +5413,6 @@
    "charge": "Operate After Rev/Susp Of Registration",
    "more": 2,
    "ts": 1793663637,
-   "photo": null
-  },
-  {
-   "key": "LUOMA_BENJAMIN_2026-11-02",
-   "name": "Benjamin R Luoma",
-   "age": "26",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793663230,
    "photo": null
   }
  ]
