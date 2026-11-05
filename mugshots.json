@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T00:28:34+00:00",
+ "updated": "2026-11-05T00:49:29+00:00",
  "items": [
+  {
+   "key": "RC_SEAY_NAKI_120011075948858",
+   "name": "Naki Seay",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
+   "more": 0,
+   "ts": 1793839669,
+   "photo": null
+  },
   {
    "key": "MKE_SANCHEZ_MARCOS_648134",
    "name": "Marcos A Sanchez",
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1793829463,
    "photo": null
-  },
-  {
-   "key": "RC_STEWART_SUNNY_120011075944868",
-   "name": "Sunny S Stewart",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793828881,
-   "photo": "photos/RC_STEWART_SUNNY_120011075944868.jpg"
   },
   {
    "key": "SANCHEZRODRIGUEZ_SAULO_2026-11-04",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_SEAY_NAKI_120011075948858",
+   "name": "Naki Seay",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
+   "more": 0,
+   "ts": 1793839669,
+   "photo": null
+  },
   {
    "key": "MKE_SANCHEZ_MARCOS_648134",
    "name": "Marcos A Sanchez",
@@ -5216,17 +5227,6 @@
    "more": 5,
    "ts": 1793580844,
    "photo": "photos/KEN_HICKSURQUHART_DEQUAN_2026-00006046.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_XAVIER_120011075819563",
-   "name": "Xavier Ramone Williams",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793580477,
-   "photo": "photos/RC_WILLIAMS_XAVIER_120011075819563.jpg"
   }
  ]
 }
