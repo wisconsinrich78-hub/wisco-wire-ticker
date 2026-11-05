@@ -1,13 +1,46 @@
 {
- "updated": "2026-11-05T20:00:10+00:00",
+ "updated": "2026-11-05T20:29:22+00:00",
  "items": [
+  {
+   "key": "MKE_HAWTHORNE_ROMAINE_413095",
+   "name": "Romaine Martel Hawthorne",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 5,
+   "ts": 1793910458,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_ZYSEAN_636018",
+   "name": "Zysean L Carter",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 7,
+   "ts": 1793910457,
+   "photo": null
+  },
+  {
+   "key": "PALUBICKI_TIMOTHY_2026-11-05",
+   "name": "Timothy J Palubicki",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793910422,
+   "photo": null
+  },
   {
    "key": "KEN_SMITH_GILL_2026-00006116",
    "name": "Gill Lavonne Smith",
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793908805,
    "photo": "photos/KEN_SMITH_GILL_2026-00006116.jpg"
@@ -187,28 +220,6 @@
    "more": 0,
    "ts": 1793903284,
    "photo": "photos/MKE_HUTCHINS_TERYN_266904.jpg"
-  },
-  {
-   "key": "MKE_GUZMANBUENO_ERIC_648146",
-   "name": "Eric Mauricio Guzman Bueno",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793903281,
-   "photo": null
-  },
-  {
-   "key": "MKE_GONZALEZ_ADAREUS_640533",
-   "name": "Adareus Gonzalez",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793903279,
-   "photo": null
   },
   {
    "key": "CHRISTENSON_MORGAN_2026-11-05",
@@ -517,27 +528,49 @@
    "more": 0,
    "ts": 1793851152,
    "photo": "photos/MAR_BURKS_MATTHEW_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_LAMPKIN_ADAM_2026-11-04_4269520",
-   "name": "Adam John Lampkin",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793851112,
-   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-04_4269520.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HAWTHORNE_ROMAINE_413095",
+   "name": "Romaine Martel Hawthorne",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 5,
+   "ts": 1793910458,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_ZYSEAN_636018",
+   "name": "Zysean L Carter",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 7,
+   "ts": 1793910457,
+   "photo": null
+  },
+  {
+   "key": "PALUBICKI_TIMOTHY_2026-11-05",
+   "name": "Timothy J Palubicki",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793910422,
+   "photo": null
+  },
   {
    "key": "KEN_SMITH_GILL_2026-00006116",
    "name": "Gill Lavonne Smith",
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793908805,
    "photo": "photos/KEN_SMITH_GILL_2026-00006116.jpg"
@@ -812,7 +845,7 @@
    "age": "18",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Misd",
    "more": 0,
    "ts": 1793900001,
    "photo": null
@@ -834,7 +867,7 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793899879,
    "photo": "photos/KEN_DAVIS_JOE_2026-00006111.jpg"
@@ -845,8 +878,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Battery",
+   "more": 2,
    "ts": 1793899801,
    "photo": null
   },
@@ -1156,7 +1189,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793887069,
-   "photo": null
+   "photo": "photos/MKE_SIMMONS_TYRONE_608964.jpg"
   },
   {
    "key": "MKE_HEGWOOD_SHAMAR_293993",
@@ -5348,50 +5381,6 @@
    "more": 0,
    "ts": 1793652470,
    "photo": "photos/RC_CONNER_BRITTANY_120011075852414.jpg"
-  },
-  {
-   "key": "MKE_RYAN_BOBBY_623876",
-   "name": "Bobby Daniel Ryan",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1793651263,
-   "photo": "photos/MKE_RYAN_BOBBY_623876.jpg"
-  },
-  {
-   "key": "MKE_PERRY_CHRISTIAN_395756",
-   "name": "Christian A Perry",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 2,
-   "ts": 1793651260,
-   "photo": "photos/MKE_PERRY_CHRISTIAN_395756.jpg"
-  },
-  {
-   "key": "MKE_ANAYA_IVAN_646854",
-   "name": "Ivan Alberto Anaya",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Reckless Driving-Cause Bodily Harm",
-   "more": 7,
-   "ts": 1793651258,
-   "photo": "photos/MKE_ANAYA_IVAN_646854.jpg"
-  },
-  {
-   "key": "ABSTON_DANIEL_2026-11-02",
-   "name": "Daniel L C Abston",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793651229,
-   "photo": null
   }
  ]
 }
