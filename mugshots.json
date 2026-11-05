@@ -1,14 +1,124 @@
 {
- "updated": "2026-11-05T17:07:03+00:00",
+ "updated": "2026-11-05T17:44:21+00:00",
  "items": [
+  {
+   "key": "MAR_SCHROEDER_THOMAS_2024-08-18",
+   "name": "Thomas Lee Schroeder",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Felony Murder",
+   "more": 2,
+   "ts": 1793900505,
+   "photo": "photos/MAR_SCHROEDER_THOMAS_2024-08-18.jpg"
+  },
+  {
+   "key": "KEN_WILLIAMSROPER_LARRY_2026-00006110",
+   "name": "Larry Williams- Roper",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793900001,
+   "photo": null
+  },
+  {
+   "key": "KEN_ENCARNACION_DEANGELO_2026-00006104",
+   "name": "Deangelo Rashad Encarnacion",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793899963,
+   "photo": "photos/KEN_ENCARNACION_DEANGELO_2026-00006104.jpg"
+  },
+  {
+   "key": "KEN_DAVIS_JOE_2026-00006111",
+   "name": "JOE RICHARD Junior DAVIS",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793899879,
+   "photo": "photos/KEN_DAVIS_JOE_2026-00006111.jpg"
+  },
+  {
+   "key": "KEN_BAILEYPRESCOTT_JESSE_2026-00006107",
+   "name": "Jesse Junior Bailey-Prescott",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793899801,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCPHAN_DELMONTE_364629",
+   "name": "Delmonte Patrace Mcphan",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1793899659,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENNETT_ARVIL_197945",
+   "name": "Arvil M Bennett",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793899656,
+   "photo": null
+  },
+  {
+   "key": "ANDERSON_TANNER_2026-11-05",
+   "name": "Tanner T Anderson",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Justice Sanctions",
+   "more": 0,
+   "ts": 1793899404,
+   "photo": null
+  },
+  {
+   "key": "ERICKSON_RICHARD_2026-11-05",
+   "name": "Richard D Erickson",
+   "age": "28",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793899404,
+   "photo": null
+  },
+  {
+   "key": "DOU_MACKIE_ARLENE_2026-11-05",
+   "name": "Arlene R Mackie",
+   "age": "56",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1793899032,
+   "photo": "photos/DOU_MACKIE_ARLENE_2026-11-05.jpg"
+  },
   {
    "key": "MKE_COFFIN_RENO_292587",
    "name": "Reno Deangelo Coffin",
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793897860,
    "photo": null
   },
@@ -41,7 +151,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 8,
+   "more": 1,
    "ts": 1793894432,
    "photo": null
   },
@@ -62,8 +172,8 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 6,
    "ts": 1793894429,
    "photo": "photos/KEN_RUPPKENT_CHUCK_2026-00006106.jpg"
   },
@@ -73,8 +183,8 @@
    "age": "38",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
    "ts": 1793894344,
    "photo": "photos/KEN_MOSANSKY_JULIUS_2026-00006105.jpg"
   },
@@ -178,17 +288,6 @@
    "photo": "photos/MAR_FULLER_JOSHUA_2026-11-03_2278916.jpg"
   },
   {
-   "key": "KEN_ORTIZ_AMARYLLIZ_2026-00006099",
-   "name": "Amarylliz Ortiz",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1793891009,
-   "photo": "photos/KEN_ORTIZ_AMARYLLIZ_2026-00006099.jpg"
-  },
-  {
    "key": "MAR_SIMMONS_TRACEY_2026-11-04",
    "name": "Tracey Marie Simmons",
    "age": "55",
@@ -209,61 +308,6 @@
    "more": 1,
    "ts": 1793890945,
    "photo": "photos/MAR_HERRICK_KIANA_2026-11-04.jpg"
-  },
-  {
-   "key": "KEN_JILES_TYRONE_2026-00006098",
-   "name": "TYRONE MONTOY Third JILES",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793890934,
-   "photo": "photos/KEN_JILES_TYRONE_2026-00006098.jpg"
-  },
-  {
-   "key": "KEN_BAILEYPRESCOTT_BRANDON_2026-00006103",
-   "name": "Brandon J Bailey-Prescott",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793890846,
-   "photo": null
-  },
-  {
-   "key": "MKE_WHITE_FREDDIE_412668",
-   "name": "Freddie White",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793888893,
-   "photo": "photos/MKE_WHITE_FREDDIE_412668.jpg"
-  },
-  {
-   "key": "MKE_SIMMONS_TYRONE_608964",
-   "name": "Tyrone D Simmons",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793887069,
-   "photo": null
-  },
-  {
-   "key": "MKE_HEGWOOD_SHAMAR_293993",
-   "name": "Shamar L Hegwood",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793887066,
-   "photo": null
   },
   {
    "key": "XIONG_TOU_2026-11-05",
@@ -475,28 +519,6 @@
    "photo": null
   },
   {
-   "key": "MAR_GOSCH_TAMMIE_2026-11-02_547917",
-   "name": "Tammie Annette Gosch",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793847385,
-   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-02_547917.jpg"
-  },
-  {
-   "key": "MAR_SWAN_MATTHEW_2026-11-04",
-   "name": "Matthew Kristopher Swan",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Take/Drive/Oper. Veh. W/O Consent-Abandn",
-   "more": 0,
-   "ts": 1793847350,
-   "photo": null
-  },
-  {
    "key": "HOU_MIRANDAGARCIA_JUANJOSE_6327",
    "name": "Juan Jose Miranda Garcia",
    "age": "32",
@@ -506,39 +528,127 @@
    "more": 0,
    "ts": 1793843233,
    "photo": "photos/HOU_MIRANDAGARCIA_JUANJOSE_6327.jpg"
-  },
-  {
-   "key": "FDL_MORALES_ANTONIO_2026-11-04",
-   "name": "Antonio Joseph Morales",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WARRANT (x2)",
-   "more": 0,
-   "ts": 1793830764,
-   "photo": "photos/FDL_MORALES_ANTONIO_2026-11-04.jpg"
-  },
-  {
-   "key": "SANCHEZRODRIGUEZ_SAULO_2026-11-04",
-   "name": "Saulo Sanchez Rodriguez",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1793828826,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_SCHROEDER_THOMAS_2024-08-18",
+   "name": "Thomas Lee Schroeder",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Felony Murder",
+   "more": 2,
+   "ts": 1793900505,
+   "photo": "photos/MAR_SCHROEDER_THOMAS_2024-08-18.jpg"
+  },
+  {
+   "key": "KEN_WILLIAMSROPER_LARRY_2026-00006110",
+   "name": "Larry Williams- Roper",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793900001,
+   "photo": null
+  },
+  {
+   "key": "KEN_ENCARNACION_DEANGELO_2026-00006104",
+   "name": "Deangelo Rashad Encarnacion",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1793899963,
+   "photo": "photos/KEN_ENCARNACION_DEANGELO_2026-00006104.jpg"
+  },
+  {
+   "key": "KEN_DAVIS_JOE_2026-00006111",
+   "name": "JOE RICHARD Junior DAVIS",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793899879,
+   "photo": "photos/KEN_DAVIS_JOE_2026-00006111.jpg"
+  },
+  {
+   "key": "KEN_BAILEYPRESCOTT_JESSE_2026-00006107",
+   "name": "Jesse Junior Bailey-Prescott",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793899801,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCPHAN_DELMONTE_364629",
+   "name": "Delmonte Patrace Mcphan",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1793899659,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENNETT_ARVIL_197945",
+   "name": "Arvil M Bennett",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793899656,
+   "photo": null
+  },
+  {
+   "key": "ANDERSON_TANNER_2026-11-05",
+   "name": "Tanner T Anderson",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Justice Sanctions",
+   "more": 0,
+   "ts": 1793899404,
+   "photo": null
+  },
+  {
+   "key": "ERICKSON_RICHARD_2026-11-05",
+   "name": "Richard D Erickson",
+   "age": "28",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793899404,
+   "photo": null
+  },
+  {
+   "key": "DOU_MACKIE_ARLENE_2026-11-05",
+   "name": "Arlene R Mackie",
+   "age": "56",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1793899032,
+   "photo": "photos/DOU_MACKIE_ARLENE_2026-11-05.jpg"
+  },
   {
    "key": "MKE_COFFIN_RENO_292587",
    "name": "Reno Deangelo Coffin",
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793897860,
    "photo": null
   },
@@ -571,7 +681,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 8,
+   "more": 1,
    "ts": 1793894432,
    "photo": null
   },
@@ -592,8 +702,8 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 6,
    "ts": 1793894429,
    "photo": "photos/KEN_RUPPKENT_CHUCK_2026-00006106.jpg"
   },
@@ -603,8 +713,8 @@
    "age": "38",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
    "ts": 1793894344,
    "photo": "photos/KEN_MOSANSKY_JULIUS_2026-00006105.jpg"
   },
@@ -757,10 +867,10 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "False Imprisonment",
+   "more": 2,
    "ts": 1793890846,
-   "photo": null
+   "photo": "photos/KEN_BAILEYPRESCOTT_BRANDON_2026-00006103.jpg"
   },
   {
    "key": "MKE_WHITE_FREDDIE_412668",
@@ -5358,39 +5468,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793641626,
-   "photo": null
-  },
-  {
-   "key": "MKE_CAPPEL_JODI_648095",
-   "name": "Jodi L Cappel",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793640464,
-   "photo": "photos/MKE_CAPPEL_JODI_648095.jpg"
-  },
-  {
-   "key": "MKE_ARNOLD_DANTRELL_283952",
-   "name": "Dantrell Tremone Arnold",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793640462,
-   "photo": "photos/MKE_ARNOLD_DANTRELL_283952.jpg"
-  },
-  {
-   "key": "JACKSON_RENADO_2026-11-02",
-   "name": "Renado Jackson",
-   "age": "62",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Serving A Sentence Without Huber",
-   "more": 0,
-   "ts": 1793640421,
    "photo": null
   }
  ]
