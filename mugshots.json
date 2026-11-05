@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T04:28:24+00:00",
+ "updated": "2026-11-05T04:49:34+00:00",
  "items": [
+  {
+   "key": "RC_OWENS_TYRON_120011075953481",
+   "name": "Tyron Owens",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793854073,
+   "photo": null
+  },
   {
    "key": "MAR_BURKS_MATTHEW_2026-11-04",
    "name": "Matthew Campbell Burks",
@@ -365,17 +376,6 @@
    "photo": "photos/MAR_BENDER_CEDRICK_2026-11-04_11104.jpg"
   },
   {
-   "key": "KEN_NICHOLS_DEUNDRA_2026-00006094",
-   "name": "Deundra Da Mircle Nichols",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793836565,
-   "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
-  },
-  {
    "key": "FDL_MORALES_ANTONIO_2026-11-04",
    "name": "Antonio Joseph Morales",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_OWENS_TYRON_120011075953481",
+   "name": "Tyron Owens",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793854073,
+   "photo": null
+  },
   {
    "key": "MAR_BURKS_MATTHEW_2026-11-04",
    "name": "Matthew Campbell Burks",
