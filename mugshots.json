@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T11:27:22+00:00",
+ "updated": "2026-11-05T11:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_WEST_MILON_511481",
+   "name": "Milon Devontae West",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793878061,
+   "photo": null
+  },
+  {
+   "key": "MKE_KING_ANTHONY_204655",
+   "name": "Anthony Pernell King",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793878059,
+   "photo": null
+  },
   {
    "key": "TREM_MORFORD_SCOTT_1844",
    "name": "Scott Leroy Morford",
@@ -186,28 +208,6 @@
    "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1793861270,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_PARKER_640716",
-   "name": "Parker Elise Jean Johnson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793860068,
-   "photo": null
-  },
-  {
-   "key": "MKE_BERNARD_KEITH_648140",
-   "name": "Keith C Bernard",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793860066,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WEST_MILON_511481",
+   "name": "Milon Devontae West",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793878061,
+   "photo": null
+  },
+  {
+   "key": "MKE_KING_ANTHONY_204655",
+   "name": "Anthony Pernell King",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793878059,
+   "photo": null
+  },
   {
    "key": "TREM_MORFORD_SCOTT_1844",
    "name": "Scott Leroy Morford",
