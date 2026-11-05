@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T02:58:23+00:00",
+ "updated": "2026-11-05T03:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_SOBCZAKSILVA_ZAHID_635811",
+   "name": "Zahid M Sobczak-Silva",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793849262,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBERTS_JENNIFER_297593",
+   "name": "Jennifer Mcquay Roberts",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793849260,
+   "photo": null
+  },
+  {
+   "key": "FDL_PERSINGER_KYLE_2026-11-04",
+   "name": "Kyle Mitchell Persinger",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793848608,
+   "photo": null
+  },
   {
    "key": "MAR_GOSCH_TAMMIE_2026-11-02_547917",
    "name": "Tammie Annette Gosch",
@@ -332,28 +365,6 @@
    "photo": "photos/FDL_MORALES_ANTONIO_2026-11-04.jpg"
   },
   {
-   "key": "MKE_THACKER_DAVASSO_645491",
-   "name": "Davasso Thacker",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 3,
-   "ts": 1793829478,
-   "photo": null
-  },
-  {
-   "key": "MKE_SALIM_ADAM_641060",
-   "name": "Adam Salim",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 1,
-   "ts": 1793829476,
-   "photo": null
-  },
-  {
    "key": "SANCHEZRODRIGUEZ_SAULO_2026-11-04",
    "name": "Saulo Sanchez Rodriguez",
    "age": "18",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1793771226,
    "photo": null
-  },
-  {
-   "key": "FDL_WEELDREYER_EMILY_2026-11-03",
-   "name": "Emily Eileen Weeldreyer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793769451,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SOBCZAKSILVA_ZAHID_635811",
+   "name": "Zahid M Sobczak-Silva",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793849262,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBERTS_JENNIFER_297593",
+   "name": "Jennifer Mcquay Roberts",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793849260,
+   "photo": null
+  },
+  {
+   "key": "FDL_PERSINGER_KYLE_2026-11-04",
+   "name": "Kyle Mitchell Persinger",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793848608,
+   "photo": null
+  },
   {
    "key": "MAR_GOSCH_TAMMIE_2026-11-02_547917",
    "name": "Tammie Annette Gosch",
@@ -911,10 +944,10 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Posses W/Intent-Fentanyl (>10-50)",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
    "more": 17,
    "ts": 1793829470,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_JEREMY_351025.jpg"
   },
   {
    "key": "MKE_BUCHANAN_JUNE_525584",
@@ -1585,7 +1618,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793807872,
-   "photo": null
+   "photo": "photos/MKE_GONZALEZ_IZAK_648124.jpg"
   },
   {
    "key": "MKE_GARNER_SHIKELA_646900",
@@ -5172,61 +5205,6 @@
    "more": 2,
    "ts": 1793591721,
    "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_12254902.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_VANCE_120011075824481",
-   "name": "Vance L Johnson",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Burglary - Building Or Dwelling",
-   "more": 4,
-   "ts": 1793591274,
-   "photo": "photos/RC_JOHNSON_VANCE_120011075824481.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_CAROLINE_120011075824354",
-   "name": "Caroline Tashaundra Johnson",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Burglary - Building Or Dwelling",
-   "more": 4,
-   "ts": 1793591271,
-   "photo": "photos/RC_JOHNSON_CAROLINE_120011075824354.jpg"
-  },
-  {
-   "key": "MKE_REDMOND_LEON_648085",
-   "name": "Leon Albert Redmond",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793590062,
-   "photo": "photos/MKE_REDMOND_LEON_648085.jpg"
-  },
-  {
-   "key": "SWEENEY_ERIC_2026-11-01",
-   "name": "Eric J Sweeney",
-   "age": "52",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793590024,
-   "photo": null
-  },
-  {
-   "key": "DOU_WUORINEN_ROBERT_2026-11-01",
-   "name": "Robert R Wuorinen",
-   "age": "47",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1793589444,
-   "photo": "photos/DOU_WUORINEN_ROBERT_2026-11-01.jpg"
   }
  ]
 }
