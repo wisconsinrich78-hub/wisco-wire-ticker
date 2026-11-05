@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T08:05:22+00:00",
+ "updated": "2026-11-05T08:49:30+00:00",
  "items": [
+  {
+   "key": "RC_PAYNE_LAMAR_120011075957786",
+   "name": "Lamar A Payne",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "First Degree Intentional Homicide",
+   "more": 0,
+   "ts": 1793868479,
+   "photo": null
+  },
+  {
+   "key": "RC_MCWHORTER_JIMMIE_120011075958366",
+   "name": "Jimmie Dale Mcwhorter",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793868477,
+   "photo": "photos/RC_MCWHORTER_JIMMIE_120011075958366.jpg"
+  },
+  {
+   "key": "MKE_NIEVES_CARLOS_648143",
+   "name": "Carlos JUAN Nieves",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
+   "more": 2,
+   "ts": 1793867265,
+   "photo": null
+  },
   {
    "key": "MKE_CLAVELLORTIZ_ALEJANDRO_648141",
    "name": "Alejandro Clavell-Ortiz",
@@ -219,7 +252,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793854656,
-   "photo": null
+   "photo": "photos/MKE_STREGE_AMYA_648139.jpg"
   },
   {
    "key": "MKE_SINGLETON_ANTONIO_648138",
@@ -255,17 +288,6 @@
    "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04_133709.jpg"
   },
   {
-   "key": "RC_OWENS_TYRON_120011075953481",
-   "name": "Tyron Owens",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793854073,
-   "photo": null
-  },
-  {
    "key": "MAR_BURKS_MATTHEW_2026-11-04",
    "name": "Matthew Campbell Burks",
    "age": "38",
@@ -297,28 +319,6 @@
    "more": 0,
    "ts": 1793851075,
    "photo": "photos/MAR_WIDMANN_CHAD_2026-11-04_2985307.jpg"
-  },
-  {
-   "key": "MKE_MALONE_KEANDRE_645336",
-   "name": "Keandre DT Malone",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793851057,
-   "photo": null
-  },
-  {
-   "key": "MKE_LEMON_CRAIG_377671",
-   "name": "Craig Lemon Lemon",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793851054,
-   "photo": null
   },
   {
    "key": "MAR_LINDQUIST_JUSTIN_2026-11-04_2337703",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "RC_PAYNE_LAMAR_120011075957786",
+   "name": "Lamar A Payne",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "First Degree Intentional Homicide",
+   "more": 0,
+   "ts": 1793868479,
+   "photo": null
+  },
+  {
+   "key": "RC_MCWHORTER_JIMMIE_120011075958366",
+   "name": "Jimmie Dale Mcwhorter",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793868477,
+   "photo": "photos/RC_MCWHORTER_JIMMIE_120011075958366.jpg"
+  },
+  {
+   "key": "MKE_NIEVES_CARLOS_648143",
+   "name": "Carlos JUAN Nieves",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
+   "more": 2,
+   "ts": 1793867265,
+   "photo": null
+  },
+  {
    "key": "MKE_CLAVELLORTIZ_ALEJANDRO_648141",
    "name": "Alejandro Clavell-Ortiz",
    "age": "25",
@@ -749,7 +782,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793854656,
-   "photo": null
+   "photo": "photos/MKE_STREGE_AMYA_648139.jpg"
   },
   {
    "key": "MKE_SINGLETON_ANTONIO_648138",
@@ -1527,7 +1560,7 @@
    "age": "41",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "charge": "1st-Degree Intentional Homicide",
    "more": 8,
    "ts": 1793824095,
    "photo": null
@@ -5337,17 +5370,6 @@
    "more": 0,
    "ts": 1793609796,
    "photo": "photos/KEN_MADRIZ_ELBA_2026-00006052.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_DEVIN_648089",
-   "name": "Devin Montel Johnson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793608065,
-   "photo": "photos/MKE_JOHNSON_DEVIN_648089.jpg"
   }
  ]
 }
