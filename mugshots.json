@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T16:49:52+00:00",
+ "updated": "2026-11-05T17:07:03+00:00",
  "items": [
+  {
+   "key": "MKE_COFFIN_RENO_292587",
+   "name": "Reno Deangelo Coffin",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793897860,
+   "photo": null
+  },
   {
    "key": "ASHMORE_DAVID_2026-11-05",
    "name": "David J Ashmore",
@@ -29,8 +40,8 @@
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 8,
    "ts": 1793894432,
    "photo": null
   },
@@ -253,17 +264,6 @@
    "more": 2,
    "ts": 1793887066,
    "photo": null
-  },
-  {
-   "key": "MKE_SPENCER_CORY_617360",
-   "name": "Cory David Spencer",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 1,
-   "ts": 1793883461,
-   "photo": "photos/MKE_SPENCER_CORY_617360.jpg"
   },
   {
    "key": "XIONG_TOU_2026-11-05",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_COFFIN_RENO_292587",
+   "name": "Reno Deangelo Coffin",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793897860,
+   "photo": null
+  },
+  {
    "key": "ASHMORE_DAVID_2026-11-05",
    "name": "David J Ashmore",
    "age": "39",
@@ -559,8 +570,8 @@
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 8,
    "ts": 1793894432,
    "photo": null
   },
@@ -1156,7 +1167,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793856453,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_TIMOTHY_602375.jpg"
   },
   {
    "key": "DRIVER_DARIUS_2026-11-04",
@@ -5381,50 +5392,6 @@
    "more": 0,
    "ts": 1793640421,
    "photo": null
-  },
-  {
-   "key": "MKE_WILEY_KAHMANI_636727",
-   "name": "Kahmani Amir Josiah Wiley",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 6,
-   "ts": 1793638703,
-   "photo": "photos/MKE_WILEY_KAHMANI_636727.jpg"
-  },
-  {
-   "key": "MKE_PEREZ_KEJUAN_614134",
-   "name": "Kejuan Vito Perez",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 6,
-   "ts": 1793638697,
-   "photo": "photos/MKE_PEREZ_KEJUAN_614134.jpg"
-  },
-  {
-   "key": "MKE_KARLIK_ALISSA_648094",
-   "name": "Alissa Jo Karlik",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793638694,
-   "photo": "photos/MKE_KARLIK_ALISSA_648094.jpg"
-  },
-  {
-   "key": "MAR_HINZ_COURTNEY_2026-11-02_17016001",
-   "name": "Courtney Hinz",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1793638585,
-   "photo": "photos/MAR_HINZ_COURTNEY_2026-11-02_17016001.jpg"
   }
  ]
 }
