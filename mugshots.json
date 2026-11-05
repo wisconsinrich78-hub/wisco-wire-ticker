@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-05T15:59:48+00:00",
+ "updated": "2026-11-05T16:49:52+00:00",
  "items": [
+  {
+   "key": "ASHMORE_DAVID_2026-11-05",
+   "name": "David J Ashmore",
+   "age": "39",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793897233,
+   "photo": null
+  },
+  {
+   "key": "ASHMORE_CHRISTINA_2026-11-05",
+   "name": "Christina L Ashmore",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793896091,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBYCLARK_KENDREA_647212",
+   "name": "Kendrea S Roby Clark",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793894432,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOYD_KWAMI_624097",
+   "name": "Kwami M Boyd",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793894430,
+   "photo": null
+  },
+  {
+   "key": "KEN_RUPPKENT_CHUCK_2026-00006106",
+   "name": "CHUCK ALFONZO Junior RUPP-KENT",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793894429,
+   "photo": "photos/KEN_RUPPKENT_CHUCK_2026-00006106.jpg"
+  },
   {
    "key": "KEN_MOSANSKY_JULIUS_2026-00006105",
    "name": "Julius A Mosansky",
@@ -29,7 +84,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1793892580,
    "photo": null
@@ -175,7 +230,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793888893,
-   "photo": null
+   "photo": "photos/MKE_WHITE_FREDDIE_412668.jpg"
   },
   {
    "key": "MKE_SIMMONS_TYRONE_608964",
@@ -195,7 +250,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 1,
+   "more": 2,
    "ts": 1793887066,
    "photo": null
   },
@@ -208,29 +263,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 1,
    "ts": 1793883461,
-   "photo": null
-  },
-  {
-   "key": "MKE_DUNCAN_BETHANEY_2066892",
-   "name": "Bethaney D Duncan",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793883458,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALLEN_KAMAL_643775",
-   "name": "Kamal N Allen",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793883457,
-   "photo": null
+   "photo": "photos/MKE_SPENCER_CORY_617360.jpg"
   },
   {
    "key": "XIONG_TOU_2026-11-05",
@@ -252,17 +285,6 @@
    "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1793880964,
-   "photo": null
-  },
-  {
-   "key": "MKE_WEST_MILON_511481",
-   "name": "Milon Devontae West",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793878061,
    "photo": null
   },
   {
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1793828826,
    "photo": null
-  },
-  {
-   "key": "WILSON_ANTHONY_2026-11-04",
-   "name": "Anthony D Wilson",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1793827625,
-   "photo": null
-  },
-  {
-   "key": "VESSELL_SHANNON_2026-11-04",
-   "name": "Shannon N Vessell",
-   "age": "52",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Court",
-   "more": 0,
-   "ts": 1793821634,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "ASHMORE_DAVID_2026-11-05",
+   "name": "David J Ashmore",
+   "age": "39",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793897233,
+   "photo": null
+  },
+  {
+   "key": "ASHMORE_CHRISTINA_2026-11-05",
+   "name": "Christina L Ashmore",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793896091,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBYCLARK_KENDREA_647212",
+   "name": "Kendrea S Roby Clark",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793894432,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOYD_KWAMI_624097",
+   "name": "Kwami M Boyd",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793894430,
+   "photo": null
+  },
+  {
+   "key": "KEN_RUPPKENT_CHUCK_2026-00006106",
+   "name": "CHUCK ALFONZO Junior RUPP-KENT",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793894429,
+   "photo": "photos/KEN_RUPPKENT_CHUCK_2026-00006106.jpg"
+  },
   {
    "key": "KEN_MOSANSKY_JULIUS_2026-00006105",
    "name": "Julius A Mosansky",
@@ -559,7 +614,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1793892580,
    "photo": null
@@ -705,7 +760,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793888893,
-   "photo": null
+   "photo": "photos/MKE_WHITE_FREDDIE_412668.jpg"
   },
   {
    "key": "MKE_SIMMONS_TYRONE_608964",
@@ -725,7 +780,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 1,
+   "more": 2,
    "ts": 1793887066,
    "photo": null
   },
@@ -738,7 +793,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 1,
    "ts": 1793883461,
-   "photo": null
+   "photo": "photos/MKE_SPENCER_CORY_617360.jpg"
   },
   {
    "key": "MKE_DUNCAN_BETHANEY_2066892",
@@ -749,7 +804,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793883458,
-   "photo": null
+   "photo": "photos/MKE_DUNCAN_BETHANEY_2066892.jpg"
   },
   {
    "key": "MKE_ALLEN_KAMAL_643775",
@@ -757,10 +812,10 @@
    "age": "38",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Habitual Criminality",
+   "more": 11,
    "ts": 1793883457,
-   "photo": null
+   "photo": "photos/MKE_ALLEN_KAMAL_643775.jpg"
   },
   {
    "key": "XIONG_TOU_2026-11-05",
@@ -914,7 +969,7 @@
    "charge": "Resist Officer-Failure To Stop Vehicle",
    "more": 0,
    "ts": 1793865462,
-   "photo": null
+   "photo": "photos/MKE_CLAVELLORTIZ_ALEJANDRO_648141.jpg"
   },
   {
    "key": "MKE_CHILDS_SHANITA_2052278",
@@ -1013,7 +1068,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793860066,
-   "photo": null
+   "photo": "photos/MKE_BERNARD_KEITH_648140.jpg"
   },
   {
    "key": "WILLERT_GARY_2026-11-05",
@@ -1090,7 +1145,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793856455,
-   "photo": null
+   "photo": "photos/MKE_WHALEY_QUASHAWN_642547.jpg"
   },
   {
    "key": "MKE_EDWARDS_TIMOTHY_602375",
@@ -1134,7 +1189,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793854654,
-   "photo": null
+   "photo": "photos/MKE_SINGLETON_ANTONIO_648138.jpg"
   },
   {
    "key": "MAR_HULL_WENDY_2026-11-04",
@@ -1211,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793851057,
-   "photo": null
+   "photo": "photos/MKE_MALONE_KEANDRE_645336.jpg"
   },
   {
    "key": "MKE_LEMON_CRAIG_377671",
@@ -1222,7 +1277,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793851054,
-   "photo": null
+   "photo": "photos/MKE_LEMON_CRAIG_377671.jpg"
   },
   {
    "key": "MKE_COOPER_THOMAS_2030114",
@@ -5370,28 +5425,6 @@
    "more": 0,
    "ts": 1793638585,
    "photo": "photos/MAR_HINZ_COURTNEY_2026-11-02_17016001.jpg"
-  },
-  {
-   "key": "LIMESTAHL_TODD_2026-11-02",
-   "name": "Todd W Limestahl",
-   "age": "60",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1793638024,
-   "photo": null
-  },
-  {
-   "key": "FDL_BEAUGRAND_DAVID_2026-11-02",
-   "name": "David Dean Beaugrand",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793636163,
-   "photo": "photos/FDL_BEAUGRAND_DAVID_2026-11-02.jpg"
   }
  ]
 }
