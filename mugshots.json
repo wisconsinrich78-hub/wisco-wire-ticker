@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T20:55:54+00:00",
+ "updated": "2026-11-05T21:27:42+00:00",
  "items": [
+  {
+   "key": "MKE_SHELBY_AVERY_618341",
+   "name": "Avery Alexander Shelby",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793914056,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAWKINS_DANIEL_340124",
+   "name": "Daniel Hawkins",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca (2nd+)",
+   "more": 3,
+   "ts": 1793914055,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARRINGTON_ALEXIS_385243",
+   "name": "Alexis Brittany Carrington",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793914053,
+   "photo": null
+  },
   {
    "key": "RC_ANDRESEN_CONNIE_120011075980822",
    "name": "Connie Jean Andresen",
@@ -187,39 +220,6 @@
    "more": 2,
    "ts": 1793905058,
    "photo": null
-  },
-  {
-   "key": "MKE_LEWIS_COYMATHIS_400978",
-   "name": "Coymathis Erma Lewis",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 1,
-   "ts": 1793905056,
-   "photo": null
-  },
-  {
-   "key": "RC_RUSH_KARAN_120011075975498",
-   "name": "Karan Terrell Rush",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793904473,
-   "photo": "photos/RC_RUSH_KARAN_120011075975498.jpg"
-  },
-  {
-   "key": "RC_BENJAMIN_DOMINICK_120011075975705",
-   "name": "Dominick I Benjamin",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793904471,
-   "photo": "photos/RC_BENJAMIN_DOMINICK_120011075975705.jpg"
   },
   {
    "key": "CHRISTENSON_MORGAN_2026-11-05",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SHELBY_AVERY_618341",
+   "name": "Avery Alexander Shelby",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793914056,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAWKINS_DANIEL_340124",
+   "name": "Daniel Hawkins",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca (2nd+)",
+   "more": 3,
+   "ts": 1793914055,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARRINGTON_ALEXIS_385243",
+   "name": "Alexis Brittany Carrington",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793914053,
+   "photo": null
+  },
   {
    "key": "RC_ANDRESEN_CONNIE_120011075980822",
    "name": "Connie Jean Andresen",
@@ -5359,17 +5392,6 @@
    "more": 0,
    "ts": 1793654869,
    "photo": "photos/MKE_ALVARADO_JAIME_270149.jpg"
-  },
-  {
-   "key": "LUBA_JOSHUA_2026-11-02",
-   "name": "Joshua J Luba",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Unlawful Phone Use-Threatens Harm",
-   "more": 0,
-   "ts": 1793654823,
-   "photo": null
   }
  ]
 }
