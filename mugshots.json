@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T00:49:29+00:00",
+ "updated": "2026-11-05T01:49:28+00:00",
  "items": [
+  {
+   "key": "HOU_MIRANDAGARCIA_JUANJOSE_6327",
+   "name": "Juan Jose Miranda Garcia",
+   "age": "32",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic-Drivers License-Driving After Suspens (1-Court Pending)",
+   "more": 0,
+   "ts": 1793843233,
+   "photo": "photos/HOU_MIRANDAGARCIA_JUANJOSE_6327.jpg"
+  },
+  {
+   "key": "MKE_CARRANZAPOLANCO_RAFAEL_648135",
+   "name": "Rafael Carranza Polanco",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793840404,
+   "photo": null
+  },
   {
    "key": "RC_SEAY_NAKI_120011075948858",
    "name": "Naki Seay",
@@ -227,7 +249,7 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Posses W/Intent-Fentanyl (>10-50)",
+   "charge": "Habitual Criminality",
    "more": 17,
    "ts": 1793829470,
    "photo": null
@@ -241,17 +263,6 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 11,
    "ts": 1793829465,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROOKS_KEIMON_618977",
-   "name": "Keimon Romell Brooks",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 0,
-   "ts": 1793829463,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793769451,
    "photo": null
-  },
-  {
-   "key": "ISETTS_ELIZABETH_2026-11-03",
-   "name": "Elizabeth G Isetts",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Retail Theft-Alter Price <=$2,500",
-   "more": 0,
-   "ts": 1793762821,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "HOU_MIRANDAGARCIA_JUANJOSE_6327",
+   "name": "Juan Jose Miranda Garcia",
+   "age": "32",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic-Drivers License-Driving After Suspens (1-Court Pending)",
+   "more": 0,
+   "ts": 1793843233,
+   "photo": "photos/HOU_MIRANDAGARCIA_JUANJOSE_6327.jpg"
+  },
+  {
+   "key": "MKE_CARRANZAPOLANCO_RAFAEL_648135",
+   "name": "Rafael Carranza Polanco",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793840404,
+   "photo": null
+  },
   {
    "key": "RC_SEAY_NAKI_120011075948858",
    "name": "Naki Seay",
@@ -757,7 +779,7 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Posses W/Intent-Fentanyl (>10-50)",
+   "charge": "Habitual Criminality",
    "more": 17,
    "ts": 1793829470,
    "photo": null
@@ -5161,72 +5183,6 @@
    "more": 3,
    "ts": 1793584414,
    "photo": null
-  },
-  {
-   "key": "RC_ZAMITALO_STEVEN_120011075821368",
-   "name": "Steven Michael Zamitalo",
-   "age": "70",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793584071,
-   "photo": null
-  },
-  {
-   "key": "RC_LUSTER_NATRYIANA_120011075820239",
-   "name": "Natryiana M Luster",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793584069,
-   "photo": "photos/RC_LUSTER_NATRYIANA_120011075820239.jpg"
-  },
-  {
-   "key": "MKE_SALVADORI_KRISTINA_648084",
-   "name": "Kristina Kaye Salvadori",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793581059,
-   "photo": "photos/MKE_SALVADORI_KRISTINA_648084.jpg"
-  },
-  {
-   "key": "MKE_FONTANEZACEVEDO_GENARO_643696",
-   "name": "Genaro Fontanez Acevedo",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793581057,
-   "photo": "photos/MKE_FONTANEZACEVEDO_GENARO_643696.jpg"
-  },
-  {
-   "key": "MAR_SOSA_SAUL_2026-11-01_17034101",
-   "name": "Saul Sosa",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793580909,
-   "photo": "photos/MAR_SOSA_SAUL_2026-11-01_17034101.jpg"
-  },
-  {
-   "key": "KEN_HICKSURQUHART_DEQUAN_2026-00006046",
-   "name": "Dequan Le Hicks-Urquhart",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Tail Lamps-Lenses-Working/Not Covered",
-   "more": 5,
-   "ts": 1793580844,
-   "photo": "photos/KEN_HICKSURQUHART_DEQUAN_2026-00006046.jpg"
   }
  ]
 }
