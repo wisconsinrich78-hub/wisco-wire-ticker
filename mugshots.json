@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T20:29:22+00:00",
+ "updated": "2026-11-05T20:49:26+00:00",
  "items": [
+  {
+   "key": "RC_ANDRESEN_CONNIE_120011075980822",
+   "name": "Connie Jean Andresen",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793911671,
+   "photo": "photos/RC_ANDRESEN_CONNIE_120011075980822.jpg"
+  },
   {
    "key": "MKE_HAWTHORNE_ROMAINE_413095",
    "name": "Romaine Martel Hawthorne",
@@ -209,17 +220,6 @@
    "more": 0,
    "ts": 1793904471,
    "photo": "photos/RC_BENJAMIN_DOMINICK_120011075975705.jpg"
-  },
-  {
-   "key": "MKE_HUTCHINS_TERYN_266904",
-   "name": "Teryn Jontae Hutchins",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1793903284,
-   "photo": "photos/MKE_HUTCHINS_TERYN_266904.jpg"
   },
   {
    "key": "CHRISTENSON_MORGAN_2026-11-05",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ANDRESEN_CONNIE_120011075980822",
+   "name": "Connie Jean Andresen",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793911671,
+   "photo": "photos/RC_ANDRESEN_CONNIE_120011075980822.jpg"
+  },
   {
    "key": "MKE_HAWTHORNE_ROMAINE_413095",
    "name": "Romaine Martel Hawthorne",
@@ -5370,17 +5381,6 @@
    "more": 0,
    "ts": 1793652863,
    "photo": "photos/KEN_IRBY_BOBBY_2026-00006058.jpg"
-  },
-  {
-   "key": "RC_CONNER_BRITTANY_120011075852414",
-   "name": "Brittany J Conner",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793652470,
-   "photo": "photos/RC_CONNER_BRITTANY_120011075852414.jpg"
   }
  ]
 }
