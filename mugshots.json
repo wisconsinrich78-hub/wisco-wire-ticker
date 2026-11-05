@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T13:27:29+00:00",
+ "updated": "2026-11-05T14:28:02+00:00",
  "items": [
+  {
+   "key": "MKE_SIMMONS_TYRONE_608964",
+   "name": "Tyrone D Simmons",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793887069,
+   "photo": null
+  },
+  {
+   "key": "MKE_HEGWOOD_SHAMAR_293993",
+   "name": "Shamar L Hegwood",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793887066,
+   "photo": null
+  },
   {
    "key": "MKE_SPENCER_CORY_617360",
    "name": "Cory David Spencer",
@@ -186,28 +208,6 @@
    "charge": "Resist Officer-Failure To Stop Vehicle",
    "more": 0,
    "ts": 1793865462,
-   "photo": null
-  },
-  {
-   "key": "MKE_CHILDS_SHANITA_2052278",
-   "name": "Shanita L Childs",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793865461,
-   "photo": null
-  },
-  {
-   "key": "MKE_CAREY_MICHAEL_648142",
-   "name": "Michael J Carey",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793865459,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SIMMONS_TYRONE_608964",
+   "name": "Tyrone D Simmons",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793887069,
+   "photo": null
+  },
+  {
+   "key": "MKE_HEGWOOD_SHAMAR_293993",
+   "name": "Shamar L Hegwood",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793887066,
+   "photo": null
+  },
   {
    "key": "MKE_SPENCER_CORY_617360",
    "name": "Cory David Spencer",
@@ -5303,72 +5325,6 @@
    "charge": "Possess Methamphetamine",
    "more": 5,
    "ts": 1793630827,
-   "photo": null
-  },
-  {
-   "key": "DOU_PEKKALA_BRANDON_2026-11-02",
-   "name": "Brandon M Pekkala",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793629162,
-   "photo": "photos/DOU_PEKKALA_BRANDON_2026-11-02.jpg"
-  },
-  {
-   "key": "FDL_KREIS_MASON_2026-11-02",
-   "name": "Mason William Kreis",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793629015,
-   "photo": null
-  },
-  {
-   "key": "FDL_BUNTING_JOHN_2026-11-02",
-   "name": "John Robert Bunting",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 4,
-   "ts": 1793628983,
-   "photo": "photos/FDL_BUNTING_JOHN_2026-11-02.jpg"
-  },
-  {
-   "key": "MKE_RAMSEY_CARLOS_646132",
-   "name": "Carlos A Ramsey",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793627859,
-   "photo": "photos/MKE_RAMSEY_CARLOS_646132.jpg"
-  },
-  {
-   "key": "MKE_NOWAK_CHANCE_533095",
-   "name": "Chance Dakota Nowak",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Armed Robbery",
-   "more": 1,
-   "ts": 1793627857,
-   "photo": "photos/MKE_NOWAK_CHANCE_533095.jpg"
-  },
-  {
-   "key": "MAR_WEIL_DONNA_2026-11-02",
-   "name": "Donna M Weil",
-   "age": "54",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Mistreatment Of Animals",
-   "more": 2,
-   "ts": 1793627743,
    "photo": null
   }
  ]
