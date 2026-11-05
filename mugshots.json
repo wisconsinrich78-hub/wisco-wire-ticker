@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-05T19:52:35+00:00",
+ "updated": "2026-11-05T20:00:10+00:00",
  "items": [
+  {
+   "key": "KEN_SMITH_GILL_2026-00006116",
+   "name": "Gill Lavonne Smith",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793908805,
+   "photo": "photos/KEN_SMITH_GILL_2026-00006116.jpg"
+  },
+  {
+   "key": "MKE_HENRY_IVEN_648148",
+   "name": "Iven Dwight Henry",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793908668,
+   "photo": null
+  },
+  {
+   "key": "KEN_FARHAN_AMIR_2026-00006112",
+   "name": "Amir M Farhan",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Misd",
+   "more": 0,
+   "ts": 1793908651,
+   "photo": "photos/KEN_FARHAN_AMIR_2026-00006112.jpg"
+  },
+  {
+   "key": "KEN_EUBANKS_ANTONIO_2026-00006115",
+   "name": "Antonio Lee Eubanks",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793908574,
+   "photo": "photos/KEN_EUBANKS_ANTONIO_2026-00006115.jpg"
+  },
+  {
+   "key": "KEN_CHAPMAN_PIERRE_2026-00006118",
+   "name": "Pierre A Chapman",
+   "age": "70",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793908495,
+   "photo": "photos/KEN_CHAPMAN_PIERRE_2026-00006118.jpg"
+  },
+  {
+   "key": "KEN_BOUWMA_MARK_2026-00006113",
+   "name": "Mark James Bouwma",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793908359,
+   "photo": null
+  },
   {
    "key": "MAR_SZITTA_HUNTER_2026-11-05",
    "name": "Hunter Matthew Szitta",
@@ -145,28 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_DAVIS_DAZON_647391",
-   "name": "Dazon T Davis",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess Dangerous Weapon-Person < 18",
-   "more": 2,
-   "ts": 1793903277,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROWN_YOLANDA_348478",
-   "name": "Yolanda Dominique Brown",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793903275,
-   "photo": null
-  },
-  {
    "key": "CHRISTENSON_MORGAN_2026-11-05",
    "name": "Morgan A Christenson",
    "age": "29",
@@ -176,17 +220,6 @@
    "more": 0,
    "ts": 1793903181,
    "photo": null
-  },
-  {
-   "key": "RC_WILLIAMS_CHRISTOPHER_120011075973448",
-   "name": "Christopher A Williams",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793900869,
-   "photo": "photos/RC_WILLIAMS_CHRISTOPHER_120011075973448.jpg"
   },
   {
    "key": "MINA_ALAN_2026-11-05",
@@ -209,39 +242,6 @@
    "more": 2,
    "ts": 1793900505,
    "photo": "photos/MAR_SCHROEDER_THOMAS_2024-08-18.jpg"
-  },
-  {
-   "key": "KEN_WILLIAMSROPER_LARRY_2026-00006110",
-   "name": "Larry Williams- Roper",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793900001,
-   "photo": null
-  },
-  {
-   "key": "KEN_ENCARNACION_DEANGELO_2026-00006104",
-   "name": "Deangelo Rashad Encarnacion",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793899963,
-   "photo": "photos/KEN_ENCARNACION_DEANGELO_2026-00006104.jpg"
-  },
-  {
-   "key": "KEN_DAVIS_JOE_2026-00006111",
-   "name": "JOE RICHARD Junior DAVIS",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793899879,
-   "photo": "photos/KEN_DAVIS_JOE_2026-00006111.jpg"
   },
   {
    "key": "ANDERSON_TANNER_2026-11-05",
@@ -531,6 +531,72 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_SMITH_GILL_2026-00006116",
+   "name": "Gill Lavonne Smith",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793908805,
+   "photo": "photos/KEN_SMITH_GILL_2026-00006116.jpg"
+  },
+  {
+   "key": "MKE_HENRY_IVEN_648148",
+   "name": "Iven Dwight Henry",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793908668,
+   "photo": null
+  },
+  {
+   "key": "KEN_FARHAN_AMIR_2026-00006112",
+   "name": "Amir M Farhan",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Misd",
+   "more": 0,
+   "ts": 1793908651,
+   "photo": "photos/KEN_FARHAN_AMIR_2026-00006112.jpg"
+  },
+  {
+   "key": "KEN_EUBANKS_ANTONIO_2026-00006115",
+   "name": "Antonio Lee Eubanks",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793908574,
+   "photo": "photos/KEN_EUBANKS_ANTONIO_2026-00006115.jpg"
+  },
+  {
+   "key": "KEN_CHAPMAN_PIERRE_2026-00006118",
+   "name": "Pierre A Chapman",
+   "age": "70",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793908495,
+   "photo": "photos/KEN_CHAPMAN_PIERRE_2026-00006118.jpg"
+  },
+  {
+   "key": "KEN_BOUWMA_MARK_2026-00006113",
+   "name": "Mark James Bouwma",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1793908359,
+   "photo": null
+  },
   {
    "key": "MAR_SZITTA_HUNTER_2026-11-05",
    "name": "Hunter Matthew Szitta",
@@ -1299,7 +1365,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793865461,
-   "photo": null
+   "photo": "photos/MKE_CHILDS_SHANITA_2052278.jpg"
   },
   {
    "key": "MKE_CAREY_MICHAEL_648142",
@@ -5326,94 +5392,6 @@
    "more": 0,
    "ts": 1793651229,
    "photo": null
-  },
-  {
-   "key": "MKE_WELLS_ANTHONY_292435",
-   "name": "Anthony Maurice Wells",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793649566,
-   "photo": "photos/MKE_WELLS_ANTHONY_292435.jpg"
-  },
-  {
-   "key": "MKE_WASHINGTON_RONTRELL_372945",
-   "name": "Rontrell M Washington",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1793649565,
-   "photo": "photos/MKE_WASHINGTON_RONTRELL_372945.jpg"
-  },
-  {
-   "key": "MKE_SARTLER_JULIAN_600156",
-   "name": "Julian Joseph Sartler",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Lewd, Lascivious Behavior-In Public",
-   "more": 0,
-   "ts": 1793649563,
-   "photo": "photos/MKE_SARTLER_JULIAN_600156.jpg"
-  },
-  {
-   "key": "MKE_PEREZ_SONNY_648099",
-   "name": "Sonny Ames Perez",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793649561,
-   "photo": "photos/MKE_PEREZ_SONNY_648099.jpg"
-  },
-  {
-   "key": "MKE_MCFARLING_JORDAN_620149",
-   "name": "Jordan Jaquette McFarling",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 0,
-   "ts": 1793649559,
-   "photo": "photos/MKE_MCFARLING_JORDAN_620149.jpg"
-  },
-  {
-   "key": "MKE_GRANDBERRY_RODNEY_500864",
-   "name": "Rodney Grandberry",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/ Intent-THC (>1000-2500 grams)",
-   "more": 3,
-   "ts": 1793649557,
-   "photo": "photos/MKE_GRANDBERRY_RODNEY_500864.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_JADEAN_619483",
-   "name": "JaDean Capone Davis",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 9,
-   "ts": 1793649555,
-   "photo": "photos/MKE_DAVIS_JADEAN_619483.jpg"
-  },
-  {
-   "key": "MKE_BIVENS_JESSE_622015",
-   "name": "Jesse Allen Bivens",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>15-40g)",
-   "more": 0,
-   "ts": 1793649553,
-   "photo": "photos/MKE_BIVENS_JESSE_622015.jpg"
   }
  ]
 }
