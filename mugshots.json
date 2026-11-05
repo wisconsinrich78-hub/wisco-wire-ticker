@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-05T04:49:34+00:00",
+ "updated": "2026-11-05T04:57:49+00:00",
  "items": [
+  {
+   "key": "MKE_STREGE_AMYA_648139",
+   "name": "Amya E Strege",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793854656,
+   "photo": null
+  },
+  {
+   "key": "MKE_SINGLETON_ANTONIO_648138",
+   "name": "Antonio Michael Singleton",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793854654,
+   "photo": null
+  },
+  {
+   "key": "MAR_HULL_WENDY_2026-11-04",
+   "name": "Wendy Lynne Hull",
+   "age": "62",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1793854601,
+   "photo": null
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-11-04_133709",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793854565,
+   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04_133709.jpg"
+  },
   {
    "key": "RC_OWENS_TYRON_120011075953481",
    "name": "Tyron Owens",
@@ -106,7 +150,7 @@
    "age": "72",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793850872,
    "photo": "photos/KEN_FISHER_JOHN_2026-00006097.jpg"
@@ -321,28 +365,6 @@
    "photo": null
   },
   {
-   "key": "MKE_ROWELL_DENARD_523983",
-   "name": "Denard Antwaun Rowell",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793838460,
-   "photo": null
-  },
-  {
-   "key": "MKE_MARCELLIN_NEVILLE_419350",
-   "name": "Neville Charles Marcellin",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Injury by Negligent Use/Weapon/Explosive",
-   "more": 1,
-   "ts": 1793838458,
-   "photo": null
-  },
-  {
    "key": "MAR_BOGE_JOSHUA_2026-11-04",
    "name": "Joshua Douglas Boge",
    "age": "38",
@@ -352,28 +374,6 @@
    "more": 0,
    "ts": 1793836663,
    "photo": "photos/MAR_BOGE_JOSHUA_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_LINDQUIST_JUSTIN_2026-11-04",
-   "name": "Justin Michael Lindquist",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Make Terrorist Threats",
-   "more": 0,
-   "ts": 1793836621,
-   "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_BENDER_CEDRICK_2026-11-04_11104",
-   "name": "Cedrick Antwan Bender",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1793836581,
-   "photo": "photos/MAR_BENDER_CEDRICK_2026-11-04_11104.jpg"
   },
   {
    "key": "FDL_MORALES_ANTONIO_2026-11-04",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_STREGE_AMYA_648139",
+   "name": "Amya E Strege",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793854656,
+   "photo": null
+  },
+  {
+   "key": "MKE_SINGLETON_ANTONIO_648138",
+   "name": "Antonio Michael Singleton",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793854654,
+   "photo": null
+  },
+  {
+   "key": "MAR_HULL_WENDY_2026-11-04",
+   "name": "Wendy Lynne Hull",
+   "age": "62",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1793854601,
+   "photo": null
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-11-04_133709",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793854565,
+   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04_133709.jpg"
+  },
+  {
    "key": "RC_OWENS_TYRON_120011075953481",
    "name": "Tyron Owens",
    "age": "30",
@@ -636,7 +680,7 @@
    "age": "72",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793850872,
    "photo": "photos/KEN_FISHER_JOHN_2026-00006097.jpg"
