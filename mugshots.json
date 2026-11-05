@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T02:49:27+00:00",
+ "updated": "2026-11-05T02:58:23+00:00",
  "items": [
+  {
+   "key": "MAR_GOSCH_TAMMIE_2026-11-02_547917",
+   "name": "Tammie Annette Gosch",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793847385,
+   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-02_547917.jpg"
+  },
+  {
+   "key": "MAR_SWAN_MATTHEW_2026-11-04",
+   "name": "Matthew Kristopher Swan",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Take/Drive/Oper. Veh. W/O Consent-Abandn",
+   "more": 0,
+   "ts": 1793847350,
+   "photo": null
+  },
+  {
+   "key": "KEN_THOMPSON_ROBERT_2026-00006096",
+   "name": "Robert Thompson",
+   "age": "63",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793847283,
+   "photo": null
+  },
   {
    "key": "MKE_TORRES_ANYA_648137",
    "name": "Anya ReneeMar Torres",
@@ -205,7 +238,7 @@
    "age": "23",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793836565,
    "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
@@ -321,17 +354,6 @@
    "photo": null
   },
   {
-   "key": "MKE_PENDELTON_VIANJE_648131",
-   "name": "Vianje L Pendelton",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793829474,
-   "photo": null
-  },
-  {
    "key": "SANCHEZRODRIGUEZ_SAULO_2026-11-04",
    "name": "Saulo Sanchez Rodriguez",
    "age": "18",
@@ -374,28 +396,6 @@
    "more": 3,
    "ts": 1793827017,
    "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-31_9640509.jpg"
-  },
-  {
-   "key": "MAR_BOM_SHISHIR_2026-11-04",
-   "name": "Shishir Bom",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793826975,
-   "photo": "photos/MAR_BOM_SHISHIR_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_BOQUIST_BROCK_2026-11-04",
-   "name": "Brock Alan Boquist",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793826936,
-   "photo": "photos/MAR_BOQUIST_BROCK_2026-11-04.jpg"
   },
   {
    "key": "VESSELL_SHANNON_2026-11-04",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MAR_GOSCH_TAMMIE_2026-11-02_547917",
+   "name": "Tammie Annette Gosch",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793847385,
+   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-02_547917.jpg"
+  },
+  {
+   "key": "MAR_SWAN_MATTHEW_2026-11-04",
+   "name": "Matthew Kristopher Swan",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Take/Drive/Oper. Veh. W/O Consent-Abandn",
+   "more": 0,
+   "ts": 1793847350,
+   "photo": null
+  },
+  {
+   "key": "KEN_THOMPSON_ROBERT_2026-00006096",
+   "name": "Robert Thompson",
+   "age": "63",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793847283,
+   "photo": null
+  },
+  {
    "key": "MKE_TORRES_ANYA_648137",
    "name": "Anya ReneeMar Torres",
    "age": "21",
@@ -735,7 +768,7 @@
    "age": "23",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1793836565,
    "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
@@ -5194,28 +5227,6 @@
    "more": 3,
    "ts": 1793589444,
    "photo": "photos/DOU_WUORINEN_ROBERT_2026-11-01.jpg"
-  },
-  {
-   "key": "KEN_POLK_THOMAS_2026-00006049",
-   "name": "Thomas Alan Polk",
-   "age": "57",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793588120,
-   "photo": "photos/KEN_POLK_THOMAS_2026-00006049.jpg"
-  },
-  {
-   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01",
-   "name": "Christian Ivan Genchi Zamora",
-   "age": "22",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793588111,
-   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01.jpg"
   }
  ]
 }
