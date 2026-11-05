@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T18:48:42+00:00",
+ "updated": "2026-11-05T19:00:37+00:00",
  "items": [
+  {
+   "key": "MKE_ROWSEY_ANDREW_2060827",
+   "name": "Andrew Ray Travon Rowsey",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793905060,
+   "photo": null
+  },
+  {
+   "key": "MKE_PACHECOCRUZ_OSCAR_648147",
+   "name": "Oscar Pacheco-Cruz",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793905058,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_COYMATHIS_400978",
+   "name": "Coymathis Erma Lewis",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "more": 1,
+   "ts": 1793905056,
+   "photo": null
+  },
   {
    "key": "RC_RUSH_KARAN_120011075975498",
    "name": "Karan Terrell Rush",
@@ -52,7 +85,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 3,
    "ts": 1793903279,
    "photo": null
   },
@@ -178,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BENNETT_ARVIL_197945",
-   "name": "Arvil M Bennett",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793899656,
-   "photo": null
-  },
-  {
    "key": "ANDERSON_TANNER_2026-11-05",
    "name": "Tanner T Anderson",
    "age": "29",
@@ -222,17 +244,6 @@
    "photo": "photos/DOU_MACKIE_ARLENE_2026-11-05.jpg"
   },
   {
-   "key": "MKE_COFFIN_RENO_292587",
-   "name": "Reno Deangelo Coffin",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793897860,
-   "photo": null
-  },
-  {
    "key": "ASHMORE_DAVID_2026-11-05",
    "name": "David J Ashmore",
    "age": "39",
@@ -252,17 +263,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793896091,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROBYCLARK_KENDREA_647212",
-   "name": "Kendrea S Roby Clark",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793894432,
    "photo": null
   },
   {
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_ROWSEY_ANDREW_2060827",
+   "name": "Andrew Ray Travon Rowsey",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793905060,
+   "photo": null
+  },
+  {
+   "key": "MKE_PACHECOCRUZ_OSCAR_648147",
+   "name": "Oscar Pacheco-Cruz",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793905058,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_COYMATHIS_400978",
+   "name": "Coymathis Erma Lewis",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "more": 1,
+   "ts": 1793905056,
+   "photo": null
+  },
+  {
    "key": "RC_RUSH_KARAN_120011075975498",
    "name": "Karan Terrell Rush",
    "age": "42",
@@ -582,7 +615,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 3,
    "ts": 1793903279,
    "photo": null
   },
@@ -1123,7 +1156,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793872662,
-   "photo": null
+   "photo": "photos/MKE_KAYWOOD_STEVEN_621288.jpg"
   },
   {
    "key": "MKE_JOHNSON_CALI_648144",
@@ -1134,7 +1167,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793872660,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_CALI_648144.jpg"
   },
   {
    "key": "MKE_WHITE_ED_410274",
@@ -5381,61 +5414,6 @@
    "more": 2,
    "ts": 1793646997,
    "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_ZARIYAH_648098",
-   "name": "Zariyah Williams",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793645873,
-   "photo": "photos/MKE_WILLIAMS_ZARIYAH_648098.jpg"
-  },
-  {
-   "key": "MKE_MCGHEE_ABDULLAH_268616",
-   "name": "Abdullah R Mcghee",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793645871,
-   "photo": "photos/MKE_MCGHEE_ABDULLAH_268616.jpg"
-  },
-  {
-   "key": "MKE_HENDERSON_DERANZA_645253",
-   "name": "Deranza Henderson",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793645869,
-   "photo": "photos/MKE_HENDERSON_DERANZA_645253.jpg"
-  },
-  {
-   "key": "MKE_ABULFOYEZ_IMRAN_640802",
-   "name": "Imran Abulfoyez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793645867,
-   "photo": "photos/MKE_ABULFOYEZ_IMRAN_640802.jpg"
-  },
-  {
-   "key": "MAR_ZASTROW_KELSEY_2026-11-02_24018",
-   "name": "Kelsey Cassandra Zastrow",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793645761,
-   "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02_24018.jpg"
   }
  ]
 }
