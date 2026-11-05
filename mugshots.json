@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T06:49:29+00:00",
+ "updated": "2026-11-05T07:34:39+00:00",
  "items": [
+  {
+   "key": "WEDWICK_JOSHUA_2026-11-05",
+   "name": "Joshua A Wedwick",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793862072,
+   "photo": null
+  },
   {
    "key": "RC_SANCHEZ_LEONEL_120011075956192",
    "name": "Leonel Sanchez",
@@ -249,8 +260,8 @@
    "age": "65",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793851054,
    "photo": null
   },
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793776619,
    "photo": null
-  },
-  {
-   "key": "FDL_JACKSON_RYAN_2026-11-04",
-   "name": "Ryan Jerold Jackson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793776585,
-   "photo": "photos/FDL_JACKSON_RYAN_2026-11-04.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "WEDWICK_JOSHUA_2026-11-05",
+   "name": "Joshua A Wedwick",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793862072,
+   "photo": null
+  },
   {
    "key": "RC_SANCHEZ_LEONEL_120011075956192",
    "name": "Leonel Sanchez",
@@ -779,8 +790,8 @@
    "age": "65",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1793851054,
    "photo": null
   },
@@ -5326,28 +5337,6 @@
    "more": 0,
    "ts": 1793605670,
    "photo": "photos/RC_ROMAN_DUSTIN_120011075829122.jpg"
-  },
-  {
-   "key": "DOU_BELWOOD_ANNA_2026-11-01",
-   "name": "Anna M Belwood",
-   "age": "48",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793603837,
-   "photo": "photos/DOU_BELWOOD_ANNA_2026-11-01.jpg"
-  },
-  {
-   "key": "FDL_TORRES_EDUARDO_2026-11-02",
-   "name": "Eduardo Torres",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
-   "more": 0,
-   "ts": 1793603827,
-   "photo": "photos/FDL_TORRES_EDUARDO_2026-11-02.jpg"
   }
  ]
 }
