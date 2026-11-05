@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T12:49:11+00:00",
+ "updated": "2026-11-05T13:27:29+00:00",
  "items": [
+  {
+   "key": "MKE_SPENCER_CORY_617360",
+   "name": "Cory David Spencer",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 1,
+   "ts": 1793883461,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNCAN_BETHANEY_2066892",
+   "name": "Bethaney D Duncan",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793883458,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_KAMAL_643775",
+   "name": "Kamal N Allen",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793883457,
+   "photo": null
+  },
   {
    "key": "XIONG_TOU_2026-11-05",
    "name": "Tou Chue Xiong",
@@ -178,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_ADKINS_WILLIAM_639296",
-   "name": "William Marcus Adkins",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793865457,
-   "photo": null
-  },
-  {
    "key": "KUPKA_RILEY_2026-11-05",
    "name": "Riley N Kupka",
    "age": "42",
@@ -208,28 +230,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793862072,
-   "photo": null
-  },
-  {
-   "key": "RC_SANCHEZ_LEONEL_120011075956192",
-   "name": "Leonel Sanchez",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793861273,
-   "photo": "photos/RC_SANCHEZ_LEONEL_120011075956192.jpg"
-  },
-  {
-   "key": "RC_RAINEY_APRIL_120011075955972",
-   "name": "April R Rainey",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793861270,
    "photo": null
   },
   {
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SPENCER_CORY_617360",
+   "name": "Cory David Spencer",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 1,
+   "ts": 1793883461,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNCAN_BETHANEY_2066892",
+   "name": "Bethaney D Duncan",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793883458,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_KAMAL_643775",
+   "name": "Kamal N Allen",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793883457,
+   "photo": null
+  },
   {
    "key": "XIONG_TOU_2026-11-05",
    "name": "Tou Chue Xiong",
@@ -5337,39 +5370,6 @@
    "more": 2,
    "ts": 1793627743,
    "photo": null
-  },
-  {
-   "key": "MKE_CAMERON_JERMAINE_335273",
-   "name": "Jermaine Deshawn Cameron",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1793624257,
-   "photo": "photos/MKE_CAMERON_JERMAINE_335273.jpg"
-  },
-  {
-   "key": "MKE_CAIN_STEFAN_234350",
-   "name": "Stefan Christopher Cain",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 5,
-   "ts": 1793624255,
-   "photo": "photos/MKE_CAIN_STEFAN_234350.jpg"
-  },
-  {
-   "key": "MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004",
-   "name": "Christian Ivan Genchi Zamora",
-   "age": "22",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1793624138,
-   "photo": "photos/MAR_GENCHIZAMORA_CHRISTIAN_2026-11-01_7922004.jpg"
   }
  ]
 }
