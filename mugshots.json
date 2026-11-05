@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T04:57:49+00:00",
+ "updated": "2026-11-05T05:28:30+00:00",
  "items": [
+  {
+   "key": "MKE_WHALEY_QUASHAWN_642547",
+   "name": "Quashawn Calvin Whaley",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793856455,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_TIMOTHY_602375",
+   "name": "Timothy M Edwards",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793856453,
+   "photo": null
+  },
+  {
+   "key": "DRIVER_DARIUS_2026-11-04",
+   "name": "Darius D Driver",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1793856436,
+   "photo": null
+  },
   {
    "key": "MKE_STREGE_AMYA_648139",
    "name": "Amya E Strege",
@@ -343,28 +376,6 @@
    "photo": null
   },
   {
-   "key": "RC_SEAY_NAKI_120011075948858",
-   "name": "Naki Seay",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
-   "more": 0,
-   "ts": 1793839669,
-   "photo": null
-  },
-  {
-   "key": "MKE_SANCHEZ_MARCOS_648134",
-   "name": "Marcos A Sanchez",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793838462,
-   "photo": null
-  },
-  {
    "key": "MAR_BOGE_JOSHUA_2026-11-04",
    "name": "Joshua Douglas Boge",
    "age": "38",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793771227,
    "photo": null
-  },
-  {
-   "key": "GERRISH_WILLIAM_2026-11-03",
-   "name": "William R Gerrish",
-   "age": "63",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Trespass To Dwelling",
-   "more": 1,
-   "ts": 1793771226,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WHALEY_QUASHAWN_642547",
+   "name": "Quashawn Calvin Whaley",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793856455,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_TIMOTHY_602375",
+   "name": "Timothy M Edwards",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793856453,
+   "photo": null
+  },
+  {
+   "key": "DRIVER_DARIUS_2026-11-04",
+   "name": "Darius D Driver",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1793856436,
+   "photo": null
+  },
   {
    "key": "MKE_STREGE_AMYA_648139",
    "name": "Amya E Strege",
@@ -5260,50 +5293,6 @@
    "more": 2,
    "ts": 1793598471,
    "photo": "photos/RC_BAHENA_EDWIN_120011075826916.jpg"
-  },
-  {
-   "key": "MKE_RODRIQUEZLOZADA_ANTHONY_640185",
-   "name": "Anthony M Rodriquez-Lozada",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793597275,
-   "photo": "photos/MKE_RODRIQUEZLOZADA_ANTHONY_640185.jpg"
-  },
-  {
-   "key": "MKE_RASH_DONNELL_414876",
-   "name": "Donnell D Rash",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793597273,
-   "photo": "photos/MKE_RASH_DONNELL_414876.jpg"
-  },
-  {
-   "key": "MKE_CLEMENTS_MAGNOLIA_609047",
-   "name": "Magnolia F Clements",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793597270,
-   "photo": "photos/MKE_CLEMENTS_MAGNOLIA_609047.jpg"
-  },
-  {
-   "key": "FABIAN_DAVID_2026-11-01",
-   "name": "David Oliver Fabian",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793597221,
-   "photo": null
   }
  ]
 }
