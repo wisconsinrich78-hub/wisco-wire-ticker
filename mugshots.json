@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T17:44:21+00:00",
+ "updated": "2026-11-05T17:49:27+00:00",
  "items": [
+  {
+   "key": "RC_WILLIAMS_CHRISTOPHER_120011075973448",
+   "name": "Christopher A Williams",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793900869,
+   "photo": "photos/RC_WILLIAMS_CHRISTOPHER_120011075973448.jpg"
+  },
+  {
+   "key": "MINA_ALAN_2026-11-05",
+   "name": "Alan A Mina",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1793900827,
+   "photo": null
+  },
   {
    "key": "MAR_SCHROEDER_THOMAS_2024-08-18",
    "name": "Thomas Lee Schroeder",
@@ -255,17 +277,6 @@
    "photo": "photos/KEN_COLLINS_KATIE_2026-00006101.jpg"
   },
   {
-   "key": "KEN_TURNER_ZEBULON_2026-00006100",
-   "name": "Zebulon Ruben Turner",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L",
-   "more": 1,
-   "ts": 1793891088,
-   "photo": "photos/KEN_TURNER_ZEBULON_2026-00006100.jpg"
-  },
-  {
    "key": "MAR_ANDRUSS_JOSEPH_2026-11-03_17051201",
    "name": "Joseph Allen Andruss",
    "age": "41",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793848608,
    "photo": null
-  },
-  {
-   "key": "HOU_MIRANDAGARCIA_JUANJOSE_6327",
-   "name": "Juan Jose Miranda Garcia",
-   "age": "32",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Traffic-Drivers License-Driving After Suspens (1-Court Pending)",
-   "more": 0,
-   "ts": 1793843233,
-   "photo": "photos/HOU_MIRANDAGARCIA_JUANJOSE_6327.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WILLIAMS_CHRISTOPHER_120011075973448",
+   "name": "Christopher A Williams",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793900869,
+   "photo": "photos/RC_WILLIAMS_CHRISTOPHER_120011075973448.jpg"
+  },
+  {
+   "key": "MINA_ALAN_2026-11-05",
+   "name": "Alan A Mina",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1793900827,
+   "photo": null
+  },
   {
    "key": "MAR_SCHROEDER_THOMAS_2024-08-18",
    "name": "Thomas Lee Schroeder",
@@ -5458,17 +5480,6 @@
    "more": 0,
    "ts": 1793642176,
    "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02.jpg"
-  },
-  {
-   "key": "BOLSTAD_TRAVIS_2026-11-02",
-   "name": "Travis Michael Bolstad",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793641626,
-   "photo": null
   }
  ]
 }
