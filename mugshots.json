@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T18:35:07+00:00",
+ "updated": "2026-11-05T18:48:42+00:00",
  "items": [
+  {
+   "key": "RC_RUSH_KARAN_120011075975498",
+   "name": "Karan Terrell Rush",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793904473,
+   "photo": "photos/RC_RUSH_KARAN_120011075975498.jpg"
+  },
+  {
+   "key": "RC_BENJAMIN_DOMINICK_120011075975705",
+   "name": "Dominick I Benjamin",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793904471,
+   "photo": "photos/RC_BENJAMIN_DOMINICK_120011075975705.jpg"
+  },
   {
    "key": "MKE_HUTCHINS_TERYN_266904",
    "name": "Teryn Jontae Hutchins",
@@ -242,28 +264,6 @@
    "more": 1,
    "ts": 1793894432,
    "photo": null
-  },
-  {
-   "key": "MKE_BOYD_KWAMI_624097",
-   "name": "Kwami M Boyd",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793894430,
-   "photo": null
-  },
-  {
-   "key": "KEN_RUPPKENT_CHUCK_2026-00006106",
-   "name": "CHUCK ALFONZO Junior RUPP-KENT",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 6,
-   "ts": 1793894429,
-   "photo": "photos/KEN_RUPPKENT_CHUCK_2026-00006106.jpg"
   },
   {
    "key": "BURROWS_CHARLES_2026-11-05",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_RUSH_KARAN_120011075975498",
+   "name": "Karan Terrell Rush",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793904473,
+   "photo": "photos/RC_RUSH_KARAN_120011075975498.jpg"
+  },
+  {
+   "key": "RC_BENJAMIN_DOMINICK_120011075975705",
+   "name": "Dominick I Benjamin",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793904471,
+   "photo": "photos/RC_BENJAMIN_DOMINICK_120011075975705.jpg"
+  },
   {
    "key": "MKE_HUTCHINS_TERYN_266904",
    "name": "Teryn Jontae Hutchins",
@@ -5414,39 +5436,6 @@
    "more": 0,
    "ts": 1793645761,
    "photo": "photos/MAR_ZASTROW_KELSEY_2026-11-02_24018.jpg"
-  },
-  {
-   "key": "RC_COUILLARD_MICHAEL_120011075846840",
-   "name": "Michael Thomas Couillard",
-   "age": "69",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793645283,
-   "photo": "photos/RC_COUILLARD_MICHAEL_120011075846840.jpg"
-  },
-  {
-   "key": "RC_BLAKE_MARY_120011075846728",
-   "name": "Mary Magdalene Blake",
-   "age": "62",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793645280,
-   "photo": "photos/RC_BLAKE_MARY_120011075846728.jpg"
-  },
-  {
-   "key": "SCHRAMM_SHERWIN_2026-11-02",
-   "name": "Sherwin James Schramm",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "La Crosse County Child Support W/C",
-   "more": 0,
-   "ts": 1793645229,
-   "photo": null
   }
  ]
 }
