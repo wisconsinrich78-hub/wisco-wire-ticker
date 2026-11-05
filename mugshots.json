@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-05T21:59:51+00:00",
+ "updated": "2026-11-05T22:49:29+00:00",
  "items": [
+  {
+   "key": "RC_STEVENS_JENAJ_120011075985284",
+   "name": "Je Naj Stevens",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793918881,
+   "photo": "photos/RC_STEVENS_JENAJ_120011075985284.jpg"
+  },
+  {
+   "key": "RC_SASKOWSKI_ELIZABETH_120011075983923",
+   "name": "Elizabeth A Saskowski",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793918878,
+   "photo": "photos/RC_SASKOWSKI_ELIZABETH_120011075983923.jpg"
+  },
+  {
+   "key": "RC_JOSEPH_RICHARD_120011075985315",
+   "name": "Richard C Joseph",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793918876,
+   "photo": "photos/RC_JOSEPH_RICHARD_120011075985315.jpg"
+  },
+  {
+   "key": "RC_ANDERSON_PLAZE_120011075985358",
+   "name": "Plaze Anderson",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793918873,
+   "photo": "photos/RC_ANDERSON_PLAZE_120011075985358.jpg"
+  },
+  {
+   "key": "STUMLIN_JOHN_2026-11-05",
+   "name": "John P Stumlin",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Court",
+   "more": 0,
+   "ts": 1793918831,
+   "photo": null
+  },
   {
    "key": "MKE_MARTIN_LAMONT_648149",
    "name": "Lamont Martin",
@@ -62,8 +117,8 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1793914056,
    "photo": null
   },
@@ -153,50 +208,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793908668,
-   "photo": null
-  },
-  {
-   "key": "KEN_FARHAN_AMIR_2026-00006112",
-   "name": "Amir M Farhan",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793908651,
-   "photo": "photos/KEN_FARHAN_AMIR_2026-00006112.jpg"
-  },
-  {
-   "key": "KEN_EUBANKS_ANTONIO_2026-00006115",
-   "name": "Antonio Lee Eubanks",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793908574,
-   "photo": "photos/KEN_EUBANKS_ANTONIO_2026-00006115.jpg"
-  },
-  {
-   "key": "KEN_CHAPMAN_PIERRE_2026-00006118",
-   "name": "Pierre A Chapman",
-   "age": "70",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793908495,
-   "photo": "photos/KEN_CHAPMAN_PIERRE_2026-00006118.jpg"
-  },
-  {
-   "key": "KEN_BOUWMA_MARK_2026-00006113",
-   "name": "Mark James Bouwma",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793908359,
    "photo": null
   },
   {
@@ -442,17 +453,6 @@
    "photo": null
   },
   {
-   "key": "WILLERT_GARY_2026-11-05",
-   "name": "Gary Lee Willert",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Retail Theft-Intent Conceal >$2,500-$5,000",
-   "more": 2,
-   "ts": 1793860020,
-   "photo": null
-  },
-  {
    "key": "FDL_LEFEBER_JASON_2026-11-04",
    "name": "Jason Daniel Lefeber",
    "age": "",
@@ -532,6 +532,61 @@
  ],
  "all_items": [
   {
+   "key": "RC_STEVENS_JENAJ_120011075985284",
+   "name": "Je Naj Stevens",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793918881,
+   "photo": "photos/RC_STEVENS_JENAJ_120011075985284.jpg"
+  },
+  {
+   "key": "RC_SASKOWSKI_ELIZABETH_120011075983923",
+   "name": "Elizabeth A Saskowski",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793918878,
+   "photo": "photos/RC_SASKOWSKI_ELIZABETH_120011075983923.jpg"
+  },
+  {
+   "key": "RC_JOSEPH_RICHARD_120011075985315",
+   "name": "Richard C Joseph",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793918876,
+   "photo": "photos/RC_JOSEPH_RICHARD_120011075985315.jpg"
+  },
+  {
+   "key": "RC_ANDERSON_PLAZE_120011075985358",
+   "name": "Plaze Anderson",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793918873,
+   "photo": "photos/RC_ANDERSON_PLAZE_120011075985358.jpg"
+  },
+  {
+   "key": "STUMLIN_JOHN_2026-11-05",
+   "name": "John P Stumlin",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Court",
+   "more": 0,
+   "ts": 1793918831,
+   "photo": null
+  },
+  {
    "key": "MKE_MARTIN_LAMONT_648149",
    "name": "Lamont Martin",
    "age": "18",
@@ -592,8 +647,8 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1793914056,
    "photo": null
   },
@@ -5337,17 +5392,6 @@
    "more": 0,
    "ts": 1793660060,
    "photo": "photos/KEN_TIJERINA_YNETTE_2026-00006059.jpg"
-  },
-  {
-   "key": "RC_FRANKLIN_RICKEY_120011075856962",
-   "name": "Rickey Charles Franklin",
-   "age": "64",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793659671,
-   "photo": "photos/RC_FRANKLIN_RICKEY_120011075856962.jpg"
   }
  ]
 }
