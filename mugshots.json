@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-06T04:49:31+00:00",
+ "updated": "2026-11-06T05:28:17+00:00",
  "items": [
+  {
+   "key": "MKE_SYLVAS_KEVIN_371068",
+   "name": "Kevin Obrian Sylvas",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793942870,
+   "photo": null
+  },
+  {
+   "key": "MKE_NASH_FREDERICK_648156",
+   "name": "Frederick Nash",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793942868,
+   "photo": null
+  },
+  {
+   "key": "MKE_FOLEY_DAMIEN_648155",
+   "name": "Damien Christian Alexa Foley",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793942867,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANDERS_HERBERT_268805",
+   "name": "Herbert Lee Sanders",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793941058,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_DEKARIA_601917",
+   "name": "Dekaria Marquise Johnson",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793941055,
+   "photo": null
+  },
+  {
+   "key": "MKE_DALTON_KEVIN_188001",
+   "name": "Kevin Ellison Dalton",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793941054,
+   "photo": null
+  },
+  {
+   "key": "MAR_MICHELS_JOSHUA_2026-11-05_30002",
+   "name": "Joshua Franklin Michels",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793940904,
+   "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-05_30002.jpg"
+  },
   {
    "key": "RC_WATKINS_TREMAINE_120011075994504",
    "name": "Tremaine Hassel Watkins",
@@ -62,8 +139,8 @@
    "age": "57",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Contempt Of Court - Disobey Order",
+   "more": 1,
    "ts": 1793937475,
    "photo": "photos/KEN_GITTENS_KARI_2026-00006130.jpg"
   },
@@ -165,72 +242,6 @@
    "more": 1,
    "ts": 1793932059,
    "photo": null
-  },
-  {
-   "key": "KEN_SOTELO_ALEXANDER_2026-00006122",
-   "name": "Alexander Sotelo",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793930345,
-   "photo": null
-  },
-  {
-   "key": "MKE_STEWART_DONTAY_601666",
-   "name": "Dontay Lovell Stewart",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793930322,
-   "photo": null
-  },
-  {
-   "key": "MKE_PATTON_JOSHUA_405824",
-   "name": "Joshua Durant Patton",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Manufacture/Deliver Fentanyl (>10-50)",
-   "more": 37,
-   "ts": 1793930320,
-   "photo": null
-  },
-  {
-   "key": "MKE_JARVISMABEN_TRACY_648154",
-   "name": "Tracy Earl Jarvis Maben",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793930318,
-   "photo": null
-  },
-  {
-   "key": "MKE_JAMERSON_BRIAN_277637",
-   "name": "Brian Keith Jamerson",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 3,
-   "ts": 1793930316,
-   "photo": null
-  },
-  {
-   "key": "KEN_LUND_ASHLEY_2026-00006124",
-   "name": "Ashley Taylor Lund",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793930305,
-   "photo": "photos/KEN_LUND_ASHLEY_2026-00006124.jpg"
   },
   {
    "key": "MURPHY_BRADLY_2026-11-05",
@@ -517,20 +528,86 @@
    "more": 1,
    "ts": 1793890945,
    "photo": "photos/MAR_HERRICK_KIANA_2026-11-04.jpg"
-  },
-  {
-   "key": "FDL_BISPING_RACHEL_2026-11-05",
-   "name": "Rachel Lee Bisping",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1793880964,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SYLVAS_KEVIN_371068",
+   "name": "Kevin Obrian Sylvas",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793942870,
+   "photo": null
+  },
+  {
+   "key": "MKE_NASH_FREDERICK_648156",
+   "name": "Frederick Nash",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793942868,
+   "photo": null
+  },
+  {
+   "key": "MKE_FOLEY_DAMIEN_648155",
+   "name": "Damien Christian Alexa Foley",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793942867,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANDERS_HERBERT_268805",
+   "name": "Herbert Lee Sanders",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793941058,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_DEKARIA_601917",
+   "name": "Dekaria Marquise Johnson",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793941055,
+   "photo": null
+  },
+  {
+   "key": "MKE_DALTON_KEVIN_188001",
+   "name": "Kevin Ellison Dalton",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793941054,
+   "photo": null
+  },
+  {
+   "key": "MAR_MICHELS_JOSHUA_2026-11-05_30002",
+   "name": "Joshua Franklin Michels",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793940904,
+   "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-05_30002.jpg"
+  },
   {
    "key": "RC_WATKINS_TREMAINE_120011075994504",
    "name": "Tremaine Hassel Watkins",
@@ -592,8 +669,8 @@
    "age": "57",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Contempt Of Court - Disobey Order",
+   "more": 1,
    "ts": 1793937475,
    "photo": "photos/KEN_GITTENS_KARI_2026-00006130.jpg"
   },
@@ -702,10 +779,10 @@
    "age": "18",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "2Nd Degree Recklessly Endangering Safety",
+   "more": 1,
    "ts": 1793930345,
-   "photo": null
+   "photo": "photos/KEN_SOTELO_ALEXANDER_2026-00006122.jpg"
   },
   {
    "key": "MKE_STEWART_DONTAY_601666",
@@ -757,8 +834,8 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 2,
    "ts": 1793930305,
    "photo": "photos/KEN_LUND_ASHLEY_2026-00006124.jpg"
   },
@@ -1208,7 +1285,7 @@
    "age": "60",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Cocaine/Coca (2nd+)",
+   "charge": "Child Enticement-Give/Sell Drugs",
    "more": 3,
    "ts": 1793914055,
    "photo": null
@@ -5590,50 +5667,6 @@
    "more": 3,
    "ts": 1793687261,
    "photo": "photos/MKE_PADILLA_RICARDO_394180.jpg"
-  },
-  {
-   "key": "MKE_GILLIAM_KEON_532485",
-   "name": "Keon Kortez Gilliam",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793683683,
-   "photo": "photos/MKE_GILLIAM_KEON_532485.jpg"
-  },
-  {
-   "key": "DOU_SLOAN_ROBERT_2026-11-02",
-   "name": "Robert M Sloan",
-   "age": "37",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793683060,
-   "photo": "photos/DOU_SLOAN_ROBERT_2026-11-02.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_MARCUS_274479",
-   "name": "Marcus Duane Johnson",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793681866,
-   "photo": "photos/MKE_JOHNSON_MARCUS_274479.jpg"
-  },
-  {
-   "key": "MAR_LUTHER_ISAAC_2026-11-02",
-   "name": "Isaac Robert Luther",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793681753,
-   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-02.jpg"
   }
  ]
 }
