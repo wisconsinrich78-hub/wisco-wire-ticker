@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-05T23:49:32+00:00",
+ "updated": "2026-11-06T00:28:23+00:00",
  "items": [
+  {
+   "key": "MKE_RIVERA_VALERIE_227358",
+   "name": "Valerie L Rivera",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793924872,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIRTLE_MARCIA_239052",
+   "name": "Marcia Yvonne Pirtle",
+   "age": "64",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating w/ PAC (5th or 6th)",
+   "more": 1,
+   "ts": 1793924870,
+   "photo": null
+  },
+  {
+   "key": "MKE_DOXZON_SELENA_2066956",
+   "name": "Selena Doxzon",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Neglecting a Child (Consequence is Death)",
+   "more": 0,
+   "ts": 1793924868,
+   "photo": null
+  },
+  {
+   "key": "MKE_COPELAND_CHRISTOPHER_648153",
+   "name": "Christopher Lawrence Copeland",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793924867,
+   "photo": null
+  },
+  {
+   "key": "FDL_DELACRUZ_CASSANDRA_2026-11-05",
+   "name": "Cassandra De La Cruz",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793924176,
+   "photo": "photos/FDL_DELACRUZ_CASSANDRA_2026-11-05.jpg"
+  },
+  {
+   "key": "KEN_SCHULTZ_JEROME_2026-00006120",
+   "name": "Jerome Jermaine Schultz",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793923470,
+   "photo": "photos/KEN_SCHULTZ_JEROME_2026-00006120.jpg"
+  },
+  {
+   "key": "KEN_DEAL_MATTHEW_2026-00006117",
+   "name": "Matthew Joseph Deal",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Penalty - Retail Theft (<=$500)",
+   "more": 0,
+   "ts": 1793923393,
+   "photo": "photos/KEN_DEAL_MATTHEW_2026-00006117.jpg"
+  },
   {
    "key": "MKE_TURNER_ROBERT_298953",
    "name": "Robert Lavell Turner",
@@ -145,50 +222,6 @@
    "photo": null
   },
   {
-   "key": "RC_STEVENS_JENAJ_120011075985284",
-   "name": "Je Naj Stevens",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793918881,
-   "photo": "photos/RC_STEVENS_JENAJ_120011075985284.jpg"
-  },
-  {
-   "key": "RC_SASKOWSKI_ELIZABETH_120011075983923",
-   "name": "Elizabeth A Saskowski",
-   "age": "60",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793918878,
-   "photo": "photos/RC_SASKOWSKI_ELIZABETH_120011075983923.jpg"
-  },
-  {
-   "key": "RC_JOSEPH_RICHARD_120011075985315",
-   "name": "Richard C Joseph",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793918876,
-   "photo": "photos/RC_JOSEPH_RICHARD_120011075985315.jpg"
-  },
-  {
-   "key": "RC_ANDERSON_PLAZE_120011075985358",
-   "name": "Plaze Anderson",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793918873,
-   "photo": "photos/RC_ANDERSON_PLAZE_120011075985358.jpg"
-  },
-  {
    "key": "STUMLIN_JOHN_2026-11-05",
    "name": "John P Stumlin",
    "age": "58",
@@ -197,28 +230,6 @@
    "charge": "Hold For Court",
    "more": 0,
    "ts": 1793918831,
-   "photo": null
-  },
-  {
-   "key": "MKE_MARTIN_LAMONT_648149",
-   "name": "Lamont Martin",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
-   "more": 5,
-   "ts": 1793915877,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOERIG_MICHAEL_315718",
-   "name": "Michael Brian Hoerig",
-   "age": "71",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793915875,
    "photo": null
   },
   {
@@ -517,20 +528,86 @@
    "more": 0,
    "ts": 1793858169,
    "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04_3020404.jpg"
-  },
-  {
-   "key": "MAR_HULL_WENDY_2026-11-04",
-   "name": "Wendy Lynne Hull",
-   "age": "62",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 0,
-   "ts": 1793854601,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_RIVERA_VALERIE_227358",
+   "name": "Valerie L Rivera",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793924872,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIRTLE_MARCIA_239052",
+   "name": "Marcia Yvonne Pirtle",
+   "age": "64",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating w/ PAC (5th or 6th)",
+   "more": 1,
+   "ts": 1793924870,
+   "photo": null
+  },
+  {
+   "key": "MKE_DOXZON_SELENA_2066956",
+   "name": "Selena Doxzon",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Neglecting a Child (Consequence is Death)",
+   "more": 0,
+   "ts": 1793924868,
+   "photo": null
+  },
+  {
+   "key": "MKE_COPELAND_CHRISTOPHER_648153",
+   "name": "Christopher Lawrence Copeland",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793924867,
+   "photo": null
+  },
+  {
+   "key": "FDL_DELACRUZ_CASSANDRA_2026-11-05",
+   "name": "Cassandra De La Cruz",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793924176,
+   "photo": "photos/FDL_DELACRUZ_CASSANDRA_2026-11-05.jpg"
+  },
+  {
+   "key": "KEN_SCHULTZ_JEROME_2026-00006120",
+   "name": "Jerome Jermaine Schultz",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793923470,
+   "photo": "photos/KEN_SCHULTZ_JEROME_2026-00006120.jpg"
+  },
+  {
+   "key": "KEN_DEAL_MATTHEW_2026-00006117",
+   "name": "Matthew Joseph Deal",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Penalty - Retail Theft (<=$500)",
+   "more": 0,
+   "ts": 1793923393,
+   "photo": "photos/KEN_DEAL_MATTHEW_2026-00006117.jpg"
+  },
   {
    "key": "MKE_TURNER_ROBERT_298953",
    "name": "Robert Lavell Turner",
@@ -911,8 +988,8 @@
    "age": "70",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 1,
    "ts": 1793908495,
    "photo": "photos/KEN_CHAPMAN_PIERRE_2026-00006118.jpg"
   },
@@ -5359,61 +5436,6 @@
    "more": 0,
    "ts": 1793666911,
    "photo": "photos/RC_ALLEN_LYDIA_120011075859075.jpg"
-  },
-  {
-   "key": "MKE_TREJODONGHU_GAMALIEL_639135",
-   "name": "Gamaliel Trejo-Donghu",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 0,
-   "ts": 1793665681,
-   "photo": "photos/MKE_TREJODONGHU_GAMALIEL_639135.jpg"
-  },
-  {
-   "key": "MKE_RIEMER_DASHAWN_648104",
-   "name": "Dashawn M Riemer",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793665679,
-   "photo": "photos/MKE_RIEMER_DASHAWN_648104.jpg"
-  },
-  {
-   "key": "MKE_HILL_JERIUS_648103",
-   "name": "Jerius L Hill",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
-   "more": 3,
-   "ts": 1793665676,
-   "photo": "photos/MKE_HILL_JERIUS_648103.jpg"
-  },
-  {
-   "key": "MKE_GRANT_GAVIN_646264",
-   "name": "Gavin Christopher Grant",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1793665673,
-   "photo": "photos/MKE_GRANT_GAVIN_646264.jpg"
-  },
-  {
-   "key": "KEN_JONES_JAMIRE_2026-00006060",
-   "name": "Jamire L Jones",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate After Rev/Susp Of Registration",
-   "more": 2,
-   "ts": 1793663637,
-   "photo": null
   }
  ]
 }
