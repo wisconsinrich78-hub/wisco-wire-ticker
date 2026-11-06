@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-06T22:57:11+00:00",
+ "updated": "2026-11-06T23:29:18+00:00",
  "items": [
+  {
+   "key": "MKE_STEWART_JIMMY_621190",
+   "name": "Jimmy J Stewart",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "3rd Degree Sexual Assault",
+   "more": 0,
+   "ts": 1794007728,
+   "photo": null
+  },
+  {
+   "key": "MKE_PHILLIPS_FRANCIS_648171",
+   "name": "Francis Phillips",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794007726,
+   "photo": null
+  },
+  {
+   "key": "MKE_BURCH_DRATEN_636755",
+   "name": "Draten D Burch",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794007724,
+   "photo": null
+  },
+  {
+   "key": "FDL_MAYR_RYAN_2026-11-06",
+   "name": "Ryan David Mayr",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Violate Harassment Injunction",
+   "more": 1,
+   "ts": 1794007028,
+   "photo": "photos/FDL_MAYR_RYAN_2026-11-06.jpg"
+  },
+  {
+   "key": "MKE_WILKERSON_DAZARRIES_642913",
+   "name": "Dazarries C Wilkerson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794005965,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_JYLAN_2063375",
+   "name": "Jylan Curtis Moore",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794005963,
+   "photo": null
+  },
+  {
+   "key": "MKE_ERVING_DEANTWONE_641027",
+   "name": "Deantwone Omarion Erving",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "more": 4,
+   "ts": 1794005962,
+   "photo": null
+  },
   {
    "key": "RC_HAND_ANTWAN_120011076021981",
    "name": "Antwan A Hand",
@@ -154,72 +231,6 @@
    "more": 0,
    "ts": 1793998042,
    "photo": null
-  },
-  {
-   "key": "MKE_LEACHMAN_PHIERLIS_640679",
-   "name": "Phierlis Gerome Leachman",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1793996867,
-   "photo": null
-  },
-  {
-   "key": "MKE_KUKLINSKI_ANTHONY_633689",
-   "name": "Anthony John Kuklinski",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793996865,
-   "photo": null
-  },
-  {
-   "key": "MKE_RIVERA_JOSHUA_635215",
-   "name": "Joshua Rivera",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793995087,
-   "photo": null
-  },
-  {
-   "key": "MKE_PAYNE_TAMARA_648167",
-   "name": "Tamara P Payne",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793995085,
-   "photo": null
-  },
-  {
-   "key": "RC_HENDERSON_WILLIE_120011076015031",
-   "name": "Willie Robert Henderson",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
-   "more": 7,
-   "ts": 1793994505,
-   "photo": "photos/RC_HENDERSON_WILLIE_120011076015031.jpg"
-  },
-  {
-   "key": "RC_CONFER_MATTHEW_120011076014967",
-   "name": "Matthew John Confer",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793994499,
-   "photo": "photos/RC_CONFER_MATTHEW_120011076014967.jpg"
   },
   {
    "key": "HERZER_NATHEN_2026-11-06",
@@ -517,20 +528,86 @@
    "more": 0,
    "ts": 1793934989,
    "photo": "photos/FDL_KEDINGER_DEAN_2026-11-05.jpg"
-  },
-  {
-   "key": "MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801",
-   "name": "Gerardo Gonzalez-Guzman",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1793933762,
-   "photo": "photos/MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_STEWART_JIMMY_621190",
+   "name": "Jimmy J Stewart",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "3rd Degree Sexual Assault",
+   "more": 0,
+   "ts": 1794007728,
+   "photo": null
+  },
+  {
+   "key": "MKE_PHILLIPS_FRANCIS_648171",
+   "name": "Francis Phillips",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794007726,
+   "photo": null
+  },
+  {
+   "key": "MKE_BURCH_DRATEN_636755",
+   "name": "Draten D Burch",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794007724,
+   "photo": null
+  },
+  {
+   "key": "FDL_MAYR_RYAN_2026-11-06",
+   "name": "Ryan David Mayr",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Violate Harassment Injunction",
+   "more": 1,
+   "ts": 1794007028,
+   "photo": "photos/FDL_MAYR_RYAN_2026-11-06.jpg"
+  },
+  {
+   "key": "MKE_WILKERSON_DAZARRIES_642913",
+   "name": "Dazarries C Wilkerson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794005965,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_JYLAN_2063375",
+   "name": "Jylan Curtis Moore",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794005963,
+   "photo": null
+  },
+  {
+   "key": "MKE_ERVING_DEANTWONE_641027",
+   "name": "Deantwone Omarion Erving",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "more": 4,
+   "ts": 1794005962,
+   "photo": null
+  },
   {
    "key": "RC_HAND_ANTWAN_120011076021981",
    "name": "Antwan A Hand",
@@ -1021,10 +1098,10 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
    "more": 4,
    "ts": 1793986052,
-   "photo": null
+   "photo": "photos/MKE_HARDEN_DENAE_646320.jpg"
   },
   {
    "key": "MKE_FISCHER_JENNI_642613",
@@ -1076,7 +1153,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery",
+   "charge": "Domestic Abuse Surcharges",
    "more": 1,
    "ts": 1793984307,
    "photo": null
@@ -1211,7 +1288,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793980727,
-   "photo": null
+   "photo": "photos/MKE_GRIERHARRIS_TERRELL_648161.jpg"
   },
   {
    "key": "KEN_DAVIS_AREON_2026-00006134",
@@ -1255,7 +1332,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793978873,
-   "photo": null
+   "photo": "photos/MKE_BROWN_TYRONE_375526.jpg"
   },
   {
    "key": "DOU_FRIKART_LOREN_2026-11-06",
@@ -1310,7 +1387,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793973475,
-   "photo": null
+   "photo": "photos/MKE_MCCALL_TERRIAH_648160.jpg"
   },
   {
    "key": "MKE_JONES_BRITTANY_356747",
@@ -5579,94 +5656,6 @@
    "more": 1,
    "ts": 1793750084,
    "photo": "photos/KEN_WALSH_CAROLINE_2026-00006073.jpg"
-  },
-  {
-   "key": "MKE_MLSNA_STIVEN_642828",
-   "name": "Stiven Mlsna",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793748467,
-   "photo": "photos/MKE_MLSNA_STIVEN_642828.jpg"
-  },
-  {
-   "key": "MKE_KING_LESTER_648113",
-   "name": "Lester F King",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Reckless Injury",
-   "more": 1,
-   "ts": 1793748465,
-   "photo": null
-  },
-  {
-   "key": "MKE_BLOODSON_LANA_398632",
-   "name": "Lana Tiara Bloodson",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793748463,
-   "photo": "photos/MKE_BLOODSON_LANA_398632.jpg"
-  },
-  {
-   "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03",
-   "name": "Nereyda Jazmin Villaseca Obil",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793746890,
-   "photo": "photos/MAR_VILLASECAOBIL_NEREYDA_2026-11-03.jpg"
-  },
-  {
-   "key": "MAR_KOHN_STACIE_2026-11-03",
-   "name": "Stacie Jean Kohn",
-   "age": "23",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793746858,
-   "photo": "photos/MAR_KOHN_STACIE_2026-11-03.jpg"
-  },
-  {
-   "key": "MKE_MOSLEY_CHYANN_601136",
-   "name": "Chyann Chardinea Mosley",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
-   "more": 11,
-   "ts": 1793746672,
-   "photo": "photos/MKE_MOSLEY_CHYANN_601136.jpg"
-  },
-  {
-   "key": "MKE_JEFFERSONTHORNTON_ALEXZANDERA_512207",
-   "name": "Alexzandera Jefferson-Thornton",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 4,
-   "ts": 1793746670,
-   "photo": null
-  },
-  {
-   "key": "MKE_JANNY_JENNIFER_634507",
-   "name": "Jennifer L Janny",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (7th, 8th or 9th)",
-   "more": 0,
-   "ts": 1793746668,
-   "photo": "photos/MKE_JANNY_JENNIFER_634507.jpg"
   }
  ]
 }
