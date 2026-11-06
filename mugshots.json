@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-06T02:49:30+00:00",
+ "updated": "2026-11-06T03:28:19+00:00",
  "items": [
+  {
+   "key": "DOU_SCHAAF_CADEN_2026-11-05",
+   "name": "Caden C Schaaf",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793935025,
+   "photo": "photos/DOU_SCHAAF_CADEN_2026-11-05.jpg"
+  },
+  {
+   "key": "FDL_KEDINGER_DEAN_2026-11-05",
+   "name": "Dean T Kedinger",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793934989,
+   "photo": "photos/FDL_KEDINGER_DEAN_2026-11-05.jpg"
+  },
+  {
+   "key": "KEN_ZELLMER_DMITRY_2026-00006127",
+   "name": "Dmitry Viktor Zellmer",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793933865,
+   "photo": "photos/KEN_ZELLMER_DMITRY_2026-00006127.jpg"
+  },
+  {
+   "key": "MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801",
+   "name": "Gerardo Gonzalez-Guzman",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1793933762,
+   "photo": "photos/MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801.jpg"
+  },
   {
    "key": "WILSON_ANTHONY_2026-11-05",
    "name": "Anthony D Wilson",
@@ -208,17 +252,6 @@
    "charge": "Probation Violation",
    "more": 2,
    "ts": 1793926026,
-   "photo": null
-  },
-  {
-   "key": "MKE_RIVERA_VALERIE_227358",
-   "name": "Valerie L Rivera",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793924872,
    "photo": null
   },
   {
@@ -495,42 +528,53 @@
    "more": 0,
    "ts": 1793859392,
    "photo": "photos/FDL_LEFEBER_JASON_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_BOQUIST_BROCK_2026-11-04_8609015",
-   "name": "Brock Alan Boquist",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793858242,
-   "photo": "photos/MAR_BOQUIST_BROCK_2026-11-04_8609015.jpg"
-  },
-  {
-   "key": "MAR_YOUNG_COLLIN_2026-11-04_4042109",
-   "name": "Collin Jay Young",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793858207,
-   "photo": "photos/MAR_YOUNG_COLLIN_2026-11-04_4042109.jpg"
-  },
-  {
-   "key": "MAR_POLZIN_DOUGLAS_2026-11-04_3020404",
-   "name": "Douglas William Polzin",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793858169,
-   "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04_3020404.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_SCHAAF_CADEN_2026-11-05",
+   "name": "Caden C Schaaf",
+   "age": "22",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793935025,
+   "photo": "photos/DOU_SCHAAF_CADEN_2026-11-05.jpg"
+  },
+  {
+   "key": "FDL_KEDINGER_DEAN_2026-11-05",
+   "name": "Dean T Kedinger",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1793934989,
+   "photo": "photos/FDL_KEDINGER_DEAN_2026-11-05.jpg"
+  },
+  {
+   "key": "KEN_ZELLMER_DMITRY_2026-00006127",
+   "name": "Dmitry Viktor Zellmer",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793933865,
+   "photo": "photos/KEN_ZELLMER_DMITRY_2026-00006127.jpg"
+  },
+  {
+   "key": "MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801",
+   "name": "Gerardo Gonzalez-Guzman",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1793933762,
+   "photo": "photos/MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801.jpg"
+  },
   {
    "key": "WILSON_ANTHONY_2026-11-05",
    "name": "Anthony D Wilson",
@@ -5534,17 +5578,6 @@
    "charge": "Charges:",
    "more": 2,
    "ts": 1793679427,
-   "photo": null
-  },
-  {
-   "key": "DOU_SWANSTROM_BRODIE_2026-11-02",
-   "name": "Brodie T Swanstrom",
-   "age": "29",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793675831,
    "photo": null
   }
  ]
