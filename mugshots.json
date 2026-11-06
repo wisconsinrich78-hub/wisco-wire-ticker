@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-06T07:49:31+00:00",
+ "updated": "2026-11-06T08:28:11+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_BRIDGETTE_157653",
+   "name": "Bridgette Lashonne Williams",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793953657,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOPEZ_FRANCISCO_240046",
+   "name": "Francisco Javier Lopez",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property <=$2500",
+   "more": 0,
+   "ts": 1793953655,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_DORRIEN_648159",
+   "name": "Dorrien C Jones",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793953653,
+   "photo": null
+  },
+  {
+   "key": "MKE_HICKS_HAKEEM_409654",
+   "name": "Hakeem Hicks",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793953652,
+   "photo": null
+  },
+  {
+   "key": "MKE_FREEMAN_BIANCA_648158",
+   "name": "Bianca Freeman",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793953650,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_KEYANNA_536394",
+   "name": "Keyanna Denise Robinson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793951894,
+   "photo": null
+  },
+  {
+   "key": "MKE_GUY_DAVID_624981",
+   "name": "David Terrell Guy",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793951892,
+   "photo": null
+  },
+  {
+   "key": "MAR_ELLIS_RORY_2026-11-05_608001",
+   "name": "Rory Joseph Ellis",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 1,
+   "ts": 1793951731,
+   "photo": "photos/MAR_ELLIS_RORY_2026-11-05_608001.jpg"
+  },
   {
    "key": "RC_FREDRICKSON_RORY_120011075996408",
    "name": "Rory Myron Fredrickson",
@@ -145,61 +233,6 @@
    "photo": "photos/FDL_PEREZMARTINEZ_CALIXTO_2026-11-05.jpg"
   },
   {
-   "key": "KEN_SCHULER_ALEXIS_2026-00006128",
-   "name": "Alexis Schuler",
-   "age": "",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793937615,
-   "photo": null
-  },
-  {
-   "key": "KEN_NAPIER_RUSSELL_2026-00006129",
-   "name": "Russell Napier",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793937542,
-   "photo": null
-  },
-  {
-   "key": "MKE_WALKER_ANTONIO_361012",
-   "name": "Antonio M Walker",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793937489,
-   "photo": null
-  },
-  {
-   "key": "KEN_GITTENS_KARI_2026-00006130",
-   "name": "Kari Lynn Gittens",
-   "age": "57",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Disobey Order",
-   "more": 1,
-   "ts": 1793937475,
-   "photo": "photos/KEN_GITTENS_KARI_2026-00006130.jpg"
-  },
-  {
-   "key": "RC_PRICE_ANGELA_120011075992851",
-   "name": "Angela Ann Price",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793936865,
-   "photo": "photos/RC_PRICE_ANGELA_120011075992851.jpg"
-  },
-  {
    "key": "DOU_SCHAAF_CADEN_2026-11-05",
    "name": "Caden C Schaaf",
    "age": "22",
@@ -222,17 +255,6 @@
    "photo": "photos/FDL_KEDINGER_DEAN_2026-11-05.jpg"
   },
   {
-   "key": "KEN_ZELLMER_DMITRY_2026-00006127",
-   "name": "Dmitry Viktor Zellmer",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 2,
-   "ts": 1793933865,
-   "photo": "photos/KEN_ZELLMER_DMITRY_2026-00006127.jpg"
-  },
-  {
    "key": "MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801",
    "name": "Gerardo Gonzalez-Guzman",
    "age": "31",
@@ -252,17 +274,6 @@
    "charge": "Retail Theft <$500",
    "more": 3,
    "ts": 1793933242,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_DAMION_612343",
-   "name": "Damion Deshun Thomas",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793932062,
    "photo": null
   },
   {
@@ -517,20 +528,97 @@
    "more": 0,
    "ts": 1793891065,
    "photo": "photos/MAR_ANDRUSS_JOSEPH_2026-11-03_17051201.jpg"
-  },
-  {
-   "key": "MAR_FULLER_JOSHUA_2026-11-03_2278916",
-   "name": "Joshua Michael Fuller",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 4,
-   "ts": 1793891024,
-   "photo": "photos/MAR_FULLER_JOSHUA_2026-11-03_2278916.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_BRIDGETTE_157653",
+   "name": "Bridgette Lashonne Williams",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793953657,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOPEZ_FRANCISCO_240046",
+   "name": "Francisco Javier Lopez",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property <=$2500",
+   "more": 0,
+   "ts": 1793953655,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_DORRIEN_648159",
+   "name": "Dorrien C Jones",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793953653,
+   "photo": null
+  },
+  {
+   "key": "MKE_HICKS_HAKEEM_409654",
+   "name": "Hakeem Hicks",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793953652,
+   "photo": null
+  },
+  {
+   "key": "MKE_FREEMAN_BIANCA_648158",
+   "name": "Bianca Freeman",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1793953650,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_KEYANNA_536394",
+   "name": "Keyanna Denise Robinson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793951894,
+   "photo": null
+  },
+  {
+   "key": "MKE_GUY_DAVID_624981",
+   "name": "David Terrell Guy",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793951892,
+   "photo": null
+  },
+  {
+   "key": "MAR_ELLIS_RORY_2026-11-05_608001",
+   "name": "Rory Joseph Ellis",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 1,
+   "ts": 1793951731,
+   "photo": "photos/MAR_ELLIS_RORY_2026-11-05_608001.jpg"
+  },
   {
    "key": "RC_FREDRICKSON_RORY_120011075996408",
    "name": "Rory Myron Fredrickson",
@@ -845,7 +933,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
+   "charge": "2nd/Sub. Drug Off.-Class E/F/G/H/I Fel.",
    "more": 41,
    "ts": 1793930320,
    "photo": null
@@ -991,7 +1079,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793924872,
-   "photo": null
+   "photo": "photos/MKE_RIVERA_VALERIE_227358.jpg"
   },
   {
    "key": "MKE_PIRTLE_MARCIA_239052",
@@ -1079,7 +1167,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1793921282,
-   "photo": null
+   "photo": "photos/MKE_SANABRIA_DONOVAN_648152.jpg"
   },
   {
    "key": "MKE_PETERS_JAMES_644841",
@@ -1167,7 +1255,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793919487,
-   "photo": null
+   "photo": "photos/MKE_MITCHELL_LACHARLES_630396.jpg"
   },
   {
    "key": "MKE_DOTSON_RICHARD_171936",
@@ -1178,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793919485,
-   "photo": null
+   "photo": "photos/MKE_DOTSON_RICHARD_171936.jpg"
   },
   {
    "key": "MKE_BROOKSHIRE_DAMIEN_630189",
@@ -1189,7 +1277,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1793919484,
-   "photo": null
+   "photo": "photos/MKE_BROOKSHIRE_DAMIEN_630189.jpg"
   },
   {
    "key": "FANNINGSTANFORD_KENNETH_2026-11-05",
@@ -1277,7 +1365,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793915875,
-   "photo": null
+   "photo": "photos/MKE_HOERIG_MICHAEL_315718.jpg"
   },
   {
    "key": "GRAHAM_LC_2026-11-05",
@@ -5601,17 +5689,6 @@
    "more": 0,
    "ts": 1793695778,
    "photo": "photos/RC_ROGERSIRISH_CARL_120011075868955.jpg"
-  },
-  {
-   "key": "MKE_HILL_BURTON_386339",
-   "name": "Burton L Hill",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793694452,
-   "photo": "photos/MKE_HILL_BURTON_386339.jpg"
   }
  ]
 }
