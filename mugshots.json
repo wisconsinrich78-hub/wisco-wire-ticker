@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-06T17:28:17+00:00",
+ "updated": "2026-11-06T17:49:27+00:00",
  "items": [
+  {
+   "key": "RC_STEVENS_DAVID_120011076011984",
+   "name": "David M Stevens",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793987282,
+   "photo": "photos/RC_STEVENS_DAVID_120011076011984.jpg"
+  },
+  {
+   "key": "RC_MAIKRANZ_JOSEPH_120011076009704",
+   "name": "Joseph Jesse Maikranz",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate/Go Armed w/ Firearm-Intoxicated",
+   "more": 0,
+   "ts": 1793987279,
+   "photo": "photos/RC_MAIKRANZ_JOSEPH_120011076009704.jpg"
+  },
+  {
+   "key": "RC_HAAS_RICHARD_120011076010201",
+   "name": "Richard Michael Haas",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793987276,
+   "photo": "photos/RC_HAAS_RICHARD_120011076010201.jpg"
+  },
+  {
+   "key": "RC_DIAZ_JUAN_120011076010670",
+   "name": "Juan Jose Diaz",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating with Restricted Controlled Substance in Blood - 1st Offense,",
+   "more": 0,
+   "ts": 1793987272,
+   "photo": "photos/RC_DIAZ_JUAN_120011076010670.jpg"
+  },
   {
    "key": "MKE_MORTENSEN_JAMIE_630865",
    "name": "Jamie Elizabeth Mortensen",
@@ -153,50 +197,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793980764,
-   "photo": null
-  },
-  {
-   "key": "MKE_VARNADOSILAS_AARON_648163",
-   "name": "Aaron A Varnado Silas",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980754,
-   "photo": null
-  },
-  {
-   "key": "MKE_SMITH_RICCO_266084",
-   "name": "Ricco Royal Smith",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793980751,
-   "photo": null
-  },
-  {
-   "key": "MKE_RUSSELL_DYLANN_648164",
-   "name": "Dylann Anthony Russell",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980744,
-   "photo": null
-  },
-  {
-   "key": "MKE_HAMILTON_WENDELL_176925",
-   "name": "Wendell Gregory Hamilton",
-   "age": "64",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793980735,
    "photo": null
   },
   {
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_STEVENS_DAVID_120011076011984",
+   "name": "David M Stevens",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793987282,
+   "photo": "photos/RC_STEVENS_DAVID_120011076011984.jpg"
+  },
+  {
+   "key": "RC_MAIKRANZ_JOSEPH_120011076009704",
+   "name": "Joseph Jesse Maikranz",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate/Go Armed w/ Firearm-Intoxicated",
+   "more": 0,
+   "ts": 1793987279,
+   "photo": "photos/RC_MAIKRANZ_JOSEPH_120011076009704.jpg"
+  },
+  {
+   "key": "RC_HAAS_RICHARD_120011076010201",
+   "name": "Richard Michael Haas",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1793987276,
+   "photo": "photos/RC_HAAS_RICHARD_120011076010201.jpg"
+  },
+  {
+   "key": "RC_DIAZ_JUAN_120011076010670",
+   "name": "Juan Jose Diaz",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating with Restricted Controlled Substance in Blood - 1st Offense,",
+   "more": 0,
+   "ts": 1793987272,
+   "photo": "photos/RC_DIAZ_JUAN_120011076010670.jpg"
+  },
   {
    "key": "MKE_MORTENSEN_JAMIE_630865",
    "name": "Jamie Elizabeth Mortensen",
@@ -5623,83 +5667,6 @@
    "more": 0,
    "ts": 1793729006,
    "photo": "photos/MAR_VANG_PHOOJYWG_2026-11-03.jpg"
-  },
-  {
-   "key": "RC_WALLACE_CHARLES_120011075893484",
-   "name": "Charles Lee Wallace",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728084,
-   "photo": null
-  },
-  {
-   "key": "RC_THOMAS_JENNIFER_120011075891601",
-   "name": "Jennifer M Thomas",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728082,
-   "photo": "photos/RC_THOMAS_JENNIFER_120011075891601.jpg"
-  },
-  {
-   "key": "RC_SMITH_JAMAAL_120011075893394",
-   "name": "Jamaal Smith",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728080,
-   "photo": null
-  },
-  {
-   "key": "RC_JAIMES_NOAH_120011075891755",
-   "name": "Noah Ciro Jaimes",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728077,
-   "photo": "photos/RC_JAIMES_NOAH_120011075891755.jpg"
-  },
-  {
-   "key": "RC_DANCER_BARON_120011075893092",
-   "name": "Baron Dancer",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728075,
-   "photo": null
-  },
-  {
-   "key": "RC_BUNTON_CRAIG_120011075893266",
-   "name": "Craig Bunton",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728072,
-   "photo": null
-  },
-  {
-   "key": "RC_BRANTMIER_JACOB_120011075892991",
-   "name": "Jacob Brantmier",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793728070,
-   "photo": null
   }
  ]
 }
