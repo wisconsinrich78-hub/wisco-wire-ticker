@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-06T10:28:47+00:00",
+ "updated": "2026-11-06T10:49:40+00:00",
  "items": [
+  {
+   "key": "TREM_SALWEY_HANNAH_4538",
+   "name": "Hannah Marie Salwey",
+   "age": "27",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 2nd Offense",
+   "more": 0,
+   "ts": 1793962041,
+   "photo": "photos/TREM_SALWEY_HANNAH_4538.jpg"
+  },
+  {
+   "key": "TREM_CAMPBELL_JADE_6204",
+   "name": "Jade Ari Campbell",
+   "age": "34",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1793962039,
+   "photo": "photos/TREM_CAMPBELL_JADE_6204.jpg"
+  },
+  {
+   "key": "TREM_BODOH_TAMMY_5449",
+   "name": "Tammy Lynn Bodoh",
+   "age": "39",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793962037,
+   "photo": "photos/TREM_BODOH_TAMMY_5449.jpg"
+  },
+  {
+   "key": "TREM_BEDE_CECELIA_6203",
+   "name": "Cecelia Priscilla Bede",
+   "age": "47",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 5th or 6th Offense",
+   "more": 0,
+   "ts": 1793962036,
+   "photo": "photos/TREM_BEDE_CECELIA_6203.jpg"
+  },
   {
    "key": "MKE_LEWIS_LESENT_2030198",
    "name": "Lesent LL Lewis",
@@ -74,7 +118,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Theft-Movable Property <=$2500",
-   "more": 0,
+   "more": 3,
    "ts": 1793953655,
    "photo": null
   },
@@ -484,53 +528,53 @@
    "more": 0,
    "ts": 1793899404,
    "photo": null
-  },
-  {
-   "key": "ERICKSON_RICHARD_2026-11-05",
-   "name": "Richard D Erickson",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793899404,
-   "photo": null
-  },
-  {
-   "key": "DOU_MACKIE_ARLENE_2026-11-05",
-   "name": "Arlene R Mackie",
-   "age": "56",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
-   "ts": 1793899032,
-   "photo": "photos/DOU_MACKIE_ARLENE_2026-11-05.jpg"
-  },
-  {
-   "key": "ASHMORE_DAVID_2026-11-05",
-   "name": "David J Ashmore",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793897233,
-   "photo": null
-  },
-  {
-   "key": "ASHMORE_CHRISTINA_2026-11-05",
-   "name": "Christina L Ashmore",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793896091,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "TREM_SALWEY_HANNAH_4538",
+   "name": "Hannah Marie Salwey",
+   "age": "27",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 2nd Offense",
+   "more": 0,
+   "ts": 1793962041,
+   "photo": "photos/TREM_SALWEY_HANNAH_4538.jpg"
+  },
+  {
+   "key": "TREM_CAMPBELL_JADE_6204",
+   "name": "Jade Ari Campbell",
+   "age": "34",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1793962039,
+   "photo": "photos/TREM_CAMPBELL_JADE_6204.jpg"
+  },
+  {
+   "key": "TREM_BODOH_TAMMY_5449",
+   "name": "Tammy Lynn Bodoh",
+   "age": "39",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793962037,
+   "photo": "photos/TREM_BODOH_TAMMY_5449.jpg"
+  },
+  {
+   "key": "TREM_BEDE_CECELIA_6203",
+   "name": "Cecelia Priscilla Bede",
+   "age": "47",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating While Intoxicated - 5th or 6th Offense",
+   "more": 0,
+   "ts": 1793962036,
+   "photo": "photos/TREM_BEDE_CECELIA_6203.jpg"
+  },
   {
    "key": "MKE_LEWIS_LESENT_2030198",
    "name": "Lesent LL Lewis",
@@ -604,7 +648,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Theft-Movable Property <=$2500",
-   "more": 0,
+   "more": 3,
    "ts": 1793953655,
    "photo": null
   },
@@ -5535,17 +5579,6 @@
    "more": 1,
    "ts": 1793703457,
    "photo": "photos/MKE_GALIOTO_MANDI_510997.jpg"
-  },
-  {
-   "key": "RC_DELEON_SELENA_120011075870834",
-   "name": "Selena Deleon",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793702869,
-   "photo": "photos/RC_DELEON_SELENA_120011075870834.jpg"
   }
  ]
 }
