@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-06T13:49:30+00:00",
+ "updated": "2026-11-06T14:28:57+00:00",
  "items": [
+  {
+   "key": "MKE_ZAMORA_ROY_544090",
+   "name": "Roy Abysael Zamora",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793975267,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_GLENN_376807",
+   "name": "Glenn L Taylor",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 2,
+   "ts": 1793973477,
+   "photo": "photos/MKE_TAYLOR_GLENN_376807.jpg"
+  },
+  {
+   "key": "MKE_MCCALL_TERRIAH_648160",
+   "name": "Terriah L McCall",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793973475,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_BRITTANY_356747",
+   "name": "Brittany J Jones",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793973473,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOODMAN_ANDRE_637616",
+   "name": "Andre Howard Goodman",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 0,
+   "ts": 1793973471,
+   "photo": "photos/MKE_GOODMAN_ANDRE_637616.jpg"
+  },
+  {
+   "key": "MAR_BOLLER_JERRY_2026-11-06",
+   "name": "Jerry Lee Boller",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1793973321,
+   "photo": "photos/MAR_BOLLER_JERRY_2026-11-06.jpg"
+  },
   {
    "key": "FDL_FUNK_CADENCE_2026-11-06",
    "name": "Cadence Melissa Funk",
@@ -208,7 +274,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793953652,
-   "photo": null
+   "photo": "photos/MKE_HICKS_HAKEEM_409654.jpg"
   },
   {
    "key": "MKE_FREEMAN_BIANCA_648158",
@@ -222,28 +288,6 @@
    "photo": null
   },
   {
-   "key": "MKE_ROBINSON_KEYANNA_536394",
-   "name": "Keyanna Denise Robinson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793951894,
-   "photo": null
-  },
-  {
-   "key": "MKE_GUY_DAVID_624981",
-   "name": "David Terrell Guy",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793951892,
-   "photo": "photos/MKE_GUY_DAVID_624981.jpg"
-  },
-  {
    "key": "MAR_ELLIS_RORY_2026-11-05_608001",
    "name": "Rory Joseph Ellis",
    "age": "34",
@@ -253,17 +297,6 @@
    "more": 1,
    "ts": 1793951731,
    "photo": "photos/MAR_ELLIS_RORY_2026-11-05_608001.jpg"
-  },
-  {
-   "key": "RC_FREDRICKSON_RORY_120011075996408",
-   "name": "Rory Myron Fredrickson",
-   "age": "65",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence(3Rd)",
-   "more": 4,
-   "ts": 1793951274,
-   "photo": "photos/RC_FREDRICKSON_RORY_120011075996408.jpg"
   },
   {
    "key": "FDL_LUNDE_ANGELA_2026-11-06",
@@ -277,17 +310,6 @@
    "photo": "photos/FDL_LUNDE_ANGELA_2026-11-06.jpg"
   },
   {
-   "key": "MKE_JANOWIAK_HALEY_648157",
-   "name": "Haley Kay Janowiak",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Causing Mental Harm to Child",
-   "more": 0,
-   "ts": 1793946471,
-   "photo": "photos/MKE_JANOWIAK_HALEY_648157.jpg"
-  },
-  {
    "key": "MAR_ELLIS_RORY_2026-11-05",
    "name": "Rory Joseph Ellis",
    "age": "34",
@@ -297,17 +319,6 @@
    "more": 1,
    "ts": 1793944561,
    "photo": null
-  },
-  {
-   "key": "MKE_SYLVAS_KEVIN_371068",
-   "name": "Kevin Obrian Sylvas",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793942870,
-   "photo": "photos/MKE_SYLVAS_KEVIN_371068.jpg"
   },
   {
    "key": "MAR_MICHELS_JOSHUA_2026-11-05_30002",
@@ -517,20 +528,75 @@
    "more": 0,
    "ts": 1793906819,
    "photo": null
-  },
-  {
-   "key": "CHRISTENSON_MORGAN_2026-11-05",
-   "name": "Morgan A Christenson",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Out Of County Warrant",
-   "more": 0,
-   "ts": 1793903181,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ZAMORA_ROY_544090",
+   "name": "Roy Abysael Zamora",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793975267,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_GLENN_376807",
+   "name": "Glenn L Taylor",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 2,
+   "ts": 1793973477,
+   "photo": "photos/MKE_TAYLOR_GLENN_376807.jpg"
+  },
+  {
+   "key": "MKE_MCCALL_TERRIAH_648160",
+   "name": "Terriah L McCall",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793973475,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_BRITTANY_356747",
+   "name": "Brittany J Jones",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793973473,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOODMAN_ANDRE_637616",
+   "name": "Andre Howard Goodman",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 0,
+   "ts": 1793973471,
+   "photo": "photos/MKE_GOODMAN_ANDRE_637616.jpg"
+  },
+  {
+   "key": "MAR_BOLLER_JERRY_2026-11-06",
+   "name": "Jerry Lee Boller",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1793973321,
+   "photo": "photos/MAR_BOLLER_JERRY_2026-11-06.jpg"
+  },
   {
    "key": "FDL_FUNK_CADENCE_2026-11-06",
    "name": "Cadence Melissa Funk",
@@ -738,7 +804,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793953652,
-   "photo": null
+   "photo": "photos/MKE_HICKS_HAKEEM_409654.jpg"
   },
   {
    "key": "MKE_FREEMAN_BIANCA_648158",
@@ -848,7 +914,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793942868,
-   "photo": null
+   "photo": "photos/MKE_NASH_FREDERICK_648156.jpg"
   },
   {
    "key": "MKE_FOLEY_DAMIEN_648155",
@@ -892,7 +958,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793941054,
-   "photo": null
+   "photo": "photos/MKE_DALTON_KEVIN_188001.jpg"
   },
   {
    "key": "MAR_MICHELS_JOSHUA_2026-11-05_30002",
@@ -1046,7 +1112,7 @@
    "charge": "Charges Pending",
    "more": 14,
    "ts": 1793932062,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_DAMION_612343.jpg"
   },
   {
    "key": "MKE_TAYLOR_ARION_639269",
@@ -5546,39 +5612,6 @@
    "more": 0,
    "ts": 1793718973,
    "photo": "photos/FDL_BARTA_JULIE_2026-11-03.jpg"
-  },
-  {
-   "key": "MKE_FRANKLIN_RAYNARD_378062",
-   "name": "Raynard Franklin",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793716052,
-   "photo": "photos/MKE_FRANKLIN_RAYNARD_378062.jpg"
-  },
-  {
-   "key": "MAR_ANDRUSS_JOSEPH_2026-11-03_NOIMAGE",
-   "name": "Joseph Allen Andruss",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793714191,
-   "photo": null
-  },
-  {
-   "key": "MAR_CAROLFI_SCOTT_2026-11-03",
-   "name": "Scott Duane Carolfi",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1793714155,
-   "photo": "photos/MAR_CAROLFI_SCOTT_2026-11-03.jpg"
   }
  ]
 }
