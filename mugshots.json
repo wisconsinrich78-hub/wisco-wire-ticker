@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T20:29:01+00:00",
+ "updated": "2026-11-06T20:49:35+00:00",
  "items": [
+  {
+   "key": "BERG_TYLER_2026-11-06",
+   "name": "Tyler N Berg",
+   "age": "39",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft-Intentionally Take <=$2,500",
+   "more": 0,
+   "ts": 1793998042,
+   "photo": null
+  },
   {
    "key": "MKE_LEACHMAN_PHIERLIS_640679",
    "name": "Phierlis Gerome Leachman",
@@ -517,20 +528,20 @@
    "more": 3,
    "ts": 1793926027,
    "photo": null
-  },
-  {
-   "key": "ECHEVERRIA_JOSE_2026-11-05",
-   "name": "Jose R Echeverria",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1793926026,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "BERG_TYLER_2026-11-06",
+   "name": "Tyler N Berg",
+   "age": "39",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft-Intentionally Take <=$2,500",
+   "more": 0,
+   "ts": 1793998042,
+   "photo": null
+  },
   {
    "key": "MKE_LEACHMAN_PHIERLIS_640679",
    "name": "Phierlis Gerome Leachman",
@@ -5700,61 +5711,6 @@
    "more": 0,
    "ts": 1793739350,
    "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03.jpg"
-  },
-  {
-   "key": "RC_TAYLOR_MICHAEL_120011075899667",
-   "name": "Michael Charles Nathani Taylor",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793738890,
-   "photo": null
-  },
-  {
-   "key": "RC_REYES_JUAN_120011075899609",
-   "name": "Juan Reyes",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793738887,
-   "photo": "photos/RC_REYES_JUAN_120011075899609.jpg"
-  },
-  {
-   "key": "RC_REYES_JR_120011075899689",
-   "name": "Jr Gerardo Reyes",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793738884,
-   "photo": "photos/RC_REYES_JR_120011075899689.jpg"
-  },
-  {
-   "key": "RC_GALVAN_ABEL_120011075899698",
-   "name": "Abel Galvan",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid License (2Nd W/In 3 Yrs)",
-   "more": 0,
-   "ts": 1793738880,
-   "photo": null
-  },
-  {
-   "key": "RC_ELLIS_FAAREZ_120011075893580",
-   "name": "Faarez Ellis",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1793738877,
-   "photo": "photos/RC_ELLIS_FAAREZ_120011075893580.jpg"
   }
  ]
 }
