@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T06:49:27+00:00",
+ "updated": "2026-11-06T07:28:17+00:00",
  "items": [
+  {
+   "key": "FDL_LUNDE_ANGELA_2026-11-06",
+   "name": "Angela Jean Lunde",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 0,
+   "ts": 1793949396,
+   "photo": "photos/FDL_LUNDE_ANGELA_2026-11-06.jpg"
+  },
   {
    "key": "MKE_JANOWIAK_HALEY_648157",
    "name": "Haley Kay Janowiak",
@@ -517,20 +528,20 @@
    "more": 4,
    "ts": 1793891024,
    "photo": "photos/MAR_FULLER_JOSHUA_2026-11-03_2278916.jpg"
-  },
-  {
-   "key": "MAR_SIMMONS_TRACEY_2026-11-04",
-   "name": "Tracey Marie Simmons",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1793890986,
-   "photo": "photos/MAR_SIMMONS_TRACEY_2026-11-04.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_LUNDE_ANGELA_2026-11-06",
+   "name": "Angela Jean Lunde",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 0,
+   "ts": 1793949396,
+   "photo": "photos/FDL_LUNDE_ANGELA_2026-11-06.jpg"
+  },
   {
    "key": "MKE_JANOWIAK_HALEY_648157",
    "name": "Haley Kay Janowiak",
@@ -1299,7 +1310,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793914056,
-   "photo": null
+   "photo": "photos/MKE_SHELBY_AVERY_618341.jpg"
   },
   {
    "key": "MKE_HAWKINS_DANIEL_340124",
@@ -1310,7 +1321,7 @@
    "charge": "Possession of Cocaine/Coca (2nd+)",
    "more": 3,
    "ts": 1793914055,
-   "photo": null
+   "photo": "photos/MKE_HAWKINS_DANIEL_340124.jpg"
   },
   {
    "key": "MKE_CARRINGTON_ALEXIS_385243",
@@ -1321,7 +1332,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793914053,
-   "photo": null
+   "photo": "photos/MKE_CARRINGTON_ALEXIS_385243.jpg"
   },
   {
    "key": "RC_ANDRESEN_CONNIE_120011075980822",
@@ -1340,7 +1351,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Sale/Possess/Use/Transport Machine Guns",
    "more": 5,
    "ts": 1793910458,
    "photo": null
@@ -1387,7 +1398,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793908668,
-   "photo": null
+   "photo": "photos/MKE_HENRY_IVEN_648148.jpg"
   },
   {
    "key": "KEN_FARHAN_AMIR_2026-00006112",
@@ -5601,28 +5612,6 @@
    "more": 1,
    "ts": 1793692026,
    "photo": null
-  },
-  {
-   "key": "MKE_PAYNE_QUIANNA_637283",
-   "name": "Quianna Aaliyah Payne",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1793689118,
-   "photo": "photos/MKE_PAYNE_QUIANNA_637283.jpg"
-  },
-  {
-   "key": "MKE_LAWRENCE_PHILLIP_240291",
-   "name": "Phillip Phillip Lawrence",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793689117,
-   "photo": "photos/MKE_LAWRENCE_PHILLIP_240291.jpg"
   }
  ]
 }
