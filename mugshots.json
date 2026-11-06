@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-06T21:28:19+00:00",
+ "updated": "2026-11-06T21:49:33+00:00",
  "items": [
+  {
+   "key": "RC_TOLIVER_ANTWYAN_120011076020836",
+   "name": "Antwyan Laron Toliver",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794001676,
+   "photo": null
+  },
+  {
+   "key": "RC_OZIER_DEMETRUS_120011076020566",
+   "name": "Demetrus Niquel Ozier",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794001673,
+   "photo": "photos/RC_OZIER_DEMETRUS_120011076020566.jpg"
+  },
+  {
+   "key": "MKE_EPPS_DOWELL_636268",
+   "name": "Dowell Epps",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property-Special Facts",
+   "more": 0,
+   "ts": 1794000500,
+   "photo": "photos/MKE_EPPS_DOWELL_636268.jpg"
+  },
   {
    "key": "FDL_SHAY_BRITTANY_2026-11-06",
    "name": "Brittany Shay",
@@ -241,39 +274,6 @@
    "charge": "Injury by Negligent Use/Weapon/Explosive",
    "more": 2,
    "ts": 1793991486,
-   "photo": null
-  },
-  {
-   "key": "RC_TOWNSEND_PERREYON_120011076013819",
-   "name": "Perreyon E Townsend",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793990893,
-   "photo": "photos/RC_TOWNSEND_PERREYON_120011076013819.jpg"
-  },
-  {
-   "key": "RC_SPICER_JOHN_120011076013464",
-   "name": "John S Spicer",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793990890,
-   "photo": null
-  },
-  {
-   "key": "RC_MRUK_DANIEL_120011076012844",
-   "name": "Daniel Timothy Mruk",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession Of Cocaine",
-   "more": 7,
-   "ts": 1793990887,
    "photo": null
   },
   {
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_TOLIVER_ANTWYAN_120011076020836",
+   "name": "Antwyan Laron Toliver",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794001676,
+   "photo": null
+  },
+  {
+   "key": "RC_OZIER_DEMETRUS_120011076020566",
+   "name": "Demetrus Niquel Ozier",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794001673,
+   "photo": "photos/RC_OZIER_DEMETRUS_120011076020566.jpg"
+  },
+  {
+   "key": "MKE_EPPS_DOWELL_636268",
+   "name": "Dowell Epps",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property-Special Facts",
+   "more": 0,
+   "ts": 1794000500,
+   "photo": "photos/MKE_EPPS_DOWELL_636268.jpg"
+  },
   {
    "key": "FDL_SHAY_BRITTANY_2026-11-06",
    "name": "Brittany Shay",
@@ -5667,39 +5700,6 @@
    "more": 0,
    "ts": 1793742956,
    "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03_4613817.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_KEYONTA_120011075901001",
-   "name": "Keyonta T Williams",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793742490,
-   "photo": "photos/RC_WILLIAMS_KEYONTA_120011075901001.jpg"
-  },
-  {
-   "key": "RC_FLOWERS_DEDRICK_120011075900923",
-   "name": "Dedrick Lavell Flowers",
-   "age": "49",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793742488,
-   "photo": "photos/RC_FLOWERS_DEDRICK_120011075900923.jpg"
-  },
-  {
-   "key": "KING_ANTWAN_2026-11-03",
-   "name": "Antwan L King",
-   "age": "50",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Court",
-   "more": 0,
-   "ts": 1793742445,
-   "photo": null
   }
  ]
 }
