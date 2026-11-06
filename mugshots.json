@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T23:29:18+00:00",
+ "updated": "2026-11-06T23:49:38+00:00",
  "items": [
+  {
+   "key": "RC_LOTHARIUS_TROY_120011076022769",
+   "name": "Troy William Lotharius",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794008868,
+   "photo": null
+  },
+  {
+   "key": "RC_JONES_JORDAN_120011076022363",
+   "name": "Jordan Lee Jones",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794008866,
+   "photo": "photos/RC_JONES_JORDAN_120011076022363.jpg"
+  },
   {
    "key": "MKE_STEWART_JIMMY_621190",
    "name": "Jimmy J Stewart",
@@ -129,7 +151,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 1,
+   "more": 3,
    "ts": 1794002269,
    "photo": null
   },
@@ -198,28 +220,6 @@
    "more": 0,
    "ts": 1793999779,
    "photo": null
-  },
-  {
-   "key": "KEN_PAYNE_ANTONIO_2026-00006141",
-   "name": "Antonio Payne",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793999732,
-   "photo": null
-  },
-  {
-   "key": "KEN_LANE_DERRELL_2026-00006138",
-   "name": "Derrell Derrico Lane",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793999693,
-   "photo": "photos/KEN_LANE_DERRELL_2026-00006138.jpg"
   },
   {
    "key": "BERG_TYLER_2026-11-06",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "RC_LOTHARIUS_TROY_120011076022769",
+   "name": "Troy William Lotharius",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794008868,
+   "photo": null
+  },
+  {
+   "key": "RC_JONES_JORDAN_120011076022363",
+   "name": "Jordan Lee Jones",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794008866,
+   "photo": "photos/RC_JONES_JORDAN_120011076022363.jpg"
+  },
+  {
    "key": "MKE_STEWART_JIMMY_621190",
    "name": "Jimmy J Stewart",
    "age": "23",
@@ -659,7 +681,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 1,
+   "more": 3,
    "ts": 1794002269,
    "photo": null
   },
@@ -790,7 +812,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Domestic Abuse-Act to Create Fear",
    "more": 1,
    "ts": 1793995087,
    "photo": null
@@ -1024,7 +1046,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793989663,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_LAVONSKI_294290.jpg"
   },
   {
    "key": "FDL_HOOPMAN_LYNNETTE_2026-11-06",
@@ -1153,10 +1175,10 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Battery",
    "more": 1,
    "ts": 1793984307,
-   "photo": null
+   "photo": "photos/MKE_POLNITZ_DAVEON_639381.jpg"
   },
   {
    "key": "MKE_EVANS_MICHAEL_168892",
@@ -1277,7 +1299,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1793980735,
-   "photo": null
+   "photo": "photos/MKE_HAMILTON_WENDELL_176925.jpg"
   },
   {
    "key": "MKE_GRIERHARRIS_TERRELL_648161",
