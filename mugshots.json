@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T19:49:31+00:00",
+ "updated": "2026-11-06T20:02:01+00:00",
  "items": [
+  {
+   "key": "MKE_RIVERA_JOSHUA_635215",
+   "name": "Joshua Rivera",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793995087,
+   "photo": null
+  },
+  {
+   "key": "MKE_PAYNE_TAMARA_648167",
+   "name": "Tamara P Payne",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793995085,
+   "photo": null
+  },
   {
    "key": "RC_HENDERSON_WILLIE_120011076015031",
    "name": "Willie Robert Henderson",
@@ -211,17 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JACKSON_LAVONSKI_294290",
-   "name": "Lavonski Lavon Jackson",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793989663,
-   "photo": null
-  },
-  {
    "key": "FDL_HOOPMAN_LYNNETTE_2026-11-06",
    "name": "Lynnette A Hoopman",
    "age": "",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1793989000,
    "photo": "photos/FDL_HOOPMAN_LYNNETTE_2026-11-06.jpg"
-  },
-  {
-   "key": "RC_STEVENS_DAVID_120011076011984",
-   "name": "David M Stevens",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793987282,
-   "photo": "photos/RC_STEVENS_DAVID_120011076011984.jpg"
   },
   {
    "key": "DOU_STRONG_CHARLZ_2026-10-30",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_RIVERA_JOSHUA_635215",
+   "name": "Joshua Rivera",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793995087,
+   "photo": null
+  },
+  {
+   "key": "MKE_PAYNE_TAMARA_648167",
+   "name": "Tamara P Payne",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793995085,
+   "photo": null
+  },
   {
    "key": "RC_HENDERSON_WILLIE_120011076015031",
    "name": "Willie Robert Henderson",
@@ -1167,7 +1189,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793964455,
-   "photo": null
+   "photo": "photos/MKE_HALL_LARRY_248606.jpg"
   },
   {
    "key": "FDL_GAMESGAMEZ_MARTIRES_2026-11-06",
@@ -1266,7 +1288,7 @@
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 9,
    "ts": 1793959065,
-   "photo": null
+   "photo": "photos/MKE_LEWIS_LESENT_2030198.jpg"
   },
   {
    "key": "MAR_MITCHELL_ALIVIA_2026-11-06",
@@ -1343,7 +1365,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793953653,
-   "photo": null
+   "photo": "photos/MKE_JONES_DORRIEN_648159.jpg"
   },
   {
    "key": "MKE_HICKS_HAKEEM_409654",
@@ -5711,28 +5733,6 @@
    "more": 0,
    "ts": 1793738877,
    "photo": "photos/RC_ELLIS_FAAREZ_120011075893580.jpg"
-  },
-  {
-   "key": "MKE_TURNER_MICHAEL_376975",
-   "name": "Michael Avant Turner",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Tpr-Fail/Assume Parental Responsibility",
-   "more": 1,
-   "ts": 1793735867,
-   "photo": "photos/MKE_TURNER_MICHAEL_376975.jpg"
-  },
-  {
-   "key": "MKE_STEPHENS_JERMAINE_282166",
-   "name": "Jermaine Lashone Stephens",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793735865,
-   "photo": "photos/MKE_STEPHENS_JERMAINE_282166.jpg"
   }
  ]
 }
