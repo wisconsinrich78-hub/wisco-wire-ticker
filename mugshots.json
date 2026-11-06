@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T19:28:36+00:00",
+ "updated": "2026-11-06T19:49:31+00:00",
  "items": [
+  {
+   "key": "RC_HENDERSON_WILLIE_120011076015031",
+   "name": "Willie Robert Henderson",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
+   "more": 7,
+   "ts": 1793994505,
+   "photo": "photos/RC_HENDERSON_WILLIE_120011076015031.jpg"
+  },
+  {
+   "key": "RC_CONFER_MATTHEW_120011076014967",
+   "name": "Matthew John Confer",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793994499,
+   "photo": "photos/RC_CONFER_MATTHEW_120011076014967.jpg"
+  },
   {
    "key": "HERZER_NATHEN_2026-11-06",
    "name": "Nathen P Herzer",
@@ -220,28 +242,6 @@
    "more": 0,
    "ts": 1793987282,
    "photo": "photos/RC_STEVENS_DAVID_120011076011984.jpg"
-  },
-  {
-   "key": "RC_MAIKRANZ_JOSEPH_120011076009704",
-   "name": "Joseph Jesse Maikranz",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate/Go Armed w/ Firearm-Intoxicated",
-   "more": 0,
-   "ts": 1793987279,
-   "photo": "photos/RC_MAIKRANZ_JOSEPH_120011076009704.jpg"
-  },
-  {
-   "key": "RC_HAAS_RICHARD_120011076010201",
-   "name": "Richard Michael Haas",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793987276,
-   "photo": "photos/RC_HAAS_RICHARD_120011076010201.jpg"
   },
   {
    "key": "DOU_STRONG_CHARLZ_2026-10-30",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_HENDERSON_WILLIE_120011076015031",
+   "name": "Willie Robert Henderson",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
+   "more": 7,
+   "ts": 1793994505,
+   "photo": "photos/RC_HENDERSON_WILLIE_120011076015031.jpg"
+  },
+  {
+   "key": "RC_CONFER_MATTHEW_120011076014967",
+   "name": "Matthew John Confer",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793994499,
+   "photo": "photos/RC_CONFER_MATTHEW_120011076014967.jpg"
+  },
   {
    "key": "HERZER_NATHEN_2026-11-06",
    "name": "Nathen P Herzer",
@@ -5711,28 +5733,6 @@
    "more": 2,
    "ts": 1793735865,
    "photo": "photos/MKE_STEPHENS_JERMAINE_282166.jpg"
-  },
-  {
-   "key": "RC_KLOSS_ROBERT_120011075896527",
-   "name": "Robert Kloss",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735292,
-   "photo": "photos/RC_KLOSS_ROBERT_120011075896527.jpg"
-  },
-  {
-   "key": "RC_ARONIN_WILLIAM_120011075896388",
-   "name": "William A Aronin",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735289,
-   "photo": "photos/RC_ARONIN_WILLIAM_120011075896388.jpg"
   }
  ]
 }
