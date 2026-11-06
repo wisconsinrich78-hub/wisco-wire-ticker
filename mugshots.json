@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T09:49:29+00:00",
+ "updated": "2026-11-06T10:28:47+00:00",
  "items": [
+  {
+   "key": "MKE_LEWIS_LESENT_2030198",
+   "name": "Lesent LL Lewis",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 9,
+   "ts": 1793959065,
+   "photo": null
+  },
+  {
+   "key": "MAR_MITCHELL_ALIVIA_2026-11-06",
+   "name": "Alivia Carol Rose Mitchell",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1793958922,
+   "photo": "photos/MAR_MITCHELL_ALIVIA_2026-11-06.jpg"
+  },
   {
    "key": "RC_WILLIAMS_ANDREA_120011075998291",
    "name": "Andrea Ianna Williams",
@@ -208,17 +230,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793941058,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_DEKARIA_601917",
-   "name": "Dekaria Marquise Johnson",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793941055,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793896091,
    "photo": null
-  },
-  {
-   "key": "BURROWS_CHARLES_2026-11-05",
-   "name": "Charles J Burrows",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793892465,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LEWIS_LESENT_2030198",
+   "name": "Lesent LL Lewis",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 9,
+   "ts": 1793959065,
+   "photo": null
+  },
+  {
+   "key": "MAR_MITCHELL_ALIVIA_2026-11-06",
+   "name": "Alivia Carol Rose Mitchell",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1793958922,
+   "photo": "photos/MAR_MITCHELL_ALIVIA_2026-11-06.jpg"
+  },
   {
    "key": "RC_WILLIAMS_ANDREA_120011075998291",
    "name": "Andrea Ianna Williams",
@@ -801,8 +823,8 @@
    "age": "",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 3,
    "ts": 1793937615,
    "photo": null
   },
@@ -812,7 +834,7 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1793937542,
    "photo": null
@@ -933,10 +955,10 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Knowingly Operate w/out Valid License - Cause Great Bodily Harm",
+   "charge": "Injury by Intoxicated Use/Vehicle",
    "more": 1,
    "ts": 1793932059,
-   "photo": null
+   "photo": "photos/MKE_CRUZ_KERANY_643980.jpg"
   },
   {
    "key": "KEN_SOTELO_ALEXANDER_2026-00006122",
@@ -969,7 +991,7 @@
    "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
    "more": 41,
    "ts": 1793930320,
-   "photo": null
+   "photo": "photos/MKE_PATTON_JOSHUA_405824.jpg"
   },
   {
    "key": "MKE_JARVISMABEN_TRACY_648154",
@@ -1189,7 +1211,7 @@
    "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 3,
    "ts": 1793921283,
-   "photo": null
+   "photo": "photos/MKE_TURNER_ROBERT_298953.jpg"
   },
   {
    "key": "MKE_SANABRIA_DONOVAN_648152",
@@ -5524,105 +5546,6 @@
    "more": 0,
    "ts": 1793702869,
    "photo": "photos/RC_DELEON_SELENA_120011075870834.jpg"
-  },
-  {
-   "key": "HAASE_BRIAN_2026-11-03",
-   "name": "Brian R Haase",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793701619,
-   "photo": null
-  },
-  {
-   "key": "KEN_ROLLINS_CHARLOTTE_2026-00006064",
-   "name": "Charlotte Frances Rollins",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793699910,
-   "photo": "photos/KEN_ROLLINS_CHARLOTTE_2026-00006064.jpg"
-  },
-  {
-   "key": "MKE_TALIAFERRO_KEVEONTAE_618733",
-   "name": "Keveontae Jakeil Taliaferro",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793699857,
-   "photo": "photos/MKE_TALIAFERRO_KEVEONTAE_618733.jpg"
-  },
-  {
-   "key": "MKE_PERRY_BARBARA_228553",
-   "name": "Barbara Jo Perry",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793699855,
-   "photo": "photos/MKE_PERRY_BARBARA_228553.jpg"
-  },
-  {
-   "key": "MKE_BRIDGES_TIMOTHY_328652",
-   "name": "Timothy T Bridges",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793699853,
-   "photo": "photos/MKE_BRIDGES_TIMOTHY_328652.jpg"
-  },
-  {
-   "key": "MKE_BICKNELL_ASHLEY_631873",
-   "name": "Ashley Lynn Bicknell",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 4,
-   "ts": 1793699851,
-   "photo": "photos/MKE_BICKNELL_ASHLEY_631873.jpg"
-  },
-  {
-   "key": "MAR_ANDRUSS_JOSEPH_2026-11-03",
-   "name": "Joseph Andruss",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793699841,
-   "photo": null
-  },
-  {
-   "key": "KEN_JAMESON_RANDY_2026-00006063",
-   "name": "Randy Jameson",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 6,
-   "ts": 1793699831,
-   "photo": "photos/KEN_JAMESON_RANDY_2026-00006063.jpg"
-  },
-  {
-   "key": "MAR_FULLER_JOSHUA_2026-11-03",
-   "name": "Joshua Michael Fuller",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1793699806,
-   "photo": "photos/MAR_FULLER_JOSHUA_2026-11-03.jpg"
   }
  ]
 }
