@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T20:02:01+00:00",
+ "updated": "2026-11-06T20:29:01+00:00",
  "items": [
+  {
+   "key": "MKE_LEACHMAN_PHIERLIS_640679",
+   "name": "Phierlis Gerome Leachman",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1793996867,
+   "photo": null
+  },
+  {
+   "key": "MKE_KUKLINSKI_ANTHONY_633689",
+   "name": "Anthony John Kuklinski",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793996865,
+   "photo": null
+  },
   {
    "key": "MKE_RIVERA_JOSHUA_635215",
    "name": "Joshua Rivera",
@@ -208,28 +230,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793989669,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROBINSON_KENDRICK_623311",
-   "name": "Kendrick Robinson",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793989667,
-   "photo": null
-  },
-  {
-   "key": "MKE_LUQUEZRODRIGUEZ_HENDERSON_648166",
-   "name": "Henderson Luquez Rodriguez",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793989665,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LEACHMAN_PHIERLIS_640679",
+   "name": "Phierlis Gerome Leachman",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1793996867,
+   "photo": null
+  },
+  {
+   "key": "MKE_KUKLINSKI_ANTHONY_633689",
+   "name": "Anthony John Kuklinski",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793996865,
+   "photo": null
+  },
   {
    "key": "MKE_RIVERA_JOSHUA_635215",
    "name": "Joshua Rivera",
@@ -1145,7 +1167,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793973473,
-   "photo": null
+   "photo": "photos/MKE_JONES_BRITTANY_356747.jpg"
   },
   {
    "key": "MKE_GOODMAN_ANDRE_637616",
@@ -1211,7 +1233,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793962660,
-   "photo": null
+   "photo": "photos/MKE_VASQUEZVASQUEZ_SABINO_642411.jpg"
   },
   {
    "key": "MKE_PIK_JEFFREY_362342",
