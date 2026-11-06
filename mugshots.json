@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-06T18:49:35+00:00",
+ "updated": "2026-11-06T19:28:36+00:00",
  "items": [
+  {
+   "key": "HERZER_NATHEN_2026-11-06",
+   "name": "Nathen P Herzer",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793993226,
+   "photo": null
+  },
+  {
+   "key": "HALLER_BENJAMIN_2026-11-06",
+   "name": "Benjamin T Haller",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1793993225,
+   "photo": null
+  },
+  {
+   "key": "KEN_PHILLIPS_RYAN_2026-00006137",
+   "name": "Ryan Michael Phillips",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess Narcotic Drugs",
+   "more": 2,
+   "ts": 1793992665,
+   "photo": "photos/KEN_PHILLIPS_RYAN_2026-00006137.jpg"
+  },
+  {
+   "key": "KEN_JOHNSON_LEROY_2026-00006139",
+   "name": "Leroy Elijah Johnson",
+   "age": "73",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793992587,
+   "photo": "photos/KEN_JOHNSON_LEROY_2026-00006139.jpg"
+  },
+  {
+   "key": "FDL_FOWLER_KEYANDRE_2026-11-06",
+   "name": "Keyandre Jushaymontrell Fowler",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1793992583,
+   "photo": "photos/FDL_FOWLER_KEYANDRE_2026-11-06.jpg"
+  },
+  {
+   "key": "FDL_CAXSEQUEN_WILLIAM_2026-11-06",
+   "name": "William Alejandro Cax Sequen",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 0,
+   "ts": 1793992575,
+   "photo": null
+  },
+  {
+   "key": "MAR_THORN_RANDALL_2026-11-06",
+   "name": "Randall Mark Thorn",
+   "age": "61",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 0,
+   "ts": 1793992306,
+   "photo": "photos/MAR_THORN_RANDALL_2026-11-06.jpg"
+  },
+  {
+   "key": "MKE_MCCANTS_TIFFANY_350753",
+   "name": "Tiffany Shaunatae Mccants",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 2,
+   "ts": 1793991490,
+   "photo": null
+  },
+  {
+   "key": "MKE_GALLOB_JOSEPH_603846",
+   "name": "Joseph Donald Gallob",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 0,
+   "ts": 1793991488,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRIBBS_TARCY_614157",
+   "name": "Tarcy Deroy Cribbs",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Injury by Negligent Use/Weapon/Explosive",
+   "more": 2,
+   "ts": 1793991486,
+   "photo": null
+  },
   {
    "key": "RC_TOWNSEND_PERREYON_120011076013819",
    "name": "Perreyon E Townsend",
@@ -132,61 +242,6 @@
    "more": 0,
    "ts": 1793987276,
    "photo": "photos/RC_HAAS_RICHARD_120011076010201.jpg"
-  },
-  {
-   "key": "RC_DIAZ_JUAN_120011076010670",
-   "name": "Juan Jose Diaz",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating with Restricted Controlled Substance in Blood - 1st Offense,",
-   "more": 0,
-   "ts": 1793987272,
-   "photo": "photos/RC_DIAZ_JUAN_120011076010670.jpg"
-  },
-  {
-   "key": "MKE_MORTENSEN_JAMIE_630865",
-   "name": "Jamie Elizabeth Mortensen",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793986053,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARDEN_DENAE_646320",
-   "name": "Denae Saleah Harden",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 4,
-   "ts": 1793986052,
-   "photo": null
-  },
-  {
-   "key": "MKE_FISCHER_JENNI_642613",
-   "name": "Jenni E Fischer",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run-Involve Great Bodily Harm",
-   "more": 1,
-   "ts": 1793986050,
-   "photo": null
-  },
-  {
-   "key": "MKE_CASTILLO_IVAN_648165",
-   "name": "Ivan E Castillo",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793986049,
-   "photo": null
   },
   {
    "key": "DOU_STRONG_CHARLZ_2026-10-30",
@@ -473,64 +528,119 @@
    "more": 2,
    "ts": 1793926026,
    "photo": null
-  },
-  {
-   "key": "FDL_DELACRUZ_CASSANDRA_2026-11-05",
-   "name": "Cassandra De La Cruz",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793924176,
-   "photo": "photos/FDL_DELACRUZ_CASSANDRA_2026-11-05.jpg"
-  },
-  {
-   "key": "DOU_KNIGHT_SANTANA_2026-11-05",
-   "name": "Santana M Knight",
-   "age": "29",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1793920625,
-   "photo": "photos/DOU_KNIGHT_SANTANA_2026-11-05.jpg"
-  },
-  {
-   "key": "MAR_GONZALEZGUZMAN_GERARDO_2026-11-05",
-   "name": "Gerardo Gonzalez-Guzman",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1793919671,
-   "photo": null
-  },
-  {
-   "key": "FANNINGSTANFORD_KENNETH_2026-11-05",
-   "name": "Kenneth Cole Fanning Stanford",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793919423,
-   "photo": null
-  },
-  {
-   "key": "STUMLIN_JOHN_2026-11-05",
-   "name": "John P Stumlin",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Court",
-   "more": 0,
-   "ts": 1793918831,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "HERZER_NATHEN_2026-11-06",
+   "name": "Nathen P Herzer",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1793993226,
+   "photo": null
+  },
+  {
+   "key": "HALLER_BENJAMIN_2026-11-06",
+   "name": "Benjamin T Haller",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1793993225,
+   "photo": null
+  },
+  {
+   "key": "KEN_PHILLIPS_RYAN_2026-00006137",
+   "name": "Ryan Michael Phillips",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess Narcotic Drugs",
+   "more": 2,
+   "ts": 1793992665,
+   "photo": "photos/KEN_PHILLIPS_RYAN_2026-00006137.jpg"
+  },
+  {
+   "key": "KEN_JOHNSON_LEROY_2026-00006139",
+   "name": "Leroy Elijah Johnson",
+   "age": "73",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793992587,
+   "photo": "photos/KEN_JOHNSON_LEROY_2026-00006139.jpg"
+  },
+  {
+   "key": "FDL_FOWLER_KEYANDRE_2026-11-06",
+   "name": "Keyandre Jushaymontrell Fowler",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1793992583,
+   "photo": "photos/FDL_FOWLER_KEYANDRE_2026-11-06.jpg"
+  },
+  {
+   "key": "FDL_CAXSEQUEN_WILLIAM_2026-11-06",
+   "name": "William Alejandro Cax Sequen",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 0,
+   "ts": 1793992575,
+   "photo": null
+  },
+  {
+   "key": "MAR_THORN_RANDALL_2026-11-06",
+   "name": "Randall Mark Thorn",
+   "age": "61",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 0,
+   "ts": 1793992306,
+   "photo": "photos/MAR_THORN_RANDALL_2026-11-06.jpg"
+  },
+  {
+   "key": "MKE_MCCANTS_TIFFANY_350753",
+   "name": "Tiffany Shaunatae Mccants",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 2,
+   "ts": 1793991490,
+   "photo": null
+  },
+  {
+   "key": "MKE_GALLOB_JOSEPH_603846",
+   "name": "Joseph Donald Gallob",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 0,
+   "ts": 1793991488,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRIBBS_TARCY_614157",
+   "name": "Tarcy Deroy Cribbs",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Injury by Negligent Use/Weapon/Explosive",
+   "more": 2,
+   "ts": 1793991486,
+   "photo": null
+  },
   {
    "key": "RC_TOWNSEND_PERREYON_120011076013819",
    "name": "Perreyon E Townsend",
@@ -859,7 +969,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793980744,
-   "photo": null
+   "photo": "photos/MKE_RUSSELL_DYLANN_648164.jpg"
   },
   {
    "key": "MKE_HAMILTON_WENDELL_176925",
@@ -889,8 +999,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Return On Writ",
+   "more": 1,
    "ts": 1793980692,
    "photo": "photos/KEN_DAVIS_AREON_2026-00006134.jpg"
   },
@@ -1189,7 +1299,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1793953657,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_BRIDGETTE_157653.jpg"
   },
   {
    "key": "MKE_LOPEZ_FRANCISCO_240046",
@@ -5623,39 +5733,6 @@
    "more": 0,
    "ts": 1793735289,
    "photo": "photos/RC_ARONIN_WILLIAM_120011075896388.jpg"
-  },
-  {
-   "key": "SCHMALENBERG_MELISSA_2026-11-03",
-   "name": "Melissa M Schmalenberg",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793734023,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_TEDDY_513435",
-   "name": "Teddy L Williams",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793732263,
-   "photo": "photos/MKE_WILLIAMS_TEDDY_513435.jpg"
-  },
-  {
-   "key": "KEN_KOHNKE_KYLE_2026-00006067",
-   "name": "Kyle R Kohnke",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793732152,
-   "photo": "photos/KEN_KOHNKE_KYLE_2026-00006067.jpg"
   }
  ]
 }
