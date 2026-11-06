@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-06T18:18:15+00:00",
+ "updated": "2026-11-06T18:49:35+00:00",
  "items": [
+  {
+   "key": "RC_TOWNSEND_PERREYON_120011076013819",
+   "name": "Perreyon E Townsend",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793990893,
+   "photo": "photos/RC_TOWNSEND_PERREYON_120011076013819.jpg"
+  },
+  {
+   "key": "RC_SPICER_JOHN_120011076013464",
+   "name": "John S Spicer",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793990890,
+   "photo": null
+  },
+  {
+   "key": "RC_MRUK_DANIEL_120011076012844",
+   "name": "Daniel Timothy Mruk",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession Of Cocaine",
+   "more": 7,
+   "ts": 1793990887,
+   "photo": null
+  },
+  {
+   "key": "RC_EVERTON_MONTAVIUS_120011076012054",
+   "name": "Montavius Lamont Everton",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
+   "more": 6,
+   "ts": 1793990884,
+   "photo": "photos/RC_EVERTON_MONTAVIUS_120011076012054.jpg"
+  },
+  {
+   "key": "MKE_SYKES_DEANGELO_524643",
+   "name": "Deangelo Dwayne Sykes",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793989669,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_KENDRICK_623311",
+   "name": "Kendrick Robinson",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793989667,
+   "photo": null
+  },
+  {
+   "key": "MKE_LUQUEZRODRIGUEZ_HENDERSON_648166",
+   "name": "Henderson Luquez Rodriguez",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793989665,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_LAVONSKI_294290",
+   "name": "Lavonski Lavon Jackson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793989663,
+   "photo": null
+  },
   {
    "key": "FDL_HOOPMAN_LYNNETTE_2026-11-06",
    "name": "Lynnette A Hoopman",
@@ -101,72 +189,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SPRUILL_JONATHAN_645012",
-   "name": "Jonathan D Spruill",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1793984315,
-   "photo": "photos/MKE_SPRUILL_JONATHAN_645012.jpg"
-  },
-  {
-   "key": "MKE_RICHARDSON_JEFFERY_210991",
-   "name": "Jeffery Anthony Richardson",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793984311,
-   "photo": null
-  },
-  {
-   "key": "MKE_POLNITZ_DAVEON_639381",
-   "name": "Daveon Antonio Polnitz",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1793984307,
-   "photo": null
-  },
-  {
-   "key": "MKE_EVANS_MICHAEL_168892",
-   "name": "Michael Lee Evans",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1793984305,
-   "photo": null
-  },
-  {
-   "key": "RC_SPUMANTE_JAIVIER_120011076009503",
-   "name": "Jaivier Ezekiel Spumante",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793983870,
-   "photo": "photos/RC_SPUMANTE_JAIVIER_120011076009503.jpg"
-  },
-  {
-   "key": "RC_GARDNER_KEENAN_120011076008788",
-   "name": "Keenan Gardner",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793983848,
-   "photo": "photos/RC_GARDNER_KEENAN_120011076008788.jpg"
-  },
-  {
    "key": "DOU_STRONG_CHARLZ_2026-10-30",
    "name": "Charlz W Strong",
    "age": "39",
@@ -187,28 +209,6 @@
    "more": 3,
    "ts": 1793981864,
    "photo": "photos/DOU_KING_JACOB_2026-11-06.jpg"
-  },
-  {
-   "key": "KEN_FEAVEL_CANDICE_2026-00006133",
-   "name": "Candice Marie Feavel",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 1,
-   "ts": 1793980804,
-   "photo": "photos/KEN_FEAVEL_CANDICE_2026-00006133.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_SHANICE_648162",
-   "name": "Shanice Williams",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980764,
-   "photo": null
   },
   {
    "key": "DOU_FRIKART_LOREN_2026-11-06",
@@ -532,6 +532,94 @@
  ],
  "all_items": [
   {
+   "key": "RC_TOWNSEND_PERREYON_120011076013819",
+   "name": "Perreyon E Townsend",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793990893,
+   "photo": "photos/RC_TOWNSEND_PERREYON_120011076013819.jpg"
+  },
+  {
+   "key": "RC_SPICER_JOHN_120011076013464",
+   "name": "John S Spicer",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793990890,
+   "photo": null
+  },
+  {
+   "key": "RC_MRUK_DANIEL_120011076012844",
+   "name": "Daniel Timothy Mruk",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession Of Cocaine",
+   "more": 7,
+   "ts": 1793990887,
+   "photo": null
+  },
+  {
+   "key": "RC_EVERTON_MONTAVIUS_120011076012054",
+   "name": "Montavius Lamont Everton",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
+   "more": 6,
+   "ts": 1793990884,
+   "photo": "photos/RC_EVERTON_MONTAVIUS_120011076012054.jpg"
+  },
+  {
+   "key": "MKE_SYKES_DEANGELO_524643",
+   "name": "Deangelo Dwayne Sykes",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793989669,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_KENDRICK_623311",
+   "name": "Kendrick Robinson",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793989667,
+   "photo": null
+  },
+  {
+   "key": "MKE_LUQUEZRODRIGUEZ_HENDERSON_648166",
+   "name": "Henderson Luquez Rodriguez",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793989665,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_LAVONSKI_294290",
+   "name": "Lavonski Lavon Jackson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1793989663,
+   "photo": null
+  },
+  {
    "key": "FDL_HOOPMAN_LYNNETTE_2026-11-06",
    "name": "Lynnette A Hoopman",
    "age": "",
@@ -738,7 +826,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793980764,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_SHANICE_648162.jpg"
   },
   {
    "key": "MKE_VARNADOSILAS_AARON_648163",
@@ -5568,72 +5656,6 @@
    "more": 1,
    "ts": 1793732152,
    "photo": "photos/KEN_KOHNKE_KYLE_2026-00006067.jpg"
-  },
-  {
-   "key": "RC_WALKER_PHILLIP_120011075893731",
-   "name": "Phillip Walker",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793731675,
-   "photo": null
-  },
-  {
-   "key": "RC_ELLIS_FAARZE_120011075893580",
-   "name": "Faarze Ellis",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1793731672,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUFFMAN_JEFFREY_645343",
-   "name": "Jeffrey A Huffman",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 1,
-   "ts": 1793730478,
-   "photo": "photos/MKE_HUFFMAN_JEFFREY_645343.jpg"
-  },
-  {
-   "key": "MKE_BENSON_JOSEPH_365183",
-   "name": "Joseph Lee Benson",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Reckless Injury",
-   "more": 0,
-   "ts": 1793730476,
-   "photo": "photos/MKE_BENSON_JOSEPH_365183.jpg"
-  },
-  {
-   "key": "MKE_ALBANILOTAPA_SANTIAGO_648112",
-   "name": "Santiago Albanil Otapa",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793730473,
-   "photo": "photos/MKE_ALBANILOTAPA_SANTIAGO_648112.jpg"
-  },
-  {
-   "key": "MKE_ADAMS_IVE_631753",
-   "name": "Ive J Adams",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1793730471,
-   "photo": "photos/MKE_ADAMS_IVE_631753.jpg"
   }
  ]
 }
