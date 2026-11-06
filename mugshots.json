@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T01:27:58+00:00",
+ "updated": "2026-11-06T01:49:40+00:00",
  "items": [
+  {
+   "key": "RC_YOUNG_DARRIS_120011075990474",
+   "name": "Darris Young",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793929673,
+   "photo": "photos/RC_YOUNG_DARRIS_120011075990474.jpg"
+  },
+  {
+   "key": "RC_ISOM_RICKY_120011075989725",
+   "name": "Ricky Lee Isom",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1793929670,
+   "photo": "photos/RC_ISOM_RICKY_120011075989725.jpg"
+  },
   {
    "key": "MKE_LACY_JOHNNIE_353214",
    "name": "Johnnie S Lacy",
@@ -189,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BALISTRERI_CADE_648151",
-   "name": "Cade V Balistreri",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793921277,
-   "photo": "photos/MKE_BALISTRERI_CADE_648151.jpg"
-  },
-  {
    "key": "DOU_KNIGHT_SANTANA_2026-11-05",
    "name": "Santana M Knight",
    "age": "29",
@@ -209,17 +220,6 @@
    "more": 3,
    "ts": 1793920625,
    "photo": "photos/DOU_KNIGHT_SANTANA_2026-11-05.jpg"
-  },
-  {
-   "key": "KEN_WATKINS_TREMAINE_2026-00006119",
-   "name": "TREMAINE HASSEL Senior WATKINS",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793919818,
-   "photo": "photos/KEN_WATKINS_TREMAINE_2026-00006119.jpg"
   },
   {
    "key": "MAR_GONZALEZGUZMAN_GERARDO_2026-11-05",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_YOUNG_DARRIS_120011075990474",
+   "name": "Darris Young",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793929673,
+   "photo": "photos/RC_YOUNG_DARRIS_120011075990474.jpg"
+  },
+  {
+   "key": "RC_ISOM_RICKY_120011075989725",
+   "name": "Ricky Lee Isom",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1793929670,
+   "photo": "photos/RC_ISOM_RICKY_120011075989725.jpg"
+  },
   {
    "key": "MKE_LACY_JOHNNIE_353214",
    "name": "Johnnie S Lacy",
