@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T03:28:19+00:00",
+ "updated": "2026-11-06T03:49:36+00:00",
  "items": [
+  {
+   "key": "RC_PRICE_ANGELA_120011075992851",
+   "name": "Angela Ann Price",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793936865,
+   "photo": "photos/RC_PRICE_ANGELA_120011075992851.jpg"
+  },
   {
    "key": "DOU_SCHAAF_CADEN_2026-11-05",
    "name": "Caden C Schaaf",
@@ -219,17 +230,6 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 0,
    "ts": 1793926670,
-   "photo": null
-  },
-  {
-   "key": "MKE_CAREY_ELIZABETH_613430",
-   "name": "Elizabeth Carey",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1793926668,
    "photo": null
   },
   {
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PRICE_ANGELA_120011075992851",
+   "name": "Angela Ann Price",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793936865,
+   "photo": "photos/RC_PRICE_ANGELA_120011075992851.jpg"
+  },
   {
    "key": "DOU_SCHAAF_CADEN_2026-11-05",
    "name": "Caden C Schaaf",
@@ -1131,7 +1142,7 @@
    "age": "60",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Child Enticement-Give/Sell Drugs",
+   "charge": "Possession of Cocaine/Coca (2nd+)",
    "more": 3,
    "ts": 1793914055,
    "photo": null
@@ -1164,7 +1175,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Sale/Possess/Use/Transport Machine Guns",
    "more": 5,
    "ts": 1793910458,
    "photo": null
