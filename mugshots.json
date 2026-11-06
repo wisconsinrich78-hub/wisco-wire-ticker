@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:49:32+00:00",
+ "updated": "2026-11-06T13:49:30+00:00",
  "items": [
   {
    "key": "FDL_FUNK_CADENCE_2026-11-06",
@@ -1043,7 +1043,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Charges Pending",
    "more": 14,
    "ts": 1793932062,
    "photo": null
@@ -5579,28 +5579,6 @@
    "more": 3,
    "ts": 1793714155,
    "photo": "photos/MAR_CAROLFI_SCOTT_2026-11-03.jpg"
-  },
-  {
-   "key": "KEMPAINEN_KARL_2026-11-03",
-   "name": "Karl Lindsay Kempainen",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Out Of County Warrant",
-   "more": 0,
-   "ts": 1793712424,
-   "photo": null
-  },
-  {
-   "key": "MKE_RODRIGUEZ_YANDIEL_648110",
-   "name": "Yandiel Alexis Rodriguez",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793710729,
-   "photo": "photos/MKE_RODRIGUEZ_YANDIEL_648110.jpg"
   }
  ]
 }
