@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T05:49:34+00:00",
+ "updated": "2026-11-06T06:28:16+00:00",
  "items": [
+  {
+   "key": "MKE_JANOWIAK_HALEY_648157",
+   "name": "Haley Kay Janowiak",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Causing Mental Harm to Child",
+   "more": 0,
+   "ts": 1793946471,
+   "photo": null
+  },
+  {
+   "key": "MAR_ELLIS_RORY_2026-11-05",
+   "name": "Rory Joseph Ellis",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 1,
+   "ts": 1793944561,
+   "photo": null
+  },
   {
    "key": "MKE_SYLVAS_KEVIN_371068",
    "name": "Kevin Obrian Sylvas",
@@ -183,8 +205,8 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 2,
    "ts": 1793933865,
    "photo": "photos/KEN_ZELLMER_DMITRY_2026-00006127.jpg"
   },
@@ -230,17 +252,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793932060,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRUZ_KERANY_643980",
-   "name": "Kerany Rayanna Cruz",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Knowingly Operate w/out Valid License - Cause Great Bodily Harm",
-   "more": 1,
-   "ts": 1793932059,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793890986,
    "photo": "photos/MAR_SIMMONS_TRACEY_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_HERRICK_KIANA_2026-11-04",
-   "name": "Kiana Jordan Herrick",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear - Ncic Felony",
-   "more": 1,
-   "ts": 1793890945,
-   "photo": "photos/MAR_HERRICK_KIANA_2026-11-04.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JANOWIAK_HALEY_648157",
+   "name": "Haley Kay Janowiak",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Causing Mental Harm to Child",
+   "more": 0,
+   "ts": 1793946471,
+   "photo": null
+  },
+  {
+   "key": "MAR_ELLIS_RORY_2026-11-05",
+   "name": "Rory Joseph Ellis",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Strangulation And Suffocation - Aggravated",
+   "more": 1,
+   "ts": 1793944561,
+   "photo": null
+  },
   {
    "key": "MKE_SYLVAS_KEVIN_371068",
    "name": "Kevin Obrian Sylvas",
@@ -713,8 +735,8 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 2,
    "ts": 1793933865,
    "photo": "photos/KEN_ZELLMER_DMITRY_2026-00006127.jpg"
   },
@@ -5645,28 +5667,6 @@
    "more": 0,
    "ts": 1793688426,
    "photo": null
-  },
-  {
-   "key": "MKE_RUCKER_DANAJA_634775",
-   "name": "Danaja Monique Rucker",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793687262,
-   "photo": "photos/MKE_RUCKER_DANAJA_634775.jpg"
-  },
-  {
-   "key": "MKE_PADILLA_RICARDO_394180",
-   "name": "Ricardo Padilla",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793687261,
-   "photo": "photos/MKE_PADILLA_RICARDO_394180.jpg"
   }
  ]
 }
