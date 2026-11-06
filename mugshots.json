@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-06T03:49:36+00:00",
+ "updated": "2026-11-06T04:49:31+00:00",
  "items": [
+  {
+   "key": "RC_WATKINS_TREMAINE_120011075994504",
+   "name": "Tremaine Hassel Watkins",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793940469,
+   "photo": "photos/RC_WATKINS_TREMAINE_120011075994504.jpg"
+  },
+  {
+   "key": "FDL_PEREZMARTINEZ_CALIXTO_2026-11-05",
+   "name": "Calixto Perez Martinez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793938605,
+   "photo": "photos/FDL_PEREZMARTINEZ_CALIXTO_2026-11-05.jpg"
+  },
+  {
+   "key": "KEN_SCHULER_ALEXIS_2026-00006128",
+   "name": "Alexis Schuler",
+   "age": "",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793937615,
+   "photo": null
+  },
+  {
+   "key": "KEN_NAPIER_RUSSELL_2026-00006129",
+   "name": "Russell Napier",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793937542,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALKER_ANTONIO_361012",
+   "name": "Antonio M Walker",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793937489,
+   "photo": null
+  },
+  {
+   "key": "KEN_GITTENS_KARI_2026-00006130",
+   "name": "Kari Lynn Gittens",
+   "age": "57",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793937475,
+   "photo": "photos/KEN_GITTENS_KARI_2026-00006130.jpg"
+  },
   {
    "key": "RC_PRICE_ANGELA_120011075992851",
    "name": "Angela Ann Price",
@@ -175,61 +241,6 @@
    "charge": "",
    "more": 0,
    "ts": 1793930220,
-   "photo": null
-  },
-  {
-   "key": "RC_YOUNG_DARRIS_120011075990474",
-   "name": "Darris Young",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793929673,
-   "photo": "photos/RC_YOUNG_DARRIS_120011075990474.jpg"
-  },
-  {
-   "key": "RC_ISOM_RICKY_120011075989725",
-   "name": "Ricky Lee Isom",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1793929670,
-   "photo": "photos/RC_ISOM_RICKY_120011075989725.jpg"
-  },
-  {
-   "key": "MKE_LACY_JOHNNIE_353214",
-   "name": "Johnnie S Lacy",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793926672,
-   "photo": "photos/MKE_LACY_JOHNNIE_353214.jpg"
-  },
-  {
-   "key": "MKE_KERRY_FELTON_256311",
-   "name": "Felton L Kerry",
-   "age": "75",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1793926671,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRUZ_LUIS_416537",
-   "name": "Luis E Cruz",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1793926670,
    "photo": null
   },
   {
@@ -517,20 +528,75 @@
    "more": 3,
    "ts": 1793880964,
    "photo": null
-  },
-  {
-   "key": "FDL_LEFEBER_JASON_2026-11-04",
-   "name": "Jason Daniel Lefeber",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1793859392,
-   "photo": "photos/FDL_LEFEBER_JASON_2026-11-04.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WATKINS_TREMAINE_120011075994504",
+   "name": "Tremaine Hassel Watkins",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793940469,
+   "photo": "photos/RC_WATKINS_TREMAINE_120011075994504.jpg"
+  },
+  {
+   "key": "FDL_PEREZMARTINEZ_CALIXTO_2026-11-05",
+   "name": "Calixto Perez Martinez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1793938605,
+   "photo": "photos/FDL_PEREZMARTINEZ_CALIXTO_2026-11-05.jpg"
+  },
+  {
+   "key": "KEN_SCHULER_ALEXIS_2026-00006128",
+   "name": "Alexis Schuler",
+   "age": "",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793937615,
+   "photo": null
+  },
+  {
+   "key": "KEN_NAPIER_RUSSELL_2026-00006129",
+   "name": "Russell Napier",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793937542,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALKER_ANTONIO_361012",
+   "name": "Antonio M Walker",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793937489,
+   "photo": null
+  },
+  {
+   "key": "KEN_GITTENS_KARI_2026-00006130",
+   "name": "Kari Lynn Gittens",
+   "age": "57",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793937475,
+   "photo": "photos/KEN_GITTENS_KARI_2026-00006130.jpg"
+  },
   {
    "key": "RC_PRICE_ANGELA_120011075992851",
    "name": "Angela Ann Price",
@@ -5568,28 +5634,6 @@
    "more": 0,
    "ts": 1793681753,
    "photo": "photos/MAR_LUTHER_ISAAC_2026-11-02.jpg"
-  },
-  {
-   "key": "DAYTON_EMILY_2026-11-02",
-   "name": "Emily Sue Dayton",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1793681225,
-   "photo": null
-  },
-  {
-   "key": "DOU_GLENN_DARIN_2026-11-02",
-   "name": "Darin A Glenn",
-   "age": "64",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793679427,
-   "photo": null
   }
  ]
 }
