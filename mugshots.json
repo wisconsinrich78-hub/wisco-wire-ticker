@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-06T00:49:29+00:00",
+ "updated": "2026-11-06T01:27:58+00:00",
  "items": [
+  {
+   "key": "MKE_LACY_JOHNNIE_353214",
+   "name": "Johnnie S Lacy",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793926672,
+   "photo": "photos/MKE_LACY_JOHNNIE_353214.jpg"
+  },
+  {
+   "key": "MKE_KERRY_FELTON_256311",
+   "name": "Felton L Kerry",
+   "age": "75",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1793926671,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRUZ_LUIS_416537",
+   "name": "Luis E Cruz",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 0,
+   "ts": 1793926670,
+   "photo": null
+  },
+  {
+   "key": "MKE_CAREY_ELIZABETH_613430",
+   "name": "Elizabeth Carey",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1793926668,
+   "photo": null
+  },
   {
    "key": "GREENO_DONALD_2026-11-05",
    "name": "Donald F Greeno",
@@ -186,50 +230,6 @@
    "charge": "Warrant Other Jurisdiction",
    "more": 0,
    "ts": 1793919671,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCOTT_DEVIN_648150",
-   "name": "Devin Scott",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1793919489,
-   "photo": null
-  },
-  {
-   "key": "MKE_MITCHELL_LACHARLES_630396",
-   "name": "Lacharles Davon Mitchell",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793919487,
-   "photo": null
-  },
-  {
-   "key": "MKE_DOTSON_RICHARD_171936",
-   "name": "Richard Ricky Dotson",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793919485,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROOKSHIRE_DAMIEN_630189",
-   "name": "Damien Derrell Brookshire",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793919484,
    "photo": null
   },
   {
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LACY_JOHNNIE_353214",
+   "name": "Johnnie S Lacy",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1793926672,
+   "photo": "photos/MKE_LACY_JOHNNIE_353214.jpg"
+  },
+  {
+   "key": "MKE_KERRY_FELTON_256311",
+   "name": "Felton L Kerry",
+   "age": "75",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1793926671,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRUZ_LUIS_416537",
+   "name": "Luis E Cruz",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 0,
+   "ts": 1793926670,
+   "photo": null
+  },
+  {
+   "key": "MKE_CAREY_ELIZABETH_613430",
+   "name": "Elizabeth Carey",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1793926668,
+   "photo": null
+  },
   {
    "key": "GREENO_DONALD_2026-11-05",
    "name": "Donald F Greeno",
@@ -1098,7 +1142,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Possession of Methamphetamine",
    "more": 2,
    "ts": 1793905058,
    "photo": null
@@ -5414,17 +5458,6 @@
    "more": 1,
    "ts": 1793670877,
    "photo": "photos/KEN_CARLISLE_DEMARIO_2026-00006061.jpg"
-  },
-  {
-   "key": "MKE_RILEYCHAMBLISS_ARION_648105",
-   "name": "Arion Riley-chambliss",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793667478,
-   "photo": "photos/MKE_RILEYCHAMBLISS_ARION_648105.jpg"
   }
  ]
 }
