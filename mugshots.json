@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T08:52:06+00:00",
+ "updated": "2026-11-06T09:49:29+00:00",
  "items": [
+  {
+   "key": "RC_WILLIAMS_ANDREA_120011075998291",
+   "name": "Andrea Ianna Williams",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 0,
+   "ts": 1793958467,
+   "photo": null
+  },
+  {
+   "key": "FDL_FARRELL_CONNOR_2026-11-06",
+   "name": "Connor James Farrell",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 0,
+   "ts": 1793956574,
+   "photo": "photos/FDL_FARRELL_CONNOR_2026-11-06.jpg"
+  },
   {
    "key": "RC_FERGUSON_JAMES_120011075997478",
    "name": "James William Ferguson",
@@ -131,7 +153,7 @@
    "charge": "Causing Mental Harm to Child",
    "more": 0,
    "ts": 1793946471,
-   "photo": null
+   "photo": "photos/MKE_JANOWIAK_HALEY_648157.jpg"
   },
   {
    "key": "MAR_ELLIS_RORY_2026-11-05",
@@ -153,7 +175,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793942870,
-   "photo": null
+   "photo": "photos/MKE_SYLVAS_KEVIN_371068.jpg"
   },
   {
    "key": "MKE_NASH_FREDERICK_648156",
@@ -197,17 +219,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793941055,
-   "photo": null
-  },
-  {
-   "key": "MKE_DALTON_KEVIN_188001",
-   "name": "Kevin Ellison Dalton",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793941054,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793892465,
    "photo": null
-  },
-  {
-   "key": "MAR_ANDRUSS_JOSEPH_2026-11-03_17051201",
-   "name": "Joseph Allen Andruss",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793891065,
-   "photo": "photos/MAR_ANDRUSS_JOSEPH_2026-11-03_17051201.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WILLIAMS_ANDREA_120011075998291",
+   "name": "Andrea Ianna Williams",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 0,
+   "ts": 1793958467,
+   "photo": null
+  },
+  {
+   "key": "FDL_FARRELL_CONNOR_2026-11-06",
+   "name": "Connor James Farrell",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 0,
+   "ts": 1793956574,
+   "photo": "photos/FDL_FARRELL_CONNOR_2026-11-06.jpg"
+  },
   {
    "key": "RC_FERGUSON_JAMES_120011075997478",
    "name": "James William Ferguson",
@@ -661,7 +683,7 @@
    "charge": "Causing Mental Harm to Child",
    "more": 0,
    "ts": 1793946471,
-   "photo": null
+   "photo": "photos/MKE_JANOWIAK_HALEY_648157.jpg"
   },
   {
    "key": "MAR_ELLIS_RORY_2026-11-05",
@@ -683,7 +705,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793942870,
-   "photo": null
+   "photo": "photos/MKE_SYLVAS_KEVIN_371068.jpg"
   },
   {
    "key": "MKE_NASH_FREDERICK_648156",
@@ -889,7 +911,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Charges Pending",
    "more": 14,
    "ts": 1793932062,
    "photo": null
@@ -911,7 +933,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Injury by Intoxicated Use/Vehicle",
+   "charge": "Knowingly Operate w/out Valid License - Cause Great Bodily Harm",
    "more": 1,
    "ts": 1793932059,
    "photo": null
@@ -1112,7 +1134,7 @@
    "charge": "Neglecting a Child (Consequence is Death)",
    "more": 0,
    "ts": 1793924868,
-   "photo": null
+   "photo": "photos/MKE_DOXZON_SELENA_2066956.jpg"
   },
   {
    "key": "MKE_COPELAND_CHRISTOPHER_648153",
@@ -5601,94 +5623,6 @@
    "more": 3,
    "ts": 1793699806,
    "photo": "photos/MAR_FULLER_JOSHUA_2026-11-03.jpg"
-  },
-  {
-   "key": "HOU_SHELTON_RAHSANAHKEEM_6324",
-   "name": "Rahsan Ahkeem Shelton",
-   "age": "35",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Traffic - DWI - Third-Degree Driving While Im (1-Court Pending)",
-   "more": 0,
-   "ts": 1793699232,
-   "photo": "photos/HOU_SHELTON_RAHSANAHKEEM_6324.jpg"
-  },
-  {
-   "key": "MKE_TOOMBSS_ERVIN_648108",
-   "name": "Ervin Corkey Toombss",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793698066,
-   "photo": "photos/MKE_TOOMBSS_ERVIN_648108.jpg"
-  },
-  {
-   "key": "MKE_RENGIFOOCHICA_YESID_648109",
-   "name": "Yesid Rengifo-Ochica",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793698064,
-   "photo": "photos/MKE_RENGIFOOCHICA_YESID_648109.jpg"
-  },
-  {
-   "key": "MKE_BRITTON_QUANTAVIUS_648107",
-   "name": "Quantavius L Britton",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793698062,
-   "photo": "photos/MKE_BRITTON_QUANTAVIUS_648107.jpg"
-  },
-  {
-   "key": "HESSELBERG_TAYLOR_2026-11-03",
-   "name": "Taylor J Hesselberg",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1793698019,
-   "photo": null
-  },
-  {
-   "key": "DOU_GOLDEN_MALCOLM_2026-11-03",
-   "name": "Malcolm J Golden",
-   "age": "28",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793697437,
-   "photo": null
-  },
-  {
-   "key": "MAR_LUTHER_ISAAC_2026-11-02_8609314",
-   "name": "Isaac Robert Luther",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793696210,
-   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-02_8609314.jpg"
-  },
-  {
-   "key": "KEN_MILLER_STEVEN_2026-00006062",
-   "name": "Steven Devon Miller",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Carrying Concealed Weapon",
-   "more": 2,
-   "ts": 1793696183,
-   "photo": "photos/KEN_MILLER_STEVEN_2026-00006062.jpg"
   }
  ]
 }
