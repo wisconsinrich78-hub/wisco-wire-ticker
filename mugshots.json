@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T22:01:34+00:00",
+ "updated": "2026-11-06T22:49:40+00:00",
  "items": [
+  {
+   "key": "RC_HAND_ANTWAN_120011076021981",
+   "name": "Antwan A Hand",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794005283,
+   "photo": "photos/RC_HAND_ANTWAN_120011076021981.jpg"
+  },
+  {
+   "key": "RC_DESCHLER_JENNI_120011076021600",
+   "name": "Jenni Jeri Deschler",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794005281,
+   "photo": "photos/RC_DESCHLER_JENNI_120011076021600.jpg"
+  },
   {
    "key": "MKE_VAZQUEZ_SUJEILA_648168",
    "name": "Sujeila Tyree Vazquez",
@@ -220,28 +242,6 @@
    "more": 2,
    "ts": 1793993225,
    "photo": null
-  },
-  {
-   "key": "KEN_PHILLIPS_RYAN_2026-00006137",
-   "name": "Ryan Michael Phillips",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Narcotic Drugs",
-   "more": 2,
-   "ts": 1793992665,
-   "photo": "photos/KEN_PHILLIPS_RYAN_2026-00006137.jpg"
-  },
-  {
-   "key": "KEN_JOHNSON_LEROY_2026-00006139",
-   "name": "Leroy Elijah Johnson",
-   "age": "73",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793992587,
-   "photo": "photos/KEN_JOHNSON_LEROY_2026-00006139.jpg"
   },
   {
    "key": "FDL_FOWLER_KEYANDRE_2026-11-06",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_HAND_ANTWAN_120011076021981",
+   "name": "Antwan A Hand",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794005283,
+   "photo": "photos/RC_HAND_ANTWAN_120011076021981.jpg"
+  },
+  {
+   "key": "RC_DESCHLER_JENNI_120011076021600",
+   "name": "Jenni Jeri Deschler",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794005281,
+   "photo": "photos/RC_DESCHLER_JENNI_120011076021600.jpg"
+  },
   {
    "key": "MKE_VAZQUEZ_SUJEILA_648168",
    "name": "Sujeila Tyree Vazquez",
@@ -5656,28 +5678,6 @@
    "more": 1,
    "ts": 1793746394,
    "photo": "photos/KEN_GOMEZ_FERNANDO_2026-00006072.jpg"
-  },
-  {
-   "key": "RC_VEGA_ANGELO_120011075904489",
-   "name": "Angelo Junior Vega",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793746074,
-   "photo": "photos/RC_VEGA_ANGELO_120011075904489.jpg"
-  },
-  {
-   "key": "RC_MOSLEY_JANIQUA_120011075903948",
-   "name": "Janiqua Cashay Mosley",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793746071,
-   "photo": "photos/RC_MOSLEY_JANIQUA_120011075903948.jpg"
   }
  ]
 }
