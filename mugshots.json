@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T08:28:11+00:00",
+ "updated": "2026-11-06T08:49:27+00:00",
  "items": [
+  {
+   "key": "RC_FERGUSON_JAMES_120011075997478",
+   "name": "James William Ferguson",
+   "age": "57",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793954864,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_BRIDGETTE_157653",
    "name": "Bridgette Lashonne Williams",
@@ -209,17 +220,6 @@
    "more": 0,
    "ts": 1793940904,
    "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-05_30002.jpg"
-  },
-  {
-   "key": "RC_WATKINS_TREMAINE_120011075994504",
-   "name": "Tremaine Hassel Watkins",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793940469,
-   "photo": "photos/RC_WATKINS_TREMAINE_120011075994504.jpg"
   },
   {
    "key": "FDL_PEREZMARTINEZ_CALIXTO_2026-11-05",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FERGUSON_JAMES_120011075997478",
+   "name": "James William Ferguson",
+   "age": "57",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793954864,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_BRIDGETTE_157653",
    "name": "Bridgette Lashonne Williams",
@@ -878,8 +889,8 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 14,
    "ts": 1793932062,
    "photo": null
   },
@@ -892,7 +903,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793932060,
-   "photo": null
+   "photo": "photos/MKE_TAYLOR_ARION_639269.jpg"
   },
   {
    "key": "MKE_CRUZ_KERANY_643980",
@@ -900,7 +911,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Knowingly Operate w/out Valid License - Cause Great Bodily Harm",
+   "charge": "Injury by Intoxicated Use/Vehicle",
    "more": 1,
    "ts": 1793932059,
    "photo": null
@@ -922,8 +933,8 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1793930322,
    "photo": null
   },
@@ -933,7 +944,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd/Sub. Drug Off.-Class E/F/G/H/I Fel.",
+   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
    "more": 41,
    "ts": 1793930320,
    "photo": null
@@ -1024,7 +1035,7 @@
    "charge": "OWI (4th)",
    "more": 0,
    "ts": 1793926671,
-   "photo": null
+   "photo": "photos/MKE_KERRY_FELTON_256311.jpg"
   },
   {
    "key": "MKE_CRUZ_LUIS_416537",
@@ -1090,7 +1101,7 @@
    "charge": "Operating w/ PAC (5th or 6th)",
    "more": 1,
    "ts": 1793924870,
-   "photo": null
+   "photo": "photos/MKE_PIRTLE_MARCIA_239052.jpg"
   },
   {
    "key": "MKE_DOXZON_SELENA_2066956",
@@ -1178,7 +1189,7 @@
    "charge": "Possession of Child Pornography",
    "more": 0,
    "ts": 1793921280,
-   "photo": null
+   "photo": "photos/MKE_PETERS_JAMES_644841.jpg"
   },
   {
    "key": "MKE_LOCKETT_JEREMY_390854",
@@ -1244,7 +1255,7 @@
    "charge": "Charges Pending",
    "more": 12,
    "ts": 1793919489,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_DEVIN_648150.jpg"
   },
   {
    "key": "MKE_MITCHELL_LACHARLES_630396",
@@ -1450,7 +1461,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Sale/Possess/Use/Transport Machine Guns",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 5,
    "ts": 1793910458,
    "photo": null
