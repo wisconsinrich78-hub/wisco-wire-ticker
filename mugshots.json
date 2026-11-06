@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-06T21:49:33+00:00",
+ "updated": "2026-11-06T22:01:34+00:00",
  "items": [
+  {
+   "key": "MKE_VAZQUEZ_SUJEILA_648168",
+   "name": "Sujeila Tyree Vazquez",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
+   "more": 1,
+   "ts": 1794002272,
+   "photo": null
+  },
+  {
+   "key": "MKE_REDDIX_JACQUES_648170",
+   "name": "Jacques Reddix",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794002271,
+   "photo": null
+  },
+  {
+   "key": "MKE_KAISER_MARISSA_648169",
+   "name": "Marissa Rose Kaiser",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794002269,
+   "photo": null
+  },
   {
    "key": "RC_TOLIVER_ANTWYAN_120011076020836",
    "name": "Antwyan Laron Toliver",
@@ -242,39 +275,6 @@
    "more": 0,
    "ts": 1793992306,
    "photo": "photos/MAR_THORN_RANDALL_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_MCCANTS_TIFFANY_350753",
-   "name": "Tiffany Shaunatae Mccants",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 2,
-   "ts": 1793991490,
-   "photo": null
-  },
-  {
-   "key": "MKE_GALLOB_JOSEPH_603846",
-   "name": "Joseph Donald Gallob",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 0,
-   "ts": 1793991488,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRIBBS_TARCY_614157",
-   "name": "Tarcy Deroy Cribbs",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Injury by Negligent Use/Weapon/Explosive",
-   "more": 2,
-   "ts": 1793991486,
-   "photo": null
   },
   {
    "key": "FDL_HOOPMAN_LYNNETTE_2026-11-06",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_VAZQUEZ_SUJEILA_648168",
+   "name": "Sujeila Tyree Vazquez",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
+   "more": 1,
+   "ts": 1794002272,
+   "photo": null
+  },
+  {
+   "key": "MKE_REDDIX_JACQUES_648170",
+   "name": "Jacques Reddix",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794002271,
+   "photo": null
+  },
+  {
+   "key": "MKE_KAISER_MARISSA_648169",
+   "name": "Marissa Rose Kaiser",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794002269,
+   "photo": null
+  },
+  {
    "key": "RC_TOLIVER_ANTWYAN_120011076020836",
    "name": "Antwyan Laron Toliver",
    "age": "31",
@@ -779,7 +812,7 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 2,
    "ts": 1793991490,
    "photo": null
@@ -958,7 +991,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1793986053,
-   "photo": null
+   "photo": "photos/MKE_MORTENSEN_JAMIE_630865.jpg"
   },
   {
    "key": "MKE_HARDEN_DENAE_646320",
@@ -1021,7 +1054,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Battery",
    "more": 1,
    "ts": 1793984307,
    "photo": null
@@ -1123,7 +1156,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793980751,
-   "photo": null
+   "photo": "photos/MKE_SMITH_RICCO_266084.jpg"
   },
   {
    "key": "MKE_RUSSELL_DYLANN_648164",
@@ -5645,61 +5678,6 @@
    "more": 0,
    "ts": 1793746071,
    "photo": "photos/RC_MOSLEY_JANIQUA_120011075903948.jpg"
-  },
-  {
-   "key": "MKE_NICKESON_KATHRYN_644624",
-   "name": "Kathryn Michelle Nickeson",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1793743063,
-   "photo": "photos/MKE_NICKESON_KATHRYN_644624.jpg"
-  },
-  {
-   "key": "MKE_BROWNTERRY_DEJA_621612",
-   "name": "Deja A Brown-Terry",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 3,
-   "ts": 1793743061,
-   "photo": "photos/MKE_BROWNTERRY_DEJA_621612.jpg"
-  },
-  {
-   "key": "MAR_AGUILAR_JOHN_2026-11-03_16618402",
-   "name": "John Joaquin Aguilar",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
-   "more": 0,
-   "ts": 1793743029,
-   "photo": "photos/MAR_AGUILAR_JOHN_2026-11-03_16618402.jpg"
-  },
-  {
-   "key": "MAR_CAROLFI_SCOTT_2026-11-03_4789808",
-   "name": "Scott Duane Carolfi",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1793742993,
-   "photo": "photos/MAR_CAROLFI_SCOTT_2026-11-03_4789808.jpg"
-  },
-  {
-   "key": "MAR_SEEFELDT_CAMERON_2026-11-03_4613817",
-   "name": "Cameron P Seefeldt",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 0,
-   "ts": 1793742956,
-   "photo": "photos/MAR_SEEFELDT_CAMERON_2026-11-03_4613817.jpg"
   }
  ]
 }
