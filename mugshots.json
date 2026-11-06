@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T02:29:14+00:00",
+ "updated": "2026-11-06T02:49:30+00:00",
  "items": [
+  {
+   "key": "WILSON_ANTHONY_2026-11-05",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft <$500",
+   "more": 3,
+   "ts": 1793933242,
+   "photo": null
+  },
   {
    "key": "MKE_THOMAS_DAMION_612343",
    "name": "Damion Deshun Thomas",
@@ -420,17 +431,6 @@
    "photo": null
   },
   {
-   "key": "ARISPE_SHANTEL_2026-11-05",
-   "name": "Shantel Alyssa Arispe",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793892464,
-   "photo": null
-  },
-  {
    "key": "MAR_ANDRUSS_JOSEPH_2026-11-03_17051201",
    "name": "Joseph Allen Andruss",
    "age": "41",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "WILSON_ANTHONY_2026-11-05",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft <$500",
+   "more": 3,
+   "ts": 1793933242,
+   "photo": null
+  },
   {
    "key": "MKE_THOMAS_DAMION_612343",
    "name": "Damion Deshun Thomas",
