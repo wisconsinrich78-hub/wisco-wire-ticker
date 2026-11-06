@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T07:28:17+00:00",
+ "updated": "2026-11-06T07:49:31+00:00",
  "items": [
+  {
+   "key": "RC_FREDRICKSON_RORY_120011075996408",
+   "name": "Rory Myron Fredrickson",
+   "age": "65",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence(3Rd)",
+   "more": 4,
+   "ts": 1793951274,
+   "photo": "photos/RC_FREDRICKSON_RORY_120011075996408.jpg"
+  },
   {
    "key": "FDL_LUNDE_ANGELA_2026-11-06",
    "name": "Angela Jean Lunde",
@@ -252,17 +263,6 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1793932062,
-   "photo": null
-  },
-  {
-   "key": "MKE_TAYLOR_ARION_639269",
-   "name": "Arion Amillio Taylor",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793932060,
    "photo": null
   },
   {
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FREDRICKSON_RORY_120011075996408",
+   "name": "Rory Myron Fredrickson",
+   "age": "65",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence(3Rd)",
+   "more": 4,
+   "ts": 1793951274,
+   "photo": "photos/RC_FREDRICKSON_RORY_120011075996408.jpg"
+  },
   {
    "key": "FDL_LUNDE_ANGELA_2026-11-06",
    "name": "Angela Jean Lunde",
@@ -834,8 +845,8 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Manufacture/Deliver Fentanyl (>10-50)",
-   "more": 37,
+   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
+   "more": 41,
    "ts": 1793930320,
    "photo": null
   },
@@ -5601,17 +5612,6 @@
    "more": 0,
    "ts": 1793694452,
    "photo": "photos/MKE_HILL_BURTON_386339.jpg"
-  },
-  {
-   "key": "WINJUM_ADRIAN_2026-11-03",
-   "name": "Adrian M Winjum",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793692026,
-   "photo": null
   }
  ]
 }
