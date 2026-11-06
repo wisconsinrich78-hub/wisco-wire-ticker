@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-06T15:49:37+00:00",
+ "updated": "2026-11-06T16:29:49+00:00",
  "items": [
+  {
+   "key": "DOU_STRONG_CHARLZ_2026-10-30",
+   "name": "Charlz W Strong",
+   "age": "39",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793981867,
+   "photo": "photos/DOU_STRONG_CHARLZ_2026-10-30.jpg"
+  },
+  {
+   "key": "DOU_KING_JACOB_2026-11-06",
+   "name": "Jacob A King",
+   "age": "31",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1793981864,
+   "photo": "photos/DOU_KING_JACOB_2026-11-06.jpg"
+  },
+  {
+   "key": "KEN_FEAVEL_CANDICE_2026-00006133",
+   "name": "Candice Marie Feavel",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 1,
+   "ts": 1793980804,
+   "photo": "photos/KEN_FEAVEL_CANDICE_2026-00006133.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_SHANICE_648162",
+   "name": "Shanice Williams",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980764,
+   "photo": null
+  },
+  {
+   "key": "MKE_VARNADOSILAS_AARON_648163",
+   "name": "Aaron A Varnado Silas",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980754,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_RICCO_266084",
+   "name": "Ricco Royal Smith",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793980751,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUSSELL_DYLANN_648164",
+   "name": "Dylann Anthony Russell",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980744,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAMILTON_WENDELL_176925",
+   "name": "Wendell Gregory Hamilton",
+   "age": "64",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793980735,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRIERHARRIS_TERRELL_648161",
+   "name": "Terrell Grier Harris",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793980727,
+   "photo": null
+  },
+  {
+   "key": "KEN_DAVIS_AREON_2026-00006134",
+   "name": "Areon Raeshe Davis",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980692,
+   "photo": "photos/KEN_DAVIS_AREON_2026-00006134.jpg"
+  },
   {
    "key": "RC_ROMPA_ADAM_120011076005730",
    "name": "Adam K Rompa",
@@ -65,7 +175,7 @@
    "charge": "False Imprisonment",
    "more": 0,
    "ts": 1793975267,
-   "photo": null
+   "photo": "photos/MKE_ZAMORA_ROY_544090.jpg"
   },
   {
    "key": "MKE_TAYLOR_GLENN_376807",
@@ -134,17 +244,6 @@
    "photo": "photos/FDL_FUNK_CADENCE_2026-11-06.jpg"
   },
   {
-   "key": "MKE_HALL_LARRY_248606",
-   "name": "Larry Charles Hall",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793964455,
-   "photo": null
-  },
-  {
    "key": "FDL_GAMESGAMEZ_MARTIRES_2026-11-06",
    "name": "Martires Ramon Games Gamez",
    "age": "",
@@ -154,28 +253,6 @@
    "more": 0,
    "ts": 1793963784,
    "photo": "photos/FDL_GAMESGAMEZ_MARTIRES_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_VASQUEZVASQUEZ_SABINO_642411",
-   "name": "Sabino Vasquez Vasquez",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793962660,
-   "photo": null
-  },
-  {
-   "key": "MKE_PIK_JEFFREY_362342",
-   "name": "Jeffrey H Pik",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793962658,
-   "photo": null
   },
   {
    "key": "MAR_BURNETT_CHARLES_2026-11-06",
@@ -233,17 +310,6 @@
    "photo": "photos/TREM_BEDE_CECELIA_6203.jpg"
   },
   {
-   "key": "MKE_LEWIS_LESENT_2030198",
-   "name": "Lesent LL Lewis",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 9,
-   "ts": 1793959065,
-   "photo": null
-  },
-  {
    "key": "MAR_MITCHELL_ALIVIA_2026-11-06",
    "name": "Alivia Carol Rose Mitchell",
    "age": "22",
@@ -255,17 +321,6 @@
    "photo": "photos/MAR_MITCHELL_ALIVIA_2026-11-06.jpg"
   },
   {
-   "key": "RC_WILLIAMS_ANDREA_120011075998291",
-   "name": "Andrea Ianna Williams",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1793958467,
-   "photo": null
-  },
-  {
    "key": "FDL_FARRELL_CONNOR_2026-11-06",
    "name": "Connor James Farrell",
    "age": "",
@@ -275,39 +330,6 @@
    "more": 0,
    "ts": 1793956574,
    "photo": "photos/FDL_FARRELL_CONNOR_2026-11-06.jpg"
-  },
-  {
-   "key": "RC_FERGUSON_JAMES_120011075997478",
-   "name": "James William Ferguson",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793954864,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_BRIDGETTE_157653",
-   "name": "Bridgette Lashonne Williams",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793953657,
-   "photo": null
-  },
-  {
-   "key": "MKE_LOPEZ_FRANCISCO_240046",
-   "name": "Francisco Javier Lopez",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property <=$2500",
-   "more": 3,
-   "ts": 1793953655,
-   "photo": "photos/MKE_LOPEZ_FRANCISCO_240046.jpg"
   },
   {
    "key": "MAR_ELLIS_RORY_2026-11-05_608001",
@@ -506,31 +528,119 @@
    "more": 1,
    "ts": 1793915825,
    "photo": null
-  },
-  {
-   "key": "PALUBICKI_TIMOTHY_2026-11-05",
-   "name": "Timothy J Palubicki",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793910422,
-   "photo": null
-  },
-  {
-   "key": "MAR_SZITTA_HUNTER_2026-11-05",
-   "name": "Hunter Matthew Szitta",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1793908192,
-   "photo": "photos/MAR_SZITTA_HUNTER_2026-11-05.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_STRONG_CHARLZ_2026-10-30",
+   "name": "Charlz W Strong",
+   "age": "39",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1793981867,
+   "photo": "photos/DOU_STRONG_CHARLZ_2026-10-30.jpg"
+  },
+  {
+   "key": "DOU_KING_JACOB_2026-11-06",
+   "name": "Jacob A King",
+   "age": "31",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 3,
+   "ts": 1793981864,
+   "photo": "photos/DOU_KING_JACOB_2026-11-06.jpg"
+  },
+  {
+   "key": "KEN_FEAVEL_CANDICE_2026-00006133",
+   "name": "Candice Marie Feavel",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Drug Paraphernalia",
+   "more": 1,
+   "ts": 1793980804,
+   "photo": "photos/KEN_FEAVEL_CANDICE_2026-00006133.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_SHANICE_648162",
+   "name": "Shanice Williams",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980764,
+   "photo": null
+  },
+  {
+   "key": "MKE_VARNADOSILAS_AARON_648163",
+   "name": "Aaron A Varnado Silas",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980754,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_RICCO_266084",
+   "name": "Ricco Royal Smith",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1793980751,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUSSELL_DYLANN_648164",
+   "name": "Dylann Anthony Russell",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980744,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAMILTON_WENDELL_176925",
+   "name": "Wendell Gregory Hamilton",
+   "age": "64",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793980735,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRIERHARRIS_TERRELL_648161",
+   "name": "Terrell Grier Harris",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1793980727,
+   "photo": null
+  },
+  {
+   "key": "KEN_DAVIS_AREON_2026-00006134",
+   "name": "Areon Raeshe Davis",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980692,
+   "photo": "photos/KEN_DAVIS_AREON_2026-00006134.jpg"
+  },
   {
    "key": "RC_ROMPA_ADAM_120011076005730",
    "name": "Adam K Rompa",
@@ -595,7 +705,7 @@
    "charge": "False Imprisonment",
    "more": 0,
    "ts": 1793975267,
-   "photo": null
+   "photo": "photos/MKE_ZAMORA_ROY_544090.jpg"
   },
   {
    "key": "MKE_TAYLOR_GLENN_376807",
@@ -870,7 +980,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1793953650,
-   "photo": null
+   "photo": "photos/MKE_FREEMAN_BIANCA_648158.jpg"
   },
   {
    "key": "MKE_ROBINSON_KEYANNA_536394",
@@ -881,7 +991,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1793951894,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_KEYANNA_536394.jpg"
   },
   {
    "key": "MKE_GUY_DAVID_624981",
@@ -5601,39 +5711,6 @@
    "more": 0,
    "ts": 1793724468,
    "photo": "photos/RC_WILLIAMS_DARRELL_120011075889931.jpg"
-  },
-  {
-   "key": "DOU_LAFAVE_EDWARD_2026-11-03",
-   "name": "Edward J Lafave",
-   "age": "49",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1793722626,
-   "photo": "photos/DOU_LAFAVE_EDWARD_2026-11-03.jpg"
-  },
-  {
-   "key": "MKE_STEVENSON_KEVIONTA_622593",
-   "name": "Kevionta T Stevenson",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793721477,
-   "photo": "photos/MKE_STEVENSON_KEVIONTA_622593.jpg"
-  },
-  {
-   "key": "MKE_LLOYD_MAURICE_502407",
-   "name": "Maurice Lloyd",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793721474,
-   "photo": "photos/MKE_LLOYD_MAURICE_502407.jpg"
   }
  ]
 }
