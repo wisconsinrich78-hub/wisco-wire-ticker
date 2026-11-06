@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T15:28:45+00:00",
+ "updated": "2026-11-06T15:49:37+00:00",
  "items": [
+  {
+   "key": "RC_ROMPA_ADAM_120011076005730",
+   "name": "Adam K Rompa",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980098,
+   "photo": "photos/RC_ROMPA_ADAM_120011076005730.jpg"
+  },
+  {
+   "key": "RC_MONTGOMERY_ERIC_120011076006052",
+   "name": "Eric Lee Montgomery",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980093,
+   "photo": null
+  },
   {
    "key": "MKE_BROWN_TYRONE_375526",
    "name": "Tyrone Martin Brown",
@@ -40,7 +62,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "False Imprisonment",
    "more": 0,
    "ts": 1793975267,
    "photo": null
@@ -288,28 +310,6 @@
    "photo": "photos/MKE_LOPEZ_FRANCISCO_240046.jpg"
   },
   {
-   "key": "MKE_JONES_DORRIEN_648159",
-   "name": "Dorrien C Jones",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793953653,
-   "photo": null
-  },
-  {
-   "key": "MKE_HICKS_HAKEEM_409654",
-   "name": "Hakeem Hicks",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793953652,
-   "photo": "photos/MKE_HICKS_HAKEEM_409654.jpg"
-  },
-  {
    "key": "MAR_ELLIS_RORY_2026-11-05_608001",
    "name": "Rory Joseph Ellis",
    "age": "34",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "RC_ROMPA_ADAM_120011076005730",
+   "name": "Adam K Rompa",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980098,
+   "photo": "photos/RC_ROMPA_ADAM_120011076005730.jpg"
+  },
+  {
+   "key": "RC_MONTGOMERY_ERIC_120011076006052",
+   "name": "Eric Lee Montgomery",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793980093,
+   "photo": null
+  },
+  {
    "key": "MKE_BROWN_TYRONE_375526",
    "name": "Tyrone Martin Brown",
    "age": "36",
@@ -570,7 +592,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "False Imprisonment",
    "more": 0,
    "ts": 1793975267,
    "photo": null
@@ -5612,17 +5634,6 @@
    "more": 2,
    "ts": 1793721474,
    "photo": "photos/MKE_LLOYD_MAURICE_502407.jpg"
-  },
-  {
-   "key": "RC_REED_TERRANCE_120011075888000",
-   "name": "Terrance R Reed",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793720879,
-   "photo": "photos/RC_REED_TERRANCE_120011075888000.jpg"
   }
  ]
 }
