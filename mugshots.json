@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-06T17:03:34+00:00",
+ "updated": "2026-11-06T17:28:17+00:00",
  "items": [
+  {
+   "key": "MKE_MORTENSEN_JAMIE_630865",
+   "name": "Jamie Elizabeth Mortensen",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793986053,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARDEN_DENAE_646320",
+   "name": "Denae Saleah Harden",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 4,
+   "ts": 1793986052,
+   "photo": null
+  },
+  {
+   "key": "MKE_FISCHER_JENNI_642613",
+   "name": "Jenni E Fischer",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run-Involve Great Bodily Harm",
+   "more": 1,
+   "ts": 1793986050,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTILLO_IVAN_648165",
+   "name": "Ivan E Castillo",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793986049,
+   "photo": null
+  },
   {
    "key": "MKE_SPRUILL_JONATHAN_645012",
    "name": "Jonathan D Spruill",
@@ -153,50 +197,6 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1793980735,
-   "photo": null
-  },
-  {
-   "key": "MKE_GRIERHARRIS_TERRELL_648161",
-   "name": "Terrell Grier Harris",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793980727,
-   "photo": null
-  },
-  {
-   "key": "KEN_DAVIS_AREON_2026-00006134",
-   "name": "Areon Raeshe Davis",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980692,
-   "photo": "photos/KEN_DAVIS_AREON_2026-00006134.jpg"
-  },
-  {
-   "key": "RC_ROMPA_ADAM_120011076005730",
-   "name": "Adam K Rompa",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980098,
-   "photo": "photos/RC_ROMPA_ADAM_120011076005730.jpg"
-  },
-  {
-   "key": "RC_MONTGOMERY_ERIC_120011076006052",
-   "name": "Eric Lee Montgomery",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980093,
    "photo": null
   },
   {
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MORTENSEN_JAMIE_630865",
+   "name": "Jamie Elizabeth Mortensen",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1793986053,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARDEN_DENAE_646320",
+   "name": "Denae Saleah Harden",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 4,
+   "ts": 1793986052,
+   "photo": null
+  },
+  {
+   "key": "MKE_FISCHER_JENNI_642613",
+   "name": "Jenni E Fischer",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run-Involve Great Bodily Harm",
+   "more": 1,
+   "ts": 1793986050,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTILLO_IVAN_648165",
+   "name": "Ivan E Castillo",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1793986049,
+   "photo": null
+  },
   {
    "key": "MKE_SPRUILL_JONATHAN_645012",
    "name": "Jonathan D Spruill",
@@ -5656,61 +5700,6 @@
    "more": 0,
    "ts": 1793728070,
    "photo": null
-  },
-  {
-   "key": "MKE_STOKES_ROBYN_638891",
-   "name": "Robyn Lynn Stokes",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793726865,
-   "photo": "photos/MKE_STOKES_ROBYN_638891.jpg"
-  },
-  {
-   "key": "MKE_SHELTON_JOHN_201634",
-   "name": "John F Shelton",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793726863,
-   "photo": "photos/MKE_SHELTON_JOHN_201634.jpg"
-  },
-  {
-   "key": "MKE_SEMRAD_RYAN_639015",
-   "name": "Ryan L Semrad",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793726862,
-   "photo": "photos/MKE_SEMRAD_RYAN_639015.jpg"
-  },
-  {
-   "key": "MKE_NEWMAN_WALLACE_647267",
-   "name": "Wallace Newman",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793726860,
-   "photo": "photos/MKE_NEWMAN_WALLACE_647267.jpg"
-  },
-  {
-   "key": "MKE_MCLAURIN_FREDDIE_195701",
-   "name": "Freddie Terrel Mclaurin",
-   "age": "69",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793726858,
-   "photo": "photos/MKE_MCLAURIN_FREDDIE_195701.jpg"
   }
  ]
 }
