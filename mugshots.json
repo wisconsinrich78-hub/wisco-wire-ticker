@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T07:28:39+00:00",
+ "updated": "2026-11-07T08:02:55+00:00",
  "items": [
+  {
+   "key": "MKE_MALLARD_DAYLAN_648177",
+   "name": "Daylan R Mallard",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794038274,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARIASLACHERRE_JOHAN_648179",
+   "name": "Johan Balbo Arias Lacherre",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794038272,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALSTON_AHMAL_648178",
+   "name": "Ahmal Jamel Alston",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794038271,
+   "photo": null
+  },
   {
    "key": "MKE_CARMONA_DAMIAN_622243",
    "name": "Damian Carmona",
@@ -175,29 +208,7 @@
    "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
    "more": 0,
    "ts": 1794022057,
-   "photo": null
-  },
-  {
-   "key": "MKE_MALONE_LAVAR_326939",
-   "name": "Lavar Mandrell Malone",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794022056,
-   "photo": null
-  },
-  {
-   "key": "KEN_DEFORD_CANDICE_2026-00006147",
-   "name": "Candice Lee Deford",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794020403,
-   "photo": "photos/KEN_DEFORD_CANDICE_2026-00006147.jpg"
+   "photo": "photos/MKE_PATTERSON_TYRESHA_610964.jpg"
   },
   {
    "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06",
@@ -209,17 +220,6 @@
    "more": 5,
    "ts": 1794020247,
    "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_SMITH_RICHARD_638194",
-   "name": "Richard R Smith",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 5,
-   "ts": 1794018459,
-   "photo": "photos/MKE_SMITH_RICHARD_638194.jpg"
   },
   {
    "key": "MAR_SIKORA_TRAVIS_2026-11-06_563706",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_MALLARD_DAYLAN_648177",
+   "name": "Daylan R Mallard",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794038274,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARIASLACHERRE_JOHAN_648179",
+   "name": "Johan Balbo Arias Lacherre",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794038272,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALSTON_AHMAL_648178",
+   "name": "Ahmal Jamel Alston",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794038271,
+   "photo": null
+  },
+  {
    "key": "MKE_CARMONA_DAMIAN_622243",
    "name": "Damian Carmona",
    "age": "42",
@@ -705,7 +738,7 @@
    "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
    "more": 0,
    "ts": 1794022057,
-   "photo": null
+   "photo": "photos/MKE_PATTERSON_TYRESHA_610964.jpg"
   },
   {
    "key": "MKE_MALONE_LAVAR_326939",
@@ -914,7 +947,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794011279,
-   "photo": null
+   "photo": "photos/MKE_NEAL_TERRENCE_261251.jpg"
   },
   {
    "key": "FDL_ZAVALASALINAS_MAURICIO_2026-11-06",
@@ -1057,7 +1090,7 @@
    "charge": "Injury by Negligent Use/Weapon/Explosive",
    "more": 0,
    "ts": 1794007724,
-   "photo": null
+   "photo": "photos/MKE_BURCH_DRATEN_636755.jpg"
   },
   {
    "key": "FDL_MAYR_RYAN_2026-11-06",
@@ -5645,17 +5678,6 @@
    "more": 1,
    "ts": 1793783821,
    "photo": "photos/DOU_MACK_DANIEL_2026-11-04.jpg"
-  },
-  {
-   "key": "MKE_SCOTT_JACOBY_382431",
-   "name": "Jacoby T Scott",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1793779048,
-   "photo": "photos/MKE_SCOTT_JACOBY_382431.jpg"
   }
  ]
 }
