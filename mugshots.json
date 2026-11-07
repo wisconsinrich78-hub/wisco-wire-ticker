@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-07T17:49:34+00:00",
+ "updated": "2026-11-07T18:28:10+00:00",
  "items": [
+  {
+   "key": "AUSTAD_DYLAN_2026-11-07",
+   "name": "Dylan Edward Austad",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794076021,
+   "photo": null
+  },
+  {
+   "key": "KEN_DANIELS_NICHOLAS_2026-00006158",
+   "name": "Nicholas David Daniels",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (2Nd)",
+   "more": 0,
+   "ts": 1794074499,
+   "photo": "photos/KEN_DANIELS_NICHOLAS_2026-00006158.jpg"
+  },
   {
    "key": "MKE_ROLLINS_JAVONDRE_648190",
    "name": "Javondre Lee Rollins",
@@ -277,17 +299,6 @@
    "photo": "photos/MAR_KIEFER_TRISTON_2026-11-07.jpg"
   },
   {
-   "key": "KEN_DOBYNS_LACIE_2026-00006155",
-   "name": "Lacie Elizabeth Dobyns",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (2Nd)",
-   "more": 0,
-   "ts": 1794063494,
-   "photo": "photos/KEN_DOBYNS_LACIE_2026-00006155.jpg"
-  },
-  {
    "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
    "name": "Dustin James Krueger",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793998042,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "HERZER_NATHEN_2026-11-06",
-   "name": "Nathen P Herzer",
-   "age": "29",
+   "key": "AUSTAD_DYLAN_2026-11-07",
+   "name": "Dylan Edward Austad",
+   "age": "32",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1793993226,
+   "ts": 1794076021,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "KEN_DANIELS_NICHOLAS_2026-00006158",
+   "name": "Nicholas David Daniels",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (2Nd)",
+   "more": 0,
+   "ts": 1794074499,
+   "photo": "photos/KEN_DANIELS_NICHOLAS_2026-00006158.jpg"
+  },
   {
    "key": "MKE_ROLLINS_JAVONDRE_648190",
    "name": "Javondre Lee Rollins",
@@ -5590,94 +5612,6 @@
    "more": 4,
    "ts": 1793818638,
    "photo": "photos/KEN_TOWNSEND_WALLACE_2026-00006088.jpg"
-  },
-  {
-   "key": "MKE_TAPIA_ADAM_625060",
-   "name": "Adam Alexander Tapia",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st De",
-   "more": 0,
-   "ts": 1793816875,
-   "photo": null
-  },
-  {
-   "key": "MKE_SHIELDS_CHARLES_252516",
-   "name": "Charles Vincent Shields",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1793816873,
-   "photo": null
-  },
-  {
-   "key": "MKE_PERKINS_LATASHA_297784",
-   "name": "Latasha Monique Perkins",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793816871,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_ELI_513073",
-   "name": "Eli Jackson",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 12,
-   "ts": 1793816869,
-   "photo": "photos/MKE_JACKSON_ELI_513073.jpg"
-  },
-  {
-   "key": "MKE_COSMESANTIAGO_ANGEL_648128",
-   "name": "Angel Gabriel Cosme Santiago",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793816867,
-   "photo": null
-  },
-  {
-   "key": "DOU_GARDNER_DESHAWN_2026-11-04",
-   "name": "Deshawn L Gardner",
-   "age": "27",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793816226,
-   "photo": null
-  },
-  {
-   "key": "MAR_RANGEL_MARTIN_2026-11-03_17057201",
-   "name": "Martin Ortega Rangel",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Extradition",
-   "more": 3,
-   "ts": 1793814956,
-   "photo": "photos/MAR_RANGEL_MARTIN_2026-11-03_17057201.jpg"
-  },
-  {
-   "key": "KEN_THOMAS_BRANDON_2026-00006084",
-   "name": "Brandon Avery Thomas",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793814948,
-   "photo": "photos/KEN_THOMAS_BRANDON_2026-00006084.jpg"
   }
  ]
 }
