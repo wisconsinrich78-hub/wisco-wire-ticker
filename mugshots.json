@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-07T12:49:28+00:00",
+ "updated": "2026-11-07T13:33:13+00:00",
  "items": [
+  {
+   "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
+   "name": "Dustin James Krueger",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 0,
+   "ts": 1794057398,
+   "photo": "photos/FDL_KRUEGER_DUSTIN_2026-11-07.jpg"
+  },
+  {
+   "key": "FDL_BARTA_JULIE_2026-11-07",
+   "name": "Julie Eileen Barta",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794057358,
+   "photo": "photos/FDL_BARTA_JULIE_2026-11-07.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_TAMAKO_635576",
+   "name": "Tamako Nicole Williams",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794056270,
+   "photo": null
+  },
+  {
+   "key": "MKE_WEZYK_MICHAEL_2047697",
+   "name": "Michael Christopher Wezyk",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794056268,
+   "photo": null
+  },
+  {
+   "key": "MKE_GODOY_LUIS_648186",
+   "name": "Luis Ricardo Godoy",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794056267,
+   "photo": null
+  },
   {
    "key": "MKE_LANDIN_ANDREW_648184",
    "name": "Andrew Z Landin",
@@ -32,7 +87,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794054461,
-   "photo": null
+   "photo": "photos/MKE_ANDERSON_ROBIN_648185.jpg"
   },
   {
    "key": "MKE_WINSTON_ROBERT_648183",
@@ -176,39 +231,6 @@
    "more": 1,
    "ts": 1794040053,
    "photo": null
-  },
-  {
-   "key": "MKE_MALLARD_DAYLAN_648177",
-   "name": "Daylan R Mallard",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794038274,
-   "photo": "photos/MKE_MALLARD_DAYLAN_648177.jpg"
-  },
-  {
-   "key": "MKE_ARIASLACHERRE_JOHAN_648179",
-   "name": "Johan Balbo Arias Lacherre",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794038272,
-   "photo": "photos/MKE_ARIASLACHERRE_JOHAN_648179.jpg"
-  },
-  {
-   "key": "MKE_ALSTON_AHMAL_648178",
-   "name": "Ahmal Jamel Alston",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794038271,
-   "photo": "photos/MKE_ALSTON_AHMAL_648178.jpg"
   },
   {
    "key": "PECK_MOLLIE_2026-11-06",
@@ -506,31 +528,64 @@
    "more": 1,
    "ts": 1793978285,
    "photo": "photos/DOU_FRIKART_LOREN_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_BURNETT_CHARLES_2026-11-06_8060202",
-   "name": "Charles Alan Burnett",
-   "age": "70",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 0,
-   "ts": 1793977003,
-   "photo": "photos/MAR_BURNETT_CHARLES_2026-11-06_8060202.jpg"
-  },
-  {
-   "key": "MAR_BOLLER_JERRY_2026-11-06",
-   "name": "Jerry Lee Boller",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1793973321,
-   "photo": "photos/MAR_BOLLER_JERRY_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
+   "name": "Dustin James Krueger",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 0,
+   "ts": 1794057398,
+   "photo": "photos/FDL_KRUEGER_DUSTIN_2026-11-07.jpg"
+  },
+  {
+   "key": "FDL_BARTA_JULIE_2026-11-07",
+   "name": "Julie Eileen Barta",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794057358,
+   "photo": "photos/FDL_BARTA_JULIE_2026-11-07.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_TAMAKO_635576",
+   "name": "Tamako Nicole Williams",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794056270,
+   "photo": null
+  },
+  {
+   "key": "MKE_WEZYK_MICHAEL_2047697",
+   "name": "Michael Christopher Wezyk",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794056268,
+   "photo": null
+  },
+  {
+   "key": "MKE_GODOY_LUIS_648186",
+   "name": "Luis Ricardo Godoy",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794056267,
+   "photo": null
+  },
   {
    "key": "MKE_LANDIN_ANDREW_648184",
    "name": "Andrew Z Landin",
@@ -562,7 +617,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794054461,
-   "photo": null
+   "photo": "photos/MKE_ANDERSON_ROBIN_648185.jpg"
   },
   {
    "key": "MKE_WINSTON_ROBERT_648183",
@@ -5678,28 +5733,6 @@
    "more": 0,
    "ts": 1793800588,
    "photo": "photos/KEN_ALBRITTON_DALON_2026-00006079.jpg"
-  },
-  {
-   "key": "MKE_KORTH_GJUAN_626061",
-   "name": "Gjuan D Korth",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1793797049,
-   "photo": "photos/MKE_KORTH_GJUAN_626061.jpg"
-  },
-  {
-   "key": "MKE_BOYD_CORY_368167",
-   "name": "Cory L Boyd",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793797048,
-   "photo": "photos/MKE_BOYD_CORY_368167.jpg"
   }
  ]
 }
