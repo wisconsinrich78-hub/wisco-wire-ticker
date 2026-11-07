@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:49:43+00:00",
+ "updated": "2026-11-07T07:28:39+00:00",
  "items": [
   {
    "key": "MKE_CARMONA_DAMIAN_622243",
@@ -51,8 +51,8 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794029273,
    "photo": null
   },
@@ -581,8 +581,8 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794029273,
    "photo": null
   },
@@ -848,7 +848,7 @@
    "charge": "Disorderly Conduct",
    "more": 9,
    "ts": 1794013081,
-   "photo": null
+   "photo": "photos/MKE_BERDECIA_LUIS_636738.jpg"
   },
   {
    "key": "HAGER_TYLER_2026-11-06",
@@ -1035,7 +1035,7 @@
    "charge": "3rd Degree Sexual Assault",
    "more": 0,
    "ts": 1794007728,
-   "photo": null
+   "photo": "photos/MKE_STEWART_JIMMY_621190.jpg"
   },
   {
    "key": "MKE_PHILLIPS_FRANCIS_648171",
@@ -1090,7 +1090,7 @@
    "charge": "Charges Pending",
    "more": 8,
    "ts": 1794005963,
-   "photo": null
+   "photo": "photos/MKE_MOORE_JYLAN_2063375.jpg"
   },
   {
    "key": "MKE_ERVING_DEANTWONE_641027",
@@ -1145,7 +1145,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794002271,
-   "photo": null
+   "photo": "photos/MKE_REDDIX_JACQUES_648170.jpg"
   },
   {
    "key": "MKE_KAISER_MARISSA_648169",
@@ -1263,10 +1263,10 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Habitual Criminality",
    "more": 1,
    "ts": 1793996867,
-   "photo": null
+   "photo": "photos/MKE_LEACHMAN_PHIERLIS_640679.jpg"
   },
   {
    "key": "MKE_KUKLINSKI_ANTHONY_633689",
@@ -5656,28 +5656,6 @@
    "more": 0,
    "ts": 1793779048,
    "photo": "photos/MKE_SCOTT_JACOBY_382431.jpg"
-  },
-  {
-   "key": "FDL_WEELDREYER_EMILY_2026-11-04",
-   "name": "Emily Eileen Weeldreyer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
-   "more": 0,
-   "ts": 1793776619,
-   "photo": null
-  },
-  {
-   "key": "FDL_JACKSON_RYAN_2026-11-04",
-   "name": "Ryan Jerold Jackson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793776585,
-   "photo": "photos/FDL_JACKSON_RYAN_2026-11-04.jpg"
   }
  ]
 }
