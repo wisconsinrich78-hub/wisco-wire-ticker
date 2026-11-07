@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T22:49:30+00:00",
+ "updated": "2026-11-07T23:49:39+00:00",
  "items": [
+  {
+   "key": "MKE_TORRES_BENJAMIN_648196",
+   "name": "Benjamin Torres",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794094069,
+   "photo": null
+  },
+  {
+   "key": "MKE_MASON_CHRISTIAN_648195",
+   "name": "Christian Odell Mason",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794092278,
+   "photo": null
+  },
+  {
+   "key": "LANG_CHRISTOPHER_2026-11-07",
+   "name": "Christopher D Lang",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794092226,
+   "photo": null
+  },
   {
    "key": "CAMPBELL_MATTHEW_2026-11-07",
    "name": "Matthew L Campbell",
@@ -186,7 +219,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794070677,
-   "photo": null
+   "photo": "photos/MKE_TRAYLOR_LATASHIA_647538.jpg"
   },
   {
    "key": "MKE_PERKINS_ANTHONY_648188",
@@ -197,7 +230,7 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 8,
    "ts": 1794070675,
-   "photo": null
+   "photo": "photos/MKE_PERKINS_ANTHONY_648188.jpg"
   },
   {
    "key": "MKE_DELAROSA_SHAVONTAE_648189",
@@ -222,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "RC_KUMPLA_SETH_120011076037070",
-   "name": "Seth Kumpla",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794070072,
-   "photo": null
-  },
-  {
    "key": "MAR_STEVENS_DANIELLE_2026-11-07",
    "name": "Danielle Lee Stevens",
    "age": "45",
@@ -242,17 +264,6 @@
    "more": 1,
    "ts": 1794070039,
    "photo": "photos/MAR_STEVENS_DANIELLE_2026-11-07.jpg"
-  },
-  {
-   "key": "MKE_JONES_SYLVIA_413102",
-   "name": "Sylvia M Jones",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794067103,
-   "photo": null
   },
   {
    "key": "FDL_BENTON_KELVIN_2026-11-07",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793999826,
    "photo": null
-  },
-  {
-   "key": "FDL_ROBERTS_DANIEL_2026-11-06",
-   "name": "Daniel Edward Roberts",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793999820,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_TORRES_BENJAMIN_648196",
+   "name": "Benjamin Torres",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794094069,
+   "photo": null
+  },
+  {
+   "key": "MKE_MASON_CHRISTIAN_648195",
+   "name": "Christian Odell Mason",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794092278,
+   "photo": null
+  },
+  {
+   "key": "LANG_CHRISTOPHER_2026-11-07",
+   "name": "Christopher D Lang",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794092226,
+   "photo": null
+  },
   {
    "key": "CAMPBELL_MATTHEW_2026-11-07",
    "name": "Matthew L Campbell",
@@ -716,7 +749,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794070677,
-   "photo": null
+   "photo": "photos/MKE_TRAYLOR_LATASHIA_647538.jpg"
   },
   {
    "key": "MKE_PERKINS_ANTHONY_648188",
@@ -727,7 +760,7 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 8,
    "ts": 1794070675,
-   "photo": null
+   "photo": "photos/MKE_PERKINS_ANTHONY_648188.jpg"
   },
   {
    "key": "MKE_DELAROSA_SHAVONTAE_648189",
@@ -782,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1794067103,
-   "photo": null
+   "photo": "photos/MKE_JONES_SYLVIA_413102.jpg"
   },
   {
    "key": "RC_JABS_JOSHUA_120011076036414",
@@ -1002,7 +1035,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794061649,
-   "photo": null
+   "photo": "photos/MKE_FREDERIKSEN_DAVID_336736.jpg"
   },
   {
    "key": "MKE_PEREZCRUZ_ANGELO_648187",
@@ -5216,61 +5249,6 @@
    "more": 0,
    "ts": 1793836565,
    "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
-  },
-  {
-   "key": "MKE_TAYLOR_LAZARIAH_648133",
-   "name": "Lazariah Sharee Taylor",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793834867,
-   "photo": null
-  },
-  {
-   "key": "DOU_HARE_CARTER_2026-10-29",
-   "name": "Carter J Hare",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793834239,
-   "photo": "photos/DOU_HARE_CARTER_2026-10-29.jpg"
-  },
-  {
-   "key": "DOU_PALMER_SETH_2026-11-04",
-   "name": "Seth A Palmer",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793834237,
-   "photo": "photos/DOU_PALMER_SETH_2026-11-04.jpg"
-  },
-  {
-   "key": "MKE_STOKES_ROBBIEL_648132",
-   "name": "Robbiel Lorenzo Stokes",
-   "age": "15",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 1,
-   "ts": 1793833060,
-   "photo": "photos/MKE_STOKES_ROBBIEL_648132.jpg"
-  },
-  {
-   "key": "MKE_ROBERTSON_TARREL_375553",
-   "name": "Tarrel T Robertson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793833057,
-   "photo": null
   }
  ]
 }
