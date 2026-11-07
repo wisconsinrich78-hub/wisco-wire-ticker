@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T01:02:15+00:00",
+ "updated": "2026-11-07T01:28:00+00:00",
  "items": [
+  {
+   "key": "DOU_NORTON_CHARLES_2026-11-06",
+   "name": "Charles A Norton",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1794014226,
+   "photo": "photos/DOU_NORTON_CHARLES_2026-11-06.jpg"
+  },
   {
    "key": "MKE_LETNOM_SHARELLE_648172",
    "name": "Sharelle Shadae Letnom",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1793958922,
    "photo": "photos/MAR_MITCHELL_ALIVIA_2026-11-06.jpg"
-  },
-  {
-   "key": "FDL_FARRELL_CONNOR_2026-11-06",
-   "name": "Connor James Farrell",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Failure To Appear / Warrants",
-   "more": 0,
-   "ts": 1793956574,
-   "photo": "photos/FDL_FARRELL_CONNOR_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_NORTON_CHARLES_2026-11-06",
+   "name": "Charles A Norton",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1794014226,
+   "photo": "photos/DOU_NORTON_CHARLES_2026-11-06.jpg"
+  },
   {
    "key": "MKE_LETNOM_SHARELLE_648172",
    "name": "Sharelle Shadae Letnom",
