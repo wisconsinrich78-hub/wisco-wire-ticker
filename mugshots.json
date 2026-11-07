@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-07T00:49:29+00:00",
+ "updated": "2026-11-07T01:02:15+00:00",
  "items": [
+  {
+   "key": "MKE_LETNOM_SHARELLE_648172",
+   "name": "Sharelle Shadae Letnom",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1794013083,
+   "photo": "photos/MKE_LETNOM_SHARELLE_648172.jpg"
+  },
+  {
+   "key": "MKE_BERDECIA_LUIS_636738",
+   "name": "Luis Manuel Berdecia",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 9,
+   "ts": 1794013081,
+   "photo": null
+  },
+  {
+   "key": "HAGER_TYLER_2026-11-06",
+   "name": "Tyler Michael Jens Hager",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794013020,
+   "photo": null
+  },
+  {
+   "key": "KEN_MITCHELL_LAMAREA_2026-00006144",
+   "name": "Lamarea D Mitchell",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794012818,
+   "photo": null
+  },
   {
    "key": "RC_MARTIN_MALCOM_120011076023747",
    "name": "Malcom Tyrell Martin",
@@ -183,7 +227,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Injury by Negligent Use/Weapon/Explosive",
    "more": 0,
    "ts": 1794007724,
    "photo": null
@@ -220,39 +264,6 @@
    "more": 8,
    "ts": 1794005963,
    "photo": null
-  },
-  {
-   "key": "MKE_ERVING_DEANTWONE_641027",
-   "name": "Deantwone Omarion Erving",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
-   "more": 4,
-   "ts": 1794005962,
-   "photo": null
-  },
-  {
-   "key": "RC_HAND_ANTWAN_120011076021981",
-   "name": "Antwan A Hand",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794005283,
-   "photo": "photos/RC_HAND_ANTWAN_120011076021981.jpg"
-  },
-  {
-   "key": "RC_DESCHLER_JENNI_120011076021600",
-   "name": "Jenni Jeri Deschler",
-   "age": "49",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794005281,
-   "photo": "photos/RC_DESCHLER_JENNI_120011076021600.jpg"
   },
   {
    "key": "FDL_SHAY_BRITTANY_2026-11-06",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1793956574,
    "photo": "photos/FDL_FARRELL_CONNOR_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_ELLIS_RORY_2026-11-05_608001",
-   "name": "Rory Joseph Ellis",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 1,
-   "ts": 1793951731,
-   "photo": "photos/MAR_ELLIS_RORY_2026-11-05_608001.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LETNOM_SHARELLE_648172",
+   "name": "Sharelle Shadae Letnom",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1794013083,
+   "photo": "photos/MKE_LETNOM_SHARELLE_648172.jpg"
+  },
+  {
+   "key": "MKE_BERDECIA_LUIS_636738",
+   "name": "Luis Manuel Berdecia",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 9,
+   "ts": 1794013081,
+   "photo": null
+  },
+  {
+   "key": "HAGER_TYLER_2026-11-06",
+   "name": "Tyler Michael Jens Hager",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794013020,
+   "photo": null
+  },
+  {
+   "key": "KEN_MITCHELL_LAMAREA_2026-00006144",
+   "name": "Lamarea D Mitchell",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794012818,
+   "photo": null
+  },
   {
    "key": "RC_MARTIN_MALCOM_120011076023747",
    "name": "Malcom Tyrell Martin",
@@ -713,7 +757,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Injury by Negligent Use/Weapon/Explosive",
    "more": 0,
    "ts": 1794007724,
    "photo": null
@@ -922,7 +966,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 1,
    "ts": 1793996867,
    "photo": null
@@ -5711,50 +5755,6 @@
    "more": 0,
    "ts": 1793756976,
    "photo": null
-  },
-  {
-   "key": "MKE_COLLINS_ZAKIYA_623899",
-   "name": "Zakiya Shante Collins",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793753863,
-   "photo": "photos/MKE_COLLINS_ZAKIYA_623899.jpg"
-  },
-  {
-   "key": "MKE_CHOMICKIHUDLEY_AUBRIANNA_648115",
-   "name": "Aubrianna A Chomicki Hudley",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793753861,
-   "photo": "photos/MKE_CHOMICKIHUDLEY_AUBRIANNA_648115.jpg"
-  },
-  {
-   "key": "MKE_CANAS_KATHERINE_2059551",
-   "name": "Katherine Canas",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793753859,
-   "photo": "photos/MKE_CANAS_KATHERINE_2059551.jpg"
-  },
-  {
-   "key": "KEN_PACZYNSKI_AMANDA_2026-00006074",
-   "name": "Amanda Rose Paczynski",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Fail To Install/Violate Court Orde",
-   "more": 2,
-   "ts": 1793753780,
-   "photo": "photos/KEN_PACZYNSKI_AMANDA_2026-00006074.jpg"
   }
  ]
 }
