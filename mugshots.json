@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-07T02:49:32+00:00",
+ "updated": "2026-11-07T03:28:05+00:00",
  "items": [
+  {
+   "key": "MKE_YOUNG_ALVADO_648175",
+   "name": "Alvado M Young",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794022061,
+   "photo": null
+  },
+  {
+   "key": "MKE_WELLS_ALEXANDRA_383893",
+   "name": "ALEXANDRA Nicole Wells",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Subst.Battery-Int.Bod.Harm-Unborn Child",
+   "more": 0,
+   "ts": 1794022060,
+   "photo": "photos/MKE_WELLS_ALEXANDRA_383893.jpg"
+  },
+  {
+   "key": "MKE_PATTERSON_TYRESHA_610964",
+   "name": "Tyresha Patterson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794022057,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALONE_LAVAR_326939",
+   "name": "Lavar Mandrell Malone",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794022056,
+   "photo": null
+  },
+  {
+   "key": "KEN_DEFORD_CANDICE_2026-00006147",
+   "name": "Candice Lee Deford",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794020403,
+   "photo": "photos/KEN_DEFORD_CANDICE_2026-00006147.jpg"
+  },
+  {
+   "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06",
+   "name": "Sevastian Michael Bolanos",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 5,
+   "ts": 1794020247,
+   "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06.jpg"
+  },
   {
    "key": "MKE_SMITH_RICHARD_638194",
    "name": "Richard R Smith",
@@ -156,28 +222,6 @@
    "photo": "photos/MKE_WELLS_ALEXANDRIA_383893.jpg"
   },
   {
-   "key": "MKE_TUCKER_ARMUN_643399",
-   "name": "Armun A Tucker",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1794011282,
-   "photo": "photos/MKE_TUCKER_ARMUN_643399.jpg"
-  },
-  {
-   "key": "MKE_NEAL_TERRENCE_261251",
-   "name": "Terrence Neal",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794011279,
-   "photo": null
-  },
-  {
    "key": "FDL_ZAVALASALINAS_MAURICIO_2026-11-06",
    "name": "Mauricio J Zavala Salinas",
    "age": "",
@@ -187,28 +231,6 @@
    "more": 2,
    "ts": 1794010623,
    "photo": "photos/FDL_ZAVALASALINAS_MAURICIO_2026-11-06.jpg"
-  },
-  {
-   "key": "KEN_HILL_ONNYX_2026-00006143",
-   "name": "Onnyx Auxzavior Hill",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794010331,
-   "photo": "photos/KEN_HILL_ONNYX_2026-00006143.jpg"
-  },
-  {
-   "key": "KEN_BOWERS_ANDY_2026-00006142",
-   "name": "Andy M Bowers",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794010052,
-   "photo": "photos/KEN_BOWERS_ANDY_2026-00006142.jpg"
   },
   {
    "key": "MAR_HOLMAN_KURTIS_2026-11-06",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1794009632,
    "photo": "photos/MAR_SIKORA_TRAVIS_2026-11-06.jpg"
-  },
-  {
-   "key": "RC_LOTHARIUS_TROY_120011076022769",
-   "name": "Troy William Lotharius",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794008868,
-   "photo": null
   },
   {
    "key": "FDL_MAYR_RYAN_2026-11-06",
@@ -517,20 +528,75 @@
    "more": 0,
    "ts": 1793962037,
    "photo": "photos/TREM_BODOH_TAMMY_5449.jpg"
-  },
-  {
-   "key": "TREM_BEDE_CECELIA_6203",
-   "name": "Cecelia Priscilla Bede",
-   "age": "47",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated - 5th or 6th Offense",
-   "more": 0,
-   "ts": 1793962036,
-   "photo": "photos/TREM_BEDE_CECELIA_6203.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_YOUNG_ALVADO_648175",
+   "name": "Alvado M Young",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794022061,
+   "photo": null
+  },
+  {
+   "key": "MKE_WELLS_ALEXANDRA_383893",
+   "name": "ALEXANDRA Nicole Wells",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Subst.Battery-Int.Bod.Harm-Unborn Child",
+   "more": 0,
+   "ts": 1794022060,
+   "photo": "photos/MKE_WELLS_ALEXANDRA_383893.jpg"
+  },
+  {
+   "key": "MKE_PATTERSON_TYRESHA_610964",
+   "name": "Tyresha Patterson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794022057,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALONE_LAVAR_326939",
+   "name": "Lavar Mandrell Malone",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794022056,
+   "photo": null
+  },
+  {
+   "key": "KEN_DEFORD_CANDICE_2026-00006147",
+   "name": "Candice Lee Deford",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794020403,
+   "photo": "photos/KEN_DEFORD_CANDICE_2026-00006147.jpg"
+  },
+  {
+   "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06",
+   "name": "Sevastian Michael Bolanos",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 5,
+   "ts": 1794020247,
+   "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06.jpg"
+  },
   {
    "key": "MKE_SMITH_RICHARD_638194",
    "name": "Richard R Smith",
@@ -5689,50 +5755,6 @@
    "more": 0,
    "ts": 1793764654,
    "photo": "photos/MKE_DEANS_KEITA_279178.jpg"
-  },
-  {
-   "key": "MKE_WICKLIFFE_BRYAN_639670",
-   "name": "Bryan Deaire Wickliffe",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793762856,
-   "photo": "photos/MKE_WICKLIFFE_BRYAN_639670.jpg"
-  },
-  {
-   "key": "MKE_COOPER_CLARENCE_630699",
-   "name": "Clarence Jaquan Cooper",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Increased Penalty - Domestic Abuse Repeater",
-   "more": 6,
-   "ts": 1793762854,
-   "photo": "photos/MKE_COOPER_CLARENCE_630699.jpg"
-  },
-  {
-   "key": "ISETTS_ELIZABETH_2026-11-03",
-   "name": "Elizabeth G Isetts",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Retail Theft-Alter Price <=$2,500",
-   "more": 0,
-   "ts": 1793762821,
-   "photo": null
-  },
-  {
-   "key": "FDL_SCALLON_JACOB_2026-11-03",
-   "name": "Jacob J Scallon",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Revocation Order",
-   "more": 0,
-   "ts": 1793762212,
-   "photo": "photos/FDL_SCALLON_JACOB_2026-11-03.jpg"
   }
  ]
 }
