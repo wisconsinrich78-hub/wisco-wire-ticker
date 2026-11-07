@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T05:54:43+00:00",
+ "updated": "2026-11-07T06:49:43+00:00",
  "items": [
+  {
+   "key": "MKE_CARMONA_DAMIAN_622243",
+   "name": "Damian Carmona",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794032864,
+   "photo": null
+  },
   {
    "key": "MKE_WELLS_DANTA_637978",
    "name": "Danta Anthony Wells",
@@ -209,17 +220,6 @@
    "more": 5,
    "ts": 1794018459,
    "photo": "photos/MKE_SMITH_RICHARD_638194.jpg"
-  },
-  {
-   "key": "MKE_COX_MCKAYLA_648174",
-   "name": "Mckayla Donae Cox",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794018456,
-   "photo": "photos/MKE_COX_MCKAYLA_648174.jpg"
   },
   {
    "key": "MAR_SIKORA_TRAVIS_2026-11-06_563706",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CARMONA_DAMIAN_622243",
+   "name": "Damian Carmona",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794032864,
+   "photo": null
+  },
   {
    "key": "MKE_WELLS_DANTA_637978",
    "name": "Danta Anthony Wells",
@@ -1068,7 +1079,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794005965,
-   "photo": null
+   "photo": "photos/MKE_WILKERSON_DAZARRIES_642913.jpg"
   },
   {
    "key": "MKE_MOORE_JYLAN_2063375",
@@ -1090,7 +1101,7 @@
    "charge": "Possess w/Intent-Cocaine (>1-5g)",
    "more": 4,
    "ts": 1794005962,
-   "photo": null
+   "photo": "photos/MKE_ERVING_DEANTWONE_641027.jpg"
   },
   {
    "key": "RC_HAND_ANTWAN_120011076021981",
@@ -1123,7 +1134,7 @@
    "charge": "Use Dangerous Weapon (Misdemeanor)",
    "more": 1,
    "ts": 1794002272,
-   "photo": null
+   "photo": "photos/MKE_VAZQUEZ_SUJEILA_648168.jpg"
   },
   {
    "key": "MKE_REDDIX_JACQUES_648170",
@@ -1252,7 +1263,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 1,
    "ts": 1793996867,
    "photo": null
@@ -1266,7 +1277,7 @@
    "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1793996865,
-   "photo": null
+   "photo": "photos/MKE_KUKLINSKI_ANTHONY_633689.jpg"
   },
   {
    "key": "MKE_RIVERA_JOSHUA_635215",
@@ -1420,7 +1431,7 @@
    "charge": "Injury by Negligent Use/Weapon/Explosive",
    "more": 2,
    "ts": 1793991486,
-   "photo": null
+   "photo": "photos/MKE_CRIBBS_TARCY_614157.jpg"
   },
   {
    "key": "RC_TOWNSEND_PERREYON_120011076013819",
@@ -5667,28 +5678,6 @@
    "more": 0,
    "ts": 1793776585,
    "photo": "photos/FDL_JACKSON_RYAN_2026-11-04.jpg"
-  },
-  {
-   "key": "MCNELL_JOVAN_2026-11-04",
-   "name": "Jovan D Mcnell",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793774831,
-   "photo": null
-  },
-  {
-   "key": "MAR_DEMARS_SERENA_2026-11-03_9661302",
-   "name": "Serena Joy Demars",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Theft-Movable Property Under $2500",
-   "more": 0,
-   "ts": 1793771746,
-   "photo": null
   }
  ]
 }
