@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T18:38:33+00:00",
+ "updated": "2026-11-07T19:49:29+00:00",
  "items": [
+  {
+   "key": "RC_KUMPULA_SETH_120011076037070",
+   "name": "Seth Kumpula",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794080867,
+   "photo": "photos/RC_KUMPULA_SETH_120011076037070.jpg"
+  },
+  {
+   "key": "RC_NUNN_SHANNON_120011076039605",
+   "name": "Shannon R Nunn",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794080864,
+   "photo": null
+  },
+  {
+   "key": "MKE_LAWRENCE_MARVEL_648191",
+   "name": "Marvel M Lawrence",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794077855,
+   "photo": null
+  },
   {
    "key": "AUSTAD_DYLAN_2026-11-07",
    "name": "Dylan Edward Austad",
@@ -211,17 +244,6 @@
    "photo": "photos/MAR_PETROSKI_AMANDA_2026-11-06_2859630.jpg"
   },
   {
-   "key": "KEN_WARD_ROGER_2026-00006152",
-   "name": "Roger Daniel Ward",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Oper W/O Required Lamp Lighted",
-   "more": 2,
-   "ts": 1794063740,
-   "photo": "photos/KEN_WARD_ROGER_2026-00006152.jpg"
-  },
-  {
    "key": "MAR_WERT_SABRINA_2026-11-06",
    "name": "Sabrina Lee Wert",
    "age": "33",
@@ -244,17 +266,6 @@
    "photo": "photos/MAR_FROST_AUSTAN_2026-11-07.jpg"
   },
   {
-   "key": "KEN_TORRES_MIRANDA_2026-00006153",
-   "name": "Miranda Evelise Torres",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 2,
-   "ts": 1794063660,
-   "photo": "photos/KEN_TORRES_MIRANDA_2026-00006153.jpg"
-  },
-  {
    "key": "MAR_GRAEF_NAINNE_2026-11-07",
    "name": "Nainne Graef",
    "age": "33",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1794063594,
    "photo": "photos/MAR_DREMLER_JOSHUA_2026-11-07.jpg"
-  },
-  {
-   "key": "KEN_MYLES_JESSE_2026-00006148",
-   "name": "Jesse Myles",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794063572,
-   "photo": null
   },
   {
    "key": "MAR_KIEFER_TRISTON_2026-11-07",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KUMPULA_SETH_120011076037070",
+   "name": "Seth Kumpula",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794080867,
+   "photo": "photos/RC_KUMPULA_SETH_120011076037070.jpg"
+  },
+  {
+   "key": "RC_NUNN_SHANNON_120011076039605",
+   "name": "Shannon R Nunn",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794080864,
+   "photo": null
+  },
+  {
+   "key": "MKE_LAWRENCE_MARVEL_648191",
+   "name": "Marvel M Lawrence",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794077855,
+   "photo": null
+  },
   {
    "key": "AUSTAD_DYLAN_2026-11-07",
    "name": "Dylan Edward Austad",
@@ -914,7 +947,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794056268,
-   "photo": null
+   "photo": "photos/MKE_WEZYK_MICHAEL_2047697.jpg"
   },
   {
    "key": "MKE_GODOY_LUIS_648186",
@@ -1002,7 +1035,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794049063,
-   "photo": null
+   "photo": "photos/MKE_MEREDITH_DESTINY_648182.jpg"
   },
   {
    "key": "MKE_BURRIES_COURTNEY_515095",
@@ -1068,7 +1101,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794040059,
-   "photo": null
+   "photo": "photos/MKE_NERILOPEZ_SERGIO_648181.jpg"
   },
   {
    "key": "MKE_MCCOY_CLARENCE_648180",
@@ -5502,116 +5535,6 @@
    "more": 0,
    "ts": 1793822250,
    "photo": "photos/KEN_EVANS_CHANZE_2026-00006091.jpg"
-  },
-  {
-   "key": "RC_TORRE_ANGELA_120011075941355",
-   "name": "Angela Rose Torre",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793821685,
-   "photo": "photos/RC_TORRE_ANGELA_120011075941355.jpg"
-  },
-  {
-   "key": "RC_MONHEIM_KERI_120011075940914",
-   "name": "Keri L Monheim",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793821683,
-   "photo": "photos/RC_MONHEIM_KERI_120011075940914.jpg"
-  },
-  {
-   "key": "VESSELL_SHANNON_2026-11-04",
-   "name": "Shannon N Vessell",
-   "age": "52",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Court",
-   "more": 0,
-   "ts": 1793821634,
-   "photo": null
-  },
-  {
-   "key": "DOU_RUTH_TEDDY_2026-10-29",
-   "name": "Teddy L Ruth",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793819829,
-   "photo": "photos/DOU_RUTH_TEDDY_2026-10-29.jpg"
-  },
-  {
-   "key": "DOU_JUDE_BRADLEY_2026-11-04",
-   "name": "Bradley J Jude",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793819827,
-   "photo": null
-  },
-  {
-   "key": "FDL_THOMAS_DEVIN_2026-11-04",
-   "name": "Devin Devon Thomas",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793819817,
-   "photo": "photos/FDL_THOMAS_DEVIN_2026-11-04.jpg"
-  },
-  {
-   "key": "KEN_BRADLEY_DERRICK_2026-00006089",
-   "name": "Derrick D Bradley",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793818675,
-   "photo": null
-  },
-  {
-   "key": "MKE_SUAREZOLEA_JESUS_648129",
-   "name": "Jesus Suarez Olea",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793818659,
-   "photo": "photos/MKE_SUAREZOLEA_JESUS_648129.jpg"
-  },
-  {
-   "key": "MKE_BAEMMERT_JAMES_621287",
-   "name": "James Eugene Baemmert",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Victim, Witness, or Co-Actor Contact - Felony",
-   "more": 1,
-   "ts": 1793818657,
-   "photo": "photos/MKE_BAEMMERT_JAMES_621287.jpg"
-  },
-  {
-   "key": "KEN_TOWNSEND_WALLACE_2026-00006088",
-   "name": "WALLACE SHERWOOD Junior TOWNSEND",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 4,
-   "ts": 1793818638,
-   "photo": "photos/KEN_TOWNSEND_WALLACE_2026-00006088.jpg"
   }
  ]
 }
