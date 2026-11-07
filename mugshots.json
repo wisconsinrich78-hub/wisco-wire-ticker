@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T15:49:28+00:00",
+ "updated": "2026-11-07T15:59:23+00:00",
  "items": [
+  {
+   "key": "MKE_JONES_SYLVIA_413102",
+   "name": "Sylvia M Jones",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794067103,
+   "photo": null
+  },
   {
    "key": "RC_JABS_JOSHUA_120011076036414",
    "name": "Joshua T Jabs",
@@ -277,17 +288,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GODOY_LUIS_648186",
-   "name": "Luis Ricardo Godoy",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794056267,
-   "photo": "photos/MKE_GODOY_LUIS_648186.jpg"
-  },
-  {
    "key": "FDL_BISSETTE_JOSHUA_2026-11-07",
    "name": "Joshua Allen Bissette",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JONES_SYLVIA_413102",
+   "name": "Sylvia M Jones",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794067103,
+   "photo": null
+  },
   {
    "key": "RC_JABS_JOSHUA_120011076036414",
    "name": "Joshua T Jabs",
@@ -5755,61 +5766,6 @@
    "more": 1,
    "ts": 1793809747,
    "photo": null
-  },
-  {
-   "key": "MKE_LAWRENCE_DESHAWN_504199",
-   "name": "Deshawn Monte Lawrence",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 18,
-   "ts": 1793807873,
-   "photo": "photos/MKE_LAWRENCE_DESHAWN_504199.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZ_IZAK_648124",
-   "name": "Izak Anthony Gonzalez",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793807872,
-   "photo": "photos/MKE_GONZALEZ_IZAK_648124.jpg"
-  },
-  {
-   "key": "MKE_GARNER_SHIKELA_646900",
-   "name": "Shikela Garner",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793807870,
-   "photo": "photos/MKE_GARNER_SHIKELA_646900.jpg"
-  },
-  {
-   "key": "MKE_BROWN_JAMAR_648125",
-   "name": "Jamar Brown",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793807867,
-   "photo": "photos/MKE_BROWN_JAMAR_648125.jpg"
-  },
-  {
-   "key": "MAR_ALSOWITI_RHEA_2026-11-04",
-   "name": "Rhea Alsowiti",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793807783,
-   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04.jpg"
   }
  ]
 }
