@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-07T01:49:41+00:00",
+ "updated": "2026-11-07T02:28:16+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_RICHARD_638194",
+   "name": "Richard R Smith",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
+   "ts": 1794018459,
+   "photo": null
+  },
+  {
+   "key": "MKE_COX_MCKAYLA_648174",
+   "name": "Mckayla Donae Cox",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794018456,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_CIERA_648173",
+   "name": "Ciera Y Smith",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794016667,
+   "photo": "photos/MKE_SMITH_CIERA_648173.jpg"
+  },
+  {
+   "key": "MKE_CORREA_NOEL_642262",
+   "name": "Noel Alfredo Correa",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1794016665,
+   "photo": "photos/MKE_CORREA_NOEL_642262.jpg"
+  },
+  {
+   "key": "KEN_MORNING_BOB_2026-00006145",
+   "name": "BOB DANIEL Third MORNING",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794016591,
+   "photo": "photos/KEN_MORNING_BOB_2026-00006145.jpg"
+  },
+  {
+   "key": "MAR_SIKORA_TRAVIS_2026-11-06_563706",
+   "name": "Travis John Sikora",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794016546,
+   "photo": "photos/MAR_SIKORA_TRAVIS_2026-11-06_563706.jpg"
+  },
+  {
+   "key": "KEN_BRANTLEY_CORTNEY_2026-00006146",
+   "name": "Cortney Jermaine Brantley",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794016490,
+   "photo": "photos/KEN_BRANTLEY_CORTNEY_2026-00006146.jpg"
+  },
   {
    "key": "DOU_NORTON_CHARLES_2026-11-06",
    "name": "Charles A Norton",
@@ -200,50 +277,6 @@
    "photo": null
   },
   {
-   "key": "RC_JONES_JORDAN_120011076022363",
-   "name": "Jordan Lee Jones",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794008866,
-   "photo": "photos/RC_JONES_JORDAN_120011076022363.jpg"
-  },
-  {
-   "key": "MKE_STEWART_JIMMY_621190",
-   "name": "Jimmy J Stewart",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "3rd Degree Sexual Assault",
-   "more": 0,
-   "ts": 1794007728,
-   "photo": null
-  },
-  {
-   "key": "MKE_PHILLIPS_FRANCIS_648171",
-   "name": "Francis Phillips",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794007726,
-   "photo": null
-  },
-  {
-   "key": "MKE_BURCH_DRATEN_636755",
-   "name": "Draten D Burch",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Injury by Negligent Use/Weapon/Explosive",
-   "more": 0,
-   "ts": 1794007724,
-   "photo": null
-  },
-  {
    "key": "FDL_MAYR_RYAN_2026-11-06",
    "name": "Ryan David Mayr",
    "age": "",
@@ -253,28 +286,6 @@
    "more": 1,
    "ts": 1794007028,
    "photo": "photos/FDL_MAYR_RYAN_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_WILKERSON_DAZARRIES_642913",
-   "name": "Dazarries C Wilkerson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794005965,
-   "photo": null
-  },
-  {
-   "key": "MKE_MOORE_JYLAN_2063375",
-   "name": "Jylan Curtis Moore",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794005963,
-   "photo": null
   },
   {
    "key": "FDL_SHAY_BRITTANY_2026-11-06",
@@ -517,20 +528,86 @@
    "more": 0,
    "ts": 1793962036,
    "photo": "photos/TREM_BEDE_CECELIA_6203.jpg"
-  },
-  {
-   "key": "MAR_MITCHELL_ALIVIA_2026-11-06",
-   "name": "Alivia Carol Rose Mitchell",
-   "age": "22",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1793958922,
-   "photo": "photos/MAR_MITCHELL_ALIVIA_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SMITH_RICHARD_638194",
+   "name": "Richard R Smith",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
+   "ts": 1794018459,
+   "photo": null
+  },
+  {
+   "key": "MKE_COX_MCKAYLA_648174",
+   "name": "Mckayla Donae Cox",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794018456,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_CIERA_648173",
+   "name": "Ciera Y Smith",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794016667,
+   "photo": "photos/MKE_SMITH_CIERA_648173.jpg"
+  },
+  {
+   "key": "MKE_CORREA_NOEL_642262",
+   "name": "Noel Alfredo Correa",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1794016665,
+   "photo": "photos/MKE_CORREA_NOEL_642262.jpg"
+  },
+  {
+   "key": "KEN_MORNING_BOB_2026-00006145",
+   "name": "BOB DANIEL Third MORNING",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794016591,
+   "photo": "photos/KEN_MORNING_BOB_2026-00006145.jpg"
+  },
+  {
+   "key": "MAR_SIKORA_TRAVIS_2026-11-06_563706",
+   "name": "Travis John Sikora",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794016546,
+   "photo": "photos/MAR_SIKORA_TRAVIS_2026-11-06_563706.jpg"
+  },
+  {
+   "key": "KEN_BRANTLEY_CORTNEY_2026-00006146",
+   "name": "Cortney Jermaine Brantley",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794016490,
+   "photo": "photos/KEN_BRANTLEY_CORTNEY_2026-00006146.jpg"
+  },
   {
    "key": "DOU_NORTON_CHARLES_2026-11-06",
    "name": "Charles A Norton",
@@ -977,7 +1054,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Habitual Criminality",
    "more": 1,
    "ts": 1793996867,
    "photo": null
@@ -1142,7 +1219,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Injury by Negligent Use/Weapon/Explosive",
+   "charge": "Possession of Methamphetamine",
    "more": 2,
    "ts": 1793991486,
    "photo": null
@@ -1354,7 +1431,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793984311,
-   "photo": null
+   "photo": "photos/MKE_RICHARDSON_JEFFERY_210991.jpg"
   },
   {
    "key": "MKE_POLNITZ_DAVEON_639381",
@@ -5667,83 +5744,6 @@
    "more": 0,
    "ts": 1793760523,
    "photo": "photos/RC_BURNS_MARCUS_120011075908665.jpg"
-  },
-  {
-   "key": "DOU_MCPHERSON_BENJAMIN_2026-11-03",
-   "name": "Benjamin W Mcpherson",
-   "age": "20",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793758744,
-   "photo": "photos/DOU_MCPHERSON_BENJAMIN_2026-11-03.jpg"
-  },
-  {
-   "key": "MAR_DEMARS_SERENA_2026-11-03",
-   "name": "Serena Joy Demars",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Theft-Movable Property Under $2500",
-   "more": 0,
-   "ts": 1793757567,
-   "photo": null
-  },
-  {
-   "key": "MKE_KLOSOWSKI_MARK_648116",
-   "name": "Mark lee Klosowski",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793757535,
-   "photo": "photos/MKE_KLOSOWSKI_MARK_648116.jpg"
-  },
-  {
-   "key": "MAR_CLARK_CORTNEY_2026-11-03_2451104",
-   "name": "Cortney Aijhan Clark",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operate With Restricted Controlled Substance",
-   "more": 1,
-   "ts": 1793757526,
-   "photo": "photos/MAR_CLARK_CORTNEY_2026-11-03_2451104.jpg"
-  },
-  {
-   "key": "MAR_VILLASECAOBIL_NEREYDA_2026-11-03_1756407",
-   "name": "Nereyda Jazmin Villaseca Obil",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1793757483,
-   "photo": "photos/MAR_VILLASECAOBIL_NEREYDA_2026-11-03_1756407.jpg"
-  },
-  {
-   "key": "MAR_SKITTONE_JOSEPH_2026-11-03_930904",
-   "name": "Joseph Paul Skittone",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793757438,
-   "photo": "photos/MAR_SKITTONE_JOSEPH_2026-11-03_930904.jpg"
-  },
-  {
-   "key": "KEN_FEEST_DAVID_2026-00006075",
-   "name": "David Feest",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property <=$2500",
-   "more": 0,
-   "ts": 1793757338,
-   "photo": null
   }
  ]
 }
