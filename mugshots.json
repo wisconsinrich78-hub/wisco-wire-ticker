@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:28:00+00:00",
+ "updated": "2026-11-07T01:49:41+00:00",
  "items": [
   {
    "key": "DOU_NORTON_CHARLES_2026-11-06",
@@ -5432,8 +5432,8 @@
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 3,
    "ts": 1793771277,
    "photo": "photos/RC_BLOUNT_EMANI_120011075912130.jpg"
   },
@@ -5743,28 +5743,6 @@
    "charge": "Theft-Movable Property <=$2500",
    "more": 0,
    "ts": 1793757338,
-   "photo": null
-  },
-  {
-   "key": "RC_JAMES_KAMARR_120011075907286",
-   "name": "Kamarr James",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793756981,
-   "photo": null
-  },
-  {
-   "key": "RC_BASCHE_DAVID_120011075907342",
-   "name": "David Basche",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793756976,
    "photo": null
   }
  ]
