@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T15:59:23+00:00",
+ "updated": "2026-11-07T16:49:29+00:00",
  "items": [
+  {
+   "key": "MAR_PREBIL_JENNIFER_2026-11-07",
+   "name": "Jennifer Prebil",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Lewd, Lascivious Behavior-In Public",
+   "more": 1,
+   "ts": 1794070106,
+   "photo": null
+  },
+  {
+   "key": "RC_KUMPLA_SETH_120011076037070",
+   "name": "Seth Kumpla",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794070072,
+   "photo": null
+  },
+  {
+   "key": "MAR_STEVENS_DANIELLE_2026-11-07",
+   "name": "Danielle Lee Stevens",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1794070039,
+   "photo": "photos/MAR_STEVENS_DANIELLE_2026-11-07.jpg"
+  },
   {
    "key": "MKE_JONES_SYLVIA_413102",
    "name": "Sylvia M Jones",
@@ -277,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "MKE_WEZYK_MICHAEL_2047697",
-   "name": "Michael Christopher Wezyk",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794056268,
-   "photo": null
-  },
-  {
    "key": "FDL_BISSETTE_JOSHUA_2026-11-07",
    "name": "Joshua Allen Bissette",
    "age": "",
@@ -442,28 +464,6 @@
    "photo": "photos/MAR_HALL_PAUL_2026-11-06.jpg"
   },
   {
-   "key": "MAR_CHAMBERLAIN_CORY_2026-11-06",
-   "name": "Cory L Chamberlain",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794009683,
-   "photo": "photos/MAR_CHAMBERLAIN_CORY_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_SIKORA_TRAVIS_2026-11-06",
-   "name": "Travis John Sikora",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794009632,
-   "photo": "photos/MAR_SIKORA_TRAVIS_2026-11-06.jpg"
-  },
-  {
    "key": "FDL_MAYR_RYAN_2026-11-06",
    "name": "Ryan David Mayr",
    "age": "",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_PREBIL_JENNIFER_2026-11-07",
+   "name": "Jennifer Prebil",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Lewd, Lascivious Behavior-In Public",
+   "more": 1,
+   "ts": 1794070106,
+   "photo": null
+  },
+  {
+   "key": "RC_KUMPLA_SETH_120011076037070",
+   "name": "Seth Kumpla",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794070072,
+   "photo": null
+  },
+  {
+   "key": "MAR_STEVENS_DANIELLE_2026-11-07",
+   "name": "Danielle Lee Stevens",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1794070039,
+   "photo": "photos/MAR_STEVENS_DANIELLE_2026-11-07.jpg"
+  },
   {
    "key": "MKE_JONES_SYLVIA_413102",
    "name": "Sylvia M Jones",
@@ -5733,39 +5766,6 @@
    "more": 0,
    "ts": 1793811270,
    "photo": "photos/KEN_FAMOUS_KENNETH_2026-00006083.jpg"
-  },
-  {
-   "key": "RC_GOVEA_JORGE_120011075934375",
-   "name": "Jorge Govea",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793810870,
-   "photo": "photos/RC_GOVEA_JORGE_120011075934375.jpg"
-  },
-  {
-   "key": "RC_BROADWAY_AWMORREUNCE_120011075924665",
-   "name": "Awmorreunce S Broadway",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Owi (5Th Or 6Th)",
-   "more": 2,
-   "ts": 1793810866,
-   "photo": "photos/RC_BROADWAY_AWMORREUNCE_120011075924665.jpg"
-  },
-  {
-   "key": "DOU_URMAN_QUINTIN_2026-11-04",
-   "name": "Quintin A Urman",
-   "age": "21",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793809747,
-   "photo": null
   }
  ]
 }
