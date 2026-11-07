@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-07T20:49:27+00:00",
+ "updated": "2026-11-07T21:49:40+00:00",
  "items": [
+  {
+   "key": "MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995",
+   "name": "Christal N Marshall-Collingwood",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794086887,
+   "photo": null
+  },
+  {
+   "key": "JONSGAARD_LUCAS_2026-11-07",
+   "name": "Lucas Anton Jonsgaard",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794086830,
+   "photo": null
+  },
   {
    "key": "MKE_THOMAS_CAMERON_648193",
    "name": "Cameron Adonna Thomas",
@@ -109,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794077855,
-   "photo": null
+   "photo": "photos/MKE_LAWRENCE_MARVEL_648191.jpg"
   },
   {
    "key": "AUSTAD_DYLAN_2026-11-07",
@@ -220,17 +242,6 @@
    "more": 6,
    "ts": 1794067103,
    "photo": null
-  },
-  {
-   "key": "RC_JABS_JOSHUA_120011076036414",
-   "name": "Joshua T Jabs",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794066472,
-   "photo": "photos/RC_JABS_JOSHUA_120011076036414.jpg"
   },
   {
    "key": "FDL_BENTON_KELVIN_2026-11-07",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793999779,
    "photo": null
-  },
-  {
-   "key": "BERG_TYLER_2026-11-06",
-   "name": "Tyler N Berg",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Retail Theft-Intentionally Take <=$2,500",
-   "more": 0,
-   "ts": 1793998042,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995",
+   "name": "Christal N Marshall-Collingwood",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794086887,
+   "photo": null
+  },
+  {
+   "key": "JONSGAARD_LUCAS_2026-11-07",
+   "name": "Lucas Anton Jonsgaard",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794086830,
+   "photo": null
+  },
   {
    "key": "MKE_THOMAS_CAMERON_648193",
    "name": "Cameron Adonna Thomas",
@@ -639,7 +661,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794077855,
-   "photo": null
+   "photo": "photos/MKE_LAWRENCE_MARVEL_648191.jpg"
   },
   {
    "key": "AUSTAD_DYLAN_2026-11-07",
@@ -5348,182 +5370,6 @@
    "more": 0,
    "ts": 1793829463,
    "photo": null
-  },
-  {
-   "key": "RC_STEWART_SUNNY_120011075944868",
-   "name": "Sunny S Stewart",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793828881,
-   "photo": "photos/RC_STEWART_SUNNY_120011075944868.jpg"
-  },
-  {
-   "key": "RC_HAMPTON_RASHAD_120011075945009",
-   "name": "Rashad Jaquon Hampton",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793828872,
-   "photo": "photos/RC_HAMPTON_RASHAD_120011075945009.jpg"
-  },
-  {
-   "key": "SANCHEZRODRIGUEZ_SAULO_2026-11-04",
-   "name": "Saulo Sanchez Rodriguez",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1793828826,
-   "photo": null
-  },
-  {
-   "key": "MKE_REED_JAMES_625049",
-   "name": "James St Reed",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-THC (<=200 grams)",
-   "more": 1,
-   "ts": 1793827664,
-   "photo": "photos/MKE_REED_JAMES_625049.jpg"
-  },
-  {
-   "key": "MKE_HUGHES_MALIK_648130",
-   "name": "Malik H Hughes",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793827663,
-   "photo": null
-  },
-  {
-   "key": "WILSON_ANTHONY_2026-11-04",
-   "name": "Anthony D Wilson",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1793827625,
-   "photo": null
-  },
-  {
-   "key": "DOU_PAUL_CHISTOPHER_2026-11-04",
-   "name": "Chistopher G Paul",
-   "age": "53",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793827024,
-   "photo": "photos/DOU_PAUL_CHISTOPHER_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_PAYETTE_ALLEN_2026-10-31_9640509",
-   "name": "Allen Joseph Payette",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 3,
-   "ts": 1793827017,
-   "photo": "photos/MAR_PAYETTE_ALLEN_2026-10-31_9640509.jpg"
-  },
-  {
-   "key": "MAR_BOM_SHISHIR_2026-11-04",
-   "name": "Shishir Bom",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793826975,
-   "photo": "photos/MAR_BOM_SHISHIR_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_BOQUIST_BROCK_2026-11-04",
-   "name": "Brock Alan Boquist",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793826936,
-   "photo": "photos/MAR_BOQUIST_BROCK_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_YOUNG_COLLIN_2026-11-04",
-   "name": "Collin Jay Young",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793826894,
-   "photo": "photos/MAR_YOUNG_COLLIN_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_REED_DOUGLASS_2026-11-04",
-   "name": "Douglass Stafford Reed",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793826855,
-   "photo": "photos/MAR_REED_DOUGLASS_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_LO_KA_2026-11-04",
-   "name": "Ka Zoua Lo",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1793826813,
-   "photo": "photos/MAR_LO_KA_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_BARTHEL_CRYSTAL_2026-11-04",
-   "name": "Crystal Starr Barthel",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793826773,
-   "photo": "photos/MAR_BARTHEL_CRYSTAL_2026-11-04.jpg"
-  },
-  {
-   "key": "KEN_SCOTT_DIONIA_2026-00006093",
-   "name": "DIONIA O Junior SCOTT",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793825786,
-   "photo": "photos/KEN_SCOTT_DIONIA_2026-00006093.jpg"
-  },
-  {
-   "key": "KEN_ARIZOLA_LARESA_2026-00006092",
-   "name": "Laresa Ann Arizola",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 3,
-   "ts": 1793825666,
-   "photo": "photos/KEN_ARIZOLA_LARESA_2026-00006092.jpg"
   }
  ]
 }
