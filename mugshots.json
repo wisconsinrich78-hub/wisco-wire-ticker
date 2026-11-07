@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:28:16+00:00",
+ "updated": "2026-11-07T02:49:32+00:00",
  "items": [
   {
    "key": "MKE_SMITH_RICHARD_638194",
@@ -1219,7 +1219,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Methamphetamine",
+   "charge": "Injury by Negligent Use/Weapon/Explosive",
    "more": 2,
    "ts": 1793991486,
    "photo": null
@@ -1277,7 +1277,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793989669,
-   "photo": null
+   "photo": "photos/MKE_SYKES_DEANGELO_524643.jpg"
   },
   {
    "key": "MKE_ROBINSON_KENDRICK_623311",
@@ -1409,7 +1409,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1793986049,
-   "photo": null
+   "photo": "photos/MKE_CASTILLO_IVAN_648165.jpg"
   },
   {
    "key": "MKE_SPRUILL_JONATHAN_645012",
@@ -1453,7 +1453,7 @@
    "charge": "Sex Registry Violation",
    "more": 0,
    "ts": 1793984305,
-   "photo": null
+   "photo": "photos/MKE_EVANS_MICHAEL_168892.jpg"
   },
   {
    "key": "RC_SPUMANTE_JAIVIER_120011076009503",
@@ -1530,7 +1530,7 @@
    "charge": "",
    "more": 0,
    "ts": 1793980754,
-   "photo": null
+   "photo": "photos/MKE_VARNADOSILAS_AARON_648163.jpg"
   },
   {
    "key": "MKE_SMITH_RICCO_266084",
@@ -5733,17 +5733,6 @@
    "more": 0,
    "ts": 1793762212,
    "photo": "photos/FDL_SCALLON_JACOB_2026-11-03.jpg"
-  },
-  {
-   "key": "RC_BURNS_MARCUS_120011075908665",
-   "name": "Marcus Dywane Burns",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Credit Card-Fraudulent Use (<= $2500)",
-   "more": 0,
-   "ts": 1793760523,
-   "photo": "photos/RC_BURNS_MARCUS_120011075908665.jpg"
   }
  ]
 }
