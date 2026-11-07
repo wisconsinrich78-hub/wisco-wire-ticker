@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T00:28:56+00:00",
+ "updated": "2026-11-07T00:49:29+00:00",
  "items": [
+  {
+   "key": "RC_MARTIN_MALCOM_120011076023747",
+   "name": "Malcom Tyrell Martin",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794012467,
+   "photo": null
+  },
   {
    "key": "MKE_WELLS_ALEXANDRIA_383893",
    "name": "Alexandria Nicole Wells",
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1794005281,
    "photo": "photos/RC_DESCHLER_JENNI_120011076021600.jpg"
-  },
-  {
-   "key": "MKE_VAZQUEZ_SUJEILA_648168",
-   "name": "Sujeila Tyree Vazquez",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 1,
-   "ts": 1794002272,
-   "photo": null
   },
   {
    "key": "FDL_SHAY_BRITTANY_2026-11-06",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MARTIN_MALCOM_120011076023747",
+   "name": "Malcom Tyrell Martin",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794012467,
+   "photo": null
+  },
   {
    "key": "MKE_WELLS_ALEXANDRIA_383893",
    "name": "Alexandria Nicole Wells",
@@ -936,7 +947,7 @@
    "charge": "Domestic Abuse-Act to Create Fear",
    "more": 1,
    "ts": 1793995087,
-   "photo": null
+   "photo": "photos/MKE_RIVERA_JOSHUA_635215.jpg"
   },
   {
    "key": "MKE_PAYNE_TAMARA_648167",
@@ -1057,7 +1068,7 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 2,
    "ts": 1793991490,
-   "photo": null
+   "photo": "photos/MKE_MCCANTS_TIFFANY_350753.jpg"
   },
   {
    "key": "MKE_GALLOB_JOSEPH_603846",
@@ -1255,7 +1266,7 @@
    "charge": "Hit and Run-Involve Great Bodily Harm",
    "more": 1,
    "ts": 1793986050,
-   "photo": null
+   "photo": "photos/MKE_FISCHER_JENNI_642613.jpg"
   },
   {
    "key": "MKE_CASTILLO_IVAN_648165",
