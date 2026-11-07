@@ -1,14 +1,25 @@
 {
- "updated": "2026-11-07T21:49:40+00:00",
+ "updated": "2026-11-07T22:49:30+00:00",
  "items": [
+  {
+   "key": "CAMPBELL_MATTHEW_2026-11-07",
+   "name": "Matthew L Campbell",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794091638,
+   "photo": null
+  },
   {
    "key": "MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995",
    "name": "Christal N Marshall-Collingwood",
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794086887,
    "photo": null
   },
@@ -98,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794081473,
-   "photo": null
+   "photo": "photos/MKE_HUNT_PRICE_648192.jpg"
   },
   {
    "key": "RC_KUMPULA_SETH_120011076037070",
@@ -517,28 +528,28 @@
    "more": 0,
    "ts": 1793999820,
    "photo": null
-  },
-  {
-   "key": "FDL_CRON_TERRANCE_2026-11-06",
-   "name": "Terrance Lee Cron",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793999779,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "CAMPBELL_MATTHEW_2026-11-07",
+   "name": "Matthew L Campbell",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794091638,
+   "photo": null
+  },
   {
    "key": "MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995",
    "name": "Christal N Marshall-Collingwood",
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794086887,
    "photo": null
   },
@@ -628,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794081473,
-   "photo": null
+   "photo": "photos/MKE_HUNT_PRICE_648192.jpg"
   },
   {
    "key": "RC_KUMPULA_SETH_120011076037070",
@@ -1035,7 +1046,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794056270,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_TAMAKO_635576.jpg"
   },
   {
    "key": "MKE_WEZYK_MICHAEL_2047697",
@@ -1101,7 +1112,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794050859,
-   "photo": null
+   "photo": "photos/MKE_WINSTON_ROBERT_648183.jpg"
   },
   {
    "key": "MKE_BRIGGS_MARK_264237",
@@ -1112,7 +1123,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794050857,
-   "photo": null
+   "photo": "photos/MKE_BRIGGS_MARK_264237.jpg"
   },
   {
    "key": "FDL_BISSETTE_JOSHUA_2026-11-07",
@@ -5259,116 +5270,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1793833057,
-   "photo": null
-  },
-  {
-   "key": "RC_EPPS_ANDRE_120011075946434",
-   "name": "Andre Lapriese Epps",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793832467,
-   "photo": "photos/RC_EPPS_ANDRE_120011075946434.jpg"
-  },
-  {
-   "key": "DOU_GLENN_DARIN_2026-11-04",
-   "name": "Darin A Glenn",
-   "age": "64",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793830839,
-   "photo": "photos/DOU_GLENN_DARIN_2026-11-04.jpg"
-  },
-  {
-   "key": "FDL_MORALES_ANTONIO_2026-11-04",
-   "name": "Antonio Joseph Morales",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WARRANT (x2)",
-   "more": 0,
-   "ts": 1793830764,
-   "photo": "photos/FDL_MORALES_ANTONIO_2026-11-04.jpg"
-  },
-  {
-   "key": "MKE_THACKER_DAVASSO_645491",
-   "name": "Davasso Thacker",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 3,
-   "ts": 1793829478,
-   "photo": null
-  },
-  {
-   "key": "MKE_SALIM_ADAM_641060",
-   "name": "Adam Salim",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 1,
-   "ts": 1793829476,
-   "photo": null
-  },
-  {
-   "key": "MKE_PENDELTON_VIANJE_648131",
-   "name": "Vianje L Pendelton",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793829474,
-   "photo": null
-  },
-  {
-   "key": "MKE_JONESETAL_MARQUITA_387765",
-   "name": "Marquita Alyssa Jones ET AL",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 0,
-   "ts": 1793829472,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_JEREMY_351025",
-   "name": "Jeremy Lamar Davis",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 17,
-   "ts": 1793829470,
-   "photo": "photos/MKE_DAVIS_JEREMY_351025.jpg"
-  },
-  {
-   "key": "MKE_BUCHANAN_JUNE_525584",
-   "name": "June Marquise Buchanan",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 11,
-   "ts": 1793829465,
-   "photo": "photos/MKE_BUCHANAN_JUNE_525584.jpg"
-  },
-  {
-   "key": "MKE_BROOKS_KEIMON_618977",
-   "name": "Keimon Romell Brooks",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 0,
-   "ts": 1793829463,
    "photo": null
   }
  ]
