@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T04:28:37+00:00",
+ "updated": "2026-11-07T04:49:26+00:00",
  "items": [
+  {
+   "key": "RC_DEBACK_JOHN_120011076028291",
+   "name": "John Michael Deback",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794026874,
+   "photo": "photos/RC_DEBACK_JOHN_120011076028291.jpg"
+  },
   {
    "key": "FDL_SCHRAMMBLAKE_NICHOLAS_2026-11-06",
    "name": "Nicholas John Schramm-Blake",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1794013020,
    "photo": null
-  },
-  {
-   "key": "KEN_MITCHELL_LAMAREA_2026-00006144",
-   "name": "Lamarea D Mitchell",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794012818,
-   "photo": "photos/KEN_MITCHELL_LAMAREA_2026-00006144.jpg"
   },
   {
    "key": "FDL_ZAVALASALINAS_MAURICIO_2026-11-06",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DEBACK_JOHN_120011076028291",
+   "name": "John Michael Deback",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794026874,
+   "photo": "photos/RC_DEBACK_JOHN_120011076028291.jpg"
+  },
   {
    "key": "FDL_SCHRAMMBLAKE_NICHOLAS_2026-11-06",
    "name": "Nicholas John Schramm-Blake",
@@ -5157,8 +5168,8 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Owi (5Th Or 6Th)",
+   "more": 2,
    "ts": 1793810866,
    "photo": "photos/RC_BROADWAY_AWMORREUNCE_120011075924665.jpg"
   },
