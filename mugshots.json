@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T13:33:13+00:00",
+ "updated": "2026-11-07T14:03:26+00:00",
  "items": [
+  {
+   "key": "MKE_PEREZCRUZ_ANGELO_648187",
+   "name": "Angelo Alfonso Perez Cruz",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794059866,
+   "photo": null
+  },
   {
    "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
    "name": "Dustin James Krueger",
@@ -29,8 +40,8 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794056270,
    "photo": null
   },
@@ -65,7 +76,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794054464,
-   "photo": null
+   "photo": "photos/MKE_LANDIN_ANDREW_648184.jpg"
   },
   {
    "key": "MKE_GONZALEZ_DIANA_1447",
@@ -220,17 +231,6 @@
    "more": 5,
    "ts": 1794040055,
    "photo": "photos/MKE_HUNT_PRICE_221822.jpg"
-  },
-  {
-   "key": "MKE_DIXON_KIONTE_511789",
-   "name": "Kionte M Dixon",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794040053,
-   "photo": null
   },
   {
    "key": "PECK_MOLLIE_2026-11-06",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_PEREZCRUZ_ANGELO_648187",
+   "name": "Angelo Alfonso Perez Cruz",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794059866,
+   "photo": null
+  },
+  {
    "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
    "name": "Dustin James Krueger",
    "age": "",
@@ -559,8 +570,8 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794056270,
    "photo": null
   },
@@ -595,7 +606,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794054464,
-   "photo": null
+   "photo": "photos/MKE_LANDIN_ANDREW_648184.jpg"
   },
   {
    "key": "MKE_GONZALEZ_DIANA_1447",
@@ -5656,83 +5667,6 @@
    "more": 0,
    "ts": 1793802425,
    "photo": null
-  },
-  {
-   "key": "MKE_MURRAY_ONTARIO_406953",
-   "name": "Ontario Tremaine Murray",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793800737,
-   "photo": "photos/MKE_MURRAY_ONTARIO_406953.jpg"
-  },
-  {
-   "key": "MKE_MOSLEY_COREY_395619",
-   "name": "Corey S Mosley",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 0,
-   "ts": 1793800733,
-   "photo": "photos/MKE_MOSLEY_COREY_395619.jpg"
-  },
-  {
-   "key": "MKE_FOWLER_LORENZO_410428",
-   "name": "Lorenzo Marquez Fowler",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1793800731,
-   "photo": "photos/MKE_FOWLER_LORENZO_410428.jpg"
-  },
-  {
-   "key": "MKE_DODD_KAMIA_648122",
-   "name": "Kamia N Dodd",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793800728,
-   "photo": "photos/MKE_DODD_KAMIA_648122.jpg"
-  },
-  {
-   "key": "MKE_CANNON_JOSHUA_623866",
-   "name": "Joshua Lamar Cannon",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Incident",
-   "more": 2,
-   "ts": 1793800725,
-   "photo": "photos/MKE_CANNON_JOSHUA_623866.jpg"
-  },
-  {
-   "key": "KEN_MCMILLIAN_ZIYAH_2026-00006080",
-   "name": "Ziyah Zanusha Mcmillian",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793800710,
-   "photo": "photos/KEN_MCMILLIAN_ZIYAH_2026-00006080.jpg"
-  },
-  {
-   "key": "KEN_ALBRITTON_DALON_2026-00006079",
-   "name": "Dalon Tashon Albritton",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793800588,
-   "photo": "photos/KEN_ALBRITTON_DALON_2026-00006079.jpg"
   }
  ]
 }
