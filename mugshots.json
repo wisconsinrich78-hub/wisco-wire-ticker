@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-08T16:49:29+00:00",
+ "updated": "2026-11-08T17:28:21+00:00",
  "items": [
+  {
+   "key": "FDL_BARTELS_HANNAH_2026-11-08",
+   "name": "Hannah Elaine Bartels",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794158159,
+   "photo": "photos/FDL_BARTELS_HANNAH_2026-11-08.jpg"
+  },
+  {
+   "key": "MKE_ISMAIL_REHANA_648204",
+   "name": "Rehana Ismail",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794157061,
+   "photo": null
+  },
+  {
+   "key": "MKE_ZAMORAGONZALEZ_JAIRO_648205",
+   "name": "Jairo Nahum Zamora Gonzalez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794157059,
+   "photo": null
+  },
+  {
+   "key": "MCCONNAUGHEY_THOMAS_2026-11-08",
+   "name": "Thomas H Mcconnaughey",
+   "age": "69",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794157030,
+   "photo": null
+  },
   {
    "key": "MELDE_ETHAN_2026-11-08",
    "name": "Ethan Daniel Melde",
@@ -21,7 +65,7 @@
    "charge": "Criminal Damage to Property (Over $2500)",
    "more": 5,
    "ts": 1794153487,
-   "photo": null
+   "photo": "photos/MKE_PAYTON_DONIEKA_629890.jpg"
   },
   {
    "key": "VANG_KAO_2026-11-08",
@@ -321,28 +365,6 @@
    "photo": "photos/MKE_RUFILTAIPE_RAUL_645897.jpg"
   },
   {
-   "key": "MKE_TLAXCALTECA_ELVIRA_648200",
-   "name": "Elvira Tlaxcalteca",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 3,
-   "ts": 1794137256,
-   "photo": "photos/MKE_TLAXCALTECA_ELVIRA_648200.jpg"
-  },
-  {
-   "key": "MKE_BROX_DAYVON_648201",
-   "name": "Dayvon O Brox",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794137254,
-   "photo": "photos/MKE_BROX_DAYVON_648201.jpg"
-  },
-  {
    "key": "FDL_BENITEZMEJIA_ISAAC_2026-11-08",
    "name": "Isaac Benitez Mejia",
    "age": "",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794122229,
    "photo": null
+  }
+ ],
+ "all_items": [
+  {
+   "key": "FDL_BARTELS_HANNAH_2026-11-08",
+   "name": "Hannah Elaine Bartels",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794158159,
+   "photo": "photos/FDL_BARTELS_HANNAH_2026-11-08.jpg"
   },
   {
-   "key": "SKRIBA_DANIEL_2026-11-08",
-   "name": "Daniel D Skriba",
-   "age": "36",
+   "key": "MKE_ISMAIL_REHANA_648204",
+   "name": "Rehana Ismail",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794157061,
+   "photo": null
+  },
+  {
+   "key": "MKE_ZAMORAGONZALEZ_JAIRO_648205",
+   "name": "Jairo Nahum Zamora Gonzalez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794157059,
+   "photo": null
+  },
+  {
+   "key": "MCCONNAUGHEY_THOMAS_2026-11-08",
+   "name": "Thomas H Mcconnaughey",
+   "age": "69",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "",
    "more": 0,
-   "ts": 1794121022,
+   "ts": 1794157030,
    "photo": null
   },
-  {
-   "key": "FDL_LUNDE_ANGELA_2026-11-07",
-   "name": "Angela Jean Lunde",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "MISDEMEANOR BAIL JUMPING INTOXICATED (x2)",
-   "more": 0,
-   "ts": 1794114996,
-   "photo": "photos/FDL_LUNDE_ANGELA_2026-11-07.jpg"
-  }
- ],
- "all_items": [
   {
    "key": "MELDE_ETHAN_2026-11-08",
    "name": "Ethan Daniel Melde",
@@ -551,7 +595,7 @@
    "charge": "Criminal Damage to Property (Over $2500)",
    "more": 5,
    "ts": 1794153487,
-   "photo": null
+   "photo": "photos/MKE_PAYTON_DONIEKA_629890.jpg"
   },
   {
    "key": "VANG_KAO_2026-11-08",
@@ -5040,72 +5084,6 @@
    "more": 2,
    "ts": 1793899801,
    "photo": null
-  },
-  {
-   "key": "MKE_MCPHAN_DELMONTE_364629",
-   "name": "Delmonte Patrace Mcphan",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1793899659,
-   "photo": "photos/MKE_MCPHAN_DELMONTE_364629.jpg"
-  },
-  {
-   "key": "MKE_BENNETT_ARVIL_197945",
-   "name": "Arvil M Bennett",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793899656,
-   "photo": null
-  },
-  {
-   "key": "ANDERSON_TANNER_2026-11-05",
-   "name": "Tanner T Anderson",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Justice Sanctions",
-   "more": 0,
-   "ts": 1793899404,
-   "photo": null
-  },
-  {
-   "key": "ERICKSON_RICHARD_2026-11-05",
-   "name": "Richard D Erickson",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793899404,
-   "photo": null
-  },
-  {
-   "key": "DOU_MACKIE_ARLENE_2026-11-05",
-   "name": "Arlene R Mackie",
-   "age": "56",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
-   "ts": 1793899032,
-   "photo": "photos/DOU_MACKIE_ARLENE_2026-11-05.jpg"
-  },
-  {
-   "key": "MKE_COFFIN_RENO_292587",
-   "name": "Reno Deangelo Coffin",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793897860,
-   "photo": "photos/MKE_COFFIN_RENO_292587.jpg"
   }
  ]
 }
