@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T08:49:28+00:00",
+ "updated": "2026-11-08T09:49:40+00:00",
  "items": [
+  {
+   "key": "SURIANO_ANTHONY_2026-11-08",
+   "name": "Anthony J Suriano",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence",
+   "more": 0,
+   "ts": 1794131233,
+   "photo": null
+  },
+  {
+   "key": "FDL_ALMAGUER_ARMANDO_2026-11-08",
+   "name": "Armando P Almaguer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1794129358,
+   "photo": "photos/FDL_ALMAGUER_ARMANDO_2026-11-08.jpg"
+  },
   {
    "key": "DOU_SMITH_DEAUNDRA_2026-11-08",
    "name": "Deaundra D Smith",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794048432,
    "photo": "photos/TREM_EDDY_NICOLE_6205.jpg"
-  },
-  {
-   "key": "TREM_COLBURN_KENNETH_1816",
-   "name": "Kenneth Michael Colburn",
-   "age": "41",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Violation of Temporary Restraining Order - Harassment",
-   "more": 1,
-   "ts": 1794048431,
-   "photo": "photos/TREM_COLBURN_KENNETH_1816.jpg"
-  },
-  {
-   "key": "PECK_MOLLIE_2026-11-06",
-   "name": "Mollie P Peck",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794029221,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "SURIANO_ANTHONY_2026-11-08",
+   "name": "Anthony J Suriano",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence",
+   "more": 0,
+   "ts": 1794131233,
+   "photo": null
+  },
+  {
+   "key": "FDL_ALMAGUER_ARMANDO_2026-11-08",
+   "name": "Armando P Almaguer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1794129358,
+   "photo": "photos/FDL_ALMAGUER_ARMANDO_2026-11-08.jpg"
+  },
   {
    "key": "DOU_SMITH_DEAUNDRA_2026-11-08",
    "name": "Deaundra D Smith",
@@ -4996,28 +5018,6 @@
    "more": 0,
    "ts": 1793872660,
    "photo": "photos/MKE_JOHNSON_CALI_648144.jpg"
-  },
-  {
-   "key": "MKE_WHITE_ED_410274",
-   "name": "Ed Orlando White",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 10,
-   "ts": 1793870867,
-   "photo": "photos/MKE_WHITE_ED_410274.jpg"
-  },
-  {
-   "key": "MKE_MOORE_SANDRA_205445",
-   "name": "Sandra Yvette Moore",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 0,
-   "ts": 1793870865,
-   "photo": "photos/MKE_MOORE_SANDRA_205445.jpg"
   }
  ]
 }
