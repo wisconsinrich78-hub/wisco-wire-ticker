@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T07:55:53+00:00",
+ "updated": "2026-11-08T08:28:36+00:00",
  "items": [
+  {
+   "key": "DOU_SMITH_DEAUNDRA_2026-11-08",
+   "name": "Deaundra D Smith",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794125824,
+   "photo": "photos/DOU_SMITH_DEAUNDRA_2026-11-08.jpg"
+  },
+  {
+   "key": "OVERBY_EMMA_2026-11-08",
+   "name": "Emma G Overby",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery Or Threat To Judge",
+   "more": 1,
+   "ts": 1794124620,
+   "photo": null
+  },
+  {
+   "key": "KEN_VALLEY_TEAGAN_2026-00006172",
+   "name": "Teagan Valley",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794124563,
+   "photo": null
+  },
   {
    "key": "KEN_KRUEGER_MAURIECE_2026-00006173",
    "name": "Mauriece Krueger",
@@ -117,7 +150,7 @@
    "age": "23",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794120886,
    "photo": "photos/KEN_HOLSTER_ZANDER_2026-00006169.jpg"
@@ -220,17 +253,6 @@
    "more": 1,
    "ts": 1794113311,
    "photo": null
-  },
-  {
-   "key": "RC_JOHNSTON_SCOTT_120011076047346",
-   "name": "Scott Daniel Johnston",
-   "age": "63",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794113309,
-   "photo": "photos/RC_JOHNSTON_SCOTT_120011076047346.jpg"
   },
   {
    "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
@@ -442,17 +464,6 @@
    "photo": "photos/MAR_GRAEF_NAINNE_2026-11-07.jpg"
   },
   {
-   "key": "MAR_DREMLER_JOSHUA_2026-11-07",
-   "name": "Joshua James Dremler",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794063594,
-   "photo": "photos/MAR_DREMLER_JOSHUA_2026-11-07.jpg"
-  },
-  {
    "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
    "name": "Dustin James Krueger",
    "age": "",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794029221,
    "photo": null
-  },
-  {
-   "key": "FDL_SCHRAMMBLAKE_NICHOLAS_2026-11-06",
-   "name": "Nicholas John Schramm-Blake",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 5,
-   "ts": 1794025010,
-   "photo": "photos/FDL_SCHRAMMBLAKE_NICHOLAS_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_SMITH_DEAUNDRA_2026-11-08",
+   "name": "Deaundra D Smith",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794125824,
+   "photo": "photos/DOU_SMITH_DEAUNDRA_2026-11-08.jpg"
+  },
+  {
+   "key": "OVERBY_EMMA_2026-11-08",
+   "name": "Emma G Overby",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery Or Threat To Judge",
+   "more": 1,
+   "ts": 1794124620,
+   "photo": null
+  },
+  {
+   "key": "KEN_VALLEY_TEAGAN_2026-00006172",
+   "name": "Teagan Valley",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794124563,
+   "photo": null
+  },
   {
    "key": "KEN_KRUEGER_MAURIECE_2026-00006173",
    "name": "Mauriece Krueger",
@@ -647,7 +680,7 @@
    "age": "23",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794120886,
    "photo": "photos/KEN_HOLSTER_ZANDER_2026-00006169.jpg"
@@ -5007,61 +5040,6 @@
    "more": 0,
    "ts": 1793868477,
    "photo": "photos/RC_MCWHORTER_JIMMIE_120011075958366.jpg"
-  },
-  {
-   "key": "MKE_NIEVES_CARLOS_648143",
-   "name": "Carlos JUAN Nieves",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
-   "more": 2,
-   "ts": 1793867265,
-   "photo": null
-  },
-  {
-   "key": "MKE_CLAVELLORTIZ_ALEJANDRO_648141",
-   "name": "Alejandro Clavell-Ortiz",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resist Officer-Failure To Stop Vehicle",
-   "more": 0,
-   "ts": 1793865462,
-   "photo": "photos/MKE_CLAVELLORTIZ_ALEJANDRO_648141.jpg"
-  },
-  {
-   "key": "MKE_CHILDS_SHANITA_2052278",
-   "name": "Shanita L Childs",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793865461,
-   "photo": "photos/MKE_CHILDS_SHANITA_2052278.jpg"
-  },
-  {
-   "key": "MKE_CAREY_MICHAEL_648142",
-   "name": "Michael J Carey",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793865459,
-   "photo": "photos/MKE_CAREY_MICHAEL_648142.jpg"
-  },
-  {
-   "key": "MKE_ADKINS_WILLIAM_639296",
-   "name": "William Marcus Adkins",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793865457,
-   "photo": null
   }
  ]
 }
