@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-08T14:55:08+00:00",
+ "updated": "2026-11-08T15:28:16+00:00",
  "items": [
+  {
+   "key": "EDGE_AMBER_2026-11-08",
+   "name": "Amber R Edge",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 4,
+   "ts": 1794151618,
+   "photo": null
+  },
+  {
+   "key": "DOU_WUORINEN_RONALD_2026-11-08",
+   "name": "Ronald P Wuorinen",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794151042,
+   "photo": "photos/DOU_WUORINEN_RONALD_2026-11-08.jpg"
+  },
+  {
+   "key": "FDL_CHRISTIE_AARON_2026-11-08",
+   "name": "Aaron John Christie",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794150986,
+   "photo": "photos/FDL_CHRISTIE_AARON_2026-11-08.jpg"
+  },
+  {
+   "key": "KEN_HEARTON_HERMAN_2026-00006179",
+   "name": "HERMAN D Junior HEARTON",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794149825,
+   "photo": "photos/KEN_HEARTON_HERMAN_2026-00006179.jpg"
+  },
   {
    "key": "MAR_PIERCE_SKYILAR_2026-11-07_12710801",
    "name": "Skyilar Lashae Pierce",
@@ -277,17 +321,6 @@
    "photo": "photos/FDL_BENITEZMEJIA_ISAAC_2026-11-08.jpg"
   },
   {
-   "key": "RC_LUCERO_MICHAEL_120011076052964",
-   "name": "Michael Lucero",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794134868,
-   "photo": "photos/RC_LUCERO_MICHAEL_120011076052964.jpg"
-  },
-  {
    "key": "TREM_LOPEZTIENDA_ABEL_5650",
    "name": "Abel Lopez Tienda",
    "age": "47",
@@ -495,42 +528,53 @@
    "more": 1,
    "ts": 1794102839,
    "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07.jpg"
-  },
-  {
-   "key": "BERRYMAN_KATHY_2026-11-07",
-   "name": "Kathy J Berryman",
-   "age": "52",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794102430,
-   "photo": null
-  },
-  {
-   "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06_488620",
-   "name": "Sevastian Michael Bolanos",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 5,
-   "ts": 1794095648,
-   "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06_488620.jpg"
-  },
-  {
-   "key": "LANG_CHRISTOPHER_2026-11-07",
-   "name": "Christopher D Lang",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794092226,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "EDGE_AMBER_2026-11-08",
+   "name": "Amber R Edge",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 4,
+   "ts": 1794151618,
+   "photo": null
+  },
+  {
+   "key": "DOU_WUORINEN_RONALD_2026-11-08",
+   "name": "Ronald P Wuorinen",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794151042,
+   "photo": "photos/DOU_WUORINEN_RONALD_2026-11-08.jpg"
+  },
+  {
+   "key": "FDL_CHRISTIE_AARON_2026-11-08",
+   "name": "Aaron John Christie",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794150986,
+   "photo": "photos/FDL_CHRISTIE_AARON_2026-11-08.jpg"
+  },
+  {
+   "key": "KEN_HEARTON_HERMAN_2026-00006179",
+   "name": "HERMAN D Junior HEARTON",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794149825,
+   "photo": "photos/KEN_HEARTON_HERMAN_2026-00006179.jpg"
+  },
   {
    "key": "MAR_PIERCE_SKYILAR_2026-11-07_12710801",
    "name": "Skyilar Lashae Pierce",
@@ -5106,138 +5150,6 @@
    "more": 0,
    "ts": 1793892580,
    "photo": "photos/MKE_VUNG_KHUA_622085.jpg"
-  },
-  {
-   "key": "BURROWS_CHARLES_2026-11-05",
-   "name": "Charles J Burrows",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793892465,
-   "photo": null
-  },
-  {
-   "key": "ARISPE_SHANTEL_2026-11-05",
-   "name": "Shantel Alyssa Arispe",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793892464,
-   "photo": null
-  },
-  {
-   "key": "KEN_WILLIAMS_MONICA_2026-00006102",
-   "name": "Monica R Williams",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793891246,
-   "photo": "photos/KEN_WILLIAMS_MONICA_2026-00006102.jpg"
-  },
-  {
-   "key": "KEN_COLLINS_KATIE_2026-00006101",
-   "name": "Katie Lynn Collins",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793891167,
-   "photo": "photos/KEN_COLLINS_KATIE_2026-00006101.jpg"
-  },
-  {
-   "key": "KEN_TURNER_ZEBULON_2026-00006100",
-   "name": "Zebulon Ruben Turner",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L",
-   "more": 1,
-   "ts": 1793891088,
-   "photo": "photos/KEN_TURNER_ZEBULON_2026-00006100.jpg"
-  },
-  {
-   "key": "MAR_ANDRUSS_JOSEPH_2026-11-03_17051201",
-   "name": "Joseph Allen Andruss",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793891065,
-   "photo": "photos/MAR_ANDRUSS_JOSEPH_2026-11-03_17051201.jpg"
-  },
-  {
-   "key": "MAR_FULLER_JOSHUA_2026-11-03_2278916",
-   "name": "Joshua Michael Fuller",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 4,
-   "ts": 1793891024,
-   "photo": "photos/MAR_FULLER_JOSHUA_2026-11-03_2278916.jpg"
-  },
-  {
-   "key": "KEN_ORTIZ_AMARYLLIZ_2026-00006099",
-   "name": "Amarylliz Ortiz",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1793891009,
-   "photo": "photos/KEN_ORTIZ_AMARYLLIZ_2026-00006099.jpg"
-  },
-  {
-   "key": "MAR_SIMMONS_TRACEY_2026-11-04",
-   "name": "Tracey Marie Simmons",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1793890986,
-   "photo": "photos/MAR_SIMMONS_TRACEY_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_HERRICK_KIANA_2026-11-04",
-   "name": "Kiana Jordan Herrick",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear - Ncic Felony",
-   "more": 1,
-   "ts": 1793890945,
-   "photo": "photos/MAR_HERRICK_KIANA_2026-11-04.jpg"
-  },
-  {
-   "key": "KEN_JILES_TYRONE_2026-00006098",
-   "name": "TYRONE MONTOY Third JILES",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1793890934,
-   "photo": "photos/KEN_JILES_TYRONE_2026-00006098.jpg"
-  },
-  {
-   "key": "KEN_BAILEYPRESCOTT_BRANDON_2026-00006103",
-   "name": "Brandon J Bailey-Prescott",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "False Imprisonment",
-   "more": 2,
-   "ts": 1793890846,
-   "photo": "photos/KEN_BAILEYPRESCOTT_BRANDON_2026-00006103.jpg"
   }
  ]
 }
