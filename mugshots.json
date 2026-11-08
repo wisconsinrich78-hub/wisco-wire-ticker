@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T22:49:27+00:00",
+ "updated": "2026-11-08T22:57:52+00:00",
  "items": [
+  {
+   "key": "MAR_HUNTER_TERESA_2026-11-08",
+   "name": "Teresa Marie Hunter",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794178556,
+   "photo": null
+  },
   {
    "key": "MKE_EVANS_ANDREW_347547",
    "name": "Andrew Cornelius Evans",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794129358,
    "photo": "photos/FDL_ALMAGUER_ARMANDO_2026-11-08.jpg"
-  },
-  {
-   "key": "DOU_SMITH_DEAUNDRA_2026-11-08",
-   "name": "Deaundra D Smith",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794125824,
-   "photo": "photos/DOU_SMITH_DEAUNDRA_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_HUNTER_TERESA_2026-11-08",
+   "name": "Teresa Marie Hunter",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794178556,
+   "photo": null
+  },
   {
    "key": "MKE_EVANS_ANDREW_347547",
    "name": "Andrew Cornelius Evans",
@@ -4732,17 +4743,6 @@
    "more": 5,
    "ts": 1793919484,
    "photo": "photos/MKE_BROOKSHIRE_DAMIEN_630189.jpg"
-  },
-  {
-   "key": "FANNINGSTANFORD_KENNETH_2026-11-05",
-   "name": "Kenneth Cole Fanning Stanford",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793919423,
-   "photo": null
   }
  ]
 }
