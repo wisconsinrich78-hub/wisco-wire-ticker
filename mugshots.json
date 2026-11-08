@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T15:49:30+00:00",
+ "updated": "2026-11-08T16:49:29+00:00",
  "items": [
+  {
+   "key": "MELDE_ETHAN_2026-11-08",
+   "name": "Ethan Daniel Melde",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 0,
+   "ts": 1794155236,
+   "photo": null
+  },
+  {
+   "key": "MKE_PAYTON_DONIEKA_629890",
+   "name": "Donieka S Payton",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property (Over $2500)",
+   "more": 5,
+   "ts": 1794153487,
+   "photo": null
+  },
   {
    "key": "VANG_KAO_2026-11-08",
    "name": "Kao Vang",
@@ -321,17 +343,6 @@
    "photo": "photos/MKE_BROX_DAYVON_648201.jpg"
   },
   {
-   "key": "MKE_GRAHAM_MARQUIZE_648202",
-   "name": "Marquize Graham",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794137251,
-   "photo": "photos/MKE_GRAHAM_MARQUIZE_648202.jpg"
-  },
-  {
    "key": "FDL_BENITEZMEJIA_ISAAC_2026-11-08",
    "name": "Isaac Benitez Mejia",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794114996,
    "photo": "photos/FDL_LUNDE_ANGELA_2026-11-07.jpg"
-  },
-  {
-   "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
-   "name": "Matthew James Wiskowski",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794106450,
-   "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MELDE_ETHAN_2026-11-08",
+   "name": "Ethan Daniel Melde",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 0,
+   "ts": 1794155236,
+   "photo": null
+  },
+  {
+   "key": "MKE_PAYTON_DONIEKA_629890",
+   "name": "Donieka S Payton",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property (Over $2500)",
+   "more": 5,
+   "ts": 1794153487,
+   "photo": null
+  },
   {
    "key": "VANG_KAO_2026-11-08",
    "name": "Kao Vang",
@@ -5084,72 +5106,6 @@
    "more": 1,
    "ts": 1793897860,
    "photo": "photos/MKE_COFFIN_RENO_292587.jpg"
-  },
-  {
-   "key": "ASHMORE_DAVID_2026-11-05",
-   "name": "David J Ashmore",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793897233,
-   "photo": null
-  },
-  {
-   "key": "ASHMORE_CHRISTINA_2026-11-05",
-   "name": "Christina L Ashmore",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793896091,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROBYCLARK_KENDREA_647212",
-   "name": "Kendrea S Roby Clark",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793894432,
-   "photo": "photos/MKE_ROBYCLARK_KENDREA_647212.jpg"
-  },
-  {
-   "key": "MKE_BOYD_KWAMI_624097",
-   "name": "Kwami M Boyd",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793894430,
-   "photo": "photos/MKE_BOYD_KWAMI_624097.jpg"
-  },
-  {
-   "key": "KEN_RUPPKENT_CHUCK_2026-00006106",
-   "name": "CHUCK ALFONZO Junior RUPP-KENT",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 6,
-   "ts": 1793894429,
-   "photo": "photos/KEN_RUPPKENT_CHUCK_2026-00006106.jpg"
-  },
-  {
-   "key": "KEN_MOSANSKY_JULIUS_2026-00006105",
-   "name": "Julius A Mosansky",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1793894344,
-   "photo": "photos/KEN_MOSANSKY_JULIUS_2026-00006105.jpg"
   }
  ]
 }
