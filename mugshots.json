@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T12:55:01+00:00",
+ "updated": "2026-11-08T13:28:10+00:00",
  "items": [
+  {
+   "key": "FDL_JOHNSON_CHRISTOPHER_2026-11-08",
+   "name": "Christopher Patrick Johnson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Pac - 2Nd Offense",
+   "more": 0,
+   "ts": 1794143790,
+   "photo": "photos/FDL_JOHNSON_CHRISTOPHER_2026-11-08.jpg"
+  },
+  {
+   "key": "KEN_FLOWERS_SHEENA_2026-00006178",
+   "name": "Sheena Flowers",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794142539,
+   "photo": null
+  },
   {
    "key": "MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206",
    "name": "Nathan Thomas Hagenbucher",
@@ -51,7 +73,7 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Owi (1St)",
    "more": 0,
    "ts": 1794138978,
    "photo": "photos/KEN_BRANTLEY_DAVID_2026-00006177.jpg"
@@ -343,17 +365,6 @@
    "photo": null
   },
   {
-   "key": "KEN_KRUEGER_MAURIECE_2026-00006173",
-   "name": "Mauriece Krueger",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Improper Displayof License Plates/Tag/Decal",
-   "more": 4,
-   "ts": 1794124526,
-   "photo": "photos/KEN_KRUEGER_MAURIECE_2026-00006173.jpg"
-  },
-  {
    "key": "MAR_PIERCE_SKYILAR_2026-11-07",
    "name": "Skyilar Lashae Pierce",
    "age": "28",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1794082866,
    "photo": "photos/MAR_STEVENS_DANIELLE_2026-11-07_19211.jpg"
-  },
-  {
-   "key": "AUSTAD_DYLAN_2026-11-07",
-   "name": "Dylan Edward Austad",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794076021,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_JOHNSON_CHRISTOPHER_2026-11-08",
+   "name": "Christopher Patrick Johnson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Pac - 2Nd Offense",
+   "more": 0,
+   "ts": 1794143790,
+   "photo": "photos/FDL_JOHNSON_CHRISTOPHER_2026-11-08.jpg"
+  },
+  {
+   "key": "KEN_FLOWERS_SHEENA_2026-00006178",
+   "name": "Sheena Flowers",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794142539,
+   "photo": null
+  },
   {
    "key": "MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206",
    "name": "Nathan Thomas Hagenbucher",
@@ -581,7 +603,7 @@
    "age": "35",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Owi (1St)",
    "more": 0,
    "ts": 1794138978,
    "photo": "photos/KEN_BRANTLEY_DAVID_2026-00006177.jpg"
@@ -5183,39 +5205,6 @@
    "more": 2,
    "ts": 1793887066,
    "photo": "photos/MKE_HEGWOOD_SHAMAR_293993.jpg"
-  },
-  {
-   "key": "MKE_SPENCER_CORY_617360",
-   "name": "Cory David Spencer",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 1,
-   "ts": 1793883461,
-   "photo": "photos/MKE_SPENCER_CORY_617360.jpg"
-  },
-  {
-   "key": "MKE_DUNCAN_BETHANEY_2066892",
-   "name": "Bethaney D Duncan",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793883458,
-   "photo": "photos/MKE_DUNCAN_BETHANEY_2066892.jpg"
-  },
-  {
-   "key": "MKE_ALLEN_KAMAL_643775",
-   "name": "Kamal N Allen",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 11,
-   "ts": 1793883457,
-   "photo": "photos/MKE_ALLEN_KAMAL_643775.jpg"
   }
  ]
 }
