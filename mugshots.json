@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T22:57:52+00:00",
+ "updated": "2026-11-08T23:27:45+00:00",
  "items": [
+  {
+   "key": "MKE_CORREA_ANGEL_280733",
+   "name": "Angel Luis Correa",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794180456,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_JAMES_609615",
+   "name": "James Earl Brown",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Reckless Driving-Endanger Safety",
+   "more": 2,
+   "ts": 1794180455,
+   "photo": null
+  },
+  {
+   "key": "MAR_LAVIGNE_KAI_2026-11-08",
+   "name": "Kai Gryphon Lavigne",
+   "age": "18",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794178598,
+   "photo": null
+  },
   {
    "key": "MAR_HUNTER_TERESA_2026-11-08",
    "name": "Teresa Marie Hunter",
@@ -98,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794167863,
-   "photo": null
+   "photo": "photos/MKE_EASON_DEVON_411979.jpg"
   },
   {
    "key": "MKE_GARZA_GABRIEL_633470",
@@ -208,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794157059,
-   "photo": null
+   "photo": "photos/MKE_ZAMORAGONZALEZ_JAIRO_648205.jpg"
   },
   {
    "key": "MCCONNAUGHEY_THOMAS_2026-11-08",
@@ -299,17 +332,6 @@
    "photo": "photos/FDL_CHRISTIE_AARON_2026-11-08.jpg"
   },
   {
-   "key": "KEN_HEARTON_HERMAN_2026-00006179",
-   "name": "HERMAN D Junior HEARTON",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794149825,
-   "photo": "photos/KEN_HEARTON_HERMAN_2026-00006179.jpg"
-  },
-  {
    "key": "MAR_PIERCE_SKYILAR_2026-11-07_12710801",
    "name": "Skyilar Lashae Pierce",
    "age": "28",
@@ -319,17 +341,6 @@
    "more": 1,
    "ts": 1794149633,
    "photo": "photos/MAR_PIERCE_SKYILAR_2026-11-07_12710801.jpg"
-  },
-  {
-   "key": "RC_RAY_DEVION_120011076055974",
-   "name": "Devion D Ray",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794149271,
-   "photo": "photos/RC_RAY_DEVION_120011076055974.jpg"
   },
   {
    "key": "STEVENS_KENNEDY_2026-11-08",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794131233,
    "photo": null
-  },
-  {
-   "key": "FDL_ALMAGUER_ARMANDO_2026-11-08",
-   "name": "Armando P Almaguer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794129358,
-   "photo": "photos/FDL_ALMAGUER_ARMANDO_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CORREA_ANGEL_280733",
+   "name": "Angel Luis Correa",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794180456,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_JAMES_609615",
+   "name": "James Earl Brown",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Reckless Driving-Endanger Safety",
+   "more": 2,
+   "ts": 1794180455,
+   "photo": null
+  },
+  {
+   "key": "MAR_LAVIGNE_KAI_2026-11-08",
+   "name": "Kai Gryphon Lavigne",
+   "age": "18",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794178598,
+   "photo": null
+  },
   {
    "key": "MAR_HUNTER_TERESA_2026-11-08",
    "name": "Teresa Marie Hunter",
@@ -628,7 +661,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794167863,
-   "photo": null
+   "photo": "photos/MKE_EASON_DEVON_411979.jpg"
   },
   {
    "key": "MKE_GARZA_GABRIEL_633470",
@@ -738,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794157059,
-   "photo": null
+   "photo": "photos/MKE_ZAMORAGONZALEZ_JAIRO_648205.jpg"
   },
   {
    "key": "MCCONNAUGHEY_THOMAS_2026-11-08",
@@ -4666,83 +4699,6 @@
    "more": 0,
    "ts": 1793921277,
    "photo": "photos/MKE_BALISTRERI_CADE_648151.jpg"
-  },
-  {
-   "key": "DOU_KNIGHT_SANTANA_2026-11-05",
-   "name": "Santana M Knight",
-   "age": "29",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
-   "ts": 1793920625,
-   "photo": "photos/DOU_KNIGHT_SANTANA_2026-11-05.jpg"
-  },
-  {
-   "key": "KEN_WATKINS_TREMAINE_2026-00006119",
-   "name": "TREMAINE HASSEL Senior WATKINS",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1793919818,
-   "photo": "photos/KEN_WATKINS_TREMAINE_2026-00006119.jpg"
-  },
-  {
-   "key": "MAR_GONZALEZGUZMAN_GERARDO_2026-11-05",
-   "name": "Gerardo Gonzalez-Guzman",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1793919671,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCOTT_DEVIN_648150",
-   "name": "Devin Scott",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1793919489,
-   "photo": "photos/MKE_SCOTT_DEVIN_648150.jpg"
-  },
-  {
-   "key": "MKE_MITCHELL_LACHARLES_630396",
-   "name": "Lacharles Davon Mitchell",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793919487,
-   "photo": "photos/MKE_MITCHELL_LACHARLES_630396.jpg"
-  },
-  {
-   "key": "MKE_DOTSON_RICHARD_171936",
-   "name": "Richard Ricky Dotson",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793919485,
-   "photo": "photos/MKE_DOTSON_RICHARD_171936.jpg"
-  },
-  {
-   "key": "MKE_BROOKSHIRE_DAMIEN_630189",
-   "name": "Damien Derrell Brookshire",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793919484,
-   "photo": "photos/MKE_BROOKSHIRE_DAMIEN_630189.jpg"
   }
  ]
 }
