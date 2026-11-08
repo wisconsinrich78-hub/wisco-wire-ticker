@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T14:28:12+00:00",
+ "updated": "2026-11-08T14:49:32+00:00",
  "items": [
+  {
+   "key": "RC_RAY_DEVION_120011076055974",
+   "name": "Devion D Ray",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794149271,
+   "photo": "photos/RC_RAY_DEVION_120011076055974.jpg"
+  },
+  {
+   "key": "STEVENS_KENNEDY_2026-11-08",
+   "name": "Kennedy M Stevens",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 1,
+   "ts": 1794149231,
+   "photo": null
+  },
   {
    "key": "MKE_WINSTON_PIERRE_639841",
    "name": "Pierre Cardin Winston",
@@ -153,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794137265,
-   "photo": null
+   "photo": "photos/MKE_OWENS_DEVONTE_410623.jpg"
   },
   {
    "key": "MKE_GRANT_RENORVAL_509825",
@@ -308,17 +330,6 @@
    "more": 0,
    "ts": 1794133014,
    "photo": "photos/FDL_SEQUENSICAN_ALEXANDRO_2026-11-08.jpg"
-  },
-  {
-   "key": "KEN_FRANKLIN_DENZEL_2026-00006175",
-   "name": "Denzel Derreal Franklin",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Disobey Order",
-   "more": 0,
-   "ts": 1794131768,
-   "photo": "photos/KEN_FRANKLIN_DENZEL_2026-00006175.jpg"
   },
   {
    "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794091638,
    "photo": null
-  },
-  {
-   "key": "JONSGAARD_LUCAS_2026-11-07",
-   "name": "Lucas Anton Jonsgaard",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794086830,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_RAY_DEVION_120011076055974",
+   "name": "Devion D Ray",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794149271,
+   "photo": "photos/RC_RAY_DEVION_120011076055974.jpg"
+  },
+  {
+   "key": "STEVENS_KENNEDY_2026-11-08",
+   "name": "Kennedy M Stevens",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 1,
+   "ts": 1794149231,
+   "photo": null
+  },
   {
    "key": "MKE_WINSTON_PIERRE_639841",
    "name": "Pierre Cardin Winston",
@@ -683,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794137265,
-   "photo": null
+   "photo": "photos/MKE_OWENS_DEVONTE_410623.jpg"
   },
   {
    "key": "MKE_GRANT_RENORVAL_509825",
@@ -5205,17 +5227,6 @@
    "more": 2,
    "ts": 1793890846,
    "photo": "photos/KEN_BAILEYPRESCOTT_BRANDON_2026-00006103.jpg"
-  },
-  {
-   "key": "MKE_WHITE_FREDDIE_412668",
-   "name": "Freddie White",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793888893,
-   "photo": "photos/MKE_WHITE_FREDDIE_412668.jpg"
   }
  ]
 }
