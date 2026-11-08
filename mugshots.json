@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-08T04:49:29+00:00",
+ "updated": "2026-11-08T05:39:12+00:00",
  "items": [
+  {
+   "key": "MKE_MALLORY_MONTEZ_646008",
+   "name": "Montez D Mallory",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794115660,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOHAMEDSHOBI_SADIK_648198",
+   "name": "Sadik K Mohamed Shobi",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794115657,
+   "photo": null
+  },
+  {
+   "key": "MKE_PSKET_ROBERT_648199",
+   "name": "Robert M Psket",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 2,
+   "ts": 1794115655,
+   "photo": null
+  },
+  {
+   "key": "FDL_LUNDE_ANGELA_2026-11-07",
+   "name": "Angela Jean Lunde",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "MISDEMEANOR BAIL JUMPING INTOXICATED (x2)",
+   "more": 0,
+   "ts": 1794114996,
+   "photo": "photos/FDL_LUNDE_ANGELA_2026-11-07.jpg"
+  },
+  {
+   "key": "MKE_RODRIGUEZGUZMAN_JOSE_648197",
+   "name": "Jose Jaime Rodriguez Guzman",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1794113878,
+   "photo": null
+  },
   {
    "key": "RC_ARRINGTON_JARMARIE_120011076047255",
    "name": "Jarmarie D Arrington",
@@ -54,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794104859,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_JAYLEN_624127.jpg"
   },
   {
    "key": "MAR_GRAEF_NAINNE_2026-11-07_13109002",
@@ -178,17 +233,6 @@
    "photo": "photos/KEN_MOSS_OTIS_2026-00006159.jpg"
   },
   {
-   "key": "KEN_AGUILAR_ALLAN_2026-00006160",
-   "name": "Allan Anthony Aguilar",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Theft-Business Setting >$10000-$100000",
-   "more": 0,
-   "ts": 1794095960,
-   "photo": "photos/KEN_AGUILAR_ALLAN_2026-00006160.jpg"
-  },
-  {
    "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06_488620",
    "name": "Sevastian Michael Bolanos",
    "age": "21",
@@ -198,28 +242,6 @@
    "more": 5,
    "ts": 1794095648,
    "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06_488620.jpg"
-  },
-  {
-   "key": "MKE_TORRES_BENJAMIN_648196",
-   "name": "Benjamin Torres",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794094069,
-   "photo": "photos/MKE_TORRES_BENJAMIN_648196.jpg"
-  },
-  {
-   "key": "MKE_MASON_CHRISTIAN_648195",
-   "name": "Christian Odell Mason",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794092278,
-   "photo": "photos/MKE_MASON_CHRISTIAN_648195.jpg"
   },
   {
    "key": "LANG_CHRISTOPHER_2026-11-07",
@@ -242,17 +264,6 @@
    "more": 0,
    "ts": 1794091638,
    "photo": null
-  },
-  {
-   "key": "MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995",
-   "name": "Christal N Marshall-Collingwood",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794086887,
-   "photo": "photos/MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995.jpg"
   },
   {
    "key": "JONSGAARD_LUCAS_2026-11-07",
@@ -517,20 +528,64 @@
    "more": 2,
    "ts": 1794010623,
    "photo": "photos/FDL_ZAVALASALINAS_MAURICIO_2026-11-06.jpg"
-  },
-  {
-   "key": "FDL_MAYR_RYAN_2026-11-06",
-   "name": "Ryan David Mayr",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Violate Harassment Injunction",
-   "more": 1,
-   "ts": 1794007028,
-   "photo": "photos/FDL_MAYR_RYAN_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MALLORY_MONTEZ_646008",
+   "name": "Montez D Mallory",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794115660,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOHAMEDSHOBI_SADIK_648198",
+   "name": "Sadik K Mohamed Shobi",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794115657,
+   "photo": null
+  },
+  {
+   "key": "MKE_PSKET_ROBERT_648199",
+   "name": "Robert M Psket",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 2,
+   "ts": 1794115655,
+   "photo": null
+  },
+  {
+   "key": "FDL_LUNDE_ANGELA_2026-11-07",
+   "name": "Angela Jean Lunde",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "MISDEMEANOR BAIL JUMPING INTOXICATED (x2)",
+   "more": 0,
+   "ts": 1794114996,
+   "photo": "photos/FDL_LUNDE_ANGELA_2026-11-07.jpg"
+  },
+  {
+   "key": "MKE_RODRIGUEZGUZMAN_JOSE_648197",
+   "name": "Jose Jaime Rodriguez Guzman",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1794113878,
+   "photo": null
+  },
   {
    "key": "RC_ARRINGTON_JARMARIE_120011076047255",
    "name": "Jarmarie D Arrington",
@@ -584,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794104859,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_JAYLEN_624127.jpg"
   },
   {
    "key": "MAR_GRAEF_NAINNE_2026-11-07_13109002",
@@ -4985,83 +5040,6 @@
    "more": 0,
    "ts": 1793857666,
    "photo": "photos/RC_HIKES_DAMARRI_120011075954732.jpg"
-  },
-  {
-   "key": "MKE_WHALEY_QUASHAWN_642547",
-   "name": "Quashawn Calvin Whaley",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793856455,
-   "photo": "photos/MKE_WHALEY_QUASHAWN_642547.jpg"
-  },
-  {
-   "key": "MKE_EDWARDS_TIMOTHY_602375",
-   "name": "Timothy M Edwards",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793856453,
-   "photo": "photos/MKE_EDWARDS_TIMOTHY_602375.jpg"
-  },
-  {
-   "key": "DRIVER_DARIUS_2026-11-04",
-   "name": "Darius D Driver",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1793856436,
-   "photo": null
-  },
-  {
-   "key": "MKE_STREGE_AMYA_648139",
-   "name": "Amya E Strege",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793854656,
-   "photo": "photos/MKE_STREGE_AMYA_648139.jpg"
-  },
-  {
-   "key": "MKE_SINGLETON_ANTONIO_648138",
-   "name": "Antonio Michael Singleton",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793854654,
-   "photo": "photos/MKE_SINGLETON_ANTONIO_648138.jpg"
-  },
-  {
-   "key": "MAR_HULL_WENDY_2026-11-04",
-   "name": "Wendy Lynne Hull",
-   "age": "62",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 0,
-   "ts": 1793854601,
-   "photo": null
-  },
-  {
-   "key": "MAR_ALSOWITI_RHEA_2026-11-04_133709",
-   "name": "Rhea Alsowiti",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1793854565,
-   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04_133709.jpg"
   }
  ]
 }
