@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T21:57:35+00:00",
+ "updated": "2026-11-08T22:28:09+00:00",
  "items": [
+  {
+   "key": "MKE_EVANS_ANDREW_347547",
+   "name": "Andrew Cornelius Evans",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794175056,
+   "photo": null
+  },
   {
    "key": "MKE_PICKENS_CHRISTOPHER_612238",
    "name": "Christopher Pickens",
@@ -32,7 +43,7 @@
    "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
    "more": 2,
    "ts": 1794173267,
-   "photo": null
+   "photo": "photos/MKE_BAGGETT_JAMES_394038.jpg"
   },
   {
    "key": "MKE_ARRIGONI_HENRY_648206",
@@ -321,17 +332,6 @@
    "photo": null
   },
   {
-   "key": "MKE_WINSTON_PIERRE_639841",
-   "name": "Pierre Cardin Winston",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794148048,
-   "photo": "photos/MKE_WINSTON_PIERRE_639841.jpg"
-  },
-  {
    "key": "NELSON_JASON_2026-11-08",
    "name": "Jason F Nelson",
    "age": "44",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_EVANS_ANDREW_347547",
+   "name": "Andrew Cornelius Evans",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794175056,
+   "photo": null
+  },
+  {
    "key": "MKE_PICKENS_CHRISTOPHER_612238",
    "name": "Christopher Pickens",
    "age": "29",
@@ -562,7 +573,7 @@
    "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
    "more": 2,
    "ts": 1794173267,
-   "photo": null
+   "photo": "photos/MKE_BAGGETT_JAMES_394038.jpg"
   },
   {
    "key": "MKE_ARRIGONI_HENRY_648206",
@@ -4787,28 +4798,6 @@
    "more": 0,
    "ts": 1793918831,
    "photo": null
-  },
-  {
-   "key": "MKE_MARTIN_LAMONT_648149",
-   "name": "Lamont Martin",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
-   "more": 5,
-   "ts": 1793915877,
-   "photo": "photos/MKE_MARTIN_LAMONT_648149.jpg"
-  },
-  {
-   "key": "MKE_HOERIG_MICHAEL_315718",
-   "name": "Michael Brian Hoerig",
-   "age": "71",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793915875,
-   "photo": "photos/MKE_HOERIG_MICHAEL_315718.jpg"
   }
  ]
 }
