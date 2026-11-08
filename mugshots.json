@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-08T19:49:39+00:00",
+ "updated": "2026-11-08T20:34:12+00:00",
  "items": [
+  {
+   "key": "MKE_ANDERSON_DEMETRIUS_295374",
+   "name": "Demetrius Daniel Anderson",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794169667,
+   "photo": null
+  },
+  {
+   "key": "REDMOND_LEE_2026-11-08",
+   "name": "Lee H Redmond",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Negligent Handling Of Burning Material",
+   "more": 1,
+   "ts": 1794169623,
+   "photo": "photos/REDMOND_LEE_2026-11-08.jpg"
+  },
+  {
+   "key": "MKE_EASON_DEVON_411979",
+   "name": "Devon Shamar Eason",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794167863,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARZA_GABRIEL_633470",
+   "name": "Gabriel A Garza",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794167862,
+   "photo": null
+  },
+  {
+   "key": "MKE_OCLAIRECARTER_COVACHE_646312",
+   "name": "Covache Oclaire-carter",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794167860,
+   "photo": null
+  },
   {
    "key": "RC_COSEY_CHRISTOPHER_120011076060432",
    "name": "Christopher A Cosey",
@@ -343,50 +398,6 @@
    "photo": "photos/MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803.jpg"
   },
   {
-   "key": "RC_LITTLETON_MICHAEL_120011076053271",
-   "name": "Michael Littleton",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794138464,
-   "photo": "photos/RC_LITTLETON_MICHAEL_120011076053271.jpg"
-  },
-  {
-   "key": "MKE_WHITE_ANTWAN_375243",
-   "name": "Antwan Kevon White",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd Degree Reckless Homicide",
-   "more": 3,
-   "ts": 1794137267,
-   "photo": null
-  },
-  {
-   "key": "MKE_OWENS_DEVONTE_410623",
-   "name": "Devonte Robert Owens",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794137265,
-   "photo": "photos/MKE_OWENS_DEVONTE_410623.jpg"
-  },
-  {
-   "key": "MKE_GRANT_RENORVAL_509825",
-   "name": "Renorval Grant",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794137264,
-   "photo": "photos/MKE_GRANT_RENORVAL_509825.jpg"
-  },
-  {
    "key": "FDL_BENITEZMEJIA_ISAAC_2026-11-08",
    "name": "Isaac Benitez Mejia",
    "age": "",
@@ -517,20 +528,64 @@
    "more": 1,
    "ts": 1794124620,
    "photo": null
-  },
-  {
-   "key": "MAR_PIERCE_SKYILAR_2026-11-07",
-   "name": "Skyilar Lashae Pierce",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794124449,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ANDERSON_DEMETRIUS_295374",
+   "name": "Demetrius Daniel Anderson",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794169667,
+   "photo": null
+  },
+  {
+   "key": "REDMOND_LEE_2026-11-08",
+   "name": "Lee H Redmond",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Negligent Handling Of Burning Material",
+   "more": 1,
+   "ts": 1794169623,
+   "photo": "photos/REDMOND_LEE_2026-11-08.jpg"
+  },
+  {
+   "key": "MKE_EASON_DEVON_411979",
+   "name": "Devon Shamar Eason",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794167863,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARZA_GABRIEL_633470",
+   "name": "Gabriel A Garza",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794167862,
+   "photo": null
+  },
+  {
+   "key": "MKE_OCLAIRECARTER_COVACHE_646312",
+   "name": "Covache Oclaire-carter",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794167860,
+   "photo": null
+  },
   {
    "key": "RC_COSEY_CHRISTOPHER_120011076060432",
    "name": "Christopher A Cosey",
@@ -4787,116 +4842,6 @@
    "more": 0,
    "ts": 1793911671,
    "photo": "photos/RC_ANDRESEN_CONNIE_120011075980822.jpg"
-  },
-  {
-   "key": "MKE_HAWTHORNE_ROMAINE_413095",
-   "name": "Romaine Martel Hawthorne",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 5,
-   "ts": 1793910458,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARTER_ZYSEAN_636018",
-   "name": "Zysean L Carter",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 7,
-   "ts": 1793910457,
-   "photo": null
-  },
-  {
-   "key": "PALUBICKI_TIMOTHY_2026-11-05",
-   "name": "Timothy J Palubicki",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793910422,
-   "photo": null
-  },
-  {
-   "key": "KEN_SMITH_GILL_2026-00006116",
-   "name": "Gill Lavonne Smith",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793908805,
-   "photo": "photos/KEN_SMITH_GILL_2026-00006116.jpg"
-  },
-  {
-   "key": "MKE_HENRY_IVEN_648148",
-   "name": "Iven Dwight Henry",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793908668,
-   "photo": "photos/MKE_HENRY_IVEN_648148.jpg"
-  },
-  {
-   "key": "KEN_FARHAN_AMIR_2026-00006112",
-   "name": "Amir M Farhan",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1793908651,
-   "photo": "photos/KEN_FARHAN_AMIR_2026-00006112.jpg"
-  },
-  {
-   "key": "KEN_EUBANKS_ANTONIO_2026-00006115",
-   "name": "Antonio Lee Eubanks",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793908574,
-   "photo": "photos/KEN_EUBANKS_ANTONIO_2026-00006115.jpg"
-  },
-  {
-   "key": "KEN_CHAPMAN_PIERRE_2026-00006118",
-   "name": "Pierre A Chapman",
-   "age": "70",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 1,
-   "ts": 1793908495,
-   "photo": "photos/KEN_CHAPMAN_PIERRE_2026-00006118.jpg"
-  },
-  {
-   "key": "KEN_BOUWMA_MARK_2026-00006113",
-   "name": "Mark James Bouwma",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793908359,
-   "photo": null
-  },
-  {
-   "key": "MAR_SZITTA_HUNTER_2026-11-05",
-   "name": "Hunter Matthew Szitta",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1793908192,
-   "photo": "photos/MAR_SZITTA_HUNTER_2026-11-05.jpg"
   }
  ]
 }
