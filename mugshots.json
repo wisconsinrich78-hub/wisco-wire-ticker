@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-08T10:49:32+00:00",
+ "updated": "2026-11-08T11:28:11+00:00",
  "items": [
+  {
+   "key": "MKE_WHITE_ANTWAN_375243",
+   "name": "Antwan Kevon White",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd Degree Reckless Homicide",
+   "more": 3,
+   "ts": 1794137267,
+   "photo": null
+  },
+  {
+   "key": "MKE_OWENS_DEVONTE_410623",
+   "name": "Devonte Robert Owens",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794137265,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRANT_RENORVAL_509825",
+   "name": "Renorval Grant",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794137264,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_TERRY_510057",
+   "name": "Terry C Johnson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794137262,
+   "photo": null
+  },
+  {
+   "key": "MKE_COLISGARCIA_LUIS_627573",
+   "name": "Luis A Colis- Garcia",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794137260,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUFILTAIPE_RAUL_645897",
+   "name": "Raul Isreael Rufil taipe",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794137258,
+   "photo": "photos/MKE_RUFILTAIPE_RAUL_645897.jpg"
+  },
+  {
+   "key": "MKE_TLAXCALTECA_ELVIRA_648200",
+   "name": "Elvira Tlaxcalteca",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1794137256,
+   "photo": "photos/MKE_TLAXCALTECA_ELVIRA_648200.jpg"
+  },
+  {
+   "key": "MKE_BROX_DAYVON_648201",
+   "name": "Dayvon O Brox",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794137254,
+   "photo": "photos/MKE_BROX_DAYVON_648201.jpg"
+  },
+  {
+   "key": "MKE_GRAHAM_MARQUIZE_648202",
+   "name": "Marquize Graham",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794137251,
+   "photo": null
+  },
+  {
+   "key": "FDL_BENITEZMEJIA_ISAAC_2026-11-08",
+   "name": "Isaac Benitez Mejia",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x2)",
+   "more": 0,
+   "ts": 1794136564,
+   "photo": "photos/FDL_BENITEZMEJIA_ISAAC_2026-11-08.jpg"
+  },
   {
    "key": "RC_LUCERO_MICHAEL_120011076052964",
    "name": "Michael Lucero",
@@ -73,7 +183,7 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt Of Court - Disobey Order",
    "more": 0,
    "ts": 1794131768,
    "photo": "photos/KEN_FRANKLIN_DENZEL_2026-00006175.jpg"
@@ -161,10 +271,10 @@
    "age": "21",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Improper Displayof License Plates/Tag/Decal",
+   "more": 4,
    "ts": 1794124526,
-   "photo": null
+   "photo": "photos/KEN_KRUEGER_MAURIECE_2026-00006173.jpg"
   },
   {
    "key": "MAR_PIERCE_SKYILAR_2026-11-07",
@@ -233,17 +343,6 @@
    "photo": "photos/KEN_SANDERS_MARTINI_2026-00006167.jpg"
   },
   {
-   "key": "KEN_RODRIGUEZ_ANGEL_2026-00006166",
-   "name": "Angel Javier Rodriguez",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Carrying Concealed Weapon",
-   "more": 1,
-   "ts": 1794121065,
-   "photo": "photos/KEN_RODRIGUEZ_ANGEL_2026-00006166.jpg"
-  },
-  {
    "key": "SKRIBA_DANIEL_2026-11-08",
    "name": "Daniel D Skriba",
    "age": "36",
@@ -253,94 +352,6 @@
    "more": 0,
    "ts": 1794121022,
    "photo": null
-  },
-  {
-   "key": "KEN_JIMENEZGOMEZ_CLEOTILDE_2026-00006165",
-   "name": "Cleotilde Jimenez- Gomez",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L",
-   "more": 2,
-   "ts": 1794120958,
-   "photo": "photos/KEN_JIMENEZGOMEZ_CLEOTILDE_2026-00006165.jpg"
-  },
-  {
-   "key": "KEN_HOLSTER_ZANDER_2026-00006169",
-   "name": "Zander Vincent Holster",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794120886,
-   "photo": "photos/KEN_HOLSTER_ZANDER_2026-00006169.jpg"
-  },
-  {
-   "key": "KEN_FUENTESGARCIA_JUAN_2026-00006168",
-   "name": "Juan Fuentes Garcia",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794120814,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_TRAVIS_350681",
-   "name": "Travis S Williams",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1794119290,
-   "photo": "photos/MKE_WILLIAMS_TRAVIS_350681.jpg"
-  },
-  {
-   "key": "RC_ARANDA_MARGARITA_120011076048328",
-   "name": "Margarita Aranda",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Intimidate Witness/Threaten Force, etc.",
-   "more": 7,
-   "ts": 1794116887,
-   "photo": "photos/RC_ARANDA_MARGARITA_120011076048328.jpg"
-  },
-  {
-   "key": "MKE_MALLORY_MONTEZ_646008",
-   "name": "Montez D Mallory",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794115660,
-   "photo": "photos/MKE_MALLORY_MONTEZ_646008.jpg"
-  },
-  {
-   "key": "MKE_MOHAMEDSHOBI_SADIK_648198",
-   "name": "Sadik K Mohamed Shobi",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794115657,
-   "photo": "photos/MKE_MOHAMEDSHOBI_SADIK_648198.jpg"
-  },
-  {
-   "key": "MKE_PSKET_ROBERT_648199",
-   "name": "Robert M Psket",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 2,
-   "ts": 1794115655,
-   "photo": "photos/MKE_PSKET_ROBERT_648199.jpg"
   },
   {
    "key": "FDL_LUNDE_ANGELA_2026-11-07",
@@ -517,20 +528,119 @@
    "more": 0,
    "ts": 1794063805,
    "photo": "photos/MAR_GIRARD_ADAM_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_PETROSKI_AMANDA_2026-11-06_2859630",
-   "name": "Amanda Lee Petroski",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794063764,
-   "photo": "photos/MAR_PETROSKI_AMANDA_2026-11-06_2859630.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WHITE_ANTWAN_375243",
+   "name": "Antwan Kevon White",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd Degree Reckless Homicide",
+   "more": 3,
+   "ts": 1794137267,
+   "photo": null
+  },
+  {
+   "key": "MKE_OWENS_DEVONTE_410623",
+   "name": "Devonte Robert Owens",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794137265,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRANT_RENORVAL_509825",
+   "name": "Renorval Grant",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794137264,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_TERRY_510057",
+   "name": "Terry C Johnson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794137262,
+   "photo": null
+  },
+  {
+   "key": "MKE_COLISGARCIA_LUIS_627573",
+   "name": "Luis A Colis- Garcia",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794137260,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUFILTAIPE_RAUL_645897",
+   "name": "Raul Isreael Rufil taipe",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794137258,
+   "photo": "photos/MKE_RUFILTAIPE_RAUL_645897.jpg"
+  },
+  {
+   "key": "MKE_TLAXCALTECA_ELVIRA_648200",
+   "name": "Elvira Tlaxcalteca",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1794137256,
+   "photo": "photos/MKE_TLAXCALTECA_ELVIRA_648200.jpg"
+  },
+  {
+   "key": "MKE_BROX_DAYVON_648201",
+   "name": "Dayvon O Brox",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794137254,
+   "photo": "photos/MKE_BROX_DAYVON_648201.jpg"
+  },
+  {
+   "key": "MKE_GRAHAM_MARQUIZE_648202",
+   "name": "Marquize Graham",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794137251,
+   "photo": null
+  },
+  {
+   "key": "FDL_BENITEZMEJIA_ISAAC_2026-11-08",
+   "name": "Isaac Benitez Mejia",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x2)",
+   "more": 0,
+   "ts": 1794136564,
+   "photo": "photos/FDL_BENITEZMEJIA_ISAAC_2026-11-08.jpg"
+  },
   {
    "key": "RC_LUCERO_MICHAEL_120011076052964",
    "name": "Michael Lucero",
@@ -603,7 +713,7 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt Of Court - Disobey Order",
    "more": 0,
    "ts": 1794131768,
    "photo": "photos/KEN_FRANKLIN_DENZEL_2026-00006175.jpg"
@@ -691,10 +801,10 @@
    "age": "21",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Improper Displayof License Plates/Tag/Decal",
+   "more": 4,
    "ts": 1794124526,
-   "photo": null
+   "photo": "photos/KEN_KRUEGER_MAURIECE_2026-00006173.jpg"
   },
   {
    "key": "MAR_PIERCE_SKYILAR_2026-11-07",
@@ -5051,28 +5161,6 @@
    "more": 3,
    "ts": 1793880964,
    "photo": null
-  },
-  {
-   "key": "MKE_WEST_MILON_511481",
-   "name": "Milon Devontae West",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793878061,
-   "photo": "photos/MKE_WEST_MILON_511481.jpg"
-  },
-  {
-   "key": "MKE_KING_ANTHONY_204655",
-   "name": "Anthony Pernell King",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793878059,
-   "photo": "photos/MKE_KING_ANTHONY_204655.jpg"
   }
  ]
 }
