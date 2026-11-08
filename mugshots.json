@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:57:56+00:00",
+ "updated": "2026-11-08T03:49:28+00:00",
  "items": [
   {
    "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
@@ -19,7 +19,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 4,
    "ts": 1794104859,
    "photo": null
   },
@@ -87,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794099482,
-   "photo": null
+   "photo": "photos/MKE_BRUNETTE_PIERRE_330133.jpg"
   },
   {
    "key": "MKE_GREENE_BYRON_349546",
@@ -175,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794094069,
-   "photo": null
+   "photo": "photos/MKE_TORRES_BENJAMIN_648196.jpg"
   },
   {
    "key": "MKE_MASON_CHRISTIAN_648195",
@@ -186,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794092278,
-   "photo": null
+   "photo": "photos/MKE_MASON_CHRISTIAN_648195.jpg"
   },
   {
    "key": "LANG_CHRISTOPHER_2026-11-07",
@@ -549,7 +549,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 4,
    "ts": 1794104859,
    "photo": null
   },
@@ -617,7 +617,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794099482,
-   "photo": null
+   "photo": "photos/MKE_BRUNETTE_PIERRE_330133.jpg"
   },
   {
    "key": "MKE_GREENE_BYRON_349546",
@@ -705,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794094069,
-   "photo": null
+   "photo": "photos/MKE_TORRES_BENJAMIN_648196.jpg"
   },
   {
    "key": "MKE_MASON_CHRISTIAN_648195",
@@ -716,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794092278,
-   "photo": null
+   "photo": "photos/MKE_MASON_CHRISTIAN_648195.jpg"
   },
   {
    "key": "LANG_CHRISTOPHER_2026-11-07",
@@ -5139,39 +5139,6 @@
    "more": 0,
    "ts": 1793850872,
    "photo": "photos/KEN_FISHER_JOHN_2026-00006097.jpg"
-  },
-  {
-   "key": "MKE_SOBCZAKSILVA_ZAHID_635811",
-   "name": "Zahid M Sobczak-Silva",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793849262,
-   "photo": "photos/MKE_SOBCZAKSILVA_ZAHID_635811.jpg"
-  },
-  {
-   "key": "MKE_ROBERTS_JENNIFER_297593",
-   "name": "Jennifer Mcquay Roberts",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793849260,
-   "photo": "photos/MKE_ROBERTS_JENNIFER_297593.jpg"
-  },
-  {
-   "key": "FDL_PERSINGER_KYLE_2026-11-04",
-   "name": "Kyle Mitchell Persinger",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793848608,
-   "photo": null
   }
  ]
 }
