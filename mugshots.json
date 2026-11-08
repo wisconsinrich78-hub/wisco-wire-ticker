@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T11:59:56+00:00",
+ "updated": "2026-11-08T12:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_AVENDANOLOPEZ_JUAN_648203",
+   "name": "Juan Avendano-Lopez",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794140858,
+   "photo": null
+  },
+  {
+   "key": "COLE_JOHN_2026-11-08",
+   "name": "John Andrew Cole",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794140818,
+   "photo": null
+  },
+  {
+   "key": "FDL_DILLEY_CANDICE_2026-11-08",
+   "name": "Candice Ann Dilley",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Veh Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1794140175,
+   "photo": null
+  },
   {
    "key": "KEN_BRANTLEY_DAVID_2026-00006177",
    "name": "DAVID WAYNE Junior BRANTLEY",
@@ -332,17 +365,6 @@
    "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08.jpg"
   },
   {
-   "key": "RC_BRYANT_LAUREN_120011076050375",
-   "name": "Lauren Ashlee Bryant",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794124070,
-   "photo": null
-  },
-  {
    "key": "FDL_VASQUEZMARTINEZ_CARLOS_2026-11-08",
    "name": "Carlos Alberto Vasquez Martinez",
    "age": "",
@@ -506,31 +528,42 @@
    "more": 1,
    "ts": 1794070106,
    "photo": null
-  },
-  {
-   "key": "MAR_STEVENS_DANIELLE_2026-11-07",
-   "name": "Danielle Lee Stevens",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1794070039,
-   "photo": "photos/MAR_STEVENS_DANIELLE_2026-11-07.jpg"
-  },
-  {
-   "key": "FDL_BENTON_KELVIN_2026-11-07",
-   "name": "Kelvin Benton",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794064590,
-   "photo": "photos/FDL_BENTON_KELVIN_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_AVENDANOLOPEZ_JUAN_648203",
+   "name": "Juan Avendano-Lopez",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794140858,
+   "photo": null
+  },
+  {
+   "key": "COLE_JOHN_2026-11-08",
+   "name": "John Andrew Cole",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794140818,
+   "photo": null
+  },
+  {
+   "key": "FDL_DILLEY_CANDICE_2026-11-08",
+   "name": "Candice Ann Dilley",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Veh Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1794140175,
+   "photo": null
+  },
   {
    "key": "KEN_BRANTLEY_DAVID_2026-00006177",
    "name": "DAVID WAYNE Junior BRANTLEY",
@@ -5172,28 +5205,6 @@
    "more": 11,
    "ts": 1793883457,
    "photo": "photos/MKE_ALLEN_KAMAL_643775.jpg"
-  },
-  {
-   "key": "XIONG_TOU_2026-11-05",
-   "name": "Tou Chue Xiong",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1793881622,
-   "photo": null
-  },
-  {
-   "key": "FDL_BISPING_RACHEL_2026-11-05",
-   "name": "Rachel Lee Bisping",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1793880964,
-   "photo": null
   }
  ]
 }
