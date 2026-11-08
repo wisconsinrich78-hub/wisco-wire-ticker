@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T11:49:27+00:00",
+ "updated": "2026-11-08T11:59:56+00:00",
  "items": [
+  {
+   "key": "KEN_BRANTLEY_DAVID_2026-00006177",
+   "name": "DAVID WAYNE Junior BRANTLEY",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794138978,
+   "photo": "photos/KEN_BRANTLEY_DAVID_2026-00006177.jpg"
+  },
+  {
+   "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803",
+   "name": "Viengouthay Douangboupha",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 1,
+   "ts": 1794138822,
+   "photo": "photos/MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803.jpg"
+  },
   {
    "key": "RC_LITTLETON_MICHAEL_120011076053271",
    "name": "Michael Littleton",
@@ -332,17 +354,6 @@
    "photo": null
   },
   {
-   "key": "KEN_SCHONSCHECK_HOLLY_2026-00006170",
-   "name": "Holly C Schonscheck",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794121170,
-   "photo": null
-  },
-  {
    "key": "SKRIBA_DANIEL_2026-11-08",
    "name": "Daniel D Skriba",
    "age": "36",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794064590,
    "photo": "photos/FDL_BENTON_KELVIN_2026-11-07.jpg"
-  },
-  {
-   "key": "MAR_GIRARD_ADAM_2026-11-06",
-   "name": "Adam James Girard",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1794063805,
-   "photo": "photos/MAR_GIRARD_ADAM_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_BRANTLEY_DAVID_2026-00006177",
+   "name": "DAVID WAYNE Junior BRANTLEY",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794138978,
+   "photo": "photos/KEN_BRANTLEY_DAVID_2026-00006177.jpg"
+  },
+  {
+   "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803",
+   "name": "Viengouthay Douangboupha",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 1,
+   "ts": 1794138822,
+   "photo": "photos/MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803.jpg"
+  },
   {
    "key": "RC_LITTLETON_MICHAEL_120011076053271",
    "name": "Michael Littleton",
