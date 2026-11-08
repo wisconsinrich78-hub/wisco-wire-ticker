@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T23:38:03+00:00",
+ "updated": "2026-11-08T23:49:30+00:00",
  "items": [
+  {
+   "key": "BURZINSKI_DAVID_2026-11-08",
+   "name": "David E Burzinski",
+   "age": "61",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1794181629,
+   "photo": null
+  },
   {
    "key": "MKE_CORREA_ANGEL_280733",
    "name": "Angel Luis Correa",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794131617,
    "photo": null
-  },
-  {
-   "key": "SURIANO_ANTHONY_2026-11-08",
-   "name": "Anthony J Suriano",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1794131233,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "BURZINSKI_DAVID_2026-11-08",
+   "name": "David E Burzinski",
+   "age": "61",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1794181629,
+   "photo": null
+  },
   {
    "key": "MKE_CORREA_ANGEL_280733",
    "name": "Angel Luis Correa",
