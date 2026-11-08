@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T05:39:12+00:00",
+ "updated": "2026-11-08T05:49:27+00:00",
  "items": [
+  {
+   "key": "RC_ARANDA_MARGARITA_120011076048328",
+   "name": "Margarita Aranda",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Intimidate Witness/Threaten Force, etc.",
+   "more": 7,
+   "ts": 1794116887,
+   "photo": "photos/RC_ARANDA_MARGARITA_120011076048328.jpg"
+  },
   {
    "key": "MKE_MALLORY_MONTEZ_646008",
    "name": "Montez D Mallory",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1794096163,
    "photo": "photos/KEN_PAYTON_ERIC_2026-00006162.jpg"
-  },
-  {
-   "key": "KEN_MOSS_OTIS_2026-00006159",
-   "name": "Otis Vernon Moss",
-   "age": "53",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Automobile Following Too Closely",
-   "more": 3,
-   "ts": 1794096086,
-   "photo": "photos/KEN_MOSS_OTIS_2026-00006159.jpg"
   },
   {
    "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06_488620",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ARANDA_MARGARITA_120011076048328",
+   "name": "Margarita Aranda",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Intimidate Witness/Threaten Force, etc.",
+   "more": 7,
+   "ts": 1794116887,
+   "photo": "photos/RC_ARANDA_MARGARITA_120011076048328.jpg"
+  },
   {
    "key": "MKE_MALLORY_MONTEZ_646008",
    "name": "Montez D Mallory",
@@ -5029,17 +5040,6 @@
    "more": 0,
    "ts": 1793858169,
    "photo": "photos/MAR_POLZIN_DOUGLAS_2026-11-04_3020404.jpg"
-  },
-  {
-   "key": "RC_HIKES_DAMARRI_120011075954732",
-   "name": "Damarri Hikes",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793857666,
-   "photo": "photos/RC_HIKES_DAMARRI_120011075954732.jpg"
   }
  ]
 }
