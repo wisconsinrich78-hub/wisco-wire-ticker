@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T02:49:32+00:00",
+ "updated": "2026-11-08T02:57:56+00:00",
  "items": [
+  {
+   "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
+   "name": "Matthew James Wiskowski",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794106450,
+   "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816.jpg"
+  },
   {
    "key": "MKE_JOHNSON_JAYLEN_624127",
    "name": "Jaylen JP Johnson",
@@ -486,17 +497,6 @@
    "photo": "photos/MAR_PETROSKI_AMANDA_2026-11-06.jpg"
   },
   {
-   "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06",
-   "name": "Sevastian Michael Bolanos",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 5,
-   "ts": 1794020247,
-   "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06.jpg"
-  },
-  {
    "key": "HAGER_TYLER_2026-11-06",
    "name": "Tyler Michael Jens Hager",
    "age": "35",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
+   "name": "Matthew James Wiskowski",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794106450,
+   "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816.jpg"
+  },
   {
    "key": "MKE_JOHNSON_JAYLEN_624127",
    "name": "Jaylen JP Johnson",
@@ -5160,39 +5171,6 @@
    "charge": "Transport - Warrant",
    "more": 0,
    "ts": 1793848608,
-   "photo": null
-  },
-  {
-   "key": "MAR_GOSCH_TAMMIE_2026-11-02_547917",
-   "name": "Tammie Annette Gosch",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793847385,
-   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-02_547917.jpg"
-  },
-  {
-   "key": "MAR_SWAN_MATTHEW_2026-11-04",
-   "name": "Matthew Kristopher Swan",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Take/Drive/Oper. Veh. W/O Consent-Abandn",
-   "more": 0,
-   "ts": 1793847350,
-   "photo": null
-  },
-  {
-   "key": "KEN_THOMPSON_ROBERT_2026-00006096",
-   "name": "Robert Thompson",
-   "age": "63",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Physical Abuse Of Elder Person/Adult At Risk-Int Cause Bodily Harm",
-   "more": 0,
-   "ts": 1793847283,
    "photo": null
   }
  ]
