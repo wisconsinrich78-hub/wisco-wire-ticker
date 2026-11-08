@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-08T09:49:40+00:00",
+ "updated": "2026-11-08T10:29:03+00:00",
  "items": [
+  {
+   "key": "DOU_RINAS_RYANN_2026-11-08",
+   "name": "Ryann R Rinas",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794133030,
+   "photo": "photos/DOU_RINAS_RYANN_2026-11-08.jpg"
+  },
+  {
+   "key": "FDL_SEQUENSICAN_ALEXANDRO_2026-11-08",
+   "name": "Alexandro Sequen Sican",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Operate W/O Valid Licnse (2Nd Offense W/In 3 Years)",
+   "more": 0,
+   "ts": 1794133014,
+   "photo": "photos/FDL_SEQUENSICAN_ALEXANDRO_2026-11-08.jpg"
+  },
+  {
+   "key": "KEN_FRANKLIN_DENZEL_2026-00006175",
+   "name": "Denzel Derreal Franklin",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794131768,
+   "photo": "photos/KEN_FRANKLIN_DENZEL_2026-00006175.jpg"
+  },
+  {
+   "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07",
+   "name": "Viengouthay Douangboupha",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 1,
+   "ts": 1794131659,
+   "photo": "photos/MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07.jpg"
+  },
+  {
+   "key": "MAR_POWELL_BRAEDON_2026-11-08",
+   "name": "Braedon William Powell",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1794131617,
+   "photo": null
+  },
   {
    "key": "SURIANO_ANTHONY_2026-11-08",
    "name": "Anthony J Suriano",
@@ -51,7 +106,7 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resisting Or Obstructing An Officer",
    "more": 0,
    "ts": 1794124563,
    "photo": null
@@ -117,8 +172,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1794121170,
    "photo": null
   },
@@ -128,8 +183,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Cocaine/Coca 2Nd+",
+   "more": 2,
    "ts": 1794121135,
    "photo": "photos/KEN_SANDERS_MARTINI_2026-00006167.jpg"
   },
@@ -264,17 +319,6 @@
    "more": 0,
    "ts": 1794113878,
    "photo": "photos/MKE_RODRIGUEZGUZMAN_JOSE_648197.jpg"
-  },
-  {
-   "key": "RC_ARRINGTON_JARMARIE_120011076047255",
-   "name": "Jarmarie D Arrington",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1794113311,
-   "photo": null
   },
   {
    "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
@@ -453,39 +497,6 @@
    "photo": "photos/MAR_PETROSKI_AMANDA_2026-11-06_2859630.jpg"
   },
   {
-   "key": "MAR_WERT_SABRINA_2026-11-06",
-   "name": "Sabrina Lee Wert",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Intentionally Abuse Hazardous Substance",
-   "more": 0,
-   "ts": 1794063723,
-   "photo": "photos/MAR_WERT_SABRINA_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_FROST_AUSTAN_2026-11-07",
-   "name": "Austan M Frost",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794063682,
-   "photo": "photos/MAR_FROST_AUSTAN_2026-11-07.jpg"
-  },
-  {
-   "key": "MAR_GRAEF_NAINNE_2026-11-07",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794063641,
-   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-07.jpg"
-  },
-  {
    "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
    "name": "Dustin James Krueger",
    "age": "",
@@ -517,20 +528,64 @@
    "more": 1,
    "ts": 1794050161,
    "photo": "photos/FDL_BISSETTE_JOSHUA_2026-11-07.jpg"
-  },
-  {
-   "key": "TREM_EDDY_NICOLE_6205",
-   "name": "Nicole Lydia Liz Eddy",
-   "age": "42",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794048432,
-   "photo": "photos/TREM_EDDY_NICOLE_6205.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_RINAS_RYANN_2026-11-08",
+   "name": "Ryann R Rinas",
+   "age": "35",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794133030,
+   "photo": "photos/DOU_RINAS_RYANN_2026-11-08.jpg"
+  },
+  {
+   "key": "FDL_SEQUENSICAN_ALEXANDRO_2026-11-08",
+   "name": "Alexandro Sequen Sican",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Operate W/O Valid Licnse (2Nd Offense W/In 3 Years)",
+   "more": 0,
+   "ts": 1794133014,
+   "photo": "photos/FDL_SEQUENSICAN_ALEXANDRO_2026-11-08.jpg"
+  },
+  {
+   "key": "KEN_FRANKLIN_DENZEL_2026-00006175",
+   "name": "Denzel Derreal Franklin",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794131768,
+   "photo": "photos/KEN_FRANKLIN_DENZEL_2026-00006175.jpg"
+  },
+  {
+   "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07",
+   "name": "Viengouthay Douangboupha",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 4Th",
+   "more": 1,
+   "ts": 1794131659,
+   "photo": "photos/MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07.jpg"
+  },
+  {
+   "key": "MAR_POWELL_BRAEDON_2026-11-08",
+   "name": "Braedon William Powell",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1794131617,
+   "photo": null
+  },
   {
    "key": "SURIANO_ANTHONY_2026-11-08",
    "name": "Anthony J Suriano",
@@ -581,7 +636,7 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resisting Or Obstructing An Officer",
    "more": 0,
    "ts": 1794124563,
    "photo": null
@@ -647,8 +702,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1794121170,
    "photo": null
   },
@@ -658,8 +713,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Cocaine/Coca 2Nd+",
+   "more": 2,
    "ts": 1794121135,
    "photo": "photos/KEN_SANDERS_MARTINI_2026-00006167.jpg"
   },
@@ -4985,39 +5040,6 @@
    "more": 0,
    "ts": 1793875629,
    "photo": "photos/TREM_MORFORD_SCOTT_1844.jpg"
-  },
-  {
-   "key": "MKE_SHINE_CURTIS_648145",
-   "name": "Curtis Lee Shine",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793872665,
-   "photo": "photos/MKE_SHINE_CURTIS_648145.jpg"
-  },
-  {
-   "key": "MKE_KAYWOOD_STEVEN_621288",
-   "name": "Steven L Kaywood",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793872662,
-   "photo": "photos/MKE_KAYWOOD_STEVEN_621288.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_CALI_648144",
-   "name": "Cali A Johnson",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793872660,
-   "photo": "photos/MKE_JOHNSON_CALI_648144.jpg"
   }
  ]
 }
