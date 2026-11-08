@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T07:49:33+00:00",
+ "updated": "2026-11-08T07:55:53+00:00",
  "items": [
+  {
+   "key": "KEN_KRUEGER_MAURIECE_2026-00006173",
+   "name": "Mauriece Krueger",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794124526,
+   "photo": null
+  },
+  {
+   "key": "MAR_PIERCE_SKYILAR_2026-11-07",
+   "name": "Skyilar Lashae Pierce",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794124449,
+   "photo": null
+  },
+  {
+   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-08",
+   "name": "Nathan Thomas Hagenbucher",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794124411,
+   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08.jpg"
+  },
   {
    "key": "RC_BRYANT_LAUREN_120011076050375",
    "name": "Lauren Ashlee Bryant",
@@ -198,17 +231,6 @@
    "more": 0,
    "ts": 1794113309,
    "photo": "photos/RC_JOHNSTON_SCOTT_120011076047346.jpg"
-  },
-  {
-   "key": "MKE_THOR_ELIZABETH_613515",
-   "name": "Elizabeth Thor",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
-   "more": 0,
-   "ts": 1794110250,
-   "photo": "photos/MKE_THOR_ELIZABETH_613515.jpg"
   },
   {
    "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
@@ -431,17 +453,6 @@
    "photo": "photos/MAR_DREMLER_JOSHUA_2026-11-07.jpg"
   },
   {
-   "key": "MAR_KIEFER_TRISTON_2026-11-07",
-   "name": "Triston Scott Kiefer",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 1,
-   "ts": 1794063551,
-   "photo": "photos/MAR_KIEFER_TRISTON_2026-11-07.jpg"
-  },
-  {
    "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
    "name": "Dustin James Krueger",
    "age": "",
@@ -517,20 +528,42 @@
    "more": 5,
    "ts": 1794025010,
    "photo": "photos/FDL_SCHRAMMBLAKE_NICHOLAS_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_PETROSKI_AMANDA_2026-11-06",
-   "name": "Amanda Lee Petroski",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794023710,
-   "photo": "photos/MAR_PETROSKI_AMANDA_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_KRUEGER_MAURIECE_2026-00006173",
+   "name": "Mauriece Krueger",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794124526,
+   "photo": null
+  },
+  {
+   "key": "MAR_PIERCE_SKYILAR_2026-11-07",
+   "name": "Skyilar Lashae Pierce",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794124449,
+   "photo": null
+  },
+  {
+   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-08",
+   "name": "Nathan Thomas Hagenbucher",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794124411,
+   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08.jpg"
+  },
   {
    "key": "RC_BRYANT_LAUREN_120011076050375",
    "name": "Lauren Ashlee Bryant",
