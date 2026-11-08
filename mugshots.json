@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T03:49:28+00:00",
+ "updated": "2026-11-08T04:27:35+00:00",
  "items": [
+  {
+   "key": "MKE_THOR_ELIZABETH_613515",
+   "name": "Elizabeth Thor",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
+   "more": 0,
+   "ts": 1794110250,
+   "photo": null
+  },
   {
    "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
    "name": "Matthew James Wiskowski",
@@ -277,17 +288,6 @@
    "photo": "photos/MAR_STEVENS_DANIELLE_2026-11-07_19211.jpg"
   },
   {
-   "key": "MKE_DAVIS_TAHERRA_527224",
-   "name": "Taherra La Ray Davis",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794081476,
-   "photo": "photos/MKE_DAVIS_TAHERRA_527224.jpg"
-  },
-  {
    "key": "AUSTAD_DYLAN_2026-11-07",
    "name": "Dylan Edward Austad",
    "age": "32",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_THOR_ELIZABETH_613515",
+   "name": "Elizabeth Thor",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
+   "more": 0,
+   "ts": 1794110250,
+   "photo": null
+  },
   {
    "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
    "name": "Matthew James Wiskowski",
@@ -5040,105 +5051,6 @@
    "more": 0,
    "ts": 1793854073,
    "photo": null
-  },
-  {
-   "key": "MAR_BURKS_MATTHEW_2026-11-04",
-   "name": "Matthew Campbell Burks",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793851152,
-   "photo": "photos/MAR_BURKS_MATTHEW_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_LAMPKIN_ADAM_2026-11-04_4269520",
-   "name": "Adam John Lampkin",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793851112,
-   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-04_4269520.jpg"
-  },
-  {
-   "key": "MAR_WIDMANN_CHAD_2026-11-04_2985307",
-   "name": "Chad Charles Widmann",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793851075,
-   "photo": "photos/MAR_WIDMANN_CHAD_2026-11-04_2985307.jpg"
-  },
-  {
-   "key": "MKE_MALONE_KEANDRE_645336",
-   "name": "Keandre DT Malone",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793851057,
-   "photo": "photos/MKE_MALONE_KEANDRE_645336.jpg"
-  },
-  {
-   "key": "MKE_LEMON_CRAIG_377671",
-   "name": "Craig Lemon Lemon",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793851054,
-   "photo": "photos/MKE_LEMON_CRAIG_377671.jpg"
-  },
-  {
-   "key": "MKE_COOPER_THOMAS_2030114",
-   "name": "Thomas P Cooper",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793851052,
-   "photo": "photos/MKE_COOPER_THOMAS_2030114.jpg"
-  },
-  {
-   "key": "MAR_LINDQUIST_JUSTIN_2026-11-04_2337703",
-   "name": "Justin Michael Lindquist",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Make Terrorist Threats",
-   "more": 0,
-   "ts": 1793851038,
-   "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04_2337703.jpg"
-  },
-  {
-   "key": "MAR_BARTHEL_CRYSTAL_2026-11-04_312204",
-   "name": "Crystal Starr Barthel",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1793851000,
-   "photo": "photos/MAR_BARTHEL_CRYSTAL_2026-11-04_312204.jpg"
-  },
-  {
-   "key": "KEN_FISHER_JOHN_2026-00006097",
-   "name": "John Henry Fisher",
-   "age": "72",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793850872,
-   "photo": "photos/KEN_FISHER_JOHN_2026-00006097.jpg"
   }
  ]
 }
