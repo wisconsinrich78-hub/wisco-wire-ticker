@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-07T23:49:39+00:00",
+ "updated": "2026-11-08T00:04:10+00:00",
  "items": [
+  {
+   "key": "KEN_RIVECCO_MARCO_2026-00006164",
+   "name": "Marco Joseph Rivecco",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794096237,
+   "photo": "photos/KEN_RIVECCO_MARCO_2026-00006164.jpg"
+  },
+  {
+   "key": "KEN_PAYTON_ERIC_2026-00006162",
+   "name": "Eric Payton",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Disobey Order",
+   "more": 0,
+   "ts": 1794096163,
+   "photo": "photos/KEN_PAYTON_ERIC_2026-00006162.jpg"
+  },
+  {
+   "key": "KEN_MOSS_OTIS_2026-00006159",
+   "name": "Otis Vernon Moss",
+   "age": "53",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Automobile Following Too Closely",
+   "more": 3,
+   "ts": 1794096086,
+   "photo": "photos/KEN_MOSS_OTIS_2026-00006159.jpg"
+  },
+  {
+   "key": "KEN_AGUILAR_ALLAN_2026-00006160",
+   "name": "Allan Anthony Aguilar",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Theft-Business Setting >$10000-$100000",
+   "more": 0,
+   "ts": 1794095960,
+   "photo": "photos/KEN_AGUILAR_ALLAN_2026-00006160.jpg"
+  },
+  {
+   "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06_488620",
+   "name": "Sevastian Michael Bolanos",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 5,
+   "ts": 1794095648,
+   "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06_488620.jpg"
+  },
   {
    "key": "MKE_TORRES_BENJAMIN_648196",
    "name": "Benjamin Torres",
@@ -198,50 +253,6 @@
    "more": 0,
    "ts": 1794074499,
    "photo": "photos/KEN_DANIELS_NICHOLAS_2026-00006158.jpg"
-  },
-  {
-   "key": "MKE_ROLLINS_JAVONDRE_648190",
-   "name": "Javondre Lee Rollins",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794072468,
-   "photo": "photos/MKE_ROLLINS_JAVONDRE_648190.jpg"
-  },
-  {
-   "key": "MKE_TRAYLOR_LATASHIA_647538",
-   "name": "Latashia P Traylor",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794070677,
-   "photo": "photos/MKE_TRAYLOR_LATASHIA_647538.jpg"
-  },
-  {
-   "key": "MKE_PERKINS_ANTHONY_648188",
-   "name": "Anthony E Perkins",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 8,
-   "ts": 1794070675,
-   "photo": "photos/MKE_PERKINS_ANTHONY_648188.jpg"
-  },
-  {
-   "key": "MKE_DELAROSA_SHAVONTAE_648189",
-   "name": "Shavontae L Delarosa",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794070673,
-   "photo": null
   },
   {
    "key": "MAR_PREBIL_JENNIFER_2026-11-07",
@@ -497,17 +508,6 @@
    "photo": "photos/FDL_ZAVALASALINAS_MAURICIO_2026-11-06.jpg"
   },
   {
-   "key": "MAR_HOLMAN_KURTIS_2026-11-06",
-   "name": "Kurtis Neil Holman",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1St Degree Child Sex Assault - Sexual Contact With Person Un",
-   "more": 1,
-   "ts": 1794010007,
-   "photo": "photos/MAR_HOLMAN_KURTIS_2026-11-06.jpg"
-  },
-  {
    "key": "FDL_MAYR_RYAN_2026-11-06",
    "name": "Ryan David Mayr",
    "age": "",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_RIVECCO_MARCO_2026-00006164",
+   "name": "Marco Joseph Rivecco",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794096237,
+   "photo": "photos/KEN_RIVECCO_MARCO_2026-00006164.jpg"
+  },
+  {
+   "key": "KEN_PAYTON_ERIC_2026-00006162",
+   "name": "Eric Payton",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Disobey Order",
+   "more": 0,
+   "ts": 1794096163,
+   "photo": "photos/KEN_PAYTON_ERIC_2026-00006162.jpg"
+  },
+  {
+   "key": "KEN_MOSS_OTIS_2026-00006159",
+   "name": "Otis Vernon Moss",
+   "age": "53",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Automobile Following Too Closely",
+   "more": 3,
+   "ts": 1794096086,
+   "photo": "photos/KEN_MOSS_OTIS_2026-00006159.jpg"
+  },
+  {
+   "key": "KEN_AGUILAR_ALLAN_2026-00006160",
+   "name": "Allan Anthony Aguilar",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Theft-Business Setting >$10000-$100000",
+   "more": 0,
+   "ts": 1794095960,
+   "photo": "photos/KEN_AGUILAR_ALLAN_2026-00006160.jpg"
+  },
+  {
+   "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06_488620",
+   "name": "Sevastian Michael Bolanos",
+   "age": "21",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 5,
+   "ts": 1794095648,
+   "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06_488620.jpg"
+  },
   {
    "key": "MKE_TORRES_BENJAMIN_648196",
    "name": "Benjamin Torres",
@@ -5205,50 +5260,6 @@
    "more": 1,
    "ts": 1793838458,
    "photo": null
-  },
-  {
-   "key": "MAR_BOGE_JOSHUA_2026-11-04",
-   "name": "Joshua Douglas Boge",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793836663,
-   "photo": "photos/MAR_BOGE_JOSHUA_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_LINDQUIST_JUSTIN_2026-11-04",
-   "name": "Justin Michael Lindquist",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Make Terrorist Threats",
-   "more": 0,
-   "ts": 1793836621,
-   "photo": "photos/MAR_LINDQUIST_JUSTIN_2026-11-04.jpg"
-  },
-  {
-   "key": "MAR_BENDER_CEDRICK_2026-11-04_11104",
-   "name": "Cedrick Antwan Bender",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1793836581,
-   "photo": "photos/MAR_BENDER_CEDRICK_2026-11-04_11104.jpg"
-  },
-  {
-   "key": "KEN_NICHOLS_DEUNDRA_2026-00006094",
-   "name": "Deundra Da Mircle Nichols",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1793836565,
-   "photo": "photos/KEN_NICHOLS_DEUNDRA_2026-00006094.jpg"
   }
  ]
 }
