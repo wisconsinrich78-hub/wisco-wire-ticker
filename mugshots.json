@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T20:49:29+00:00",
+ "updated": "2026-11-08T21:49:27+00:00",
  "items": [
+  {
+   "key": "DOYLE_KENNETH_2026-11-08",
+   "name": "Kenneth A Doyle",
+   "age": "70",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794174431,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAGGETT_JAMES_394038",
+   "name": "James Baggett",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
+   "more": 2,
+   "ts": 1794173267,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARRIGONI_HENRY_648206",
+   "name": "Henry Arrigoni",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794173265,
+   "photo": null
+  },
   {
    "key": "MKE_ANDERSON_DEMETRIUS_295374",
    "name": "Demetrius Daniel Anderson",
@@ -43,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794167862,
-   "photo": null
+   "photo": "photos/MKE_GARZA_GABRIEL_633470.jpg"
   },
   {
    "key": "MKE_OCLAIRECARTER_COVACHE_646312",
@@ -343,17 +376,6 @@
    "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206.jpg"
   },
   {
-   "key": "MKE_AVENDANOLOPEZ_JUAN_648203",
-   "name": "Juan Avendano-Lopez",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794140858,
-   "photo": "photos/MKE_AVENDANOLOPEZ_JUAN_648203.jpg"
-  },
-  {
    "key": "COLE_JOHN_2026-11-08",
    "name": "John Andrew Cole",
    "age": "45",
@@ -374,17 +396,6 @@
    "more": 0,
    "ts": 1794140175,
    "photo": null
-  },
-  {
-   "key": "KEN_BRANTLEY_DAVID_2026-00006177",
-   "name": "DAVID WAYNE Junior BRANTLEY",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (1St)",
-   "more": 0,
-   "ts": 1794138978,
-   "photo": "photos/KEN_BRANTLEY_DAVID_2026-00006177.jpg"
   },
   {
    "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1794125824,
    "photo": "photos/DOU_SMITH_DEAUNDRA_2026-11-08.jpg"
-  },
-  {
-   "key": "OVERBY_EMMA_2026-11-08",
-   "name": "Emma G Overby",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery Or Threat To Judge",
-   "more": 1,
-   "ts": 1794124620,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "DOYLE_KENNETH_2026-11-08",
+   "name": "Kenneth A Doyle",
+   "age": "70",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794174431,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAGGETT_JAMES_394038",
+   "name": "James Baggett",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
+   "more": 2,
+   "ts": 1794173267,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARRIGONI_HENRY_648206",
+   "name": "Henry Arrigoni",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794173265,
+   "photo": null
+  },
   {
    "key": "MKE_ANDERSON_DEMETRIUS_295374",
    "name": "Demetrius Daniel Anderson",
@@ -573,7 +606,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794167862,
-   "photo": null
+   "photo": "photos/MKE_GARZA_GABRIEL_633470.jpg"
   },
   {
    "key": "MKE_OCLAIRECARTER_COVACHE_646312",
@@ -4776,61 +4809,6 @@
    "more": 1,
    "ts": 1793915825,
    "photo": null
-  },
-  {
-   "key": "RC_THOMPSONNORTON_MICHAEL_120011075983104",
-   "name": "Michael Eugene Thompson-Norton",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793915277,
-   "photo": "photos/RC_THOMPSONNORTON_MICHAEL_120011075983104.jpg"
-  },
-  {
-   "key": "RC_EDER_ALAN_120011075982615",
-   "name": "Alan R Eder",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793915274,
-   "photo": "photos/RC_EDER_ALAN_120011075982615.jpg"
-  },
-  {
-   "key": "MKE_SHELBY_AVERY_618341",
-   "name": "Avery Alexander Shelby",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793914056,
-   "photo": "photos/MKE_SHELBY_AVERY_618341.jpg"
-  },
-  {
-   "key": "MKE_HAWKINS_DANIEL_340124",
-   "name": "Daniel Hawkins",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine/Coca (2nd+)",
-   "more": 3,
-   "ts": 1793914055,
-   "photo": "photos/MKE_HAWKINS_DANIEL_340124.jpg"
-  },
-  {
-   "key": "MKE_CARRINGTON_ALEXIS_385243",
-   "name": "Alexis Brittany Carrington",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793914053,
-   "photo": "photos/MKE_CARRINGTON_ALEXIS_385243.jpg"
   }
  ]
 }
