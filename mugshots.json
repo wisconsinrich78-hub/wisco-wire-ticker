@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-08T06:49:30+00:00",
+ "updated": "2026-11-08T07:28:50+00:00",
  "items": [
+  {
+   "key": "FDL_VASQUEZMARTINEZ_CARLOS_2026-11-08",
+   "name": "Carlos Alberto Vasquez Martinez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 0,
+   "ts": 1794122229,
+   "photo": null
+  },
+  {
+   "key": "KEN_SCHONSCHECK_HOLLY_2026-00006170",
+   "name": "Holly C Schonscheck",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794121170,
+   "photo": null
+  },
+  {
+   "key": "KEN_SANDERS_MARTINI_2026-00006167",
+   "name": "Martini A Sanders",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794121135,
+   "photo": "photos/KEN_SANDERS_MARTINI_2026-00006167.jpg"
+  },
+  {
+   "key": "KEN_RODRIGUEZ_ANGEL_2026-00006166",
+   "name": "Angel Javier Rodriguez",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Carrying Concealed Weapon",
+   "more": 1,
+   "ts": 1794121065,
+   "photo": "photos/KEN_RODRIGUEZ_ANGEL_2026-00006166.jpg"
+  },
+  {
+   "key": "SKRIBA_DANIEL_2026-11-08",
+   "name": "Daniel D Skriba",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794121022,
+   "photo": null
+  },
+  {
+   "key": "KEN_JIMENEZGOMEZ_CLEOTILDE_2026-00006165",
+   "name": "Cleotilde Jimenez- Gomez",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid D/L",
+   "more": 2,
+   "ts": 1794120958,
+   "photo": "photos/KEN_JIMENEZGOMEZ_CLEOTILDE_2026-00006165.jpg"
+  },
+  {
+   "key": "KEN_HOLSTER_ZANDER_2026-00006169",
+   "name": "Zander Vincent Holster",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794120886,
+   "photo": "photos/KEN_HOLSTER_ZANDER_2026-00006169.jpg"
+  },
+  {
+   "key": "KEN_FUENTESGARCIA_JUAN_2026-00006168",
+   "name": "Juan Fuentes Garcia",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794120814,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_TRAVIS_350681",
    "name": "Travis S Williams",
@@ -10,7 +98,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1794119290,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_TRAVIS_350681.jpg"
   },
   {
    "key": "RC_ARANDA_MARGARITA_120011076048328",
@@ -43,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794115657,
-   "photo": null
+   "photo": "photos/MKE_MOHAMEDSHOBI_SADIK_648198.jpg"
   },
   {
    "key": "MKE_PSKET_ROBERT_648199",
@@ -76,7 +164,7 @@
    "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 0,
    "ts": 1794113878,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZGUZMAN_JOSE_648197.jpg"
   },
   {
    "key": "RC_ARRINGTON_JARMARIE_120011076047255",
@@ -156,28 +244,6 @@
    "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07.jpg"
   },
   {
-   "key": "RC_FLUETTE_JEFFREY_120011076044707",
-   "name": "Jeffrey Kurt Fluette",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1794102474,
-   "photo": "photos/RC_FLUETTE_JEFFREY_120011076044707.jpg"
-  },
-  {
-   "key": "RC_MEEKS_ORLANDO_120011076045279",
-   "name": "Orlando Marcell Meeks",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794102471,
-   "photo": "photos/RC_MEEKS_ORLANDO_120011076045279.jpg"
-  },
-  {
    "key": "BERRYMAN_KATHY_2026-11-07",
    "name": "Kathy J Berryman",
    "age": "52",
@@ -187,50 +253,6 @@
    "more": 0,
    "ts": 1794102430,
    "photo": null
-  },
-  {
-   "key": "MKE_BRUNETTE_PIERRE_330133",
-   "name": "Pierre Michael Brunette",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794099482,
-   "photo": "photos/MKE_BRUNETTE_PIERRE_330133.jpg"
-  },
-  {
-   "key": "MKE_GREENE_BYRON_349546",
-   "name": "Byron Spencer Greene",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794097697,
-   "photo": "photos/MKE_GREENE_BYRON_349546.jpg"
-  },
-  {
-   "key": "KEN_SHIRE_WILLIAM_2026-00006163",
-   "name": "William Nathan Shire",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 5,
-   "ts": 1794096313,
-   "photo": "photos/KEN_SHIRE_WILLIAM_2026-00006163.jpg"
-  },
-  {
-   "key": "KEN_RIVECCO_MARCO_2026-00006164",
-   "name": "Marco Joseph Rivecco",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794096237,
-   "photo": "photos/KEN_RIVECCO_MARCO_2026-00006164.jpg"
   },
   {
    "key": "MAR_BOLANOS_SEVASTIAN_2026-11-06_488620",
@@ -506,31 +528,97 @@
    "more": 0,
    "ts": 1794023710,
    "photo": "photos/MAR_PETROSKI_AMANDA_2026-11-06.jpg"
-  },
-  {
-   "key": "HAGER_TYLER_2026-11-06",
-   "name": "Tyler Michael Jens Hager",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794013020,
-   "photo": null
-  },
-  {
-   "key": "FDL_ZAVALASALINAS_MAURICIO_2026-11-06",
-   "name": "Mauricio J Zavala Salinas",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1794010623,
-   "photo": "photos/FDL_ZAVALASALINAS_MAURICIO_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_VASQUEZMARTINEZ_CARLOS_2026-11-08",
+   "name": "Carlos Alberto Vasquez Martinez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 0,
+   "ts": 1794122229,
+   "photo": null
+  },
+  {
+   "key": "KEN_SCHONSCHECK_HOLLY_2026-00006170",
+   "name": "Holly C Schonscheck",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794121170,
+   "photo": null
+  },
+  {
+   "key": "KEN_SANDERS_MARTINI_2026-00006167",
+   "name": "Martini A Sanders",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794121135,
+   "photo": "photos/KEN_SANDERS_MARTINI_2026-00006167.jpg"
+  },
+  {
+   "key": "KEN_RODRIGUEZ_ANGEL_2026-00006166",
+   "name": "Angel Javier Rodriguez",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Carrying Concealed Weapon",
+   "more": 1,
+   "ts": 1794121065,
+   "photo": "photos/KEN_RODRIGUEZ_ANGEL_2026-00006166.jpg"
+  },
+  {
+   "key": "SKRIBA_DANIEL_2026-11-08",
+   "name": "Daniel D Skriba",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794121022,
+   "photo": null
+  },
+  {
+   "key": "KEN_JIMENEZGOMEZ_CLEOTILDE_2026-00006165",
+   "name": "Cleotilde Jimenez- Gomez",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid D/L",
+   "more": 2,
+   "ts": 1794120958,
+   "photo": "photos/KEN_JIMENEZGOMEZ_CLEOTILDE_2026-00006165.jpg"
+  },
+  {
+   "key": "KEN_HOLSTER_ZANDER_2026-00006169",
+   "name": "Zander Vincent Holster",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794120886,
+   "photo": "photos/KEN_HOLSTER_ZANDER_2026-00006169.jpg"
+  },
+  {
+   "key": "KEN_FUENTESGARCIA_JUAN_2026-00006168",
+   "name": "Juan Fuentes Garcia",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794120814,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_TRAVIS_350681",
    "name": "Travis S Williams",
@@ -540,7 +628,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1794119290,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_TRAVIS_350681.jpg"
   },
   {
    "key": "RC_ARANDA_MARGARITA_120011076048328",
@@ -573,7 +661,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794115657,
-   "photo": null
+   "photo": "photos/MKE_MOHAMEDSHOBI_SADIK_648198.jpg"
   },
   {
    "key": "MKE_PSKET_ROBERT_648199",
@@ -606,7 +694,7 @@
    "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 0,
    "ts": 1794113878,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZGUZMAN_JOSE_648197.jpg"
   },
   {
    "key": "RC_ARRINGTON_JARMARIE_120011076047255",
@@ -757,8 +845,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1794096237,
    "photo": "photos/KEN_RIVECCO_MARCO_2026-00006164.jpg"
   },
@@ -4940,17 +5028,6 @@
    "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1793864834,
-   "photo": null
-  },
-  {
-   "key": "WEDWICK_JOSHUA_2026-11-05",
-   "name": "Joshua A Wedwick",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793862072,
    "photo": null
   }
  ]
