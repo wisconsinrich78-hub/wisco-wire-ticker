@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T07:28:50+00:00",
+ "updated": "2026-11-08T07:49:33+00:00",
  "items": [
+  {
+   "key": "RC_BRYANT_LAUREN_120011076050375",
+   "name": "Lauren Ashlee Bryant",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794124070,
+   "photo": null
+  },
   {
    "key": "FDL_VASQUEZMARTINEZ_CARLOS_2026-11-08",
    "name": "Carlos Alberto Vasquez Martinez",
@@ -209,17 +220,6 @@
    "more": 1,
    "ts": 1794106450,
    "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_JAYLEN_624127",
-   "name": "Jaylen JP Johnson",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794104859,
-   "photo": "photos/MKE_JOHNSON_JAYLEN_624127.jpg"
   },
   {
    "key": "MAR_GRAEF_NAINNE_2026-11-07_13109002",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BRYANT_LAUREN_120011076050375",
+   "name": "Lauren Ashlee Bryant",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794124070,
+   "photo": null
+  },
   {
    "key": "FDL_VASQUEZMARTINEZ_CARLOS_2026-11-08",
    "name": "Carlos Alberto Vasquez Martinez",
@@ -5017,17 +5028,6 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1793865457,
-   "photo": null
-  },
-  {
-   "key": "KUPKA_RILEY_2026-11-05",
-   "name": "Riley N Kupka",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793864834,
    "photo": null
   }
  ]
