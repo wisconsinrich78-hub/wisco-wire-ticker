@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T01:49:29+00:00",
+ "updated": "2026-11-08T02:28:18+00:00",
  "items": [
+  {
+   "key": "MKE_JOHNSON_JAYLEN_624127",
+   "name": "Jaylen JP Johnson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794104859,
+   "photo": null
+  },
+  {
+   "key": "MAR_GRAEF_NAINNE_2026-11-07_13109002",
+   "name": "Nainne Graef",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794102903,
+   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-07_13109002.jpg"
+  },
+  {
+   "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07",
+   "name": "Matthew James Wiskowski",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794102839,
+   "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07.jpg"
+  },
   {
    "key": "RC_FLUETTE_JEFFREY_120011076044707",
    "name": "Jeffrey Kurt Fluette",
@@ -40,8 +73,8 @@
    "age": "51",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794099482,
    "photo": null
   },
@@ -175,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794086887,
-   "photo": null
+   "photo": "photos/MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995.jpg"
   },
   {
    "key": "JONSGAARD_LUCAS_2026-11-07",
@@ -208,7 +241,7 @@
    "charge": "Resisting or Obstructing an Officer (Forfeiture)",
    "more": 0,
    "ts": 1794083275,
-   "photo": null
+   "photo": "photos/MKE_SINGH_VIKRAMTIT_648194.jpg"
   },
   {
    "key": "MAR_PREBIL_JENNIFER_2026-11-07_17073601",
@@ -242,17 +275,6 @@
    "more": 4,
    "ts": 1794081476,
    "photo": "photos/MKE_DAVIS_TAHERRA_527224.jpg"
-  },
-  {
-   "key": "MKE_BACK_CHRISTOPHER_633008",
-   "name": "Christopher John Back",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794081475,
-   "photo": null
   },
   {
    "key": "AUSTAD_DYLAN_2026-11-07",
@@ -475,28 +497,6 @@
    "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06.jpg"
   },
   {
-   "key": "MAR_SIKORA_TRAVIS_2026-11-06_563706",
-   "name": "Travis John Sikora",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794016546,
-   "photo": "photos/MAR_SIKORA_TRAVIS_2026-11-06_563706.jpg"
-  },
-  {
-   "key": "DOU_NORTON_CHARLES_2026-11-06",
-   "name": "Charles A Norton",
-   "age": "41",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1794014226,
-   "photo": "photos/DOU_NORTON_CHARLES_2026-11-06.jpg"
-  },
-  {
    "key": "HAGER_TYLER_2026-11-06",
    "name": "Tyler Michael Jens Hager",
    "age": "35",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JOHNSON_JAYLEN_624127",
+   "name": "Jaylen JP Johnson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794104859,
+   "photo": null
+  },
+  {
+   "key": "MAR_GRAEF_NAINNE_2026-11-07_13109002",
+   "name": "Nainne Graef",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794102903,
+   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-07_13109002.jpg"
+  },
+  {
+   "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07",
+   "name": "Matthew James Wiskowski",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794102839,
+   "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07.jpg"
+  },
   {
    "key": "RC_FLUETTE_JEFFREY_120011076044707",
    "name": "Jeffrey Kurt Fluette",
@@ -570,8 +603,8 @@
    "age": "51",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794099482,
    "photo": null
   },
@@ -705,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794086887,
-   "photo": null
+   "photo": "photos/MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995.jpg"
   },
   {
    "key": "JONSGAARD_LUCAS_2026-11-07",
@@ -738,7 +771,7 @@
    "charge": "Resisting or Obstructing an Officer (Forfeiture)",
    "more": 0,
    "ts": 1794083275,
-   "photo": null
+   "photo": "photos/MKE_SINGH_VIKRAMTIT_648194.jpg"
   },
   {
    "key": "MAR_PREBIL_JENNIFER_2026-11-07_17073601",
@@ -782,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794081475,
-   "photo": null
+   "photo": "photos/MKE_BACK_CHRISTOPHER_633008.jpg"
   },
   {
    "key": "MKE_HUNT_PRICE_648192",
@@ -5161,105 +5194,6 @@
    "more": 0,
    "ts": 1793847283,
    "photo": null
-  },
-  {
-   "key": "MKE_TORRES_ANYA_648137",
-   "name": "Anya ReneeMar Torres",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 14,
-   "ts": 1793845679,
-   "photo": "photos/MKE_TORRES_ANYA_648137.jpg"
-  },
-  {
-   "key": "MAR_KOHN_STACIE_2026-11-03_169511",
-   "name": "Stacie Jean Kohn",
-   "age": "23",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793843998,
-   "photo": "photos/MAR_KOHN_STACIE_2026-11-03_169511.jpg"
-  },
-  {
-   "key": "MAR_BOM_SHISHIR_2026-11-04_13179608",
-   "name": "Shishir Bom",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793843958,
-   "photo": "photos/MAR_BOM_SHISHIR_2026-11-04_13179608.jpg"
-  },
-  {
-   "key": "MAR_GESTNER_NICHOLAS_2026-11-04",
-   "name": "Nicholas J Gestner",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear - Ncic Misdemeanor",
-   "more": 0,
-   "ts": 1793843918,
-   "photo": "photos/MAR_GESTNER_NICHOLAS_2026-11-04.jpg"
-  },
-  {
-   "key": "MKE_FLORESALVARADO_SERENITY_648136",
-   "name": "Serenity Luna Flores-Alvarado",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793843889,
-   "photo": null
-  },
-  {
-   "key": "MAR_BOGE_JOSHUA_2026-11-04_2683715",
-   "name": "Joshua Douglas Boge",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793843871,
-   "photo": "photos/MAR_BOGE_JOSHUA_2026-11-04_2683715.jpg"
-  },
-  {
-   "key": "MAR_REED_DOUGLASS_2026-11-04_1235911",
-   "name": "Douglass Stafford Reed",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793843826,
-   "photo": "photos/MAR_REED_DOUGLASS_2026-11-04_1235911.jpg"
-  },
-  {
-   "key": "KEN_ESQUIVEL_KAIYLA_2026-00006095",
-   "name": "Kaiyla Jean Esquivel",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Burglary-Building Or Dwelling",
-   "more": 2,
-   "ts": 1793843813,
-   "photo": "photos/KEN_ESQUIVEL_KAIYLA_2026-00006095.jpg"
-  },
-  {
-   "key": "MAR_LO_KA_2026-11-04_631719",
-   "name": "Ka Zoua Lo",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1793843784,
-   "photo": "photos/MAR_LO_KA_2026-11-04_631719.jpg"
   }
  ]
 }
