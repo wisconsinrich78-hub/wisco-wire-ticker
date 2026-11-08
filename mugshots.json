@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T01:27:36+00:00",
+ "updated": "2026-11-08T01:49:29+00:00",
  "items": [
+  {
+   "key": "RC_FLUETTE_JEFFREY_120011076044707",
+   "name": "Jeffrey Kurt Fluette",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794102474,
+   "photo": "photos/RC_FLUETTE_JEFFREY_120011076044707.jpg"
+  },
+  {
+   "key": "RC_MEEKS_ORLANDO_120011076045279",
+   "name": "Orlando Marcell Meeks",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794102471,
+   "photo": "photos/RC_MEEKS_ORLANDO_120011076045279.jpg"
+  },
+  {
+   "key": "BERRYMAN_KATHY_2026-11-07",
+   "name": "Kathy J Berryman",
+   "age": "52",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794102430,
+   "photo": null
+  },
   {
    "key": "MKE_BRUNETTE_PIERRE_330133",
    "name": "Pierre Michael Brunette",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1794081475,
    "photo": null
-  },
-  {
-   "key": "MKE_HUNT_PRICE_648192",
-   "name": "Price Y Hunt",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794081473,
-   "photo": "photos/MKE_HUNT_PRICE_648192.jpg"
-  },
-  {
-   "key": "RC_KUMPULA_SETH_120011076037070",
-   "name": "Seth Kumpula",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794080867,
-   "photo": "photos/RC_KUMPULA_SETH_120011076037070.jpg"
   },
   {
    "key": "AUSTAD_DYLAN_2026-11-07",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1794007028,
    "photo": "photos/FDL_MAYR_RYAN_2026-11-06.jpg"
-  },
-  {
-   "key": "FDL_SHAY_BRITTANY_2026-11-06",
-   "name": "Brittany Shay",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793999826,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FLUETTE_JEFFREY_120011076044707",
+   "name": "Jeffrey Kurt Fluette",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794102474,
+   "photo": "photos/RC_FLUETTE_JEFFREY_120011076044707.jpg"
+  },
+  {
+   "key": "RC_MEEKS_ORLANDO_120011076045279",
+   "name": "Orlando Marcell Meeks",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794102471,
+   "photo": "photos/RC_MEEKS_ORLANDO_120011076045279.jpg"
+  },
+  {
+   "key": "BERRYMAN_KATHY_2026-11-07",
+   "name": "Kathy J Berryman",
+   "age": "52",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794102430,
+   "photo": null
+  },
   {
    "key": "MKE_BRUNETTE_PIERRE_330133",
    "name": "Pierre Michael Brunette",
@@ -5227,17 +5260,6 @@
    "more": 0,
    "ts": 1793843784,
    "photo": "photos/MAR_LO_KA_2026-11-04_631719.jpg"
-  },
-  {
-   "key": "HOU_MIRANDAGARCIA_JUANJOSE_6327",
-   "name": "Juan Jose Miranda Garcia",
-   "age": "32",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Traffic-Drivers License-Driving After Suspens (1-Court Pending)",
-   "more": 0,
-   "ts": 1793843233,
-   "photo": "photos/HOU_MIRANDAGARCIA_JUANJOSE_6327.jpg"
   }
  ]
 }
