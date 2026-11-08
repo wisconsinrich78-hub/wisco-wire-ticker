@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T04:27:35+00:00",
+ "updated": "2026-11-08T04:49:29+00:00",
  "items": [
+  {
+   "key": "RC_ARRINGTON_JARMARIE_120011076047255",
+   "name": "Jarmarie D Arrington",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1794113311,
+   "photo": null
+  },
+  {
+   "key": "RC_JOHNSTON_SCOTT_120011076047346",
+   "name": "Scott Daniel Johnston",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794113309,
+   "photo": "photos/RC_JOHNSTON_SCOTT_120011076047346.jpg"
+  },
   {
    "key": "MKE_THOR_ELIZABETH_613515",
    "name": "Elizabeth Thor",
@@ -242,28 +264,6 @@
    "more": 1,
    "ts": 1794086830,
    "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_CAMERON_648193",
-   "name": "Cameron Adonna Thomas",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794083277,
-   "photo": "photos/MKE_THOMAS_CAMERON_648193.jpg"
-  },
-  {
-   "key": "MKE_SINGH_VIKRAMTIT_648194",
-   "name": "Vikramtit D Singh",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
-   "more": 0,
-   "ts": 1794083275,
-   "photo": "photos/MKE_SINGH_VIKRAMTIT_648194.jpg"
   },
   {
    "key": "MAR_PREBIL_JENNIFER_2026-11-07_17073601",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ARRINGTON_JARMARIE_120011076047255",
+   "name": "Jarmarie D Arrington",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1794113311,
+   "photo": null
+  },
+  {
+   "key": "RC_JOHNSTON_SCOTT_120011076047346",
+   "name": "Scott Daniel Johnston",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794113309,
+   "photo": "photos/RC_JOHNSTON_SCOTT_120011076047346.jpg"
+  },
   {
    "key": "MKE_THOR_ELIZABETH_613515",
    "name": "Elizabeth Thor",
@@ -5040,17 +5062,6 @@
    "more": 1,
    "ts": 1793854565,
    "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-04_133709.jpg"
-  },
-  {
-   "key": "RC_OWENS_TYRON_120011075953481",
-   "name": "Tyron Owens",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793854073,
-   "photo": null
   }
  ]
 }
