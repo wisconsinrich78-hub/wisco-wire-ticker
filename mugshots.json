@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T12:49:28+00:00",
+ "updated": "2026-11-08T12:55:01+00:00",
  "items": [
+  {
+   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206",
+   "name": "Nathan Thomas Hagenbucher",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794142396,
+   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206.jpg"
+  },
   {
    "key": "MKE_AVENDANOLOPEZ_JUAN_648203",
    "name": "Juan Avendano-Lopez",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794076021,
    "photo": null
-  },
-  {
-   "key": "MAR_PREBIL_JENNIFER_2026-11-07",
-   "name": "Jennifer Prebil",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Lewd, Lascivious Behavior-In Public",
-   "more": 1,
-   "ts": 1794070106,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206",
+   "name": "Nathan Thomas Hagenbucher",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794142396,
+   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206.jpg"
+  },
   {
    "key": "MKE_AVENDANOLOPEZ_JUAN_648203",
    "name": "Juan Avendano-Lopez",
