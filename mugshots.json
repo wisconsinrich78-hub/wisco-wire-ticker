@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T00:49:29+00:00",
+ "updated": "2026-11-08T01:27:36+00:00",
  "items": [
+  {
+   "key": "MKE_BRUNETTE_PIERRE_330133",
+   "name": "Pierre Michael Brunette",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794099482,
+   "photo": null
+  },
   {
    "key": "MKE_GREENE_BYRON_349546",
    "name": "Byron Spencer Greene",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1794080867,
    "photo": "photos/RC_KUMPULA_SETH_120011076037070.jpg"
-  },
-  {
-   "key": "RC_NUNN_SHANNON_120011076039605",
-   "name": "Shannon R Nunn",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794080864,
-   "photo": null
   },
   {
    "key": "AUSTAD_DYLAN_2026-11-07",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_BRUNETTE_PIERRE_330133",
+   "name": "Pierre Michael Brunette",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794099482,
+   "photo": null
+  },
   {
    "key": "MKE_GREENE_BYRON_349546",
    "name": "Byron Spencer Greene",
@@ -5227,17 +5238,6 @@
    "more": 0,
    "ts": 1793843233,
    "photo": "photos/HOU_MIRANDAGARCIA_JUANJOSE_6327.jpg"
-  },
-  {
-   "key": "MKE_CARRANZAPOLANCO_RAFAEL_648135",
-   "name": "Rafael Carranza Polanco",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793840404,
-   "photo": null
   }
  ]
 }
