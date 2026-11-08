@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-08T10:29:03+00:00",
+ "updated": "2026-11-08T10:49:32+00:00",
  "items": [
+  {
+   "key": "RC_LUCERO_MICHAEL_120011076052964",
+   "name": "Michael Lucero",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794134868,
+   "photo": "photos/RC_LUCERO_MICHAEL_120011076052964.jpg"
+  },
+  {
+   "key": "TREM_LOPEZTIENDA_ABEL_5650",
+   "name": "Abel Lopez Tienda",
+   "age": "47",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794134832,
+   "photo": "photos/TREM_LOPEZTIENDA_ABEL_5650.jpg"
+  },
+  {
+   "key": "TREM_SKWIOT_BROCK_6206",
+   "name": "Brock William Edward Skwiot",
+   "age": "32",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possession of Cocaine",
+   "more": 0,
+   "ts": 1794134830,
+   "photo": "photos/TREM_SKWIOT_BROCK_6206.jpg"
+  },
+  {
+   "key": "TREM_MARTINEZCASTILLO_AGUSTIN_6207",
+   "name": "Agustin Martinez Castillo",
+   "age": "29",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating while Intoxicated - 1st Offense, with a Minor Child in the V",
+   "more": 0,
+   "ts": 1794134829,
+   "photo": "photos/TREM_MARTINEZCASTILLO_AGUSTIN_6207.jpg"
+  },
   {
    "key": "DOU_RINAS_RYANN_2026-11-08",
    "name": "Ryann R Rinas",
@@ -310,17 +354,6 @@
    "photo": "photos/FDL_LUNDE_ANGELA_2026-11-07.jpg"
   },
   {
-   "key": "MKE_RODRIGUEZGUZMAN_JOSE_648197",
-   "name": "Jose Jaime Rodriguez Guzman",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1794113878,
-   "photo": "photos/MKE_RODRIGUEZGUZMAN_JOSE_648197.jpg"
-  },
-  {
    "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
    "name": "Matthew James Wiskowski",
    "age": "41",
@@ -495,42 +528,53 @@
    "more": 0,
    "ts": 1794063764,
    "photo": "photos/MAR_PETROSKI_AMANDA_2026-11-06_2859630.jpg"
-  },
-  {
-   "key": "FDL_KRUEGER_DUSTIN_2026-11-07",
-   "name": "Dustin James Krueger",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Misdemeanor Bail Jumping",
-   "more": 0,
-   "ts": 1794057398,
-   "photo": "photos/FDL_KRUEGER_DUSTIN_2026-11-07.jpg"
-  },
-  {
-   "key": "FDL_BARTA_JULIE_2026-11-07",
-   "name": "Julie Eileen Barta",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794057358,
-   "photo": "photos/FDL_BARTA_JULIE_2026-11-07.jpg"
-  },
-  {
-   "key": "FDL_BISSETTE_JOSHUA_2026-11-07",
-   "name": "Joshua Allen Bissette",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794050161,
-   "photo": "photos/FDL_BISSETTE_JOSHUA_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_LUCERO_MICHAEL_120011076052964",
+   "name": "Michael Lucero",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794134868,
+   "photo": "photos/RC_LUCERO_MICHAEL_120011076052964.jpg"
+  },
+  {
+   "key": "TREM_LOPEZTIENDA_ABEL_5650",
+   "name": "Abel Lopez Tienda",
+   "age": "47",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794134832,
+   "photo": "photos/TREM_LOPEZTIENDA_ABEL_5650.jpg"
+  },
+  {
+   "key": "TREM_SKWIOT_BROCK_6206",
+   "name": "Brock William Edward Skwiot",
+   "age": "32",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possession of Cocaine",
+   "more": 0,
+   "ts": 1794134830,
+   "photo": "photos/TREM_SKWIOT_BROCK_6206.jpg"
+  },
+  {
+   "key": "TREM_MARTINEZCASTILLO_AGUSTIN_6207",
+   "name": "Agustin Martinez Castillo",
+   "age": "29",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Operating while Intoxicated - 1st Offense, with a Minor Child in the V",
+   "more": 0,
+   "ts": 1794134829,
+   "photo": "photos/TREM_MARTINEZCASTILLO_AGUSTIN_6207.jpg"
+  },
   {
    "key": "DOU_RINAS_RYANN_2026-11-08",
    "name": "Ryann R Rinas",
@@ -5029,17 +5073,6 @@
    "more": 0,
    "ts": 1793878059,
    "photo": "photos/MKE_KING_ANTHONY_204655.jpg"
-  },
-  {
-   "key": "TREM_MORFORD_SCOTT_1844",
-   "name": "Scott Leroy Morford",
-   "age": "33",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Unuth Use of Individual\u2019s ID or Document/Info",
-   "more": 0,
-   "ts": 1793875629,
-   "photo": "photos/TREM_MORFORD_SCOTT_1844.jpg"
   }
  ]
 }
