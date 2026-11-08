@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T15:28:16+00:00",
+ "updated": "2026-11-08T15:49:30+00:00",
  "items": [
+  {
+   "key": "VANG_KAO_2026-11-08",
+   "name": "Kao Vang",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794152826,
+   "photo": null
+  },
+  {
+   "key": "XIONG_CHONG_2026-11-08",
+   "name": "Chong Xiong",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Trespass To Dwelling",
+   "more": 0,
+   "ts": 1794152826,
+   "photo": null
+  },
   {
    "key": "EDGE_AMBER_2026-11-08",
    "name": "Amber R Edge",
@@ -87,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794148048,
-   "photo": null
+   "photo": "photos/MKE_WINSTON_PIERRE_639841.jpg"
   },
   {
    "key": "NELSON_JASON_2026-11-08",
@@ -153,7 +175,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794140858,
-   "photo": null
+   "photo": "photos/MKE_AVENDANOLOPEZ_JUAN_648203.jpg"
   },
   {
    "key": "COLE_JOHN_2026-11-08",
@@ -252,7 +274,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794137262,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_TERRY_510057.jpg"
   },
   {
    "key": "MKE_COLISGARCIA_LUIS_627573",
@@ -263,7 +285,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794137260,
-   "photo": null
+   "photo": "photos/MKE_COLISGARCIA_LUIS_627573.jpg"
   },
   {
    "key": "MKE_RUFILTAIPE_RAUL_645897",
@@ -506,31 +528,31 @@
    "more": 1,
    "ts": 1794106450,
    "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816.jpg"
-  },
-  {
-   "key": "MAR_GRAEF_NAINNE_2026-11-07_13109002",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794102903,
-   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-07_13109002.jpg"
-  },
-  {
-   "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07",
-   "name": "Matthew James Wiskowski",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794102839,
-   "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VANG_KAO_2026-11-08",
+   "name": "Kao Vang",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794152826,
+   "photo": null
+  },
+  {
+   "key": "XIONG_CHONG_2026-11-08",
+   "name": "Chong Xiong",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Trespass To Dwelling",
+   "more": 0,
+   "ts": 1794152826,
+   "photo": null
+  },
   {
    "key": "EDGE_AMBER_2026-11-08",
    "name": "Amber R Edge",
@@ -617,7 +639,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794148048,
-   "photo": null
+   "photo": "photos/MKE_WINSTON_PIERRE_639841.jpg"
   },
   {
    "key": "NELSON_JASON_2026-11-08",
@@ -683,7 +705,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794140858,
-   "photo": null
+   "photo": "photos/MKE_AVENDANOLOPEZ_JUAN_648203.jpg"
   },
   {
    "key": "COLE_JOHN_2026-11-08",
@@ -782,7 +804,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794137262,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_TERRY_510057.jpg"
   },
   {
    "key": "MKE_COLISGARCIA_LUIS_627573",
@@ -793,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794137260,
-   "photo": null
+   "photo": "photos/MKE_COLISGARCIA_LUIS_627573.jpg"
   },
   {
    "key": "MKE_RUFILTAIPE_RAUL_645897",
@@ -5128,28 +5150,6 @@
    "more": 1,
    "ts": 1793894344,
    "photo": "photos/KEN_MOSANSKY_JULIUS_2026-00006105.jpg"
-  },
-  {
-   "key": "RC_ORNELLAS_PAULINO_120011075967355",
-   "name": "Paulino Miguel Ornellas",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793893726,
-   "photo": "photos/RC_ORNELLAS_PAULINO_120011075967355.jpg"
-  },
-  {
-   "key": "MKE_VUNG_KHUA_622085",
-   "name": "Khua Vung",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793892580,
-   "photo": "photos/MKE_VUNG_KHUA_622085.jpg"
   }
  ]
 }
