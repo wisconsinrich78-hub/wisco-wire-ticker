@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T17:49:31+00:00",
+ "updated": "2026-11-08T18:49:26+00:00",
  "items": [
+  {
+   "key": "RC_ZEITZ_ISAIAH_120011076059822",
+   "name": "Isaiah Zeitz",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Hit And Run-Involve Injury",
+   "more": 1,
+   "ts": 1794163673,
+   "photo": null
+  },
+  {
+   "key": "LITTLEJOHN_ASHLEY_2026-11-08",
+   "name": "Ashley A Littlejohn",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794163632,
+   "photo": "photos/LITTLEJOHN_ASHLEY_2026-11-08.jpg"
+  },
+  {
+   "key": "SARVER_RHETT_2026-11-08",
+   "name": "Rhett A Sarver",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794162420,
+   "photo": null
+  },
   {
    "key": "RC_FLEURY_DONNA_120011076058272",
    "name": "Donna M Fleury",
@@ -32,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794157061,
-   "photo": null
+   "photo": "photos/MKE_ISMAIL_REHANA_648204.jpg"
   },
   {
    "key": "MKE_ZAMORAGONZALEZ_JAIRO_648205",
@@ -354,17 +387,6 @@
    "photo": "photos/MKE_JOHNSON_TERRY_510057.jpg"
   },
   {
-   "key": "MKE_COLISGARCIA_LUIS_627573",
-   "name": "Luis A Colis- Garcia",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794137260,
-   "photo": "photos/MKE_COLISGARCIA_LUIS_627573.jpg"
-  },
-  {
    "key": "FDL_BENITEZMEJIA_ISAAC_2026-11-08",
    "name": "Isaac Benitez Mejia",
    "age": "",
@@ -506,31 +528,42 @@
    "more": 1,
    "ts": 1794124449,
    "photo": null
-  },
-  {
-   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-08",
-   "name": "Nathan Thomas Hagenbucher",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794124411,
-   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08.jpg"
-  },
-  {
-   "key": "FDL_VASQUEZMARTINEZ_CARLOS_2026-11-08",
-   "name": "Carlos Alberto Vasquez Martinez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
-   "more": 0,
-   "ts": 1794122229,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ZEITZ_ISAIAH_120011076059822",
+   "name": "Isaiah Zeitz",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Hit And Run-Involve Injury",
+   "more": 1,
+   "ts": 1794163673,
+   "photo": null
+  },
+  {
+   "key": "LITTLEJOHN_ASHLEY_2026-11-08",
+   "name": "Ashley A Littlejohn",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794163632,
+   "photo": "photos/LITTLEJOHN_ASHLEY_2026-11-08.jpg"
+  },
+  {
+   "key": "SARVER_RHETT_2026-11-08",
+   "name": "Rhett A Sarver",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794162420,
+   "photo": null
+  },
   {
    "key": "RC_FLEURY_DONNA_120011076058272",
    "name": "Donna M Fleury",
@@ -562,7 +595,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794157061,
-   "photo": null
+   "photo": "photos/MKE_ISMAIL_REHANA_648204.jpg"
   },
   {
    "key": "MKE_ZAMORAGONZALEZ_JAIRO_648205",
@@ -4930,94 +4963,6 @@
    "more": 1,
    "ts": 1793905056,
    "photo": "photos/MKE_LEWIS_COYMATHIS_400978.jpg"
-  },
-  {
-   "key": "RC_RUSH_KARAN_120011075975498",
-   "name": "Karan Terrell Rush",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793904473,
-   "photo": "photos/RC_RUSH_KARAN_120011075975498.jpg"
-  },
-  {
-   "key": "RC_BENJAMIN_DOMINICK_120011075975705",
-   "name": "Dominick I Benjamin",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793904471,
-   "photo": "photos/RC_BENJAMIN_DOMINICK_120011075975705.jpg"
-  },
-  {
-   "key": "MKE_HUTCHINS_TERYN_266904",
-   "name": "Teryn Jontae Hutchins",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1793903284,
-   "photo": "photos/MKE_HUTCHINS_TERYN_266904.jpg"
-  },
-  {
-   "key": "MKE_GUZMANBUENO_ERIC_648146",
-   "name": "Eric Mauricio Guzman Bueno",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793903281,
-   "photo": "photos/MKE_GUZMANBUENO_ERIC_648146.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZ_ADAREUS_640533",
-   "name": "Adareus Gonzalez",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793903279,
-   "photo": "photos/MKE_GONZALEZ_ADAREUS_640533.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_DAZON_647391",
-   "name": "Dazon T Davis",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess Dangerous Weapon-Person < 18",
-   "more": 2,
-   "ts": 1793903277,
-   "photo": "photos/MKE_DAVIS_DAZON_647391.jpg"
-  },
-  {
-   "key": "MKE_BROWN_YOLANDA_348478",
-   "name": "Yolanda Dominique Brown",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793903275,
-   "photo": "photos/MKE_BROWN_YOLANDA_348478.jpg"
-  },
-  {
-   "key": "CHRISTENSON_MORGAN_2026-11-05",
-   "name": "Morgan A Christenson",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Out Of County Warrant",
-   "more": 0,
-   "ts": 1793903181,
-   "photo": null
   }
  ]
 }
