@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-09T17:49:26+00:00",
+ "updated": "2026-11-09T18:28:49+00:00",
  "items": [
+  {
+   "key": "MKE_MCGREGORY_DERRICK_373782",
+   "name": "Derrick Davon McGregory",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "more": 3,
+   "ts": 1794248874,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMPSON_DEVON_641849",
+   "name": "Devon Timothy Thompson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 1,
+   "ts": 1794248872,
+   "photo": null
+  },
+  {
+   "key": "KEN_STEVENS_DERRICK_2026-00006197",
+   "name": "DERRICK ARNELL Junior STEVENS",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1794247425,
+   "photo": "photos/KEN_STEVENS_DERRICK_2026-00006197.jpg"
+  },
+  {
+   "key": "KEN_PLEASANT_JOHNTAY_2026-00006199",
+   "name": "Johntay Marcello Pleasant",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794247352,
+   "photo": "photos/KEN_PLEASANT_JOHNTAY_2026-00006199.jpg"
+  },
+  {
+   "key": "KEN_DALTON_MALIK_2026-00006200",
+   "name": "Malik Daleonjaque Dalton",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794247098,
+   "photo": "photos/KEN_DALTON_MALIK_2026-00006200.jpg"
+  },
+  {
+   "key": "MAR_HOFFMAN_SCOTT_2026-11-09_8479304",
+   "name": "Scott Anthony Hoffman",
+   "age": "56",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Capias - Misdemeanor",
+   "more": 2,
+   "ts": 1794246878,
+   "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09_8479304.jpg"
+  },
+  {
+   "key": "MAR_BRIDGES_CARINLIN_2026-11-09",
+   "name": "Carin-Lin L Bridges",
+   "age": "65",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1794246812,
+   "photo": null
+  },
   {
    "key": "RC_FONSECA_LUIS_120011076089620",
    "name": "Luis Enrique Fonseca",
@@ -128,7 +205,7 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794239967,
    "photo": "photos/KEN_VENTURA_MELISA_2026-00006195.jpg"
@@ -161,8 +238,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1794239838,
    "photo": "photos/KEN_FIELDS_DARTAVIOUS_2026-00006196.jpg"
   },
@@ -211,39 +288,6 @@
    "photo": "photos/RC_DASKO_MARCHELLO_120011076084475.jpg"
   },
   {
-   "key": "MKE_HILL_EDWARD_381858",
-   "name": "Edward Hill",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1794238062,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVENPORT_MARQUE_533457",
-   "name": "Marque J Davenport",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794238060,
-   "photo": "photos/MKE_DAVENPORT_MARQUE_533457.jpg"
-  },
-  {
-   "key": "MKE_BARNETT_CHARLSETTA_648218",
-   "name": "Charlsetta C Barnett",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794238059,
-   "photo": "photos/MKE_BARNETT_CHARLSETTA_648218.jpg"
-  },
-  {
    "key": "FDL_PEASE_DAVID_2026-11-09",
    "name": "David L Pease",
    "age": "",
@@ -264,28 +308,6 @@
    "more": 1,
    "ts": 1794237383,
    "photo": "photos/FDL_COLEMAN_KAILYN_2026-11-09.jpg"
-  },
-  {
-   "key": "KEN_SANTOS_REYES_2026-00006193",
-   "name": "Reyes Santos",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794236157,
-   "photo": "photos/KEN_SANTOS_REYES_2026-00006193.jpg"
-  },
-  {
-   "key": "KEN_MOYE_BREON_2026-00006194",
-   "name": "Breon Moye",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794236121,
-   "photo": null
   },
   {
    "key": "MAR_WILL_DANIELLE_2026-11-09",
@@ -486,28 +508,6 @@
    "photo": null
   },
   {
-   "key": "DOU_PAULUS_HALEY_2026-11-08",
-   "name": "Haley J Paulus",
-   "age": "57",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794194226,
-   "photo": "photos/DOU_PAULUS_HALEY_2026-11-08.jpg"
-  },
-  {
-   "key": "MAR_DENZIN_SCOTT_2026-11-08_348103",
-   "name": "Scott Gordon Denzin",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contact After Domestic Abuse Arrest",
-   "more": 0,
-   "ts": 1794192794,
-   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08_348103.jpg"
-  },
-  {
    "key": "BURZINSKI_DAVID_2026-11-08",
    "name": "David E Burzinski",
    "age": "61",
@@ -531,6 +531,83 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MCGREGORY_DERRICK_373782",
+   "name": "Derrick Davon McGregory",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "more": 3,
+   "ts": 1794248874,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMPSON_DEVON_641849",
+   "name": "Devon Timothy Thompson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 1,
+   "ts": 1794248872,
+   "photo": null
+  },
+  {
+   "key": "KEN_STEVENS_DERRICK_2026-00006197",
+   "name": "DERRICK ARNELL Junior STEVENS",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1794247425,
+   "photo": "photos/KEN_STEVENS_DERRICK_2026-00006197.jpg"
+  },
+  {
+   "key": "KEN_PLEASANT_JOHNTAY_2026-00006199",
+   "name": "Johntay Marcello Pleasant",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794247352,
+   "photo": "photos/KEN_PLEASANT_JOHNTAY_2026-00006199.jpg"
+  },
+  {
+   "key": "KEN_DALTON_MALIK_2026-00006200",
+   "name": "Malik Daleonjaque Dalton",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794247098,
+   "photo": "photos/KEN_DALTON_MALIK_2026-00006200.jpg"
+  },
+  {
+   "key": "MAR_HOFFMAN_SCOTT_2026-11-09_8479304",
+   "name": "Scott Anthony Hoffman",
+   "age": "56",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Capias - Misdemeanor",
+   "more": 2,
+   "ts": 1794246878,
+   "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09_8479304.jpg"
+  },
+  {
+   "key": "MAR_BRIDGES_CARINLIN_2026-11-09",
+   "name": "Carin-Lin L Bridges",
+   "age": "65",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1794246812,
+   "photo": null
+  },
   {
    "key": "RC_FONSECA_LUIS_120011076089620",
    "name": "Luis Enrique Fonseca",
@@ -658,7 +735,7 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794239967,
    "photo": "photos/KEN_VENTURA_MELISA_2026-00006195.jpg"
@@ -691,8 +768,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1794239838,
    "photo": "photos/KEN_FIELDS_DARTAVIOUS_2026-00006196.jpg"
   },
@@ -812,10 +889,10 @@
    "age": "21",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 3,
    "ts": 1794236121,
-   "photo": null
+   "photo": "photos/KEN_MOYE_BREON_2026-00006194.jpg"
   },
   {
    "key": "MAR_WILL_DANIELLE_2026-11-09",
@@ -4589,61 +4666,6 @@
    "more": 6,
    "ts": 1793990884,
    "photo": "photos/RC_EVERTON_MONTAVIUS_120011076012054.jpg"
-  },
-  {
-   "key": "MKE_SYKES_DEANGELO_524643",
-   "name": "Deangelo Dwayne Sykes",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793989669,
-   "photo": "photos/MKE_SYKES_DEANGELO_524643.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_KENDRICK_623311",
-   "name": "Kendrick Robinson",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793989667,
-   "photo": "photos/MKE_ROBINSON_KENDRICK_623311.jpg"
-  },
-  {
-   "key": "MKE_LUQUEZRODRIGUEZ_HENDERSON_648166",
-   "name": "Henderson Luquez Rodriguez",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793989665,
-   "photo": "photos/MKE_LUQUEZRODRIGUEZ_HENDERSON_648166.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_LAVONSKI_294290",
-   "name": "Lavonski Lavon Jackson",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793989663,
-   "photo": "photos/MKE_JACKSON_LAVONSKI_294290.jpg"
-  },
-  {
-   "key": "FDL_HOOPMAN_LYNNETTE_2026-11-06",
-   "name": "Lynnette A Hoopman",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Revocation Order",
-   "more": 0,
-   "ts": 1793989000,
-   "photo": "photos/FDL_HOOPMAN_LYNNETTE_2026-11-06.jpg"
   }
  ]
 }
