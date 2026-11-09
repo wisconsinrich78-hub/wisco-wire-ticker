@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T08:58:28+00:00",
+ "updated": "2026-11-09T09:49:29+00:00",
  "items": [
+  {
+   "key": "RC_EVERTON_JALANDRE_120011076075316",
+   "name": "Jalandre Martise Everton",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794217681,
+   "photo": "photos/RC_EVERTON_JALANDRE_120011076075316.jpg"
+  },
+  {
+   "key": "RC_ADAMS_SHAMARIONTE_120011076075444",
+   "name": "Shamarionte Darnell Adams",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794217678,
+   "photo": "photos/RC_ADAMS_SHAMARIONTE_120011076075444.jpg"
+  },
+  {
+   "key": "MKE_GOODMAN_LEROY_251286",
+   "name": "Leroy Anthony Goodman",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794216448,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_DAQUARIUS_643246",
+   "name": "Daquarius Trevaughn Davis",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794216447,
+   "photo": null
+  },
   {
    "key": "KEN_HOPKINS_MAURELL_2026-00006191",
    "name": "Maurell Avere Hopkins",
@@ -187,50 +231,6 @@
    "more": 0,
    "ts": 1794203267,
    "photo": "photos/RC_PERINE_MARK_120011076071627.jpg"
-  },
-  {
-   "key": "RC_CIBOSKI_MARK_120011076071767",
-   "name": "Mark Anthony Ciboski",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794203265,
-   "photo": "photos/RC_CIBOSKI_MARK_120011076071767.jpg"
-  },
-  {
-   "key": "MKE_PARROW_GIOVANTE_628368",
-   "name": "Giovante Allante Parrow",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 36,
-   "ts": 1794202075,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_MICHOL_629618",
-   "name": "Michol Lee Thomas",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794202074,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_DWIGHT_648212",
-   "name": "Dwight Edward Jackson",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794202072,
-   "photo": null
   },
   {
    "key": "MAR_KELLEY_PATRICK_2026-11-08",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_EVERTON_JALANDRE_120011076075316",
+   "name": "Jalandre Martise Everton",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794217681,
+   "photo": "photos/RC_EVERTON_JALANDRE_120011076075316.jpg"
+  },
+  {
+   "key": "RC_ADAMS_SHAMARIONTE_120011076075444",
+   "name": "Shamarionte Darnell Adams",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794217678,
+   "photo": "photos/RC_ADAMS_SHAMARIONTE_120011076075444.jpg"
+  },
+  {
+   "key": "MKE_GOODMAN_LEROY_251286",
+   "name": "Leroy Anthony Goodman",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794216448,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_DAQUARIUS_643246",
+   "name": "Daquarius Trevaughn Davis",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794216447,
+   "photo": null
+  },
   {
    "key": "KEN_HOPKINS_MAURELL_2026-00006191",
    "name": "Maurell Avere Hopkins",
@@ -848,7 +892,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 1,
    "ts": 1794196697,
-   "photo": null
+   "photo": "photos/MKE_SKEETS_ANDRE_400102.jpg"
   },
   {
    "key": "MKE_RAFFETY_MICHELLE_2031533",
@@ -892,7 +936,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794194893,
-   "photo": null
+   "photo": "photos/MKE_ROBERTS_JOSHUA_2066684.jpg"
   },
   {
    "key": "BRUEGGEN_ISAIAH_2026-11-08",
@@ -4567,28 +4611,6 @@
    "more": 1,
    "ts": 1793958922,
    "photo": "photos/MAR_MITCHELL_ALIVIA_2026-11-06.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_ANDREA_120011075998291",
-   "name": "Andrea Ianna Williams",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1793958467,
-   "photo": null
-  },
-  {
-   "key": "FDL_FARRELL_CONNOR_2026-11-06",
-   "name": "Connor James Farrell",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Failure To Appear / Warrants",
-   "more": 0,
-   "ts": 1793956574,
-   "photo": "photos/FDL_FARRELL_CONNOR_2026-11-06.jpg"
   }
  ]
 }
