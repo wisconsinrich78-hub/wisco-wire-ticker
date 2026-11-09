@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-09T06:34:51+00:00",
+ "updated": "2026-11-09T06:49:29+00:00",
  "items": [
+  {
+   "key": "RC_ORTIZ_ANIYA_120011074486823",
+   "name": "Aniya J Ortiz",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Credit Card-Theft by Acquisition",
+   "more": 19,
+   "ts": 1794206875,
+   "photo": "photos/RC_ORTIZ_ANIYA_120011074486823.jpg"
+  },
+  {
+   "key": "RC_RODRIGUEZ_ASHLEY_120011076073239",
+   "name": "Ashley Maria Rodriguez",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794206872,
+   "photo": "photos/RC_RODRIGUEZ_ASHLEY_120011076073239.jpg"
+  },
+  {
+   "key": "MCKINNEY_JAQUAN_2026-11-09",
+   "name": "Jaquan L Mckinney",
+   "age": "21",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794206829,
+   "photo": null
+  },
   {
    "key": "RC_PERINE_MARK_120011076071627",
    "name": "Mark Allen Perine",
@@ -178,17 +211,6 @@
    "photo": "photos/RC_PHILLIPS_CHARLES_120011076069716.jpg"
   },
   {
-   "key": "MKE_ROBERTS_JOSHUA_2066684",
-   "name": "Joshua Sylvanus Roberts",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794194893,
-   "photo": null
-  },
-  {
    "key": "BRUEGGEN_ISAIAH_2026-11-08",
    "name": "Isaiah J Brueggen",
    "age": "29",
@@ -220,17 +242,6 @@
    "more": 0,
    "ts": 1794192794,
    "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08_348103.jpg"
-  },
-  {
-   "key": "MKE_TORRESPRINCIPE_HENDRICK_648209",
-   "name": "Hendrick J Torres Principe",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794191251,
-   "photo": null
   },
   {
    "key": "MAR_POPP_DYLAN_2026-11-08",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794140175,
    "photo": null
-  },
-  {
-   "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803",
-   "name": "Viengouthay Douangboupha",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 4Th",
-   "more": 1,
-   "ts": 1794138822,
-   "photo": "photos/MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ORTIZ_ANIYA_120011074486823",
+   "name": "Aniya J Ortiz",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Credit Card-Theft by Acquisition",
+   "more": 19,
+   "ts": 1794206875,
+   "photo": "photos/RC_ORTIZ_ANIYA_120011074486823.jpg"
+  },
+  {
+   "key": "RC_RODRIGUEZ_ASHLEY_120011076073239",
+   "name": "Ashley Maria Rodriguez",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794206872,
+   "photo": "photos/RC_RODRIGUEZ_ASHLEY_120011076073239.jpg"
+  },
+  {
+   "key": "MCKINNEY_JAQUAN_2026-11-09",
+   "name": "Jaquan L Mckinney",
+   "age": "21",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794206829,
+   "photo": null
+  },
   {
    "key": "RC_PERINE_MARK_120011076071627",
    "name": "Mark Allen Perine",
