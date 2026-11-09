@@ -1,14 +1,80 @@
 {
- "updated": "2026-11-09T05:02:02+00:00",
+ "updated": "2026-11-09T05:49:28+00:00",
  "items": [
+  {
+   "key": "RC_PERINE_MARK_120011076071627",
+   "name": "Mark Allen Perine",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794203267,
+   "photo": "photos/RC_PERINE_MARK_120011076071627.jpg"
+  },
+  {
+   "key": "RC_CIBOSKI_MARK_120011076071767",
+   "name": "Mark Anthony Ciboski",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794203265,
+   "photo": "photos/RC_CIBOSKI_MARK_120011076071767.jpg"
+  },
+  {
+   "key": "MKE_PARROW_GIOVANTE_628368",
+   "name": "Giovante Allante Parrow",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 36,
+   "ts": 1794202075,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_MICHOL_629618",
+   "name": "Michol Lee Thomas",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794202074,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_DWIGHT_648212",
+   "name": "Dwight Edward Jackson",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794202072,
+   "photo": null
+  },
+  {
+   "key": "MKE_HICKSCOLEMAN_KENDALL_648213",
+   "name": "Kendall L Hicks Coleman",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794202070,
+   "photo": null
+  },
   {
    "key": "MKE_HERNANDEZ_MARGARITO_396322",
    "name": "Margarito J Hernandez",
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794200272,
    "photo": null
   },
@@ -165,72 +231,6 @@
    "more": 3,
    "ts": 1794191251,
    "photo": null
-  },
-  {
-   "key": "MKE_MOORE_JOHN_648210",
-   "name": "John Robert Moore",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794191250,
-   "photo": "photos/MKE_MOORE_JOHN_648210.jpg"
-  },
-  {
-   "key": "KEN_SWANSON_RICHARD_2026-00006180",
-   "name": "Richard Jay Swanson",
-   "age": "67",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1794189573,
-   "photo": "photos/KEN_SWANSON_RICHARD_2026-00006180.jpg"
-  },
-  {
-   "key": "MKE_HUIRAS_STEVEN_543370",
-   "name": "Steven M Huiras",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794189467,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILDER_ARMOND_648207",
-   "name": "Armond Deshawne Wilder",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794189465,
-   "photo": null
-  },
-  {
-   "key": "MKE_DACQUISTO_ANDREA_648208",
-   "name": "Andrea Dacquisto",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794189463,
-   "photo": null
-  },
-  {
-   "key": "KEN_HEARTON_CRYSTAL_2026-00006181",
-   "name": "Crystal Lynn Hearton",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
-   "more": 1,
-   "ts": 1794189456,
-   "photo": "photos/KEN_HEARTON_CRYSTAL_2026-00006181.jpg"
   },
   {
    "key": "MAR_POPP_DYLAN_2026-11-08",
@@ -532,13 +532,79 @@
  ],
  "all_items": [
   {
+   "key": "RC_PERINE_MARK_120011076071627",
+   "name": "Mark Allen Perine",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794203267,
+   "photo": "photos/RC_PERINE_MARK_120011076071627.jpg"
+  },
+  {
+   "key": "RC_CIBOSKI_MARK_120011076071767",
+   "name": "Mark Anthony Ciboski",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794203265,
+   "photo": "photos/RC_CIBOSKI_MARK_120011076071767.jpg"
+  },
+  {
+   "key": "MKE_PARROW_GIOVANTE_628368",
+   "name": "Giovante Allante Parrow",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 36,
+   "ts": 1794202075,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_MICHOL_629618",
+   "name": "Michol Lee Thomas",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794202074,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_DWIGHT_648212",
+   "name": "Dwight Edward Jackson",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794202072,
+   "photo": null
+  },
+  {
+   "key": "MKE_HICKSCOLEMAN_KENDALL_648213",
+   "name": "Kendall L Hicks Coleman",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794202070,
+   "photo": null
+  },
+  {
    "key": "MKE_HERNANDEZ_MARGARITO_396322",
    "name": "Margarito J Hernandez",
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794200272,
    "photo": null
   },
@@ -4490,39 +4556,6 @@
    "more": 1,
    "ts": 1793944561,
    "photo": null
-  },
-  {
-   "key": "MKE_SYLVAS_KEVIN_371068",
-   "name": "Kevin Obrian Sylvas",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793942870,
-   "photo": "photos/MKE_SYLVAS_KEVIN_371068.jpg"
-  },
-  {
-   "key": "MKE_NASH_FREDERICK_648156",
-   "name": "Frederick Nash",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793942868,
-   "photo": "photos/MKE_NASH_FREDERICK_648156.jpg"
-  },
-  {
-   "key": "MKE_FOLEY_DAMIEN_648155",
-   "name": "Damien Christian Alexa Foley",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793942867,
-   "photo": "photos/MKE_FOLEY_DAMIEN_648155.jpg"
   }
  ]
 }
