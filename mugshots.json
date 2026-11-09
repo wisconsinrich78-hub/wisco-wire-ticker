@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T02:49:29+00:00",
+ "updated": "2026-11-09T02:57:10+00:00",
  "items": [
+  {
+   "key": "MAR_DENZIN_SCOTT_2026-11-08_348103",
+   "name": "Scott Gordon Denzin",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contact After Domestic Abuse Arrest",
+   "more": 0,
+   "ts": 1794192794,
+   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08_348103.jpg"
+  },
   {
    "key": "MKE_TORRESPRINCIPE_HENDRICK_648209",
    "name": "Hendrick J Torres Principe",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794134829,
    "photo": "photos/TREM_MARTINEZCASTILLO_AGUSTIN_6207.jpg"
-  },
-  {
-   "key": "DOU_RINAS_RYANN_2026-11-08",
-   "name": "Ryann R Rinas",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794133030,
-   "photo": "photos/DOU_RINAS_RYANN_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_DENZIN_SCOTT_2026-11-08_348103",
+   "name": "Scott Gordon Denzin",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contact After Domestic Abuse Arrest",
+   "more": 0,
+   "ts": 1794192794,
+   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08_348103.jpg"
+  },
   {
    "key": "MKE_TORRESPRINCIPE_HENDRICK_648209",
    "name": "Hendrick J Torres Principe",
@@ -4523,17 +4534,6 @@
    "more": 2,
    "ts": 1793933865,
    "photo": "photos/KEN_ZELLMER_DMITRY_2026-00006127.jpg"
-  },
-  {
-   "key": "MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801",
-   "name": "Gerardo Gonzalez-Guzman",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1793933762,
-   "photo": "photos/MAR_GONZALEZGUZMAN_GERARDO_2026-11-05_17067801.jpg"
   }
  ]
 }
