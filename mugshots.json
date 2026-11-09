@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-09T18:57:48+00:00",
+ "updated": "2026-11-09T19:29:25+00:00",
  "items": [
+  {
+   "key": "JANIS_JULIA_2026-11-09",
+   "name": "Julia A Janis",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794252419,
+   "photo": null
+  },
+  {
+   "key": "BAKKE_JAMES_2026-11-09",
+   "name": "James R Bakke",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794252418,
+   "photo": "photos/BAKKE_JAMES_2026-11-09.jpg"
+  },
+  {
+   "key": "MKE_HARRIS_BRIAN_299131",
+   "name": "Brian Lamar Harris",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 4,
+   "ts": 1794250678,
+   "photo": null
+  },
+  {
+   "key": "MKE_WHITE_KIRAN_394661",
+   "name": "Kiran S White",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Child Sex Assault - Sexual Contact with Person under Age of",
+   "more": 0,
+   "ts": 1794250676,
+   "photo": null
+  },
+  {
+   "key": "MKE_EVERTON_JALANDRE_643778",
+   "name": "Jalandre Martice Everton",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794250674,
+   "photo": null
+  },
   {
    "key": "MAR_SPERKA_SARA_2026-11-09",
    "name": "Sara Lynn Sperka",
@@ -244,17 +299,6 @@
    "photo": null
   },
   {
-   "key": "KEN_FIELDS_DARTAVIOUS_2026-00006196",
-   "name": "Dartavious Lashawn Fields",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794239838,
-   "photo": "photos/KEN_FIELDS_DARTAVIOUS_2026-00006196.jpg"
-  },
-  {
    "key": "MAR_WILL_DANIELLE_2026-11-09_17076901",
    "name": "Danielle Nicole Will",
    "age": "32",
@@ -275,28 +319,6 @@
    "more": 0,
    "ts": 1794239647,
    "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09.jpg"
-  },
-  {
-   "key": "RC_RINCON_VANESSA_120011076082599",
-   "name": "Vanessa Rincon",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 8,
-   "ts": 1794239269,
-   "photo": "photos/RC_RINCON_VANESSA_120011076082599.jpg"
-  },
-  {
-   "key": "RC_DASKO_MARCHELLO_120011076084475",
-   "name": "Marchello Anthony Dasko",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794239266,
-   "photo": "photos/RC_DASKO_MARCHELLO_120011076084475.jpg"
   },
   {
    "key": "FDL_PEASE_DAVID_2026-11-09",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1794194827,
    "photo": null
-  },
-  {
-   "key": "BURZINSKI_DAVID_2026-11-08",
-   "name": "David E Burzinski",
-   "age": "61",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1794181629,
-   "photo": null
-  },
-  {
-   "key": "DOYLE_KENNETH_2026-11-08",
-   "name": "Kenneth A Doyle",
-   "age": "70",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794174431,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "JANIS_JULIA_2026-11-09",
+   "name": "Julia A Janis",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794252419,
+   "photo": null
+  },
+  {
+   "key": "BAKKE_JAMES_2026-11-09",
+   "name": "James R Bakke",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794252418,
+   "photo": "photos/BAKKE_JAMES_2026-11-09.jpg"
+  },
+  {
+   "key": "MKE_HARRIS_BRIAN_299131",
+   "name": "Brian Lamar Harris",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 4,
+   "ts": 1794250678,
+   "photo": null
+  },
+  {
+   "key": "MKE_WHITE_KIRAN_394661",
+   "name": "Kiran S White",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Child Sex Assault - Sexual Contact with Person under Age of",
+   "more": 0,
+   "ts": 1794250676,
+   "photo": null
+  },
+  {
+   "key": "MKE_EVERTON_JALANDRE_643778",
+   "name": "Jalandre Martice Everton",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794250674,
+   "photo": null
+  },
   {
    "key": "MAR_SPERKA_SARA_2026-11-09",
    "name": "Sara Lynn Sperka",
@@ -1134,7 +1189,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794218247,
-   "photo": null
+   "photo": "photos/MKE_REED_CORYE_518179.jpg"
   },
   {
    "key": "KEN_LIPERT_GARY_2026-00006192",
@@ -1211,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794216447,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_DAQUARIUS_643246.jpg"
   },
   {
    "key": "KEN_HOPKINS_MAURELL_2026-00006191",
@@ -4523,116 +4578,6 @@
    "more": 0,
    "ts": 1793994499,
    "photo": "photos/RC_CONFER_MATTHEW_120011076014967.jpg"
-  },
-  {
-   "key": "HERZER_NATHEN_2026-11-06",
-   "name": "Nathen P Herzer",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793993226,
-   "photo": null
-  },
-  {
-   "key": "HALLER_BENJAMIN_2026-11-06",
-   "name": "Benjamin T Haller",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1793993225,
-   "photo": null
-  },
-  {
-   "key": "KEN_PHILLIPS_RYAN_2026-00006137",
-   "name": "Ryan Michael Phillips",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Narcotic Drugs",
-   "more": 2,
-   "ts": 1793992665,
-   "photo": "photos/KEN_PHILLIPS_RYAN_2026-00006137.jpg"
-  },
-  {
-   "key": "KEN_JOHNSON_LEROY_2026-00006139",
-   "name": "Leroy Elijah Johnson",
-   "age": "73",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793992587,
-   "photo": "photos/KEN_JOHNSON_LEROY_2026-00006139.jpg"
-  },
-  {
-   "key": "FDL_FOWLER_KEYANDRE_2026-11-06",
-   "name": "Keyandre Jushaymontrell Fowler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1793992583,
-   "photo": "photos/FDL_FOWLER_KEYANDRE_2026-11-06.jpg"
-  },
-  {
-   "key": "FDL_CAXSEQUEN_WILLIAM_2026-11-06",
-   "name": "William Alejandro Cax Sequen",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Failure To Appear / Warrants",
-   "more": 0,
-   "ts": 1793992575,
-   "photo": null
-  },
-  {
-   "key": "MAR_THORN_RANDALL_2026-11-06",
-   "name": "Randall Mark Thorn",
-   "age": "61",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 4Th",
-   "more": 0,
-   "ts": 1793992306,
-   "photo": "photos/MAR_THORN_RANDALL_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_MCCANTS_TIFFANY_350753",
-   "name": "Tiffany Shaunatae Mccants",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 2,
-   "ts": 1793991490,
-   "photo": "photos/MKE_MCCANTS_TIFFANY_350753.jpg"
-  },
-  {
-   "key": "MKE_GALLOB_JOSEPH_603846",
-   "name": "Joseph Donald Gallob",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 0,
-   "ts": 1793991488,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRIBBS_TARCY_614157",
-   "name": "Tarcy Deroy Cribbs",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Injury by Negligent Use/Weapon/Explosive",
-   "more": 2,
-   "ts": 1793991486,
-   "photo": "photos/MKE_CRIBBS_TARCY_614157.jpg"
   }
  ]
 }
