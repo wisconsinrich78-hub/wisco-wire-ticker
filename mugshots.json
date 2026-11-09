@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T09:49:29+00:00",
+ "updated": "2026-11-09T10:28:47+00:00",
  "items": [
+  {
+   "key": "MKE_REED_CORYE_518179",
+   "name": "Corye Isaac Reed",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794218247,
+   "photo": null
+  },
+  {
+   "key": "KEN_LIPERT_GARY_2026-00006192",
+   "name": "Gary Lee Lipert",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794218225,
+   "photo": "photos/KEN_LIPERT_GARY_2026-00006192.jpg"
+  },
+  {
+   "key": "STONE_CHRIS_2026-11-09",
+   "name": "Chris A Stone",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794218225,
+   "photo": null
+  },
+  {
+   "key": "MAR_POPP_DYLAN_2026-11-08_17074001",
+   "name": "Dylan Mark Popp",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 3,
+   "ts": 1794218028,
+   "photo": "photos/MAR_POPP_DYLAN_2026-11-08_17074001.jpg"
+  },
   {
    "key": "RC_EVERTON_JALANDRE_120011076075316",
    "name": "Jalandre Martise Everton",
@@ -98,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794212877,
-   "photo": null
+   "photo": "photos/MKE_WALLACE_ARIEL_648214.jpg"
   },
   {
    "key": "RC_WRIGHT_JONYAE_120011076073657",
@@ -200,17 +244,6 @@
    "photo": "photos/RC_ORTIZ_ANIYA_120011074486823.jpg"
   },
   {
-   "key": "RC_RODRIGUEZ_ASHLEY_120011076073239",
-   "name": "Ashley Maria Rodriguez",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794206872,
-   "photo": "photos/RC_RODRIGUEZ_ASHLEY_120011076073239.jpg"
-  },
-  {
    "key": "MCKINNEY_JAQUAN_2026-11-09",
    "name": "Jaquan L Mckinney",
    "age": "21",
@@ -220,17 +253,6 @@
    "more": 0,
    "ts": 1794206829,
    "photo": null
-  },
-  {
-   "key": "RC_PERINE_MARK_120011076071627",
-   "name": "Mark Allen Perine",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794203267,
-   "photo": "photos/RC_PERINE_MARK_120011076071627.jpg"
   },
   {
    "key": "MAR_KELLEY_PATRICK_2026-11-08",
@@ -506,31 +528,53 @@
    "more": 1,
    "ts": 1794149231,
    "photo": null
-  },
-  {
-   "key": "NELSON_JASON_2026-11-08",
-   "name": "Jason F Nelson",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794148021,
-   "photo": null
-  },
-  {
-   "key": "DOU_KOSKI_AMANDA_2026-11-08",
-   "name": "Amanda J Koski",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794147436,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_REED_CORYE_518179",
+   "name": "Corye Isaac Reed",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794218247,
+   "photo": null
+  },
+  {
+   "key": "KEN_LIPERT_GARY_2026-00006192",
+   "name": "Gary Lee Lipert",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794218225,
+   "photo": "photos/KEN_LIPERT_GARY_2026-00006192.jpg"
+  },
+  {
+   "key": "STONE_CHRIS_2026-11-09",
+   "name": "Chris A Stone",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794218225,
+   "photo": null
+  },
+  {
+   "key": "MAR_POPP_DYLAN_2026-11-08_17074001",
+   "name": "Dylan Mark Popp",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 3,
+   "ts": 1794218028,
+   "photo": "photos/MAR_POPP_DYLAN_2026-11-08_17074001.jpg"
+  },
   {
    "key": "RC_EVERTON_JALANDRE_120011076075316",
    "name": "Jalandre Martise Everton",
@@ -628,7 +672,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794212877,
-   "photo": null
+   "photo": "photos/MKE_WALLACE_ARIEL_648214.jpg"
   },
   {
    "key": "RC_WRIGHT_JONYAE_120011076073657",
@@ -779,10 +823,10 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
    "more": 36,
    "ts": 1794202075,
-   "photo": null
+   "photo": "photos/MKE_PARROW_GIOVANTE_628368.jpg"
   },
   {
    "key": "MKE_THOMAS_MICHOL_629618",
@@ -859,7 +903,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794200266,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_NIKI_648211.jpg"
   },
   {
    "key": "MAR_KELLEY_PATRICK_2026-11-08",
@@ -4589,28 +4633,6 @@
    "more": 0,
    "ts": 1793962036,
    "photo": "photos/TREM_BEDE_CECELIA_6203.jpg"
-  },
-  {
-   "key": "MKE_LEWIS_LESENT_2030198",
-   "name": "Lesent LL Lewis",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 9,
-   "ts": 1793959065,
-   "photo": "photos/MKE_LEWIS_LESENT_2030198.jpg"
-  },
-  {
-   "key": "MAR_MITCHELL_ALIVIA_2026-11-06",
-   "name": "Alivia Carol Rose Mitchell",
-   "age": "22",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1793958922,
-   "photo": "photos/MAR_MITCHELL_ALIVIA_2026-11-06.jpg"
   }
  ]
 }
