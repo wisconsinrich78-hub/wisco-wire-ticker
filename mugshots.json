@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-09T01:57:51+00:00",
+ "updated": "2026-11-09T02:29:27+00:00",
  "items": [
+  {
+   "key": "MKE_TORRESPRINCIPE_HENDRICK_648209",
+   "name": "Hendrick J Torres Principe",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794191251,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_JOHN_648210",
+   "name": "John Robert Moore",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794191250,
+   "photo": null
+  },
+  {
+   "key": "KEN_SWANSON_RICHARD_2026-00006180",
+   "name": "Richard Jay Swanson",
+   "age": "67",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 0,
+   "ts": 1794189573,
+   "photo": "photos/KEN_SWANSON_RICHARD_2026-00006180.jpg"
+  },
   {
    "key": "MKE_HUIRAS_STEVEN_543370",
    "name": "Steven M Huiras",
@@ -219,39 +252,6 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1794174431,
-   "photo": null
-  },
-  {
-   "key": "MKE_BAGGETT_JAMES_394038",
-   "name": "James Baggett",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
-   "more": 2,
-   "ts": 1794173267,
-   "photo": "photos/MKE_BAGGETT_JAMES_394038.jpg"
-  },
-  {
-   "key": "MKE_ARRIGONI_HENRY_648206",
-   "name": "Henry Arrigoni",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794173265,
-   "photo": null
-  },
-  {
-   "key": "MKE_ANDERSON_DEMETRIUS_295374",
-   "name": "Demetrius Daniel Anderson",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794169667,
    "photo": null
   },
   {
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_TORRESPRINCIPE_HENDRICK_648209",
+   "name": "Hendrick J Torres Principe",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794191251,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_JOHN_648210",
+   "name": "John Robert Moore",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794191250,
+   "photo": null
+  },
+  {
+   "key": "KEN_SWANSON_RICHARD_2026-00006180",
+   "name": "Richard Jay Swanson",
+   "age": "67",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 0,
+   "ts": 1794189573,
+   "photo": "photos/KEN_SWANSON_RICHARD_2026-00006180.jpg"
+  },
+  {
    "key": "MKE_HUIRAS_STEVEN_543370",
    "name": "Steven M Huiras",
    "age": "62",
@@ -771,7 +804,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794173265,
-   "photo": null
+   "photo": "photos/MKE_ARRIGONI_HENRY_648206.jpg"
   },
   {
    "key": "MKE_ANDERSON_DEMETRIUS_295374",
@@ -782,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794169667,
-   "photo": null
+   "photo": "photos/MKE_ANDERSON_DEMETRIUS_295374.jpg"
   },
   {
    "key": "REDMOND_LEE_2026-11-08",
@@ -826,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794167860,
-   "photo": null
+   "photo": "photos/MKE_OCLAIRECARTER_COVACHE_646312.jpg"
   },
   {
    "key": "RC_COSEY_CHRISTOPHER_120011076060432",
@@ -1010,8 +1043,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
+   "more": 1,
    "ts": 1794149825,
    "photo": "photos/KEN_HEARTON_HERMAN_2026-00006179.jpg"
   },
@@ -4512,83 +4545,6 @@
    "more": 3,
    "ts": 1793933242,
    "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_DAMION_612343",
-   "name": "Damion Deshun Thomas",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 14,
-   "ts": 1793932062,
-   "photo": "photos/MKE_THOMAS_DAMION_612343.jpg"
-  },
-  {
-   "key": "MKE_TAYLOR_ARION_639269",
-   "name": "Arion Amillio Taylor",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793932060,
-   "photo": "photos/MKE_TAYLOR_ARION_639269.jpg"
-  },
-  {
-   "key": "MKE_CRUZ_KERANY_643980",
-   "name": "Kerany Rayanna Cruz",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Injury by Intoxicated Use/Vehicle",
-   "more": 1,
-   "ts": 1793932059,
-   "photo": "photos/MKE_CRUZ_KERANY_643980.jpg"
-  },
-  {
-   "key": "MKE_STEWART_DONTAY_601666",
-   "name": "Dontay Lovell Stewart",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793930322,
-   "photo": "photos/MKE_STEWART_DONTAY_601666.jpg"
-  },
-  {
-   "key": "MKE_PATTON_JOSHUA_405824",
-   "name": "Joshua Durant Patton",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
-   "more": 41,
-   "ts": 1793930320,
-   "photo": "photos/MKE_PATTON_JOSHUA_405824.jpg"
-  },
-  {
-   "key": "MKE_JARVISMABEN_TRACY_648154",
-   "name": "Tracy Earl Jarvis Maben",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793930318,
-   "photo": "photos/MKE_JARVISMABEN_TRACY_648154.jpg"
-  },
-  {
-   "key": "MKE_JAMERSON_BRIAN_277637",
-   "name": "Brian Keith Jamerson",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 3,
-   "ts": 1793930316,
-   "photo": "photos/MKE_JAMERSON_BRIAN_277637.jpg"
   }
  ]
 }
