@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-09T02:57:10+00:00",
+ "updated": "2026-11-09T03:34:09+00:00",
  "items": [
+  {
+   "key": "MKE_ROBERTS_JOSHUA_2066684",
+   "name": "Joshua Sylvanus Roberts",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794194893,
+   "photo": null
+  },
+  {
+   "key": "BRUEGGEN_ISAIAH_2026-11-08",
+   "name": "Isaiah J Brueggen",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794194827,
+   "photo": null
+  },
+  {
+   "key": "DOU_PAULUS_HALEY_2026-11-08",
+   "name": "Haley J Paulus",
+   "age": "57",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794194226,
+   "photo": "photos/DOU_PAULUS_HALEY_2026-11-08.jpg"
+  },
   {
    "key": "MAR_DENZIN_SCOTT_2026-11-08_348103",
    "name": "Scott Gordon Denzin",
@@ -241,17 +274,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794175056,
-   "photo": null
-  },
-  {
-   "key": "MKE_PICKENS_CHRISTOPHER_612238",
-   "name": "Christopher Pickens",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794175054,
    "photo": null
   },
   {
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1794134832,
    "photo": "photos/TREM_LOPEZTIENDA_ABEL_5650.jpg"
-  },
-  {
-   "key": "TREM_SKWIOT_BROCK_6206",
-   "name": "Brock William Edward Skwiot",
-   "age": "32",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possession of Cocaine",
-   "more": 0,
-   "ts": 1794134830,
-   "photo": "photos/TREM_SKWIOT_BROCK_6206.jpg"
-  },
-  {
-   "key": "TREM_MARTINEZCASTILLO_AGUSTIN_6207",
-   "name": "Agustin Martinez Castillo",
-   "age": "29",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating while Intoxicated - 1st Offense, with a Minor Child in the V",
-   "more": 0,
-   "ts": 1794134829,
-   "photo": "photos/TREM_MARTINEZCASTILLO_AGUSTIN_6207.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ROBERTS_JOSHUA_2066684",
+   "name": "Joshua Sylvanus Roberts",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794194893,
+   "photo": null
+  },
+  {
+   "key": "BRUEGGEN_ISAIAH_2026-11-08",
+   "name": "Isaiah J Brueggen",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794194827,
+   "photo": null
+  },
+  {
+   "key": "DOU_PAULUS_HALEY_2026-11-08",
+   "name": "Haley J Paulus",
+   "age": "57",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794194226,
+   "photo": "photos/DOU_PAULUS_HALEY_2026-11-08.jpg"
+  },
   {
    "key": "MAR_DENZIN_SCOTT_2026-11-08_348103",
    "name": "Scott Gordon Denzin",
@@ -4501,39 +4534,6 @@
    "more": 0,
    "ts": 1793936865,
    "photo": "photos/RC_PRICE_ANGELA_120011075992851.jpg"
-  },
-  {
-   "key": "DOU_SCHAAF_CADEN_2026-11-05",
-   "name": "Caden C Schaaf",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793935025,
-   "photo": "photos/DOU_SCHAAF_CADEN_2026-11-05.jpg"
-  },
-  {
-   "key": "FDL_KEDINGER_DEAN_2026-11-05",
-   "name": "Dean T Kedinger",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1793934989,
-   "photo": "photos/FDL_KEDINGER_DEAN_2026-11-05.jpg"
-  },
-  {
-   "key": "KEN_ZELLMER_DMITRY_2026-00006127",
-   "name": "Dmitry Viktor Zellmer",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 2,
-   "ts": 1793933865,
-   "photo": "photos/KEN_ZELLMER_DMITRY_2026-00006127.jpg"
   }
  ]
 }
