@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T18:49:38+00:00",
+ "updated": "2026-11-09T18:57:48+00:00",
  "items": [
+  {
+   "key": "MAR_SPERKA_SARA_2026-11-09",
+   "name": "Sara Lynn Sperka",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 1,
+   "ts": 1794250438,
+   "photo": "photos/MAR_SPERKA_SARA_2026-11-09.jpg"
+  },
   {
    "key": "MKE_MCGREGORY_DERRICK_373782",
    "name": "Derrick Davon McGregory",
@@ -40,7 +51,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return On Writ",
    "more": 0,
    "ts": 1794247352,
    "photo": "photos/KEN_PLEASANT_JOHNTAY_2026-00006199.jpg"
@@ -51,7 +62,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794247098,
    "photo": "photos/KEN_DALTON_MALIK_2026-00006200.jpg"
@@ -475,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_KELLEY_PATRICK_2026-11-08",
-   "name": "Patrick James Kelley",
-   "age": "62",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 1,
-   "ts": 1794200009,
-   "photo": null
-  },
-  {
    "key": "FDL_SALVADORMARTINEZ_JOSE_2026-11-08",
    "name": "Jose A Salvador Martinez",
    "age": "",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MAR_SPERKA_SARA_2026-11-09",
+   "name": "Sara Lynn Sperka",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 1,
+   "ts": 1794250438,
+   "photo": "photos/MAR_SPERKA_SARA_2026-11-09.jpg"
+  },
+  {
    "key": "MKE_MCGREGORY_DERRICK_373782",
    "name": "Derrick Davon McGregory",
    "age": "37",
@@ -570,7 +581,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return On Writ",
    "more": 0,
    "ts": 1794247352,
    "photo": "photos/KEN_PLEASANT_JOHNTAY_2026-00006199.jpg"
@@ -581,7 +592,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794247098,
    "photo": "photos/KEN_DALTON_MALIK_2026-00006200.jpg"
