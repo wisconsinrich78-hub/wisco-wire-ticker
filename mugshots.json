@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-09T13:49:27+00:00",
+ "updated": "2026-11-09T13:58:32+00:00",
  "items": [
+  {
+   "key": "MKE_PLAIN_LUZERICK_289300",
+   "name": "Luzerick Sirlanto Plain",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 13,
+   "ts": 1794232666,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTILLOLEBRON_LUIS_350214",
+   "name": "Luis Castillo-Lebron",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 0,
+   "ts": 1794232664,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAMPTON_DARYL_374255",
+   "name": "Daryl Wayne Hampton",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
+   "more": 4,
+   "ts": 1794232662,
+   "photo": null
+  },
+  {
+   "key": "MKE_MITCHELL_LARON_396508",
+   "name": "Laron Deshay Mitchell",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794232660,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_BRANDON_402058",
+   "name": "Brandon Lamar Taylor",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794232657,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_JAMES_624996",
+   "name": "James Denzel Williams",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1794232656,
+   "photo": null
+  },
+  {
+   "key": "MAR_WOODARD_DAVID_2026-11-09",
+   "name": "David Nathanael Woodard",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Alter Price",
+   "more": 0,
+   "ts": 1794232437,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_RHONDA_2026-11-09",
+   "name": "Rhonda Kay Johnson",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1794232402,
+   "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09.jpg"
+  },
   {
    "key": "MKE_HUGHES_DWAIN_396124",
    "name": "Dwain R Hughes",
@@ -145,17 +233,6 @@
    "photo": null
   },
   {
-   "key": "KEN_HOPKINS_MAURELL_2026-00006191",
-   "name": "Maurell Avere Hopkins",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Marijuana (Thc)",
-   "more": 1,
-   "ts": 1794214582,
-   "photo": "photos/KEN_HOPKINS_MAURELL_2026-00006191.jpg"
-  },
-  {
    "key": "MAR_LAVIGNE_KAI_2026-11-08_16998201",
    "name": "Kai Gryphon Lavigne",
    "age": "18",
@@ -167,50 +244,6 @@
    "photo": "photos/MAR_LAVIGNE_KAI_2026-11-08_16998201.jpg"
   },
   {
-   "key": "RC_LEE_ANTONIO_120011076074575",
-   "name": "Antonio Diante Lee",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794214077,
-   "photo": "photos/RC_LEE_ANTONIO_120011076074575.jpg"
-  },
-  {
-   "key": "MKE_BROWN_SARAI_639740",
-   "name": "Sarai Symone Brown",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794212879,
-   "photo": null
-  },
-  {
-   "key": "MKE_WALLACE_ARIEL_648214",
-   "name": "Ariel Wallace",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794212877,
-   "photo": "photos/MKE_WALLACE_ARIEL_648214.jpg"
-  },
-  {
-   "key": "RC_WRIGHT_JONYAE_120011076073657",
-   "name": "Jonyae Lashae Wright",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1794210466,
-   "photo": null
-  },
-  {
    "key": "CHRISTIANSON_PETER_2026-11-09",
    "name": "Peter A Christianson",
    "age": "51",
@@ -220,17 +253,6 @@
    "more": 2,
    "ts": 1794209220,
    "photo": null
-  },
-  {
-   "key": "KEN_PUSHEE_CHARLES_2026-00006188",
-   "name": "Charles Allen Pushee",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Unsafe Lane Deviation",
-   "more": 2,
-   "ts": 1794207592,
-   "photo": "photos/KEN_PUSHEE_CHARLES_2026-00006188.jpg"
   },
   {
    "key": "MAR_FROST_AUSTAN_2026-11-08",
@@ -506,31 +528,97 @@
    "more": 1,
    "ts": 1794151042,
    "photo": "photos/DOU_WUORINEN_RONALD_2026-11-08.jpg"
-  },
-  {
-   "key": "FDL_CHRISTIE_AARON_2026-11-08",
-   "name": "Aaron John Christie",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794150986,
-   "photo": "photos/FDL_CHRISTIE_AARON_2026-11-08.jpg"
-  },
-  {
-   "key": "MAR_PIERCE_SKYILAR_2026-11-07_12710801",
-   "name": "Skyilar Lashae Pierce",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794149633,
-   "photo": "photos/MAR_PIERCE_SKYILAR_2026-11-07_12710801.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_PLAIN_LUZERICK_289300",
+   "name": "Luzerick Sirlanto Plain",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 13,
+   "ts": 1794232666,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTILLOLEBRON_LUIS_350214",
+   "name": "Luis Castillo-Lebron",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 0,
+   "ts": 1794232664,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAMPTON_DARYL_374255",
+   "name": "Daryl Wayne Hampton",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
+   "more": 4,
+   "ts": 1794232662,
+   "photo": null
+  },
+  {
+   "key": "MKE_MITCHELL_LARON_396508",
+   "name": "Laron Deshay Mitchell",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794232660,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_BRANDON_402058",
+   "name": "Brandon Lamar Taylor",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794232657,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_JAMES_624996",
+   "name": "James Denzel Williams",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1794232656,
+   "photo": null
+  },
+  {
+   "key": "MAR_WOODARD_DAVID_2026-11-09",
+   "name": "David Nathanael Woodard",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Alter Price",
+   "more": 0,
+   "ts": 1794232437,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_RHONDA_2026-11-09",
+   "name": "Rhonda Kay Johnson",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1794232402,
+   "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09.jpg"
+  },
   {
    "key": "MKE_HUGHES_DWAIN_396124",
    "name": "Dwain R Hughes",
@@ -4523,61 +4611,6 @@
    "more": 0,
    "ts": 1793975267,
    "photo": "photos/MKE_ZAMORA_ROY_544090.jpg"
-  },
-  {
-   "key": "MKE_TAYLOR_GLENN_376807",
-   "name": "Glenn L Taylor",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 2,
-   "ts": 1793973477,
-   "photo": "photos/MKE_TAYLOR_GLENN_376807.jpg"
-  },
-  {
-   "key": "MKE_MCCALL_TERRIAH_648160",
-   "name": "Terriah L McCall",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793973475,
-   "photo": "photos/MKE_MCCALL_TERRIAH_648160.jpg"
-  },
-  {
-   "key": "MKE_JONES_BRITTANY_356747",
-   "name": "Brittany J Jones",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793973473,
-   "photo": "photos/MKE_JONES_BRITTANY_356747.jpg"
-  },
-  {
-   "key": "MKE_GOODMAN_ANDRE_637616",
-   "name": "Andre Howard Goodman",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1793973471,
-   "photo": "photos/MKE_GOODMAN_ANDRE_637616.jpg"
-  },
-  {
-   "key": "MAR_BOLLER_JERRY_2026-11-06",
-   "name": "Jerry Lee Boller",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 1,
-   "ts": 1793973321,
-   "photo": "photos/MAR_BOLLER_JERRY_2026-11-06.jpg"
   }
  ]
 }
