@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T11:49:32+00:00",
+ "updated": "2026-11-09T12:28:14+00:00",
  "items": [
+  {
+   "key": "MAR_HUNTER_TERESA_2026-11-08_13988901",
+   "name": "Teresa Marie Hunter",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794225210,
+   "photo": "photos/MAR_HUNTER_TERESA_2026-11-08_13988901.jpg"
+  },
   {
    "key": "RC_DIAZ_ERIK_120011076076717",
    "name": "Erik Diaz",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1794149633,
    "photo": "photos/MAR_PIERCE_SKYILAR_2026-11-07_12710801.jpg"
-  },
-  {
-   "key": "STEVENS_KENNEDY_2026-11-08",
-   "name": "Kennedy M Stevens",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 1,
-   "ts": 1794149231,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_HUNTER_TERESA_2026-11-08_13988901",
+   "name": "Teresa Marie Hunter",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage To Property",
+   "more": 1,
+   "ts": 1794225210,
+   "photo": "photos/MAR_HUNTER_TERESA_2026-11-08_13988901.jpg"
+  },
   {
    "key": "RC_DIAZ_ERIK_120011076076717",
    "name": "Erik Diaz",
@@ -1090,7 +1101,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794189467,
-   "photo": null
+   "photo": "photos/MKE_HUIRAS_STEVEN_543370.jpg"
   },
   {
    "key": "MKE_WILDER_ARMOND_648207",
@@ -4556,17 +4567,6 @@
    "more": 1,
    "ts": 1793973321,
    "photo": "photos/MAR_BOLLER_JERRY_2026-11-06.jpg"
-  },
-  {
-   "key": "FDL_FUNK_CADENCE_2026-11-06",
-   "name": "Cadence Melissa Funk",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1793967380,
-   "photo": "photos/FDL_FUNK_CADENCE_2026-11-06.jpg"
   }
  ]
 }
