@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T03:34:09+00:00",
+ "updated": "2026-11-09T03:49:30+00:00",
  "items": [
+  {
+   "key": "RC_PHILLIPS_CHARLES_120011076069716",
+   "name": "Charles Francis Phillips",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794196068,
+   "photo": "photos/RC_PHILLIPS_CHARLES_120011076069716.jpg"
+  },
   {
    "key": "MKE_ROBERTS_JOSHUA_2066684",
    "name": "Joshua Sylvanus Roberts",
@@ -266,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_EVANS_ANDREW_347547",
-   "name": "Andrew Cornelius Evans",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794175056,
-   "photo": null
-  },
-  {
    "key": "DOYLE_KENNETH_2026-11-08",
    "name": "Kenneth A Doyle",
    "age": "70",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PHILLIPS_CHARLES_120011076069716",
+   "name": "Charles Francis Phillips",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794196068,
+   "photo": "photos/RC_PHILLIPS_CHARLES_120011076069716.jpg"
+  },
   {
    "key": "MKE_ROBERTS_JOSHUA_2066684",
    "name": "Joshua Sylvanus Roberts",
@@ -4523,17 +4534,6 @@
    "more": 1,
    "ts": 1793937475,
    "photo": "photos/KEN_GITTENS_KARI_2026-00006130.jpg"
-  },
-  {
-   "key": "RC_PRICE_ANGELA_120011075992851",
-   "name": "Angela Ann Price",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793936865,
-   "photo": "photos/RC_PRICE_ANGELA_120011075992851.jpg"
   }
  ]
 }
