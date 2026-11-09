@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-09T20:29:31+00:00",
+ "updated": "2026-11-09T20:49:26+00:00",
  "items": [
+  {
+   "key": "RC_BOUWMA_MARK_120011076098490",
+   "name": "Mark James Bouwma",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794257268,
+   "photo": "photos/RC_BOUWMA_MARK_120011076098490.jpg"
+  },
+  {
+   "key": "RC_GARCIAGONZALES_ALIYAH_120011076099516",
+   "name": "Aliyah Celeste Garcia-Gonzales",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794257266,
+   "photo": "photos/RC_GARCIAGONZALES_ALIYAH_120011076099516.jpg"
+  },
+  {
+   "key": "LEDMAN_STEVEN_2026-11-09",
+   "name": "Steven B Ledman",
+   "age": "64",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794257224,
+   "photo": null
+  },
   {
    "key": "MKE_OWENS_TYRON_613580",
    "name": "Tyron Nakee Owens",
@@ -233,17 +266,6 @@
    "photo": "photos/KEN_PLEASANT_JOHNTAY_2026-00006199.jpg"
   },
   {
-   "key": "KEN_DALTON_MALIK_2026-00006200",
-   "name": "Malik Daleonjaque Dalton",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794247098,
-   "photo": "photos/KEN_DALTON_MALIK_2026-00006200.jpg"
-  },
-  {
    "key": "MAR_HOFFMAN_SCOTT_2026-11-09_8479304",
    "name": "Scott Anthony Hoffman",
    "age": "56",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1794246812,
    "photo": null
-  },
-  {
-   "key": "RC_FONSECA_LUIS_120011076089620",
-   "name": "Luis Enrique Fonseca",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794246481,
-   "photo": "photos/RC_FONSECA_LUIS_120011076089620.jpg"
   },
   {
    "key": "HAUGEN_SIRI_2026-11-09",
@@ -517,20 +528,42 @@
    "more": 2,
    "ts": 1794209220,
    "photo": null
-  },
-  {
-   "key": "MCKINNEY_JAQUAN_2026-11-09",
-   "name": "Jaquan L Mckinney",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794206829,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BOUWMA_MARK_120011076098490",
+   "name": "Mark James Bouwma",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794257268,
+   "photo": "photos/RC_BOUWMA_MARK_120011076098490.jpg"
+  },
+  {
+   "key": "RC_GARCIAGONZALES_ALIYAH_120011076099516",
+   "name": "Aliyah Celeste Garcia-Gonzales",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794257266,
+   "photo": "photos/RC_GARCIAGONZALES_ALIYAH_120011076099516.jpg"
+  },
+  {
+   "key": "LEDMAN_STEVEN_2026-11-09",
+   "name": "Steven B Ledman",
+   "age": "64",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794257224,
+   "photo": null
+  },
   {
    "key": "MKE_OWENS_TYRON_613580",
    "name": "Tyron Nakee Owens",
@@ -4622,17 +4655,6 @@
    "more": 0,
    "ts": 1793999693,
    "photo": "photos/KEN_LANE_DERRELL_2026-00006138.jpg"
-  },
-  {
-   "key": "BERG_TYLER_2026-11-06",
-   "name": "Tyler N Berg",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Retail Theft-Intentionally Take <=$2,500",
-   "more": 0,
-   "ts": 1793998042,
-   "photo": null
   }
  ]
 }
