@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T07:49:28+00:00",
+ "updated": "2026-11-09T08:28:23+00:00",
  "items": [
+  {
+   "key": "MKE_BROWN_SARAI_639740",
+   "name": "Sarai Symone Brown",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794212879,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALLACE_ARIEL_648214",
+   "name": "Ariel Wallace",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794212877,
+   "photo": null
+  },
   {
    "key": "RC_WRIGHT_JONYAE_120011076073657",
    "name": "Jonyae Lashae Wright",
@@ -62,7 +84,7 @@
    "age": "23",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1794207411,
    "photo": "photos/KEN_CLARK_SKYLINN_2026-00006190.jpg"
@@ -150,7 +172,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
    "more": 36,
    "ts": 1794202075,
    "photo": null
@@ -197,28 +219,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794200272,
-   "photo": null
-  },
-  {
-   "key": "MKE_HAMPTON_KEYANDA_522950",
-   "name": "Keyanda Shatell Hampton",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794200270,
-   "photo": null
-  },
-  {
-   "key": "MKE_CROSS_TYESHA_626892",
-   "name": "Tyesha Beyonce Cross",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794200268,
    "photo": null
   },
   {
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_BROWN_SARAI_639740",
+   "name": "Sarai Symone Brown",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794212879,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALLACE_ARIEL_648214",
+   "name": "Ariel Wallace",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794212877,
+   "photo": null
+  },
+  {
    "key": "RC_WRIGHT_JONYAE_120011076073657",
    "name": "Jonyae Lashae Wright",
    "age": "29",
@@ -592,7 +614,7 @@
    "age": "23",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1794207411,
    "photo": "photos/KEN_CLARK_SKYLINN_2026-00006190.jpg"
@@ -680,7 +702,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
    "more": 36,
    "ts": 1794202075,
    "photo": null
@@ -1024,7 +1046,7 @@
    "charge": "Possession of Narcotic Drugs",
    "more": 1,
    "ts": 1794184105,
-   "photo": null
+   "photo": "photos/MKE_HABRAT_MATTHEW_391923.jpg"
   },
   {
    "key": "MKE_GIL_DANNY_612942",
@@ -1035,7 +1057,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794184103,
-   "photo": null
+   "photo": "photos/MKE_GIL_DANNY_612942.jpg"
   },
   {
    "key": "BURZINSKI_DAVID_2026-11-08",
@@ -4545,94 +4567,6 @@
    "more": 0,
    "ts": 1793954864,
    "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_BRIDGETTE_157653",
-   "name": "Bridgette Lashonne Williams",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793953657,
-   "photo": "photos/MKE_WILLIAMS_BRIDGETTE_157653.jpg"
-  },
-  {
-   "key": "MKE_LOPEZ_FRANCISCO_240046",
-   "name": "Francisco Javier Lopez",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property <=$2500",
-   "more": 3,
-   "ts": 1793953655,
-   "photo": "photos/MKE_LOPEZ_FRANCISCO_240046.jpg"
-  },
-  {
-   "key": "MKE_JONES_DORRIEN_648159",
-   "name": "Dorrien C Jones",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793953653,
-   "photo": "photos/MKE_JONES_DORRIEN_648159.jpg"
-  },
-  {
-   "key": "MKE_HICKS_HAKEEM_409654",
-   "name": "Hakeem Hicks",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793953652,
-   "photo": "photos/MKE_HICKS_HAKEEM_409654.jpg"
-  },
-  {
-   "key": "MKE_FREEMAN_BIANCA_648158",
-   "name": "Bianca Freeman",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793953650,
-   "photo": "photos/MKE_FREEMAN_BIANCA_648158.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_KEYANNA_536394",
-   "name": "Keyanna Denise Robinson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1793951894,
-   "photo": "photos/MKE_ROBINSON_KEYANNA_536394.jpg"
-  },
-  {
-   "key": "MKE_GUY_DAVID_624981",
-   "name": "David Terrell Guy",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793951892,
-   "photo": "photos/MKE_GUY_DAVID_624981.jpg"
-  },
-  {
-   "key": "MAR_ELLIS_RORY_2026-11-05_608001",
-   "name": "Rory Joseph Ellis",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 1,
-   "ts": 1793951731,
-   "photo": "photos/MAR_ELLIS_RORY_2026-11-05_608001.jpg"
   }
  ]
 }
