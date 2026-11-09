@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:49:28+00:00",
+ "updated": "2026-11-09T06:34:51+00:00",
  "items": [
   {
    "key": "RC_PERINE_MARK_120011076071627",
@@ -29,7 +29,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
    "more": 36,
    "ts": 1794202075,
    "photo": null
@@ -559,7 +559,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
    "more": 36,
    "ts": 1794202075,
    "photo": null
@@ -4534,28 +4534,6 @@
    "more": 0,
    "ts": 1793949396,
    "photo": "photos/FDL_LUNDE_ANGELA_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_JANOWIAK_HALEY_648157",
-   "name": "Haley Kay Janowiak",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Causing Mental Harm to Child",
-   "more": 0,
-   "ts": 1793946471,
-   "photo": "photos/MKE_JANOWIAK_HALEY_648157.jpg"
-  },
-  {
-   "key": "MAR_ELLIS_RORY_2026-11-05",
-   "name": "Rory Joseph Ellis",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Strangulation And Suffocation - Aggravated",
-   "more": 1,
-   "ts": 1793944561,
-   "photo": null
   }
  ]
 }
