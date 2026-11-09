@@ -1,16 +1,71 @@
 {
- "updated": "2026-11-09T13:58:32+00:00",
+ "updated": "2026-11-09T14:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_AGOSTODIAZ_JOSHUA_648216",
+   "name": "Joshua Agosto Diaz",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794234474,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSARIOSALGADO_NINOSKA_648217",
+   "name": "Ninoska Nicole Rosario Salgado",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794234470,
+   "photo": null
+  },
+  {
+   "key": "BURROW_CHANDLER_2026-11-09",
+   "name": "Chandler Paul Burrow",
+   "age": "21",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794234425,
+   "photo": null
+  },
+  {
+   "key": "HELLERUD_JERED_2026-11-09",
+   "name": "Jered E Hellerud",
+   "age": "39",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794234425,
+   "photo": null
+  },
+  {
+   "key": "FDL_QUICK_CHRISTOPHER_2026-11-09",
+   "name": "Christopher G Quick",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794233813,
+   "photo": "photos/FDL_QUICK_CHRISTOPHER_2026-11-09.jpg"
+  },
   {
    "key": "MKE_PLAIN_LUZERICK_289300",
    "name": "Luzerick Sirlanto Plain",
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Party to a Crime",
    "more": 13,
    "ts": 1794232666,
-   "photo": null
+   "photo": "photos/MKE_PLAIN_LUZERICK_289300.jpg"
   },
   {
    "key": "MKE_CASTILLOLEBRON_LUIS_350214",
@@ -29,8 +84,8 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
-   "more": 4,
+   "charge": "Habitual Criminality",
+   "more": 11,
    "ts": 1794232662,
    "photo": null
   },
@@ -40,8 +95,8 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
+   "more": 2,
    "ts": 1794232660,
    "photo": null
   },
@@ -65,7 +120,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 2,
    "ts": 1794232656,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_JAMES_624996.jpg"
   },
   {
    "key": "MAR_WOODARD_DAVID_2026-11-09",
@@ -209,28 +264,6 @@
    "more": 0,
    "ts": 1794217678,
    "photo": "photos/RC_ADAMS_SHAMARIONTE_120011076075444.jpg"
-  },
-  {
-   "key": "MKE_GOODMAN_LEROY_251286",
-   "name": "Leroy Anthony Goodman",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794216448,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_DAQUARIUS_643246",
-   "name": "Daquarius Trevaughn Davis",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794216447,
-   "photo": null
   },
   {
    "key": "MAR_LAVIGNE_KAI_2026-11-08_16998201",
@@ -495,52 +528,74 @@
    "more": 0,
    "ts": 1794152826,
    "photo": null
-  },
-  {
-   "key": "XIONG_CHONG_2026-11-08",
-   "name": "Chong Xiong",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Trespass To Dwelling",
-   "more": 0,
-   "ts": 1794152826,
-   "photo": null
-  },
-  {
-   "key": "EDGE_AMBER_2026-11-08",
-   "name": "Amber R Edge",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 4,
-   "ts": 1794151618,
-   "photo": null
-  },
-  {
-   "key": "DOU_WUORINEN_RONALD_2026-11-08",
-   "name": "Ronald P Wuorinen",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794151042,
-   "photo": "photos/DOU_WUORINEN_RONALD_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_AGOSTODIAZ_JOSHUA_648216",
+   "name": "Joshua Agosto Diaz",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794234474,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSARIOSALGADO_NINOSKA_648217",
+   "name": "Ninoska Nicole Rosario Salgado",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794234470,
+   "photo": null
+  },
+  {
+   "key": "BURROW_CHANDLER_2026-11-09",
+   "name": "Chandler Paul Burrow",
+   "age": "21",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794234425,
+   "photo": null
+  },
+  {
+   "key": "HELLERUD_JERED_2026-11-09",
+   "name": "Jered E Hellerud",
+   "age": "39",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794234425,
+   "photo": null
+  },
+  {
+   "key": "FDL_QUICK_CHRISTOPHER_2026-11-09",
+   "name": "Christopher G Quick",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794233813,
+   "photo": "photos/FDL_QUICK_CHRISTOPHER_2026-11-09.jpg"
+  },
   {
    "key": "MKE_PLAIN_LUZERICK_289300",
    "name": "Luzerick Sirlanto Plain",
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Party to a Crime",
    "more": 13,
    "ts": 1794232666,
-   "photo": null
+   "photo": "photos/MKE_PLAIN_LUZERICK_289300.jpg"
   },
   {
    "key": "MKE_CASTILLOLEBRON_LUIS_350214",
@@ -559,8 +614,8 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
-   "more": 4,
+   "charge": "Habitual Criminality",
+   "more": 11,
    "ts": 1794232662,
    "photo": null
   },
@@ -570,8 +625,8 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
+   "more": 2,
    "ts": 1794232660,
    "photo": null
   },
@@ -595,7 +650,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 2,
    "ts": 1794232656,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_JAMES_624996.jpg"
   },
   {
    "key": "MAR_WOODARD_DAVID_2026-11-09",
@@ -4600,17 +4655,6 @@
    "more": 0,
    "ts": 1793977003,
    "photo": "photos/MAR_BURNETT_CHARLES_2026-11-06_8060202.jpg"
-  },
-  {
-   "key": "MKE_ZAMORA_ROY_544090",
-   "name": "Roy Abysael Zamora",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "False Imprisonment",
-   "more": 0,
-   "ts": 1793975267,
-   "photo": "photos/MKE_ZAMORA_ROY_544090.jpg"
   }
  ]
 }
