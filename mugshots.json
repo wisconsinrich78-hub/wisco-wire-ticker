@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T23:49:30+00:00",
+ "updated": "2026-11-09T00:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_HABRAT_MATTHEW_391923",
+   "name": "Matthew J Habrat",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 1,
+   "ts": 1794184105,
+   "photo": null
+  },
+  {
+   "key": "MKE_GIL_DANNY_612942",
+   "name": "Danny Gil",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794184103,
+   "photo": null
+  },
   {
    "key": "BURZINSKI_DAVID_2026-11-08",
    "name": "David E Burzinski",
@@ -18,10 +40,10 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1794180456,
-   "photo": null
+   "photo": "photos/MKE_CORREA_ANGEL_280733.jpg"
   },
   {
    "key": "MKE_BROWN_JAMES_609615",
@@ -244,17 +266,6 @@
    "photo": "photos/MKE_ISMAIL_REHANA_648204.jpg"
   },
   {
-   "key": "MKE_ZAMORAGONZALEZ_JAIRO_648205",
-   "name": "Jairo Nahum Zamora Gonzalez",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794157059,
-   "photo": "photos/MKE_ZAMORAGONZALEZ_JAIRO_648205.jpg"
-  },
-  {
    "key": "MCCONNAUGHEY_THOMAS_2026-11-08",
    "name": "Thomas H Mcconnaughey",
    "age": "69",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1794155236,
    "photo": null
-  },
-  {
-   "key": "MKE_PAYTON_DONIEKA_629890",
-   "name": "Donieka S Payton",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property (Over $2500)",
-   "more": 5,
-   "ts": 1794153487,
-   "photo": "photos/MKE_PAYTON_DONIEKA_629890.jpg"
   },
   {
    "key": "VANG_KAO_2026-11-08",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HABRAT_MATTHEW_391923",
+   "name": "Matthew J Habrat",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 1,
+   "ts": 1794184105,
+   "photo": null
+  },
+  {
+   "key": "MKE_GIL_DANNY_612942",
+   "name": "Danny Gil",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794184103,
+   "photo": null
+  },
+  {
    "key": "BURZINSKI_DAVID_2026-11-08",
    "name": "David E Burzinski",
    "age": "61",
@@ -548,10 +570,10 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1794180456,
-   "photo": null
+   "photo": "photos/MKE_CORREA_ANGEL_280733.jpg"
   },
   {
    "key": "MKE_BROWN_JAMES_609615",
@@ -4415,17 +4437,6 @@
    "photo": "photos/MKE_CRUZ_KERANY_643980.jpg"
   },
   {
-   "key": "KEN_SOTELO_ALEXANDER_2026-00006122",
-   "name": "Alexander Sotelo",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "2Nd Degree Recklessly Endangering Safety",
-   "more": 1,
-   "ts": 1793930345,
-   "photo": "photos/KEN_SOTELO_ALEXANDER_2026-00006122.jpg"
-  },
-  {
    "key": "MKE_STEWART_DONTAY_601666",
    "name": "Dontay Lovell Stewart",
    "age": "48",
@@ -4468,17 +4479,6 @@
    "more": 3,
    "ts": 1793930316,
    "photo": "photos/MKE_JAMERSON_BRIAN_277637.jpg"
-  },
-  {
-   "key": "KEN_LUND_ASHLEY_2026-00006124",
-   "name": "Ashley Taylor Lund",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1793930305,
-   "photo": "photos/KEN_LUND_ASHLEY_2026-00006124.jpg"
   },
   {
    "key": "MURPHY_BRADLY_2026-11-05",
@@ -4556,105 +4556,6 @@
    "more": 0,
    "ts": 1793926668,
    "photo": "photos/MKE_CAREY_ELIZABETH_613430.jpg"
-  },
-  {
-   "key": "GREENO_DONALD_2026-11-05",
-   "name": "Donald F Greeno",
-   "age": "68",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess W/Intent-Heroin (<=3G)",
-   "more": 3,
-   "ts": 1793926027,
-   "photo": null
-  },
-  {
-   "key": "ECHEVERRIA_JOSE_2026-11-05",
-   "name": "Jose R Echeverria",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1793926026,
-   "photo": null
-  },
-  {
-   "key": "MKE_RIVERA_VALERIE_227358",
-   "name": "Valerie L Rivera",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793924872,
-   "photo": "photos/MKE_RIVERA_VALERIE_227358.jpg"
-  },
-  {
-   "key": "MKE_PIRTLE_MARCIA_239052",
-   "name": "Marcia Yvonne Pirtle",
-   "age": "64",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating w/ PAC (5th or 6th)",
-   "more": 1,
-   "ts": 1793924870,
-   "photo": "photos/MKE_PIRTLE_MARCIA_239052.jpg"
-  },
-  {
-   "key": "MKE_DOXZON_SELENA_2066956",
-   "name": "Selena Doxzon",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Neglecting a Child (Consequence is Death)",
-   "more": 0,
-   "ts": 1793924868,
-   "photo": "photos/MKE_DOXZON_SELENA_2066956.jpg"
-  },
-  {
-   "key": "MKE_COPELAND_CHRISTOPHER_648153",
-   "name": "Christopher Lawrence Copeland",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1793924867,
-   "photo": "photos/MKE_COPELAND_CHRISTOPHER_648153.jpg"
-  },
-  {
-   "key": "FDL_DELACRUZ_CASSANDRA_2026-11-05",
-   "name": "Cassandra De La Cruz",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793924176,
-   "photo": "photos/FDL_DELACRUZ_CASSANDRA_2026-11-05.jpg"
-  },
-  {
-   "key": "KEN_SCHULTZ_JEROME_2026-00006120",
-   "name": "Jerome Jermaine Schultz",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 3,
-   "ts": 1793923470,
-   "photo": "photos/KEN_SCHULTZ_JEROME_2026-00006120.jpg"
-  },
-  {
-   "key": "KEN_DEAL_MATTHEW_2026-00006117",
-   "name": "Matthew Joseph Deal",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Penalty - Retail Theft (<=$500)",
-   "more": 0,
-   "ts": 1793923393,
-   "photo": "photos/KEN_DEAL_MATTHEW_2026-00006117.jpg"
   }
  ]
 }
