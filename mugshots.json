@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-09T21:56:59+00:00",
+ "updated": "2026-11-09T22:31:33+00:00",
  "items": [
+  {
+   "key": "KLAUS_ASHLEIGH_2026-11-09",
+   "name": "Ashleigh Mae Klaus",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794263230,
+   "photo": null
+  },
+  {
+   "key": "KEN_LAMOTHE_JAMES_2026-00006205",
+   "name": "James M Lamothe",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794261498,
+   "photo": "photos/KEN_LAMOTHE_JAMES_2026-00006205.jpg"
+  },
+  {
+   "key": "MKE_THOMPSON_AARON_525056",
+   "name": "Aaron D Thompson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794261488,
+   "photo": null
+  },
   {
    "key": "KEN_BARNETT_BRITTNEY_2026-00006204",
    "name": "Brittney Irene Barnett",
@@ -62,8 +95,8 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
    "ts": 1794259714,
    "photo": null
   },
@@ -164,7 +197,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1794256093,
-   "photo": null
+   "photo": "photos/MKE_OWENS_TYRON_613580.jpg"
   },
   {
    "key": "DANIELS_JORDAN_2026-11-09",
@@ -194,7 +227,7 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "2Nd Deg. Sexual Assault/Use Of Force",
    "more": 0,
    "ts": 1794254281,
    "photo": "photos/KEN_NOLLHAMELIN_DEVON_2026-00006203.jpg"
@@ -238,7 +271,7 @@
    "age": "54",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794254104,
    "photo": "photos/KEN_HART_EUGENE_2026-00006201.jpg"
@@ -321,17 +354,6 @@
    "photo": null
   },
   {
-   "key": "MKE_EVERTON_JALANDRE_643778",
-   "name": "Jalandre Martice Everton",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794250674,
-   "photo": null
-  },
-  {
    "key": "MAR_SPERKA_SARA_2026-11-09",
    "name": "Sara Lynn Sperka",
    "age": "42",
@@ -341,17 +363,6 @@
    "more": 1,
    "ts": 1794250438,
    "photo": "photos/MAR_SPERKA_SARA_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_MCGREGORY_DERRICK_373782",
-   "name": "Derrick Davon McGregory",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
-   "more": 3,
-   "ts": 1794248874,
-   "photo": "photos/MKE_MCGREGORY_DERRICK_373782.jpg"
   },
   {
    "key": "MAR_HOFFMAN_SCOTT_2026-11-09_8479304",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794234425,
    "photo": null
-  },
-  {
-   "key": "FDL_QUICK_CHRISTOPHER_2026-11-09",
-   "name": "Christopher G Quick",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794233813,
-   "photo": "photos/FDL_QUICK_CHRISTOPHER_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KLAUS_ASHLEIGH_2026-11-09",
+   "name": "Ashleigh Mae Klaus",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794263230,
+   "photo": null
+  },
+  {
+   "key": "KEN_LAMOTHE_JAMES_2026-00006205",
+   "name": "James M Lamothe",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794261498,
+   "photo": "photos/KEN_LAMOTHE_JAMES_2026-00006205.jpg"
+  },
+  {
+   "key": "MKE_THOMPSON_AARON_525056",
+   "name": "Aaron D Thompson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794261488,
+   "photo": null
+  },
   {
    "key": "KEN_BARNETT_BRITTNEY_2026-00006204",
    "name": "Brittney Irene Barnett",
@@ -592,8 +625,8 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
    "ts": 1794259714,
    "photo": null
   },
@@ -694,7 +727,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1794256093,
-   "photo": null
+   "photo": "photos/MKE_OWENS_TYRON_613580.jpg"
   },
   {
    "key": "DANIELS_JORDAN_2026-11-09",
@@ -724,7 +757,7 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "2Nd Deg. Sexual Assault/Use Of Force",
    "more": 0,
    "ts": 1794254281,
    "photo": "photos/KEN_NOLLHAMELIN_DEVON_2026-00006203.jpg"
@@ -768,7 +801,7 @@
    "age": "54",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794254104,
    "photo": "photos/KEN_HART_EUGENE_2026-00006201.jpg"
@@ -4655,39 +4688,6 @@
    "more": 0,
    "ts": 1794005281,
    "photo": "photos/RC_DESCHLER_JENNI_120011076021600.jpg"
-  },
-  {
-   "key": "MKE_VAZQUEZ_SUJEILA_648168",
-   "name": "Sujeila Tyree Vazquez",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 1,
-   "ts": 1794002272,
-   "photo": "photos/MKE_VAZQUEZ_SUJEILA_648168.jpg"
-  },
-  {
-   "key": "MKE_REDDIX_JACQUES_648170",
-   "name": "Jacques Reddix",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794002271,
-   "photo": "photos/MKE_REDDIX_JACQUES_648170.jpg"
-  },
-  {
-   "key": "MKE_KAISER_MARISSA_648169",
-   "name": "Marissa Rose Kaiser",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794002269,
-   "photo": "photos/MKE_KAISER_MARISSA_648169.jpg"
   }
  ]
 }
