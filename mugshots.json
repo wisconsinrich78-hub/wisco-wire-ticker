@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T20:49:26+00:00",
+ "updated": "2026-11-09T21:08:52+00:00",
  "items": [
+  {
+   "key": "MAR_SMITH_GERALD_2026-11-09",
+   "name": "Gerald Lynn Smith",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794257743,
+   "photo": "photos/MAR_SMITH_GERALD_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_SPERKA_SARA_2026-11-09_2791703",
+   "name": "Sara Lynn Sperka",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 1,
+   "ts": 1794257706,
+   "photo": "photos/MAR_SPERKA_SARA_2026-11-09_2791703.jpg"
+  },
+  {
+   "key": "MAR_ECKERT_OLIVIA_2026-11-09",
+   "name": "Olivia Hope Eckert",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess W/ Intent-Amphetamine(>10-50G)",
+   "more": 6,
+   "ts": 1794257667,
+   "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_WALTERS_DIMITRI_2026-11-09",
+   "name": "Dimitri Andreas Walters",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1794257628,
+   "photo": "photos/MAR_WALTERS_DIMITRI_2026-11-09.jpg"
+  },
   {
    "key": "RC_BOUWMA_MARK_120011076098490",
    "name": "Mark James Bouwma",
@@ -464,28 +508,6 @@
    "photo": null
   },
   {
-   "key": "MAR_JOHNSON_RHONDA_2026-11-09",
-   "name": "Rhonda Kay Johnson",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Felony",
-   "more": 0,
-   "ts": 1794232402,
-   "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09.jpg"
-  },
-  {
-   "key": "MAR_HUNTER_TERESA_2026-11-08_13988901",
-   "name": "Teresa Marie Hunter",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794225210,
-   "photo": "photos/MAR_HUNTER_TERESA_2026-11-08_13988901.jpg"
-  },
-  {
    "key": "STONE_CHRIS_2026-11-09",
    "name": "Chris A Stone",
    "age": "23",
@@ -495,28 +517,6 @@
    "more": 0,
    "ts": 1794218225,
    "photo": null
-  },
-  {
-   "key": "MAR_POPP_DYLAN_2026-11-08_17074001",
-   "name": "Dylan Mark Popp",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794218028,
-   "photo": "photos/MAR_POPP_DYLAN_2026-11-08_17074001.jpg"
-  },
-  {
-   "key": "MAR_LAVIGNE_KAI_2026-11-08_16998201",
-   "name": "Kai Gryphon Lavigne",
-   "age": "18",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794214448,
-   "photo": "photos/MAR_LAVIGNE_KAI_2026-11-08_16998201.jpg"
   },
   {
    "key": "CHRISTIANSON_PETER_2026-11-09",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_SMITH_GERALD_2026-11-09",
+   "name": "Gerald Lynn Smith",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794257743,
+   "photo": "photos/MAR_SMITH_GERALD_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_SPERKA_SARA_2026-11-09_2791703",
+   "name": "Sara Lynn Sperka",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 1,
+   "ts": 1794257706,
+   "photo": "photos/MAR_SPERKA_SARA_2026-11-09_2791703.jpg"
+  },
+  {
+   "key": "MAR_ECKERT_OLIVIA_2026-11-09",
+   "name": "Olivia Hope Eckert",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess W/ Intent-Amphetamine(>10-50G)",
+   "more": 6,
+   "ts": 1794257667,
+   "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_WALTERS_DIMITRI_2026-11-09",
+   "name": "Dimitri Andreas Walters",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1794257628,
+   "photo": "photos/MAR_WALTERS_DIMITRI_2026-11-09.jpg"
+  },
   {
    "key": "RC_BOUWMA_MARK_120011076098490",
    "name": "Mark James Bouwma",
