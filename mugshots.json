@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T19:29:25+00:00",
+ "updated": "2026-11-09T19:49:37+00:00",
  "items": [
+  {
+   "key": "RC_COLON_RAPHAEL_120011076092499",
+   "name": "Raphael Antonio Colon",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794253668,
+   "photo": null
+  },
   {
    "key": "JANIS_JULIA_2026-11-09",
    "name": "Julia A Janis",
@@ -288,17 +299,6 @@
    "photo": null
   },
   {
-   "key": "MKE_DIAZMORRALES_JUAN_648219",
-   "name": "Juan Diaz Morrales",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794239859,
-   "photo": null
-  },
-  {
    "key": "MAR_WILL_DANIELLE_2026-11-09_17076901",
    "name": "Danielle Nicole Will",
    "age": "32",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_COLON_RAPHAEL_120011076092499",
+   "name": "Raphael Antonio Colon",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794253668,
+   "photo": null
+  },
   {
    "key": "JANIS_JULIA_2026-11-09",
    "name": "Julia A Janis",
@@ -4556,28 +4567,6 @@
    "more": 1,
    "ts": 1793995085,
    "photo": "photos/MKE_PAYNE_TAMARA_648167.jpg"
-  },
-  {
-   "key": "RC_HENDERSON_WILLIE_120011076015031",
-   "name": "Willie Robert Henderson",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions Imposed",
-   "more": 7,
-   "ts": 1793994505,
-   "photo": "photos/RC_HENDERSON_WILLIE_120011076015031.jpg"
-  },
-  {
-   "key": "RC_CONFER_MATTHEW_120011076014967",
-   "name": "Matthew John Confer",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793994499,
-   "photo": "photos/RC_CONFER_MATTHEW_120011076014967.jpg"
   }
  ]
 }
