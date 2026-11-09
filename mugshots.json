@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T11:28:10+00:00",
+ "updated": "2026-11-09T11:49:32+00:00",
  "items": [
+  {
+   "key": "RC_DIAZ_ERIK_120011076076717",
+   "name": "Erik Diaz",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence",
+   "more": 0,
+   "ts": 1794224866,
+   "photo": null
+  },
   {
    "key": "MKE_JONES_JEREMY_361568",
    "name": "Jeremy Odell Jones",
@@ -209,17 +220,6 @@
    "more": 2,
    "ts": 1794207521,
    "photo": null
-  },
-  {
-   "key": "KEN_COOKS_LAKEISHA_2026-00006189",
-   "name": "Lakeisha Denise Cooks",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794207484,
-   "photo": "photos/KEN_COOKS_LAKEISHA_2026-00006189.jpg"
   },
   {
    "key": "MAR_FROST_AUSTAN_2026-11-08",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DIAZ_ERIK_120011076076717",
+   "name": "Erik Diaz",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence",
+   "more": 0,
+   "ts": 1794224866,
+   "photo": null
+  },
   {
    "key": "MKE_JONES_JEREMY_361568",
    "name": "Jeremy Odell Jones",
