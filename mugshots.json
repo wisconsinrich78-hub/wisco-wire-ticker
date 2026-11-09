@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T00:49:33+00:00",
+ "updated": "2026-11-09T01:49:29+00:00",
  "items": [
+  {
+   "key": "RC_BOERGER_NATHAN_120011076067727",
+   "name": "Nathan Irwin Boerger",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1794188879,
+   "photo": "photos/RC_BOERGER_NATHAN_120011076067727.jpg"
+  },
   {
    "key": "MKE_HABRAT_MATTHEW_391923",
    "name": "Matthew J Habrat",
@@ -253,17 +264,6 @@
    "more": 1,
    "ts": 1794158159,
    "photo": "photos/FDL_BARTELS_HANNAH_2026-11-08.jpg"
-  },
-  {
-   "key": "MKE_ISMAIL_REHANA_648204",
-   "name": "Rehana Ismail",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794157061,
-   "photo": "photos/MKE_ISMAIL_REHANA_648204.jpg"
   },
   {
    "key": "MCCONNAUGHEY_THOMAS_2026-11-08",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BOERGER_NATHAN_120011076067727",
+   "name": "Nathan Irwin Boerger",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1794188879,
+   "photo": "photos/RC_BOERGER_NATHAN_120011076067727.jpg"
+  },
   {
    "key": "MKE_HABRAT_MATTHEW_391923",
    "name": "Matthew J Habrat",
@@ -4490,72 +4501,6 @@
    "more": 0,
    "ts": 1793930220,
    "photo": null
-  },
-  {
-   "key": "RC_YOUNG_DARRIS_120011075990474",
-   "name": "Darris Young",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793929673,
-   "photo": "photos/RC_YOUNG_DARRIS_120011075990474.jpg"
-  },
-  {
-   "key": "RC_ISOM_RICKY_120011075989725",
-   "name": "Ricky Lee Isom",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1793929670,
-   "photo": "photos/RC_ISOM_RICKY_120011075989725.jpg"
-  },
-  {
-   "key": "MKE_LACY_JOHNNIE_353214",
-   "name": "Johnnie S Lacy",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1793926672,
-   "photo": "photos/MKE_LACY_JOHNNIE_353214.jpg"
-  },
-  {
-   "key": "MKE_KERRY_FELTON_256311",
-   "name": "Felton L Kerry",
-   "age": "75",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1793926671,
-   "photo": "photos/MKE_KERRY_FELTON_256311.jpg"
-  },
-  {
-   "key": "MKE_CRUZ_LUIS_416537",
-   "name": "Luis E Cruz",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1793926670,
-   "photo": "photos/MKE_CRUZ_LUIS_416537.jpg"
-  },
-  {
-   "key": "MKE_CAREY_ELIZABETH_613430",
-   "name": "Elizabeth Carey",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1793926668,
-   "photo": "photos/MKE_CAREY_ELIZABETH_613430.jpg"
   }
  ]
 }
