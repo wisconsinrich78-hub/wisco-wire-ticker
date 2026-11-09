@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T16:51:36+00:00",
+ "updated": "2026-11-09T16:58:43+00:00",
  "items": [
+  {
+   "key": "MAR_DALEY_KEVIN_2026-11-09",
+   "name": "Kevin James Daley",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1794243224,
+   "photo": "photos/MAR_DALEY_KEVIN_2026-11-09.jpg"
+  },
   {
    "key": "LUOMA_BENJAMIN_2026-11-09",
    "name": "Benjamin R Luoma",
@@ -486,17 +497,6 @@
    "photo": null
   },
   {
-   "key": "MAR_SPRINGER_DANIEL_2026-11-08",
-   "name": "Daniel Frederick Springer",
-   "age": "72",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794189245,
-   "photo": "photos/MAR_SPRINGER_DANIEL_2026-11-08.jpg"
-  },
-  {
    "key": "BURZINSKI_DAVID_2026-11-08",
    "name": "David E Burzinski",
    "age": "61",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_DALEY_KEVIN_2026-11-09",
+   "name": "Kevin James Daley",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1794243224,
+   "photo": "photos/MAR_DALEY_KEVIN_2026-11-09.jpg"
+  },
   {
    "key": "LUOMA_BENJAMIN_2026-11-09",
    "name": "Benjamin R Luoma",
@@ -4644,50 +4655,6 @@
    "more": 5,
    "ts": 1793986049,
    "photo": "photos/MKE_CASTILLO_IVAN_648165.jpg"
-  },
-  {
-   "key": "MKE_SPRUILL_JONATHAN_645012",
-   "name": "Jonathan D Spruill",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1793984315,
-   "photo": "photos/MKE_SPRUILL_JONATHAN_645012.jpg"
-  },
-  {
-   "key": "MKE_RICHARDSON_JEFFERY_210991",
-   "name": "Jeffery Anthony Richardson",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793984311,
-   "photo": "photos/MKE_RICHARDSON_JEFFERY_210991.jpg"
-  },
-  {
-   "key": "MKE_POLNITZ_DAVEON_639381",
-   "name": "Daveon Antonio Polnitz",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1793984307,
-   "photo": "photos/MKE_POLNITZ_DAVEON_639381.jpg"
-  },
-  {
-   "key": "MKE_EVANS_MICHAEL_168892",
-   "name": "Michael Lee Evans",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1793984305,
-   "photo": "photos/MKE_EVANS_MICHAEL_168892.jpg"
   }
  ]
 }
