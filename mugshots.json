@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-09T23:25:03+00:00",
+ "updated": "2026-11-09T23:48:14+00:00",
  "items": [
+  {
+   "key": "RC_HARRIS_ROLAND_120011076113519",
+   "name": "Roland Lavada Harris",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (1St Violation)",
+   "more": 0,
+   "ts": 1794268069,
+   "photo": "photos/RC_HARRIS_ROLAND_120011076113519.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_JAMAL_354020",
+   "name": "Jamal Lavone Williams",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1794266927,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILSON_MYRON_390401",
+   "name": "Myron Bernard Wilson",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1794266923,
+   "photo": null
+  },
+  {
+   "key": "MKE_AGEE_HARVEY_524839",
+   "name": "Harvey B Agee",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 7,
+   "ts": 1794266915,
+   "photo": null
+  },
+  {
+   "key": "MKE_FORD_ASHUN_642696",
+   "name": "Ashun Tony Ford",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 7,
+   "ts": 1794266911,
+   "photo": null
+  },
+  {
+   "key": "MKE_NARVAEZ_LUIS_646997",
+   "name": "Luis Narvaez",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Reckless Probab./Great Harm",
+   "more": 0,
+   "ts": 1794266908,
+   "photo": null
+  },
   {
    "key": "FDL_TONEY_AMANDA_2026-11-09",
    "name": "Amanda Rae Toney",
@@ -41,7 +107,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 1,
    "ts": 1794265075,
    "photo": null
   },
@@ -255,17 +321,6 @@
    "photo": null
   },
   {
-   "key": "MKE_OWENS_TYRON_613580",
-   "name": "Tyron Nakee Owens",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1794256093,
-   "photo": "photos/MKE_OWENS_TYRON_613580.jpg"
-  },
-  {
    "key": "DANIELS_JORDAN_2026-11-09",
    "name": "Jordan Jamir Daniels",
    "age": "17",
@@ -286,61 +341,6 @@
    "more": 0,
    "ts": 1794255419,
    "photo": null
-  },
-  {
-   "key": "KEN_NOLLHAMELIN_DEVON_2026-00006203",
-   "name": "Devon M Noll-Hamelin",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "2Nd Deg. Sexual Assault/Use Of Force",
-   "more": 0,
-   "ts": 1794254281,
-   "photo": "photos/KEN_NOLLHAMELIN_DEVON_2026-00006203.jpg"
-  },
-  {
-   "key": "MKE_GLOVER_DENALI_632339",
-   "name": "Denali Dejan Glover",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794254263,
-   "photo": "photos/MKE_GLOVER_DENALI_632339.jpg"
-  },
-  {
-   "key": "MKE_SWOPE_JAMAN_648221",
-   "name": "Jaman A Swope",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794254261,
-   "photo": null
-  },
-  {
-   "key": "KEN_LI_CUIYAN_2026-00006202",
-   "name": "Cuiyan Li",
-   "age": "78",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794254140,
-   "photo": null
-  },
-  {
-   "key": "KEN_HART_EUGENE_2026-00006201",
-   "name": "Eugene Doles Hart",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794254104,
-   "photo": "photos/KEN_HART_EUGENE_2026-00006201.jpg"
   },
   {
    "key": "MAR_OUSLEY_DIMITRI_2026-11-09",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "RC_HARRIS_ROLAND_120011076113519",
+   "name": "Roland Lavada Harris",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (1St Violation)",
+   "more": 0,
+   "ts": 1794268069,
+   "photo": "photos/RC_HARRIS_ROLAND_120011076113519.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_JAMAL_354020",
+   "name": "Jamal Lavone Williams",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1794266927,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILSON_MYRON_390401",
+   "name": "Myron Bernard Wilson",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1794266923,
+   "photo": null
+  },
+  {
+   "key": "MKE_AGEE_HARVEY_524839",
+   "name": "Harvey B Agee",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 7,
+   "ts": 1794266915,
+   "photo": null
+  },
+  {
+   "key": "MKE_FORD_ASHUN_642696",
+   "name": "Ashun Tony Ford",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 7,
+   "ts": 1794266911,
+   "photo": null
+  },
+  {
+   "key": "MKE_NARVAEZ_LUIS_646997",
+   "name": "Luis Narvaez",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Reckless Probab./Great Harm",
+   "more": 0,
+   "ts": 1794266908,
+   "photo": null
+  },
+  {
    "key": "FDL_TONEY_AMANDA_2026-11-09",
    "name": "Amanda Rae Toney",
    "age": "",
@@ -571,7 +637,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 1,
    "ts": 1794265075,
    "photo": null
   },
@@ -991,7 +1057,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 1,
    "ts": 1794248872,
-   "photo": null
+   "photo": "photos/MKE_THOMPSON_DEVON_641849.jpg"
   },
   {
    "key": "KEN_STEVENS_DERRICK_2026-00006197",
@@ -1079,7 +1145,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794245263,
-   "photo": null
+   "photo": "photos/MKE_FRANCIS_JEREMIAH_634140.jpg"
   },
   {
    "key": "MKE_DAVIS_LAVONTAE_644160",
@@ -1464,7 +1530,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794232657,
-   "photo": null
+   "photo": "photos/MKE_TAYLOR_BRANDON_402058.jpg"
   },
   {
    "key": "MKE_WILLIAMS_JAMES_624996",
@@ -4633,61 +4699,6 @@
    "more": 0,
    "ts": 1794009632,
    "photo": "photos/MAR_SIKORA_TRAVIS_2026-11-06.jpg"
-  },
-  {
-   "key": "RC_LOTHARIUS_TROY_120011076022769",
-   "name": "Troy William Lotharius",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794008868,
-   "photo": null
-  },
-  {
-   "key": "RC_JONES_JORDAN_120011076022363",
-   "name": "Jordan Lee Jones",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794008866,
-   "photo": "photos/RC_JONES_JORDAN_120011076022363.jpg"
-  },
-  {
-   "key": "MKE_STEWART_JIMMY_621190",
-   "name": "Jimmy J Stewart",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "3rd Degree Sexual Assault",
-   "more": 0,
-   "ts": 1794007728,
-   "photo": "photos/MKE_STEWART_JIMMY_621190.jpg"
-  },
-  {
-   "key": "MKE_PHILLIPS_FRANCIS_648171",
-   "name": "Francis Phillips",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794007726,
-   "photo": "photos/MKE_PHILLIPS_FRANCIS_648171.jpg"
-  },
-  {
-   "key": "MKE_BURCH_DRATEN_636755",
-   "name": "Draten D Burch",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Injury by Negligent Use/Weapon/Explosive",
-   "more": 0,
-   "ts": 1794007724,
-   "photo": "photos/MKE_BURCH_DRATEN_636755.jpg"
   }
  ]
 }
