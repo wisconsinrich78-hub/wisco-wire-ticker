@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T22:31:33+00:00",
+ "updated": "2026-11-09T22:49:30+00:00",
  "items": [
+  {
+   "key": "RC_FIREHAMMER_ZACKERY_120011076107926",
+   "name": "Zackery Ray Firehammer",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794264469,
+   "photo": null
+  },
   {
    "key": "KLAUS_ASHLEIGH_2026-11-09",
    "name": "Ashleigh Mae Klaus",
@@ -343,17 +354,6 @@
    "photo": null
   },
   {
-   "key": "MKE_WHITE_KIRAN_394661",
-   "name": "Kiran S White",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Child Sex Assault - Sexual Contact with Person under Age of",
-   "more": 0,
-   "ts": 1794250676,
-   "photo": null
-  },
-  {
    "key": "MAR_SPERKA_SARA_2026-11-09",
    "name": "Sara Lynn Sperka",
    "age": "42",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FIREHAMMER_ZACKERY_120011076107926",
+   "name": "Zackery Ray Firehammer",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794264469,
+   "photo": null
+  },
   {
    "key": "KLAUS_ASHLEIGH_2026-11-09",
    "name": "Ashleigh Mae Klaus",
@@ -4666,28 +4677,6 @@
    "more": 4,
    "ts": 1794005962,
    "photo": "photos/MKE_ERVING_DEANTWONE_641027.jpg"
-  },
-  {
-   "key": "RC_HAND_ANTWAN_120011076021981",
-   "name": "Antwan A Hand",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794005283,
-   "photo": "photos/RC_HAND_ANTWAN_120011076021981.jpg"
-  },
-  {
-   "key": "RC_DESCHLER_JENNI_120011076021600",
-   "name": "Jenni Jeri Deschler",
-   "age": "49",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794005281,
-   "photo": "photos/RC_DESCHLER_JENNI_120011076021600.jpg"
   }
  ]
 }
