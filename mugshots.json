@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T17:28:18+00:00",
+ "updated": "2026-11-09T17:49:26+00:00",
  "items": [
+  {
+   "key": "RC_FONSECA_LUIS_120011076089620",
+   "name": "Luis Enrique Fonseca",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794246481,
+   "photo": "photos/RC_FONSECA_LUIS_120011076089620.jpg"
+  },
+  {
+   "key": "RC_GLEISNER_ALEX_120011076089670",
+   "name": "Alex Gleisner",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794246478,
+   "photo": "photos/RC_GLEISNER_ALEX_120011076089670.jpg"
+  },
   {
    "key": "MKE_FRANCIS_JEREMIAH_634140",
    "name": "Jeremiah Javon Francis",
@@ -288,28 +310,6 @@
    "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09_3484305.jpg"
   },
   {
-   "key": "MKE_AGOSTODIAZ_JOSHUA_648216",
-   "name": "Joshua Agosto Diaz",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794234474,
-   "photo": "photos/MKE_AGOSTODIAZ_JOSHUA_648216.jpg"
-  },
-  {
-   "key": "MKE_ROSARIOSALGADO_NINOSKA_648217",
-   "name": "Ninoska Nicole Rosario Salgado",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794234470,
-   "photo": "photos/MKE_ROSARIOSALGADO_NINOSKA_648217.jpg"
-  },
-  {
    "key": "BURROW_CHANDLER_2026-11-09",
    "name": "Chandler Paul Burrow",
    "age": "21",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FONSECA_LUIS_120011076089620",
+   "name": "Luis Enrique Fonseca",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794246481,
+   "photo": "photos/RC_FONSECA_LUIS_120011076089620.jpg"
+  },
+  {
+   "key": "RC_GLEISNER_ALEX_120011076089670",
+   "name": "Alex Gleisner",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794246478,
+   "photo": "photos/RC_GLEISNER_ALEX_120011076089670.jpg"
+  },
   {
    "key": "MKE_FRANCIS_JEREMIAH_634140",
    "name": "Jeremiah Javon Francis",
@@ -969,7 +991,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794229058,
-   "photo": null
+   "photo": "photos/MKE_HUGHES_DWAIN_396124.jpg"
   },
   {
    "key": "MAR_HUNTER_TERESA_2026-11-08_13988901",
@@ -1332,7 +1354,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794202072,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_DWIGHT_648212.jpg"
   },
   {
    "key": "MKE_HICKSCOLEMAN_KENDALL_648213",
@@ -4622,50 +4644,6 @@
    "more": 0,
    "ts": 1793989000,
    "photo": "photos/FDL_HOOPMAN_LYNNETTE_2026-11-06.jpg"
-  },
-  {
-   "key": "RC_STEVENS_DAVID_120011076011984",
-   "name": "David M Stevens",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793987282,
-   "photo": "photos/RC_STEVENS_DAVID_120011076011984.jpg"
-  },
-  {
-   "key": "RC_MAIKRANZ_JOSEPH_120011076009704",
-   "name": "Joseph Jesse Maikranz",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate/Go Armed w/ Firearm-Intoxicated",
-   "more": 0,
-   "ts": 1793987279,
-   "photo": "photos/RC_MAIKRANZ_JOSEPH_120011076009704.jpg"
-  },
-  {
-   "key": "RC_HAAS_RICHARD_120011076010201",
-   "name": "Richard Michael Haas",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1793987276,
-   "photo": "photos/RC_HAAS_RICHARD_120011076010201.jpg"
-  },
-  {
-   "key": "RC_DIAZ_JUAN_120011076010670",
-   "name": "Juan Jose Diaz",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating with Restricted Controlled Substance in Blood - 1st Offense,",
-   "more": 0,
-   "ts": 1793987272,
-   "photo": "photos/RC_DIAZ_JUAN_120011076010670.jpg"
   }
  ]
 }
