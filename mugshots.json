@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T16:30:20+00:00",
+ "updated": "2026-11-09T16:49:37+00:00",
  "items": [
+  {
+   "key": "LUOMA_BENJAMIN_2026-11-09",
+   "name": "Benjamin R Luoma",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1794242835,
+   "photo": null
+  },
   {
    "key": "PECK_MARC_2026-11-09",
    "name": "Marc Jacob Peck",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1794169623,
    "photo": "photos/REDMOND_LEE_2026-11-08.jpg"
-  },
-  {
-   "key": "LITTLEJOHN_ASHLEY_2026-11-08",
-   "name": "Ashley A Littlejohn",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794163632,
-   "photo": "photos/LITTLEJOHN_ASHLEY_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "LUOMA_BENJAMIN_2026-11-09",
+   "name": "Benjamin R Luoma",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1794242835,
+   "photo": null
+  },
   {
    "key": "PECK_MARC_2026-11-09",
    "name": "Marc Jacob Peck",
