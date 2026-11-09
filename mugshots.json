@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T15:28:24+00:00",
+ "updated": "2026-11-09T15:49:28+00:00",
  "items": [
+  {
+   "key": "RC_RINCON_VANESSA_120011076082599",
+   "name": "Vanessa Rincon",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-felony",
+   "more": 8,
+   "ts": 1794239269,
+   "photo": "photos/RC_RINCON_VANESSA_120011076082599.jpg"
+  },
+  {
+   "key": "RC_DASKO_MARCHELLO_120011076084475",
+   "name": "Marchello Anthony Dasko",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794239266,
+   "photo": "photos/RC_DASKO_MARCHELLO_120011076084475.jpg"
+  },
   {
    "key": "MKE_HILL_EDWARD_381858",
    "name": "Edward Hill",
@@ -175,7 +197,7 @@
    "charge": "Sex Registry Violation",
    "more": 0,
    "ts": 1794232664,
-   "photo": null
+   "photo": "photos/MKE_CASTILLOLEBRON_LUIS_350214.jpg"
   },
   {
    "key": "MKE_HAMPTON_DARYL_374255",
@@ -186,7 +208,7 @@
    "charge": "Habitual Criminality",
    "more": 11,
    "ts": 1794232662,
-   "photo": null
+   "photo": "photos/MKE_HAMPTON_DARYL_374255.jpg"
   },
   {
    "key": "MKE_MITCHELL_LARON_396508",
@@ -197,7 +219,7 @@
    "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
    "more": 2,
    "ts": 1794232660,
-   "photo": null
+   "photo": "photos/MKE_MITCHELL_LARON_396508.jpg"
   },
   {
    "key": "MKE_TAYLOR_BRANDON_402058",
@@ -264,28 +286,6 @@
    "more": 1,
    "ts": 1794225210,
    "photo": "photos/MAR_HUNTER_TERESA_2026-11-08_13988901.jpg"
-  },
-  {
-   "key": "RC_DIAZ_ERIK_120011076076717",
-   "name": "Erik Diaz",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1794224866,
-   "photo": null
-  },
-  {
-   "key": "MKE_JONES_JEREMY_361568",
-   "name": "Jeremy Odell Jones",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 5,
-   "ts": 1794223645,
-   "photo": null
   },
   {
    "key": "STONE_CHRIS_2026-11-09",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "RC_RINCON_VANESSA_120011076082599",
+   "name": "Vanessa Rincon",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-felony",
+   "more": 8,
+   "ts": 1794239269,
+   "photo": "photos/RC_RINCON_VANESSA_120011076082599.jpg"
+  },
+  {
+   "key": "RC_DASKO_MARCHELLO_120011076084475",
+   "name": "Marchello Anthony Dasko",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794239266,
+   "photo": "photos/RC_DASKO_MARCHELLO_120011076084475.jpg"
+  },
+  {
    "key": "MKE_HILL_EDWARD_381858",
    "name": "Edward Hill",
    "age": "55",
@@ -705,7 +727,7 @@
    "charge": "Sex Registry Violation",
    "more": 0,
    "ts": 1794232664,
-   "photo": null
+   "photo": "photos/MKE_CASTILLOLEBRON_LUIS_350214.jpg"
   },
   {
    "key": "MKE_HAMPTON_DARYL_374255",
@@ -716,7 +738,7 @@
    "charge": "Habitual Criminality",
    "more": 11,
    "ts": 1794232662,
-   "photo": null
+   "photo": "photos/MKE_HAMPTON_DARYL_374255.jpg"
   },
   {
    "key": "MKE_MITCHELL_LARON_396508",
@@ -727,7 +749,7 @@
    "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
    "more": 2,
    "ts": 1794232660,
-   "photo": null
+   "photo": "photos/MKE_MITCHELL_LARON_396508.jpg"
   },
   {
    "key": "MKE_TAYLOR_BRANDON_402058",
@@ -4699,28 +4721,6 @@
    "more": 1,
    "ts": 1793980692,
    "photo": "photos/KEN_DAVIS_AREON_2026-00006134.jpg"
-  },
-  {
-   "key": "RC_ROMPA_ADAM_120011076005730",
-   "name": "Adam K Rompa",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980098,
-   "photo": "photos/RC_ROMPA_ADAM_120011076005730.jpg"
-  },
-  {
-   "key": "RC_MONTGOMERY_ERIC_120011076006052",
-   "name": "Eric Lee Montgomery",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980093,
-   "photo": null
   }
  ]
 }
