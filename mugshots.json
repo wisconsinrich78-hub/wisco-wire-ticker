@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T22:49:30+00:00",
+ "updated": "2026-11-09T23:04:52+00:00",
  "items": [
+  {
+   "key": "MKE_CARTER_RAY_375566",
+   "name": "Ray J Carter",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794265075,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_DESHAWN_401568",
+   "name": "Deshawn Ashante Smith",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1794265070,
+   "photo": null
+  },
   {
    "key": "RC_FIREHAMMER_ZACKERY_120011076107926",
    "name": "Zackery Ray Firehammer",
@@ -252,7 +274,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794254263,
-   "photo": null
+   "photo": "photos/MKE_GLOVER_DENALI_632339.jpg"
   },
   {
    "key": "MKE_SWOPE_JAMAN_648221",
@@ -310,17 +332,6 @@
    "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-09.jpg"
   },
   {
-   "key": "RC_COLON_RAPHAEL_120011076092499",
-   "name": "Raphael Antonio Colon",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794253668,
-   "photo": null
-  },
-  {
    "key": "JANIS_JULIA_2026-11-09",
    "name": "Julia A Janis",
    "age": "24",
@@ -341,17 +352,6 @@
    "more": 0,
    "ts": 1794252418,
    "photo": "photos/BAKKE_JAMES_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_HARRIS_BRIAN_299131",
-   "name": "Brian Lamar Harris",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 4,
-   "ts": 1794250678,
-   "photo": null
   },
   {
    "key": "MAR_SPERKA_SARA_2026-11-09",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_CARTER_RAY_375566",
+   "name": "Ray J Carter",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794265075,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_DESHAWN_401568",
+   "name": "Deshawn Ashante Smith",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1794265070,
+   "photo": null
+  },
+  {
    "key": "RC_FIREHAMMER_ZACKERY_120011076107926",
    "name": "Zackery Ray Firehammer",
    "age": "43",
@@ -782,7 +804,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794254263,
-   "photo": null
+   "photo": "photos/MKE_GLOVER_DENALI_632339.jpg"
   },
   {
    "key": "MKE_SWOPE_JAMAN_648221",
@@ -892,7 +914,7 @@
    "charge": "1st Degree Child Sex Assault - Sexual Contact with Person under Age of",
    "more": 0,
    "ts": 1794250676,
-   "photo": null
+   "photo": "photos/MKE_WHITE_KIRAN_394661.jpg"
   },
   {
    "key": "MKE_EVERTON_JALANDRE_643778",
@@ -903,7 +925,7 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 1,
    "ts": 1794250674,
-   "photo": null
+   "photo": "photos/MKE_EVERTON_JALANDRE_643778.jpg"
   },
   {
    "key": "MAR_SPERKA_SARA_2026-11-09",
@@ -4644,39 +4666,6 @@
    "more": 1,
    "ts": 1794007028,
    "photo": "photos/FDL_MAYR_RYAN_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_WILKERSON_DAZARRIES_642913",
-   "name": "Dazarries C Wilkerson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794005965,
-   "photo": "photos/MKE_WILKERSON_DAZARRIES_642913.jpg"
-  },
-  {
-   "key": "MKE_MOORE_JYLAN_2063375",
-   "name": "Jylan Curtis Moore",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794005963,
-   "photo": "photos/MKE_MOORE_JYLAN_2063375.jpg"
-  },
-  {
-   "key": "MKE_ERVING_DEANTWONE_641027",
-   "name": "Deantwone Omarion Erving",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
-   "more": 4,
-   "ts": 1794005962,
-   "photo": "photos/MKE_ERVING_DEANTWONE_641027.jpg"
   }
  ]
 }
