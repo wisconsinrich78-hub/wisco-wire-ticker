@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T08:28:23+00:00",
+ "updated": "2026-11-09T08:49:29+00:00",
  "items": [
+  {
+   "key": "RC_LEE_ANTONIO_120011076074575",
+   "name": "Antonio Diante Lee",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794214077,
+   "photo": "photos/RC_LEE_ANTONIO_120011076074575.jpg"
+  },
   {
    "key": "MKE_BROWN_SARAI_639740",
    "name": "Sarai Symone Brown",
@@ -172,7 +183,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
+   "charge": "Bail Jumping-Felony",
    "more": 36,
    "ts": 1794202075,
    "photo": null
@@ -208,17 +219,6 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794202070,
-   "photo": null
-  },
-  {
-   "key": "MKE_HERNANDEZ_MARGARITO_396322",
-   "name": "Margarito J Hernandez",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794200272,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_LEE_ANTONIO_120011076074575",
+   "name": "Antonio Diante Lee",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794214077,
+   "photo": "photos/RC_LEE_ANTONIO_120011076074575.jpg"
+  },
+  {
    "key": "MKE_BROWN_SARAI_639740",
    "name": "Sarai Symone Brown",
    "age": "19",
@@ -702,7 +713,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
+   "charge": "Bail Jumping-Felony",
    "more": 36,
    "ts": 1794202075,
    "photo": null
@@ -903,7 +914,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794191251,
-   "photo": null
+   "photo": "photos/MKE_TORRESPRINCIPE_HENDRICK_648209.jpg"
   },
   {
    "key": "MKE_MOORE_JOHN_648210",
@@ -947,7 +958,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794189465,
-   "photo": null
+   "photo": "photos/MKE_WILDER_ARMOND_648207.jpg"
   },
   {
    "key": "MKE_DACQUISTO_ANDREA_648208",
@@ -958,7 +969,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794189463,
-   "photo": null
+   "photo": "photos/MKE_DACQUISTO_ANDREA_648208.jpg"
   },
   {
    "key": "KEN_HEARTON_CRYSTAL_2026-00006181",
@@ -4556,17 +4567,6 @@
    "more": 0,
    "ts": 1793956574,
    "photo": "photos/FDL_FARRELL_CONNOR_2026-11-06.jpg"
-  },
-  {
-   "key": "RC_FERGUSON_JAMES_120011075997478",
-   "name": "James William Ferguson",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793954864,
-   "photo": null
   }
  ]
 }
