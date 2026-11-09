@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T21:08:52+00:00",
+ "updated": "2026-11-09T21:49:37+00:00",
  "items": [
+  {
+   "key": "RC_BOUSSON_JEREMY_120011076101221",
+   "name": "Jeremy Michael Bousson",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794260913,
+   "photo": "photos/RC_BOUSSON_JEREMY_120011076101221.jpg"
+  },
+  {
+   "key": "HOU_KISTLER_KORTNEYROBERT_6330",
+   "name": "Kortney Robert Kistler",
+   "age": "49",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic - DWI - Refuse to submit to chemical (1-Court Pending)",
+   "more": 1,
+   "ts": 1794260858,
+   "photo": "photos/HOU_KISTLER_KORTNEYROBERT_6330.jpg"
+  },
+  {
+   "key": "MKE_GALOM_DEVONTE_645623",
+   "name": "Devonte Galom",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794259714,
+   "photo": null
+  },
+  {
+   "key": "NEELY_VINCENT_2026-11-09",
+   "name": "Vincent D Neely",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794259627,
+   "photo": null
+  },
   {
    "key": "MAR_SMITH_GERALD_2026-11-09",
    "name": "Gerald Lynn Smith",
@@ -288,28 +332,6 @@
    "photo": null
   },
   {
-   "key": "KEN_STEVENS_DERRICK_2026-00006197",
-   "name": "DERRICK ARNELL Junior STEVENS",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1794247425,
-   "photo": "photos/KEN_STEVENS_DERRICK_2026-00006197.jpg"
-  },
-  {
-   "key": "KEN_PLEASANT_JOHNTAY_2026-00006199",
-   "name": "Johntay Marcello Pleasant",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1794247352,
-   "photo": "photos/KEN_PLEASANT_JOHNTAY_2026-00006199.jpg"
-  },
-  {
    "key": "MAR_HOFFMAN_SCOTT_2026-11-09_8479304",
    "name": "Scott Anthony Hoffman",
    "age": "56",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794232437,
    "photo": null
-  },
-  {
-   "key": "STONE_CHRIS_2026-11-09",
-   "name": "Chris A Stone",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794218225,
-   "photo": null
-  },
-  {
-   "key": "CHRISTIANSON_PETER_2026-11-09",
-   "name": "Peter A Christianson",
-   "age": "51",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Justice Sanctions",
-   "more": 2,
-   "ts": 1794209220,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BOUSSON_JEREMY_120011076101221",
+   "name": "Jeremy Michael Bousson",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794260913,
+   "photo": "photos/RC_BOUSSON_JEREMY_120011076101221.jpg"
+  },
+  {
+   "key": "HOU_KISTLER_KORTNEYROBERT_6330",
+   "name": "Kortney Robert Kistler",
+   "age": "49",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic - DWI - Refuse to submit to chemical (1-Court Pending)",
+   "more": 1,
+   "ts": 1794260858,
+   "photo": "photos/HOU_KISTLER_KORTNEYROBERT_6330.jpg"
+  },
+  {
+   "key": "MKE_GALOM_DEVONTE_645623",
+   "name": "Devonte Galom",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794259714,
+   "photo": null
+  },
+  {
+   "key": "NEELY_VINCENT_2026-11-09",
+   "name": "Vincent D Neely",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794259627,
+   "photo": null
+  },
   {
    "key": "MAR_SMITH_GERALD_2026-11-09",
    "name": "Gerald Lynn Smith",
@@ -4611,94 +4655,6 @@
    "more": 3,
    "ts": 1794002269,
    "photo": "photos/MKE_KAISER_MARISSA_648169.jpg"
-  },
-  {
-   "key": "RC_TOLIVER_ANTWYAN_120011076020836",
-   "name": "Antwyan Laron Toliver",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794001676,
-   "photo": null
-  },
-  {
-   "key": "RC_OZIER_DEMETRUS_120011076020566",
-   "name": "Demetrus Niquel Ozier",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794001673,
-   "photo": "photos/RC_OZIER_DEMETRUS_120011076020566.jpg"
-  },
-  {
-   "key": "MKE_EPPS_DOWELL_636268",
-   "name": "Dowell Epps",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property-Special Facts",
-   "more": 0,
-   "ts": 1794000500,
-   "photo": "photos/MKE_EPPS_DOWELL_636268.jpg"
-  },
-  {
-   "key": "FDL_SHAY_BRITTANY_2026-11-06",
-   "name": "Brittany Shay",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793999826,
-   "photo": null
-  },
-  {
-   "key": "FDL_ROBERTS_DANIEL_2026-11-06",
-   "name": "Daniel Edward Roberts",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793999820,
-   "photo": null
-  },
-  {
-   "key": "FDL_CRON_TERRANCE_2026-11-06",
-   "name": "Terrance Lee Cron",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793999779,
-   "photo": null
-  },
-  {
-   "key": "KEN_PAYNE_ANTONIO_2026-00006141",
-   "name": "Antonio Payne",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate Lg Veh After Rev/Susp Of Registration",
-   "more": 5,
-   "ts": 1793999732,
-   "photo": "photos/KEN_PAYNE_ANTONIO_2026-00006141.jpg"
-  },
-  {
-   "key": "KEN_LANE_DERRELL_2026-00006138",
-   "name": "Derrell Derrico Lane",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1793999693,
-   "photo": "photos/KEN_LANE_DERRELL_2026-00006138.jpg"
   }
  ]
 }
