@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-09T01:49:29+00:00",
+ "updated": "2026-11-09T01:57:51+00:00",
  "items": [
+  {
+   "key": "MKE_HUIRAS_STEVEN_543370",
+   "name": "Steven M Huiras",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794189467,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILDER_ARMOND_648207",
+   "name": "Armond Deshawne Wilder",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794189465,
+   "photo": null
+  },
+  {
+   "key": "MKE_DACQUISTO_ANDREA_648208",
+   "name": "Andrea Dacquisto",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794189463,
+   "photo": null
+  },
+  {
+   "key": "KEN_HEARTON_CRYSTAL_2026-00006181",
+   "name": "Crystal Lynn Hearton",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
+   "more": 1,
+   "ts": 1794189456,
+   "photo": "photos/KEN_HEARTON_CRYSTAL_2026-00006181.jpg"
+  },
+  {
+   "key": "KEN_FLORES_ADRIAN_2026-00006182",
+   "name": "Adrian Robert Flores",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate After Rev/Susp Of Registration",
+   "more": 3,
+   "ts": 1794189380,
+   "photo": "photos/KEN_FLORES_ADRIAN_2026-00006182.jpg"
+  },
+  {
+   "key": "KEN_BROWN_ISAIAH_2026-00006184",
+   "name": "Isaiah Demetrius Brown",
+   "age": "19",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Drive Or Operate Vehicle W/O Consent",
+   "more": 0,
+   "ts": 1794189307,
+   "photo": "photos/KEN_BROWN_ISAIAH_2026-00006184.jpg"
+  },
+  {
+   "key": "MAR_POPP_DYLAN_2026-11-08",
+   "name": "Dylan Mark Popp",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 3,
+   "ts": 1794189282,
+   "photo": null
+  },
+  {
+   "key": "MAR_SPRINGER_DANIEL_2026-11-08",
+   "name": "Daniel Frederick Springer",
+   "age": "72",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794189245,
+   "photo": "photos/MAR_SPRINGER_DANIEL_2026-11-08.jpg"
+  },
+  {
+   "key": "MAR_DENZIN_SCOTT_2026-11-08",
+   "name": "Scott Gordon Denzin",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contact After Domestic Abuse Arrest",
+   "more": 0,
+   "ts": 1794189209,
+   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08.jpg"
+  },
   {
    "key": "RC_BOERGER_NATHAN_120011076067727",
    "name": "Nathan Irwin Boerger",
@@ -167,61 +266,6 @@
    "photo": "photos/REDMOND_LEE_2026-11-08.jpg"
   },
   {
-   "key": "MKE_EASON_DEVON_411979",
-   "name": "Devon Shamar Eason",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794167863,
-   "photo": "photos/MKE_EASON_DEVON_411979.jpg"
-  },
-  {
-   "key": "MKE_GARZA_GABRIEL_633470",
-   "name": "Gabriel A Garza",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794167862,
-   "photo": "photos/MKE_GARZA_GABRIEL_633470.jpg"
-  },
-  {
-   "key": "MKE_OCLAIRECARTER_COVACHE_646312",
-   "name": "Covache Oclaire-carter",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794167860,
-   "photo": null
-  },
-  {
-   "key": "RC_COSEY_CHRISTOPHER_120011076060432",
-   "name": "Christopher A Cosey",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794167276,
-   "photo": "photos/RC_COSEY_CHRISTOPHER_120011076060432.jpg"
-  },
-  {
-   "key": "RC_ZEITZ_ISAIAH_120011076059822",
-   "name": "Isaiah Zeitz",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Hit And Run-Involve Injury",
-   "more": 1,
-   "ts": 1794163673,
-   "photo": null
-  },
-  {
    "key": "LITTLEJOHN_ASHLEY_2026-11-08",
    "name": "Ashley A Littlejohn",
    "age": "41",
@@ -242,17 +286,6 @@
    "more": 0,
    "ts": 1794162420,
    "photo": null
-  },
-  {
-   "key": "RC_FLEURY_DONNA_120011076058272",
-   "name": "Donna M Fleury",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794160076,
-   "photo": "photos/RC_FLEURY_DONNA_120011076058272.jpg"
   },
   {
    "key": "FDL_BARTELS_HANNAH_2026-11-08",
@@ -495,42 +528,108 @@
    "more": 1,
    "ts": 1794133030,
    "photo": "photos/DOU_RINAS_RYANN_2026-11-08.jpg"
-  },
-  {
-   "key": "FDL_SEQUENSICAN_ALEXANDRO_2026-11-08",
-   "name": "Alexandro Sequen Sican",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Operate W/O Valid Licnse (2Nd Offense W/In 3 Years)",
-   "more": 0,
-   "ts": 1794133014,
-   "photo": "photos/FDL_SEQUENSICAN_ALEXANDRO_2026-11-08.jpg"
-  },
-  {
-   "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07",
-   "name": "Viengouthay Douangboupha",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 4Th",
-   "more": 1,
-   "ts": 1794131659,
-   "photo": "photos/MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07.jpg"
-  },
-  {
-   "key": "MAR_POWELL_BRAEDON_2026-11-08",
-   "name": "Braedon William Powell",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 0,
-   "ts": 1794131617,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HUIRAS_STEVEN_543370",
+   "name": "Steven M Huiras",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794189467,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILDER_ARMOND_648207",
+   "name": "Armond Deshawne Wilder",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794189465,
+   "photo": null
+  },
+  {
+   "key": "MKE_DACQUISTO_ANDREA_648208",
+   "name": "Andrea Dacquisto",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794189463,
+   "photo": null
+  },
+  {
+   "key": "KEN_HEARTON_CRYSTAL_2026-00006181",
+   "name": "Crystal Lynn Hearton",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
+   "more": 1,
+   "ts": 1794189456,
+   "photo": "photos/KEN_HEARTON_CRYSTAL_2026-00006181.jpg"
+  },
+  {
+   "key": "KEN_FLORES_ADRIAN_2026-00006182",
+   "name": "Adrian Robert Flores",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate After Rev/Susp Of Registration",
+   "more": 3,
+   "ts": 1794189380,
+   "photo": "photos/KEN_FLORES_ADRIAN_2026-00006182.jpg"
+  },
+  {
+   "key": "KEN_BROWN_ISAIAH_2026-00006184",
+   "name": "Isaiah Demetrius Brown",
+   "age": "19",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Drive Or Operate Vehicle W/O Consent",
+   "more": 0,
+   "ts": 1794189307,
+   "photo": "photos/KEN_BROWN_ISAIAH_2026-00006184.jpg"
+  },
+  {
+   "key": "MAR_POPP_DYLAN_2026-11-08",
+   "name": "Dylan Mark Popp",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 3,
+   "ts": 1794189282,
+   "photo": null
+  },
+  {
+   "key": "MAR_SPRINGER_DANIEL_2026-11-08",
+   "name": "Daniel Frederick Springer",
+   "age": "72",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794189245,
+   "photo": "photos/MAR_SPRINGER_DANIEL_2026-11-08.jpg"
+  },
+  {
+   "key": "MAR_DENZIN_SCOTT_2026-11-08",
+   "name": "Scott Gordon Denzin",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contact After Domestic Abuse Arrest",
+   "more": 0,
+   "ts": 1794189209,
+   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08.jpg"
+  },
   {
    "key": "RC_BOERGER_NATHAN_120011076067727",
    "name": "Nathan Irwin Boerger",
@@ -4490,17 +4589,6 @@
    "more": 3,
    "ts": 1793930316,
    "photo": "photos/MKE_JAMERSON_BRIAN_277637.jpg"
-  },
-  {
-   "key": "MURPHY_BRADLY_2026-11-05",
-   "name": "Bradly M Murphy",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793930220,
-   "photo": null
   }
  ]
 }
