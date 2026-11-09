@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T12:28:14+00:00",
+ "updated": "2026-11-09T13:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_HUGHES_DWAIN_396124",
+   "name": "Dwain R Hughes",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794229058,
+   "photo": null
+  },
   {
    "key": "MAR_HUNTER_TERESA_2026-11-08_13988901",
    "name": "Teresa Marie Hunter",
@@ -220,17 +231,6 @@
    "more": 2,
    "ts": 1794207592,
    "photo": "photos/KEN_PUSHEE_CHARLES_2026-00006188.jpg"
-  },
-  {
-   "key": "KEN_DAVID_SEAN_2026-00006185",
-   "name": "Sean Michael David",
-   "age": "53",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 2,
-   "ts": 1794207521,
-   "photo": null
   },
   {
    "key": "MAR_FROST_AUSTAN_2026-11-08",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HUGHES_DWAIN_396124",
+   "name": "Dwain R Hughes",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794229058,
+   "photo": null
+  },
   {
    "key": "MAR_HUNTER_TERESA_2026-11-08_13988901",
    "name": "Teresa Marie Hunter",
