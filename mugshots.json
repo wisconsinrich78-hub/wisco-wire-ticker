@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-09T16:58:43+00:00",
+ "updated": "2026-11-09T17:28:18+00:00",
  "items": [
+  {
+   "key": "MKE_FRANCIS_JEREMIAH_634140",
+   "name": "Jeremiah Javon Francis",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794245263,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_LAVONTAE_644160",
+   "name": "Lavontae E Davis",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794245261,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILKS_JONATHAN_648220",
+   "name": "Jonathan EARL WILKS",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794245260,
+   "photo": null
+  },
+  {
+   "key": "HAUGEN_SIRI_2026-11-09",
+   "name": "Siri A Haugen",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Aggravated Battery - Intend Bodily Harm",
+   "more": 0,
+   "ts": 1794245220,
+   "photo": null
+  },
+  {
+   "key": "DOU_AUSTIN_KYLE_2026-11-09",
+   "name": "Kyle W Austin",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 7,
+   "ts": 1794244635,
+   "photo": "photos/DOU_AUSTIN_KYLE_2026-11-09.jpg"
+  },
   {
    "key": "MAR_DALEY_KEVIN_2026-11-09",
    "name": "Kevin James Daley",
@@ -288,39 +343,6 @@
    "photo": "photos/FDL_QUICK_CHRISTOPHER_2026-11-09.jpg"
   },
   {
-   "key": "MKE_PLAIN_LUZERICK_289300",
-   "name": "Luzerick Sirlanto Plain",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 13,
-   "ts": 1794232666,
-   "photo": "photos/MKE_PLAIN_LUZERICK_289300.jpg"
-  },
-  {
-   "key": "MKE_CASTILLOLEBRON_LUIS_350214",
-   "name": "Luis Castillo-Lebron",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1794232664,
-   "photo": "photos/MKE_CASTILLOLEBRON_LUIS_350214.jpg"
-  },
-  {
-   "key": "MKE_HAMPTON_DARYL_374255",
-   "name": "Daryl Wayne Hampton",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 11,
-   "ts": 1794232662,
-   "photo": "photos/MKE_HAMPTON_DARYL_374255.jpg"
-  },
-  {
    "key": "MAR_WOODARD_DAVID_2026-11-09",
    "name": "David Nathanael Woodard",
    "age": "40",
@@ -486,17 +508,6 @@
    "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08_348103.jpg"
   },
   {
-   "key": "MAR_POPP_DYLAN_2026-11-08",
-   "name": "Dylan Mark Popp",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794189282,
-   "photo": null
-  },
-  {
    "key": "BURZINSKI_DAVID_2026-11-08",
    "name": "David E Burzinski",
    "age": "61",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1794174431,
    "photo": null
-  },
-  {
-   "key": "REDMOND_LEE_2026-11-08",
-   "name": "Lee H Redmond",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Negligent Handling Of Burning Material",
-   "more": 1,
-   "ts": 1794169623,
-   "photo": "photos/REDMOND_LEE_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_FRANCIS_JEREMIAH_634140",
+   "name": "Jeremiah Javon Francis",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794245263,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_LAVONTAE_644160",
+   "name": "Lavontae E Davis",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794245261,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILKS_JONATHAN_648220",
+   "name": "Jonathan EARL WILKS",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794245260,
+   "photo": null
+  },
+  {
+   "key": "HAUGEN_SIRI_2026-11-09",
+   "name": "Siri A Haugen",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Aggravated Battery - Intend Bodily Harm",
+   "more": 0,
+   "ts": 1794245220,
+   "photo": null
+  },
+  {
+   "key": "DOU_AUSTIN_KYLE_2026-11-09",
+   "name": "Kyle W Austin",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 7,
+   "ts": 1794244635,
+   "photo": "photos/DOU_AUSTIN_KYLE_2026-11-09.jpg"
+  },
   {
    "key": "MAR_DALEY_KEVIN_2026-11-09",
    "name": "Kevin James Daley",
@@ -958,7 +1013,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794221848,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_DONNAE_648215.jpg"
   },
   {
    "key": "MKE_REED_CORYE_518179",
@@ -4611,50 +4666,6 @@
    "more": 0,
    "ts": 1793987272,
    "photo": "photos/RC_DIAZ_JUAN_120011076010670.jpg"
-  },
-  {
-   "key": "MKE_MORTENSEN_JAMIE_630865",
-   "name": "Jamie Elizabeth Mortensen",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1793986053,
-   "photo": "photos/MKE_MORTENSEN_JAMIE_630865.jpg"
-  },
-  {
-   "key": "MKE_HARDEN_DENAE_646320",
-   "name": "Denae Saleah Harden",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 4,
-   "ts": 1793986052,
-   "photo": "photos/MKE_HARDEN_DENAE_646320.jpg"
-  },
-  {
-   "key": "MKE_FISCHER_JENNI_642613",
-   "name": "Jenni E Fischer",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run-Involve Great Bodily Harm",
-   "more": 1,
-   "ts": 1793986050,
-   "photo": "photos/MKE_FISCHER_JENNI_642613.jpg"
-  },
-  {
-   "key": "MKE_CASTILLO_IVAN_648165",
-   "name": "Ivan E Castillo",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1793986049,
-   "photo": "photos/MKE_CASTILLO_IVAN_648165.jpg"
   }
  ]
 }
