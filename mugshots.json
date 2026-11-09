@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-09T19:49:37+00:00",
+ "updated": "2026-11-09T20:29:31+00:00",
  "items": [
+  {
+   "key": "MKE_OWENS_TYRON_613580",
+   "name": "Tyron Nakee Owens",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1794256093,
+   "photo": null
+  },
+  {
+   "key": "DANIELS_JORDAN_2026-11-09",
+   "name": "Jordan Jamir Daniels",
+   "age": "17",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1794256039,
+   "photo": null
+  },
+  {
+   "key": "FDL_WARD_TYRUS_2026-11-09",
+   "name": "Tyrus Anthony-Lanell Ward",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794255419,
+   "photo": null
+  },
+  {
+   "key": "KEN_NOLLHAMELIN_DEVON_2026-00006203",
+   "name": "Devon M Noll-Hamelin",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794254281,
+   "photo": "photos/KEN_NOLLHAMELIN_DEVON_2026-00006203.jpg"
+  },
+  {
+   "key": "MKE_GLOVER_DENALI_632339",
+   "name": "Denali Dejan Glover",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794254263,
+   "photo": null
+  },
+  {
+   "key": "MKE_SWOPE_JAMAN_648221",
+   "name": "Jaman A Swope",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794254261,
+   "photo": null
+  },
+  {
+   "key": "KEN_LI_CUIYAN_2026-00006202",
+   "name": "Cuiyan Li",
+   "age": "78",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794254140,
+   "photo": null
+  },
+  {
+   "key": "KEN_HART_EUGENE_2026-00006201",
+   "name": "Eugene Doles Hart",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794254104,
+   "photo": "photos/KEN_HART_EUGENE_2026-00006201.jpg"
+  },
+  {
+   "key": "MAR_OUSLEY_DIMITRI_2026-11-09",
+   "name": "Dimitri Ousley",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794254039,
+   "photo": null
+  },
+  {
+   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-09",
+   "name": "Nathan Thomas Hagenbucher",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794253999,
+   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-09.jpg"
+  },
   {
    "key": "RC_COLON_RAPHAEL_120011076092499",
    "name": "Raphael Antonio Colon",
@@ -62,8 +172,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
    "ts": 1794250674,
    "photo": null
   },
@@ -87,7 +197,7 @@
    "charge": "Possess w/Intent-Cocaine (>1-5g)",
    "more": 3,
    "ts": 1794248874,
-   "photo": null
+   "photo": "photos/MKE_MCGREGORY_DERRICK_373782.jpg"
   },
   {
    "key": "MKE_THOMPSON_DEVON_641849",
@@ -167,50 +277,6 @@
    "photo": "photos/RC_FONSECA_LUIS_120011076089620.jpg"
   },
   {
-   "key": "RC_GLEISNER_ALEX_120011076089670",
-   "name": "Alex Gleisner",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794246478,
-   "photo": "photos/RC_GLEISNER_ALEX_120011076089670.jpg"
-  },
-  {
-   "key": "MKE_FRANCIS_JEREMIAH_634140",
-   "name": "Jeremiah Javon Francis",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794245263,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_LAVONTAE_644160",
-   "name": "Lavontae E Davis",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794245261,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILKS_JONATHAN_648220",
-   "name": "Jonathan EARL WILKS",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794245260,
-   "photo": null
-  },
-  {
    "key": "HAUGEN_SIRI_2026-11-09",
    "name": "Siri A Haugen",
    "age": "22",
@@ -275,28 +341,6 @@
    "more": 0,
    "ts": 1794241015,
    "photo": "photos/FDL_MERCIER_ROBERT_2026-11-09.jpg"
-  },
-  {
-   "key": "KEN_VENTURA_MELISA_2026-00006195",
-   "name": "Melisa Rae Ventura",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794239967,
-   "photo": "photos/KEN_VENTURA_MELISA_2026-00006195.jpg"
-  },
-  {
-   "key": "MKE_NEAL_CHARLES_355126",
-   "name": "Charles Edward Neal",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794239860,
-   "photo": null
   },
   {
    "key": "MAR_WILL_DANIELLE_2026-11-09_17076901",
@@ -475,28 +519,6 @@
    "photo": null
   },
   {
-   "key": "MAR_FROST_AUSTAN_2026-11-08",
-   "name": "Austan Michael Frost",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794207258,
-   "photo": "photos/MAR_FROST_AUSTAN_2026-11-08.jpg"
-  },
-  {
-   "key": "MAR_KELLEY_PATRICK_2026-11-08_11612101",
-   "name": "Patrick James Kelley",
-   "age": "62",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 1,
-   "ts": 1794207217,
-   "photo": "photos/MAR_KELLEY_PATRICK_2026-11-08_11612101.jpg"
-  },
-  {
    "key": "MCKINNEY_JAQUAN_2026-11-09",
    "name": "Jaquan L Mckinney",
    "age": "21",
@@ -506,31 +528,119 @@
    "more": 0,
    "ts": 1794206829,
    "photo": null
-  },
-  {
-   "key": "FDL_SALVADORMARTINEZ_JOSE_2026-11-08",
-   "name": "Jose A Salvador Martinez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794197840,
-   "photo": null
-  },
-  {
-   "key": "BRUEGGEN_ISAIAH_2026-11-08",
-   "name": "Isaiah J Brueggen",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794194827,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_OWENS_TYRON_613580",
+   "name": "Tyron Nakee Owens",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1794256093,
+   "photo": null
+  },
+  {
+   "key": "DANIELS_JORDAN_2026-11-09",
+   "name": "Jordan Jamir Daniels",
+   "age": "17",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1794256039,
+   "photo": null
+  },
+  {
+   "key": "FDL_WARD_TYRUS_2026-11-09",
+   "name": "Tyrus Anthony-Lanell Ward",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794255419,
+   "photo": null
+  },
+  {
+   "key": "KEN_NOLLHAMELIN_DEVON_2026-00006203",
+   "name": "Devon M Noll-Hamelin",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794254281,
+   "photo": "photos/KEN_NOLLHAMELIN_DEVON_2026-00006203.jpg"
+  },
+  {
+   "key": "MKE_GLOVER_DENALI_632339",
+   "name": "Denali Dejan Glover",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794254263,
+   "photo": null
+  },
+  {
+   "key": "MKE_SWOPE_JAMAN_648221",
+   "name": "Jaman A Swope",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794254261,
+   "photo": null
+  },
+  {
+   "key": "KEN_LI_CUIYAN_2026-00006202",
+   "name": "Cuiyan Li",
+   "age": "78",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794254140,
+   "photo": null
+  },
+  {
+   "key": "KEN_HART_EUGENE_2026-00006201",
+   "name": "Eugene Doles Hart",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794254104,
+   "photo": "photos/KEN_HART_EUGENE_2026-00006201.jpg"
+  },
+  {
+   "key": "MAR_OUSLEY_DIMITRI_2026-11-09",
+   "name": "Dimitri Ousley",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794254039,
+   "photo": null
+  },
+  {
+   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-09",
+   "name": "Nathan Thomas Hagenbucher",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794253999,
+   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-09.jpg"
+  },
   {
    "key": "RC_COLON_RAPHAEL_120011076092499",
    "name": "Raphael Antonio Colon",
@@ -592,8 +702,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
    "ts": 1794250674,
    "photo": null
   },
@@ -617,7 +727,7 @@
    "charge": "Possess w/Intent-Cocaine (>1-5g)",
    "more": 3,
    "ts": 1794248874,
-   "photo": null
+   "photo": "photos/MKE_MCGREGORY_DERRICK_373782.jpg"
   },
   {
    "key": "MKE_THOMPSON_DEVON_641849",
@@ -738,7 +848,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794245260,
-   "photo": null
+   "photo": "photos/MKE_WILKS_JONATHAN_648220.jpg"
   },
   {
    "key": "HAUGEN_SIRI_2026-11-09",
@@ -826,7 +936,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794239860,
-   "photo": null
+   "photo": "photos/MKE_NEAL_CHARLES_355126.jpg"
   },
   {
    "key": "MKE_DIAZMORRALES_JUAN_648219",
@@ -837,7 +947,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794239859,
-   "photo": null
+   "photo": "photos/MKE_DIAZMORRALES_JUAN_648219.jpg"
   },
   {
    "key": "KEN_FIELDS_DARTAVIOUS_2026-00006196",
@@ -903,7 +1013,7 @@
    "charge": "Charges Pending",
    "more": 7,
    "ts": 1794238062,
-   "photo": null
+   "photo": "photos/MKE_HILL_EDWARD_381858.jpg"
   },
   {
    "key": "MKE_DAVENPORT_MARQUE_533457",
@@ -1178,7 +1288,7 @@
    "charge": "Habitual Criminality",
    "more": 5,
    "ts": 1794223645,
-   "photo": null
+   "photo": "photos/MKE_JONES_JEREMY_361568.jpg"
   },
   {
    "key": "MKE_THOMAS_DONNAE_648215",
@@ -4523,50 +4633,6 @@
    "more": 0,
    "ts": 1793998042,
    "photo": null
-  },
-  {
-   "key": "MKE_LEACHMAN_PHIERLIS_640679",
-   "name": "Phierlis Gerome Leachman",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1793996867,
-   "photo": "photos/MKE_LEACHMAN_PHIERLIS_640679.jpg"
-  },
-  {
-   "key": "MKE_KUKLINSKI_ANTHONY_633689",
-   "name": "Anthony John Kuklinski",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793996865,
-   "photo": "photos/MKE_KUKLINSKI_ANTHONY_633689.jpg"
-  },
-  {
-   "key": "MKE_RIVERA_JOSHUA_635215",
-   "name": "Joshua Rivera",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Act to Create Fear",
-   "more": 1,
-   "ts": 1793995087,
-   "photo": "photos/MKE_RIVERA_JOSHUA_635215.jpg"
-  },
-  {
-   "key": "MKE_PAYNE_TAMARA_648167",
-   "name": "Tamara P Payne",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1793995085,
-   "photo": "photos/MKE_PAYNE_TAMARA_648167.jpg"
   }
  ]
 }
