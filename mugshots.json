@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T08:49:29+00:00",
+ "updated": "2026-11-09T08:58:28+00:00",
  "items": [
+  {
+   "key": "KEN_HOPKINS_MAURELL_2026-00006191",
+   "name": "Maurell Avere Hopkins",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Marijuana (Thc)",
+   "more": 1,
+   "ts": 1794214582,
+   "photo": "photos/KEN_HOPKINS_MAURELL_2026-00006191.jpg"
+  },
+  {
+   "key": "MAR_LAVIGNE_KAI_2026-11-08_16998201",
+   "name": "Kai Gryphon Lavigne",
+   "age": "18",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794214448,
+   "photo": "photos/MAR_LAVIGNE_KAI_2026-11-08_16998201.jpg"
+  },
   {
    "key": "RC_LEE_ANTONIO_120011076074575",
    "name": "Antonio Diante Lee",
@@ -208,17 +230,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794202072,
-   "photo": null
-  },
-  {
-   "key": "MKE_HICKSCOLEMAN_KENDALL_648213",
-   "name": "Kendall L Hicks Coleman",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794202070,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1794147436,
    "photo": null
-  },
-  {
-   "key": "FDL_JOHNSON_CHRISTOPHER_2026-11-08",
-   "name": "Christopher Patrick Johnson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Pac - 2Nd Offense",
-   "more": 0,
-   "ts": 1794143790,
-   "photo": "photos/FDL_JOHNSON_CHRISTOPHER_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_HOPKINS_MAURELL_2026-00006191",
+   "name": "Maurell Avere Hopkins",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession Of Marijuana (Thc)",
+   "more": 1,
+   "ts": 1794214582,
+   "photo": "photos/KEN_HOPKINS_MAURELL_2026-00006191.jpg"
+  },
+  {
+   "key": "MAR_LAVIGNE_KAI_2026-11-08_16998201",
+   "name": "Kai Gryphon Lavigne",
+   "age": "18",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794214448,
+   "photo": "photos/MAR_LAVIGNE_KAI_2026-11-08_16998201.jpg"
+  },
   {
    "key": "RC_LEE_ANTONIO_120011076074575",
    "name": "Antonio Diante Lee",
