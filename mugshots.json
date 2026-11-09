@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T03:49:30+00:00",
+ "updated": "2026-11-09T04:49:31+00:00",
  "items": [
+  {
+   "key": "FDL_SALVADORMARTINEZ_JOSE_2026-11-08",
+   "name": "Jose A Salvador Martinez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794197840,
+   "photo": null
+  },
+  {
+   "key": "MKE_SKEETS_ANDRE_400102",
+   "name": "Andre Adams Skeets",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 1,
+   "ts": 1794196697,
+   "photo": null
+  },
+  {
+   "key": "MKE_RAFFETY_MICHELLE_2031533",
+   "name": "Michelle I Raffety",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794196693,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_ROSE_2067401",
+   "name": "Rose Mary Thomas",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794196690,
+   "photo": null
+  },
   {
    "key": "RC_PHILLIPS_CHARLES_120011076069716",
    "name": "Charles Francis Phillips",
@@ -76,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794191250,
-   "photo": null
+   "photo": "photos/MKE_MOORE_JOHN_648210.jpg"
   },
   {
    "key": "KEN_SWANSON_RICHARD_2026-00006180",
@@ -211,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GIL_DANNY_612942",
-   "name": "Danny Gil",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794184103,
-   "photo": null
-  },
-  {
    "key": "BURZINSKI_DAVID_2026-11-08",
    "name": "David E Burzinski",
    "age": "61",
@@ -230,28 +263,6 @@
    "charge": "Probation Violation",
    "more": 1,
    "ts": 1794181629,
-   "photo": null
-  },
-  {
-   "key": "MKE_CORREA_ANGEL_280733",
-   "name": "Angel Luis Correa",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794180456,
-   "photo": "photos/MKE_CORREA_ANGEL_280733.jpg"
-  },
-  {
-   "key": "MKE_BROWN_JAMES_609615",
-   "name": "James Earl Brown",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Reckless Driving-Endanger Safety",
-   "more": 2,
-   "ts": 1794180455,
    "photo": null
   },
   {
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1794136564,
    "photo": "photos/FDL_BENITEZMEJIA_ISAAC_2026-11-08.jpg"
-  },
-  {
-   "key": "TREM_LOPEZTIENDA_ABEL_5650",
-   "name": "Abel Lopez Tienda",
-   "age": "47",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794134832,
-   "photo": "photos/TREM_LOPEZTIENDA_ABEL_5650.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_SALVADORMARTINEZ_JOSE_2026-11-08",
+   "name": "Jose A Salvador Martinez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794197840,
+   "photo": null
+  },
+  {
+   "key": "MKE_SKEETS_ANDRE_400102",
+   "name": "Andre Adams Skeets",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 1,
+   "ts": 1794196697,
+   "photo": null
+  },
+  {
+   "key": "MKE_RAFFETY_MICHELLE_2031533",
+   "name": "Michelle I Raffety",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794196693,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_ROSE_2067401",
+   "name": "Rose Mary Thomas",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794196690,
+   "photo": null
+  },
   {
    "key": "RC_PHILLIPS_CHARLES_120011076069716",
    "name": "Charles Francis Phillips",
@@ -606,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794191250,
-   "photo": null
+   "photo": "photos/MKE_MOORE_JOHN_648210.jpg"
   },
   {
    "key": "KEN_SWANSON_RICHARD_2026-00006180",
@@ -815,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794175056,
-   "photo": null
+   "photo": "photos/MKE_EVANS_ANDREW_347547.jpg"
   },
   {
    "key": "MKE_PICKENS_CHRISTOPHER_612238",
@@ -4468,72 +4512,6 @@
    "more": 0,
    "ts": 1793940904,
    "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-05_30002.jpg"
-  },
-  {
-   "key": "RC_WATKINS_TREMAINE_120011075994504",
-   "name": "Tremaine Hassel Watkins",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793940469,
-   "photo": "photos/RC_WATKINS_TREMAINE_120011075994504.jpg"
-  },
-  {
-   "key": "FDL_PEREZMARTINEZ_CALIXTO_2026-11-05",
-   "name": "Calixto Perez Martinez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793938605,
-   "photo": "photos/FDL_PEREZMARTINEZ_CALIXTO_2026-11-05.jpg"
-  },
-  {
-   "key": "KEN_SCHULER_ALEXIS_2026-00006128",
-   "name": "Alexis Schuler",
-   "age": "",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1793937615,
-   "photo": null
-  },
-  {
-   "key": "KEN_NAPIER_RUSSELL_2026-00006129",
-   "name": "Russell Napier",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1793937542,
-   "photo": null
-  },
-  {
-   "key": "MKE_WALKER_ANTONIO_361012",
-   "name": "Antonio M Walker",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793937489,
-   "photo": null
-  },
-  {
-   "key": "KEN_GITTENS_KARI_2026-00006130",
-   "name": "Kari Lynn Gittens",
-   "age": "57",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Disobey Order",
-   "more": 1,
-   "ts": 1793937475,
-   "photo": "photos/KEN_GITTENS_KARI_2026-00006130.jpg"
   }
  ]
 }
