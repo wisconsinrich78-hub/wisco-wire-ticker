@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-09T14:49:27+00:00",
+ "updated": "2026-11-09T15:28:24+00:00",
  "items": [
+  {
+   "key": "MKE_HILL_EDWARD_381858",
+   "name": "Edward Hill",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794238062,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVENPORT_MARQUE_533457",
+   "name": "Marque J Davenport",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794238060,
+   "photo": null
+  },
+  {
+   "key": "MKE_BARNETT_CHARLSETTA_648218",
+   "name": "Charlsetta C Barnett",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794238059,
+   "photo": null
+  },
+  {
+   "key": "FDL_PEASE_DAVID_2026-11-09",
+   "name": "David L Pease",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 1,
+   "ts": 1794237419,
+   "photo": "photos/FDL_PEASE_DAVID_2026-11-09.jpg"
+  },
+  {
+   "key": "FDL_COLEMAN_KAILYN_2026-11-09",
+   "name": "Kailyn P Coleman",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
+   "more": 1,
+   "ts": 1794237383,
+   "photo": "photos/FDL_COLEMAN_KAILYN_2026-11-09.jpg"
+  },
+  {
+   "key": "KEN_SANTOS_REYES_2026-00006193",
+   "name": "Reyes Santos",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794236157,
+   "photo": null
+  },
+  {
+   "key": "KEN_MOYE_BREON_2026-00006194",
+   "name": "Breon Moye",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794236121,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILL_DANIELLE_2026-11-09",
+   "name": "Danielle Will",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794236056,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_RHONDA_2026-11-09_3484305",
+   "name": "Rhonda Kay Johnson",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1794236016,
+   "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09_3484305.jpg"
+  },
   {
    "key": "MKE_AGOSTODIAZ_JOSHUA_648216",
    "name": "Joshua Agosto Diaz",
@@ -189,39 +288,6 @@
    "photo": null
   },
   {
-   "key": "MKE_THOMAS_DONNAE_648215",
-   "name": "Donnae' M Thomas",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794221848,
-   "photo": null
-  },
-  {
-   "key": "MKE_REED_CORYE_518179",
-   "name": "Corye Isaac Reed",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794218247,
-   "photo": null
-  },
-  {
-   "key": "KEN_LIPERT_GARY_2026-00006192",
-   "name": "Gary Lee Lipert",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794218225,
-   "photo": "photos/KEN_LIPERT_GARY_2026-00006192.jpg"
-  },
-  {
    "key": "STONE_CHRIS_2026-11-09",
    "name": "Chris A Stone",
    "age": "23",
@@ -242,28 +308,6 @@
    "more": 3,
    "ts": 1794218028,
    "photo": "photos/MAR_POPP_DYLAN_2026-11-08_17074001.jpg"
-  },
-  {
-   "key": "RC_EVERTON_JALANDRE_120011076075316",
-   "name": "Jalandre Martise Everton",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794217681,
-   "photo": "photos/RC_EVERTON_JALANDRE_120011076075316.jpg"
-  },
-  {
-   "key": "RC_ADAMS_SHAMARIONTE_120011076075444",
-   "name": "Shamarionte Darnell Adams",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794217678,
-   "photo": "photos/RC_ADAMS_SHAMARIONTE_120011076075444.jpg"
   },
   {
    "key": "MAR_LAVIGNE_KAI_2026-11-08_16998201",
@@ -431,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "MAR_HUNTER_TERESA_2026-11-08",
-   "name": "Teresa Marie Hunter",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794178556,
-   "photo": null
-  },
-  {
    "key": "DOYLE_KENNETH_2026-11-08",
    "name": "Kenneth A Doyle",
    "age": "70",
@@ -495,42 +528,108 @@
    "more": 1,
    "ts": 1794158159,
    "photo": "photos/FDL_BARTELS_HANNAH_2026-11-08.jpg"
-  },
-  {
-   "key": "MCCONNAUGHEY_THOMAS_2026-11-08",
-   "name": "Thomas H Mcconnaughey",
-   "age": "69",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794157030,
-   "photo": null
-  },
-  {
-   "key": "MELDE_ETHAN_2026-11-08",
-   "name": "Ethan Daniel Melde",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1794155236,
-   "photo": null
-  },
-  {
-   "key": "VANG_KAO_2026-11-08",
-   "name": "Kao Vang",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794152826,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HILL_EDWARD_381858",
+   "name": "Edward Hill",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794238062,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVENPORT_MARQUE_533457",
+   "name": "Marque J Davenport",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794238060,
+   "photo": null
+  },
+  {
+   "key": "MKE_BARNETT_CHARLSETTA_648218",
+   "name": "Charlsetta C Barnett",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794238059,
+   "photo": null
+  },
+  {
+   "key": "FDL_PEASE_DAVID_2026-11-09",
+   "name": "David L Pease",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 1,
+   "ts": 1794237419,
+   "photo": "photos/FDL_PEASE_DAVID_2026-11-09.jpg"
+  },
+  {
+   "key": "FDL_COLEMAN_KAILYN_2026-11-09",
+   "name": "Kailyn P Coleman",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
+   "more": 1,
+   "ts": 1794237383,
+   "photo": "photos/FDL_COLEMAN_KAILYN_2026-11-09.jpg"
+  },
+  {
+   "key": "KEN_SANTOS_REYES_2026-00006193",
+   "name": "Reyes Santos",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794236157,
+   "photo": null
+  },
+  {
+   "key": "KEN_MOYE_BREON_2026-00006194",
+   "name": "Breon Moye",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794236121,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILL_DANIELLE_2026-11-09",
+   "name": "Danielle Will",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794236056,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_RHONDA_2026-11-09_3484305",
+   "name": "Rhonda Kay Johnson",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1794236016,
+   "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09_3484305.jpg"
+  },
   {
    "key": "MKE_AGOSTODIAZ_JOSHUA_648216",
    "name": "Joshua Agosto Diaz",
@@ -4622,39 +4721,6 @@
    "more": 0,
    "ts": 1793980093,
    "photo": null
-  },
-  {
-   "key": "MKE_BROWN_TYRONE_375526",
-   "name": "Tyrone Martin Brown",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1793978873,
-   "photo": "photos/MKE_BROWN_TYRONE_375526.jpg"
-  },
-  {
-   "key": "DOU_FRIKART_LOREN_2026-11-06",
-   "name": "Loren R Frikart",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1793978285,
-   "photo": "photos/DOU_FRIKART_LOREN_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_BURNETT_CHARLES_2026-11-06_8060202",
-   "name": "Charles Alan Burnett",
-   "age": "70",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 0,
-   "ts": 1793977003,
-   "photo": "photos/MAR_BURNETT_CHARLES_2026-11-06_8060202.jpg"
   }
  ]
 }
