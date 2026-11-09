@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-09T15:49:28+00:00",
+ "updated": "2026-11-09T15:58:46+00:00",
  "items": [
+  {
+   "key": "MKE_NEAL_CHARLES_355126",
+   "name": "Charles Edward Neal",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794239860,
+   "photo": null
+  },
+  {
+   "key": "MKE_DIAZMORRALES_JUAN_648219",
+   "name": "Juan Diaz Morrales",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794239859,
+   "photo": null
+  },
+  {
+   "key": "KEN_FIELDS_DARTAVIOUS_2026-00006196",
+   "name": "Dartavious Lashawn Fields",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794239838,
+   "photo": "photos/KEN_FIELDS_DARTAVIOUS_2026-00006196.jpg"
+  },
+  {
+   "key": "MAR_WILL_DANIELLE_2026-11-09_17076901",
+   "name": "Danielle Nicole Will",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794239694,
+   "photo": "photos/MAR_WILL_DANIELLE_2026-11-09_17076901.jpg"
+  },
+  {
+   "key": "MAR_HOFFMAN_SCOTT_2026-11-09",
+   "name": "Scott Anthony Hoffman",
+   "age": "56",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Capias - Misdemeanor",
+   "more": 0,
+   "ts": 1794239647,
+   "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09.jpg"
+  },
   {
    "key": "RC_RINCON_VANESSA_120011076082599",
    "name": "Vanessa Rincon",
@@ -222,28 +277,6 @@
    "photo": "photos/MKE_MITCHELL_LARON_396508.jpg"
   },
   {
-   "key": "MKE_TAYLOR_BRANDON_402058",
-   "name": "Brandon Lamar Taylor",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794232657,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_JAMES_624996",
-   "name": "James Denzel Williams",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 2,
-   "ts": 1794232656,
-   "photo": "photos/MKE_WILLIAMS_JAMES_624996.jpg"
-  },
-  {
    "key": "MAR_WOODARD_DAVID_2026-11-09",
    "name": "David Nathanael Woodard",
    "age": "40",
@@ -264,17 +297,6 @@
    "more": 0,
    "ts": 1794232402,
    "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_HUGHES_DWAIN_396124",
-   "name": "Dwain R Hughes",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794229058,
-   "photo": null
   },
   {
    "key": "MAR_HUNTER_TERESA_2026-11-08_13988901",
@@ -442,17 +464,6 @@
    "photo": "photos/MAR_SPRINGER_DANIEL_2026-11-08.jpg"
   },
   {
-   "key": "MAR_DENZIN_SCOTT_2026-11-08",
-   "name": "Scott Gordon Denzin",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contact After Domestic Abuse Arrest",
-   "more": 0,
-   "ts": 1794189209,
-   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08.jpg"
-  },
-  {
    "key": "BURZINSKI_DAVID_2026-11-08",
    "name": "David E Burzinski",
    "age": "61",
@@ -461,17 +472,6 @@
    "charge": "Probation Violation",
    "more": 1,
    "ts": 1794181629,
-   "photo": null
-  },
-  {
-   "key": "MAR_LAVIGNE_KAI_2026-11-08",
-   "name": "Kai Gryphon Lavigne",
-   "age": "18",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794178598,
    "photo": null
   },
   {
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_NEAL_CHARLES_355126",
+   "name": "Charles Edward Neal",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794239860,
+   "photo": null
+  },
+  {
+   "key": "MKE_DIAZMORRALES_JUAN_648219",
+   "name": "Juan Diaz Morrales",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794239859,
+   "photo": null
+  },
+  {
+   "key": "KEN_FIELDS_DARTAVIOUS_2026-00006196",
+   "name": "Dartavious Lashawn Fields",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794239838,
+   "photo": "photos/KEN_FIELDS_DARTAVIOUS_2026-00006196.jpg"
+  },
+  {
+   "key": "MAR_WILL_DANIELLE_2026-11-09_17076901",
+   "name": "Danielle Nicole Will",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794239694,
+   "photo": "photos/MAR_WILL_DANIELLE_2026-11-09_17076901.jpg"
+  },
+  {
+   "key": "MAR_HOFFMAN_SCOTT_2026-11-09",
+   "name": "Scott Anthony Hoffman",
+   "age": "56",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Capias - Misdemeanor",
+   "more": 0,
+   "ts": 1794239647,
+   "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09.jpg"
+  },
   {
    "key": "RC_RINCON_VANESSA_120011076082599",
    "name": "Vanessa Rincon",
@@ -1200,7 +1255,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794200270,
-   "photo": null
+   "photo": "photos/MKE_HAMPTON_KEYANDA_522950.jpg"
   },
   {
    "key": "MKE_CROSS_TYESHA_626892",
@@ -1211,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794200268,
-   "photo": null
+   "photo": "photos/MKE_CROSS_TYESHA_626892.jpg"
   },
   {
    "key": "MKE_WILLIAMS_NIKI_648211",
@@ -1277,7 +1332,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794196690,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_ROSE_2067401.jpg"
   },
   {
    "key": "RC_PHILLIPS_CHARLES_120011076069716",
@@ -4710,17 +4765,6 @@
    "more": 3,
    "ts": 1793980727,
    "photo": "photos/MKE_GRIERHARRIS_TERRELL_648161.jpg"
-  },
-  {
-   "key": "KEN_DAVIS_AREON_2026-00006134",
-   "name": "Areon Raeshe Davis",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 1,
-   "ts": 1793980692,
-   "photo": "photos/KEN_DAVIS_AREON_2026-00006134.jpg"
   }
  ]
 }
