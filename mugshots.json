@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T22:49:29+00:00",
+ "updated": "2026-11-10T23:03:08+00:00",
  "items": [
+  {
+   "key": "KEN_HAFFERKAMP_ASHLEY_2026-00006236",
+   "name": "Ashley Nicole Hafferkamp",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794351220,
+   "photo": "photos/KEN_HAFFERKAMP_ASHLEY_2026-00006236.jpg"
+  },
   {
    "key": "DRIVER_DARIUS_2026-11-10",
    "name": "Darius D Driver",
@@ -198,17 +209,6 @@
    "more": 0,
    "ts": 1794340988,
    "photo": "photos/KEN_LANE_NICHOLAS_2026-00006231.jpg"
-  },
-  {
-   "key": "KEN_DISMUKE_AUSTIN_2026-00006230",
-   "name": "Austin Steven Dismuke",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 1,
-   "ts": 1794340920,
-   "photo": "photos/KEN_DISMUKE_AUSTIN_2026-00006230.jpg"
   },
   {
    "key": "LANCASTER_COREY_2026-11-10",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "KEN_HAFFERKAMP_ASHLEY_2026-00006236",
+   "name": "Ashley Nicole Hafferkamp",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794351220,
+   "photo": "photos/KEN_HAFFERKAMP_ASHLEY_2026-00006236.jpg"
+  },
+  {
    "key": "DRIVER_DARIUS_2026-11-10",
    "name": "Darius D Driver",
    "age": "47",
@@ -757,10 +768,10 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Domestic Abuse Surcharges",
    "more": 26,
    "ts": 1794340673,
-   "photo": null
+   "photo": "photos/MKE_CLEMENTS_EUNIQUA_631721.jpg"
   },
   {
    "key": "MKE_LOPEZCAMPOS_EDWARD_644707",
@@ -1013,7 +1024,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 1,
    "ts": 1794326284,
-   "photo": null
+   "photo": "photos/MKE_JAIMES_RAUL_648235.jpg"
   },
   {
    "key": "MAR_BUSKAHACK_GAIGE_2026-11-10",
@@ -1098,7 +1109,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 5,
    "ts": 1794320879,
    "photo": null
@@ -4974,28 +4985,6 @@
    "more": 3,
    "ts": 1794094069,
    "photo": "photos/MKE_TORRES_BENJAMIN_648196.jpg"
-  },
-  {
-   "key": "MKE_MASON_CHRISTIAN_648195",
-   "name": "Christian Odell Mason",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794092278,
-   "photo": "photos/MKE_MASON_CHRISTIAN_648195.jpg"
-  },
-  {
-   "key": "LANG_CHRISTOPHER_2026-11-07",
-   "name": "Christopher D Lang",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794092226,
-   "photo": null
   }
  ]
 }
