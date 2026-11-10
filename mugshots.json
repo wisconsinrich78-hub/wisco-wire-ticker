@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-10T13:29:08+00:00",
+ "updated": "2026-11-10T14:28:26+00:00",
  "items": [
+  {
+   "key": "MKE_PERKINS_AUTAVIONE_514862",
+   "name": "Autavione Dijuan Perkins",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 3,
+   "ts": 1794320879,
+   "photo": null
+  },
+  {
+   "key": "MKE_HYMES_KC_648234",
+   "name": "Kc Hymes",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794320877,
+   "photo": null
+  },
+  {
+   "key": "JOHNSON_TAYLOR_2026-11-10",
+   "name": "Taylor J Johnson",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794320824,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEWART_RODRIC_258822",
+   "name": "Rodric Lamont Stewart",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794319079,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANDERS_BRYAN_294160",
+   "name": "Bryan Demetrius Sanders",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1794319077,
+   "photo": null
+  },
+  {
+   "key": "MKE_BURKS_JOHNNY_511740",
+   "name": "Johnny Eugene Burks",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794319076,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHULTZ_MILES_648233",
+   "name": "Miles Schultz",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794319073,
+   "photo": null
+  },
+  {
+   "key": "KEN_CAMARILLO_ADOLFO_2026-00006214",
+   "name": "Adolfo Camarillo",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794318854,
+   "photo": null
+  },
   {
    "key": "RC_ROUSE_DWIGHT_120011076125721",
    "name": "Dwight D Rouse",
@@ -145,17 +233,6 @@
    "photo": "photos/MAR_REED_GLENN_2026-11-09_16811.jpg"
   },
   {
-   "key": "MKE_CLARK_SAMARIA_632968",
-   "name": "Samaria Michelle Clark",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794302850,
-   "photo": null
-  },
-  {
    "key": "FDL_ABITZ_THOMAS_2026-11-10",
    "name": "Thomas James Abitz",
    "age": "",
@@ -165,17 +242,6 @@
    "more": 0,
    "ts": 1794302157,
    "photo": "photos/FDL_ABITZ_THOMAS_2026-11-10.jpg"
-  },
-  {
-   "key": "KEN_GROGAN_NATHANIEL_2026-00006213",
-   "name": "Nathaniel Vincent Grogan",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Unreasonable And Imprudent Speed",
-   "more": 1,
-   "ts": 1794300958,
-   "photo": null
   },
   {
    "key": "MAR_YAEGER_CLINT_2026-11-09_14944604",
@@ -255,28 +321,6 @@
    "photo": "photos/MAR_REED_GLENN_2026-11-09.jpg"
   },
   {
-   "key": "RC_MCCRAY_KEYARRA_120011076122001",
-   "name": "Keyarra A McCray",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794293278,
-   "photo": "photos/RC_MCCRAY_KEYARRA_120011076122001.jpg"
-  },
-  {
-   "key": "MKE_SEVERSON_AMY_646376",
-   "name": "Amy M Severson",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794292102,
-   "photo": null
-  },
-  {
    "key": "FDL_RISTOW_TYNEIKO_2026-11-09",
    "name": "Tyneiko Malik Ristow",
    "age": "",
@@ -286,39 +330,6 @@
    "more": 0,
    "ts": 1794291438,
    "photo": "photos/FDL_RISTOW_TYNEIKO_2026-11-09.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_AARON_120011076121562",
-   "name": "Aaron Johnson",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794289708,
-   "photo": null
-  },
-  {
-   "key": "MKE_WATSON_AMERE_648226",
-   "name": "Amere M Watson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794288483,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_AONESTY_648227",
-   "name": "Aonesty Davitt Williams",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794288479,
-   "photo": null
   },
   {
    "key": "FDL_FURNAS_DAVID_2026-11-09",
@@ -517,20 +528,97 @@
    "more": 1,
    "ts": 1794260858,
    "photo": "photos/HOU_KISTLER_KORTNEYROBERT_6330.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MKE_PERKINS_AUTAVIONE_514862",
+   "name": "Autavione Dijuan Perkins",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 3,
+   "ts": 1794320879,
+   "photo": null
   },
   {
-   "key": "NEELY_VINCENT_2026-11-09",
-   "name": "Vincent D Neely",
-   "age": "44",
+   "key": "MKE_HYMES_KC_648234",
+   "name": "Kc Hymes",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794320877,
+   "photo": null
+  },
+  {
+   "key": "JOHNSON_TAYLOR_2026-11-10",
+   "name": "Taylor J Johnson",
+   "age": "37",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1794259627,
+   "ts": 1794320824,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "MKE_STEWART_RODRIC_258822",
+   "name": "Rodric Lamont Stewart",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794319079,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANDERS_BRYAN_294160",
+   "name": "Bryan Demetrius Sanders",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1794319077,
+   "photo": null
+  },
+  {
+   "key": "MKE_BURKS_JOHNNY_511740",
+   "name": "Johnny Eugene Burks",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794319076,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHULTZ_MILES_648233",
+   "name": "Miles Schultz",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794319073,
+   "photo": null
+  },
+  {
+   "key": "KEN_CAMARILLO_ADOLFO_2026-00006214",
+   "name": "Adolfo Camarillo",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794318854,
+   "photo": null
+  },
   {
    "key": "RC_ROUSE_DWIGHT_120011076125721",
    "name": "Dwight D Rouse",
@@ -1035,7 +1123,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794277847,
-   "photo": null
+   "photo": "photos/MKE_STATEN_MICHAEL_323178.jpg"
   },
   {
    "key": "MKE_MCALISTER_DEWAYNE_383748",
@@ -4809,28 +4897,6 @@
    "more": 3,
    "ts": 1794063298,
    "photo": "photos/KEN_ATEMPA_VIVIANA_2026-00006150.jpg"
-  },
-  {
-   "key": "MKE_FREDERIKSEN_DAVID_336736",
-   "name": "David Alan Frederiksen",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794061649,
-   "photo": "photos/MKE_FREDERIKSEN_DAVID_336736.jpg"
-  },
-  {
-   "key": "MKE_PEREZCRUZ_ANGELO_648187",
-   "name": "Angelo Alfonso Perez Cruz",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794059866,
-   "photo": "photos/MKE_PEREZCRUZ_ANGELO_648187.jpg"
   }
  ]
 }
