@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T05:22:22+00:00",
+ "updated": "2026-11-10T05:49:32+00:00",
  "items": [
+  {
+   "key": "RC_JOHNSON_AARON_120011076121562",
+   "name": "Aaron Johnson",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794289708,
+   "photo": null
+  },
+  {
+   "key": "MKE_WATSON_AMERE_648226",
+   "name": "Amere M Watson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794288483,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_AONESTY_648227",
+   "name": "Aonesty Davitt Williams",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794288479,
+   "photo": null
+  },
   {
    "key": "FDL_FURNAS_DAVID_2026-11-09",
    "name": "David Burt Furnas",
@@ -200,17 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MONTGOMERY_WARREN_414268",
-   "name": "Warren Sonny Montgomery",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794277842,
-   "photo": null
-  },
-  {
    "key": "DOU_MARTIN_GARY_2026-11-09",
    "name": "Gary L Martin",
    "age": "60",
@@ -220,28 +242,6 @@
    "more": 1,
    "ts": 1794277084,
    "photo": "photos/DOU_MARTIN_GARY_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_SMITH_MICHAEL_180173",
-   "name": "Michael Gerard Smith",
-   "age": "64",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 0,
-   "ts": 1794275895,
-   "photo": null
-  },
-  {
-   "key": "MKE_TURNER_CORDARO_363192",
-   "name": "Cordaro W Turner",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 2,
-   "ts": 1794275892,
-   "photo": null
   },
   {
    "key": "MAR_WOODARD_DAVID_2026-11-09_7914801",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_JOHNSON_AARON_120011076121562",
+   "name": "Aaron Johnson",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794289708,
+   "photo": null
+  },
+  {
+   "key": "MKE_WATSON_AMERE_648226",
+   "name": "Amere M Watson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794288483,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_AONESTY_648227",
+   "name": "Aonesty Davitt Williams",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794288479,
+   "photo": null
+  },
   {
    "key": "FDL_FURNAS_DAVID_2026-11-09",
    "name": "David Burt Furnas",
@@ -1109,7 +1142,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 7,
    "ts": 1794266915,
    "photo": null
@@ -1120,7 +1153,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
+   "charge": "Domestic Abuse Surcharges",
    "more": 9,
    "ts": 1794266911,
    "photo": null
@@ -1186,7 +1219,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery",
+   "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1794265070,
    "photo": null
@@ -4787,61 +4820,6 @@
    "more": 3,
    "ts": 1794032864,
    "photo": "photos/MKE_CARMONA_DAMIAN_622243.jpg"
-  },
-  {
-   "key": "MKE_WELLS_DANTA_637978",
-   "name": "Danta Anthony Wells",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794029280,
-   "photo": "photos/MKE_WELLS_DANTA_637978.jpg"
-  },
-  {
-   "key": "MKE_SMITH_DERRICK_301220",
-   "name": "Derrick Smith",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794029277,
-   "photo": "photos/MKE_SMITH_DERRICK_301220.jpg"
-  },
-  {
-   "key": "MKE_RATLIFF_LAZARRIES_223186",
-   "name": "Lazarries Darryl Ratliff",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794029275,
-   "photo": "photos/MKE_RATLIFF_LAZARRIES_223186.jpg"
-  },
-  {
-   "key": "MKE_ANDERSON_BRANDON_648176",
-   "name": "Brandon Lawrence Anderson",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794029273,
-   "photo": "photos/MKE_ANDERSON_BRANDON_648176.jpg"
-  },
-  {
-   "key": "PECK_MOLLIE_2026-11-06",
-   "name": "Mollie P Peck",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794029221,
-   "photo": null
   }
  ]
 }
