@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T23:48:14+00:00",
+ "updated": "2026-11-10T00:00:55+00:00",
  "items": [
+  {
+   "key": "KEN_RAMOS_JEFFREY_2026-00006206",
+   "name": "Jeffrey Devon Ramos",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794268503,
+   "photo": "photos/KEN_RAMOS_JEFFREY_2026-00006206.jpg"
+  },
+  {
+   "key": "MAR_VANG_MICHAEL_2026-11-09",
+   "name": "Michael Vang",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1794268441,
+   "photo": "photos/MAR_VANG_MICHAEL_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_BRIDGES_CARINLIN_2026-11-09_6680801",
+   "name": "Carin-Lin L Bridges",
+   "age": "65",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1794268407,
+   "photo": "photos/MAR_BRIDGES_CARINLIN_2026-11-09_6680801.jpg"
+  },
+  {
+   "key": "KEN_COPPENS_CHARLES_2026-00006207",
+   "name": "Charles Coppens",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794268399,
+   "photo": null
+  },
   {
    "key": "RC_HARRIS_ROLAND_120011076113519",
    "name": "Roland Lavada Harris",
@@ -150,7 +194,7 @@
    "age": "64",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794261498,
    "photo": "photos/KEN_LAMOTHE_JAMES_2026-00006205.jpg"
@@ -286,28 +330,6 @@
    "more": 2,
    "ts": 1794257628,
    "photo": "photos/MAR_WALTERS_DIMITRI_2026-11-09.jpg"
-  },
-  {
-   "key": "RC_BOUWMA_MARK_120011076098490",
-   "name": "Mark James Bouwma",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794257268,
-   "photo": "photos/RC_BOUWMA_MARK_120011076098490.jpg"
-  },
-  {
-   "key": "RC_GARCIAGONZALES_ALIYAH_120011076099516",
-   "name": "Aliyah Celeste Garcia-Gonzales",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794257266,
-   "photo": "photos/RC_GARCIAGONZALES_ALIYAH_120011076099516.jpg"
   },
   {
    "key": "LEDMAN_STEVEN_2026-11-09",
@@ -497,17 +519,6 @@
    "photo": "photos/MAR_WILL_DANIELLE_2026-11-09_17076901.jpg"
   },
   {
-   "key": "MAR_HOFFMAN_SCOTT_2026-11-09",
-   "name": "Scott Anthony Hoffman",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Capias - Misdemeanor",
-   "more": 0,
-   "ts": 1794239647,
-   "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09.jpg"
-  },
-  {
    "key": "FDL_PEASE_DAVID_2026-11-09",
    "name": "David L Pease",
    "age": "",
@@ -517,20 +528,53 @@
    "more": 1,
    "ts": 1794237419,
    "photo": "photos/FDL_PEASE_DAVID_2026-11-09.jpg"
-  },
-  {
-   "key": "FDL_COLEMAN_KAILYN_2026-11-09",
-   "name": "Kailyn P Coleman",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
-   "more": 1,
-   "ts": 1794237383,
-   "photo": "photos/FDL_COLEMAN_KAILYN_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_RAMOS_JEFFREY_2026-00006206",
+   "name": "Jeffrey Devon Ramos",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794268503,
+   "photo": "photos/KEN_RAMOS_JEFFREY_2026-00006206.jpg"
+  },
+  {
+   "key": "MAR_VANG_MICHAEL_2026-11-09",
+   "name": "Michael Vang",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1794268441,
+   "photo": "photos/MAR_VANG_MICHAEL_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_BRIDGES_CARINLIN_2026-11-09_6680801",
+   "name": "Carin-Lin L Bridges",
+   "age": "65",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1794268407,
+   "photo": "photos/MAR_BRIDGES_CARINLIN_2026-11-09_6680801.jpg"
+  },
+  {
+   "key": "KEN_COPPENS_CHARLES_2026-00006207",
+   "name": "Charles Coppens",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794268399,
+   "photo": null
+  },
   {
    "key": "RC_HARRIS_ROLAND_120011076113519",
    "name": "Roland Lavada Harris",
@@ -680,7 +724,7 @@
    "age": "64",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794261498,
    "photo": "photos/KEN_LAMOTHE_JAMES_2026-00006205.jpg"
@@ -4688,17 +4732,6 @@
    "more": 0,
    "ts": 1794009683,
    "photo": "photos/MAR_CHAMBERLAIN_CORY_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_SIKORA_TRAVIS_2026-11-06",
-   "name": "Travis John Sikora",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794009632,
-   "photo": "photos/MAR_SIKORA_TRAVIS_2026-11-06.jpg"
   }
  ]
 }
