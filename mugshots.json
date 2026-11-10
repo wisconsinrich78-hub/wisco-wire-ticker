@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T12:00:34+00:00",
+ "updated": "2026-11-10T12:33:47+00:00",
  "items": [
+  {
+   "key": "MKE_BUSTOS_GAEL_648232",
+   "name": "Gael Bustos",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794313655,
+   "photo": null
+  },
   {
    "key": "MKE_ORTIZCARMONA_LUIS_611885",
    "name": "Luis J Ortiz-Carmona",
@@ -128,8 +139,8 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1794302850,
    "photo": null
   },
@@ -319,17 +330,6 @@
    "more": 0,
    "ts": 1794286081,
    "photo": null
-  },
-  {
-   "key": "MKE_ANDERSON_ROBERT_648224",
-   "name": "Robert Mitchell Anderson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794283086,
-   "photo": "photos/MKE_ANDERSON_ROBERT_648224.jpg"
   },
   {
    "key": "MAR_YAEGER_CLINT_2026-11-09",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_BUSTOS_GAEL_648232",
+   "name": "Gael Bustos",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794313655,
+   "photo": null
+  },
+  {
    "key": "MKE_ORTIZCARMONA_LUIS_611885",
    "name": "Luis J Ortiz-Carmona",
    "age": "37",
@@ -658,8 +669,8 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1794302850,
    "photo": null
   },
@@ -4864,39 +4875,6 @@
    "more": 0,
    "ts": 1794056267,
    "photo": "photos/MKE_GODOY_LUIS_648186.jpg"
-  },
-  {
-   "key": "MKE_LANDIN_ANDREW_648184",
-   "name": "Andrew Z Landin",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794054464,
-   "photo": "photos/MKE_LANDIN_ANDREW_648184.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZ_DIANA_1447",
-   "name": "Diana Gonzalez",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794054463,
-   "photo": "photos/MKE_GONZALEZ_DIANA_1447.jpg"
-  },
-  {
-   "key": "MKE_ANDERSON_ROBIN_648185",
-   "name": "Robin Patrice Anderson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794054461,
-   "photo": "photos/MKE_ANDERSON_ROBIN_648185.jpg"
   }
  ]
 }
