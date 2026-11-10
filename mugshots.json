@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T18:49:36+00:00",
+ "updated": "2026-11-10T19:00:45+00:00",
  "items": [
+  {
+   "key": "MKE_DANDRIDGE_TIONN_311028",
+   "name": "Tionn Delain Dandridge",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run",
+   "more": 2,
+   "ts": 1794337090,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEVENSON_THOMAS_630428",
+   "name": "Thomas Douglas Stevenson",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794337087,
+   "photo": null
+  },
+  {
+   "key": "MAR_KRUMWIEDE_JASON_2026-11-10_15763404",
+   "name": "Jason Allen Krumwiede",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794336793,
+   "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10_15763404.jpg"
+  },
   {
    "key": "RC_GREWAL_ISHAN_120011076136732",
    "name": "Ishan S Grewal",
@@ -253,28 +286,6 @@
    "more": 0,
    "ts": 1794323835,
    "photo": "photos/FDL_PRUITT_DENNIS_2026-11-10.jpg"
-  },
-  {
-   "key": "KEN_PYNENBERG_SAMUEL_2026-00006220",
-   "name": "Samuel Pynenberg",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Federal Agency Hold",
-   "more": 0,
-   "ts": 1794322378,
-   "photo": null
-  },
-  {
-   "key": "MKE_PERKINS_AUTAVIONE_514862",
-   "name": "Autavione Dijuan Perkins",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 3,
-   "ts": 1794320879,
-   "photo": null
   },
   {
    "key": "JOHNSON_TAYLOR_2026-11-10",
@@ -475,17 +486,6 @@
    "photo": "photos/MAR_SMITH_GERALD_2026-11-09_16171203.jpg"
   },
   {
-   "key": "MAR_WOODARD_DAVID_2026-11-09_7914802",
-   "name": "David Nathanael Woodard",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 0,
-   "ts": 1794279202,
-   "photo": "photos/MAR_WOODARD_DAVID_2026-11-09_7914802.jpg"
-  },
-  {
    "key": "FDL_RODRIGUEZBLANDON_RONY_2026-11-09",
    "name": "Rony Alberto Rodriguez-Blandon",
    "age": "",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_DANDRIDGE_TIONN_311028",
+   "name": "Tionn Delain Dandridge",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run",
+   "more": 2,
+   "ts": 1794337090,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEVENSON_THOMAS_630428",
+   "name": "Thomas Douglas Stevenson",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794337087,
+   "photo": null
+  },
+  {
+   "key": "MAR_KRUMWIEDE_JASON_2026-11-10_15763404",
+   "name": "Jason Allen Krumwiede",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794336793,
+   "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10_15763404.jpg"
+  },
   {
    "key": "RC_GREWAL_ISHAN_120011076136732",
    "name": "Ishan S Grewal",
@@ -801,7 +834,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Failure to Support",
    "more": 3,
    "ts": 1794320879,
    "photo": null
@@ -4831,17 +4864,6 @@
    "more": 0,
    "ts": 1794080864,
    "photo": null
-  },
-  {
-   "key": "MKE_LAWRENCE_MARVEL_648191",
-   "name": "Marvel M Lawrence",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794077855,
-   "photo": "photos/MKE_LAWRENCE_MARVEL_648191.jpg"
   }
  ]
 }
