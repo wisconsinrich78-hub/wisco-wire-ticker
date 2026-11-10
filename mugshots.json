@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T15:41:13+00:00",
+ "updated": "2026-11-10T15:49:26+00:00",
  "items": [
+  {
+   "key": "RC_WALKER_CAMERON_120011076130363",
+   "name": "Cameron Aries Walker",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794325670,
+   "photo": "photos/RC_WALKER_CAMERON_120011076130363.jpg"
+  },
+  {
+   "key": "HEGGE_THOMAS_2026-11-10",
+   "name": "Thomas J Hegge",
+   "age": "59",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794325629,
+   "photo": null
+  },
   {
    "key": "MKE_RHODES_BOBBIE_604736",
    "name": "Bobbie Jean Rhodes",
@@ -186,17 +208,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794310047,
-   "photo": null
-  },
-  {
-   "key": "MKE_LOFTON_ALEXIS_648231",
-   "name": "Alexis M Lofton",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794310045,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794266198,
    "photo": "photos/FDL_GESSLER_ANDREW_2026-11-09.jpg"
-  },
-  {
-   "key": "KLAUS_ASHLEIGH_2026-11-09",
-   "name": "Ashleigh Mae Klaus",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794263230,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WALKER_CAMERON_120011076130363",
+   "name": "Cameron Aries Walker",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794325670,
+   "photo": "photos/RC_WALKER_CAMERON_120011076130363.jpg"
+  },
+  {
+   "key": "HEGGE_THOMAS_2026-11-10",
+   "name": "Thomas J Hegge",
+   "age": "59",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794325629,
+   "photo": null
+  },
   {
    "key": "MKE_RHODES_BOBBIE_604736",
    "name": "Bobbie Jean Rhodes",
@@ -4732,17 +4754,6 @@
    "more": 6,
    "ts": 1794067103,
    "photo": "photos/MKE_JONES_SYLVIA_413102.jpg"
-  },
-  {
-   "key": "RC_JABS_JOSHUA_120011076036414",
-   "name": "Joshua T Jabs",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794066472,
-   "photo": "photos/RC_JABS_JOSHUA_120011076036414.jpg"
   }
  ]
 }
