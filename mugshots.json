@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T21:01:06+00:00",
+ "updated": "2026-11-10T21:29:13+00:00",
  "items": [
+  {
+   "key": "DOU_LAGREW_DAVID_2026-11-10",
+   "name": "David R Lagrew",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794345438,
+   "photo": "photos/DOU_LAGREW_DAVID_2026-11-10.jpg"
+  },
   {
    "key": "KEN_CAMARGOBELTRAN_ALERSON_2026-00006234",
    "name": "Alerson Camargo-Beltran",
@@ -497,17 +508,6 @@
    "photo": "photos/MAR_YAEGER_CLINT_2026-11-09.jpg"
   },
   {
-   "key": "MAR_ECKERT_OLIVIA_2026-11-09_2751208",
-   "name": "Olivia Hope Eckert",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess W/ Intent-Amphetamine(>10-50G)",
-   "more": 6,
-   "ts": 1794282837,
-   "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09_2751208.jpg"
-  },
-  {
    "key": "FDL_RODRIGUEZBLANDON_RONY_2026-11-09",
    "name": "Rony Alberto Rodriguez-Blandon",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_LAGREW_DAVID_2026-11-10",
+   "name": "David R Lagrew",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794345438,
+   "photo": "photos/DOU_LAGREW_DAVID_2026-11-10.jpg"
+  },
   {
    "key": "KEN_CAMARGOBELTRAN_ALERSON_2026-00006234",
    "name": "Alerson Camargo-Beltran",
@@ -1010,8 +1021,8 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 3,
+   "charge": "Failure to Support",
+   "more": 5,
    "ts": 1794320879,
    "photo": null
   },
@@ -1211,7 +1222,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794304665,
-   "photo": null
+   "photo": "photos/MKE_ANDERSON_MESONS_648228.jpg"
   },
   {
    "key": "MKE_YARBROUGH_DESEAN_648229",
@@ -4918,28 +4929,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794091638,
-   "photo": null
-  },
-  {
-   "key": "MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995",
-   "name": "Christal N Marshall-Collingwood",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794086887,
-   "photo": "photos/MKE_MARSHALLCOLLINGWOOD_CHRISTAL_616995.jpg"
-  },
-  {
-   "key": "JONSGAARD_LUCAS_2026-11-07",
-   "name": "Lucas Anton Jonsgaard",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794086830,
    "photo": null
   }
  ]
