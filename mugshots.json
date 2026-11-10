@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T07:00:22+00:00",
+ "updated": "2026-11-10T07:58:47+00:00",
  "items": [
+  {
+   "key": "MAR_PORATH_JENNY_2026-11-09",
+   "name": "Jenny Lynn Porath",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 4,
+   "ts": 1794297212,
+   "photo": "photos/MAR_PORATH_JENNY_2026-11-09.jpg"
+  },
   {
    "key": "MAR_VANG_MICHAEL_2026-11-09_16051204",
    "name": "Michael Vang",
@@ -453,17 +464,6 @@
    "photo": null
   },
   {
-   "key": "MAR_OUSLEY_DIMITRI_2026-11-09_17077101",
-   "name": "Dimitri Ousley",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794261278,
-   "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-09_17077101.jpg"
-  },
-  {
    "key": "HOU_KISTLER_KORTNEYROBERT_6330",
    "name": "Kortney Robert Kistler",
    "age": "49",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_PORATH_JENNY_2026-11-09",
+   "name": "Jenny Lynn Porath",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 4,
+   "ts": 1794297212,
+   "photo": "photos/MAR_PORATH_JENNY_2026-11-09.jpg"
+  },
   {
    "key": "MAR_VANG_MICHAEL_2026-11-09_16051204",
    "name": "Michael Vang",
@@ -1219,7 +1230,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
+   "charge": "Habitual Criminality",
    "more": 7,
    "ts": 1794266915,
    "photo": null
@@ -1230,7 +1241,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
+   "charge": "Domestic Abuse Surcharges",
    "more": 9,
    "ts": 1794266911,
    "photo": null
@@ -4853,39 +4864,6 @@
    "more": 1,
    "ts": 1794040053,
    "photo": "photos/MKE_DIXON_KIONTE_511789.jpg"
-  },
-  {
-   "key": "MKE_MALLARD_DAYLAN_648177",
-   "name": "Daylan R Mallard",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794038274,
-   "photo": "photos/MKE_MALLARD_DAYLAN_648177.jpg"
-  },
-  {
-   "key": "MKE_ARIASLACHERRE_JOHAN_648179",
-   "name": "Johan Balbo Arias Lacherre",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794038272,
-   "photo": "photos/MKE_ARIASLACHERRE_JOHAN_648179.jpg"
-  },
-  {
-   "key": "MKE_ALSTON_AHMAL_648178",
-   "name": "Ahmal Jamel Alston",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794038271,
-   "photo": "photos/MKE_ALSTON_AHMAL_648178.jpg"
   }
  ]
 }
