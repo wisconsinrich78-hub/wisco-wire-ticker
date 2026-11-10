@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-10T19:49:29+00:00",
+ "updated": "2026-11-10T20:08:18+00:00",
  "items": [
+  {
+   "key": "KEN_TURNER_SHANNON_2026-00006232",
+   "name": "Shannon Lee Turner",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794341060,
+   "photo": "photos/KEN_TURNER_SHANNON_2026-00006232.jpg"
+  },
+  {
+   "key": "KEN_LANE_NICHOLAS_2026-00006231",
+   "name": "Nicholas Timothy Lane",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1794340988,
+   "photo": "photos/KEN_LANE_NICHOLAS_2026-00006231.jpg"
+  },
+  {
+   "key": "KEN_DISMUKE_AUSTIN_2026-00006230",
+   "name": "Austin Steven Dismuke",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794340920,
+   "photo": null
+  },
+  {
+   "key": "KEN_BOSOVICH_BORO_2026-00006229",
+   "name": "Boro D Bosovich",
+   "age": "74",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794340886,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLEMENTS_EUNIQUA_631721",
+   "name": "Euniqua S Clements",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Stalking - Result in Bodily Harm",
+   "more": 22,
+   "ts": 1794340673,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOPEZCAMPOS_EDWARD_644707",
+   "name": "Edward Lopez Campos",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Recklessly Cause Great Harm",
+   "more": 0,
+   "ts": 1794340671,
+   "photo": null
+  },
   {
    "key": "LANCASTER_COREY_2026-11-10",
    "name": "Corey G Lancaster",
@@ -189,17 +255,6 @@
    "photo": "photos/MAR_BUSKAHACK_GAIGE_2026-11-10_15829701.jpg"
   },
   {
-   "key": "RC_RODRIGUEZ_ORLANDO_120011076133385",
-   "name": "Orlando Rodriguez",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794329267,
-   "photo": "photos/RC_RODRIGUEZ_ORLANDO_120011076133385.jpg"
-  },
-  {
    "key": "CARSON_HANAH_2026-11-10",
    "name": "Hanah M Carson",
    "age": "42",
@@ -222,28 +277,6 @@
    "photo": "photos/FDL_HIGGINBOTHAM_ZACHERY_2026-11-10.jpg"
   },
   {
-   "key": "MKE_JACKSON_NAZARON_628952",
-   "name": "Nazaron Dwayne Jackson",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794326287,
-   "photo": null
-  },
-  {
-   "key": "MKE_JAIMES_RAUL_648235",
-   "name": "Raul Jaimes",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 1,
-   "ts": 1794326284,
-   "photo": null
-  },
-  {
    "key": "MAR_BUSKAHACK_GAIGE_2026-11-10",
    "name": "Gaige A Buska-Hack",
    "age": "32",
@@ -255,17 +288,6 @@
    "photo": null
   },
   {
-   "key": "RC_WALKER_CAMERON_120011076130363",
-   "name": "Cameron Aries Walker",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794325670,
-   "photo": "photos/RC_WALKER_CAMERON_120011076130363.jpg"
-  },
-  {
    "key": "HEGGE_THOMAS_2026-11-10",
    "name": "Thomas J Hegge",
    "age": "59",
@@ -274,28 +296,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794325629,
-   "photo": null
-  },
-  {
-   "key": "MKE_RHODES_BOBBIE_604736",
-   "name": "Bobbie Jean Rhodes",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794324489,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROOKS_MARCHELO_645972",
-   "name": "Marchelo Life Brooks",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794324487,
    "photo": null
   },
   {
@@ -531,6 +531,72 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_TURNER_SHANNON_2026-00006232",
+   "name": "Shannon Lee Turner",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794341060,
+   "photo": "photos/KEN_TURNER_SHANNON_2026-00006232.jpg"
+  },
+  {
+   "key": "KEN_LANE_NICHOLAS_2026-00006231",
+   "name": "Nicholas Timothy Lane",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1794340988,
+   "photo": "photos/KEN_LANE_NICHOLAS_2026-00006231.jpg"
+  },
+  {
+   "key": "KEN_DISMUKE_AUSTIN_2026-00006230",
+   "name": "Austin Steven Dismuke",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794340920,
+   "photo": null
+  },
+  {
+   "key": "KEN_BOSOVICH_BORO_2026-00006229",
+   "name": "Boro D Bosovich",
+   "age": "74",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794340886,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLEMENTS_EUNIQUA_631721",
+   "name": "Euniqua S Clements",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Stalking - Result in Bodily Harm",
+   "more": 22,
+   "ts": 1794340673,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOPEZCAMPOS_EDWARD_644707",
+   "name": "Edward Lopez Campos",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Recklessly Cause Great Harm",
+   "more": 0,
+   "ts": 1794340671,
+   "photo": null
+  },
   {
    "key": "LANCASTER_COREY_2026-11-10",
    "name": "Corey G Lancaster",
@@ -856,7 +922,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1794320879,
    "photo": null
@@ -4831,39 +4897,6 @@
    "more": 1,
    "ts": 1794082866,
    "photo": "photos/MAR_STEVENS_DANIELLE_2026-11-07_19211.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_TAHERRA_527224",
-   "name": "Taherra La Ray Davis",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794081476,
-   "photo": "photos/MKE_DAVIS_TAHERRA_527224.jpg"
-  },
-  {
-   "key": "MKE_BACK_CHRISTOPHER_633008",
-   "name": "Christopher John Back",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794081475,
-   "photo": "photos/MKE_BACK_CHRISTOPHER_633008.jpg"
-  },
-  {
-   "key": "MKE_HUNT_PRICE_648192",
-   "name": "Price Y Hunt",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794081473,
-   "photo": "photos/MKE_HUNT_PRICE_648192.jpg"
   }
  ]
 }
