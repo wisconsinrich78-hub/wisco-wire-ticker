@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T12:33:47+00:00",
+ "updated": "2026-11-10T12:49:32+00:00",
  "items": [
+  {
+   "key": "RC_ROUSE_DWIGHT_120011076125721",
+   "name": "Dwight D Rouse",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794314867,
+   "photo": "photos/RC_ROUSE_DWIGHT_120011076125721.jpg"
+  },
   {
    "key": "MKE_BUSTOS_GAEL_648232",
    "name": "Gael Bustos",
@@ -321,17 +332,6 @@
    "photo": "photos/FDL_FURNAS_DAVID_2026-11-09.jpg"
   },
   {
-   "key": "RC_SMITH_EDRICK_120011076120120",
-   "name": "Edrick Dywne Smith",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
-   "more": 0,
-   "ts": 1794286081,
-   "photo": null
-  },
-  {
    "key": "MAR_YAEGER_CLINT_2026-11-09",
    "name": "Clint Jameson Yaeger",
    "age": "36",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ROUSE_DWIGHT_120011076125721",
+   "name": "Dwight D Rouse",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794314867,
+   "photo": "photos/RC_ROUSE_DWIGHT_120011076125721.jpg"
+  },
   {
    "key": "MKE_BUSTOS_GAEL_648232",
    "name": "Gael Bustos",
