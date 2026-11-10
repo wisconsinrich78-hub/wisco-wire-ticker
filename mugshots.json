@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T10:01:22+00:00",
+ "updated": "2026-11-10T10:49:35+00:00",
  "items": [
+  {
+   "key": "TREM_FILAND_TROY_6209",
+   "name": "Troy David Filand",
+   "age": "56",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794307630,
+   "photo": "photos/TREM_FILAND_TROY_6209.jpg"
+  },
+  {
+   "key": "TREM_SANDOVALAGUILAR_FELICIANO_6210",
+   "name": "Feliciano Sandoval Aguilar",
+   "age": "38",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794307628,
+   "photo": null
+  },
   {
    "key": "MKE_ANDERSON_MESONS_648228",
    "name": "Me Sons Emmaule Anderson",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794259627,
    "photo": null
-  },
-  {
-   "key": "LEDMAN_STEVEN_2026-11-09",
-   "name": "Steven B Ledman",
-   "age": "64",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794257224,
-   "photo": null
-  },
-  {
-   "key": "DANIELS_JORDAN_2026-11-09",
-   "name": "Jordan Jamir Daniels",
-   "age": "17",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794256039,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "TREM_FILAND_TROY_6209",
+   "name": "Troy David Filand",
+   "age": "56",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794307630,
+   "photo": "photos/TREM_FILAND_TROY_6209.jpg"
+  },
+  {
+   "key": "TREM_SANDOVALAGUILAR_FELICIANO_6210",
+   "name": "Feliciano Sandoval Aguilar",
+   "age": "38",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794307628,
+   "photo": null
+  },
   {
    "key": "MKE_ANDERSON_MESONS_648228",
    "name": "Me Sons Emmaule Anderson",
@@ -4864,28 +4886,6 @@
    "more": 3,
    "ts": 1794049061,
    "photo": "photos/MKE_BURRIES_COURTNEY_515095.jpg"
-  },
-  {
-   "key": "TREM_EDDY_NICOLE_6205",
-   "name": "Nicole Lydia Liz Eddy",
-   "age": "42",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794048432,
-   "photo": "photos/TREM_EDDY_NICOLE_6205.jpg"
-  },
-  {
-   "key": "TREM_COLBURN_KENNETH_1816",
-   "name": "Kenneth Michael Colburn",
-   "age": "41",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Violation of Temporary Restraining Order - Harassment",
-   "more": 1,
-   "ts": 1794048431,
-   "photo": "photos/TREM_COLBURN_KENNETH_1816.jpg"
   }
  ]
 }
