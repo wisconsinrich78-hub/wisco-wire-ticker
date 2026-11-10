@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T02:33:36+00:00",
+ "updated": "2026-11-10T02:49:33+00:00",
  "items": [
+  {
+   "key": "RC_FIREHAMMER_ZACHARY_120011076107926",
+   "name": "Zachary Ray Firehammer",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794278898,
+   "photo": "photos/RC_FIREHAMMER_ZACHARY_120011076107926.jpg"
+  },
+  {
+   "key": "RC_GAREISS_MICHAEL_120011076117611",
+   "name": "Michael Todd Gareiss",
+   "age": "57",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794278894,
+   "photo": null
+  },
   {
    "key": "MKE_HANNAH_SIDNEY_146710",
    "name": "Sidney Hannah",
@@ -197,28 +219,6 @@
    "charge": "Felony Murder",
    "more": 0,
    "ts": 1794272278,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_WESLEY_607457",
-   "name": "Wesley Corday Johnson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794272276,
-   "photo": null
-  },
-  {
-   "key": "MKE_DRIVER_JAYLEN_622949",
-   "name": "Jaylen Isaiah Driver",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794272273,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FIREHAMMER_ZACHARY_120011076107926",
+   "name": "Zachary Ray Firehammer",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794278898,
+   "photo": "photos/RC_FIREHAMMER_ZACHARY_120011076107926.jpg"
+  },
+  {
+   "key": "RC_GAREISS_MICHAEL_120011076117611",
+   "name": "Michael Todd Gareiss",
+   "age": "57",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794278894,
+   "photo": null
+  },
   {
    "key": "MKE_HANNAH_SIDNEY_146710",
    "name": "Sidney Hannah",
