@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T14:49:40+00:00",
+ "updated": "2026-11-10T14:58:10+00:00",
  "items": [
+  {
+   "key": "KEN_PYNENBERG_SAMUEL_2026-00006220",
+   "name": "Samuel Pynenberg",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794322378,
+   "photo": null
+  },
   {
    "key": "MKE_PERKINS_AUTAVIONE_514862",
    "name": "Autavione Dijuan Perkins",
@@ -84,8 +95,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operate W/O Carrying License",
+   "more": 2,
    "ts": 1794318854,
    "photo": null
   },
@@ -208,17 +219,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794304665,
-   "photo": null
-  },
-  {
-   "key": "MKE_YARBROUGH_DESEAN_648229",
-   "name": "Desean Yarbrough",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794304663,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "KEN_PYNENBERG_SAMUEL_2026-00006220",
+   "name": "Samuel Pynenberg",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794322378,
+   "photo": null
+  },
+  {
    "key": "MKE_PERKINS_AUTAVIONE_514862",
    "name": "Autavione Dijuan Perkins",
    "age": "28",
@@ -614,8 +625,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operate W/O Carrying License",
+   "more": 2,
    "ts": 1794318854,
    "photo": null
   },
@@ -4886,17 +4897,6 @@
    "more": 0,
    "ts": 1794063494,
    "photo": "photos/KEN_DOBYNS_LACIE_2026-00006155.jpg"
-  },
-  {
-   "key": "KEN_ATEMPA_VIVIANA_2026-00006150",
-   "name": "Viviana Atempa",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Driving Wrong Way On Divided Highway",
-   "more": 3,
-   "ts": 1794063298,
-   "photo": "photos/KEN_ATEMPA_VIVIANA_2026-00006150.jpg"
   }
  ]
 }
