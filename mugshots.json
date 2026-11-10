@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T00:49:27+00:00",
+ "updated": "2026-11-10T00:55:31+00:00",
  "items": [
+  {
+   "key": "MAR_HAWN_ROBERT_2026-11-09",
+   "name": "Robert Eugene Hawn",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794272005,
+   "photo": "photos/MAR_HAWN_ROBERT_2026-11-09.jpg"
+  },
   {
    "key": "ROMMEL_SHERRY_2026-11-09",
    "name": "Sherry L Rommel",
@@ -508,17 +519,6 @@
    "photo": "photos/DOU_AUSTIN_KYLE_2026-11-09.jpg"
   },
   {
-   "key": "MAR_DALEY_KEVIN_2026-11-09",
-   "name": "Kevin James Daley",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1794243224,
-   "photo": "photos/MAR_DALEY_KEVIN_2026-11-09.jpg"
-  },
-  {
    "key": "LUOMA_BENJAMIN_2026-11-09",
    "name": "Benjamin R Luoma",
    "age": "26",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_HAWN_ROBERT_2026-11-09",
+   "name": "Robert Eugene Hawn",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794272005,
+   "photo": "photos/MAR_HAWN_ROBERT_2026-11-09.jpg"
+  },
   {
    "key": "ROMMEL_SHERRY_2026-11-09",
    "name": "Sherry L Rommel",
@@ -4677,17 +4688,6 @@
    "more": 0,
    "ts": 1794013020,
    "photo": null
-  },
-  {
-   "key": "KEN_MITCHELL_LAMAREA_2026-00006144",
-   "name": "Lamarea D Mitchell",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794012818,
-   "photo": "photos/KEN_MITCHELL_LAMAREA_2026-00006144.jpg"
   }
  ]
 }
