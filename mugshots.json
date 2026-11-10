@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-10T00:55:31+00:00",
+ "updated": "2026-11-10T01:16:40+00:00",
  "items": [
+  {
+   "key": "MKE_STATEN_TYRONE_269949",
+   "name": "Tyrone Staten",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794272281,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_GEORGE_388907",
+   "name": "George D Taylor",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794272278,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_WESLEY_607457",
+   "name": "Wesley Corday Johnson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794272276,
+   "photo": null
+  },
+  {
+   "key": "MKE_DRIVER_JAYLEN_622949",
+   "name": "Jaylen Isaiah Driver",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794272273,
+   "photo": null
+  },
+  {
+   "key": "MKE_NASH_MARQUEZ_624100",
+   "name": "Marquez Tajmalik Nash",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1794272271,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_LACHELLE_644983",
+   "name": "Lachelle L Johnson",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794272269,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANGELORTIZ_JUAN_648223",
+   "name": "Juan Angel ortiz",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794272266,
+   "photo": null
+  },
   {
    "key": "MAR_HAWN_ROBERT_2026-11-09",
    "name": "Robert Eugene Hawn",
@@ -178,28 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_FORD_ASHUN_642696",
-   "name": "Ashun Tony Ford",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 9,
-   "ts": 1794266911,
-   "photo": null
-  },
-  {
-   "key": "MKE_NARVAEZ_LUIS_646997",
-   "name": "Luis Narvaez",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Reckless Probab./Great Harm",
-   "more": 0,
-   "ts": 1794266908,
-   "photo": "photos/MKE_NARVAEZ_LUIS_646997.jpg"
-  },
-  {
    "key": "FDL_TONEY_AMANDA_2026-11-09",
    "name": "Amanda Rae Toney",
    "age": "",
@@ -233,39 +288,6 @@
    "photo": "photos/FDL_GESSLER_ANDREW_2026-11-09.jpg"
   },
   {
-   "key": "MKE_CARTER_RAY_375566",
-   "name": "Ray J Carter",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794265075,
-   "photo": null
-  },
-  {
-   "key": "MKE_SMITH_DESHAWN_401568",
-   "name": "Deshawn Ashante Smith",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 3,
-   "ts": 1794265070,
-   "photo": null
-  },
-  {
-   "key": "RC_FIREHAMMER_ZACKERY_120011076107926",
-   "name": "Zackery Ray Firehammer",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794264469,
-   "photo": null
-  },
-  {
    "key": "KLAUS_ASHLEIGH_2026-11-09",
    "name": "Ashleigh Mae Klaus",
    "age": "38",
@@ -275,28 +297,6 @@
    "more": 0,
    "ts": 1794263230,
    "photo": null
-  },
-  {
-   "key": "KEN_LAMOTHE_JAMES_2026-00006205",
-   "name": "James M Lamothe",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794261498,
-   "photo": "photos/KEN_LAMOTHE_JAMES_2026-00006205.jpg"
-  },
-  {
-   "key": "MKE_THOMPSON_AARON_525056",
-   "name": "Aaron D Thompson",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794261488,
-   "photo": "photos/MKE_THOMPSON_AARON_525056.jpg"
   },
   {
    "key": "MAR_OUSLEY_DIMITRI_2026-11-09_17077101",
@@ -532,6 +532,83 @@
  ],
  "all_items": [
   {
+   "key": "MKE_STATEN_TYRONE_269949",
+   "name": "Tyrone Staten",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794272281,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_GEORGE_388907",
+   "name": "George D Taylor",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794272278,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_WESLEY_607457",
+   "name": "Wesley Corday Johnson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794272276,
+   "photo": null
+  },
+  {
+   "key": "MKE_DRIVER_JAYLEN_622949",
+   "name": "Jaylen Isaiah Driver",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794272273,
+   "photo": null
+  },
+  {
+   "key": "MKE_NASH_MARQUEZ_624100",
+   "name": "Marquez Tajmalik Nash",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1794272271,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_LACHELLE_644983",
+   "name": "Lachelle L Johnson",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794272269,
+   "photo": null
+  },
+  {
+   "key": "MKE_ANGELORTIZ_JUAN_648223",
+   "name": "Juan Angel ortiz",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794272266,
+   "photo": null
+  },
+  {
    "key": "MAR_HAWN_ROBERT_2026-11-09",
    "name": "Robert Eugene Hawn",
    "age": "52",
@@ -713,7 +790,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 9,
    "ts": 1794266911,
    "photo": null
@@ -4655,39 +4732,6 @@
    "more": 2,
    "ts": 1794014226,
    "photo": "photos/DOU_NORTON_CHARLES_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_LETNOM_SHARELLE_648172",
-   "name": "Sharelle Shadae Letnom",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1794013083,
-   "photo": "photos/MKE_LETNOM_SHARELLE_648172.jpg"
-  },
-  {
-   "key": "MKE_BERDECIA_LUIS_636738",
-   "name": "Luis Manuel Berdecia",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 9,
-   "ts": 1794013081,
-   "photo": "photos/MKE_BERDECIA_LUIS_636738.jpg"
-  },
-  {
-   "key": "HAGER_TYLER_2026-11-06",
-   "name": "Tyler Michael Jens Hager",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794013020,
-   "photo": null
   }
  ]
 }
