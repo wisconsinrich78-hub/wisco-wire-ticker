@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T01:43:41+00:00",
+ "updated": "2026-11-10T01:49:34+00:00",
  "items": [
+  {
+   "key": "RC_SIMONSEN_STEVEN_120011076116268",
+   "name": "Steven James Simonsen",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-felony",
+   "more": 0,
+   "ts": 1794275292,
+   "photo": "photos/RC_SIMONSEN_STEVEN_120011076116268.jpg"
+  },
   {
    "key": "DOU_ONEILL_COLTON_2026-11-09",
    "name": "Colton T Oneill",
@@ -266,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_AGEE_HARVEY_524839",
-   "name": "Harvey B Agee",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 7,
-   "ts": 1794266915,
-   "photo": null
-  },
-  {
    "key": "FDL_TONEY_AMANDA_2026-11-09",
    "name": "Amanda Rae Toney",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_SIMONSEN_STEVEN_120011076116268",
+   "name": "Steven James Simonsen",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-felony",
+   "more": 0,
+   "ts": 1794275292,
+   "photo": "photos/RC_SIMONSEN_STEVEN_120011076116268.jpg"
+  },
   {
    "key": "DOU_ONEILL_COLTON_2026-11-09",
    "name": "Colton T Oneill",
