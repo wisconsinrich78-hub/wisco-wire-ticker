@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-10T01:49:34+00:00",
+ "updated": "2026-11-10T02:06:17+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_MICHAEL_180173",
+   "name": "Michael Gerard Smith",
+   "age": "64",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1794275895,
+   "photo": null
+  },
+  {
+   "key": "MKE_TURNER_CORDARO_363192",
+   "name": "Cordaro W Turner",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1794275892,
+   "photo": null
+  },
+  {
+   "key": "MKE_NELSON_RICKY_366328",
+   "name": "Ricky J Nelson",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794275890,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALINSKI_KELLY_383843",
+   "name": "Kelly Jean Malinski",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794275887,
+   "photo": null
+  },
+  {
+   "key": "MKE_GLOVER_AMENHOTEP_420329",
+   "name": "Amenhotep Davon Glover",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 1,
+   "ts": 1794275884,
+   "photo": null
+  },
+  {
+   "key": "KEN_BUNVILLE_SONYA_2026-00006209",
+   "name": "Sonya Bunville",
+   "age": "65",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794275665,
+   "photo": "photos/KEN_BUNVILLE_SONYA_2026-00006209.jpg"
+  },
+  {
+   "key": "MAR_WOODARD_DAVID_2026-11-09_7914801",
+   "name": "David Nathanael Woodard",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 0,
+   "ts": 1794275605,
+   "photo": "photos/MAR_WOODARD_DAVID_2026-11-09_7914801.jpg"
+  },
   {
    "key": "RC_SIMONSEN_STEVEN_120011076116268",
    "name": "Steven James Simonsen",
@@ -51,7 +128,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Felony Murder",
    "more": 0,
    "ts": 1794272278,
    "photo": null
@@ -95,7 +172,7 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Reckless Driving-Cause Bodily Harm",
    "more": 0,
    "ts": 1794272269,
    "photo": null
@@ -156,17 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_HUERTA_MARTIN_648222",
-   "name": "Martin Huerta",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794270473,
-   "photo": null
-  },
-  {
    "key": "DOU_BRADY_SHAWN_2026-11-09",
    "name": "Shawn M Brady",
    "age": "32",
@@ -200,17 +266,6 @@
    "photo": null
   },
   {
-   "key": "KEN_RAMOS_JEFFREY_2026-00006206",
-   "name": "Jeffrey Devon Ramos",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794268503,
-   "photo": "photos/KEN_RAMOS_JEFFREY_2026-00006206.jpg"
-  },
-  {
    "key": "MAR_VANG_MICHAEL_2026-11-09",
    "name": "Michael Vang",
    "age": "32",
@@ -231,50 +286,6 @@
    "more": 0,
    "ts": 1794268407,
    "photo": "photos/MAR_BRIDGES_CARINLIN_2026-11-09_6680801.jpg"
-  },
-  {
-   "key": "KEN_COPPENS_CHARLES_2026-00006207",
-   "name": "Charles Coppens",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794268399,
-   "photo": null
-  },
-  {
-   "key": "RC_HARRIS_ROLAND_120011076113519",
-   "name": "Roland Lavada Harris",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid License (1St Violation)",
-   "more": 0,
-   "ts": 1794268069,
-   "photo": "photos/RC_HARRIS_ROLAND_120011076113519.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_JAMAL_354020",
-   "name": "Jamal Lavone Williams",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1794266927,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILSON_MYRON_390401",
-   "name": "Myron Bernard Wilson",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794266923,
-   "photo": null
   },
   {
    "key": "FDL_TONEY_AMANDA_2026-11-09",
@@ -508,17 +519,6 @@
    "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09_8479304.jpg"
   },
   {
-   "key": "MAR_BRIDGES_CARINLIN_2026-11-09",
-   "name": "Carin-Lin L Bridges",
-   "age": "65",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 0,
-   "ts": 1794246812,
-   "photo": null
-  },
-  {
    "key": "HAUGEN_SIRI_2026-11-09",
    "name": "Siri A Haugen",
    "age": "22",
@@ -531,6 +531,83 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SMITH_MICHAEL_180173",
+   "name": "Michael Gerard Smith",
+   "age": "64",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1794275895,
+   "photo": null
+  },
+  {
+   "key": "MKE_TURNER_CORDARO_363192",
+   "name": "Cordaro W Turner",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1794275892,
+   "photo": null
+  },
+  {
+   "key": "MKE_NELSON_RICKY_366328",
+   "name": "Ricky J Nelson",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794275890,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALINSKI_KELLY_383843",
+   "name": "Kelly Jean Malinski",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794275887,
+   "photo": null
+  },
+  {
+   "key": "MKE_GLOVER_AMENHOTEP_420329",
+   "name": "Amenhotep Davon Glover",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 1,
+   "ts": 1794275884,
+   "photo": null
+  },
+  {
+   "key": "KEN_BUNVILLE_SONYA_2026-00006209",
+   "name": "Sonya Bunville",
+   "age": "65",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794275665,
+   "photo": "photos/KEN_BUNVILLE_SONYA_2026-00006209.jpg"
+  },
+  {
+   "key": "MAR_WOODARD_DAVID_2026-11-09_7914801",
+   "name": "David Nathanael Woodard",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 0,
+   "ts": 1794275605,
+   "photo": "photos/MAR_WOODARD_DAVID_2026-11-09_7914801.jpg"
+  },
   {
    "key": "RC_SIMONSEN_STEVEN_120011076116268",
    "name": "Steven James Simonsen",
@@ -581,7 +658,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Felony Murder",
    "more": 0,
    "ts": 1794272278,
    "photo": null
@@ -625,7 +702,7 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Reckless Driving-Cause Bodily Harm",
    "more": 0,
    "ts": 1794272269,
    "photo": null
@@ -823,7 +900,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
+   "charge": "Domestic Abuse Surcharges",
    "more": 9,
    "ts": 1794266911,
    "photo": null
@@ -4699,61 +4776,6 @@
    "more": 0,
    "ts": 1794018456,
    "photo": "photos/MKE_COX_MCKAYLA_648174.jpg"
-  },
-  {
-   "key": "MKE_SMITH_CIERA_648173",
-   "name": "Ciera Y Smith",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794016667,
-   "photo": "photos/MKE_SMITH_CIERA_648173.jpg"
-  },
-  {
-   "key": "MKE_CORREA_NOEL_642262",
-   "name": "Noel Alfredo Correa",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1794016665,
-   "photo": "photos/MKE_CORREA_NOEL_642262.jpg"
-  },
-  {
-   "key": "KEN_MORNING_BOB_2026-00006145",
-   "name": "BOB DANIEL Third MORNING",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794016591,
-   "photo": "photos/KEN_MORNING_BOB_2026-00006145.jpg"
-  },
-  {
-   "key": "MAR_SIKORA_TRAVIS_2026-11-06_563706",
-   "name": "Travis John Sikora",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794016546,
-   "photo": "photos/MAR_SIKORA_TRAVIS_2026-11-06_563706.jpg"
-  },
-  {
-   "key": "KEN_BRANTLEY_CORTNEY_2026-00006146",
-   "name": "Cortney Jermaine Brantley",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 0,
-   "ts": 1794016490,
-   "photo": "photos/KEN_BRANTLEY_CORTNEY_2026-00006146.jpg"
   }
  ]
 }
