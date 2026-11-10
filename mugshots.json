@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T17:04:54+00:00",
+ "updated": "2026-11-10T17:30:13+00:00",
  "items": [
+  {
+   "key": "MKE_WHITTSEY_ALEXIS_359257",
+   "name": "Alexis L Whittsey",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794331657,
+   "photo": null
+  },
   {
    "key": "KEN_ONEAL_JULIE_2026-00006225",
    "name": "Julie Ann Oneal",
@@ -241,17 +252,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794319073,
-   "photo": null
-  },
-  {
-   "key": "KEN_CAMARILLO_ADOLFO_2026-00006214",
-   "name": "Adolfo Camarillo",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Carrying License",
-   "more": 2,
-   "ts": 1794318854,
    "photo": null
   },
   {
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WHITTSEY_ALEXIS_359257",
+   "name": "Alexis L Whittsey",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794331657,
+   "photo": null
+  },
   {
    "key": "KEN_ONEAL_JULIE_2026-00006225",
    "name": "Julie Ann Oneal",
@@ -4765,17 +4776,6 @@
    "more": 0,
    "ts": 1794074499,
    "photo": "photos/KEN_DANIELS_NICHOLAS_2026-00006158.jpg"
-  },
-  {
-   "key": "MKE_ROLLINS_JAVONDRE_648190",
-   "name": "Javondre Lee Rollins",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794072468,
-   "photo": "photos/MKE_ROLLINS_JAVONDRE_648190.jpg"
   }
  ]
 }
