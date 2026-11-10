@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T21:49:32+00:00",
+ "updated": "2026-11-10T22:02:40+00:00",
  "items": [
+  {
+   "key": "MKE_WEEKS_KAYTTY_377253",
+   "name": "Kaytty Joelynn Weeks",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347867,
+   "photo": null
+  },
+  {
+   "key": "MKE_NORD_ANTHONY_421368",
+   "name": "Anthony Dushun Nord",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794347865,
+   "photo": null
+  },
   {
    "key": "RC_FARRINGTON_KEISHA_120011076142075",
    "name": "Keisha Marie Farrington",
@@ -62,8 +84,8 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "1St Degree Reckless Endangering Safety",
+   "more": 2,
    "ts": 1794344028,
    "photo": null
   },
@@ -176,28 +198,6 @@
    "more": 1,
    "ts": 1794340920,
    "photo": "photos/KEN_DISMUKE_AUSTIN_2026-00006230.jpg"
-  },
-  {
-   "key": "KEN_BOSOVICH_BORO_2026-00006229",
-   "name": "Boro D Bosovich",
-   "age": "74",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794340886,
-   "photo": null
-  },
-  {
-   "key": "MKE_CLEMENTS_EUNIQUA_631721",
-   "name": "Euniqua S Clements",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Stalking - Result in Bodily Harm",
-   "more": 22,
-   "ts": 1794340673,
-   "photo": null
   },
   {
    "key": "LANCASTER_COREY_2026-11-10",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_WEEKS_KAYTTY_377253",
+   "name": "Kaytty Joelynn Weeks",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347867,
+   "photo": null
+  },
+  {
+   "key": "MKE_NORD_ANTHONY_421368",
+   "name": "Anthony Dushun Nord",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794347865,
+   "photo": null
+  },
+  {
    "key": "RC_FARRINGTON_KEISHA_120011076142075",
    "name": "Keisha Marie Farrington",
    "age": "44",
@@ -592,8 +614,8 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "1St Degree Reckless Endangering Safety",
+   "more": 2,
    "ts": 1794344028,
    "photo": null
   },
@@ -1200,7 +1222,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794310047,
-   "photo": null
+   "photo": "photos/MKE_HERNANDEZCASTANEDA_SELSO_648230.jpg"
   },
   {
    "key": "MKE_LOFTON_ALEXIS_648231",
@@ -1222,7 +1244,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794308262,
-   "photo": null
+   "photo": "photos/MKE_MOODY_SHATARI_623898.jpg"
   },
   {
    "key": "MAR_DOYLE_DAVID_2026-11-09_110405",
