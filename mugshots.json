@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-10T06:49:46+00:00",
+ "updated": "2026-11-10T07:00:22+00:00",
  "items": [
+  {
+   "key": "MAR_VANG_MICHAEL_2026-11-09_16051204",
+   "name": "Michael Vang",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1794293513,
+   "photo": "photos/MAR_VANG_MICHAEL_2026-11-09_16051204.jpg"
+  },
+  {
+   "key": "MAR_LUEDDECKE_LANCE_2026-11-09",
+   "name": "Lance Leon Lueddecke",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1794293476,
+   "photo": "photos/MAR_LUEDDECKE_LANCE_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_DOYLE_DAVID_2026-11-09",
+   "name": "David Robert Doyle",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Theft- All Other",
+   "more": 3,
+   "ts": 1794293437,
+   "photo": "photos/MAR_DOYLE_DAVID_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_REED_GLENN_2026-11-09",
+   "name": "Glenn Allen Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 4,
+   "ts": 1794293391,
+   "photo": "photos/MAR_REED_GLENN_2026-11-09.jpg"
+  },
   {
    "key": "RC_MCCRAY_KEYARRA_120011076122001",
    "name": "Keyarra A McCray",
@@ -420,17 +464,6 @@
    "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-09_17077101.jpg"
   },
   {
-   "key": "MAR_DALEY_KEVIN_2026-11-09_9985404",
-   "name": "Kevin James Daley",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1794261240,
-   "photo": "photos/MAR_DALEY_KEVIN_2026-11-09_9985404.jpg"
-  },
-  {
    "key": "HOU_KISTLER_KORTNEYROBERT_6330",
    "name": "Kortney Robert Kistler",
    "age": "49",
@@ -451,39 +484,6 @@
    "more": 0,
    "ts": 1794259627,
    "photo": null
-  },
-  {
-   "key": "MAR_SMITH_GERALD_2026-11-09",
-   "name": "Gerald Lynn Smith",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794257743,
-   "photo": "photos/MAR_SMITH_GERALD_2026-11-09.jpg"
-  },
-  {
-   "key": "MAR_SPERKA_SARA_2026-11-09_2791703",
-   "name": "Sara Lynn Sperka",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 1,
-   "ts": 1794257706,
-   "photo": "photos/MAR_SPERKA_SARA_2026-11-09_2791703.jpg"
-  },
-  {
-   "key": "MAR_ECKERT_OLIVIA_2026-11-09",
-   "name": "Olivia Hope Eckert",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess W/ Intent-Amphetamine(>10-50G)",
-   "more": 6,
-   "ts": 1794257667,
-   "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09.jpg"
   },
   {
    "key": "LEDMAN_STEVEN_2026-11-09",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_VANG_MICHAEL_2026-11-09_16051204",
+   "name": "Michael Vang",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 3,
+   "ts": 1794293513,
+   "photo": "photos/MAR_VANG_MICHAEL_2026-11-09_16051204.jpg"
+  },
+  {
+   "key": "MAR_LUEDDECKE_LANCE_2026-11-09",
+   "name": "Lance Leon Lueddecke",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1794293476,
+   "photo": "photos/MAR_LUEDDECKE_LANCE_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_DOYLE_DAVID_2026-11-09",
+   "name": "David Robert Doyle",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Theft- All Other",
+   "more": 3,
+   "ts": 1794293437,
+   "photo": "photos/MAR_DOYLE_DAVID_2026-11-09.jpg"
+  },
+  {
+   "key": "MAR_REED_GLENN_2026-11-09",
+   "name": "Glenn Allen Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 4,
+   "ts": 1794293391,
+   "photo": "photos/MAR_REED_GLENN_2026-11-09.jpg"
+  },
   {
    "key": "RC_MCCRAY_KEYARRA_120011076122001",
    "name": "Keyarra A McCray",
@@ -1175,7 +1219,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 7,
    "ts": 1794266915,
    "photo": null
