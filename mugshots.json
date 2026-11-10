@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T07:58:47+00:00",
+ "updated": "2026-11-10T08:28:20+00:00",
  "items": [
+  {
+   "key": "FDL_BAUMAN_JEFFERY_2026-11-10",
+   "name": "Jeffery Jay Bauman",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WRIT (x0)",
+   "more": 0,
+   "ts": 1794298571,
+   "photo": "photos/FDL_BAUMAN_JEFFERY_2026-11-10.jpg"
+  },
   {
    "key": "MAR_PORATH_JENNY_2026-11-09",
    "name": "Jenny Lynn Porath",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794255419,
    "photo": null
-  },
-  {
-   "key": "JANIS_JULIA_2026-11-09",
-   "name": "Julia A Janis",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794252419,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_BAUMAN_JEFFERY_2026-11-10",
+   "name": "Jeffery Jay Bauman",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WRIT (x0)",
+   "more": 0,
+   "ts": 1794298571,
+   "photo": "photos/FDL_BAUMAN_JEFFERY_2026-11-10.jpg"
+  },
   {
    "key": "MAR_PORATH_JENNY_2026-11-09",
    "name": "Jenny Lynn Porath",
@@ -1230,7 +1241,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 7,
    "ts": 1794266915,
    "photo": null
@@ -1241,7 +1252,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 9,
    "ts": 1794266911,
    "photo": null
@@ -1307,7 +1318,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery",
+   "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1794265070,
    "photo": null
@@ -4809,61 +4820,6 @@
    "more": 0,
    "ts": 1794041272,
    "photo": "photos/RC_WRIGHT_JEREMY_120011076031412.jpg"
-  },
-  {
-   "key": "MKE_RILEYHOBSON_ANTHONY_515253",
-   "name": "Anthony Xavier Riley-Hobson",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794040061,
-   "photo": "photos/MKE_RILEYHOBSON_ANTHONY_515253.jpg"
-  },
-  {
-   "key": "MKE_NERILOPEZ_SERGIO_648181",
-   "name": "Sergio Neri-Lopez",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794040059,
-   "photo": "photos/MKE_NERILOPEZ_SERGIO_648181.jpg"
-  },
-  {
-   "key": "MKE_MCCOY_CLARENCE_648180",
-   "name": "Clarence R Mccoy",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794040057,
-   "photo": "photos/MKE_MCCOY_CLARENCE_648180.jpg"
-  },
-  {
-   "key": "MKE_HUNT_PRICE_221822",
-   "name": "Price T Hunt",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794040055,
-   "photo": "photos/MKE_HUNT_PRICE_221822.jpg"
-  },
-  {
-   "key": "MKE_DIXON_KIONTE_511789",
-   "name": "Kionte M Dixon",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794040053,
-   "photo": "photos/MKE_DIXON_KIONTE_511789.jpg"
   }
  ]
 }
