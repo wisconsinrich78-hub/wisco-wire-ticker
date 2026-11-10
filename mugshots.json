@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T19:29:30+00:00",
+ "updated": "2026-11-10T19:49:29+00:00",
  "items": [
+  {
+   "key": "LANCASTER_COREY_2026-11-10",
+   "name": "Corey G Lancaster",
+   "age": "55",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 5,
+   "ts": 1794340035,
+   "photo": null
+  },
   {
    "key": "WILKEY_JARED_2026-11-10",
    "name": "Jared L Wilkey",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1794271320,
    "photo": null
-  },
-  {
-   "key": "FDL_DAVIS_MAKYRA_2026-11-09",
-   "name": "Makyra J'Na Davis",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794269772,
-   "photo": "photos/FDL_DAVIS_MAKYRA_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "LANCASTER_COREY_2026-11-10",
+   "name": "Corey G Lancaster",
+   "age": "55",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 5,
+   "ts": 1794340035,
+   "photo": null
+  },
   {
    "key": "WILKEY_JARED_2026-11-10",
    "name": "Jared L Wilkey",
@@ -4853,28 +4864,6 @@
    "more": 3,
    "ts": 1794081473,
    "photo": "photos/MKE_HUNT_PRICE_648192.jpg"
-  },
-  {
-   "key": "RC_KUMPULA_SETH_120011076037070",
-   "name": "Seth Kumpula",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794080867,
-   "photo": "photos/RC_KUMPULA_SETH_120011076037070.jpg"
-  },
-  {
-   "key": "RC_NUNN_SHANNON_120011076039605",
-   "name": "Shannon R Nunn",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794080864,
-   "photo": null
   }
  ]
 }
