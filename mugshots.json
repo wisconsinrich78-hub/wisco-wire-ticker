@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-10T10:54:43+00:00",
+ "updated": "2026-11-10T11:28:45+00:00",
  "items": [
+  {
+   "key": "MKE_ORTIZCARMONA_LUIS_611885",
+   "name": "Luis J Ortiz-Carmona",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794310050,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUEYJOHNSON_JAYLIN_631939",
+   "name": "Jaylin Maruiee Huey Johnson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794310049,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERNANDEZCASTANEDA_SELSO_648230",
+   "name": "Selso Hernandez-Castaneda",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794310047,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOFTON_ALEXIS_648231",
+   "name": "Alexis M Lofton",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794310045,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOODY_SHATARI_623898",
+   "name": "Shatari Monique Moody",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794308262,
+   "photo": null
+  },
   {
    "key": "MAR_DOYLE_DAVID_2026-11-09_110405",
    "name": "David Robert Doyle",
@@ -277,28 +332,6 @@
    "photo": null
   },
   {
-   "key": "MKE_FERGUSON_CARLEESHA_648225",
-   "name": "Carleesha Lashonne Ferguson",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794283084,
-   "photo": null
-  },
-  {
-   "key": "KEN_GUERRA_MICHAEL_2026-00006212",
-   "name": "Michael Ryan Guerra",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794282928,
-   "photo": "photos/KEN_GUERRA_MICHAEL_2026-00006212.jpg"
-  },
-  {
    "key": "MAR_YAEGER_CLINT_2026-11-09",
    "name": "Clint Jameson Yaeger",
    "age": "36",
@@ -310,17 +343,6 @@
    "photo": "photos/MAR_YAEGER_CLINT_2026-11-09.jpg"
   },
   {
-   "key": "KEN_BROWN_ERIC_2026-00006211",
-   "name": "Eric Michael Brown",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 2,
-   "ts": 1794282851,
-   "photo": "photos/KEN_BROWN_ERIC_2026-00006211.jpg"
-  },
-  {
    "key": "MAR_ECKERT_OLIVIA_2026-11-09_2751208",
    "name": "Olivia Hope Eckert",
    "age": "24",
@@ -330,28 +352,6 @@
    "more": 6,
    "ts": 1794282837,
    "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09_2751208.jpg"
-  },
-  {
-   "key": "RC_MONROE_DOMINIQUE_120011076119615",
-   "name": "Dominique M Monroe",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794282493,
-   "photo": null
-  },
-  {
-   "key": "KEN_KOBOLDT_JOSHUAH_2026-00006210",
-   "name": "Joshuah Charles Koboldt",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1794279264,
-   "photo": "photos/KEN_KOBOLDT_JOSHUAH_2026-00006210.jpg"
   },
   {
    "key": "MAR_SMITH_GERALD_2026-11-09_16171203",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ORTIZCARMONA_LUIS_611885",
+   "name": "Luis J Ortiz-Carmona",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794310050,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUEYJOHNSON_JAYLIN_631939",
+   "name": "Jaylin Maruiee Huey Johnson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794310049,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERNANDEZCASTANEDA_SELSO_648230",
+   "name": "Selso Hernandez-Castaneda",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794310047,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOFTON_ALEXIS_648231",
+   "name": "Alexis M Lofton",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794310045,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOODY_SHATARI_623898",
+   "name": "Shatari Monique Moody",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794308262,
+   "photo": null
+  },
   {
    "key": "MAR_DOYLE_DAVID_2026-11-09_110405",
    "name": "David Robert Doyle",
@@ -1013,7 +1068,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 2,
    "ts": 1794275892,
-   "photo": null
+   "photo": "photos/MKE_TURNER_CORDARO_363192.jpg"
   },
   {
    "key": "MKE_NELSON_RICKY_366328",
@@ -1024,7 +1079,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1794275890,
-   "photo": null
+   "photo": "photos/MKE_NELSON_RICKY_366328.jpg"
   },
   {
    "key": "MKE_MALINSKI_KELLY_383843",
@@ -1123,7 +1178,7 @@
    "charge": "Felony Murder",
    "more": 0,
    "ts": 1794272278,
-   "photo": null
+   "photo": "photos/MKE_TAYLOR_GEORGE_388907.jpg"
   },
   {
    "key": "MKE_JOHNSON_WESLEY_607457",
@@ -1332,7 +1387,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1794266927,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_JAMAL_354020.jpg"
   },
   {
    "key": "MKE_WILSON_MYRON_390401",
@@ -1351,10 +1406,10 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 7,
    "ts": 1794266915,
-   "photo": null
+   "photo": "photos/MKE_AGEE_HARVEY_524839.jpg"
   },
   {
    "key": "MKE_FORD_ASHUN_642696",
@@ -1420,7 +1475,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794265075,
-   "photo": null
+   "photo": "photos/MKE_CARTER_RAY_375566.jpg"
   },
   {
    "key": "MKE_SMITH_DESHAWN_401568",
@@ -4842,61 +4897,6 @@
    "more": 0,
    "ts": 1794054461,
    "photo": "photos/MKE_ANDERSON_ROBIN_648185.jpg"
-  },
-  {
-   "key": "MKE_WINSTON_ROBERT_648183",
-   "name": "Robert Demon Winston",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794050859,
-   "photo": "photos/MKE_WINSTON_ROBERT_648183.jpg"
-  },
-  {
-   "key": "MKE_BRIGGS_MARK_264237",
-   "name": "Mark C Briggs",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794050857,
-   "photo": "photos/MKE_BRIGGS_MARK_264237.jpg"
-  },
-  {
-   "key": "FDL_BISSETTE_JOSHUA_2026-11-07",
-   "name": "Joshua Allen Bissette",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794050161,
-   "photo": "photos/FDL_BISSETTE_JOSHUA_2026-11-07.jpg"
-  },
-  {
-   "key": "MKE_MEREDITH_DESTINY_648182",
-   "name": "Destiny F Meredith",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794049063,
-   "photo": "photos/MKE_MEREDITH_DESTINY_648182.jpg"
-  },
-  {
-   "key": "MKE_BURRIES_COURTNEY_515095",
-   "name": "Courtney L Burries",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794049061,
-   "photo": "photos/MKE_BURRIES_COURTNEY_515095.jpg"
   }
  ]
 }
