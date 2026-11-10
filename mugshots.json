@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T05:49:32+00:00",
+ "updated": "2026-11-10T06:49:46+00:00",
  "items": [
+  {
+   "key": "RC_MCCRAY_KEYARRA_120011076122001",
+   "name": "Keyarra A McCray",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794293278,
+   "photo": "photos/RC_MCCRAY_KEYARRA_120011076122001.jpg"
+  },
+  {
+   "key": "MKE_SEVERSON_AMY_646376",
+   "name": "Amy M Severson",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794292102,
+   "photo": null
+  },
+  {
+   "key": "FDL_RISTOW_TYNEIKO_2026-11-09",
+   "name": "Tyneiko Malik Ristow",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794291438,
+   "photo": "photos/FDL_RISTOW_TYNEIKO_2026-11-09.jpg"
+  },
   {
    "key": "RC_JOHNSON_AARON_120011076121562",
    "name": "Aaron Johnson",
@@ -84,8 +117,8 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1794282928,
    "photo": "photos/KEN_GUERRA_MICHAEL_2026-00006212.jpg"
   },
@@ -106,8 +139,8 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 2,
    "ts": 1794282851,
    "photo": "photos/KEN_BROWN_ERIC_2026-00006211.jpg"
   },
@@ -139,7 +172,7 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out Of County",
    "more": 0,
    "ts": 1794279264,
    "photo": "photos/KEN_KOBOLDT_JOSHUAH_2026-00006210.jpg"
@@ -208,28 +241,6 @@
    "charge": "Operating While Revoked (Forfeiture 4th)",
    "more": 1,
    "ts": 1794277850,
-   "photo": null
-  },
-  {
-   "key": "MKE_STATEN_MICHAEL_323178",
-   "name": "Michael Jerome Staten",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794277847,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCALISTER_DEWAYNE_383748",
-   "name": "Dewayne Edward McAlister",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1794277845,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794252419,
    "photo": null
-  },
-  {
-   "key": "BAKKE_JAMES_2026-11-09",
-   "name": "James R Bakke",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794252418,
-   "photo": "photos/BAKKE_JAMES_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MCCRAY_KEYARRA_120011076122001",
+   "name": "Keyarra A McCray",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794293278,
+   "photo": "photos/RC_MCCRAY_KEYARRA_120011076122001.jpg"
+  },
+  {
+   "key": "MKE_SEVERSON_AMY_646376",
+   "name": "Amy M Severson",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794292102,
+   "photo": null
+  },
+  {
+   "key": "FDL_RISTOW_TYNEIKO_2026-11-09",
+   "name": "Tyneiko Malik Ristow",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794291438,
+   "photo": "photos/FDL_RISTOW_TYNEIKO_2026-11-09.jpg"
+  },
   {
    "key": "RC_JOHNSON_AARON_120011076121562",
    "name": "Aaron Johnson",
@@ -614,8 +647,8 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1794282928,
    "photo": "photos/KEN_GUERRA_MICHAEL_2026-00006212.jpg"
   },
@@ -636,8 +669,8 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 2,
    "ts": 1794282851,
    "photo": "photos/KEN_BROWN_ERIC_2026-00006211.jpg"
   },
@@ -669,7 +702,7 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out Of County",
    "more": 0,
    "ts": 1794279264,
    "photo": "photos/KEN_KOBOLDT_JOSHUAH_2026-00006210.jpg"
@@ -812,7 +845,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1794275890,
    "photo": null
@@ -1142,7 +1175,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 7,
    "ts": 1794266915,
    "photo": null
@@ -1153,7 +1186,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 9,
    "ts": 1794266911,
    "photo": null
@@ -1219,7 +1252,7 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Battery",
    "more": 3,
    "ts": 1794265070,
    "photo": null
@@ -4809,17 +4842,6 @@
    "more": 3,
    "ts": 1794038271,
    "photo": "photos/MKE_ALSTON_AHMAL_648178.jpg"
-  },
-  {
-   "key": "MKE_CARMONA_DAMIAN_622243",
-   "name": "Damian Carmona",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794032864,
-   "photo": "photos/MKE_CARMONA_DAMIAN_622243.jpg"
   }
  ]
 }
