@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T19:00:45+00:00",
+ "updated": "2026-11-10T19:29:30+00:00",
  "items": [
+  {
+   "key": "WILKEY_JARED_2026-11-10",
+   "name": "Jared L Wilkey",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794338524,
+   "photo": null
+  },
   {
    "key": "MKE_DANDRIDGE_TIONN_311028",
    "name": "Tionn Delain Dandridge",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794269772,
    "photo": "photos/FDL_DAVIS_MAKYRA_2026-11-09.jpg"
-  },
-  {
-   "key": "BURROWS_RAE_2026-11-09",
-   "name": "Rae A Burrows",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794269524,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "WILKEY_JARED_2026-11-10",
+   "name": "Jared L Wilkey",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794338524,
+   "photo": null
+  },
   {
    "key": "MKE_DANDRIDGE_TIONN_311028",
    "name": "Tionn Delain Dandridge",
