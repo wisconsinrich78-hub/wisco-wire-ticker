@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-10T21:29:13+00:00",
+ "updated": "2026-11-10T21:49:32+00:00",
  "items": [
+  {
+   "key": "RC_FARRINGTON_KEISHA_120011076142075",
+   "name": "Keisha Marie Farrington",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347272,
+   "photo": "photos/RC_FARRINGTON_KEISHA_120011076142075.jpg"
+  },
+  {
+   "key": "RC_LEE_IESHA_120011076143034",
+   "name": "Iesha L Lee",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347269,
+   "photo": "photos/RC_LEE_IESHA_120011076143034.jpg"
+  },
+  {
+   "key": "RC_HARRIS_NARIAH_120011076143099",
+   "name": "Nariah N Harris",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347267,
+   "photo": "photos/RC_HARRIS_NARIAH_120011076143099.jpg"
+  },
+  {
+   "key": "RC_ROBINSON_JAMALL_120011076143502",
+   "name": "Jamall Amear Robinson",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347264,
+   "photo": "photos/RC_ROBINSON_JAMALL_120011076143502.jpg"
+  },
   {
    "key": "DOU_LAGREW_DAVID_2026-11-10",
    "name": "David R Lagrew",
@@ -156,17 +200,6 @@
    "photo": null
   },
   {
-   "key": "MKE_LOPEZCAMPOS_EDWARD_644707",
-   "name": "Edward Lopez Campos",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Recklessly Cause Great Harm",
-   "more": 0,
-   "ts": 1794340671,
-   "photo": null
-  },
-  {
    "key": "LANCASTER_COREY_2026-11-10",
    "name": "Corey G Lancaster",
    "age": "55",
@@ -189,28 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_DANDRIDGE_TIONN_311028",
-   "name": "Tionn Delain Dandridge",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run",
-   "more": 2,
-   "ts": 1794337090,
-   "photo": null
-  },
-  {
-   "key": "MKE_STEVENSON_THOMAS_630428",
-   "name": "Thomas Douglas Stevenson",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794337087,
-   "photo": null
-  },
-  {
    "key": "MAR_KRUMWIEDE_JASON_2026-11-10_15763404",
    "name": "Jason Allen Krumwiede",
    "age": "45",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1794336793,
    "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10_15763404.jpg"
-  },
-  {
-   "key": "RC_GREWAL_ISHAN_120011076136732",
-   "name": "Ishan S Grewal",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794336483,
-   "photo": null
   },
   {
    "key": "DOU_MORRIS_DYLAN_2026-11-10",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FARRINGTON_KEISHA_120011076142075",
+   "name": "Keisha Marie Farrington",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347272,
+   "photo": "photos/RC_FARRINGTON_KEISHA_120011076142075.jpg"
+  },
+  {
+   "key": "RC_LEE_IESHA_120011076143034",
+   "name": "Iesha L Lee",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347269,
+   "photo": "photos/RC_LEE_IESHA_120011076143034.jpg"
+  },
+  {
+   "key": "RC_HARRIS_NARIAH_120011076143099",
+   "name": "Nariah N Harris",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347267,
+   "photo": "photos/RC_HARRIS_NARIAH_120011076143099.jpg"
+  },
+  {
+   "key": "RC_ROBINSON_JAMALL_120011076143502",
+   "name": "Jamall Amear Robinson",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794347264,
+   "photo": "photos/RC_ROBINSON_JAMALL_120011076143502.jpg"
+  },
   {
    "key": "DOU_LAGREW_DAVID_2026-11-10",
    "name": "David R Lagrew",
