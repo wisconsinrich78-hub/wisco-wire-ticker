@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-10T03:49:31+00:00",
+ "updated": "2026-11-10T04:12:26+00:00",
  "items": [
+  {
+   "key": "MKE_ANDERSON_ROBERT_648224",
+   "name": "Robert Mitchell Anderson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794283086,
+   "photo": null
+  },
+  {
+   "key": "MKE_FERGUSON_CARLEESHA_648225",
+   "name": "Carleesha Lashonne Ferguson",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794283084,
+   "photo": null
+  },
+  {
+   "key": "KEN_GUERRA_MICHAEL_2026-00006212",
+   "name": "Michael Ryan Guerra",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794282928,
+   "photo": "photos/KEN_GUERRA_MICHAEL_2026-00006212.jpg"
+  },
+  {
+   "key": "MAR_YAEGER_CLINT_2026-11-09",
+   "name": "Clint Jameson Yaeger",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794282872,
+   "photo": "photos/MAR_YAEGER_CLINT_2026-11-09.jpg"
+  },
+  {
+   "key": "KEN_BROWN_ERIC_2026-00006211",
+   "name": "Eric Michael Brown",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794282851,
+   "photo": "photos/KEN_BROWN_ERIC_2026-00006211.jpg"
+  },
+  {
+   "key": "MAR_ECKERT_OLIVIA_2026-11-09_2751208",
+   "name": "Olivia Hope Eckert",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess W/ Intent-Amphetamine(>10-50G)",
+   "more": 6,
+   "ts": 1794282837,
+   "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09_2751208.jpg"
+  },
   {
    "key": "RC_MONROE_DOMINIQUE_120011076119615",
    "name": "Dominique M Monroe",
@@ -167,39 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MALINSKI_KELLY_383843",
-   "name": "Kelly Jean Malinski",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794275887,
-   "photo": null
-  },
-  {
-   "key": "MKE_GLOVER_AMENHOTEP_420329",
-   "name": "Amenhotep Davon Glover",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 1,
-   "ts": 1794275884,
-   "photo": null
-  },
-  {
-   "key": "KEN_BUNVILLE_SONYA_2026-00006209",
-   "name": "Sonya Bunville",
-   "age": "65",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794275665,
-   "photo": "photos/KEN_BUNVILLE_SONYA_2026-00006209.jpg"
-  },
-  {
    "key": "MAR_WOODARD_DAVID_2026-11-09_7914801",
    "name": "David Nathanael Woodard",
    "age": "40",
@@ -209,17 +242,6 @@
    "more": 0,
    "ts": 1794275605,
    "photo": "photos/MAR_WOODARD_DAVID_2026-11-09_7914801.jpg"
-  },
-  {
-   "key": "RC_SIMONSEN_STEVEN_120011076116268",
-   "name": "Steven James Simonsen",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 0,
-   "ts": 1794275292,
-   "photo": "photos/RC_SIMONSEN_STEVEN_120011076116268.jpg"
   },
   {
    "key": "DOU_ONEILL_COLTON_2026-11-09",
@@ -442,17 +464,6 @@
    "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09.jpg"
   },
   {
-   "key": "MAR_WALTERS_DIMITRI_2026-11-09",
-   "name": "Dimitri Andreas Walters",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 2,
-   "ts": 1794257628,
-   "photo": "photos/MAR_WALTERS_DIMITRI_2026-11-09.jpg"
-  },
-  {
    "key": "LEDMAN_STEVEN_2026-11-09",
    "name": "Steven B Ledman",
    "age": "64",
@@ -483,17 +494,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794255419,
-   "photo": null
-  },
-  {
-   "key": "MAR_OUSLEY_DIMITRI_2026-11-09",
-   "name": "Dimitri Ousley",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794254039,
    "photo": null
   },
   {
@@ -531,6 +531,72 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ANDERSON_ROBERT_648224",
+   "name": "Robert Mitchell Anderson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794283086,
+   "photo": null
+  },
+  {
+   "key": "MKE_FERGUSON_CARLEESHA_648225",
+   "name": "Carleesha Lashonne Ferguson",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794283084,
+   "photo": null
+  },
+  {
+   "key": "KEN_GUERRA_MICHAEL_2026-00006212",
+   "name": "Michael Ryan Guerra",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794282928,
+   "photo": "photos/KEN_GUERRA_MICHAEL_2026-00006212.jpg"
+  },
+  {
+   "key": "MAR_YAEGER_CLINT_2026-11-09",
+   "name": "Clint Jameson Yaeger",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794282872,
+   "photo": "photos/MAR_YAEGER_CLINT_2026-11-09.jpg"
+  },
+  {
+   "key": "KEN_BROWN_ERIC_2026-00006211",
+   "name": "Eric Michael Brown",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794282851,
+   "photo": "photos/KEN_BROWN_ERIC_2026-00006211.jpg"
+  },
+  {
+   "key": "MAR_ECKERT_OLIVIA_2026-11-09_2751208",
+   "name": "Olivia Hope Eckert",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess W/ Intent-Amphetamine(>10-50G)",
+   "more": 6,
+   "ts": 1794282837,
+   "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09_2751208.jpg"
+  },
   {
    "key": "RC_MONROE_DOMINIQUE_120011076119615",
    "name": "Dominique M Monroe",
@@ -724,8 +790,8 @@
    "age": "65",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1794275665,
    "photo": "photos/KEN_BUNVILLE_SONYA_2026-00006209.jpg"
   },
@@ -4798,39 +4864,6 @@
    "more": 5,
    "ts": 1794025010,
    "photo": "photos/FDL_SCHRAMMBLAKE_NICHOLAS_2026-11-06.jpg"
-  },
-  {
-   "key": "MKE_DANFORTH_ZACHARY_646475",
-   "name": "Zachary R Danforth",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794023904,
-   "photo": "photos/MKE_DANFORTH_ZACHARY_646475.jpg"
-  },
-  {
-   "key": "MKE_AUSTIN_JERRELL_513823",
-   "name": "Jerrell Lee Austin",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794023902,
-   "photo": "photos/MKE_AUSTIN_JERRELL_513823.jpg"
-  },
-  {
-   "key": "MAR_PETROSKI_AMANDA_2026-11-06",
-   "name": "Amanda Lee Petroski",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794023710,
-   "photo": "photos/MAR_PETROSKI_AMANDA_2026-11-06.jpg"
   }
  ]
 }
