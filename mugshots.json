@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T04:58:13+00:00",
+ "updated": "2026-11-10T05:22:22+00:00",
  "items": [
+  {
+   "key": "FDL_FURNAS_DAVID_2026-11-09",
+   "name": "David Burt Furnas",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1794287785,
+   "photo": "photos/FDL_FURNAS_DAVID_2026-11-09.jpg"
+  },
   {
    "key": "RC_SMITH_EDRICK_120011076120120",
    "name": "Edrick Dywne Smith",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794252418,
    "photo": "photos/BAKKE_JAMES_2026-11-09.jpg"
-  },
-  {
-   "key": "HAUGEN_SIRI_2026-11-09",
-   "name": "Siri A Haugen",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Aggravated Battery - Intend Bodily Harm",
-   "more": 0,
-   "ts": 1794245220,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_FURNAS_DAVID_2026-11-09",
+   "name": "David Burt Furnas",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1794287785,
+   "photo": "photos/FDL_FURNAS_DAVID_2026-11-09.jpg"
+  },
   {
    "key": "RC_SMITH_EDRICK_120011076120120",
    "name": "Edrick Dywne Smith",
@@ -1098,7 +1109,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
+   "charge": "Habitual Criminality",
    "more": 7,
    "ts": 1794266915,
    "photo": null
