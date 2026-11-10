@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T17:30:13+00:00",
+ "updated": "2026-11-10T18:16:28+00:00",
  "items": [
+  {
+   "key": "MAR_KRUMWIEDE_JASON_2026-11-10",
+   "name": "Jason Allen Krumwiede",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794333236,
+   "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10.jpg"
+  },
   {
    "key": "MKE_WHITTSEY_ALEXIS_359257",
    "name": "Alexis L Whittsey",
@@ -183,7 +194,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1794320879,
    "photo": null
@@ -464,17 +475,6 @@
    "photo": "photos/DOU_MARTIN_GARY_2026-11-09.jpg"
   },
   {
-   "key": "MAR_WOODARD_DAVID_2026-11-09_7914801",
-   "name": "David Nathanael Woodard",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 0,
-   "ts": 1794275605,
-   "photo": "photos/MAR_WOODARD_DAVID_2026-11-09_7914801.jpg"
-  },
-  {
    "key": "FDL_RODRIGUEZBLANDON_RONY_2026-11-09",
    "name": "Rony Alberto Rodriguez-Blandon",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_KRUMWIEDE_JASON_2026-11-10",
+   "name": "Jason Allen Krumwiede",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794333236,
+   "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10.jpg"
+  },
   {
    "key": "MKE_WHITTSEY_ALEXIS_359257",
    "name": "Alexis L Whittsey",
@@ -713,7 +724,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1794320879,
    "photo": null
@@ -4765,17 +4776,6 @@
    "more": 0,
    "ts": 1794076021,
    "photo": null
-  },
-  {
-   "key": "KEN_DANIELS_NICHOLAS_2026-00006158",
-   "name": "Nicholas David Daniels",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (2Nd)",
-   "more": 0,
-   "ts": 1794074499,
-   "photo": "photos/KEN_DANIELS_NICHOLAS_2026-00006158.jpg"
   }
  ]
 }
