@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T23:28:35+00:00",
+ "updated": "2026-11-10T23:49:26+00:00",
  "items": [
+  {
+   "key": "RC_WILSON_THEOPOLIS_120011076146721",
+   "name": "Theopolis Wilson",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794354468,
+   "photo": "photos/RC_WILSON_THEOPOLIS_120011076146721.jpg"
+  },
   {
    "key": "MKE_ROGERS_DEVONTE_386235",
    "name": "Devonte R Rogers",
@@ -73,8 +84,8 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1794347867,
    "photo": null
   },
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1794343679,
    "photo": "photos/RC_WOLNIK_BENJAMIN_120011076140036.jpg"
-  },
-  {
-   "key": "RC_MARLETT_RICHARD_120011076141505",
-   "name": "Richard Kenneth Marlett",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1794343677,
-   "photo": null
   },
   {
    "key": "LANCASTER_COREY_2026-11-10",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_WILSON_THEOPOLIS_120011076146721",
+   "name": "Theopolis Wilson",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794354468,
+   "photo": "photos/RC_WILSON_THEOPOLIS_120011076146721.jpg"
+  },
+  {
    "key": "MKE_ROGERS_DEVONTE_386235",
    "name": "Devonte R Rogers",
    "age": "34",
@@ -603,8 +614,8 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1794347867,
    "photo": null
   },
