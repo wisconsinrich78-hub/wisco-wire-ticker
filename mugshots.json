@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-10T23:03:08+00:00",
+ "updated": "2026-11-10T23:28:35+00:00",
  "items": [
+  {
+   "key": "MKE_ROGERS_DEVONTE_386235",
+   "name": "Devonte R Rogers",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Felony Murder",
+   "more": 1,
+   "ts": 1794353251,
+   "photo": null
+  },
+  {
+   "key": "MKE_FOWLER_WILLIAM_639674",
+   "name": "William Fowler",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resist Officer - Substantial Bodily Harm/Soft Tissue Injury",
+   "more": 0,
+   "ts": 1794353250,
+   "photo": null
+  },
+  {
+   "key": "DOU_JOHNSON_STEVEN_2026-11-10",
+   "name": "Steven L Johnson",
+   "age": "51",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794352637,
+   "photo": "photos/DOU_JOHNSON_STEVEN_2026-11-10.jpg"
+  },
+  {
+   "key": "FDL_SEALS_DEBRA_2026-11-10",
+   "name": "Debra Lynn Seals",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1794352621,
+   "photo": "photos/FDL_SEALS_DEBRA_2026-11-10.jpg"
+  },
   {
    "key": "KEN_HAFFERKAMP_ASHLEY_2026-00006236",
    "name": "Ashley Nicole Hafferkamp",
@@ -187,28 +231,6 @@
    "more": 0,
    "ts": 1794343677,
    "photo": null
-  },
-  {
-   "key": "KEN_TURNER_SHANNON_2026-00006232",
-   "name": "Shannon Lee Turner",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1794341060,
-   "photo": "photos/KEN_TURNER_SHANNON_2026-00006232.jpg"
-  },
-  {
-   "key": "KEN_LANE_NICHOLAS_2026-00006231",
-   "name": "Nicholas Timothy Lane",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1794340988,
-   "photo": "photos/KEN_LANE_NICHOLAS_2026-00006231.jpg"
   },
   {
    "key": "LANCASTER_COREY_2026-11-10",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794287785,
    "photo": "photos/FDL_FURNAS_DAVID_2026-11-09.jpg"
-  },
-  {
-   "key": "MAR_YAEGER_CLINT_2026-11-09",
-   "name": "Clint Jameson Yaeger",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794282872,
-   "photo": "photos/MAR_YAEGER_CLINT_2026-11-09.jpg"
-  },
-  {
-   "key": "FDL_RODRIGUEZBLANDON_RONY_2026-11-09",
-   "name": "Rony Alberto Rodriguez-Blandon",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WARRANT (x2)",
-   "more": 0,
-   "ts": 1794273420,
-   "photo": "photos/FDL_RODRIGUEZBLANDON_RONY_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ROGERS_DEVONTE_386235",
+   "name": "Devonte R Rogers",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Felony Murder",
+   "more": 1,
+   "ts": 1794353251,
+   "photo": null
+  },
+  {
+   "key": "MKE_FOWLER_WILLIAM_639674",
+   "name": "William Fowler",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resist Officer - Substantial Bodily Harm/Soft Tissue Injury",
+   "more": 0,
+   "ts": 1794353250,
+   "photo": null
+  },
+  {
+   "key": "DOU_JOHNSON_STEVEN_2026-11-10",
+   "name": "Steven L Johnson",
+   "age": "51",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794352637,
+   "photo": "photos/DOU_JOHNSON_STEVEN_2026-11-10.jpg"
+  },
+  {
+   "key": "FDL_SEALS_DEBRA_2026-11-10",
+   "name": "Debra Lynn Seals",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1794352621,
+   "photo": "photos/FDL_SEALS_DEBRA_2026-11-10.jpg"
+  },
   {
    "key": "KEN_HAFFERKAMP_ASHLEY_2026-00006236",
    "name": "Ashley Nicole Hafferkamp",
@@ -958,7 +1002,7 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 4,
    "ts": 1794329870,
-   "photo": null
+   "photo": "photos/MKE_SANTIAGOPEREZ_JHONNY_648236.jpg"
   },
   {
    "key": "MAR_BUSKAHACK_GAIGE_2026-11-10_15829701",
@@ -1068,7 +1112,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794324489,
-   "photo": null
+   "photo": "photos/MKE_RHODES_BOBBIE_604736.jpg"
   },
   {
    "key": "MKE_BROOKS_MARCHELO_645972",
@@ -1109,7 +1153,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Failure to Support",
    "more": 5,
    "ts": 1794320879,
    "photo": null
@@ -1255,7 +1299,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794310045,
-   "photo": null
+   "photo": "photos/MKE_LOFTON_ALEXIS_648231.jpg"
   },
   {
    "key": "MKE_MOODY_SHATARI_623898",
@@ -4974,17 +5018,6 @@
    "more": 5,
    "ts": 1794095648,
    "photo": "photos/MAR_BOLANOS_SEVASTIAN_2026-11-06_488620.jpg"
-  },
-  {
-   "key": "MKE_TORRES_BENJAMIN_648196",
-   "name": "Benjamin Torres",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794094069,
-   "photo": "photos/MKE_TORRES_BENJAMIN_648196.jpg"
   }
  ]
 }
