@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T18:35:43+00:00",
+ "updated": "2026-11-10T18:49:36+00:00",
  "items": [
+  {
+   "key": "RC_GREWAL_ISHAN_120011076136732",
+   "name": "Ishan S Grewal",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794336483,
+   "photo": null
+  },
+  {
+   "key": "RC_HERRON_DEANGELO_120011076136974",
+   "name": "Deangelo Vivel Herron",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794336481,
+   "photo": "photos/RC_HERRON_DEANGELO_120011076136974.jpg"
+  },
+  {
+   "key": "RC_PETTWAY_KEVIN_120011076137046",
+   "name": "Kevin Pettway",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794336477,
+   "photo": "photos/RC_PETTWAY_KEVIN_120011076137046.jpg"
+  },
   {
    "key": "MKE_COOPER_KO_357118",
    "name": "KO Cooper",
@@ -244,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_HYMES_KC_648234",
-   "name": "Kc Hymes",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794320877,
-   "photo": "photos/MKE_HYMES_KC_648234.jpg"
-  },
-  {
    "key": "JOHNSON_TAYLOR_2026-11-10",
    "name": "Taylor J Johnson",
    "age": "37",
@@ -264,28 +286,6 @@
    "more": 0,
    "ts": 1794320824,
    "photo": null
-  },
-  {
-   "key": "MKE_STEWART_RODRIC_258822",
-   "name": "Rodric Lamont Stewart",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794319079,
-   "photo": null
-  },
-  {
-   "key": "MKE_SANDERS_BRYAN_294160",
-   "name": "Bryan Demetrius Sanders",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1794319077,
-   "photo": "photos/MKE_SANDERS_BRYAN_294160.jpg"
   },
   {
    "key": "MAR_DOYLE_DAVID_2026-11-09_110405",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GREWAL_ISHAN_120011076136732",
+   "name": "Ishan S Grewal",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794336483,
+   "photo": null
+  },
+  {
+   "key": "RC_HERRON_DEANGELO_120011076136974",
+   "name": "Deangelo Vivel Herron",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794336481,
+   "photo": "photos/RC_HERRON_DEANGELO_120011076136974.jpg"
+  },
+  {
+   "key": "RC_PETTWAY_KEVIN_120011076137046",
+   "name": "Kevin Pettway",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794336477,
+   "photo": "photos/RC_PETTWAY_KEVIN_120011076137046.jpg"
+  },
   {
    "key": "MKE_COOPER_KO_357118",
    "name": "KO Cooper",
