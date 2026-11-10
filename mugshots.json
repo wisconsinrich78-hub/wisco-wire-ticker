@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T16:49:35+00:00",
+ "updated": "2026-11-10T17:04:54+00:00",
  "items": [
+  {
+   "key": "KEN_ONEAL_JULIE_2026-00006225",
+   "name": "Julie Ann Oneal",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1794329920,
+   "photo": "photos/KEN_ONEAL_JULIE_2026-00006225.jpg"
+  },
+  {
+   "key": "MKE_SANTIAGOPEREZ_JHONNY_648236",
+   "name": "Jhonny Gael Santiago Perez",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 4,
+   "ts": 1794329870,
+   "photo": null
+  },
+  {
+   "key": "MAR_BUSKAHACK_GAIGE_2026-11-10_15829701",
+   "name": "Gaige Alexander Buska-Hack",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1794329591,
+   "photo": "photos/MAR_BUSKAHACK_GAIGE_2026-11-10_15829701.jpg"
+  },
   {
    "key": "RC_RODRIGUEZ_ORLANDO_120011076133385",
    "name": "Orlando Rodriguez",
@@ -51,8 +84,8 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 1,
    "ts": 1794326284,
    "photo": null
   },
@@ -128,7 +161,7 @@
    "age": "54",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Federal Agency Hold",
    "more": 0,
    "ts": 1794322378,
    "photo": null
@@ -219,28 +252,6 @@
    "charge": "Operate W/O Carrying License",
    "more": 2,
    "ts": 1794318854,
-   "photo": null
-  },
-  {
-   "key": "RC_ROUSE_DWIGHT_120011076125721",
-   "name": "Dwight D Rouse",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794314867,
-   "photo": "photos/RC_ROUSE_DWIGHT_120011076125721.jpg"
-  },
-  {
-   "key": "MKE_BUSTOS_GAEL_648232",
-   "name": "Gael Bustos",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794313655,
    "photo": null
   },
   {
@@ -464,17 +475,6 @@
    "photo": "photos/MAR_WOODARD_DAVID_2026-11-09_7914801.jpg"
   },
   {
-   "key": "DOU_ONEILL_COLTON_2026-11-09",
-   "name": "Colton T Oneill",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794273442,
-   "photo": "photos/DOU_ONEILL_COLTON_2026-11-09.jpg"
-  },
-  {
    "key": "FDL_RODRIGUEZBLANDON_RONY_2026-11-09",
    "name": "Rony Alberto Rodriguez-Blandon",
    "age": "",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "KEN_ONEAL_JULIE_2026-00006225",
+   "name": "Julie Ann Oneal",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1794329920,
+   "photo": "photos/KEN_ONEAL_JULIE_2026-00006225.jpg"
+  },
+  {
+   "key": "MKE_SANTIAGOPEREZ_JHONNY_648236",
+   "name": "Jhonny Gael Santiago Perez",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 4,
+   "ts": 1794329870,
+   "photo": null
+  },
+  {
+   "key": "MAR_BUSKAHACK_GAIGE_2026-11-10_15829701",
+   "name": "Gaige Alexander Buska-Hack",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 3Rd",
+   "more": 0,
+   "ts": 1794329591,
+   "photo": "photos/MAR_BUSKAHACK_GAIGE_2026-11-10_15829701.jpg"
+  },
+  {
    "key": "RC_RODRIGUEZ_ORLANDO_120011076133385",
    "name": "Orlando Rodriguez",
    "age": "33",
@@ -581,8 +614,8 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 1,
    "ts": 1794326284,
    "photo": null
   },
@@ -658,7 +691,7 @@
    "age": "54",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Federal Agency Hold",
    "more": 0,
    "ts": 1794322378,
    "photo": null
@@ -4743,39 +4776,6 @@
    "more": 0,
    "ts": 1794072468,
    "photo": "photos/MKE_ROLLINS_JAVONDRE_648190.jpg"
-  },
-  {
-   "key": "MKE_TRAYLOR_LATASHIA_647538",
-   "name": "Latashia P Traylor",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794070677,
-   "photo": "photos/MKE_TRAYLOR_LATASHIA_647538.jpg"
-  },
-  {
-   "key": "MKE_PERKINS_ANTHONY_648188",
-   "name": "Anthony E Perkins",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 8,
-   "ts": 1794070675,
-   "photo": "photos/MKE_PERKINS_ANTHONY_648188.jpg"
-  },
-  {
-   "key": "MKE_DELAROSA_SHAVONTAE_648189",
-   "name": "Shavontae L Delarosa",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794070673,
-   "photo": "photos/MKE_DELAROSA_SHAVONTAE_648189.jpg"
   }
  ]
 }
