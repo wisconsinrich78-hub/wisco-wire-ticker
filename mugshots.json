@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T00:00:55+00:00",
+ "updated": "2026-11-10T00:20:39+00:00",
  "items": [
+  {
+   "key": "DOU_BRADY_SHAWN_2026-11-09",
+   "name": "Shawn M Brady",
+   "age": "32",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1794269828,
+   "photo": "photos/DOU_BRADY_SHAWN_2026-11-09.jpg"
+  },
+  {
+   "key": "FDL_DAVIS_MAKYRA_2026-11-09",
+   "name": "Makyra J'Na Davis",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794269772,
+   "photo": "photos/FDL_DAVIS_MAKYRA_2026-11-09.jpg"
+  },
+  {
+   "key": "BURROWS_RAE_2026-11-09",
+   "name": "Rae A Burrows",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794269524,
+   "photo": null
+  },
   {
    "key": "KEN_RAMOS_JEFFREY_2026-00006206",
    "name": "Jeffrey Devon Ramos",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1794241624,
    "photo": null
-  },
-  {
-   "key": "FDL_MERCIER_ROBERT_2026-11-09",
-   "name": "Robert William Mercier",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794241015,
-   "photo": "photos/FDL_MERCIER_ROBERT_2026-11-09.jpg"
-  },
-  {
-   "key": "MAR_WILL_DANIELLE_2026-11-09_17076901",
-   "name": "Danielle Nicole Will",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1794239694,
-   "photo": "photos/MAR_WILL_DANIELLE_2026-11-09_17076901.jpg"
-  },
-  {
-   "key": "FDL_PEASE_DAVID_2026-11-09",
-   "name": "David L Pease",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
-   "more": 1,
-   "ts": 1794237419,
-   "photo": "photos/FDL_PEASE_DAVID_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_BRADY_SHAWN_2026-11-09",
+   "name": "Shawn M Brady",
+   "age": "32",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 2,
+   "ts": 1794269828,
+   "photo": "photos/DOU_BRADY_SHAWN_2026-11-09.jpg"
+  },
+  {
+   "key": "FDL_DAVIS_MAKYRA_2026-11-09",
+   "name": "Makyra J'Na Davis",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794269772,
+   "photo": "photos/FDL_DAVIS_MAKYRA_2026-11-09.jpg"
+  },
+  {
+   "key": "BURROWS_RAE_2026-11-09",
+   "name": "Rae A Burrows",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794269524,
+   "photo": null
+  },
   {
    "key": "KEN_RAMOS_JEFFREY_2026-00006206",
    "name": "Jeffrey Devon Ramos",
@@ -4655,83 +4688,6 @@
    "more": 0,
    "ts": 1794011279,
    "photo": "photos/MKE_NEAL_TERRENCE_261251.jpg"
-  },
-  {
-   "key": "FDL_ZAVALASALINAS_MAURICIO_2026-11-06",
-   "name": "Mauricio J Zavala Salinas",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1794010623,
-   "photo": "photos/FDL_ZAVALASALINAS_MAURICIO_2026-11-06.jpg"
-  },
-  {
-   "key": "KEN_HILL_ONNYX_2026-00006143",
-   "name": "Onnyx Auxzavior Hill",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794010331,
-   "photo": "photos/KEN_HILL_ONNYX_2026-00006143.jpg"
-  },
-  {
-   "key": "KEN_BOWERS_ANDY_2026-00006142",
-   "name": "Andy M Bowers",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Disobey Order",
-   "more": 0,
-   "ts": 1794010052,
-   "photo": "photos/KEN_BOWERS_ANDY_2026-00006142.jpg"
-  },
-  {
-   "key": "MAR_HOLMAN_KURTIS_2026-11-06",
-   "name": "Kurtis Neil Holman",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1St Degree Child Sex Assault - Sexual Contact With Person Un",
-   "more": 1,
-   "ts": 1794010007,
-   "photo": "photos/MAR_HOLMAN_KURTIS_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_THORN_RANDALL_2026-11-06_10983402",
-   "name": "Randall Mark Thorn",
-   "age": "61",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 4Th",
-   "more": 0,
-   "ts": 1794009938,
-   "photo": "photos/MAR_THORN_RANDALL_2026-11-06_10983402.jpg"
-  },
-  {
-   "key": "MAR_HALL_PAUL_2026-11-06",
-   "name": "Paul Marquis Deshawn Hall",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794009775,
-   "photo": "photos/MAR_HALL_PAUL_2026-11-06.jpg"
-  },
-  {
-   "key": "MAR_CHAMBERLAIN_CORY_2026-11-06",
-   "name": "Cory L Chamberlain",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794009683,
-   "photo": "photos/MAR_CHAMBERLAIN_CORY_2026-11-06.jpg"
   }
  ]
 }
