@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T20:49:32+00:00",
+ "updated": "2026-11-10T21:01:06+00:00",
  "items": [
+  {
+   "key": "KEN_CAMARGOBELTRAN_ALERSON_2026-00006234",
+   "name": "Alerson Camargo-Beltran",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794344028,
+   "photo": null
+  },
+  {
+   "key": "MAR_CLARK_TROY_2026-11-10",
+   "name": "Troy Dwayne Clark",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1St Degree Child Sexual Assault - Intercourse With Person Un",
+   "more": 0,
+   "ts": 1794344004,
+   "photo": "photos/MAR_CLARK_TROY_2026-11-10.jpg"
+  },
   {
    "key": "RC_CRONIN_KEALON_120011076139705",
    "name": "Kealon J Cronin",
@@ -73,7 +95,7 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return On Writ",
    "more": 0,
    "ts": 1794341060,
    "photo": "photos/KEN_TURNER_SHANNON_2026-00006232.jpg"
@@ -95,10 +117,10 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 1,
    "ts": 1794340920,
-   "photo": null
+   "photo": "photos/KEN_DISMUKE_AUSTIN_2026-00006230.jpg"
   },
   {
    "key": "KEN_BOSOVICH_BORO_2026-00006229",
@@ -198,17 +220,6 @@
    "more": 0,
    "ts": 1794336483,
    "photo": null
-  },
-  {
-   "key": "RC_HERRON_DEANGELO_120011076136974",
-   "name": "Deangelo Vivel Herron",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794336481,
-   "photo": "photos/RC_HERRON_DEANGELO_120011076136974.jpg"
   },
   {
    "key": "DOU_MORRIS_DYLAN_2026-11-10",
@@ -497,17 +508,6 @@
    "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09_2751208.jpg"
   },
   {
-   "key": "MAR_SMITH_GERALD_2026-11-09_16171203",
-   "name": "Gerald Lynn Smith",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794279242,
-   "photo": "photos/MAR_SMITH_GERALD_2026-11-09_16171203.jpg"
-  },
-  {
    "key": "FDL_RODRIGUEZBLANDON_RONY_2026-11-09",
    "name": "Rony Alberto Rodriguez-Blandon",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_CAMARGOBELTRAN_ALERSON_2026-00006234",
+   "name": "Alerson Camargo-Beltran",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794344028,
+   "photo": null
+  },
+  {
+   "key": "MAR_CLARK_TROY_2026-11-10",
+   "name": "Troy Dwayne Clark",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1St Degree Child Sexual Assault - Intercourse With Person Un",
+   "more": 0,
+   "ts": 1794344004,
+   "photo": "photos/MAR_CLARK_TROY_2026-11-10.jpg"
+  },
   {
    "key": "RC_CRONIN_KEALON_120011076139705",
    "name": "Kealon J Cronin",
@@ -603,7 +625,7 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return On Writ",
    "more": 0,
    "ts": 1794341060,
    "photo": "photos/KEN_TURNER_SHANNON_2026-00006232.jpg"
@@ -625,10 +647,10 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 1,
    "ts": 1794340920,
-   "photo": null
+   "photo": "photos/KEN_DISMUKE_AUSTIN_2026-00006230.jpg"
   },
   {
    "key": "KEN_BOSOVICH_BORO_2026-00006229",
