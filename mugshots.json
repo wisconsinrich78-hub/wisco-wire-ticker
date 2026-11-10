@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T16:01:40+00:00",
+ "updated": "2026-11-10T16:49:35+00:00",
  "items": [
+  {
+   "key": "RC_RODRIGUEZ_ORLANDO_120011076133385",
+   "name": "Orlando Rodriguez",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794329267,
+   "photo": "photos/RC_RODRIGUEZ_ORLANDO_120011076133385.jpg"
+  },
+  {
+   "key": "CARSON_HANAH_2026-11-10",
+   "name": "Hanah M Carson",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Arson Of Building W/O Owner'S Consent",
+   "more": 1,
+   "ts": 1794328021,
+   "photo": null
+  },
+  {
+   "key": "FDL_HIGGINBOTHAM_ZACHERY_2026-11-10",
+   "name": "Zachery Rad Higginbotham",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Battery Substantial/Aggravated/Intend Bodily Harm No Drugs Or Alc",
+   "more": 3,
+   "ts": 1794327401,
+   "photo": "photos/FDL_HIGGINBOTHAM_ZACHERY_2026-11-10.jpg"
+  },
   {
    "key": "MKE_JACKSON_NAZARON_628952",
    "name": "Nazaron Dwayne Jackson",
@@ -208,17 +241,6 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794313655,
-   "photo": null
-  },
-  {
-   "key": "MKE_ORTIZCARMONA_LUIS_611885",
-   "name": "Luis J Ortiz-Carmona",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794310050,
    "photo": null
   },
   {
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1794266262,
    "photo": "photos/FDL_TONEY_AMANDA_2026-11-09.jpg"
-  },
-  {
-   "key": "FDL_STIGLER_LAMAN_2026-11-09",
-   "name": "Laman Terrel Stigler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794266259,
-   "photo": "photos/FDL_STIGLER_LAMAN_2026-11-09.jpg"
-  },
-  {
-   "key": "FDL_GESSLER_ANDREW_2026-11-09",
-   "name": "Andrew John Gessler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794266198,
-   "photo": "photos/FDL_GESSLER_ANDREW_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_RODRIGUEZ_ORLANDO_120011076133385",
+   "name": "Orlando Rodriguez",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794329267,
+   "photo": "photos/RC_RODRIGUEZ_ORLANDO_120011076133385.jpg"
+  },
+  {
+   "key": "CARSON_HANAH_2026-11-10",
+   "name": "Hanah M Carson",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Arson Of Building W/O Owner'S Consent",
+   "more": 1,
+   "ts": 1794328021,
+   "photo": null
+  },
+  {
+   "key": "FDL_HIGGINBOTHAM_ZACHERY_2026-11-10",
+   "name": "Zachery Rad Higginbotham",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Battery Substantial/Aggravated/Intend Bodily Harm No Drugs Or Alc",
+   "more": 3,
+   "ts": 1794327401,
+   "photo": "photos/FDL_HIGGINBOTHAM_ZACHERY_2026-11-10.jpg"
+  },
   {
    "key": "MKE_JACKSON_NAZARON_628952",
    "name": "Nazaron Dwayne Jackson",
@@ -4743,39 +4776,6 @@
    "more": 1,
    "ts": 1794070673,
    "photo": "photos/MKE_DELAROSA_SHAVONTAE_648189.jpg"
-  },
-  {
-   "key": "MAR_PREBIL_JENNIFER_2026-11-07",
-   "name": "Jennifer Prebil",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Lewd, Lascivious Behavior-In Public",
-   "more": 1,
-   "ts": 1794070106,
-   "photo": null
-  },
-  {
-   "key": "RC_KUMPLA_SETH_120011076037070",
-   "name": "Seth Kumpla",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794070072,
-   "photo": null
-  },
-  {
-   "key": "MAR_STEVENS_DANIELLE_2026-11-07",
-   "name": "Danielle Lee Stevens",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1794070039,
-   "photo": "photos/MAR_STEVENS_DANIELLE_2026-11-07.jpg"
   }
  ]
 }
