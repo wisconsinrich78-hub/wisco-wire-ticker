@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T09:28:33+00:00",
+ "updated": "2026-11-10T10:01:22+00:00",
  "items": [
+  {
+   "key": "MKE_ANDERSON_MESONS_648228",
+   "name": "Me Sons Emmaule Anderson",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794304665,
+   "photo": null
+  },
+  {
+   "key": "MKE_YARBROUGH_DESEAN_648229",
+   "name": "Desean Yarbrough",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794304663,
+   "photo": null
+  },
+  {
+   "key": "MAR_REED_GLENN_2026-11-09_16811",
+   "name": "Glenn Allen Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 4,
+   "ts": 1794304400,
+   "photo": "photos/MAR_REED_GLENN_2026-11-09_16811.jpg"
+  },
   {
    "key": "MKE_CLARK_SAMARIA_632968",
    "name": "Samaria Michelle Clark",
@@ -29,8 +62,8 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Unreasonable And Imprudent Speed",
+   "more": 1,
    "ts": 1794300958,
    "photo": null
   },
@@ -310,28 +343,6 @@
    "photo": "photos/MAR_WOODARD_DAVID_2026-11-09_7914802.jpg"
   },
   {
-   "key": "RC_FIREHAMMER_ZACHARY_120011076107926",
-   "name": "Zachary Ray Firehammer",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794278898,
-   "photo": "photos/RC_FIREHAMMER_ZACHARY_120011076107926.jpg"
-  },
-  {
-   "key": "RC_GAREISS_MICHAEL_120011076117611",
-   "name": "Michael Todd Gareiss",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794278894,
-   "photo": null
-  },
-  {
    "key": "DOU_MARTIN_GARY_2026-11-09",
    "name": "Gary L Martin",
    "age": "60",
@@ -431,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "MAR_VANG_MICHAEL_2026-11-09",
-   "name": "Michael Vang",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1794268441,
-   "photo": "photos/MAR_VANG_MICHAEL_2026-11-09.jpg"
-  },
-  {
    "key": "FDL_TONEY_AMANDA_2026-11-09",
    "name": "Amanda Rae Toney",
    "age": "",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_ANDERSON_MESONS_648228",
+   "name": "Me Sons Emmaule Anderson",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794304665,
+   "photo": null
+  },
+  {
+   "key": "MKE_YARBROUGH_DESEAN_648229",
+   "name": "Desean Yarbrough",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794304663,
+   "photo": null
+  },
+  {
+   "key": "MAR_REED_GLENN_2026-11-09_16811",
+   "name": "Glenn Allen Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Methamphetamine",
+   "more": 4,
+   "ts": 1794304400,
+   "photo": "photos/MAR_REED_GLENN_2026-11-09_16811.jpg"
+  },
+  {
    "key": "MKE_CLARK_SAMARIA_632968",
    "name": "Samaria Michelle Clark",
    "age": "22",
@@ -559,8 +592,8 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Unreasonable And Imprudent Speed",
+   "more": 1,
    "ts": 1794300958,
    "photo": null
   },
@@ -1112,7 +1145,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794272266,
-   "photo": null
+   "photo": "photos/MKE_ANGELORTIZ_JUAN_648223.jpg"
   },
   {
    "key": "MAR_HAWN_ROBERT_2026-11-09",
@@ -1285,7 +1318,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 7,
    "ts": 1794266915,
    "photo": null
