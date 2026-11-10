@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T04:12:26+00:00",
+ "updated": "2026-11-10T04:49:30+00:00",
  "items": [
+  {
+   "key": "RC_SMITH_EDRICK_120011076120120",
+   "name": "Edrick Dywne Smith",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
+   "more": 0,
+   "ts": 1794286081,
+   "photo": null
+  },
   {
    "key": "MKE_ANDERSON_ROBERT_648224",
    "name": "Robert Mitchell Anderson",
@@ -219,17 +230,6 @@
    "charge": "Bail Jumping-Felony",
    "more": 2,
    "ts": 1794275892,
-   "photo": null
-  },
-  {
-   "key": "MKE_NELSON_RICKY_366328",
-   "name": "Ricky J Nelson",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794275890,
    "photo": null
   },
   {
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_SMITH_EDRICK_120011076120120",
+   "name": "Edrick Dywne Smith",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
+   "more": 0,
+   "ts": 1794286081,
+   "photo": null
+  },
   {
    "key": "MKE_ANDERSON_ROBERT_648224",
    "name": "Robert Mitchell Anderson",
@@ -4842,28 +4853,6 @@
    "more": 1,
    "ts": 1794027466,
    "photo": "photos/MKE_BUFFORD_DIAMOND_633409.jpg"
-  },
-  {
-   "key": "RC_DEBACK_JOHN_120011076028291",
-   "name": "John Michael Deback",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794026874,
-   "photo": "photos/RC_DEBACK_JOHN_120011076028291.jpg"
-  },
-  {
-   "key": "FDL_SCHRAMMBLAKE_NICHOLAS_2026-11-06",
-   "name": "Nicholas John Schramm-Blake",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 5,
-   "ts": 1794025010,
-   "photo": "photos/FDL_SCHRAMMBLAKE_NICHOLAS_2026-11-06.jpg"
   }
  ]
 }
