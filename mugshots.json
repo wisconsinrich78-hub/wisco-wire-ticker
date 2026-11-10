@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T10:49:35+00:00",
+ "updated": "2026-11-10T10:54:43+00:00",
  "items": [
+  {
+   "key": "MAR_DOYLE_DAVID_2026-11-09_110405",
+   "name": "David Robert Doyle",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Theft- All Other",
+   "more": 3,
+   "ts": 1794308002,
+   "photo": "photos/MAR_DOYLE_DAVID_2026-11-09_110405.jpg"
+  },
   {
    "key": "TREM_FILAND_TROY_6209",
    "name": "Troy David Filand",
@@ -431,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "DOU_BRADY_SHAWN_2026-11-09",
-   "name": "Shawn M Brady",
-   "age": "32",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
-   "ts": 1794269828,
-   "photo": "photos/DOU_BRADY_SHAWN_2026-11-09.jpg"
-  },
-  {
    "key": "FDL_DAVIS_MAKYRA_2026-11-09",
    "name": "Makyra J'Na Davis",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_DOYLE_DAVID_2026-11-09_110405",
+   "name": "David Robert Doyle",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Theft- All Other",
+   "more": 3,
+   "ts": 1794308002,
+   "photo": "photos/MAR_DOYLE_DAVID_2026-11-09_110405.jpg"
+  },
   {
    "key": "TREM_FILAND_TROY_6209",
    "name": "Troy David Filand",
