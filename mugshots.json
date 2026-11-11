@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-11T12:16:37+00:00",
+ "updated": "2026-11-11T12:49:37+00:00",
  "items": [
+  {
+   "key": "MKE_ANDERSON_VERNELL_385407",
+   "name": "Vernell Anderson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 3,
+   "ts": 1794400077,
+   "photo": null
+  },
+  {
+   "key": "MKE_SERNA_RAMON_637290",
+   "name": "Ramon Serna",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1794400074,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEARCROWDER_JAYDEN_648241",
+   "name": "Jayden Sean Bear-Crowder",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 1,
+   "ts": 1794400071,
+   "photo": null
+  },
+  {
+   "key": "MKE_BELLAMY_LEE_648242",
+   "name": "Lee CharlesPlummer Bellamy",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1794400068,
+   "photo": null
+  },
+  {
+   "key": "DOU_CUMMINGS_JOHN_2026-11-11",
+   "name": "John M Cummings",
+   "age": "47",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794399468,
+   "photo": "photos/DOU_CUMMINGS_JOHN_2026-11-11.jpg"
+  },
   {
    "key": "MAR_MACDONALD_MATTHEW_2026-11-10_1618903",
    "name": "Matthew Brian Macdonald",
@@ -189,17 +244,6 @@
    "photo": "photos/MKE_CROSS_EARNEST_648238.jpg"
   },
   {
-   "key": "MKE_RAMOS_GUILLERMO_648239",
-   "name": "Guillermo R Ramos",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794385670,
-   "photo": "photos/MKE_RAMOS_GUILLERMO_648239.jpg"
-  },
-  {
    "key": "FDL_BAILLOD_MONICA_2026-11-11",
    "name": "Monica M Baillod",
    "age": "",
@@ -209,28 +253,6 @@
    "more": 1,
    "ts": 1794384969,
    "photo": "photos/FDL_BAILLOD_MONICA_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_CHRISTIAN_618456",
-   "name": "Christian Claude Williams",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794383860,
-   "photo": "photos/MKE_WILLIAMS_CHRISTIAN_618456.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_MELVIN_635912",
-   "name": "Melvin A Johnson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794383858,
-   "photo": "photos/MKE_JOHNSON_MELVIN_635912.jpg"
   },
   {
    "key": "MAR_BURCHETT_SALINA_2026-11-10",
@@ -286,17 +308,6 @@
    "more": 0,
    "ts": 1794380027,
    "photo": "photos/MAR_BELL_QUANTEZ_2026-11-11.jpg"
-  },
-  {
-   "key": "KEN_PESDAN_KARAH_2026-00006242",
-   "name": "Karah Pesdan",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794380016,
-   "photo": null
   },
   {
    "key": "JACKSON_JEQUELLA_2026-11-11",
@@ -508,17 +519,6 @@
    "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10_15763404.jpg"
   },
   {
-   "key": "DOU_MORRIS_DYLAN_2026-11-10",
-   "name": "Dylan J Morris",
-   "age": "33",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794334650,
-   "photo": "photos/DOU_MORRIS_DYLAN_2026-11-10.jpg"
-  },
-  {
    "key": "FDL_SCROGGINS_JOSEPH_2026-11-10",
    "name": "Joseph C Scroggins",
    "age": "",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ANDERSON_VERNELL_385407",
+   "name": "Vernell Anderson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 3,
+   "ts": 1794400077,
+   "photo": null
+  },
+  {
+   "key": "MKE_SERNA_RAMON_637290",
+   "name": "Ramon Serna",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1794400074,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEARCROWDER_JAYDEN_648241",
+   "name": "Jayden Sean Bear-Crowder",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 1,
+   "ts": 1794400071,
+   "photo": null
+  },
+  {
+   "key": "MKE_BELLAMY_LEE_648242",
+   "name": "Lee CharlesPlummer Bellamy",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1794400068,
+   "photo": null
+  },
+  {
+   "key": "DOU_CUMMINGS_JOHN_2026-11-11",
+   "name": "John M Cummings",
+   "age": "47",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794399468,
+   "photo": "photos/DOU_CUMMINGS_JOHN_2026-11-11.jpg"
+  },
   {
    "key": "MAR_MACDONALD_MATTHEW_2026-11-10_1618903",
    "name": "Matthew Brian Macdonald",
@@ -5029,28 +5084,6 @@
    "more": 1,
    "ts": 1794142396,
    "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206.jpg"
-  },
-  {
-   "key": "MKE_AVENDANOLOPEZ_JUAN_648203",
-   "name": "Juan Avendano-Lopez",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794140858,
-   "photo": "photos/MKE_AVENDANOLOPEZ_JUAN_648203.jpg"
-  },
-  {
-   "key": "COLE_JOHN_2026-11-08",
-   "name": "John Andrew Cole",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794140818,
-   "photo": null
   }
  ]
 }
