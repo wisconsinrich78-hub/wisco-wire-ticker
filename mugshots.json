@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-11T23:04:36+00:00",
+ "updated": "2026-11-11T23:49:33+00:00",
  "items": [
+  {
+   "key": "RC_WILSON_KEINARI_120011076185139",
+   "name": "Keinari M Wilson",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794440897,
+   "photo": "photos/RC_WILSON_KEINARI_120011076185139.jpg"
+  },
+  {
+   "key": "HANKEL_MALACHI_2026-11-11",
+   "name": "Malachi C Hankel",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1794440835,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_JABRIL_517421",
+   "name": "Jabril Mandela Allen",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794439724,
+   "photo": null
+  },
+  {
+   "key": "DOU_PHILLIPS_JULIE_2026-11-11",
+   "name": "Julie A Phillips",
+   "age": "48",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794439099,
+   "photo": "photos/DOU_PHILLIPS_JULIE_2026-11-11.jpg"
+  },
   {
    "key": "MKE_WILSON_CORDAREO_375254",
    "name": "Cordareo A Wilson",
@@ -32,7 +76,7 @@
    "charge": "Endanger Safety/Use/Dangerous Weapon",
    "more": 1,
    "ts": 1794437908,
-   "photo": null
+   "photo": "photos/MKE_JAMES_JAMEL_411040.jpg"
   },
   {
    "key": "MAR_SIEFKEN_DEREK_2026-11-11",
@@ -128,10 +172,10 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Abandonment of a Child",
+   "charge": "Habitual Criminality",
    "more": 10,
    "ts": 1794434312,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_LONDON_602789.jpg"
   },
   {
    "key": "MKE_JOHNSON_MACK_641698",
@@ -142,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794432522,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_MACK_641698.jpg"
   },
   {
    "key": "FDL_THREETS_LEROY_2026-11-11",
@@ -252,28 +296,6 @@
    "charge": "Extradition",
    "more": 1,
    "ts": 1794430032,
-   "photo": null
-  },
-  {
-   "key": "MKE_FIFE_TYRESE_288190",
-   "name": "Tyrese Dula Fife",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Trafficking of a Child",
-   "more": 0,
-   "ts": 1794428916,
-   "photo": null
-  },
-  {
-   "key": "MKE_ATKINS_LEONZELL_634425",
-   "name": "Leonzell Antwone Atkins",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794428913,
    "photo": null
   },
   {
@@ -398,17 +420,6 @@
    "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11_3303401.jpg"
   },
   {
-   "key": "MAR_BARGANDER_MATTHEW_2026-11-11",
-   "name": "Matthew D Bargander",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resist Obstruct An Officer",
-   "more": 1,
-   "ts": 1794412454,
-   "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11.jpg"
-  },
-  {
    "key": "FDL_MANN_ALONZO_2026-11-11",
    "name": "Alonzo Maurice Mann",
    "age": "",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1794371224,
    "photo": null
-  },
-  {
-   "key": "FDL_MORGANO_JOHN_2026-11-10",
-   "name": "John Paul Morgano",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1794363409,
-   "photo": "photos/FDL_MORGANO_JOHN_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WILSON_KEINARI_120011076185139",
+   "name": "Keinari M Wilson",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794440897,
+   "photo": "photos/RC_WILSON_KEINARI_120011076185139.jpg"
+  },
+  {
+   "key": "HANKEL_MALACHI_2026-11-11",
+   "name": "Malachi C Hankel",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1794440835,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_JABRIL_517421",
+   "name": "Jabril Mandela Allen",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794439724,
+   "photo": null
+  },
+  {
+   "key": "DOU_PHILLIPS_JULIE_2026-11-11",
+   "name": "Julie A Phillips",
+   "age": "48",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794439099,
+   "photo": "photos/DOU_PHILLIPS_JULIE_2026-11-11.jpg"
+  },
   {
    "key": "MKE_WILSON_CORDAREO_375254",
    "name": "Cordareo A Wilson",
@@ -562,7 +606,7 @@
    "charge": "Endanger Safety/Use/Dangerous Weapon",
    "more": 1,
    "ts": 1794437908,
-   "photo": null
+   "photo": "photos/MKE_JAMES_JAMEL_411040.jpg"
   },
   {
    "key": "MAR_SIEFKEN_DEREK_2026-11-11",
@@ -658,10 +702,10 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Abandonment of a Child",
+   "charge": "Habitual Criminality",
    "more": 10,
    "ts": 1794434312,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_LONDON_602789.jpg"
   },
   {
    "key": "MKE_JOHNSON_MACK_641698",
@@ -672,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794432522,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_MACK_641698.jpg"
   },
   {
    "key": "FDL_THREETS_LEROY_2026-11-11",
@@ -925,7 +969,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1794423536,
-   "photo": null
+   "photo": "photos/MKE_BOYD_JIMMY_536799.jpg"
   },
   {
    "key": "MKE_COLON_MANUEL_648246",
@@ -1288,7 +1332,7 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 2,
    "ts": 1794407310,
-   "photo": null
+   "photo": "photos/MKE_SCONIERS_TIMOTHY_272023.jpg"
   },
   {
    "key": "MKE_SIMMONDS_CORNELIUS_648243",
@@ -1343,7 +1387,7 @@
    "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
    "more": 1,
    "ts": 1794405499,
-   "photo": null
+   "photo": "photos/MKE_DERYA_ESAM_600211.jpg"
   },
   {
    "key": "MKE_ALIPATTERSON_SHAHEED_524235",
@@ -5469,39 +5513,6 @@
    "more": 1,
    "ts": 1794184103,
    "photo": "photos/MKE_GIL_DANNY_612942.jpg"
-  },
-  {
-   "key": "BURZINSKI_DAVID_2026-11-08",
-   "name": "David E Burzinski",
-   "age": "61",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1794181629,
-   "photo": null
-  },
-  {
-   "key": "MKE_CORREA_ANGEL_280733",
-   "name": "Angel Luis Correa",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794180456,
-   "photo": "photos/MKE_CORREA_ANGEL_280733.jpg"
-  },
-  {
-   "key": "MKE_BROWN_JAMES_609615",
-   "name": "James Earl Brown",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Reckless Driving-Endanger Safety",
-   "more": 2,
-   "ts": 1794180455,
-   "photo": "photos/MKE_BROWN_JAMES_609615.jpg"
   }
  ]
 }
