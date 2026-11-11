@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-11T16:49:32+00:00",
+ "updated": "2026-11-11T16:58:25+00:00",
  "items": [
+  {
+   "key": "MKE_WRIGHT_CALVIN_295924",
+   "name": "Calvin Dewayne Wright",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794416305,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_JAMESHA_648245",
+   "name": "Jamesha C Johnson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794416301,
+   "photo": null
+  },
+  {
+   "key": "KEN_SMALLWOOD_JACQUISE_2026-00006249",
+   "name": "Jacquise Ebony Smallwood",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1794416111,
+   "photo": "photos/KEN_SMALLWOOD_JACQUISE_2026-00006249.jpg"
+  },
+  {
+   "key": "MAR_BARGANDER_MATTHEW_2026-11-11_3303401",
+   "name": "Matthew D Bargander",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist Obstruct An Officer",
+   "more": 1,
+   "ts": 1794416018,
+   "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11_3303401.jpg"
+  },
   {
    "key": "RC_VOIGT_BRANDAN_120011076164430",
    "name": "Brandan Steven Voigt",
@@ -65,7 +109,7 @@
    "charge": "Resist Obstruct An Officer",
    "more": 1,
    "ts": 1794412454,
-   "photo": null
+   "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11.jpg"
   },
   {
    "key": "MAR_GIRARD_ADAM_2026-11-11",
@@ -198,39 +242,6 @@
    "more": 3,
    "ts": 1794400077,
    "photo": null
-  },
-  {
-   "key": "MKE_SERNA_RAMON_637290",
-   "name": "Ramon Serna",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 2,
-   "ts": 1794400074,
-   "photo": null
-  },
-  {
-   "key": "MKE_BEARCROWDER_JAYDEN_648241",
-   "name": "Jayden Sean Bear-Crowder",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 1,
-   "ts": 1794400071,
-   "photo": null
-  },
-  {
-   "key": "MKE_BELLAMY_LEE_648242",
-   "name": "Lee CharlesPlummer Bellamy",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1794400068,
-   "photo": "photos/MKE_BELLAMY_LEE_648242.jpg"
   },
   {
    "key": "DOU_CUMMINGS_JOHN_2026-11-11",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1794349863,
    "photo": null
-  },
-  {
-   "key": "DOU_LAGREW_DAVID_2026-11-10",
-   "name": "David R Lagrew",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794345438,
-   "photo": "photos/DOU_LAGREW_DAVID_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WRIGHT_CALVIN_295924",
+   "name": "Calvin Dewayne Wright",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794416305,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_JAMESHA_648245",
+   "name": "Jamesha C Johnson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794416301,
+   "photo": null
+  },
+  {
+   "key": "KEN_SMALLWOOD_JACQUISE_2026-00006249",
+   "name": "Jacquise Ebony Smallwood",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return On Writ",
+   "more": 0,
+   "ts": 1794416111,
+   "photo": "photos/KEN_SMALLWOOD_JACQUISE_2026-00006249.jpg"
+  },
+  {
+   "key": "MAR_BARGANDER_MATTHEW_2026-11-11_3303401",
+   "name": "Matthew D Bargander",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist Obstruct An Officer",
+   "more": 1,
+   "ts": 1794416018,
+   "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11_3303401.jpg"
+  },
   {
    "key": "RC_VOIGT_BRANDAN_120011076164430",
    "name": "Brandan Steven Voigt",
@@ -595,7 +639,7 @@
    "charge": "Resist Obstruct An Officer",
    "more": 1,
    "ts": 1794412454,
-   "photo": null
+   "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11.jpg"
   },
   {
    "key": "MAR_GIRARD_ADAM_2026-11-11",
@@ -5051,39 +5095,6 @@
    "more": 1,
    "ts": 1794158159,
    "photo": "photos/FDL_BARTELS_HANNAH_2026-11-08.jpg"
-  },
-  {
-   "key": "MKE_ISMAIL_REHANA_648204",
-   "name": "Rehana Ismail",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794157061,
-   "photo": "photos/MKE_ISMAIL_REHANA_648204.jpg"
-  },
-  {
-   "key": "MKE_ZAMORAGONZALEZ_JAIRO_648205",
-   "name": "Jairo Nahum Zamora Gonzalez",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794157059,
-   "photo": "photos/MKE_ZAMORAGONZALEZ_JAIRO_648205.jpg"
-  },
-  {
-   "key": "MCCONNAUGHEY_THOMAS_2026-11-08",
-   "name": "Thomas H Mcconnaughey",
-   "age": "69",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794157030,
-   "photo": null
   }
  ]
 }
