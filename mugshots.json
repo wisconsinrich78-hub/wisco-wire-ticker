@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:58:29+00:00",
+ "updated": "2026-11-11T07:29:13+00:00",
  "items": [
   {
    "key": "MAR_VALENZUELAAGUILARA_ERIKA_2026-11-10_17089101",
@@ -73,7 +73,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "False Imprisonment",
+   "charge": "Charges Pending",
    "more": 9,
    "ts": 1794378477,
    "photo": null
@@ -117,7 +117,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Failure to Support",
    "more": 2,
    "ts": 1794374858,
    "photo": null
@@ -603,7 +603,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "False Imprisonment",
+   "charge": "Charges Pending",
    "more": 9,
    "ts": 1794378477,
    "photo": null
@@ -647,7 +647,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Failure to Support",
    "more": 2,
    "ts": 1794374858,
    "photo": null
@@ -900,7 +900,7 @@
    "age": "61",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (3rd)",
+   "charge": "OWI (3rd)",
    "more": 1,
    "ts": 1794358666,
    "photo": null
@@ -936,7 +936,7 @@
    "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1794358660,
-   "photo": null
+   "photo": "photos/MKE_MICHELIC_MARK_2057232.jpg"
   },
   {
    "key": "MKE_CURRY_ANDRA_2062865",
@@ -980,7 +980,7 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1794356857,
-   "photo": null
+   "photo": "photos/MKE_BROWN_ANTHONY_355731.jpg"
   },
   {
    "key": "MKE_LEE_ALICIA_417724",
@@ -991,7 +991,7 @@
    "charge": "Child Abuse-Recklessly Cause Harm",
    "more": 2,
    "ts": 1794356854,
-   "photo": null
+   "photo": "photos/MKE_LEE_ALICIA_417724.jpg"
   },
   {
    "key": "MKE_WIMPIEBERGERON_TRAVELL_421528",
@@ -5150,39 +5150,6 @@
    "more": 0,
    "ts": 1794124070,
    "photo": null
-  },
-  {
-   "key": "FDL_VASQUEZMARTINEZ_CARLOS_2026-11-08",
-   "name": "Carlos Alberto Vasquez Martinez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
-   "more": 0,
-   "ts": 1794122229,
-   "photo": null
-  },
-  {
-   "key": "KEN_SCHONSCHECK_HOLLY_2026-00006170",
-   "name": "Holly C Schonscheck",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794121170,
-   "photo": null
-  },
-  {
-   "key": "KEN_SANDERS_MARTINI_2026-00006167",
-   "name": "Martini A Sanders",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Cocaine/Coca 2Nd+",
-   "more": 2,
-   "ts": 1794121135,
-   "photo": "photos/KEN_SANDERS_MARTINI_2026-00006167.jpg"
   }
  ]
 }
