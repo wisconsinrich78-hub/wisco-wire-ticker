@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T09:00:52+00:00",
+ "updated": "2026-11-11T09:49:27+00:00",
  "items": [
+  {
+   "key": "RC_HUJAR_MICHAEL_120011076158121",
+   "name": "Michael Edward Hujar",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 4,
+   "ts": 1794390520,
+   "photo": "photos/RC_HUJAR_MICHAEL_120011076158121.jpg"
+  },
+  {
+   "key": "MKE_EAST_TREVON_392481",
+   "name": "Trevon Equan East",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 12,
+   "ts": 1794389293,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLARK_MELODIE_642873",
+   "name": "Melodie SJ Clark",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794389291,
+   "photo": null
+  },
   {
    "key": "MAR_BELL_QUANTEZ_2026-11-11_762002",
    "name": "Quantez D Bell",
@@ -76,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794383860,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_CHRISTIAN_618456.jpg"
   },
   {
    "key": "MKE_JOHNSON_MELVIN_635912",
@@ -197,7 +230,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794378475,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_SHYRA_534897.jpg"
   },
   {
    "key": "MKE_MUDAY_MUSA_510231",
@@ -231,39 +264,6 @@
    "more": 2,
    "ts": 1794374858,
    "photo": "photos/MKE_JOHNSON_RANDY_648237.jpg"
-  },
-  {
-   "key": "MKE_BOUDNIK_JESSICA_381362",
-   "name": "Jessica Lynn Boudnik",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794373062,
-   "photo": "photos/MKE_BOUDNIK_JESSICA_381362.jpg"
-  },
-  {
-   "key": "MKE_GUTIERREZ_SHIANN_645282",
-   "name": "Shiann M Gutierrez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794373061,
-   "photo": "photos/MKE_GUTIERREZ_SHIANN_645282.jpg"
-  },
-  {
-   "key": "KEN_DIAMOND_DONALD_2026-00006238",
-   "name": "Donald Louis Diamond",
-   "age": "76",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794372974,
-   "photo": "photos/KEN_DIAMOND_DONALD_2026-00006238.jpg"
   },
   {
    "key": "MAR_CLARK_TROY_2026-11-10_10262011",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "RC_HUJAR_MICHAEL_120011076158121",
+   "name": "Michael Edward Hujar",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 4,
+   "ts": 1794390520,
+   "photo": "photos/RC_HUJAR_MICHAEL_120011076158121.jpg"
+  },
+  {
+   "key": "MKE_EAST_TREVON_392481",
+   "name": "Trevon Equan East",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 12,
+   "ts": 1794389293,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLARK_MELODIE_642873",
+   "name": "Melodie SJ Clark",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794389291,
+   "photo": null
+  },
+  {
    "key": "MAR_BELL_QUANTEZ_2026-11-11_762002",
    "name": "Quantez D Bell",
    "age": "29",
@@ -606,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794383860,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_CHRISTIAN_618456.jpg"
   },
   {
    "key": "MKE_JOHNSON_MELVIN_635912",
@@ -727,7 +760,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794378475,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_SHYRA_534897.jpg"
   },
   {
    "key": "MKE_MUDAY_MUSA_510231",
@@ -5161,28 +5194,6 @@
    "more": 0,
    "ts": 1794131617,
    "photo": null
-  },
-  {
-   "key": "SURIANO_ANTHONY_2026-11-08",
-   "name": "Anthony J Suriano",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1794131233,
-   "photo": null
-  },
-  {
-   "key": "FDL_ALMAGUER_ARMANDO_2026-11-08",
-   "name": "Armando P Almaguer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794129358,
-   "photo": "photos/FDL_ALMAGUER_ARMANDO_2026-11-08.jpg"
   }
  ]
 }
