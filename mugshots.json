@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T03:07:34+00:00",
+ "updated": "2026-11-11T03:29:37+00:00",
  "items": [
+  {
+   "key": "MKE_TAYLOR_DANIEL_235826",
+   "name": "Daniel Russell Taylor",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 0,
+   "ts": 1794367651,
+   "photo": null
+  },
   {
    "key": "KEN_PICKETT_GERALD_2026-00006241",
    "name": "Gerald Jermaine Pickett",
@@ -62,7 +73,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Fail/Obey Traffic Officer Sign/Signal",
    "more": 5,
    "ts": 1794364050,
    "photo": null
@@ -161,7 +172,7 @@
    "age": "61",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "OWI (3rd)",
+   "charge": "Operate with Restricted Controlled Substance (3rd)",
    "more": 1,
    "ts": 1794358666,
    "photo": null
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1794358428,
    "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006240.jpg"
-  },
-  {
-   "key": "MKE_BROWN_ANTHONY_355731",
-   "name": "Anthony Martez Brown",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 3,
-   "ts": 1794356857,
-   "photo": null
   },
   {
    "key": "FDL_IHLENFELDT_JEANNE_2026-11-10",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_TAYLOR_DANIEL_235826",
+   "name": "Daniel Russell Taylor",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Narcotic Drugs",
+   "more": 0,
+   "ts": 1794367651,
+   "photo": null
+  },
+  {
    "key": "KEN_PICKETT_GERALD_2026-00006241",
    "name": "Gerald Jermaine Pickett",
    "age": "34",
@@ -592,7 +603,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Fail/Obey Traffic Officer Sign/Signal",
    "more": 5,
    "ts": 1794364050,
    "photo": null
@@ -691,7 +702,7 @@
    "age": "61",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "OWI (3rd)",
+   "charge": "Operate with Restricted Controlled Substance (3rd)",
    "more": 1,
    "ts": 1794358666,
    "photo": null
@@ -1156,7 +1167,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794337087,
-   "photo": null
+   "photo": "photos/MKE_STEVENSON_THOMAS_630428.jpg"
   },
   {
    "key": "MAR_KRUMWIEDE_JASON_2026-11-10_15763404",
@@ -1211,7 +1222,7 @@
    "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 0,
    "ts": 1794335281,
-   "photo": null
+   "photo": "photos/MKE_COOPER_KO_357118.jpg"
   },
   {
    "key": "MKE_LECHUGAMORALES_FABIAN_2068125",
