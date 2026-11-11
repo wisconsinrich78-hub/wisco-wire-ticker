@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-11T17:52:54+00:00",
+ "updated": "2026-11-11T18:08:47+00:00",
  "items": [
+  {
+   "key": "MAR_ELLWART_LOUIS_2026-11-11",
+   "name": "Louis Edward Ellwart",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794419700,
+   "photo": "photos/MAR_ELLWART_LOUIS_2026-11-11.jpg"
+  },
+  {
+   "key": "MAR_NIZINSKI_CHRISTOPHER_2026-11-11",
+   "name": "Christopher F Nizinski",
+   "age": "66",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794419654,
+   "photo": "photos/MAR_NIZINSKI_CHRISTOPHER_2026-11-11.jpg"
+  },
   {
    "key": "RC_FIRST_AKEEM_120011076171023",
    "name": "Akeem Waymone First",
@@ -464,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "MAR_DENZIN_SCOTT_2026-11-10",
-   "name": "Scott Gordon Denzin",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794365592,
-   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-10.jpg"
-  },
-  {
    "key": "FDL_MORGANO_JOHN_2026-11-10",
    "name": "John Paul Morgano",
    "age": "",
@@ -484,17 +495,6 @@
    "more": 2,
    "ts": 1794363409,
    "photo": "photos/FDL_MORGANO_JOHN_2026-11-10.jpg"
-  },
-  {
-   "key": "MAR_HAWN_ROBERT_2026-11-09_698011",
-   "name": "Robert Eugene Hawn",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794362018,
-   "photo": "photos/MAR_HAWN_ROBERT_2026-11-09_698011.jpg"
   },
   {
    "key": "PRICE_ALBERT_2026-11-10",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_ELLWART_LOUIS_2026-11-11",
+   "name": "Louis Edward Ellwart",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794419700,
+   "photo": "photos/MAR_ELLWART_LOUIS_2026-11-11.jpg"
+  },
+  {
+   "key": "MAR_NIZINSKI_CHRISTOPHER_2026-11-11",
+   "name": "Christopher F Nizinski",
+   "age": "66",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794419654,
+   "photo": "photos/MAR_NIZINSKI_CHRISTOPHER_2026-11-11.jpg"
+  },
   {
    "key": "RC_FIRST_AKEEM_120011076171023",
    "name": "Akeem Waymone First",
