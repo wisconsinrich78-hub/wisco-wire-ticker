@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T10:49:32+00:00",
+ "updated": "2026-11-11T11:42:03+00:00",
  "items": [
+  {
+   "key": "MKE_SWIERCZ_JULIE_648240",
+   "name": "Julie Lynn Swiercz",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794394673,
+   "photo": "photos/MKE_SWIERCZ_JULIE_648240.jpg"
+  },
+  {
+   "key": "KEN_MARTINEZ_JOSE_2026-00006246",
+   "name": "Jose Martinez",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794394527,
+   "photo": null
+  },
+  {
+   "key": "KEN_ISHMAN_AUSTIN_2026-00006244",
+   "name": "Austin Joseph Ishman",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Disobey Order",
+   "more": 0,
+   "ts": 1794394485,
+   "photo": "photos/KEN_ISHMAN_AUSTIN_2026-00006244.jpg"
+  },
   {
    "key": "TREM_OLSON_MEGAN_4177",
    "name": "Megan Ann Olson",
@@ -76,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 12,
    "ts": 1794389293,
-   "photo": null
+   "photo": "photos/MKE_EAST_TREVON_392481.jpg"
   },
   {
    "key": "MKE_CLARK_MELODIE_642873",
@@ -87,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794389291,
-   "photo": null
+   "photo": "photos/MKE_CLARK_MELODIE_642873.jpg"
   },
   {
    "key": "MAR_BELL_QUANTEZ_2026-11-11_762002",
@@ -264,39 +297,6 @@
    "more": 0,
    "ts": 1794379631,
    "photo": null
-  },
-  {
-   "key": "MKE_GRAY_JEFFREY_284047",
-   "name": "Jeffrey Allen Gray",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1794378477,
-   "photo": "photos/MKE_GRAY_JEFFREY_284047.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_SHYRA_534897",
-   "name": "Shyra Teasha Jackson",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794378475,
-   "photo": "photos/MKE_JACKSON_SHYRA_534897.jpg"
-  },
-  {
-   "key": "MKE_MUDAY_MUSA_510231",
-   "name": "Musa Hassan Muday",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794374865,
-   "photo": "photos/MKE_MUDAY_MUSA_510231.jpg"
   },
   {
    "key": "MAR_CLARK_TROY_2026-11-10_10262011",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SWIERCZ_JULIE_648240",
+   "name": "Julie Lynn Swiercz",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794394673,
+   "photo": "photos/MKE_SWIERCZ_JULIE_648240.jpg"
+  },
+  {
+   "key": "KEN_MARTINEZ_JOSE_2026-00006246",
+   "name": "Jose Martinez",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794394527,
+   "photo": null
+  },
+  {
+   "key": "KEN_ISHMAN_AUSTIN_2026-00006244",
+   "name": "Austin Joseph Ishman",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Disobey Order",
+   "more": 0,
+   "ts": 1794394485,
+   "photo": "photos/KEN_ISHMAN_AUSTIN_2026-00006244.jpg"
+  },
+  {
    "key": "TREM_OLSON_MEGAN_4177",
    "name": "Megan Ann Olson",
    "age": "41",
@@ -606,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 12,
    "ts": 1794389293,
-   "photo": null
+   "photo": "photos/MKE_EAST_TREVON_392481.jpg"
   },
   {
    "key": "MKE_CLARK_MELODIE_642873",
@@ -617,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794389291,
-   "photo": null
+   "photo": "photos/MKE_CLARK_MELODIE_642873.jpg"
   },
   {
    "key": "MAR_BELL_QUANTEZ_2026-11-11_762002",
@@ -5040,116 +5073,6 @@
    "more": 0,
    "ts": 1794138464,
    "photo": "photos/RC_LITTLETON_MICHAEL_120011076053271.jpg"
-  },
-  {
-   "key": "MKE_WHITE_ANTWAN_375243",
-   "name": "Antwan Kevon White",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd Degree Reckless Homicide",
-   "more": 3,
-   "ts": 1794137267,
-   "photo": null
-  },
-  {
-   "key": "MKE_OWENS_DEVONTE_410623",
-   "name": "Devonte Robert Owens",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794137265,
-   "photo": "photos/MKE_OWENS_DEVONTE_410623.jpg"
-  },
-  {
-   "key": "MKE_GRANT_RENORVAL_509825",
-   "name": "Renorval Grant",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794137264,
-   "photo": "photos/MKE_GRANT_RENORVAL_509825.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_TERRY_510057",
-   "name": "Terry C Johnson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794137262,
-   "photo": "photos/MKE_JOHNSON_TERRY_510057.jpg"
-  },
-  {
-   "key": "MKE_COLISGARCIA_LUIS_627573",
-   "name": "Luis A Colis- Garcia",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794137260,
-   "photo": "photos/MKE_COLISGARCIA_LUIS_627573.jpg"
-  },
-  {
-   "key": "MKE_RUFILTAIPE_RAUL_645897",
-   "name": "Raul Isreael Rufil taipe",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794137258,
-   "photo": "photos/MKE_RUFILTAIPE_RAUL_645897.jpg"
-  },
-  {
-   "key": "MKE_TLAXCALTECA_ELVIRA_648200",
-   "name": "Elvira Tlaxcalteca",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 3,
-   "ts": 1794137256,
-   "photo": "photos/MKE_TLAXCALTECA_ELVIRA_648200.jpg"
-  },
-  {
-   "key": "MKE_BROX_DAYVON_648201",
-   "name": "Dayvon O Brox",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794137254,
-   "photo": "photos/MKE_BROX_DAYVON_648201.jpg"
-  },
-  {
-   "key": "MKE_GRAHAM_MARQUIZE_648202",
-   "name": "Marquize Graham",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794137251,
-   "photo": "photos/MKE_GRAHAM_MARQUIZE_648202.jpg"
-  },
-  {
-   "key": "FDL_BENITEZMEJIA_ISAAC_2026-11-08",
-   "name": "Isaac Benitez Mejia",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WARRANT (x2)",
-   "more": 0,
-   "ts": 1794136564,
-   "photo": "photos/FDL_BENITEZMEJIA_ISAAC_2026-11-08.jpg"
   }
  ]
 }
