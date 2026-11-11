@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:49:30+00:00",
+ "updated": "2026-11-11T06:49:31+00:00",
  "items": [
   {
    "key": "RC_NEWSON_NICHOLAS_120011076155533",
@@ -9,7 +9,40 @@
    "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1794376080,
+   "ts": 1794379685,
+   "photo": null
+  },
+  {
+   "key": "JACKSON_JEQUELLA_2026-11-11",
+   "name": "Jequella J Jackson",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Exp: Owi (1St W/Pass < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794379631,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRAY_JEFFREY_284047",
+   "name": "Jeffrey Allen Gray",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "False Imprisonment",
+   "more": 9,
+   "ts": 1794378477,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_SHYRA_534897",
+   "name": "Shyra Teasha Jackson",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794378475,
    "photo": null
   },
   {
@@ -40,7 +73,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Charges Pending",
    "more": 2,
    "ts": 1794374858,
    "photo": null
@@ -220,28 +253,6 @@
    "more": 2,
    "ts": 1794363409,
    "photo": "photos/FDL_MORGANO_JOHN_2026-11-10.jpg"
-  },
-  {
-   "key": "MKE_KELM_TRACEY_215594",
-   "name": "Tracey Lynette Kelm",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794362272,
-   "photo": null
-  },
-  {
-   "key": "MKE_GONZALEZ_CARLOS_641325",
-   "name": "Carlos Exabiel Gonzalez",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1794362270,
-   "photo": null
   },
   {
    "key": "MAR_HAWN_ROBERT_2026-11-09_698011",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1794307628,
    "photo": null
-  },
-  {
-   "key": "MAR_REED_GLENN_2026-11-09_16811",
-   "name": "Glenn Allen Reed",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 4,
-   "ts": 1794304400,
-   "photo": "photos/MAR_REED_GLENN_2026-11-09_16811.jpg"
   }
  ],
  "all_items": [
@@ -539,7 +539,40 @@
    "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1794376080,
+   "ts": 1794379685,
+   "photo": null
+  },
+  {
+   "key": "JACKSON_JEQUELLA_2026-11-11",
+   "name": "Jequella J Jackson",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Exp: Owi (1St W/Pass < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794379631,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRAY_JEFFREY_284047",
+   "name": "Jeffrey Allen Gray",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "False Imprisonment",
+   "more": 9,
+   "ts": 1794378477,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_SHYRA_534897",
+   "name": "Shyra Teasha Jackson",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794378475,
    "photo": null
   },
   {
@@ -570,7 +603,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Charges Pending",
    "more": 2,
    "ts": 1794374858,
    "photo": null
@@ -823,7 +856,7 @@
    "age": "61",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "OWI (3rd)",
+   "charge": "Operate with Restricted Controlled Substance (3rd)",
    "more": 1,
    "ts": 1794358666,
    "photo": null
@@ -870,7 +903,7 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 14,
    "ts": 1794358658,
-   "photo": null
+   "photo": "photos/MKE_CURRY_ANDRA_2062865.jpg"
   },
   {
    "key": "KEN_WILLIAMS_ANTONETTE_2026-00006239",
@@ -958,7 +991,7 @@
    "charge": "Felony Murder",
    "more": 1,
    "ts": 1794353251,
-   "photo": null
+   "photo": "photos/MKE_ROGERS_DEVONTE_386235.jpg"
   },
   {
    "key": "MKE_FOWLER_WILLIAM_639674",
@@ -1024,7 +1057,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794347867,
-   "photo": null
+   "photo": "photos/MKE_WEEKS_KAYTTY_377253.jpg"
   },
   {
    "key": "MKE_NORD_ANTHONY_421368",
@@ -5161,17 +5194,6 @@
    "more": 1,
    "ts": 1794120814,
    "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_TRAVIS_350681",
-   "name": "Travis S Williams",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1794119290,
-   "photo": "photos/MKE_WILLIAMS_TRAVIS_350681.jpg"
   }
  ]
 }
