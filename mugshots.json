@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-11T03:29:37+00:00",
+ "updated": "2026-11-11T04:28:34+00:00",
  "items": [
+  {
+   "key": "XIONG_TOU_2026-11-10",
+   "name": "Tou S Xiong",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794371224,
+   "photo": null
+  },
+  {
+   "key": "MKE_TANDESKI_RODERICK_403318",
+   "name": "Roderick M Tandeski",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794369453,
+   "photo": null
+  },
   {
    "key": "MKE_TAYLOR_DANIEL_235826",
    "name": "Daniel Russell Taylor",
@@ -172,7 +194,7 @@
    "age": "61",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (3rd)",
+   "charge": "OWI (3rd)",
    "more": 1,
    "ts": 1794358666,
    "photo": null
@@ -231,17 +253,6 @@
    "more": 0,
    "ts": 1794358498,
    "photo": "photos/KEN_WILLIAMS_ANTONETTE_2026-00006239.jpg"
-  },
-  {
-   "key": "KEN_HENDRICKSON_CODY_2026-00006240",
-   "name": "Cody Christopher Hendrickson",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794358428,
-   "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006240.jpg"
   },
   {
    "key": "FDL_IHLENFELDT_JEANNE_2026-11-10",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794300817,
    "photo": "photos/MAR_YAEGER_CLINT_2026-11-09_14944604.jpg"
-  },
-  {
-   "key": "FDL_BAUMAN_JEFFERY_2026-11-10",
-   "name": "Jeffery Jay Bauman",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WRIT (x0)",
-   "more": 0,
-   "ts": 1794298571,
-   "photo": "photos/FDL_BAUMAN_JEFFERY_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "XIONG_TOU_2026-11-10",
+   "name": "Tou S Xiong",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794371224,
+   "photo": null
+  },
+  {
+   "key": "MKE_TANDESKI_RODERICK_403318",
+   "name": "Roderick M Tandeski",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794369453,
+   "photo": null
+  },
   {
    "key": "MKE_TAYLOR_DANIEL_235826",
    "name": "Daniel Russell Taylor",
@@ -702,7 +724,7 @@
    "age": "61",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (3rd)",
+   "charge": "OWI (3rd)",
    "more": 1,
    "ts": 1794358666,
    "photo": null
@@ -1156,7 +1178,7 @@
    "charge": "Hit and Run",
    "more": 2,
    "ts": 1794337090,
-   "photo": null
+   "photo": "photos/MKE_DANDRIDGE_TIONN_311028.jpg"
   },
   {
    "key": "MKE_STEVENSON_THOMAS_630428",
@@ -5139,17 +5161,6 @@
    "more": 0,
    "ts": 1794113309,
    "photo": "photos/RC_JOHNSTON_SCOTT_120011076047346.jpg"
-  },
-  {
-   "key": "MKE_THOR_ELIZABETH_613515",
-   "name": "Elizabeth Thor",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
-   "more": 0,
-   "ts": 1794110250,
-   "photo": "photos/MKE_THOR_ELIZABETH_613515.jpg"
   }
  ]
 }
