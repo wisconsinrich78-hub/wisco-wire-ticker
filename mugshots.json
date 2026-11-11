@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-11T21:49:47+00:00",
+ "updated": "2026-11-11T22:00:50+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_LONDON_602789",
+   "name": "London G Williams",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Abandonment of a Child",
+   "more": 10,
+   "ts": 1794434312,
+   "photo": null
+  },
+  {
+   "key": "MAR_COMSTOCK_JAMES_2026-11-11",
+   "name": "James A Comstock",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "3Rd Degree Sexual Assault",
+   "more": 3,
+   "ts": 1794434058,
+   "photo": "photos/MAR_COMSTOCK_JAMES_2026-11-11.jpg"
+  },
   {
    "key": "MKE_JOHNSON_MACK_641698",
    "name": "Mack Maurice Johnson",
@@ -8,7 +30,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 0,
+   "more": 4,
    "ts": 1794432522,
    "photo": null
   },
@@ -220,17 +242,6 @@
    "more": 0,
    "ts": 1794426491,
    "photo": null
-  },
-  {
-   "key": "RC_GOMEZ_DALLAS_120011076175801",
-   "name": "Dallas David Gomez",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794426487,
-   "photo": "photos/RC_GOMEZ_DALLAS_120011076175801.jpg"
   },
   {
    "key": "DOU_KING_ROBERT_2026-11-11",
@@ -475,17 +486,6 @@
    "photo": "photos/FDL_BAILLOD_MONICA_2026-11-11.jpg"
   },
   {
-   "key": "MAR_BURCHETT_SALINA_2026-11-10",
-   "name": "Salina Kay Burchett",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1794383649,
-   "photo": "photos/MAR_BURCHETT_SALINA_2026-11-10.jpg"
-  },
-  {
    "key": "JACKSON_JEQUELLA_2026-11-11",
    "name": "Jequella J Jackson",
    "age": "23",
@@ -532,13 +532,35 @@
  ],
  "all_items": [
   {
+   "key": "MKE_WILLIAMS_LONDON_602789",
+   "name": "London G Williams",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Abandonment of a Child",
+   "more": 10,
+   "ts": 1794434312,
+   "photo": null
+  },
+  {
+   "key": "MAR_COMSTOCK_JAMES_2026-11-11",
+   "name": "James A Comstock",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "3Rd Degree Sexual Assault",
+   "more": 3,
+   "ts": 1794434058,
+   "photo": "photos/MAR_COMSTOCK_JAMES_2026-11-11.jpg"
+  },
+  {
    "key": "MKE_JOHNSON_MACK_641698",
    "name": "Mack Maurice Johnson",
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 0,
+   "more": 4,
    "ts": 1794432522,
    "photo": null
   },
@@ -958,7 +980,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 1,
    "ts": 1794418089,
-   "photo": null
+   "photo": "photos/MKE_ARENAS_CESAR_286197.jpg"
   },
   {
    "key": "MKE_NESBIT_KEVIN_368038",
@@ -1024,7 +1046,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794416301,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_JAMESHA_648245.jpg"
   },
   {
    "key": "KEN_SMALLWOOD_JACQUISE_2026-00006249",
@@ -1244,7 +1266,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 5,
    "ts": 1794400077,
-   "photo": null
+   "photo": "photos/MKE_ANDERSON_VERNELL_385407.jpg"
   },
   {
    "key": "MKE_SERNA_RAMON_637290",
@@ -5392,28 +5414,6 @@
    "more": 1,
    "ts": 1794178556,
    "photo": null
-  },
-  {
-   "key": "MKE_EVANS_ANDREW_347547",
-   "name": "Andrew Cornelius Evans",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794175056,
-   "photo": "photos/MKE_EVANS_ANDREW_347547.jpg"
-  },
-  {
-   "key": "MKE_PICKENS_CHRISTOPHER_612238",
-   "name": "Christopher Pickens",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794175054,
-   "photo": "photos/MKE_PICKENS_CHRISTOPHER_612238.jpg"
   }
  ]
 }
