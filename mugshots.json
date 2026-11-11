@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T05:30:12+00:00",
+ "updated": "2026-11-11T05:49:30+00:00",
  "items": [
+  {
+   "key": "RC_NEWSON_NICHOLAS_120011076155533",
+   "name": "Nicholas Nathaniel Newson",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794376080,
+   "photo": null
+  },
   {
    "key": "MKE_MUDAY_MUSA_510231",
    "name": "Musa Hassan Muday",
@@ -242,17 +253,6 @@
    "more": 2,
    "ts": 1794362018,
    "photo": "photos/MAR_HAWN_ROBERT_2026-11-09_698011.jpg"
-  },
-  {
-   "key": "RC_GRANT_JEANINE_120011076149995",
-   "name": "Jeanine Grant",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794361673,
-   "photo": "photos/RC_GRANT_JEANINE_120011076149995.jpg"
   },
   {
    "key": "PRICE_ALBERT_2026-11-10",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_NEWSON_NICHOLAS_120011076155533",
+   "name": "Nicholas Nathaniel Newson",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794376080,
+   "photo": null
+  },
   {
    "key": "MKE_MUDAY_MUSA_510231",
    "name": "Musa Hassan Muday",
@@ -5161,17 +5172,6 @@
    "more": 0,
    "ts": 1794119290,
    "photo": "photos/MKE_WILLIAMS_TRAVIS_350681.jpg"
-  },
-  {
-   "key": "RC_ARANDA_MARGARITA_120011076048328",
-   "name": "Margarita Aranda",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Intimidate Witness/Threaten Force, etc.",
-   "more": 7,
-   "ts": 1794116887,
-   "photo": "photos/RC_ARANDA_MARGARITA_120011076048328.jpg"
   }
  ]
 }
