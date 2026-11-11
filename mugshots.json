@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-11T19:56:46+00:00",
+ "updated": "2026-11-11T20:12:52+00:00",
  "items": [
+  {
+   "key": "MKE_GODBOLT_DAVID_243810",
+   "name": "David Allen Godbolt",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 12,
+   "ts": 1794427087,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENTZ_KENNETH_638441",
+   "name": "Kenneth K Bentz",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794427084,
+   "photo": null
+  },
   {
    "key": "MAR_BURNETT_WESLEY_2026-11-11_8187006",
    "name": "Wesley Devon Burnett",
@@ -233,17 +255,6 @@
    "photo": "photos/RC_FIRST_AKEEM_120011076171023.jpg"
   },
   {
-   "key": "RC_MCWHORTER_DANIEL_120011076171140",
-   "name": "Daniel Charles Mcwhorter",
-   "age": "63",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794419313,
-   "photo": null
-  },
-  {
    "key": "BINGHAM_DYLAN_2026-11-11",
    "name": "Dylan J Bingham",
    "age": "24",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1794419248,
    "photo": "photos/BINGHAM_DYLAN_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_ARENAS_CESAR_286197",
-   "name": "Cesar Lopez Arenas",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794418089,
-   "photo": null
   },
   {
    "key": "DOU_LOVE_JAMES_2026-11-11",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_GODBOLT_DAVID_243810",
+   "name": "David Allen Godbolt",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 12,
+   "ts": 1794427087,
+   "photo": null
+  },
+  {
+   "key": "MKE_BENTZ_KENNETH_638441",
+   "name": "Kenneth K Bentz",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794427084,
+   "photo": null
+  },
   {
    "key": "MAR_BURNETT_WESLEY_2026-11-11_8187006",
    "name": "Wesley Devon Burnett",
@@ -5304,39 +5326,6 @@
    "more": 1,
    "ts": 1794169623,
    "photo": "photos/REDMOND_LEE_2026-11-08.jpg"
-  },
-  {
-   "key": "MKE_EASON_DEVON_411979",
-   "name": "Devon Shamar Eason",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794167863,
-   "photo": "photos/MKE_EASON_DEVON_411979.jpg"
-  },
-  {
-   "key": "MKE_GARZA_GABRIEL_633470",
-   "name": "Gabriel A Garza",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794167862,
-   "photo": "photos/MKE_GARZA_GABRIEL_633470.jpg"
-  },
-  {
-   "key": "MKE_OCLAIRECARTER_COVACHE_646312",
-   "name": "Covache Oclaire-carter",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794167860,
-   "photo": "photos/MKE_OCLAIRECARTER_COVACHE_646312.jpg"
   }
  ]
 }
