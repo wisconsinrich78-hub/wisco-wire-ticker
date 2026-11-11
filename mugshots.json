@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-11T02:49:28+00:00",
+ "updated": "2026-11-11T03:07:34+00:00",
  "items": [
+  {
+   "key": "KEN_PICKETT_GERALD_2026-00006241",
+   "name": "Gerald Jermaine Pickett",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794365706,
+   "photo": null
+  },
+  {
+   "key": "KEN_DAVIS_DANIEL_2026-00006235",
+   "name": "Daniel Timothy Davis",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1794365672,
+   "photo": "photos/KEN_DAVIS_DANIEL_2026-00006235.jpg"
+  },
+  {
+   "key": "MAR_VALENZUELAAGUILARA_ERIKA_2026-11-10",
+   "name": "Erika Isabel Valenzuela Aguilara",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Forgery",
+   "more": 1,
+   "ts": 1794365629,
+   "photo": null
+  },
+  {
+   "key": "MAR_DENZIN_SCOTT_2026-11-10",
+   "name": "Scott Gordon Denzin",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794365592,
+   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-10.jpg"
+  },
   {
    "key": "RC_GILLIAM_TANYA_120011076151892",
    "name": "Tanya Nicole Gilliam",
@@ -197,28 +241,6 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1794356857,
-   "photo": null
-  },
-  {
-   "key": "MKE_LEE_ALICIA_417724",
-   "name": "Alicia Bianca Lee",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Recklessly Cause Harm",
-   "more": 2,
-   "ts": 1794356854,
-   "photo": null
-  },
-  {
-   "key": "MKE_WIMPIEBERGERON_TRAVELL_421528",
-   "name": "Travell PAir Wimpie-Bergeron",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess/Distribute/Exhibit an Intimate Representation",
-   "more": 1,
-   "ts": 1794356852,
    "photo": null
   },
   {
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794298571,
    "photo": "photos/FDL_BAUMAN_JEFFERY_2026-11-10.jpg"
-  },
-  {
-   "key": "MAR_PORATH_JENNY_2026-11-09",
-   "name": "Jenny Lynn Porath",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 4,
-   "ts": 1794297212,
-   "photo": "photos/MAR_PORATH_JENNY_2026-11-09.jpg"
-  },
-  {
-   "key": "MAR_VANG_MICHAEL_2026-11-09_16051204",
-   "name": "Michael Vang",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 3,
-   "ts": 1794293513,
-   "photo": "photos/MAR_VANG_MICHAEL_2026-11-09_16051204.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_PICKETT_GERALD_2026-00006241",
+   "name": "Gerald Jermaine Pickett",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794365706,
+   "photo": null
+  },
+  {
+   "key": "KEN_DAVIS_DANIEL_2026-00006235",
+   "name": "Daniel Timothy Davis",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1794365672,
+   "photo": "photos/KEN_DAVIS_DANIEL_2026-00006235.jpg"
+  },
+  {
+   "key": "MAR_VALENZUELAAGUILARA_ERIKA_2026-11-10",
+   "name": "Erika Isabel Valenzuela Aguilara",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Forgery",
+   "more": 1,
+   "ts": 1794365629,
+   "photo": null
+  },
+  {
+   "key": "MAR_DENZIN_SCOTT_2026-11-10",
+   "name": "Scott Gordon Denzin",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794365592,
+   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-10.jpg"
+  },
   {
    "key": "RC_GILLIAM_TANYA_120011076151892",
    "name": "Tanya Nicole Gilliam",
@@ -823,7 +867,7 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794351220,
    "photo": "photos/KEN_HAFFERKAMP_ASHLEY_2026-00006236.jpg"
@@ -5095,17 +5139,6 @@
    "more": 0,
    "ts": 1794110250,
    "photo": "photos/MKE_THOR_ELIZABETH_613515.jpg"
-  },
-  {
-   "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816",
-   "name": "Matthew James Wiskowski",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794106450,
-   "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07_2282816.jpg"
   }
  ]
 }
