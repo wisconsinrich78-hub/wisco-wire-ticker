@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T17:33:06+00:00",
+ "updated": "2026-11-11T17:49:39+00:00",
  "items": [
+  {
+   "key": "RC_FIRST_AKEEM_120011076171023",
+   "name": "Akeem Waymone First",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794419316,
+   "photo": "photos/RC_FIRST_AKEEM_120011076171023.jpg"
+  },
+  {
+   "key": "RC_MCWHORTER_DANIEL_120011076171140",
+   "name": "Daniel Charles Mcwhorter",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794419313,
+   "photo": null
+  },
+  {
+   "key": "BINGHAM_DYLAN_2026-11-11",
+   "name": "Dylan J Bingham",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794419248,
+   "photo": null
+  },
   {
    "key": "MKE_ARENAS_CESAR_286197",
    "name": "Cesar Lopez Arenas",
@@ -242,28 +275,6 @@
    "more": 4,
    "ts": 1794406599,
    "photo": "photos/FDL_BETANCO_LEONEL_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_LUCKETT_EDDIE_364358",
-   "name": "Eddie Lee Luckett",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 10,
-   "ts": 1794405501,
-   "photo": null
-  },
-  {
-   "key": "MKE_DERYA_ESAM_600211",
-   "name": "Esam K Derya",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 1,
-   "ts": 1794405499,
-   "photo": null
   },
   {
    "key": "DOU_CUMMINGS_JOHN_2026-11-11",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1794356187,
    "photo": "photos/FDL_IHLENFELDT_JEANNE_2026-11-10.jpg"
-  },
-  {
-   "key": "FDL_SEALS_DEBRA_2026-11-10",
-   "name": "Debra Lynn Seals",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794352621,
-   "photo": "photos/FDL_SEALS_DEBRA_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FIRST_AKEEM_120011076171023",
+   "name": "Akeem Waymone First",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794419316,
+   "photo": "photos/RC_FIRST_AKEEM_120011076171023.jpg"
+  },
+  {
+   "key": "RC_MCWHORTER_DANIEL_120011076171140",
+   "name": "Daniel Charles Mcwhorter",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794419313,
+   "photo": null
+  },
+  {
+   "key": "BINGHAM_DYLAN_2026-11-11",
+   "name": "Dylan J Bingham",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794419248,
+   "photo": null
+  },
   {
    "key": "MKE_ARENAS_CESAR_286197",
    "name": "Cesar Lopez Arenas",
@@ -5128,17 +5161,6 @@
    "more": 0,
    "ts": 1794162420,
    "photo": null
-  },
-  {
-   "key": "RC_FLEURY_DONNA_120011076058272",
-   "name": "Donna M Fleury",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794160076,
-   "photo": "photos/RC_FLEURY_DONNA_120011076058272.jpg"
   }
  ]
 }
