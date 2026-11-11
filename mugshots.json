@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-11T15:50:01+00:00",
+ "updated": "2026-11-11T16:05:47+00:00",
  "items": [
+  {
+   "key": "MKE_CHAPPELL_ANTON_398356",
+   "name": "Anton L Chappell",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794412737,
+   "photo": null
+  },
+  {
+   "key": "MKE_BELL_RONDELL_625572",
+   "name": "Rondell Rufus Bell",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794412733,
+   "photo": null
+  },
+  {
+   "key": "MAR_BARGANDER_MATTHEW_2026-11-11",
+   "name": "Matthew D Bargander",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist Obstruct An Officer",
+   "more": 1,
+   "ts": 1794412454,
+   "photo": null
+  },
+  {
+   "key": "MAR_GIRARD_ADAM_2026-11-11",
+   "name": "Adam James Girard",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794412415,
+   "photo": "photos/MAR_GIRARD_ADAM_2026-11-11.jpg"
+  },
   {
    "key": "RC_VOIGT_BRANDAN_120011076164430",
    "name": "Brandan Steven Voigt",
@@ -128,7 +172,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess Marijuana <25 Grams",
+   "charge": "Charges Pending",
    "more": 1,
    "ts": 1794401878,
    "photo": null
@@ -209,28 +253,6 @@
    "more": 0,
    "ts": 1794398007,
    "photo": "photos/MAR_MACDONALD_MATTHEW_2026-11-10_1618903.jpg"
-  },
-  {
-   "key": "RC_EVANS_NICHOLUS_120011076159465",
-   "name": "Nicholus James Evans",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794397677,
-   "photo": null
-  },
-  {
-   "key": "MKE_SWIERCZ_JULIE_648240",
-   "name": "Julie Lynn Swiercz",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794394673,
-   "photo": "photos/MKE_SWIERCZ_JULIE_648240.jpg"
   },
   {
    "key": "TREM_OLSON_MEGAN_4177",
@@ -506,31 +528,53 @@
    "more": 1,
    "ts": 1794345438,
    "photo": "photos/DOU_LAGREW_DAVID_2026-11-10.jpg"
-  },
-  {
-   "key": "MAR_CLARK_TROY_2026-11-10",
-   "name": "Troy Dwayne Clark",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1St Degree Child Sexual Assault - Intercourse With Person Un",
-   "more": 0,
-   "ts": 1794344004,
-   "photo": "photos/MAR_CLARK_TROY_2026-11-10.jpg"
-  },
-  {
-   "key": "LANCASTER_COREY_2026-11-10",
-   "name": "Corey G Lancaster",
-   "age": "55",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 5,
-   "ts": 1794340035,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CHAPPELL_ANTON_398356",
+   "name": "Anton L Chappell",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794412737,
+   "photo": null
+  },
+  {
+   "key": "MKE_BELL_RONDELL_625572",
+   "name": "Rondell Rufus Bell",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794412733,
+   "photo": null
+  },
+  {
+   "key": "MAR_BARGANDER_MATTHEW_2026-11-11",
+   "name": "Matthew D Bargander",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist Obstruct An Officer",
+   "more": 1,
+   "ts": 1794412454,
+   "photo": null
+  },
+  {
+   "key": "MAR_GIRARD_ADAM_2026-11-11",
+   "name": "Adam James Girard",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794412415,
+   "photo": "photos/MAR_GIRARD_ADAM_2026-11-11.jpg"
+  },
   {
    "key": "RC_VOIGT_BRANDAN_120011076164430",
    "name": "Brandan Steven Voigt",
@@ -658,7 +702,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess Marijuana <25 Grams",
+   "charge": "Charges Pending",
    "more": 1,
    "ts": 1794401878,
    "photo": null
@@ -5051,17 +5095,6 @@
    "more": 0,
    "ts": 1794155236,
    "photo": null
-  },
-  {
-   "key": "MKE_PAYTON_DONIEKA_629890",
-   "name": "Donieka S Payton",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property (Over $2500)",
-   "more": 5,
-   "ts": 1794153487,
-   "photo": "photos/MKE_PAYTON_DONIEKA_629890.jpg"
   }
  ]
 }
