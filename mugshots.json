@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-11T15:22:18+00:00",
+ "updated": "2026-11-11T15:50:01+00:00",
  "items": [
+  {
+   "key": "RC_VOIGT_BRANDAN_120011076164430",
+   "name": "Brandan Steven Voigt",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794412109,
+   "photo": "photos/RC_VOIGT_BRANDAN_120011076164430.jpg"
+  },
+  {
+   "key": "RC_SANDERS_MARTINI_120011076166408",
+   "name": "Martini Andre Sanders",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794412106,
+   "photo": "photos/RC_SANDERS_MARTINI_120011076166408.jpg"
+  },
+  {
+   "key": "RC_HOLMES_JERAD_120011076166450",
+   "name": "Jerad L Holmes",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794412102,
+   "photo": "photos/RC_HOLMES_JERAD_120011076166450.jpg"
+  },
+  {
+   "key": "MKE_LARSON_TEILOR_648244",
+   "name": "Teilor Marie Larson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794410905,
+   "photo": null
+  },
   {
    "key": "FDL_MANN_ALONZO_2026-11-11",
    "name": "Alonzo Maurice Mann",
@@ -189,28 +233,6 @@
    "photo": "photos/MKE_SWIERCZ_JULIE_648240.jpg"
   },
   {
-   "key": "KEN_MARTINEZ_JOSE_2026-00006246",
-   "name": "Jose Martinez",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violate Red Traffic Signal",
-   "more": 9,
-   "ts": 1794394527,
-   "photo": "photos/KEN_MARTINEZ_JOSE_2026-00006246.jpg"
-  },
-  {
-   "key": "KEN_ISHMAN_AUSTIN_2026-00006244",
-   "name": "Austin Joseph Ishman",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Disobey Order",
-   "more": 0,
-   "ts": 1794394485,
-   "photo": "photos/KEN_ISHMAN_AUSTIN_2026-00006244.jpg"
-  },
-  {
    "key": "TREM_OLSON_MEGAN_4177",
    "name": "Megan Ann Olson",
    "age": "41",
@@ -242,28 +264,6 @@
    "more": 1,
    "ts": 1794394050,
    "photo": "photos/TREM_LEARY_TODD_6211.jpg"
-  },
-  {
-   "key": "MKE_EVANS_TREVON_645964",
-   "name": "Trevon Evans",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794391080,
-   "photo": "photos/MKE_EVANS_TREVON_645964.jpg"
-  },
-  {
-   "key": "MKE_CANNADY_LAMAR_647334",
-   "name": "Lamar Vashaun Cannady",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794391078,
-   "photo": null
   },
   {
    "key": "MAR_BELL_QUANTEZ_2026-11-11_762002",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_VOIGT_BRANDAN_120011076164430",
+   "name": "Brandan Steven Voigt",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794412109,
+   "photo": "photos/RC_VOIGT_BRANDAN_120011076164430.jpg"
+  },
+  {
+   "key": "RC_SANDERS_MARTINI_120011076166408",
+   "name": "Martini Andre Sanders",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794412106,
+   "photo": "photos/RC_SANDERS_MARTINI_120011076166408.jpg"
+  },
+  {
+   "key": "RC_HOLMES_JERAD_120011076166450",
+   "name": "Jerad L Holmes",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794412102,
+   "photo": "photos/RC_HOLMES_JERAD_120011076166450.jpg"
+  },
+  {
+   "key": "MKE_LARSON_TEILOR_648244",
+   "name": "Teilor Marie Larson",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794410905,
+   "photo": null
+  },
   {
    "key": "FDL_MANN_ALONZO_2026-11-11",
    "name": "Alonzo Maurice Mann",
@@ -5018,39 +5062,6 @@
    "more": 5,
    "ts": 1794153487,
    "photo": "photos/MKE_PAYTON_DONIEKA_629890.jpg"
-  },
-  {
-   "key": "VANG_KAO_2026-11-08",
-   "name": "Kao Vang",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794152826,
-   "photo": null
-  },
-  {
-   "key": "XIONG_CHONG_2026-11-08",
-   "name": "Chong Xiong",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Trespass To Dwelling",
-   "more": 0,
-   "ts": 1794152826,
-   "photo": null
-  },
-  {
-   "key": "EDGE_AMBER_2026-11-08",
-   "name": "Amber R Edge",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 4,
-   "ts": 1794151618,
-   "photo": null
   }
  ]
 }
