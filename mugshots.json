@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T11:49:32+00:00",
+ "updated": "2026-11-11T12:00:13+00:00",
  "items": [
+  {
+   "key": "MAR_MACDONALD_MATTHEW_2026-11-10_1618903",
+   "name": "Matthew Brian Macdonald",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794398007,
+   "photo": "photos/MAR_MACDONALD_MATTHEW_2026-11-10_1618903.jpg"
+  },
   {
    "key": "RC_EVANS_NICHOLUS_120011076159465",
    "name": "Nicholus James Evans",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794334630,
    "photo": "photos/FDL_SCROGGINS_JOSEPH_2026-11-10.jpg"
-  },
-  {
-   "key": "MAR_KRUMWIEDE_JASON_2026-11-10",
-   "name": "Jason Allen Krumwiede",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794333236,
-   "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_MACDONALD_MATTHEW_2026-11-10_1618903",
+   "name": "Matthew Brian Macdonald",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794398007,
+   "photo": "photos/MAR_MACDONALD_MATTHEW_2026-11-10_1618903.jpg"
+  },
   {
    "key": "RC_EVANS_NICHOLUS_120011076159465",
    "name": "Nicholus James Evans",
@@ -5051,28 +5062,6 @@
    "more": 0,
    "ts": 1794140175,
    "photo": null
-  },
-  {
-   "key": "KEN_BRANTLEY_DAVID_2026-00006177",
-   "name": "DAVID WAYNE Junior BRANTLEY",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Owi (1St)",
-   "more": 0,
-   "ts": 1794138978,
-   "photo": "photos/KEN_BRANTLEY_DAVID_2026-00006177.jpg"
-  },
-  {
-   "key": "MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803",
-   "name": "Viengouthay Douangboupha",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 4Th",
-   "more": 1,
-   "ts": 1794138822,
-   "photo": "photos/MAR_DOUANGBOUPHA_VIENGOUTHAY_2026-11-07_803803.jpg"
   }
  ]
 }
