@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T01:48:07+00:00",
+ "updated": "2026-11-11T02:00:58+00:00",
  "items": [
+  {
+   "key": "MKE_KELM_TRACEY_215594",
+   "name": "Tracey Lynette Kelm",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794362272,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_CARLOS_641325",
+   "name": "Carlos Exabiel Gonzalez",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1794362270,
+   "photo": null
+  },
+  {
+   "key": "MAR_HAWN_ROBERT_2026-11-09_698011",
+   "name": "Robert Eugene Hawn",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794362018,
+   "photo": "photos/MAR_HAWN_ROBERT_2026-11-09_698011.jpg"
+  },
   {
    "key": "RC_GRANT_JEANINE_120011076149995",
    "name": "Jeanine Grant",
@@ -211,17 +244,6 @@
    "photo": "photos/FDL_SEALS_DEBRA_2026-11-10.jpg"
   },
   {
-   "key": "KEN_HAFFERKAMP_ASHLEY_2026-00006236",
-   "name": "Ashley Nicole Hafferkamp",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794351220,
-   "photo": "photos/KEN_HAFFERKAMP_ASHLEY_2026-00006236.jpg"
-  },
-  {
    "key": "DRIVER_DARIUS_2026-11-10",
    "name": "Darius D Driver",
    "age": "47",
@@ -230,17 +252,6 @@
    "charge": "Hold For Court",
    "more": 0,
    "ts": 1794349863,
-   "photo": null
-  },
-  {
-   "key": "MKE_WEEKS_KAYTTY_377253",
-   "name": "Kaytty Joelynn Weeks",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794347867,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794293476,
    "photo": "photos/MAR_LUEDDECKE_LANCE_2026-11-09.jpg"
-  },
-  {
-   "key": "MAR_DOYLE_DAVID_2026-11-09",
-   "name": "David Robert Doyle",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Theft- All Other",
-   "more": 3,
-   "ts": 1794293437,
-   "photo": "photos/MAR_DOYLE_DAVID_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_KELM_TRACEY_215594",
+   "name": "Tracey Lynette Kelm",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794362272,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_CARLOS_641325",
+   "name": "Carlos Exabiel Gonzalez",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1794362270,
+   "photo": null
+  },
+  {
+   "key": "MAR_HAWN_ROBERT_2026-11-09_698011",
+   "name": "Robert Eugene Hawn",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794362018,
+   "photo": "photos/MAR_HAWN_ROBERT_2026-11-09_698011.jpg"
+  },
   {
    "key": "RC_GRANT_JEANINE_120011076149995",
    "name": "Jeanine Grant",
@@ -1387,7 +1420,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794319073,
-   "photo": null
+   "photo": "photos/MKE_SCHULTZ_MILES_648233.jpg"
   },
   {
    "key": "KEN_CAMARILLO_ADOLFO_2026-00006214",
@@ -5040,28 +5073,6 @@
    "more": 4,
    "ts": 1794104859,
    "photo": "photos/MKE_JOHNSON_JAYLEN_624127.jpg"
-  },
-  {
-   "key": "MAR_GRAEF_NAINNE_2026-11-07_13109002",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794102903,
-   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-07_13109002.jpg"
-  },
-  {
-   "key": "MAR_WISKOWSKI_MATTHEW_2026-11-07",
-   "name": "Matthew James Wiskowski",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794102839,
-   "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07.jpg"
   }
  ]
 }
