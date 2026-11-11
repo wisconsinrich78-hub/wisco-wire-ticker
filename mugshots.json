@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T10:23:14+00:00",
+ "updated": "2026-11-11T10:49:32+00:00",
  "items": [
+  {
+   "key": "TREM_OLSON_MEGAN_4177",
+   "name": "Megan Ann Olson",
+   "age": "41",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1794394057,
+   "photo": "photos/TREM_OLSON_MEGAN_4177.jpg"
+  },
+  {
+   "key": "TREM_VANMETER_SHYANN_5911",
+   "name": "Shyann May VanMeter",
+   "age": "23",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1794394054,
+   "photo": "photos/TREM_VANMETER_SHYANN_5911.jpg"
+  },
+  {
+   "key": "TREM_LEARY_TODD_6211",
+   "name": "Todd Vernon Leary",
+   "age": "49",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Misdemeanor Battery",
+   "more": 1,
+   "ts": 1794394050,
+   "photo": "photos/TREM_LEARY_TODD_6211.jpg"
+  },
   {
    "key": "MKE_EVANS_TREVON_645964",
    "name": "Trevon Evans",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1794333236,
    "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10.jpg"
-  },
-  {
-   "key": "CARSON_HANAH_2026-11-10",
-   "name": "Hanah M Carson",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Arson Of Building W/O Owner'S Consent",
-   "more": 1,
-   "ts": 1794328021,
-   "photo": null
-  },
-  {
-   "key": "FDL_HIGGINBOTHAM_ZACHERY_2026-11-10",
-   "name": "Zachery Rad Higginbotham",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery Substantial/Aggravated/Intend Bodily Harm No Drugs Or Alc",
-   "more": 3,
-   "ts": 1794327401,
-   "photo": "photos/FDL_HIGGINBOTHAM_ZACHERY_2026-11-10.jpg"
-  },
-  {
-   "key": "HEGGE_THOMAS_2026-11-10",
-   "name": "Thomas J Hegge",
-   "age": "59",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794325629,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "TREM_OLSON_MEGAN_4177",
+   "name": "Megan Ann Olson",
+   "age": "41",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1794394057,
+   "photo": "photos/TREM_OLSON_MEGAN_4177.jpg"
+  },
+  {
+   "key": "TREM_VANMETER_SHYANN_5911",
+   "name": "Shyann May VanMeter",
+   "age": "23",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Failure to Appear Warrant",
+   "more": 0,
+   "ts": 1794394054,
+   "photo": "photos/TREM_VANMETER_SHYANN_5911.jpg"
+  },
+  {
+   "key": "TREM_LEARY_TODD_6211",
+   "name": "Todd Vernon Leary",
+   "age": "49",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Misdemeanor Battery",
+   "more": 1,
+   "ts": 1794394050,
+   "photo": "photos/TREM_LEARY_TODD_6211.jpg"
+  },
   {
    "key": "MKE_EVANS_TREVON_645964",
    "name": "Trevon Evans",
@@ -5117,50 +5150,6 @@
    "more": 0,
    "ts": 1794136564,
    "photo": "photos/FDL_BENITEZMEJIA_ISAAC_2026-11-08.jpg"
-  },
-  {
-   "key": "RC_LUCERO_MICHAEL_120011076052964",
-   "name": "Michael Lucero",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794134868,
-   "photo": "photos/RC_LUCERO_MICHAEL_120011076052964.jpg"
-  },
-  {
-   "key": "TREM_LOPEZTIENDA_ABEL_5650",
-   "name": "Abel Lopez Tienda",
-   "age": "47",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794134832,
-   "photo": "photos/TREM_LOPEZTIENDA_ABEL_5650.jpg"
-  },
-  {
-   "key": "TREM_SKWIOT_BROCK_6206",
-   "name": "Brock William Edward Skwiot",
-   "age": "32",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possession of Cocaine",
-   "more": 0,
-   "ts": 1794134830,
-   "photo": "photos/TREM_SKWIOT_BROCK_6206.jpg"
-  },
-  {
-   "key": "TREM_MARTINEZCASTILLO_AGUSTIN_6207",
-   "name": "Agustin Martinez Castillo",
-   "age": "29",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating while Intoxicated - 1st Offense, with a Minor Child in the V",
-   "more": 0,
-   "ts": 1794134829,
-   "photo": "photos/TREM_MARTINEZCASTILLO_AGUSTIN_6207.jpg"
   }
  ]
 }
