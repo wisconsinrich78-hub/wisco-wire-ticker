@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T01:08:45+00:00",
+ "updated": "2026-11-11T01:30:14+00:00",
  "items": [
+  {
+   "key": "KELEMEN_JOHN_2026-11-10",
+   "name": "John G Kelemen",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Theft - Misdemeanor",
+   "more": 1,
+   "ts": 1794360435,
+   "photo": null
+  },
   {
    "key": "MKE_PARKER_JEFFREY_305163",
    "name": "Jeffrey Todd Parker",
@@ -517,20 +528,20 @@
    "more": 4,
    "ts": 1794293391,
    "photo": "photos/MAR_REED_GLENN_2026-11-09.jpg"
-  },
-  {
-   "key": "FDL_RISTOW_TYNEIKO_2026-11-09",
-   "name": "Tyneiko Malik Ristow",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794291438,
-   "photo": "photos/FDL_RISTOW_TYNEIKO_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KELEMEN_JOHN_2026-11-10",
+   "name": "John G Kelemen",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Theft - Misdemeanor",
+   "more": 1,
+   "ts": 1794360435,
+   "photo": null
+  },
   {
    "key": "MKE_PARKER_JEFFREY_305163",
    "name": "Jeffrey Todd Parker",
