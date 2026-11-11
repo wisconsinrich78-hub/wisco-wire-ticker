@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-11T22:49:46+00:00",
+ "updated": "2026-11-11T23:04:36+00:00",
  "items": [
+  {
+   "key": "MKE_WILSON_CORDAREO_375254",
+   "name": "Cordareo A Wilson",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794437918,
+   "photo": null
+  },
+  {
+   "key": "MKE_BARBER_RODNEY_383200",
+   "name": "Rodney Lewis Barber",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794437912,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAMES_JAMEL_411040",
+   "name": "Jamel L James",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "more": 1,
+   "ts": 1794437908,
+   "photo": null
+  },
+  {
+   "key": "MAR_SIEFKEN_DEREK_2026-11-11",
+   "name": "Derek Anthony Siefken",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 1,
+   "ts": 1794437663,
+   "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11.jpg"
+  },
+  {
+   "key": "KEN_NACIUS_CLAUDE_2026-00006261",
+   "name": "Claude Nacius",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794437609,
+   "photo": null
+  },
+  {
+   "key": "KEN_MCMULLIN_ROBERT_2026-00006260",
+   "name": "Robert Ryan Mcmullin",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Manufacture/Deliver Pcp, Methcathinone, Or Amphetamine (50 Grams+)",
+   "more": 0,
+   "ts": 1794437531,
+   "photo": "photos/KEN_MCMULLIN_ROBERT_2026-00006260.jpg"
+  },
   {
    "key": "RC_WILLIAMS_PRENTICE_120011076183270",
    "name": "Prentice Antjuan Williams",
@@ -95,10 +161,10 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Owi (2Nd)",
    "more": 0,
    "ts": 1794430734,
-   "photo": null
+   "photo": "photos/KEN_MORAN_ADRIAN_2026-00006257.jpg"
   },
   {
    "key": "KEN_KUROWSKI_PAULINA_2026-00006256",
@@ -139,7 +205,7 @@
    "age": "70",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794430490,
    "photo": "photos/KEN_HURLBUT_DONALD_2026-00006258.jpg"
@@ -211,28 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_GODBOLT_DAVID_243810",
-   "name": "David Allen Godbolt",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1794427087,
-   "photo": null
-  },
-  {
-   "key": "MKE_BENTZ_KENNETH_638441",
-   "name": "Kenneth K Bentz",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Utility\u2019s Property",
-   "more": 0,
-   "ts": 1794427084,
-   "photo": "photos/MKE_BENTZ_KENNETH_638441.jpg"
-  },
-  {
    "key": "MAR_BURNETT_WESLEY_2026-11-11_8187006",
    "name": "Wesley Devon Burnett",
    "age": "36",
@@ -242,39 +286,6 @@
    "more": 1,
    "ts": 1794426838,
    "photo": "photos/MAR_BURNETT_WESLEY_2026-11-11_8187006.jpg"
-  },
-  {
-   "key": "RC_JARLSBERG_JULIA_120011076174926",
-   "name": "Julia M Jarlsberg",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine (2nd and subsequent)",
-   "more": 3,
-   "ts": 1794426501,
-   "photo": "photos/RC_JARLSBERG_JULIA_120011076174926.jpg"
-  },
-  {
-   "key": "RC_BELCHER_DWAINE_120011076175536",
-   "name": "Dwaine Andrew Belcher",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
-   "more": 3,
-   "ts": 1794426498,
-   "photo": "photos/RC_BELCHER_DWAINE_120011076175536.jpg"
-  },
-  {
-   "key": "RC_ANDERSON_ORLANDO_120011076175579",
-   "name": "Orlando Delon Anderson",
-   "age": "58",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794426494,
-   "photo": "photos/RC_ANDERSON_ORLANDO_120011076175579.jpg"
   },
   {
    "key": "DOU_KING_ROBERT_2026-11-11",
@@ -396,17 +407,6 @@
    "more": 1,
    "ts": 1794412454,
    "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11.jpg"
-  },
-  {
-   "key": "MAR_GIRARD_ADAM_2026-11-11",
-   "name": "Adam James Girard",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794412415,
-   "photo": "photos/MAR_GIRARD_ADAM_2026-11-11.jpg"
   },
   {
    "key": "FDL_MANN_ALONZO_2026-11-11",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "MKE_WILSON_CORDAREO_375254",
+   "name": "Cordareo A Wilson",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794437918,
+   "photo": null
+  },
+  {
+   "key": "MKE_BARBER_RODNEY_383200",
+   "name": "Rodney Lewis Barber",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794437912,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAMES_JAMEL_411040",
+   "name": "Jamel L James",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "more": 1,
+   "ts": 1794437908,
+   "photo": null
+  },
+  {
+   "key": "MAR_SIEFKEN_DEREK_2026-11-11",
+   "name": "Derek Anthony Siefken",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Thc",
+   "more": 1,
+   "ts": 1794437663,
+   "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11.jpg"
+  },
+  {
+   "key": "KEN_NACIUS_CLAUDE_2026-00006261",
+   "name": "Claude Nacius",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794437609,
+   "photo": null
+  },
+  {
+   "key": "KEN_MCMULLIN_ROBERT_2026-00006260",
+   "name": "Robert Ryan Mcmullin",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Manufacture/Deliver Pcp, Methcathinone, Or Amphetamine (50 Grams+)",
+   "more": 0,
+   "ts": 1794437531,
+   "photo": "photos/KEN_MCMULLIN_ROBERT_2026-00006260.jpg"
+  },
+  {
    "key": "RC_WILLIAMS_PRENTICE_120011076183270",
    "name": "Prentice Antjuan Williams",
    "age": "46",
@@ -625,10 +691,10 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Owi (2Nd)",
    "more": 0,
    "ts": 1794430734,
-   "photo": null
+   "photo": "photos/KEN_MORAN_ADRIAN_2026-00006257.jpg"
   },
   {
    "key": "KEN_KUROWSKI_PAULINA_2026-00006256",
@@ -669,7 +735,7 @@
    "age": "70",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794430490,
    "photo": "photos/KEN_HURLBUT_DONALD_2026-00006258.jpg"
@@ -746,10 +812,10 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Failure to Support",
    "more": 12,
    "ts": 1794427087,
-   "photo": null
+   "photo": "photos/MKE_GODBOLT_DAVID_243810.jpg"
   },
   {
    "key": "MKE_BENTZ_KENNETH_638441",
@@ -870,7 +936,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794423530,
-   "photo": null
+   "photo": "photos/MKE_COLON_MANUEL_648246.jpg"
   },
   {
    "key": "KEN_JOHNSON_NATHANIEL_2026-00006254",
@@ -889,7 +955,7 @@
    "age": "36",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1794423238,
    "photo": null
@@ -936,7 +1002,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794421688,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_DEREK_369020.jpg"
   },
   {
    "key": "MKE_FLORES_NICKOLAS_416321",
@@ -947,7 +1013,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794421686,
-   "photo": null
+   "photo": "photos/MKE_FLORES_NICKOLAS_416321.jpg"
   },
   {
    "key": "DOU_FREEMAN_JAKE_2026-11-11",
@@ -5436,28 +5502,6 @@
    "more": 2,
    "ts": 1794180455,
    "photo": "photos/MKE_BROWN_JAMES_609615.jpg"
-  },
-  {
-   "key": "MAR_LAVIGNE_KAI_2026-11-08",
-   "name": "Kai Gryphon Lavigne",
-   "age": "18",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794178598,
-   "photo": null
-  },
-  {
-   "key": "MAR_HUNTER_TERESA_2026-11-08",
-   "name": "Teresa Marie Hunter",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794178556,
-   "photo": null
   }
  ]
 }
