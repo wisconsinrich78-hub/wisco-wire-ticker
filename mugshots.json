@@ -1,13 +1,68 @@
 {
- "updated": "2026-11-11T16:58:25+00:00",
+ "updated": "2026-11-11T17:33:06+00:00",
  "items": [
+  {
+   "key": "MKE_ARENAS_CESAR_286197",
+   "name": "Cesar Lopez Arenas",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794418089,
+   "photo": null
+  },
+  {
+   "key": "MKE_NESBIT_KEVIN_368038",
+   "name": "Kevin Andre Nesbit",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794418085,
+   "photo": null
+  },
+  {
+   "key": "MKE_REGAS_PETER_624465",
+   "name": "Peter Regas",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 1,
+   "ts": 1794418082,
+   "photo": null
+  },
+  {
+   "key": "DOU_LOVE_JAMES_2026-11-11",
+   "name": "James D Love",
+   "age": "57",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794418007,
+   "photo": "photos/DOU_LOVE_JAMES_2026-11-11.jpg"
+  },
+  {
+   "key": "FDL_KELLIHER_JOSEPH_2026-11-11",
+   "name": "Joseph James Kelliher",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794417424,
+   "photo": null
+  },
   {
    "key": "MKE_WRIGHT_CALVIN_295924",
    "name": "Calvin Dewayne Wright",
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Child Enticement-Sexual Contact",
    "more": 0,
    "ts": 1794416305,
    "photo": null
@@ -208,39 +263,6 @@
    "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
    "more": 1,
    "ts": 1794405499,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALIPATTERSON_SHAHEED_524235",
-   "name": "Shaheed Mikal Ali-Patterson",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794401878,
-   "photo": null
-  },
-  {
-   "key": "KEN_MOFFETT_MELISCENT_2026-00006247",
-   "name": "Meliscent Ng Moffett",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Failure To Keep Vehicle Under Control",
-   "more": 4,
-   "ts": 1794401656,
-   "photo": null
-  },
-  {
-   "key": "MKE_ANDERSON_VERNELL_385407",
-   "name": "Vernell Anderson",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 3,
-   "ts": 1794400077,
    "photo": null
   },
   {
@@ -497,17 +519,6 @@
    "photo": "photos/FDL_IHLENFELDT_JEANNE_2026-11-10.jpg"
   },
   {
-   "key": "DOU_JOHNSON_STEVEN_2026-11-10",
-   "name": "Steven L Johnson",
-   "age": "51",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794352637,
-   "photo": "photos/DOU_JOHNSON_STEVEN_2026-11-10.jpg"
-  },
-  {
    "key": "FDL_SEALS_DEBRA_2026-11-10",
    "name": "Debra Lynn Seals",
    "age": "",
@@ -517,27 +528,71 @@
    "more": 0,
    "ts": 1794352621,
    "photo": "photos/FDL_SEALS_DEBRA_2026-11-10.jpg"
-  },
-  {
-   "key": "DRIVER_DARIUS_2026-11-10",
-   "name": "Darius D Driver",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold For Court",
-   "more": 0,
-   "ts": 1794349863,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ARENAS_CESAR_286197",
+   "name": "Cesar Lopez Arenas",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794418089,
+   "photo": null
+  },
+  {
+   "key": "MKE_NESBIT_KEVIN_368038",
+   "name": "Kevin Andre Nesbit",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794418085,
+   "photo": null
+  },
+  {
+   "key": "MKE_REGAS_PETER_624465",
+   "name": "Peter Regas",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 1,
+   "ts": 1794418082,
+   "photo": null
+  },
+  {
+   "key": "DOU_LOVE_JAMES_2026-11-11",
+   "name": "James D Love",
+   "age": "57",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794418007,
+   "photo": "photos/DOU_LOVE_JAMES_2026-11-11.jpg"
+  },
+  {
+   "key": "FDL_KELLIHER_JOSEPH_2026-11-11",
+   "name": "Joseph James Kelliher",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794417424,
+   "photo": null
+  },
   {
    "key": "MKE_WRIGHT_CALVIN_295924",
    "name": "Calvin Dewayne Wright",
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Child Enticement-Sexual Contact",
    "more": 0,
    "ts": 1794416305,
    "photo": null
@@ -780,7 +835,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Resisting or Obstructing an Officer",
-   "more": 2,
+   "more": 0,
    "ts": 1794400074,
    "photo": null
   },
@@ -790,7 +845,7 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
+   "charge": "Battery",
    "more": 1,
    "ts": 1794400071,
    "photo": null
@@ -5084,17 +5139,6 @@
    "more": 0,
    "ts": 1794160076,
    "photo": "photos/RC_FLEURY_DONNA_120011076058272.jpg"
-  },
-  {
-   "key": "FDL_BARTELS_HANNAH_2026-11-08",
-   "name": "Hannah Elaine Bartels",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1794158159,
-   "photo": "photos/FDL_BARTELS_HANNAH_2026-11-08.jpg"
   }
  ]
 }
