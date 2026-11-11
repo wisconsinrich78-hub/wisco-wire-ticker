@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T12:49:37+00:00",
+ "updated": "2026-11-11T12:55:10+00:00",
  "items": [
+  {
+   "key": "KEN_MOFFETT_MELISCENT_2026-00006247",
+   "name": "Meliscent Ng Moffett",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794401656,
+   "photo": null
+  },
   {
    "key": "MKE_ANDERSON_VERNELL_385407",
    "name": "Vernell Anderson",
@@ -231,17 +242,6 @@
    "more": 2,
    "ts": 1794385676,
    "photo": "photos/MKE_CARTER_DEMICO_378098.jpg"
-  },
-  {
-   "key": "MKE_CROSS_EARNEST_648238",
-   "name": "Earnest D Cross",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794385672,
-   "photo": "photos/MKE_CROSS_EARNEST_648238.jpg"
   },
   {
    "key": "FDL_BAILLOD_MONICA_2026-11-11",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_MOFFETT_MELISCENT_2026-00006247",
+   "name": "Meliscent Ng Moffett",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794401656,
+   "photo": null
+  },
   {
    "key": "MKE_ANDERSON_VERNELL_385407",
    "name": "Vernell Anderson",
@@ -5073,17 +5084,6 @@
    "more": 1,
    "ts": 1794142539,
    "photo": "photos/KEN_FLOWERS_SHEENA_2026-00006178.jpg"
-  },
-  {
-   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206",
-   "name": "Nathan Thomas Hagenbucher",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794142396,
-   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-08_1879206.jpg"
   }
  ]
 }
