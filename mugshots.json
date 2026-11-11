@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:49:37+00:00",
+ "updated": "2026-11-11T15:06:10+00:00",
  "items": [
   {
    "key": "MKE_SCONIERS_TIMOTHY_272023",
@@ -73,7 +73,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Possess Marijuana <25 Grams",
    "more": 1,
    "ts": 1794401878,
    "photo": null
@@ -603,7 +603,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Possess Marijuana <25 Grams",
    "more": 1,
    "ts": 1794401878,
    "photo": null
@@ -5062,28 +5062,6 @@
    "more": 0,
    "ts": 1794150986,
    "photo": "photos/FDL_CHRISTIE_AARON_2026-11-08.jpg"
-  },
-  {
-   "key": "KEN_HEARTON_HERMAN_2026-00006179",
-   "name": "HERMAN D Junior HEARTON",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
-   "more": 1,
-   "ts": 1794149825,
-   "photo": "photos/KEN_HEARTON_HERMAN_2026-00006179.jpg"
-  },
-  {
-   "key": "MAR_PIERCE_SKYILAR_2026-11-07_12710801",
-   "name": "Skyilar Lashae Pierce",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794149633,
-   "photo": "photos/MAR_PIERCE_SKYILAR_2026-11-07_12710801.jpg"
   }
  ]
 }
