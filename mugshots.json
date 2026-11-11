@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-11T04:49:42+00:00",
+ "updated": "2026-11-11T05:30:12+00:00",
  "items": [
+  {
+   "key": "MKE_MUDAY_MUSA_510231",
+   "name": "Musa Hassan Muday",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794374865,
+   "photo": null
+  },
+  {
+   "key": "MKE_WHITMAN_CAMARIUS_632619",
+   "name": "Camarius Dashawn Whitman",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794374861,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_RANDY_648237",
+   "name": "Randy T Johnson",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 2,
+   "ts": 1794374858,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOUDNIK_JESSICA_381362",
+   "name": "Jessica Lynn Boudnik",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794373062,
+   "photo": null
+  },
+  {
+   "key": "MKE_GUTIERREZ_SHIANN_645282",
+   "name": "Shiann M Gutierrez",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794373061,
+   "photo": null
+  },
+  {
+   "key": "KEN_DIAMOND_DONALD_2026-00006238",
+   "name": "Donald Louis Diamond",
+   "age": "76",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1794372974,
+   "photo": "photos/KEN_DIAMOND_DONALD_2026-00006238.jpg"
+  },
+  {
+   "key": "MAR_CLARK_TROY_2026-11-10_10262011",
+   "name": "Troy Dwayne Clark",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1St Degree Child Sexual Assault - Intercourse With Person Un",
+   "more": 0,
+   "ts": 1794372827,
+   "photo": "photos/MAR_CLARK_TROY_2026-11-10_10262011.jpg"
+  },
   {
    "key": "DELAGRAVE_CAPRICE_2026-11-10",
    "name": "Caprice B Delagrave",
@@ -51,8 +128,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Counterfeit Certificate Of Title",
+   "more": 1,
    "ts": 1794365706,
    "photo": null
   },
@@ -198,72 +275,6 @@
    "more": 1,
    "ts": 1794360435,
    "photo": null
-  },
-  {
-   "key": "MKE_PARKER_JEFFREY_305163",
-   "name": "Jeffrey Todd Parker",
-   "age": "61",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 1,
-   "ts": 1794358666,
-   "photo": null
-  },
-  {
-   "key": "MKE_BOWIE_SYAIR_616404",
-   "name": "Syair Imoni Bowie",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "3rd Degree Sexual Assault - Sexual Contact - Complainant Bodily Fluids",
-   "more": 1,
-   "ts": 1794358664,
-   "photo": null
-  },
-  {
-   "key": "MKE_JONES_LENIEYA_625709",
-   "name": "Lenieya Michelle Jones",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1794358662,
-   "photo": null
-  },
-  {
-   "key": "MKE_MICHELIC_MARK_2057232",
-   "name": "Mark L Michelic",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1794358660,
-   "photo": null
-  },
-  {
-   "key": "MKE_CURRY_ANDRA_2062865",
-   "name": "Andra Deshawn Curry",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 14,
-   "ts": 1794358658,
-   "photo": null
-  },
-  {
-   "key": "KEN_WILLIAMS_ANTONETTE_2026-00006239",
-   "name": "Antonette Ann Williams",
-   "age": "50",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794358498,
-   "photo": "photos/KEN_WILLIAMS_ANTONETTE_2026-00006239.jpg"
   },
   {
    "key": "FDL_IHLENFELDT_JEANNE_2026-11-10",
@@ -517,20 +528,86 @@
    "more": 4,
    "ts": 1794304400,
    "photo": "photos/MAR_REED_GLENN_2026-11-09_16811.jpg"
-  },
-  {
-   "key": "FDL_ABITZ_THOMAS_2026-11-10",
-   "name": "Thomas James Abitz",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping",
-   "more": 0,
-   "ts": 1794302157,
-   "photo": "photos/FDL_ABITZ_THOMAS_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MUDAY_MUSA_510231",
+   "name": "Musa Hassan Muday",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794374865,
+   "photo": null
+  },
+  {
+   "key": "MKE_WHITMAN_CAMARIUS_632619",
+   "name": "Camarius Dashawn Whitman",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794374861,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_RANDY_648237",
+   "name": "Randy T Johnson",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 2,
+   "ts": 1794374858,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOUDNIK_JESSICA_381362",
+   "name": "Jessica Lynn Boudnik",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794373062,
+   "photo": null
+  },
+  {
+   "key": "MKE_GUTIERREZ_SHIANN_645282",
+   "name": "Shiann M Gutierrez",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794373061,
+   "photo": null
+  },
+  {
+   "key": "KEN_DIAMOND_DONALD_2026-00006238",
+   "name": "Donald Louis Diamond",
+   "age": "76",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1794372974,
+   "photo": "photos/KEN_DIAMOND_DONALD_2026-00006238.jpg"
+  },
+  {
+   "key": "MAR_CLARK_TROY_2026-11-10_10262011",
+   "name": "Troy Dwayne Clark",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1St Degree Child Sexual Assault - Intercourse With Person Un",
+   "more": 0,
+   "ts": 1794372827,
+   "photo": "photos/MAR_CLARK_TROY_2026-11-10_10262011.jpg"
+  },
   {
    "key": "DELAGRAVE_CAPRICE_2026-11-10",
    "name": "Caprice B Delagrave",
@@ -581,8 +658,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Counterfeit Certificate Of Title",
+   "more": 1,
    "ts": 1794365706,
    "photo": null
   },
@@ -760,7 +837,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1794358662,
-   "photo": null
+   "photo": "photos/MKE_JONES_LENIEYA_625709.jpg"
   },
   {
    "key": "MKE_MICHELIC_MARK_2057232",
@@ -790,7 +867,7 @@
    "age": "50",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out Of County",
    "more": 0,
    "ts": 1794358498,
    "photo": "photos/KEN_WILLIAMS_ANTONETTE_2026-00006239.jpg"
@@ -801,8 +878,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1794358428,
    "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006240.jpg"
   },
@@ -1156,7 +1233,7 @@
    "charge": "Child Abuse-Recklessly Cause Great Harm",
    "more": 0,
    "ts": 1794340671,
-   "photo": null
+   "photo": "photos/MKE_LOPEZCAMPOS_EDWARD_644707.jpg"
   },
   {
    "key": "LANCASTER_COREY_2026-11-10",
@@ -5095,61 +5172,6 @@
    "more": 7,
    "ts": 1794116887,
    "photo": "photos/RC_ARANDA_MARGARITA_120011076048328.jpg"
-  },
-  {
-   "key": "MKE_MALLORY_MONTEZ_646008",
-   "name": "Montez D Mallory",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794115660,
-   "photo": "photos/MKE_MALLORY_MONTEZ_646008.jpg"
-  },
-  {
-   "key": "MKE_MOHAMEDSHOBI_SADIK_648198",
-   "name": "Sadik K Mohamed Shobi",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794115657,
-   "photo": "photos/MKE_MOHAMEDSHOBI_SADIK_648198.jpg"
-  },
-  {
-   "key": "MKE_PSKET_ROBERT_648199",
-   "name": "Robert M Psket",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 2,
-   "ts": 1794115655,
-   "photo": "photos/MKE_PSKET_ROBERT_648199.jpg"
-  },
-  {
-   "key": "FDL_LUNDE_ANGELA_2026-11-07",
-   "name": "Angela Jean Lunde",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "MISDEMEANOR BAIL JUMPING INTOXICATED (x2)",
-   "more": 0,
-   "ts": 1794114996,
-   "photo": "photos/FDL_LUNDE_ANGELA_2026-11-07.jpg"
-  },
-  {
-   "key": "MKE_RODRIGUEZGUZMAN_JOSE_648197",
-   "name": "Jose Jaime Rodriguez Guzman",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1794113878,
-   "photo": "photos/MKE_RODRIGUEZGUZMAN_JOSE_648197.jpg"
   }
  ]
 }
