@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-11T09:57:00+00:00",
+ "updated": "2026-11-11T10:23:14+00:00",
  "items": [
+  {
+   "key": "MKE_EVANS_TREVON_645964",
+   "name": "Trevon Evans",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794391080,
+   "photo": null
+  },
+  {
+   "key": "MKE_CANNADY_LAMAR_647334",
+   "name": "Lamar Vashaun Cannady",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794391078,
+   "photo": null
+  },
   {
    "key": "RC_HUJAR_MICHAEL_120011076158121",
    "name": "Michael Edward Hujar",
@@ -65,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794385676,
-   "photo": null
+   "photo": "photos/MKE_CARTER_DEMICO_378098.jpg"
   },
   {
    "key": "MKE_CROSS_EARNEST_648238",
@@ -76,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794385672,
-   "photo": null
+   "photo": "photos/MKE_CROSS_EARNEST_648238.jpg"
   },
   {
    "key": "MKE_RAMOS_GUILLERMO_648239",
@@ -87,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794385670,
-   "photo": null
+   "photo": "photos/MKE_RAMOS_GUILLERMO_648239.jpg"
   },
   {
    "key": "FDL_BAILLOD_MONICA_2026-11-11",
@@ -120,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794383858,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_MELVIN_635912.jpg"
   },
   {
    "key": "MAR_BURCHETT_SALINA_2026-11-10",
@@ -242,28 +264,6 @@
    "more": 1,
    "ts": 1794374865,
    "photo": "photos/MKE_MUDAY_MUSA_510231.jpg"
-  },
-  {
-   "key": "MKE_WHITMAN_CAMARIUS_632619",
-   "name": "Camarius Dashawn Whitman",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794374861,
-   "photo": "photos/MKE_WHITMAN_CAMARIUS_632619.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_RANDY_648237",
-   "name": "Randy T Johnson",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 2,
-   "ts": 1794374858,
-   "photo": "photos/MKE_JOHNSON_RANDY_648237.jpg"
   },
   {
    "key": "MAR_CLARK_TROY_2026-11-10_10262011",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_EVANS_TREVON_645964",
+   "name": "Trevon Evans",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794391080,
+   "photo": null
+  },
+  {
+   "key": "MKE_CANNADY_LAMAR_647334",
+   "name": "Lamar Vashaun Cannady",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794391078,
+   "photo": null
+  },
+  {
    "key": "RC_HUJAR_MICHAEL_120011076158121",
    "name": "Michael Edward Hujar",
    "age": "53",
@@ -595,7 +617,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794385676,
-   "photo": null
+   "photo": "photos/MKE_CARTER_DEMICO_378098.jpg"
   },
   {
    "key": "MKE_CROSS_EARNEST_648238",
@@ -606,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794385672,
-   "photo": null
+   "photo": "photos/MKE_CROSS_EARNEST_648238.jpg"
   },
   {
    "key": "MKE_RAMOS_GUILLERMO_648239",
@@ -617,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794385670,
-   "photo": null
+   "photo": "photos/MKE_RAMOS_GUILLERMO_648239.jpg"
   },
   {
    "key": "FDL_BAILLOD_MONICA_2026-11-11",
@@ -650,7 +672,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794383858,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_MELVIN_635912.jpg"
   },
   {
    "key": "MAR_BURCHETT_SALINA_2026-11-10",
@@ -5139,28 +5161,6 @@
    "more": 0,
    "ts": 1794134829,
    "photo": "photos/TREM_MARTINEZCASTILLO_AGUSTIN_6207.jpg"
-  },
-  {
-   "key": "DOU_RINAS_RYANN_2026-11-08",
-   "name": "Ryann R Rinas",
-   "age": "35",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794133030,
-   "photo": "photos/DOU_RINAS_RYANN_2026-11-08.jpg"
-  },
-  {
-   "key": "FDL_SEQUENSICAN_ALEXANDRO_2026-11-08",
-   "name": "Alexandro Sequen Sican",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Operate W/O Valid Licnse (2Nd Offense W/In 3 Years)",
-   "more": 0,
-   "ts": 1794133014,
-   "photo": "photos/FDL_SEQUENSICAN_ALEXANDRO_2026-11-08.jpg"
   }
  ]
 }
