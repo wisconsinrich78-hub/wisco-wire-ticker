@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T18:49:34+00:00",
+ "updated": "2026-11-11T18:56:04+00:00",
  "items": [
+  {
+   "key": "KEN_JOHNSON_NATHANIEL_2026-00006254",
+   "name": "Nathaniel Johnson",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794423272,
+   "photo": null
+  },
+  {
+   "key": "KEN_GERBER_JACOB_2026-00006253",
+   "name": "Jacob Gerber",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794423238,
+   "photo": null
+  },
+  {
+   "key": "MAR_BURNETT_WESLEY_2026-11-11",
+   "name": "Wesley Devon Burnett",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Manuf/Deliver Amphetamine(>10-50G)",
+   "more": 1,
+   "ts": 1794423226,
+   "photo": "photos/MAR_BURNETT_WESLEY_2026-11-11.jpg"
+  },
   {
    "key": "RC_SCHULTZ_CENTRAL_120011076173097",
    "name": "Central Sam Schultz",
@@ -21,7 +54,7 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1794422835,
-   "photo": null
+   "photo": "photos/FEIST_VOLANTE_2026-11-11.jpg"
   },
   {
    "key": "MKE_EDWARDS_DEREK_369020",
@@ -244,28 +277,6 @@
    "photo": "photos/RC_HOLMES_JERAD_120011076166450.jpg"
   },
   {
-   "key": "MKE_CHAPPELL_ANTON_398356",
-   "name": "Anton L Chappell",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794412737,
-   "photo": "photos/MKE_CHAPPELL_ANTON_398356.jpg"
-  },
-  {
-   "key": "MKE_BELL_RONDELL_625572",
-   "name": "Rondell Rufus Bell",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794412733,
-   "photo": null
-  },
-  {
    "key": "MAR_BARGANDER_MATTHEW_2026-11-11",
    "name": "Matthew D Bargander",
    "age": "42",
@@ -464,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "MAR_CLARK_TROY_2026-11-10_10262011",
-   "name": "Troy Dwayne Clark",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1St Degree Child Sexual Assault - Intercourse With Person Un",
-   "more": 0,
-   "ts": 1794372827,
-   "photo": "photos/MAR_CLARK_TROY_2026-11-10_10262011.jpg"
-  },
-  {
    "key": "DELAGRAVE_CAPRICE_2026-11-10",
    "name": "Caprice B Delagrave",
    "age": "34",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "KEN_JOHNSON_NATHANIEL_2026-00006254",
+   "name": "Nathaniel Johnson",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794423272,
+   "photo": null
+  },
+  {
+   "key": "KEN_GERBER_JACOB_2026-00006253",
+   "name": "Jacob Gerber",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794423238,
+   "photo": null
+  },
+  {
+   "key": "MAR_BURNETT_WESLEY_2026-11-11",
+   "name": "Wesley Devon Burnett",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Manuf/Deliver Amphetamine(>10-50G)",
+   "more": 1,
+   "ts": 1794423226,
+   "photo": "photos/MAR_BURNETT_WESLEY_2026-11-11.jpg"
+  },
+  {
    "key": "RC_SCHULTZ_CENTRAL_120011076173097",
    "name": "Central Sam Schultz",
    "age": "31",
@@ -551,7 +584,7 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1794422835,
-   "photo": null
+   "photo": "photos/FEIST_VOLANTE_2026-11-11.jpg"
   },
   {
    "key": "MKE_EDWARDS_DEREK_369020",
