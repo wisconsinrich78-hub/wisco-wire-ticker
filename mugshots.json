@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-11T18:08:47+00:00",
+ "updated": "2026-11-11T18:49:34+00:00",
  "items": [
+  {
+   "key": "RC_SCHULTZ_CENTRAL_120011076173097",
+   "name": "Central Sam Schultz",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794422887,
+   "photo": "photos/RC_SCHULTZ_CENTRAL_120011076173097.jpg"
+  },
+  {
+   "key": "FEIST_VOLANTE_2026-11-11",
+   "name": "Volante C Feist",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794422835,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_DEREK_369020",
+   "name": "Derek T Edwards",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794421688,
+   "photo": null
+  },
+  {
+   "key": "MKE_FLORES_NICKOLAS_416321",
+   "name": "Nickolas Dimitri Flores",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794421686,
+   "photo": null
+  },
+  {
+   "key": "DOU_FREEMAN_JAKE_2026-11-11",
+   "name": "Jake C Freeman",
+   "age": "39",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794421093,
+   "photo": "photos/DOU_FREEMAN_JAKE_2026-11-11.jpg"
+  },
   {
    "key": "MAR_ELLWART_LOUIS_2026-11-11",
    "name": "Louis Edward Ellwart",
@@ -233,17 +288,6 @@
    "photo": "photos/MAR_GIRARD_ADAM_2026-11-11.jpg"
   },
   {
-   "key": "MKE_LARSON_TEILOR_648244",
-   "name": "Teilor Marie Larson",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794410905,
-   "photo": null
-  },
-  {
    "key": "FDL_MANN_ALONZO_2026-11-11",
    "name": "Alonzo Maurice Mann",
    "age": "",
@@ -253,28 +297,6 @@
    "more": 1,
    "ts": 1794410244,
    "photo": "photos/FDL_MANN_ALONZO_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_SCONIERS_TIMOTHY_272023",
-   "name": "Timothy M Sconiers",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 2,
-   "ts": 1794407310,
-   "photo": null
-  },
-  {
-   "key": "MKE_SIMMONDS_CORNELIUS_648243",
-   "name": "Cornelius T Simmonds",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1794407304,
-   "photo": null
   },
   {
    "key": "ROEDEL_KATHLEEN_2026-11-11",
@@ -475,17 +497,6 @@
    "photo": null
   },
   {
-   "key": "MAR_VALENZUELAAGUILARA_ERIKA_2026-11-10",
-   "name": "Erika Isabel Valenzuela Aguilara",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Forgery",
-   "more": 1,
-   "ts": 1794365629,
-   "photo": null
-  },
-  {
    "key": "FDL_MORGANO_JOHN_2026-11-10",
    "name": "John Paul Morgano",
    "age": "",
@@ -517,20 +528,64 @@
    "more": 1,
    "ts": 1794360435,
    "photo": null
-  },
-  {
-   "key": "FDL_IHLENFELDT_JEANNE_2026-11-10",
-   "name": "Jeanne Marie Ihlenfeldt",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 5Th Or 6Th Offense Intoxicated",
-   "more": 1,
-   "ts": 1794356187,
-   "photo": "photos/FDL_IHLENFELDT_JEANNE_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_SCHULTZ_CENTRAL_120011076173097",
+   "name": "Central Sam Schultz",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794422887,
+   "photo": "photos/RC_SCHULTZ_CENTRAL_120011076173097.jpg"
+  },
+  {
+   "key": "FEIST_VOLANTE_2026-11-11",
+   "name": "Volante C Feist",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794422835,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_DEREK_369020",
+   "name": "Derek T Edwards",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794421688,
+   "photo": null
+  },
+  {
+   "key": "MKE_FLORES_NICKOLAS_416321",
+   "name": "Nickolas Dimitri Flores",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794421686,
+   "photo": null
+  },
+  {
+   "key": "DOU_FREEMAN_JAKE_2026-11-11",
+   "name": "Jake C Freeman",
+   "age": "39",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794421093,
+   "photo": "photos/DOU_FREEMAN_JAKE_2026-11-11.jpg"
+  },
   {
    "key": "MAR_ELLWART_LOUIS_2026-11-11",
    "name": "Louis Edward Ellwart",
@@ -771,7 +826,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794410905,
-   "photo": null
+   "photo": "photos/MKE_LARSON_TEILOR_648244.jpg"
   },
   {
    "key": "FDL_MANN_ALONZO_2026-11-11",
@@ -837,7 +892,7 @@
    "charge": "Charges Pending",
    "more": 10,
    "ts": 1794405501,
-   "photo": null
+   "photo": "photos/MKE_LUCKETT_EDDIE_364358.jpg"
   },
   {
    "key": "MKE_DERYA_ESAM_600211",
@@ -859,7 +914,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794401878,
-   "photo": null
+   "photo": "photos/MKE_ALIPATTERSON_SHAHEED_524235.jpg"
   },
   {
    "key": "KEN_MOFFETT_MELISCENT_2026-00006247",
@@ -900,10 +955,10 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery",
+   "charge": "Burglary-Building or Dwelling",
    "more": 1,
    "ts": 1794400071,
-   "photo": null
+   "photo": "photos/MKE_BEARCROWDER_JAYDEN_648241.jpg"
   },
   {
    "key": "MKE_BELLAMY_LEE_648242",
@@ -1035,7 +1090,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794391078,
-   "photo": null
+   "photo": "photos/MKE_CANNADY_LAMAR_647334.jpg"
   },
   {
    "key": "RC_HUJAR_MICHAEL_120011076158121",
@@ -5150,39 +5205,6 @@
    "more": 0,
    "ts": 1794167276,
    "photo": "photos/RC_COSEY_CHRISTOPHER_120011076060432.jpg"
-  },
-  {
-   "key": "RC_ZEITZ_ISAIAH_120011076059822",
-   "name": "Isaiah Zeitz",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Hit And Run-Involve Injury",
-   "more": 1,
-   "ts": 1794163673,
-   "photo": null
-  },
-  {
-   "key": "LITTLEJOHN_ASHLEY_2026-11-08",
-   "name": "Ashley A Littlejohn",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794163632,
-   "photo": "photos/LITTLEJOHN_ASHLEY_2026-11-08.jpg"
-  },
-  {
-   "key": "SARVER_RHETT_2026-11-08",
-   "name": "Rhett A Sarver",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794162420,
-   "photo": null
   }
  ]
 }
