@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-11T14:05:56+00:00",
+ "updated": "2026-11-11T14:49:37+00:00",
  "items": [
+  {
+   "key": "MKE_SCONIERS_TIMOTHY_272023",
+   "name": "Timothy M Sconiers",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 2,
+   "ts": 1794407310,
+   "photo": null
+  },
+  {
+   "key": "MKE_SIMMONDS_CORNELIUS_648243",
+   "name": "Cornelius T Simmonds",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1794407304,
+   "photo": null
+  },
+  {
+   "key": "ROEDEL_KATHLEEN_2026-11-11",
+   "name": "Kathleen B Roedel",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794407232,
+   "photo": null
+  },
+  {
+   "key": "FDL_BETANCO_LEONEL_2026-11-11",
+   "name": "Leonel Steven Betanco",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 4,
+   "ts": 1794406599,
+   "photo": "photos/FDL_BETANCO_LEONEL_2026-11-11.jpg"
+  },
   {
    "key": "MKE_LUCKETT_EDDIE_364358",
    "name": "Eddie Lee Luckett",
@@ -87,7 +131,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1794400068,
-   "photo": null
+   "photo": "photos/MKE_BELLAMY_LEE_648242.jpg"
   },
   {
    "key": "DOU_CUMMINGS_JOHN_2026-11-11",
@@ -209,28 +253,6 @@
    "more": 3,
    "ts": 1794391078,
    "photo": null
-  },
-  {
-   "key": "RC_HUJAR_MICHAEL_120011076158121",
-   "name": "Michael Edward Hujar",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 4,
-   "ts": 1794390644,
-   "photo": "photos/RC_HUJAR_MICHAEL_120011076158121.jpg"
-  },
-  {
-   "key": "MKE_EAST_TREVON_392481",
-   "name": "Trevon Equan East",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1794389293,
-   "photo": "photos/MKE_EAST_TREVON_392481.jpg"
   },
   {
    "key": "MAR_BELL_QUANTEZ_2026-11-11_762002",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794338524,
    "photo": null
-  },
-  {
-   "key": "MAR_KRUMWIEDE_JASON_2026-11-10_15763404",
-   "name": "Jason Allen Krumwiede",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794336793,
-   "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10_15763404.jpg"
-  },
-  {
-   "key": "FDL_SCROGGINS_JOSEPH_2026-11-10",
-   "name": "Joseph C Scroggins",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Detainer",
-   "more": 0,
-   "ts": 1794334630,
-   "photo": "photos/FDL_SCROGGINS_JOSEPH_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SCONIERS_TIMOTHY_272023",
+   "name": "Timothy M Sconiers",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 2,
+   "ts": 1794407310,
+   "photo": null
+  },
+  {
+   "key": "MKE_SIMMONDS_CORNELIUS_648243",
+   "name": "Cornelius T Simmonds",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1794407304,
+   "photo": null
+  },
+  {
+   "key": "ROEDEL_KATHLEEN_2026-11-11",
+   "name": "Kathleen B Roedel",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794407232,
+   "photo": null
+  },
+  {
+   "key": "FDL_BETANCO_LEONEL_2026-11-11",
+   "name": "Leonel Steven Betanco",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure To Appear / Warrants",
+   "more": 4,
+   "ts": 1794406599,
+   "photo": "photos/FDL_BETANCO_LEONEL_2026-11-11.jpg"
+  },
   {
    "key": "MKE_LUCKETT_EDDIE_364358",
    "name": "Eddie Lee Luckett",
@@ -617,7 +661,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1794400068,
-   "photo": null
+   "photo": "photos/MKE_BELLAMY_LEE_648242.jpg"
   },
   {
    "key": "DOU_CUMMINGS_JOHN_2026-11-11",
@@ -5040,61 +5084,6 @@
    "more": 1,
    "ts": 1794149633,
    "photo": "photos/MAR_PIERCE_SKYILAR_2026-11-07_12710801.jpg"
-  },
-  {
-   "key": "RC_RAY_DEVION_120011076055974",
-   "name": "Devion D Ray",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794149271,
-   "photo": "photos/RC_RAY_DEVION_120011076055974.jpg"
-  },
-  {
-   "key": "STEVENS_KENNEDY_2026-11-08",
-   "name": "Kennedy M Stevens",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 1,
-   "ts": 1794149231,
-   "photo": null
-  },
-  {
-   "key": "MKE_WINSTON_PIERRE_639841",
-   "name": "Pierre Cardin Winston",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794148048,
-   "photo": "photos/MKE_WINSTON_PIERRE_639841.jpg"
-  },
-  {
-   "key": "NELSON_JASON_2026-11-08",
-   "name": "Jason F Nelson",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794148021,
-   "photo": null
-  },
-  {
-   "key": "DOU_KOSKI_AMANDA_2026-11-08",
-   "name": "Amanda J Koski",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794147436,
-   "photo": null
   }
  ]
 }
