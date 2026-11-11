@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-11T22:00:50+00:00",
+ "updated": "2026-11-11T22:49:46+00:00",
  "items": [
+  {
+   "key": "RC_WILLIAMS_PRENTICE_120011076183270",
+   "name": "Prentice Antjuan Williams",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Take and Drive Vehicle Without Owner's Consent",
+   "more": 1,
+   "ts": 1794437286,
+   "photo": "photos/RC_WILLIAMS_PRENTICE_120011076183270.jpg"
+  },
+  {
+   "key": "MAR_ELLWART_LOUIS_2026-11-11_15005103",
+   "name": "Louis Edward Ellwart",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794436995,
+   "photo": "photos/MAR_ELLWART_LOUIS_2026-11-11_15005103.jpg"
+  },
+  {
+   "key": "MAR_BUCKLER_RYAN_2026-11-11",
+   "name": "Ryan Ray Allen Buckler",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794436958,
+   "photo": "photos/MAR_BUCKLER_RYAN_2026-11-11.jpg"
+  },
+  {
+   "key": "MAR_BLOODSON_LANA_2026-11-11",
+   "name": "Lana Tiara Bloodson",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1794436922,
+   "photo": "photos/MAR_BLOODSON_LANA_2026-11-11.jpg"
+  },
+  {
+   "key": "MAR_COMSTOCK_JAMES_2026-11-11",
+   "name": "James A Comstock",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "3Rd Degree Sexual Assault",
+   "more": 3,
+   "ts": 1794436886,
+   "photo": "photos/MAR_COMSTOCK_JAMES_2026-11-11.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_LONDON_602789",
    "name": "London G Williams",
@@ -11,17 +66,6 @@
    "more": 10,
    "ts": 1794434312,
    "photo": null
-  },
-  {
-   "key": "MAR_COMSTOCK_JAMES_2026-11-11",
-   "name": "James A Comstock",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "3Rd Degree Sexual Assault",
-   "more": 3,
-   "ts": 1794434058,
-   "photo": "photos/MAR_COMSTOCK_JAMES_2026-11-11.jpg"
   },
   {
    "key": "MKE_JOHNSON_MACK_641698",
@@ -233,17 +277,6 @@
    "photo": "photos/RC_ANDERSON_ORLANDO_120011076175579.jpg"
   },
   {
-   "key": "RC_CAIN_ZARIONNA_120011076175730",
-   "name": "Zarionna N Cain",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794426491,
-   "photo": null
-  },
-  {
    "key": "DOU_KING_ROBERT_2026-11-11",
    "name": "Robert A King",
    "age": "59",
@@ -409,28 +442,6 @@
    "photo": "photos/FDL_BETANCO_LEONEL_2026-11-11.jpg"
   },
   {
-   "key": "DOU_CUMMINGS_JOHN_2026-11-11",
-   "name": "John M Cummings",
-   "age": "47",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794399468,
-   "photo": "photos/DOU_CUMMINGS_JOHN_2026-11-11.jpg"
-  },
-  {
-   "key": "MAR_MACDONALD_MATTHEW_2026-11-10_1618903",
-   "name": "Matthew Brian Macdonald",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794398007,
-   "photo": "photos/MAR_MACDONALD_MATTHEW_2026-11-10_1618903.jpg"
-  },
-  {
    "key": "TREM_OLSON_MEGAN_4177",
    "name": "Megan Ann Olson",
    "age": "41",
@@ -462,17 +473,6 @@
    "more": 1,
    "ts": 1794394050,
    "photo": "photos/TREM_LEARY_TODD_6211.jpg"
-  },
-  {
-   "key": "MAR_BELL_QUANTEZ_2026-11-11_762002",
-   "name": "Quantez D Bell",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794387213,
-   "photo": "photos/MAR_BELL_QUANTEZ_2026-11-11_762002.jpg"
   },
   {
    "key": "FDL_BAILLOD_MONICA_2026-11-11",
@@ -532,15 +532,48 @@
  ],
  "all_items": [
   {
-   "key": "MKE_WILLIAMS_LONDON_602789",
-   "name": "London G Williams",
-   "age": "26",
-   "county": "Milwaukee County",
+   "key": "RC_WILLIAMS_PRENTICE_120011076183270",
+   "name": "Prentice Antjuan Williams",
+   "age": "46",
+   "county": "Racine County",
    "region": "southeast",
-   "charge": "Abandonment of a Child",
-   "more": 10,
-   "ts": 1794434312,
-   "photo": null
+   "charge": "Take and Drive Vehicle Without Owner's Consent",
+   "more": 1,
+   "ts": 1794437286,
+   "photo": "photos/RC_WILLIAMS_PRENTICE_120011076183270.jpg"
+  },
+  {
+   "key": "MAR_ELLWART_LOUIS_2026-11-11_15005103",
+   "name": "Louis Edward Ellwart",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794436995,
+   "photo": "photos/MAR_ELLWART_LOUIS_2026-11-11_15005103.jpg"
+  },
+  {
+   "key": "MAR_BUCKLER_RYAN_2026-11-11",
+   "name": "Ryan Ray Allen Buckler",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794436958,
+   "photo": "photos/MAR_BUCKLER_RYAN_2026-11-11.jpg"
+  },
+  {
+   "key": "MAR_BLOODSON_LANA_2026-11-11",
+   "name": "Lana Tiara Bloodson",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1794436922,
+   "photo": "photos/MAR_BLOODSON_LANA_2026-11-11.jpg"
   },
   {
    "key": "MAR_COMSTOCK_JAMES_2026-11-11",
@@ -550,8 +583,19 @@
    "region": "northwest",
    "charge": "3Rd Degree Sexual Assault",
    "more": 3,
-   "ts": 1794434058,
+   "ts": 1794436886,
    "photo": "photos/MAR_COMSTOCK_JAMES_2026-11-11.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_LONDON_602789",
+   "name": "London G Williams",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Abandonment of a Child",
+   "more": 10,
+   "ts": 1794434312,
+   "photo": null
   },
   {
    "key": "MKE_JOHNSON_MACK_641698",
