@@ -1,13 +1,68 @@
 {
- "updated": "2026-11-11T20:12:52+00:00",
+ "updated": "2026-11-11T20:49:52+00:00",
  "items": [
+  {
+   "key": "RC_BOONE_CHRISTOPHER_120011076177581",
+   "name": "Christopher Cody Boone",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794430089,
+   "photo": "photos/RC_BOONE_CHRISTOPHER_120011076177581.jpg"
+  },
+  {
+   "key": "RC_TIRADO_JUAN_120011076178898",
+   "name": "Juan Antonio Tirado",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794430086,
+   "photo": "photos/RC_TIRADO_JUAN_120011076178898.jpg"
+  },
+  {
+   "key": "WILLIAMS_JERRY_2026-11-11",
+   "name": "Jerry Bryson Marcell Williams",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Extradition",
+   "more": 1,
+   "ts": 1794430032,
+   "photo": null
+  },
+  {
+   "key": "MKE_FIFE_TYRESE_288190",
+   "name": "Tyrese Dula Fife",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Trafficking of a Child",
+   "more": 0,
+   "ts": 1794428916,
+   "photo": null
+  },
+  {
+   "key": "MKE_ATKINS_LEONZELL_634425",
+   "name": "Leonzell Antwone Atkins",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794428913,
+   "photo": null
+  },
   {
    "key": "MKE_GODBOLT_DAVID_243810",
    "name": "David Allen Godbolt",
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Charges Pending",
    "more": 12,
    "ts": 1794427087,
    "photo": null
@@ -18,10 +73,10 @@
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Criminal Damage to Utility\u2019s Property",
    "more": 0,
    "ts": 1794427084,
-   "photo": null
+   "photo": "photos/MKE_BENTZ_KENNETH_638441.jpg"
   },
   {
    "key": "MAR_BURNETT_WESLEY_2026-11-11_8187006",
@@ -129,7 +184,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 0,
    "ts": 1794423530,
    "photo": null
   },
@@ -167,17 +222,6 @@
    "photo": "photos/MAR_BURNETT_WESLEY_2026-11-11.jpg"
   },
   {
-   "key": "RC_SCHULTZ_CENTRAL_120011076173097",
-   "name": "Central Sam Schultz",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794422887,
-   "photo": "photos/RC_SCHULTZ_CENTRAL_120011076173097.jpg"
-  },
-  {
    "key": "FEIST_VOLANTE_2026-11-11",
    "name": "Volante C Feist",
    "age": "36",
@@ -187,28 +231,6 @@
    "more": 0,
    "ts": 1794422835,
    "photo": "photos/FEIST_VOLANTE_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_EDWARDS_DEREK_369020",
-   "name": "Derek T Edwards",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794421688,
-   "photo": null
-  },
-  {
-   "key": "MKE_FLORES_NICKOLAS_416321",
-   "name": "Nickolas Dimitri Flores",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794421686,
-   "photo": null
   },
   {
    "key": "DOU_FREEMAN_JAKE_2026-11-11",
@@ -242,17 +264,6 @@
    "more": 0,
    "ts": 1794419654,
    "photo": "photos/MAR_NIZINSKI_CHRISTOPHER_2026-11-11.jpg"
-  },
-  {
-   "key": "RC_FIRST_AKEEM_120011076171023",
-   "name": "Akeem Waymone First",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794419316,
-   "photo": "photos/RC_FIRST_AKEEM_120011076171023.jpg"
   },
   {
    "key": "BINGHAM_DYLAN_2026-11-11",
@@ -517,27 +528,71 @@
    "more": 2,
    "ts": 1794361628,
    "photo": null
-  },
-  {
-   "key": "KELEMEN_JOHN_2026-11-10",
-   "name": "John G Kelemen",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Theft - Misdemeanor",
-   "more": 1,
-   "ts": 1794360435,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BOONE_CHRISTOPHER_120011076177581",
+   "name": "Christopher Cody Boone",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794430089,
+   "photo": "photos/RC_BOONE_CHRISTOPHER_120011076177581.jpg"
+  },
+  {
+   "key": "RC_TIRADO_JUAN_120011076178898",
+   "name": "Juan Antonio Tirado",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794430086,
+   "photo": "photos/RC_TIRADO_JUAN_120011076178898.jpg"
+  },
+  {
+   "key": "WILLIAMS_JERRY_2026-11-11",
+   "name": "Jerry Bryson Marcell Williams",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Extradition",
+   "more": 1,
+   "ts": 1794430032,
+   "photo": null
+  },
+  {
+   "key": "MKE_FIFE_TYRESE_288190",
+   "name": "Tyrese Dula Fife",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Trafficking of a Child",
+   "more": 0,
+   "ts": 1794428916,
+   "photo": null
+  },
+  {
+   "key": "MKE_ATKINS_LEONZELL_634425",
+   "name": "Leonzell Antwone Atkins",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794428913,
+   "photo": null
+  },
   {
    "key": "MKE_GODBOLT_DAVID_243810",
    "name": "David Allen Godbolt",
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Charges Pending",
    "more": 12,
    "ts": 1794427087,
    "photo": null
@@ -548,10 +603,10 @@
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Criminal Damage to Utility\u2019s Property",
    "more": 0,
    "ts": 1794427084,
-   "photo": null
+   "photo": "photos/MKE_BENTZ_KENNETH_638441.jpg"
   },
   {
    "key": "MAR_BURNETT_WESLEY_2026-11-11_8187006",
@@ -659,7 +714,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 0,
    "ts": 1794423530,
    "photo": null
   },
@@ -812,8 +867,8 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Narcotic Drugs",
+   "more": 1,
    "ts": 1794418089,
    "photo": null
   },
@@ -5304,28 +5359,6 @@
    "more": 0,
    "ts": 1794173265,
    "photo": "photos/MKE_ARRIGONI_HENRY_648206.jpg"
-  },
-  {
-   "key": "MKE_ANDERSON_DEMETRIUS_295374",
-   "name": "Demetrius Daniel Anderson",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794169667,
-   "photo": "photos/MKE_ANDERSON_DEMETRIUS_295374.jpg"
-  },
-  {
-   "key": "REDMOND_LEE_2026-11-08",
-   "name": "Lee H Redmond",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Negligent Handling Of Burning Material",
-   "more": 1,
-   "ts": 1794169623,
-   "photo": "photos/REDMOND_LEE_2026-11-08.jpg"
   }
  ]
 }
