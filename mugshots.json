@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T12:55:10+00:00",
+ "updated": "2026-11-11T13:49:38+00:00",
  "items": [
+  {
+   "key": "MKE_ALIPATTERSON_SHAHEED_524235",
+   "name": "Shaheed Mikal Ali-Patterson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794401878,
+   "photo": null
+  },
   {
    "key": "KEN_MOFFETT_MELISCENT_2026-00006247",
    "name": "Meliscent Ng Moffett",
@@ -231,17 +242,6 @@
    "more": 1,
    "ts": 1794386911,
    "photo": "photos/RC_MOSLEY_ALAYSIA_120011076156871.jpg"
-  },
-  {
-   "key": "MKE_CARTER_DEMICO_378098",
-   "name": "Demico Rayshon Carter",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794385676,
-   "photo": "photos/MKE_CARTER_DEMICO_378098.jpg"
   },
   {
    "key": "FDL_BAILLOD_MONICA_2026-11-11",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ALIPATTERSON_SHAHEED_524235",
+   "name": "Shaheed Mikal Ali-Patterson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794401878,
+   "photo": null
+  },
   {
    "key": "KEN_MOFFETT_MELISCENT_2026-00006247",
    "name": "Meliscent Ng Moffett",
@@ -5062,28 +5073,6 @@
    "more": 1,
    "ts": 1794147436,
    "photo": null
-  },
-  {
-   "key": "FDL_JOHNSON_CHRISTOPHER_2026-11-08",
-   "name": "Christopher Patrick Johnson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Pac - 2Nd Offense",
-   "more": 0,
-   "ts": 1794143790,
-   "photo": "photos/FDL_JOHNSON_CHRISTOPHER_2026-11-08.jpg"
-  },
-  {
-   "key": "KEN_FLOWERS_SHEENA_2026-00006178",
-   "name": "Sheena Flowers",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Obstruct Or Interfere With Fire Or Police Department",
-   "more": 1,
-   "ts": 1794142539,
-   "photo": "photos/KEN_FLOWERS_SHEENA_2026-00006178.jpg"
   }
  ]
 }
