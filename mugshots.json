@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-11T00:49:33+00:00",
+ "updated": "2026-11-11T01:08:45+00:00",
  "items": [
+  {
+   "key": "MKE_PARKER_JEFFREY_305163",
+   "name": "Jeffrey Todd Parker",
+   "age": "61",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 1,
+   "ts": 1794358666,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOWIE_SYAIR_616404",
+   "name": "Syair Imoni Bowie",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "3rd Degree Sexual Assault - Sexual Contact - Complainant Bodily Fluids",
+   "more": 1,
+   "ts": 1794358664,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_LENIEYA_625709",
+   "name": "Lenieya Michelle Jones",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1794358662,
+   "photo": null
+  },
+  {
+   "key": "MKE_MICHELIC_MARK_2057232",
+   "name": "Mark L Michelic",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1794358660,
+   "photo": null
+  },
+  {
+   "key": "MKE_CURRY_ANDRA_2062865",
+   "name": "Andra Deshawn Curry",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 14,
+   "ts": 1794358658,
+   "photo": null
+  },
+  {
+   "key": "KEN_WILLIAMS_ANTONETTE_2026-00006239",
+   "name": "Antonette Ann Williams",
+   "age": "50",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794358498,
+   "photo": "photos/KEN_WILLIAMS_ANTONETTE_2026-00006239.jpg"
+  },
+  {
+   "key": "KEN_HENDRICKSON_CODY_2026-00006240",
+   "name": "Cody Christopher Hendrickson",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794358428,
+   "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006240.jpg"
+  },
   {
    "key": "MKE_BROWN_ANTHONY_355731",
    "name": "Anthony Martez Brown",
@@ -145,50 +222,6 @@
    "photo": null
   },
   {
-   "key": "RC_FARRINGTON_KEISHA_120011076142075",
-   "name": "Keisha Marie Farrington",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794347272,
-   "photo": "photos/RC_FARRINGTON_KEISHA_120011076142075.jpg"
-  },
-  {
-   "key": "RC_LEE_IESHA_120011076143034",
-   "name": "Iesha L Lee",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794347269,
-   "photo": "photos/RC_LEE_IESHA_120011076143034.jpg"
-  },
-  {
-   "key": "RC_HARRIS_NARIAH_120011076143099",
-   "name": "Nariah N Harris",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794347267,
-   "photo": "photos/RC_HARRIS_NARIAH_120011076143099.jpg"
-  },
-  {
-   "key": "RC_ROBINSON_JAMALL_120011076143502",
-   "name": "Jamall Amear Robinson",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794347264,
-   "photo": "photos/RC_ROBINSON_JAMALL_120011076143502.jpg"
-  },
-  {
    "key": "DOU_LAGREW_DAVID_2026-11-10",
    "name": "David R Lagrew",
    "age": "34",
@@ -200,17 +233,6 @@
    "photo": "photos/DOU_LAGREW_DAVID_2026-11-10.jpg"
   },
   {
-   "key": "KEN_CAMARGOBELTRAN_ALERSON_2026-00006234",
-   "name": "Alerson Camargo-Beltran",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "1St Degree Reckless Endangering Safety",
-   "more": 2,
-   "ts": 1794344028,
-   "photo": null
-  },
-  {
    "key": "MAR_CLARK_TROY_2026-11-10",
    "name": "Troy Dwayne Clark",
    "age": "49",
@@ -220,28 +242,6 @@
    "more": 0,
    "ts": 1794344004,
    "photo": "photos/MAR_CLARK_TROY_2026-11-10.jpg"
-  },
-  {
-   "key": "RC_CRONIN_KEALON_120011076139705",
-   "name": "Kealon J Cronin",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794343690,
-   "photo": "photos/RC_CRONIN_KEALON_120011076139705.jpg"
-  },
-  {
-   "key": "RC_WILBUR_ALONZO_120011076139827",
-   "name": "Alonzo Blake Wilbur",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794343688,
-   "photo": "photos/RC_WILBUR_ALONZO_120011076139827.jpg"
   },
   {
    "key": "LANCASTER_COREY_2026-11-10",
@@ -531,6 +531,83 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_PARKER_JEFFREY_305163",
+   "name": "Jeffrey Todd Parker",
+   "age": "61",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 1,
+   "ts": 1794358666,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOWIE_SYAIR_616404",
+   "name": "Syair Imoni Bowie",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "3rd Degree Sexual Assault - Sexual Contact - Complainant Bodily Fluids",
+   "more": 1,
+   "ts": 1794358664,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_LENIEYA_625709",
+   "name": "Lenieya Michelle Jones",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1794358662,
+   "photo": null
+  },
+  {
+   "key": "MKE_MICHELIC_MARK_2057232",
+   "name": "Mark L Michelic",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1794358660,
+   "photo": null
+  },
+  {
+   "key": "MKE_CURRY_ANDRA_2062865",
+   "name": "Andra Deshawn Curry",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 14,
+   "ts": 1794358658,
+   "photo": null
+  },
+  {
+   "key": "KEN_WILLIAMS_ANTONETTE_2026-00006239",
+   "name": "Antonette Ann Williams",
+   "age": "50",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794358498,
+   "photo": "photos/KEN_WILLIAMS_ANTONETTE_2026-00006239.jpg"
+  },
+  {
+   "key": "KEN_HENDRICKSON_CODY_2026-00006240",
+   "name": "Cody Christopher Hendrickson",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794358428,
+   "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006240.jpg"
+  },
   {
    "key": "MKE_BROWN_ANTHONY_355731",
    "name": "Anthony Martez Brown",
@@ -1035,7 +1112,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 1,
    "ts": 1794331657,
-   "photo": null
+   "photo": "photos/MKE_WHITTSEY_ALEXIS_359257.jpg"
   },
   {
    "key": "KEN_ONEAL_JULIE_2026-00006225",
@@ -1208,7 +1285,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 5,
    "ts": 1794320879,
    "photo": null
@@ -4985,17 +5062,6 @@
    "more": 0,
    "ts": 1794102430,
    "photo": null
-  },
-  {
-   "key": "MKE_BRUNETTE_PIERRE_330133",
-   "name": "Pierre Michael Brunette",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794099482,
-   "photo": "photos/MKE_BRUNETTE_PIERRE_330133.jpg"
   }
  ]
 }
