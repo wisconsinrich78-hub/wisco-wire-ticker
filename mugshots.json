@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-11T01:30:14+00:00",
+ "updated": "2026-11-11T01:48:07+00:00",
  "items": [
+  {
+   "key": "RC_GRANT_JEANINE_120011076149995",
+   "name": "Jeanine Grant",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794361673,
+   "photo": "photos/RC_GRANT_JEANINE_120011076149995.jpg"
+  },
+  {
+   "key": "PRICE_ALBERT_2026-11-10",
+   "name": "Albert K Price",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Intimidate Victim/Dissuade Reporting",
+   "more": 2,
+   "ts": 1794361628,
+   "photo": null
+  },
   {
    "key": "KELEMEN_JOHN_2026-11-10",
    "name": "John G Kelemen",
@@ -219,17 +241,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794347867,
-   "photo": null
-  },
-  {
-   "key": "MKE_NORD_ANTHONY_421368",
-   "name": "Anthony Dushun Nord",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794347865,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 3,
    "ts": 1794293437,
    "photo": "photos/MAR_DOYLE_DAVID_2026-11-09.jpg"
-  },
-  {
-   "key": "MAR_REED_GLENN_2026-11-09",
-   "name": "Glenn Allen Reed",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Methamphetamine",
-   "more": 4,
-   "ts": 1794293391,
-   "photo": "photos/MAR_REED_GLENN_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GRANT_JEANINE_120011076149995",
+   "name": "Jeanine Grant",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794361673,
+   "photo": "photos/RC_GRANT_JEANINE_120011076149995.jpg"
+  },
+  {
+   "key": "PRICE_ALBERT_2026-11-10",
+   "name": "Albert K Price",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Intimidate Victim/Dissuade Reporting",
+   "more": 2,
+   "ts": 1794361628,
+   "photo": null
+  },
   {
    "key": "KELEMEN_JOHN_2026-11-10",
    "name": "John G Kelemen",
@@ -5040,39 +5062,6 @@
    "more": 1,
    "ts": 1794102839,
    "photo": "photos/MAR_WISKOWSKI_MATTHEW_2026-11-07.jpg"
-  },
-  {
-   "key": "RC_FLUETTE_JEFFREY_120011076044707",
-   "name": "Jeffrey Kurt Fluette",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1794102474,
-   "photo": "photos/RC_FLUETTE_JEFFREY_120011076044707.jpg"
-  },
-  {
-   "key": "RC_MEEKS_ORLANDO_120011076045279",
-   "name": "Orlando Marcell Meeks",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794102471,
-   "photo": "photos/RC_MEEKS_ORLANDO_120011076045279.jpg"
-  },
-  {
-   "key": "BERRYMAN_KATHY_2026-11-07",
-   "name": "Kathy J Berryman",
-   "age": "52",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794102430,
-   "photo": null
   }
  ]
 }
