@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T16:05:47+00:00",
+ "updated": "2026-11-11T16:49:32+00:00",
  "items": [
+  {
+   "key": "RC_VOIGT_BRANDAN_120011076164430",
+   "name": "Brandan Steven Voigt",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415715,
+   "photo": "photos/RC_VOIGT_BRANDAN_120011076164430.jpg"
+  },
+  {
+   "key": "RC_SANDERS_MARTINI_120011076166408",
+   "name": "Martini Andre Sanders",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415712,
+   "photo": "photos/RC_SANDERS_MARTINI_120011076166408.jpg"
+  },
+  {
+   "key": "RC_HOLMES_JERAD_120011076166450",
+   "name": "Jerad L Holmes",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415707,
+   "photo": "photos/RC_HOLMES_JERAD_120011076166450.jpg"
+  },
   {
    "key": "MKE_CHAPPELL_ANTON_398356",
    "name": "Anton L Chappell",
@@ -10,7 +43,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794412737,
-   "photo": null
+   "photo": "photos/MKE_CHAPPELL_ANTON_398356.jpg"
   },
   {
    "key": "MKE_BELL_RONDELL_625572",
@@ -44,39 +77,6 @@
    "more": 1,
    "ts": 1794412415,
    "photo": "photos/MAR_GIRARD_ADAM_2026-11-11.jpg"
-  },
-  {
-   "key": "RC_VOIGT_BRANDAN_120011076164430",
-   "name": "Brandan Steven Voigt",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794412109,
-   "photo": "photos/RC_VOIGT_BRANDAN_120011076164430.jpg"
-  },
-  {
-   "key": "RC_SANDERS_MARTINI_120011076166408",
-   "name": "Martini Andre Sanders",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794412106,
-   "photo": "photos/RC_SANDERS_MARTINI_120011076166408.jpg"
-  },
-  {
-   "key": "RC_HOLMES_JERAD_120011076166450",
-   "name": "Jerad L Holmes",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794412102,
-   "photo": "photos/RC_HOLMES_JERAD_120011076166450.jpg"
   },
   {
    "key": "MKE_LARSON_TEILOR_648244",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "RC_VOIGT_BRANDAN_120011076164430",
+   "name": "Brandan Steven Voigt",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415715,
+   "photo": "photos/RC_VOIGT_BRANDAN_120011076164430.jpg"
+  },
+  {
+   "key": "RC_SANDERS_MARTINI_120011076166408",
+   "name": "Martini Andre Sanders",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415712,
+   "photo": "photos/RC_SANDERS_MARTINI_120011076166408.jpg"
+  },
+  {
+   "key": "RC_HOLMES_JERAD_120011076166450",
+   "name": "Jerad L Holmes",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415707,
+   "photo": "photos/RC_HOLMES_JERAD_120011076166450.jpg"
+  },
+  {
    "key": "MKE_CHAPPELL_ANTON_398356",
    "name": "Anton L Chappell",
    "age": "33",
@@ -540,7 +573,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794412737,
-   "photo": null
+   "photo": "photos/MKE_CHAPPELL_ANTON_398356.jpg"
   },
   {
    "key": "MKE_BELL_RONDELL_625572",
@@ -574,39 +607,6 @@
    "more": 1,
    "ts": 1794412415,
    "photo": "photos/MAR_GIRARD_ADAM_2026-11-11.jpg"
-  },
-  {
-   "key": "RC_VOIGT_BRANDAN_120011076164430",
-   "name": "Brandan Steven Voigt",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794412109,
-   "photo": "photos/RC_VOIGT_BRANDAN_120011076164430.jpg"
-  },
-  {
-   "key": "RC_SANDERS_MARTINI_120011076166408",
-   "name": "Martini Andre Sanders",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794412106,
-   "photo": "photos/RC_SANDERS_MARTINI_120011076166408.jpg"
-  },
-  {
-   "key": "RC_HOLMES_JERAD_120011076166450",
-   "name": "Jerad L Holmes",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794412102,
-   "photo": "photos/RC_HOLMES_JERAD_120011076166450.jpg"
   },
   {
    "key": "MKE_LARSON_TEILOR_648244",
@@ -5083,17 +5083,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794157030,
-   "photo": null
-  },
-  {
-   "key": "MELDE_ETHAN_2026-11-08",
-   "name": "Ethan Daniel Melde",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under The Influence(2Nd)",
-   "more": 0,
-   "ts": 1794155236,
    "photo": null
   }
  ]
