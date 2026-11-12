@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T10:34:31+00:00",
+ "updated": "2026-11-12T10:50:05+00:00",
  "items": [
+  {
+   "key": "RC_MORALES_ALYSSA_120011076197337",
+   "name": "Alyssa Marie Morales",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794480463,
+   "photo": "photos/RC_MORALES_ALYSSA_120011076197337.jpg"
+  },
+  {
+   "key": "RC_NAVARETTE_JESUS_120011076197418",
+   "name": "Jesus Navarette",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794480461,
+   "photo": null
+  },
   {
    "key": "MKE_PEGUES_DAMION_504266",
    "name": "Damion Raynard Pegues",
@@ -222,17 +244,6 @@
    "photo": "photos/MKE_FOX_DEVIN_648250.jpg"
   },
   {
-   "key": "KEN_STANLEY_ROGER_2026-00006267",
-   "name": "ROGER WILLIAM Third STANLEY",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 1,
-   "ts": 1794466496,
-   "photo": "photos/KEN_STANLEY_ROGER_2026-00006267.jpg"
-  },
-  {
    "key": "VUE_BLONG_2026-11-12",
    "name": "Blong Vue",
    "age": "41",
@@ -253,17 +264,6 @@
    "more": 5,
    "ts": 1794464241,
    "photo": "photos/DOU_SMITH_MARIA_2026-11-11.jpg"
-  },
-  {
-   "key": "KEN_ARRINGTON_DUANE_2026-00006266",
-   "name": "Duane Arrington",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794462998,
-   "photo": "photos/KEN_ARRINGTON_DUANE_2026-00006266.jpg"
   },
   {
    "key": "BAUM_JESSE_2026-11-11",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MORALES_ALYSSA_120011076197337",
+   "name": "Alyssa Marie Morales",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794480463,
+   "photo": "photos/RC_MORALES_ALYSSA_120011076197337.jpg"
+  },
+  {
+   "key": "RC_NAVARETTE_JESUS_120011076197418",
+   "name": "Jesus Navarette",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794480461,
+   "photo": null
+  },
   {
    "key": "MKE_PEGUES_DAMION_504266",
    "name": "Damion Raynard Pegues",
