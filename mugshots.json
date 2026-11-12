@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T22:06:39+00:00",
+ "updated": "2026-11-12T22:28:46+00:00",
  "items": [
+  {
+   "key": "RADDE_CORTELL_2026-11-12",
+   "name": "Cortell B Radde",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1794522425,
+   "photo": null
+  },
   {
    "key": "MKE_AVENDALLO_MARCELINO_334846",
    "name": "Marcelino Avendallo",
@@ -517,20 +528,20 @@
    "more": 5,
    "ts": 1794464241,
    "photo": "photos/DOU_SMITH_MARIA_2026-11-11.jpg"
-  },
-  {
-   "key": "BAUM_JESSE_2026-11-11",
-   "name": "Jesse A Baum",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1794458834,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RADDE_CORTELL_2026-11-12",
+   "name": "Cortell B Radde",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1794522425,
+   "photo": null
+  },
   {
    "key": "MKE_AVENDALLO_MARCELINO_334846",
    "name": "Marcelino Avendallo",
@@ -5248,17 +5259,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794264469,
-   "photo": null
-  },
-  {
-   "key": "KLAUS_ASHLEIGH_2026-11-09",
-   "name": "Ashleigh Mae Klaus",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794263230,
    "photo": null
   }
  ]
