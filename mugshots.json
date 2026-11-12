@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-12T20:28:44+00:00",
+ "updated": "2026-11-12T20:53:47+00:00",
  "items": [
+  {
+   "key": "RC_DAMS_ROBERT_120011076221525",
+   "name": "Robert Ben Dams",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794516507,
+   "photo": null
+  },
+  {
+   "key": "RC_SCHREIBER_JASON_120011076221645",
+   "name": "Jason Ellsworth Schreiber",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794516504,
+   "photo": "photos/RC_SCHREIBER_JASON_120011076221645.jpg"
+  },
+  {
+   "key": "RC_DRAKE_MACKEY_120011076221913",
+   "name": "Mackey K Drake",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794516501,
+   "photo": null
+  },
+  {
+   "key": "RC_MURRAY_ASHLEY_120011076222402",
+   "name": "Ashley Elizabeth Murray",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of a Controlled Substance (Other than a Schedule I or II Na",
+   "more": 0,
+   "ts": 1794516498,
+   "photo": "photos/RC_MURRAY_ASHLEY_120011076222402.jpg"
+  },
   {
    "key": "MKE_ROBINSON_REGGNO_240139",
    "name": "Reggno Jermaine Robinson",
@@ -242,50 +286,6 @@
    "more": 0,
    "ts": 1794505066,
    "photo": null
-  },
-  {
-   "key": "MKE_QUALLS_TARONNE_299079",
-   "name": "Taronne Dedric Qualls",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794504475,
-   "photo": "photos/MKE_QUALLS_TARONNE_299079.jpg"
-  },
-  {
-   "key": "KEN_STANLEYGOMEZ_BEN_2026-00006270",
-   "name": "Ben Stanley Gomez",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794503311,
-   "photo": "photos/KEN_STANLEYGOMEZ_BEN_2026-00006270.jpg"
-  },
-  {
-   "key": "KEN_PESDAN_KARAH_2026-00006269",
-   "name": "Karah Jean Pesdan",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violate Temp Restraining Order Or Injunction",
-   "more": 0,
-   "ts": 1794503247,
-   "photo": "photos/KEN_PESDAN_KARAH_2026-00006269.jpg"
-  },
-  {
-   "key": "MKE_WATSON_JALIN_648258",
-   "name": "Jalin Lee Watson",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794502674,
-   "photo": "photos/MKE_WATSON_JALIN_648258.jpg"
   },
   {
    "key": "MAR_KLEMAN_ANTHONY_2026-11-12",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DAMS_ROBERT_120011076221525",
+   "name": "Robert Ben Dams",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794516507,
+   "photo": null
+  },
+  {
+   "key": "RC_SCHREIBER_JASON_120011076221645",
+   "name": "Jason Ellsworth Schreiber",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794516504,
+   "photo": "photos/RC_SCHREIBER_JASON_120011076221645.jpg"
+  },
+  {
+   "key": "RC_DRAKE_MACKEY_120011076221913",
+   "name": "Mackey K Drake",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794516501,
+   "photo": null
+  },
+  {
+   "key": "RC_MURRAY_ASHLEY_120011076222402",
+   "name": "Ashley Elizabeth Murray",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of a Controlled Substance (Other than a Schedule I or II Na",
+   "more": 0,
+   "ts": 1794516498,
+   "photo": "photos/RC_MURRAY_ASHLEY_120011076222402.jpg"
+  },
   {
    "key": "MKE_ROBINSON_REGGNO_240139",
    "name": "Reggno Jermaine Robinson",
@@ -5304,39 +5348,6 @@
    "more": 2,
    "ts": 1794257628,
    "photo": "photos/MAR_WALTERS_DIMITRI_2026-11-09.jpg"
-  },
-  {
-   "key": "RC_BOUWMA_MARK_120011076098490",
-   "name": "Mark James Bouwma",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794257268,
-   "photo": "photos/RC_BOUWMA_MARK_120011076098490.jpg"
-  },
-  {
-   "key": "RC_GARCIAGONZALES_ALIYAH_120011076099516",
-   "name": "Aliyah Celeste Garcia-Gonzales",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794257266,
-   "photo": "photos/RC_GARCIAGONZALES_ALIYAH_120011076099516.jpg"
-  },
-  {
-   "key": "LEDMAN_STEVEN_2026-11-09",
-   "name": "Steven B Ledman",
-   "age": "64",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794257224,
-   "photo": null
   }
  ]
 }
