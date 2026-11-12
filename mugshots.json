@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T22:59:37+00:00",
+ "updated": "2026-11-12T23:34:54+00:00",
  "items": [
+  {
+   "key": "MKE_KEBE_BABACAR_624099",
+   "name": "Babacar Kebe",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794526094,
+   "photo": null
+  },
+  {
+   "key": "MKE_KOBLESKI_TREVOR_648264",
+   "name": "Trevor Michael Kobleski",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794526092,
+   "photo": null
+  },
+  {
+   "key": "MKE_RIVEROGARCIA_YEREMI_648263",
+   "name": "Yeremi J Rivero Garcia",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794524468,
+   "photo": null
+  },
   {
    "key": "RC_GLOVER_OBIE_120011076225096",
    "name": "Obie L Glover",
@@ -153,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794515273,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_REGGNO_240139.jpg"
   },
   {
    "key": "MKE_MCKINNEY_LETERRY_648261",
@@ -175,29 +208,7 @@
    "charge": "Battery to Certain Individuals Involved in a Court or Legal System",
    "more": 0,
    "ts": 1794513497,
-   "photo": null
-  },
-  {
-   "key": "MKE_KING_GENITA_633743",
-   "name": "Genita L King",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 3,
-   "ts": 1794513495,
-   "photo": null
-  },
-  {
-   "key": "KEN_FLETCHER_STEPHON_2026-00006272",
-   "name": "Stephon Andrew Fletcher",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794513287,
-   "photo": "photos/KEN_FLETCHER_STEPHON_2026-00006272.jpg"
+   "photo": "photos/MKE_ALABBAS_SUFIAN_627899.jpg"
   },
   {
    "key": "MAR_HENDRON_KAILYN_2026-11-12_5121801",
@@ -209,17 +220,6 @@
    "more": 0,
    "ts": 1794512928,
    "photo": "photos/MAR_HENDRON_KAILYN_2026-11-12_5121801.jpg"
-  },
-  {
-   "key": "RC_KURIAN_IVAN_120011076214562",
-   "name": "Ivan Kurian",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794512882,
-   "photo": null
   },
   {
    "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12_91318",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_KEBE_BABACAR_624099",
+   "name": "Babacar Kebe",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794526094,
+   "photo": null
+  },
+  {
+   "key": "MKE_KOBLESKI_TREVOR_648264",
+   "name": "Trevor Michael Kobleski",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794526092,
+   "photo": null
+  },
+  {
+   "key": "MKE_RIVEROGARCIA_YEREMI_648263",
+   "name": "Yeremi J Rivero Garcia",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794524468,
+   "photo": null
+  },
+  {
    "key": "RC_GLOVER_OBIE_120011076225096",
    "name": "Obie L Glover",
    "age": "22",
@@ -683,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794515273,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_REGGNO_240139.jpg"
   },
   {
    "key": "MKE_MCKINNEY_LETERRY_648261",
@@ -705,7 +738,7 @@
    "charge": "Battery to Certain Individuals Involved in a Court or Legal System",
    "more": 0,
    "ts": 1794513497,
-   "photo": null
+   "photo": "photos/MKE_ALABBAS_SUFIAN_627899.jpg"
   },
   {
    "key": "MKE_KING_GENITA_633743",
@@ -713,10 +746,10 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
+   "charge": "Criminal Damage to Property",
    "more": 3,
    "ts": 1794513495,
-   "photo": null
+   "photo": "photos/MKE_KING_GENITA_633743.jpg"
   },
   {
    "key": "KEN_FLETCHER_STEPHON_2026-00006272",
@@ -5172,94 +5205,6 @@
    "more": 0,
    "ts": 1794268069,
    "photo": "photos/RC_HARRIS_ROLAND_120011076113519.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_JAMAL_354020",
-   "name": "Jamal Lavone Williams",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1794266927,
-   "photo": "photos/MKE_WILLIAMS_JAMAL_354020.jpg"
-  },
-  {
-   "key": "MKE_WILSON_MYRON_390401",
-   "name": "Myron Bernard Wilson",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794266923,
-   "photo": null
-  },
-  {
-   "key": "MKE_AGEE_HARVEY_524839",
-   "name": "Harvey B Agee",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 7,
-   "ts": 1794266915,
-   "photo": "photos/MKE_AGEE_HARVEY_524839.jpg"
-  },
-  {
-   "key": "MKE_FORD_ASHUN_642696",
-   "name": "Ashun Tony Ford",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 9,
-   "ts": 1794266911,
-   "photo": null
-  },
-  {
-   "key": "MKE_NARVAEZ_LUIS_646997",
-   "name": "Luis Narvaez",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Reckless Probab./Great Harm",
-   "more": 0,
-   "ts": 1794266908,
-   "photo": "photos/MKE_NARVAEZ_LUIS_646997.jpg"
-  },
-  {
-   "key": "FDL_TONEY_AMANDA_2026-11-09",
-   "name": "Amanda Rae Toney",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Child Pornography",
-   "more": 0,
-   "ts": 1794266262,
-   "photo": "photos/FDL_TONEY_AMANDA_2026-11-09.jpg"
-  },
-  {
-   "key": "FDL_STIGLER_LAMAN_2026-11-09",
-   "name": "Laman Terrel Stigler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession Of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794266259,
-   "photo": "photos/FDL_STIGLER_LAMAN_2026-11-09.jpg"
-  },
-  {
-   "key": "FDL_GESSLER_ANDREW_2026-11-09",
-   "name": "Andrew John Gessler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794266198,
-   "photo": "photos/FDL_GESSLER_ANDREW_2026-11-09.jpg"
   }
  ]
 }
