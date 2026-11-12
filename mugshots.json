@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-12T17:54:00+00:00",
+ "updated": "2026-11-12T18:29:08+00:00",
  "items": [
+  {
+   "key": "MKE_ZEPEDA_ABRIANNA_648260",
+   "name": "Abrianna Zepeda",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794508056,
+   "photo": null
+  },
+  {
+   "key": "DOU_SANIGAR_SEAN_2026-11-12",
+   "name": "Sean R Sanigar",
+   "age": "37",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794507410,
+   "photo": "photos/DOU_SANIGAR_SEAN_2026-11-12.jpg"
+  },
+  {
+   "key": "MAR_KLEMAN_ANTHONY_2026-11-12_12613701",
+   "name": "Anthony John Kleman",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt Of Court-Disobey Order",
+   "more": 0,
+   "ts": 1794506127,
+   "photo": "photos/MAR_KLEMAN_ANTHONY_2026-11-12_12613701.jpg"
+  },
+  {
+   "key": "MAR_NIZINSKI_CHRISTOPHER_2026-11-12",
+   "name": "Christopher F Nizinski",
+   "age": "66",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794506088,
+   "photo": "photos/MAR_NIZINSKI_CHRISTOPHER_2026-11-12.jpg"
+  },
+  {
+   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12",
+   "name": "Shawneen Marie Hulstrom",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794506045,
+   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-12.jpg"
+  },
   {
    "key": "CAMPBELL_ALVIN_2026-11-12",
    "name": "Alvin L Campbell",
@@ -29,10 +84,10 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1794503311,
-   "photo": null
+   "photo": "photos/KEN_STANLEYGOMEZ_BEN_2026-00006270.jpg"
   },
   {
    "key": "KEN_PESDAN_KARAH_2026-00006269",
@@ -54,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794502674,
-   "photo": null
+   "photo": "photos/MKE_WATSON_JALIN_648258.jpg"
   },
   {
    "key": "MKE_WILKINSON_JOVAN_648259",
@@ -164,7 +219,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1794499092,
-   "photo": null
+   "photo": "photos/MKE_WOMACK_GREGORY_129142.jpg"
   },
   {
    "key": "MKE_PHILLIPS_ALECEA_648257",
@@ -275,17 +330,6 @@
    "more": 11,
    "ts": 1794491861,
    "photo": "photos/MKE_GREEN_WILLIAM_512960.jpg"
-  },
-  {
-   "key": "RC_CARTAGENA_SALENO_120011076200284",
-   "name": "Saleno Cartagena",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794491260,
-   "photo": null
   },
   {
    "key": "MOUA_NANCY_2026-11-12",
@@ -484,53 +528,64 @@
    "more": 0,
    "ts": 1794443232,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAR_SIEFKEN_DEREK_2026-11-11_14338302",
-   "name": "Derek Anthony Siefken",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 1,
-   "ts": 1794441480,
-   "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11_14338302.jpg"
-  },
-  {
-   "key": "HANKEL_MALACHI_2026-11-11",
-   "name": "Malachi C Hankel",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794440835,
+   "key": "MKE_ZEPEDA_ABRIANNA_648260",
+   "name": "Abrianna Zepeda",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794508056,
    "photo": null
   },
   {
-   "key": "DOU_PHILLIPS_JULIE_2026-11-11",
-   "name": "Julie A Phillips",
-   "age": "48",
+   "key": "DOU_SANIGAR_SEAN_2026-11-12",
+   "name": "Sean R Sanigar",
+   "age": "37",
    "county": "Douglas County",
    "region": "northwest",
    "charge": "Charges:",
    "more": 1,
-   "ts": 1794439099,
-   "photo": "photos/DOU_PHILLIPS_JULIE_2026-11-11.jpg"
+   "ts": 1794507410,
+   "photo": "photos/DOU_SANIGAR_SEAN_2026-11-12.jpg"
   },
   {
-   "key": "MAR_SIEFKEN_DEREK_2026-11-11",
-   "name": "Derek Anthony Siefken",
-   "age": "27",
+   "key": "MAR_KLEMAN_ANTHONY_2026-11-12_12613701",
+   "name": "Anthony John Kleman",
+   "age": "39",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Possession Of Thc",
+   "charge": "Contempt Of Court-Disobey Order",
+   "more": 0,
+   "ts": 1794506127,
+   "photo": "photos/MAR_KLEMAN_ANTHONY_2026-11-12_12613701.jpg"
+  },
+  {
+   "key": "MAR_NIZINSKI_CHRISTOPHER_2026-11-12",
+   "name": "Christopher F Nizinski",
+   "age": "66",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
    "more": 1,
-   "ts": 1794437663,
-   "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794506088,
+   "photo": "photos/MAR_NIZINSKI_CHRISTOPHER_2026-11-12.jpg"
+  },
+  {
+   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12",
+   "name": "Shawneen Marie Hulstrom",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794506045,
+   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-12.jpg"
+  },
   {
    "key": "CAMPBELL_ALVIN_2026-11-12",
    "name": "Alvin L Campbell",
@@ -559,10 +614,10 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1794503311,
-   "photo": null
+   "photo": "photos/KEN_STANLEYGOMEZ_BEN_2026-00006270.jpg"
   },
   {
    "key": "KEN_PESDAN_KARAH_2026-00006269",
@@ -584,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794502674,
-   "photo": null
+   "photo": "photos/MKE_WATSON_JALIN_648258.jpg"
   },
   {
    "key": "MKE_WILKINSON_JOVAN_648259",
@@ -694,7 +749,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1794499092,
-   "photo": null
+   "photo": "photos/MKE_WOMACK_GREGORY_129142.jpg"
   },
   {
    "key": "MKE_PHILLIPS_ALECEA_648257",
@@ -5293,72 +5348,6 @@
    "more": 1,
    "ts": 1794250438,
    "photo": "photos/MAR_SPERKA_SARA_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_MCGREGORY_DERRICK_373782",
-   "name": "Derrick Davon McGregory",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
-   "more": 3,
-   "ts": 1794248874,
-   "photo": "photos/MKE_MCGREGORY_DERRICK_373782.jpg"
-  },
-  {
-   "key": "MKE_THOMPSON_DEVON_641849",
-   "name": "Devon Timothy Thompson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 1,
-   "ts": 1794248872,
-   "photo": "photos/MKE_THOMPSON_DEVON_641849.jpg"
-  },
-  {
-   "key": "KEN_STEVENS_DERRICK_2026-00006197",
-   "name": "DERRICK ARNELL Junior STEVENS",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1794247425,
-   "photo": "photos/KEN_STEVENS_DERRICK_2026-00006197.jpg"
-  },
-  {
-   "key": "KEN_PLEASANT_JOHNTAY_2026-00006199",
-   "name": "Johntay Marcello Pleasant",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1794247352,
-   "photo": "photos/KEN_PLEASANT_JOHNTAY_2026-00006199.jpg"
-  },
-  {
-   "key": "KEN_DALTON_MALIK_2026-00006200",
-   "name": "Malik Daleonjaque Dalton",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794247098,
-   "photo": "photos/KEN_DALTON_MALIK_2026-00006200.jpg"
-  },
-  {
-   "key": "MAR_HOFFMAN_SCOTT_2026-11-09_8479304",
-   "name": "Scott Anthony Hoffman",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Capias - Misdemeanor",
-   "more": 2,
-   "ts": 1794246878,
-   "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09_8479304.jpg"
   }
  ]
 }
