@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T08:28:33+00:00",
+ "updated": "2026-11-12T09:00:49+00:00",
  "items": [
+  {
+   "key": "MAR_OUSLEY_DIMITRI_2026-11-12",
+   "name": "Dimitri Ousley",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1794473735,
+   "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-12.jpg"
+  },
+  {
+   "key": "MAR_BROOME_ERIN_2026-11-12",
+   "name": "Erin Lynn Broome",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Narcotic Drugs",
+   "more": 2,
+   "ts": 1794473606,
+   "photo": "photos/MAR_BROOME_ERIN_2026-11-12.jpg"
+  },
+  {
+   "key": "RC_FOXCROFT_DREW_120011076196320",
+   "name": "Drew J Foxcroft",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794473267,
+   "photo": "photos/RC_FOXCROFT_DREW_120011076196320.jpg"
+  },
   {
    "key": "MKE_GALICIAGONZALEZ_ZOILA_648254",
    "name": "Zoila Galicia Gonzalez",
@@ -244,17 +277,6 @@
    "photo": "photos/KEN_KELLEYJACKSON_CAMEONA_2026-00006265.jpg"
   },
   {
-   "key": "KEN_HENDRICKSON_CODY_2026-00006264",
-   "name": "Cody Christopher Hendrickson",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794455815,
-   "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006264.jpg"
-  },
-  {
    "key": "JACKSON_KENNETH_2026-11-11",
    "name": "Kenneth Deray Jackson",
    "age": "38",
@@ -453,28 +475,6 @@
    "photo": "photos/MAR_BURNETT_WESLEY_2026-11-11_8187006.jpg"
   },
   {
-   "key": "DOU_KING_ROBERT_2026-11-11",
-   "name": "Robert A King",
-   "age": "59",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794424705,
-   "photo": "photos/DOU_KING_ROBERT_2026-11-11.jpg"
-  },
-  {
-   "key": "MAR_BURNETT_WESLEY_2026-11-11",
-   "name": "Wesley Devon Burnett",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Manuf/Deliver Amphetamine(>10-50G)",
-   "more": 1,
-   "ts": 1794423226,
-   "photo": "photos/MAR_BURNETT_WESLEY_2026-11-11.jpg"
-  },
-  {
    "key": "FEIST_VOLANTE_2026-11-11",
    "name": "Volante C Feist",
    "age": "36",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_OUSLEY_DIMITRI_2026-11-12",
+   "name": "Dimitri Ousley",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1794473735,
+   "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-12.jpg"
+  },
+  {
+   "key": "MAR_BROOME_ERIN_2026-11-12",
+   "name": "Erin Lynn Broome",
+   "age": "45",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession Of Narcotic Drugs",
+   "more": 2,
+   "ts": 1794473606,
+   "photo": "photos/MAR_BROOME_ERIN_2026-11-12.jpg"
+  },
+  {
+   "key": "RC_FOXCROFT_DREW_120011076196320",
+   "name": "Drew J Foxcroft",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794473267,
+   "photo": "photos/RC_FOXCROFT_DREW_120011076196320.jpg"
+  },
   {
    "key": "MKE_GALICIAGONZALEZ_ZOILA_648254",
    "name": "Zoila Galicia Gonzalez",
@@ -5491,39 +5524,6 @@
    "more": 0,
    "ts": 1794216447,
    "photo": "photos/MKE_DAVIS_DAQUARIUS_643246.jpg"
-  },
-  {
-   "key": "KEN_HOPKINS_MAURELL_2026-00006191",
-   "name": "Maurell Avere Hopkins",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession Of Marijuana (Thc)",
-   "more": 1,
-   "ts": 1794214582,
-   "photo": "photos/KEN_HOPKINS_MAURELL_2026-00006191.jpg"
-  },
-  {
-   "key": "MAR_LAVIGNE_KAI_2026-11-08_16998201",
-   "name": "Kai Gryphon Lavigne",
-   "age": "18",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794214448,
-   "photo": "photos/MAR_LAVIGNE_KAI_2026-11-08_16998201.jpg"
-  },
-  {
-   "key": "RC_LEE_ANTONIO_120011076074575",
-   "name": "Antonio Diante Lee",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794214077,
-   "photo": "photos/RC_LEE_ANTONIO_120011076074575.jpg"
   }
  ]
 }
