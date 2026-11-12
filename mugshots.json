@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T05:09:03+00:00",
+ "updated": "2026-11-12T05:29:41+00:00",
  "items": [
+  {
+   "key": "MKE_LLOYD_CLIFTON_271749",
+   "name": "Clifton Adell Lloyd",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794461251,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNBAR_TREYONDES_386835",
+   "name": "Treyondes L Dunbar",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794461250,
+   "photo": null
+  },
   {
    "key": "MKE_HALL_TEVELL_2057547",
    "name": "Tevell De Marcus Kevin Hall",
@@ -198,28 +220,6 @@
    "more": 0,
    "ts": 1794450521,
    "photo": "photos/MKE_WHITEHEAD_DEVION_648247.jpg"
-  },
-  {
-   "key": "MKE_BENSO_VINCENT_648248",
-   "name": "Vincent Anthony Benso",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 0,
-   "ts": 1794450516,
-   "photo": "photos/MKE_BENSO_VINCENT_648248.jpg"
-  },
-  {
-   "key": "MKE_CHASE_PARKER_2065850",
-   "name": "Parker James Chase",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property <=$2500",
-   "more": 0,
-   "ts": 1794450512,
-   "photo": "photos/MKE_CHASE_PARKER_2065850.jpg"
   },
   {
    "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LLOYD_CLIFTON_271749",
+   "name": "Clifton Adell Lloyd",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794461251,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNBAR_TREYONDES_386835",
+   "name": "Treyondes L Dunbar",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794461250,
+   "photo": null
+  },
   {
    "key": "MKE_HALL_TEVELL_2057547",
    "name": "Tevell De Marcus Kevin Hall",
@@ -5502,50 +5524,6 @@
    "more": 0,
    "ts": 1794203265,
    "photo": "photos/RC_CIBOSKI_MARK_120011076071767.jpg"
-  },
-  {
-   "key": "MKE_PARROW_GIOVANTE_628368",
-   "name": "Giovante Allante Parrow",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
-   "more": 36,
-   "ts": 1794202075,
-   "photo": "photos/MKE_PARROW_GIOVANTE_628368.jpg"
-  },
-  {
-   "key": "MKE_THOMAS_MICHOL_629618",
-   "name": "Michol Lee Thomas",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794202074,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_DWIGHT_648212",
-   "name": "Dwight Edward Jackson",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794202072,
-   "photo": "photos/MKE_JACKSON_DWIGHT_648212.jpg"
-  },
-  {
-   "key": "MKE_HICKSCOLEMAN_KENDALL_648213",
-   "name": "Kendall L Hicks Coleman",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794202070,
-   "photo": null
   }
  ]
 }
