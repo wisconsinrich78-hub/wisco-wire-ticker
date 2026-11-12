@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T00:49:41+00:00",
+ "updated": "2026-11-12T01:08:26+00:00",
  "items": [
+  {
+   "key": "MAR_RUSCH_ASHLEY_2026-11-11",
+   "name": "Ashley Donna Rusch",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 3,
+   "ts": 1794444837,
+   "photo": "photos/MAR_RUSCH_ASHLEY_2026-11-11.jpg"
+  },
   {
    "key": "RC_CARROTHERS_SHERICA_120011076186413",
    "name": "Sherica Rochelle Carrothers",
@@ -62,8 +73,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Marijuana (Thc) 2Nd+",
+   "more": 1,
    "ts": 1794441780,
    "photo": "photos/KEN_MARTIN_KEVIN_2026-00006263.jpg"
   },
@@ -409,17 +420,6 @@
    "photo": "photos/BINGHAM_DYLAN_2026-11-11.jpg"
   },
   {
-   "key": "DOU_LOVE_JAMES_2026-11-11",
-   "name": "James D Love",
-   "age": "57",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794418007,
-   "photo": "photos/DOU_LOVE_JAMES_2026-11-11.jpg"
-  },
-  {
    "key": "FDL_KELLIHER_JOSEPH_2026-11-11",
    "name": "Joseph James Kelliher",
    "age": "",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MAR_RUSCH_ASHLEY_2026-11-11",
+   "name": "Ashley Donna Rusch",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 3,
+   "ts": 1794444837,
+   "photo": "photos/MAR_RUSCH_ASHLEY_2026-11-11.jpg"
+  },
+  {
    "key": "RC_CARROTHERS_SHERICA_120011076186413",
    "name": "Sherica Rochelle Carrothers",
    "age": "46",
@@ -592,8 +603,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Marijuana (Thc) 2Nd+",
+   "more": 1,
    "ts": 1794441780,
    "photo": "photos/KEN_MARTIN_KEVIN_2026-00006263.jpg"
   },
