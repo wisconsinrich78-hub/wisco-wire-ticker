@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-12T04:34:28+00:00",
+ "updated": "2026-11-12T05:09:03+00:00",
  "items": [
+  {
+   "key": "MKE_HALL_TEVELL_2057547",
+   "name": "Tevell De Marcus Kevin Hall",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 5,
+   "ts": 1794459514,
+   "photo": null
+  },
+  {
+   "key": "RC_HANSEN_SANDRA_120011076191927",
+   "name": "Sandra M Hansen",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Physical Abuse of a Child - Intentionally Cause Bodily Harm",
+   "more": 1,
+   "ts": 1794458894,
+   "photo": "photos/RC_HANSEN_SANDRA_120011076191927.jpg"
+  },
+  {
+   "key": "BAUM_JESSE_2026-11-11",
+   "name": "Jesse A Baum",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794458834,
+   "photo": null
+  },
+  {
+   "key": "ZIMMERMAN_MICHELLE_2026-11-11",
+   "name": "Michelle A Zimmerman",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794458833,
+   "photo": null
+  },
   {
    "key": "KEN_KELLEYJACKSON_CAMEONA_2026-00006265",
    "name": "Cameona Deshawnapearl Kelley-Jackson",
@@ -164,7 +208,7 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 0,
    "ts": 1794450516,
-   "photo": null
+   "photo": "photos/MKE_BENSO_VINCENT_648248.jpg"
   },
   {
    "key": "MKE_CHASE_PARKER_2065850",
@@ -176,28 +220,6 @@
    "more": 0,
    "ts": 1794450512,
    "photo": "photos/MKE_CHASE_PARKER_2065850.jpg"
-  },
-  {
-   "key": "MKE_FOSTER_DANIEL_289382",
-   "name": "Daniel Lamar Foster",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794448660,
-   "photo": "photos/MKE_FOSTER_DANIEL_289382.jpg"
-  },
-  {
-   "key": "MKE_EDWARDS_CALVIN_342519",
-   "name": "Calvin Lee Edwards",
-   "age": "70",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794448658,
-   "photo": "photos/MKE_EDWARDS_CALVIN_342519.jpg"
   },
   {
    "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794394054,
    "photo": "photos/TREM_VANMETER_SHYANN_5911.jpg"
-  },
-  {
-   "key": "TREM_LEARY_TODD_6211",
-   "name": "Todd Vernon Leary",
-   "age": "49",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Misdemeanor Battery",
-   "more": 1,
-   "ts": 1794394050,
-   "photo": "photos/TREM_LEARY_TODD_6211.jpg"
-  },
-  {
-   "key": "FDL_BAILLOD_MONICA_2026-11-11",
-   "name": "Monica M Baillod",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "DELIVER FENTANYL (>10g but <=50g)",
-   "more": 1,
-   "ts": 1794384969,
-   "photo": "photos/FDL_BAILLOD_MONICA_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HALL_TEVELL_2057547",
+   "name": "Tevell De Marcus Kevin Hall",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 5,
+   "ts": 1794459514,
+   "photo": null
+  },
+  {
+   "key": "RC_HANSEN_SANDRA_120011076191927",
+   "name": "Sandra M Hansen",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Physical Abuse of a Child - Intentionally Cause Bodily Harm",
+   "more": 1,
+   "ts": 1794458894,
+   "photo": "photos/RC_HANSEN_SANDRA_120011076191927.jpg"
+  },
+  {
+   "key": "BAUM_JESSE_2026-11-11",
+   "name": "Jesse A Baum",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794458834,
+   "photo": null
+  },
+  {
+   "key": "ZIMMERMAN_MICHELLE_2026-11-11",
+   "name": "Michelle A Zimmerman",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794458833,
+   "photo": null
+  },
   {
    "key": "KEN_KELLEYJACKSON_CAMEONA_2026-00006265",
    "name": "Cameona Deshawnapearl Kelley-Jackson",
@@ -694,7 +738,7 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 0,
    "ts": 1794450516,
-   "photo": null
+   "photo": "photos/MKE_BENSO_VINCENT_648248.jpg"
   },
   {
    "key": "MKE_CHASE_PARKER_2065850",
@@ -5501,61 +5545,6 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794202070,
-   "photo": null
-  },
-  {
-   "key": "MKE_HERNANDEZ_MARGARITO_396322",
-   "name": "Margarito J Hernandez",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794200272,
-   "photo": null
-  },
-  {
-   "key": "MKE_HAMPTON_KEYANDA_522950",
-   "name": "Keyanda Shatell Hampton",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794200270,
-   "photo": "photos/MKE_HAMPTON_KEYANDA_522950.jpg"
-  },
-  {
-   "key": "MKE_CROSS_TYESHA_626892",
-   "name": "Tyesha Beyonce Cross",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794200268,
-   "photo": "photos/MKE_CROSS_TYESHA_626892.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_NIKI_648211",
-   "name": "Niki Marie Williams",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794200266,
-   "photo": "photos/MKE_WILLIAMS_NIKI_648211.jpg"
-  },
-  {
-   "key": "MAR_KELLEY_PATRICK_2026-11-08",
-   "name": "Patrick James Kelley",
-   "age": "62",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 1,
-   "ts": 1794200009,
    "photo": null
   }
  ]
