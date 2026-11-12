@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T20:12:17+00:00",
+ "updated": "2026-11-12T20:28:44+00:00",
  "items": [
+  {
+   "key": "MKE_ROBINSON_REGGNO_240139",
+   "name": "Reggno Jermaine Robinson",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794515273,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCKINNEY_LETERRY_648261",
+   "name": "Leterry Nedray Mckinney",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794515271,
+   "photo": null
+  },
   {
    "key": "MKE_ALABBAS_SUFIAN_627899",
    "name": "Sufian Ahmad Alabbas",
@@ -18,8 +40,8 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Subst.Battery-Int.Bod.Harm-Unborn Child",
-   "more": 0,
+   "charge": "Burglary-Building or Dwelling",
+   "more": 3,
    "ts": 1794513495,
    "photo": null
   },
@@ -266,28 +288,6 @@
    "photo": "photos/MKE_WATSON_JALIN_648258.jpg"
   },
   {
-   "key": "MKE_WILKINSON_JOVAN_648259",
-   "name": "Jovan Wilkinson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794502671,
-   "photo": "photos/MKE_WILKINSON_JOVAN_648259.jpg"
-  },
-  {
-   "key": "MKE_WALKER_ERIC_2058349",
-   "name": "Eric D Walker",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794502668,
-   "photo": "photos/MKE_WALKER_ERIC_2058349.jpg"
-  },
-  {
    "key": "MAR_KLEMAN_ANTHONY_2026-11-12",
    "name": "Anthony John Kleman",
    "age": "39",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_ROBINSON_REGGNO_240139",
+   "name": "Reggno Jermaine Robinson",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794515273,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCKINNEY_LETERRY_648261",
+   "name": "Leterry Nedray Mckinney",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794515271,
+   "photo": null
+  },
+  {
    "key": "MKE_ALABBAS_SUFIAN_627899",
    "name": "Sufian Ahmad Alabbas",
    "age": "25",
@@ -548,8 +570,8 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Subst.Battery-Int.Bod.Harm-Unborn Child",
-   "more": 0,
+   "charge": "Burglary-Building or Dwelling",
+   "more": 3,
    "ts": 1794513495,
    "photo": null
   },
@@ -914,7 +936,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794499090,
-   "photo": null
+   "photo": "photos/MKE_PHILLIPS_ALECEA_648257.jpg"
   },
   {
    "key": "YANG_LONG_2026-11-12",
@@ -5314,39 +5336,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 0,
    "ts": 1794257224,
-   "photo": null
-  },
-  {
-   "key": "MKE_OWENS_TYRON_613580",
-   "name": "Tyron Nakee Owens",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1794256093,
-   "photo": "photos/MKE_OWENS_TYRON_613580.jpg"
-  },
-  {
-   "key": "DANIELS_JORDAN_2026-11-09",
-   "name": "Jordan Jamir Daniels",
-   "age": "17",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794256039,
-   "photo": null
-  },
-  {
-   "key": "FDL_WARD_TYRUS_2026-11-09",
-   "name": "Tyrus Anthony-Lanell Ward",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794255419,
    "photo": null
   }
  ]
