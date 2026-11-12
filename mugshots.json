@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-12T19:28:33+00:00",
+ "updated": "2026-11-12T19:51:56+00:00",
  "items": [
+  {
+   "key": "MAR_HENDRON_KAILYN_2026-11-12_5121801",
+   "name": "Kailyn Alyissa Hendron",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt Of Court-Disobey Order",
+   "more": 0,
+   "ts": 1794512928,
+   "photo": "photos/MAR_HENDRON_KAILYN_2026-11-12_5121801.jpg"
+  },
+  {
+   "key": "RC_KURIAN_IVAN_120011076214562",
+   "name": "Ivan Kurian",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794512882,
+   "photo": null
+  },
+  {
+   "key": "RC_MCKAY_MARVIN_120011076215971",
+   "name": "Marvin Glenn Mckay",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794512880,
+   "photo": "photos/RC_MCKAY_MARVIN_120011076215971.jpg"
+  },
+  {
+   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12_91318",
+   "name": "Shawneen Marie Hulstrom",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794512879,
+   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-12_91318.jpg"
+  },
+  {
+   "key": "RC_WHITE_TAUREAN_120011076216144",
+   "name": "Taurean Lovell White",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794512877,
+   "photo": "photos/RC_WHITE_TAUREAN_120011076216144.jpg"
+  },
+  {
+   "key": "CARTER_PRINCE_2026-11-12",
+   "name": "Prince A Carter",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794512827,
+   "photo": "photos/CARTER_PRINCE_2026-11-12.jpg"
+  },
   {
    "key": "RC_KRUEGER_JASON_120011076212411",
    "name": "Jason M Krueger",
@@ -310,39 +376,6 @@
    "photo": null
   },
   {
-   "key": "MKE_PHIPPS_CHARRALES_297695",
-   "name": "Charrales R Phipps",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794497271,
-   "photo": "photos/MKE_PHIPPS_CHARRALES_297695.jpg"
-  },
-  {
-   "key": "MKE_HOLMON_MONTIQUE_618949",
-   "name": "Montique Holmon",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1794497270,
-   "photo": "photos/MKE_HOLMON_MONTIQUE_618949.jpg"
-  },
-  {
-   "key": "MKE_GALLEGOS_JOSEPH_630690",
-   "name": "Joseph Nicholas Gallegos",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794497268,
-   "photo": "photos/MKE_GALLEGOS_JOSEPH_630690.jpg"
-  },
-  {
    "key": "JOSTAD_DEVONDRE_2026-11-12",
    "name": "Devondre L Jostad",
    "age": "24",
@@ -495,42 +528,75 @@
    "more": 0,
    "ts": 1794458833,
    "photo": null
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MAR_HENDRON_KAILYN_2026-11-12_5121801",
+   "name": "Kailyn Alyissa Hendron",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt Of Court-Disobey Order",
+   "more": 0,
+   "ts": 1794512928,
+   "photo": "photos/MAR_HENDRON_KAILYN_2026-11-12_5121801.jpg"
   },
   {
-   "key": "JACKSON_KENNETH_2026-11-11",
-   "name": "Kenneth Deray Jackson",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1794454027,
+   "key": "RC_KURIAN_IVAN_120011076214562",
+   "name": "Ivan Kurian",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794512882,
    "photo": null
   },
   {
-   "key": "MAR_GARCIA_JIMMY_2026-11-11",
-   "name": "Jimmy Garcia",
-   "age": "50",
+   "key": "RC_MCKAY_MARVIN_120011076215971",
+   "name": "Marvin Glenn Mckay",
+   "age": "63",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794512880,
+   "photo": "photos/RC_MCKAY_MARVIN_120011076215971.jpg"
+  },
+  {
+   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12_91318",
+   "name": "Shawneen Marie Hulstrom",
+   "age": "48",
    "county": "Marathon County",
    "region": "northwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1794452010,
-   "photo": "photos/MAR_GARCIA_JIMMY_2026-11-11.jpg"
+   "ts": 1794512879,
+   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-12_91318.jpg"
   },
   {
-   "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
-   "name": "Christopher Randall Palmer",
-   "age": "37",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Domestic Assault-Misdemeanor-Commits Act to C (1-Court Pending)",
+   "key": "RC_WHITE_TAUREAN_120011076216144",
+   "name": "Taurean Lovell White",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
    "more": 0,
-   "ts": 1794448056,
-   "photo": null
-  }
- ],
- "all_items": [
+   "ts": 1794512877,
+   "photo": "photos/RC_WHITE_TAUREAN_120011076216144.jpg"
+  },
+  {
+   "key": "CARTER_PRINCE_2026-11-12",
+   "name": "Prince A Carter",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794512827,
+   "photo": "photos/CARTER_PRINCE_2026-11-12.jpg"
+  },
   {
    "key": "RC_KRUEGER_JASON_120011076212411",
    "name": "Jason M Krueger",
@@ -5326,17 +5392,6 @@
    "more": 2,
    "ts": 1794253999,
    "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-09.jpg"
-  },
-  {
-   "key": "RC_COLON_RAPHAEL_120011076092499",
-   "name": "Raphael Antonio Colon",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794253668,
-   "photo": null
   }
  ]
 }
