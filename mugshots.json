@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T17:22:41+00:00",
+ "updated": "2026-11-12T17:40:38+00:00",
  "items": [
+  {
+   "key": "CAMPBELL_ALVIN_2026-11-12",
+   "name": "Alvin L Campbell",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794505066,
+   "photo": null
+  },
+  {
+   "key": "MKE_QUALLS_TARONNE_299079",
+   "name": "Taronne Dedric Qualls",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794504475,
+   "photo": null
+  },
   {
    "key": "KEN_STANLEYGOMEZ_BEN_2026-00006270",
    "name": "Ben Stanley Gomez",
@@ -43,7 +65,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794502671,
-   "photo": null
+   "photo": "photos/MKE_WILKINSON_JOVAN_648259.jpg"
   },
   {
    "key": "MKE_WALKER_ERIC_2058349",
@@ -186,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794497271,
-   "photo": null
+   "photo": "photos/MKE_PHIPPS_CHARRALES_297695.jpg"
   },
   {
    "key": "MKE_HOLMON_MONTIQUE_618949",
@@ -275,17 +297,6 @@
    "more": 0,
    "ts": 1794491224,
    "photo": null
-  },
-  {
-   "key": "MKE_THOMASTUCKER_ERICA_644028",
-   "name": "Erica Thomas-Tucker",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 1,
-   "ts": 1794488251,
-   "photo": "photos/MKE_THOMASTUCKER_ERICA_644028.jpg"
   },
   {
    "key": "WILSON_ANTHONY_2026-11-12",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1794437663,
    "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11.jpg"
-  },
-  {
-   "key": "MAR_ELLWART_LOUIS_2026-11-11_15005103",
-   "name": "Louis Edward Ellwart",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794436995,
-   "photo": "photos/MAR_ELLWART_LOUIS_2026-11-11_15005103.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "CAMPBELL_ALVIN_2026-11-12",
+   "name": "Alvin L Campbell",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794505066,
+   "photo": null
+  },
+  {
+   "key": "MKE_QUALLS_TARONNE_299079",
+   "name": "Taronne Dedric Qualls",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794504475,
+   "photo": null
+  },
   {
    "key": "KEN_STANLEYGOMEZ_BEN_2026-00006270",
    "name": "Ben Stanley Gomez",
@@ -573,7 +595,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794502671,
-   "photo": null
+   "photo": "photos/MKE_WILKINSON_JOVAN_648259.jpg"
   },
   {
    "key": "MKE_WALKER_ERIC_2058349",
@@ -716,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794497271,
-   "photo": null
+   "photo": "photos/MKE_PHIPPS_CHARRALES_297695.jpg"
   },
   {
    "key": "MKE_HOLMON_MONTIQUE_618949",
@@ -5370,50 +5392,6 @@
    "more": 0,
    "ts": 1794246478,
    "photo": "photos/RC_GLEISNER_ALEX_120011076089670.jpg"
-  },
-  {
-   "key": "MKE_FRANCIS_JEREMIAH_634140",
-   "name": "Jeremiah Javon Francis",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794245263,
-   "photo": "photos/MKE_FRANCIS_JEREMIAH_634140.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_LAVONTAE_644160",
-   "name": "Lavontae E Davis",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794245261,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILKS_JONATHAN_648220",
-   "name": "Jonathan EARL WILKS",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794245260,
-   "photo": "photos/MKE_WILKS_JONATHAN_648220.jpg"
-  },
-  {
-   "key": "HAUGEN_SIRI_2026-11-09",
-   "name": "Siri A Haugen",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Aggravated Battery - Intend Bodily Harm",
-   "more": 0,
-   "ts": 1794245220,
-   "photo": null
   }
  ]
 }
