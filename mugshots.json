@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T22:28:46+00:00",
+ "updated": "2026-11-12T22:59:37+00:00",
  "items": [
+  {
+   "key": "RC_GLOVER_OBIE_120011076225096",
+   "name": "Obie L Glover",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794523684,
+   "photo": "photos/RC_GLOVER_OBIE_120011076225096.jpg"
+  },
+  {
+   "key": "RC_DOMINGUEZ_ANTONIO_120011076225367",
+   "name": "Antonio R Dominguez",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794523681,
+   "photo": "photos/RC_DOMINGUEZ_ANTONIO_120011076225367.jpg"
+  },
+  {
+   "key": "GROTH_BENJAMIN_2026-11-12",
+   "name": "Benjamin R Groth",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794523642,
+   "photo": null
+  },
   {
    "key": "RADDE_CORTELL_2026-11-12",
    "name": "Cortell B Radde",
@@ -18,8 +51,8 @@
    "age": "59",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 3,
    "ts": 1794520737,
    "photo": null
   },
@@ -150,7 +183,7 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Burglary-Building or Dwelling",
    "more": 3,
    "ts": 1794513495,
    "photo": null
@@ -189,17 +222,6 @@
    "photo": null
   },
   {
-   "key": "RC_MCKAY_MARVIN_120011076215971",
-   "name": "Marvin Glenn Mckay",
-   "age": "63",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794512880,
-   "photo": "photos/RC_MCKAY_MARVIN_120011076215971.jpg"
-  },
-  {
    "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12_91318",
    "name": "Shawneen Marie Hulstrom",
    "age": "48",
@@ -209,17 +231,6 @@
    "more": 0,
    "ts": 1794512879,
    "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-12_91318.jpg"
-  },
-  {
-   "key": "RC_WHITE_TAUREAN_120011076216144",
-   "name": "Taurean Lovell White",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794512877,
-   "photo": "photos/RC_WHITE_TAUREAN_120011076216144.jpg"
   },
   {
    "key": "CARTER_PRINCE_2026-11-12",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794466024,
    "photo": null
-  },
-  {
-   "key": "DOU_SMITH_MARIA_2026-11-11",
-   "name": "Maria R Smith",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
-   "ts": 1794464241,
-   "photo": "photos/DOU_SMITH_MARIA_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GLOVER_OBIE_120011076225096",
+   "name": "Obie L Glover",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794523684,
+   "photo": "photos/RC_GLOVER_OBIE_120011076225096.jpg"
+  },
+  {
+   "key": "RC_DOMINGUEZ_ANTONIO_120011076225367",
+   "name": "Antonio R Dominguez",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794523681,
+   "photo": "photos/RC_DOMINGUEZ_ANTONIO_120011076225367.jpg"
+  },
+  {
+   "key": "GROTH_BENJAMIN_2026-11-12",
+   "name": "Benjamin R Groth",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794523642,
+   "photo": null
+  },
   {
    "key": "RADDE_CORTELL_2026-11-12",
    "name": "Cortell B Radde",
@@ -548,8 +581,8 @@
    "age": "59",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 3,
    "ts": 1794520737,
    "photo": null
   },
@@ -680,7 +713,7 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Burglary-Building or Dwelling",
    "more": 3,
    "ts": 1794513495,
    "photo": null
@@ -5227,39 +5260,6 @@
    "more": 0,
    "ts": 1794266198,
    "photo": "photos/FDL_GESSLER_ANDREW_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_CARTER_RAY_375566",
-   "name": "Ray J Carter",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794265075,
-   "photo": "photos/MKE_CARTER_RAY_375566.jpg"
-  },
-  {
-   "key": "MKE_SMITH_DESHAWN_401568",
-   "name": "Deshawn Ashante Smith",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 3,
-   "ts": 1794265070,
-   "photo": null
-  },
-  {
-   "key": "RC_FIREHAMMER_ZACKERY_120011076107926",
-   "name": "Zackery Ray Firehammer",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794264469,
-   "photo": null
   }
  ]
 }
