@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-12T18:29:08+00:00",
+ "updated": "2026-11-12T18:51:11+00:00",
  "items": [
+  {
+   "key": "RC_KRUEGER_JASON_120011076212411",
+   "name": "Jason M Krueger",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794509283,
+   "photo": "photos/RC_KRUEGER_JASON_120011076212411.jpg"
+  },
+  {
+   "key": "RC_WALRUP_JOHNNY_120011076212530",
+   "name": "Johnny Mariuce Walrup",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794509281,
+   "photo": "photos/RC_WALRUP_JOHNNY_120011076212530.jpg"
+  },
+  {
+   "key": "RC_COPPENS_CHARLES_120011076212852",
+   "name": "Charles Coppens",
+   "age": "65",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794509277,
+   "photo": null
+  },
+  {
+   "key": "HISTER_DOMINIQUE_2026-11-12",
+   "name": "Dominique M Hister",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794509232,
+   "photo": null
+  },
+  {
+   "key": "EDBERG_DAISY_2026-11-12",
+   "name": "Daisy M Edberg",
+   "age": "57",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1794509231,
+   "photo": null
+  },
   {
    "key": "MKE_ZEPEDA_ABRIANNA_648260",
    "name": "Abrianna Zepeda",
@@ -299,39 +354,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BROWN_JAMES_413862",
-   "name": "James Joshuawall Brown",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1794493665,
-   "photo": "photos/MKE_BROWN_JAMES_413862.jpg"
-  },
-  {
-   "key": "MKE_HERNANDEZ_ELADIO_626874",
-   "name": "Eladio Hernandez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>15-40g)",
-   "more": 0,
-   "ts": 1794493663,
-   "photo": "photos/MKE_HERNANDEZ_ELADIO_626874.jpg"
-  },
-  {
-   "key": "MKE_GREEN_WILLIAM_512960",
-   "name": "William D Green",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 11,
-   "ts": 1794491861,
-   "photo": "photos/MKE_GREEN_WILLIAM_512960.jpg"
-  },
-  {
    "key": "MOUA_NANCY_2026-11-12",
    "name": "Nancy L Moua",
    "age": "36",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1794448056,
    "photo": null
-  },
-  {
-   "key": "MAR_RUSCH_ASHLEY_2026-11-11",
-   "name": "Ashley Donna Rusch",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 3,
-   "ts": 1794444837,
-   "photo": "photos/MAR_RUSCH_ASHLEY_2026-11-11.jpg"
-  },
-  {
-   "key": "LANE_STACY_2026-11-11",
-   "name": "Stacy Opal Lane",
-   "age": "50",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794443232,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KRUEGER_JASON_120011076212411",
+   "name": "Jason M Krueger",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794509283,
+   "photo": "photos/RC_KRUEGER_JASON_120011076212411.jpg"
+  },
+  {
+   "key": "RC_WALRUP_JOHNNY_120011076212530",
+   "name": "Johnny Mariuce Walrup",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794509281,
+   "photo": "photos/RC_WALRUP_JOHNNY_120011076212530.jpg"
+  },
+  {
+   "key": "RC_COPPENS_CHARLES_120011076212852",
+   "name": "Charles Coppens",
+   "age": "65",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794509277,
+   "photo": null
+  },
+  {
+   "key": "HISTER_DOMINIQUE_2026-11-12",
+   "name": "Dominique M Hister",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794509232,
+   "photo": null
+  },
+  {
+   "key": "EDBERG_DAISY_2026-11-12",
+   "name": "Daisy M Edberg",
+   "age": "57",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1794509231,
+   "photo": null
+  },
   {
    "key": "MKE_ZEPEDA_ABRIANNA_648260",
    "name": "Abrianna Zepeda",
