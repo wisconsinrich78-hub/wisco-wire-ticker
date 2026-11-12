@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-12T15:02:48+00:00",
+ "updated": "2026-11-12T16:30:32+00:00",
  "items": [
+  {
+   "key": "JACOBSON_SHELBY_2026-11-12",
+   "name": "Shelby R Jacobson",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Justice Sanctions",
+   "more": 1,
+   "ts": 1794500825,
+   "photo": null
+  },
+  {
+   "key": "MKE_WOMACK_GREGORY_129142",
+   "name": "Gregory Nmn Womack",
+   "age": "73",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794499092,
+   "photo": null
+  },
+  {
+   "key": "MKE_PHILLIPS_ALECEA_648257",
+   "name": "Alecea L Phillips",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794499090,
+   "photo": null
+  },
+  {
+   "key": "YANG_LONG_2026-11-12",
+   "name": "Long Yang",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794499018,
+   "photo": null
+  },
+  {
+   "key": "STEIGER_JEREMIAH_2026-11-12",
+   "name": "Jeremiah S Steiger",
+   "age": "48",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1794498430,
+   "photo": null
+  },
+  {
+   "key": "MKE_PHIPPS_CHARRALES_297695",
+   "name": "Charrales R Phipps",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794497271,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLMON_MONTIQUE_618949",
+   "name": "Montique Holmon",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1794497270,
+   "photo": "photos/MKE_HOLMON_MONTIQUE_618949.jpg"
+  },
+  {
+   "key": "MKE_GALLEGOS_JOSEPH_630690",
+   "name": "Joseph Nicholas Gallegos",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794497268,
+   "photo": "photos/MKE_GALLEGOS_JOSEPH_630690.jpg"
+  },
+  {
+   "key": "JOSTAD_DEVONDRE_2026-11-12",
+   "name": "Devondre L Jostad",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1794497229,
+   "photo": null
+  },
   {
    "key": "MKE_BROWN_JAMES_413862",
    "name": "James Joshuawall Brown",
@@ -10,7 +109,7 @@
    "charge": "Battery",
    "more": 0,
    "ts": 1794493665,
-   "photo": null
+   "photo": "photos/MKE_BROWN_JAMES_413862.jpg"
   },
   {
    "key": "MKE_HERNANDEZ_ELADIO_626874",
@@ -29,10 +128,10 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 11,
    "ts": 1794491861,
-   "photo": null
+   "photo": "photos/MKE_GREEN_WILLIAM_512960.jpg"
   },
   {
    "key": "RC_CARTAGENA_SALENO_120011076200284",
@@ -65,7 +164,7 @@
    "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 1,
    "ts": 1794488251,
-   "photo": null
+   "photo": "photos/MKE_THOMASTUCKER_ERICA_644028.jpg"
   },
   {
    "key": "WILSON_ANTHONY_2026-11-12",
@@ -98,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794482862,
-   "photo": null
+   "photo": "photos/MKE_NEWNHAM_JOHN_648256.jpg"
   },
   {
    "key": "FDL_PAVONGARCIA_ERICK_2026-11-12",
@@ -156,39 +255,6 @@
    "photo": "photos/MKE_SIMMONS_IYANA_648255.jpg"
   },
   {
-   "key": "RC_ASCENCIO_CESAR_120011076197055",
-   "name": "Cesar Ascencio",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
-   "more": 1,
-   "ts": 1794476867,
-   "photo": "photos/RC_ASCENCIO_CESAR_120011076197055.jpg"
-  },
-  {
-   "key": "MKE_SHARMA_ARJUN_606397",
-   "name": "Arjun Sharma",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794475654,
-   "photo": "photos/MKE_SHARMA_ARJUN_606397.jpg"
-  },
-  {
-   "key": "MKE_CLARK_JULLAINEEN_645635",
-   "name": "Jullaineen D Clark",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794475652,
-   "photo": "photos/MKE_CLARK_JULLAINEEN_645635.jpg"
-  },
-  {
    "key": "FDL_KARSCHNICK_ASHLEY_2026-11-12",
    "name": "Ashley Marie Karschnick",
    "age": "",
@@ -220,28 +286,6 @@
    "more": 2,
    "ts": 1794473606,
    "photo": "photos/MAR_BROOME_ERIN_2026-11-12.jpg"
-  },
-  {
-   "key": "RC_FOXCROFT_DREW_120011076196320",
-   "name": "Drew J Foxcroft",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794473267,
-   "photo": "photos/RC_FOXCROFT_DREW_120011076196320.jpg"
-  },
-  {
-   "key": "MKE_GALICIAGONZALEZ_ZOILA_648254",
-   "name": "Zoila Galicia Gonzalez",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794472047,
-   "photo": "photos/MKE_GALICIAGONZALEZ_ZOILA_648254.jpg"
   },
   {
    "key": "DOU_GREER_CHRISTINA_2026-11-12",
@@ -484,53 +528,108 @@
    "more": 1,
    "ts": 1794430497,
    "photo": "photos/MAR_GIRARD_ADAM_2026-11-11_3164707.jpg"
-  },
-  {
-   "key": "MAR_FLOWERS_MARCUS_2026-11-11",
-   "name": "Marcus Arnell Flowers",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess W/Intent-Cocaine (>1-5G)",
-   "more": 0,
-   "ts": 1794430460,
-   "photo": "photos/MAR_FLOWERS_MARCUS_2026-11-11.jpg"
-  },
-  {
-   "key": "WILLIAMS_JERRY_2026-11-11",
-   "name": "Jerry Bryson Marcell Williams",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Extradition",
-   "more": 1,
-   "ts": 1794430032,
-   "photo": null
-  },
-  {
-   "key": "MAR_BURNETT_WESLEY_2026-11-11_8187006",
-   "name": "Wesley Devon Burnett",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Manuf/Deliver Amphetamine(>10-50G)",
-   "more": 1,
-   "ts": 1794426838,
-   "photo": "photos/MAR_BURNETT_WESLEY_2026-11-11_8187006.jpg"
-  },
-  {
-   "key": "FEIST_VOLANTE_2026-11-11",
-   "name": "Volante C Feist",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794422835,
-   "photo": "photos/FEIST_VOLANTE_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "JACOBSON_SHELBY_2026-11-12",
+   "name": "Shelby R Jacobson",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold For Justice Sanctions",
+   "more": 1,
+   "ts": 1794500825,
+   "photo": null
+  },
+  {
+   "key": "MKE_WOMACK_GREGORY_129142",
+   "name": "Gregory Nmn Womack",
+   "age": "73",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794499092,
+   "photo": null
+  },
+  {
+   "key": "MKE_PHILLIPS_ALECEA_648257",
+   "name": "Alecea L Phillips",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794499090,
+   "photo": null
+  },
+  {
+   "key": "YANG_LONG_2026-11-12",
+   "name": "Long Yang",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794499018,
+   "photo": null
+  },
+  {
+   "key": "STEIGER_JEREMIAH_2026-11-12",
+   "name": "Jeremiah S Steiger",
+   "age": "48",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1794498430,
+   "photo": null
+  },
+  {
+   "key": "MKE_PHIPPS_CHARRALES_297695",
+   "name": "Charrales R Phipps",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794497271,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLMON_MONTIQUE_618949",
+   "name": "Montique Holmon",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1794497270,
+   "photo": "photos/MKE_HOLMON_MONTIQUE_618949.jpg"
+  },
+  {
+   "key": "MKE_GALLEGOS_JOSEPH_630690",
+   "name": "Joseph Nicholas Gallegos",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794497268,
+   "photo": "photos/MKE_GALLEGOS_JOSEPH_630690.jpg"
+  },
+  {
+   "key": "JOSTAD_DEVONDRE_2026-11-12",
+   "name": "Devondre L Jostad",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1794497229,
+   "photo": null
+  },
   {
    "key": "MKE_BROWN_JAMES_413862",
    "name": "James Joshuawall Brown",
@@ -540,7 +639,7 @@
    "charge": "Battery",
    "more": 0,
    "ts": 1794493665,
-   "photo": null
+   "photo": "photos/MKE_BROWN_JAMES_413862.jpg"
   },
   {
    "key": "MKE_HERNANDEZ_ELADIO_626874",
@@ -559,10 +658,10 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 11,
    "ts": 1794491861,
-   "photo": null
+   "photo": "photos/MKE_GREEN_WILLIAM_512960.jpg"
   },
   {
    "key": "RC_CARTAGENA_SALENO_120011076200284",
@@ -595,7 +694,7 @@
    "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 1,
    "ts": 1794488251,
-   "photo": null
+   "photo": "photos/MKE_THOMASTUCKER_ERICA_644028.jpg"
   },
   {
    "key": "WILSON_ANTHONY_2026-11-12",
@@ -628,7 +727,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794482862,
-   "photo": null
+   "photo": "photos/MKE_NEWNHAM_JOHN_648256.jpg"
   },
   {
    "key": "FDL_PAVONGARCIA_ERICK_2026-11-12",
@@ -5227,171 +5326,6 @@
    "more": 0,
    "ts": 1794242835,
    "photo": null
-  },
-  {
-   "key": "PECK_MARC_2026-11-09",
-   "name": "Marc Jacob Peck",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794241624,
-   "photo": null
-  },
-  {
-   "key": "FDL_MERCIER_ROBERT_2026-11-09",
-   "name": "Robert William Mercier",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794241015,
-   "photo": "photos/FDL_MERCIER_ROBERT_2026-11-09.jpg"
-  },
-  {
-   "key": "KEN_VENTURA_MELISA_2026-00006195",
-   "name": "Melisa Rae Ventura",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794239967,
-   "photo": "photos/KEN_VENTURA_MELISA_2026-00006195.jpg"
-  },
-  {
-   "key": "MKE_NEAL_CHARLES_355126",
-   "name": "Charles Edward Neal",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794239860,
-   "photo": "photos/MKE_NEAL_CHARLES_355126.jpg"
-  },
-  {
-   "key": "MKE_DIAZMORRALES_JUAN_648219",
-   "name": "Juan Diaz Morrales",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794239859,
-   "photo": "photos/MKE_DIAZMORRALES_JUAN_648219.jpg"
-  },
-  {
-   "key": "KEN_FIELDS_DARTAVIOUS_2026-00006196",
-   "name": "Dartavious Lashawn Fields",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794239838,
-   "photo": "photos/KEN_FIELDS_DARTAVIOUS_2026-00006196.jpg"
-  },
-  {
-   "key": "MAR_WILL_DANIELLE_2026-11-09_17076901",
-   "name": "Danielle Nicole Will",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1794239694,
-   "photo": "photos/MAR_WILL_DANIELLE_2026-11-09_17076901.jpg"
-  },
-  {
-   "key": "MAR_HOFFMAN_SCOTT_2026-11-09",
-   "name": "Scott Anthony Hoffman",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Capias - Misdemeanor",
-   "more": 0,
-   "ts": 1794239647,
-   "photo": "photos/MAR_HOFFMAN_SCOTT_2026-11-09.jpg"
-  },
-  {
-   "key": "RC_RINCON_VANESSA_120011076082599",
-   "name": "Vanessa Rincon",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 8,
-   "ts": 1794239269,
-   "photo": "photos/RC_RINCON_VANESSA_120011076082599.jpg"
-  },
-  {
-   "key": "RC_DASKO_MARCHELLO_120011076084475",
-   "name": "Marchello Anthony Dasko",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794239266,
-   "photo": "photos/RC_DASKO_MARCHELLO_120011076084475.jpg"
-  },
-  {
-   "key": "MKE_HILL_EDWARD_381858",
-   "name": "Edward Hill",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1794238062,
-   "photo": "photos/MKE_HILL_EDWARD_381858.jpg"
-  },
-  {
-   "key": "MKE_DAVENPORT_MARQUE_533457",
-   "name": "Marque J Davenport",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794238060,
-   "photo": "photos/MKE_DAVENPORT_MARQUE_533457.jpg"
-  },
-  {
-   "key": "MKE_BARNETT_CHARLSETTA_648218",
-   "name": "Charlsetta C Barnett",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794238059,
-   "photo": "photos/MKE_BARNETT_CHARLSETTA_648218.jpg"
-  },
-  {
-   "key": "FDL_PEASE_DAVID_2026-11-09",
-   "name": "David L Pease",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
-   "more": 1,
-   "ts": 1794237419,
-   "photo": "photos/FDL_PEASE_DAVID_2026-11-09.jpg"
-  },
-  {
-   "key": "FDL_COLEMAN_KAILYN_2026-11-09",
-   "name": "Kailyn P Coleman",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
-   "more": 1,
-   "ts": 1794237383,
-   "photo": "photos/FDL_COLEMAN_KAILYN_2026-11-09.jpg"
   }
  ]
 }
