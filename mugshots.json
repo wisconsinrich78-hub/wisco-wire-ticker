@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-12T01:59:45+00:00",
+ "updated": "2026-11-12T03:19:40+00:00",
  "items": [
+  {
+   "key": "RC_LEE_KEVIN_120011076190411",
+   "name": "Kevin Leandre Lee",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794452706,
+   "photo": "photos/RC_LEE_KEVIN_120011076190411.jpg"
+  },
+  {
+   "key": "RC_WILLIAMS_DARIUS_120011076190460",
+   "name": "Darius L Williams",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794452702,
+   "photo": "photos/RC_WILLIAMS_DARIUS_120011076190460.jpg"
+  },
+  {
+   "key": "MAR_GARCIA_JIMMY_2026-11-11",
+   "name": "Jimmy Garcia",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794452010,
+   "photo": "photos/MAR_GARCIA_JIMMY_2026-11-11.jpg"
+  },
+  {
+   "key": "MKE_BANKS_BRYAN_406798",
+   "name": "Bryan R Banks",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794450535,
+   "photo": null
+  },
+  {
+   "key": "MKE_WESLEY_SHAKYIA_606300",
+   "name": "Shakyia Monyia Wesley",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1794450529,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAREFIELD_LISA_628245",
+   "name": "Lisa K Barefield",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to Healthcare Provider or Family",
+   "more": 0,
+   "ts": 1794450526,
+   "photo": null
+  },
+  {
+   "key": "MKE_WHITEHEAD_DEVION_648247",
+   "name": "Devion Lee Whitehead",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794450521,
+   "photo": "photos/MKE_WHITEHEAD_DEVION_648247.jpg"
+  },
+  {
+   "key": "MKE_BENSO_VINCENT_648248",
+   "name": "Vincent Anthony Benso",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1794450516,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHASE_PARKER_2065850",
+   "name": "Parker James Chase",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property <=$2500",
+   "more": 0,
+   "ts": 1794450512,
+   "photo": null
+  },
   {
    "key": "MKE_FOSTER_DANIEL_289382",
    "name": "Daniel Lamar Foster",
@@ -10,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794448660,
-   "photo": null
+   "photo": "photos/MKE_FOSTER_DANIEL_289382.jpg"
   },
   {
    "key": "MKE_EDWARDS_CALVIN_342519",
@@ -76,7 +175,7 @@
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 9,
    "ts": 1794443285,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_DERON_622545.jpg"
   },
   {
    "key": "MKE_MOYE_BREON_636056",
@@ -87,7 +186,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 4,
    "ts": 1794443283,
-   "photo": null
+   "photo": "photos/MKE_MOYE_BREON_636056.jpg"
   },
   {
    "key": "LANE_STACY_2026-11-11",
@@ -134,17 +233,6 @@
    "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11_14338302.jpg"
   },
   {
-   "key": "RC_WILSON_KEINARI_120011076185139",
-   "name": "Keinari M Wilson",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794440897,
-   "photo": "photos/RC_WILSON_KEINARI_120011076185139.jpg"
-  },
-  {
    "key": "HANKEL_MALACHI_2026-11-11",
    "name": "Malachi C Hankel",
    "age": "41",
@@ -154,17 +242,6 @@
    "more": 1,
    "ts": 1794440835,
    "photo": null
-  },
-  {
-   "key": "MKE_ALLEN_JABRIL_517421",
-   "name": "Jabril Mandela Allen",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794439724,
-   "photo": "photos/MKE_ALLEN_JABRIL_517421.jpg"
   },
   {
    "key": "DOU_PHILLIPS_JULIE_2026-11-11",
@@ -178,39 +255,6 @@
    "photo": "photos/DOU_PHILLIPS_JULIE_2026-11-11.jpg"
   },
   {
-   "key": "MKE_WILSON_CORDAREO_375254",
-   "name": "Cordareo A Wilson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794437918,
-   "photo": "photos/MKE_WILSON_CORDAREO_375254.jpg"
-  },
-  {
-   "key": "MKE_BARBER_RODNEY_383200",
-   "name": "Rodney Lewis Barber",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794437912,
-   "photo": "photos/MKE_BARBER_RODNEY_383200.jpg"
-  },
-  {
-   "key": "MKE_JAMES_JAMEL_411040",
-   "name": "Jamel L James",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Endanger Safety/Use/Dangerous Weapon",
-   "more": 1,
-   "ts": 1794437908,
-   "photo": "photos/MKE_JAMES_JAMEL_411040.jpg"
-  },
-  {
    "key": "MAR_SIEFKEN_DEREK_2026-11-11",
    "name": "Derek Anthony Siefken",
    "age": "27",
@@ -220,39 +264,6 @@
    "more": 1,
    "ts": 1794437663,
    "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11.jpg"
-  },
-  {
-   "key": "KEN_NACIUS_CLAUDE_2026-00006261",
-   "name": "Claude Nacius",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794437609,
-   "photo": null
-  },
-  {
-   "key": "KEN_MCMULLIN_ROBERT_2026-00006260",
-   "name": "Robert Ryan Mcmullin",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Manufacture/Deliver Pcp, Methcathinone, Or Amphetamine (50 Grams+)",
-   "more": 0,
-   "ts": 1794437531,
-   "photo": "photos/KEN_MCMULLIN_ROBERT_2026-00006260.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_PRENTICE_120011076183270",
-   "name": "Prentice Antjuan Williams",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Take and Drive Vehicle Without Owner's Consent",
-   "more": 1,
-   "ts": 1794437286,
-   "photo": "photos/RC_WILLIAMS_PRENTICE_120011076183270.jpg"
   },
   {
    "key": "MAR_ELLWART_LOUIS_2026-11-11_15005103",
@@ -409,17 +420,6 @@
    "photo": "photos/MAR_ELLWART_LOUIS_2026-11-11.jpg"
   },
   {
-   "key": "MAR_NIZINSKI_CHRISTOPHER_2026-11-11",
-   "name": "Christopher F Nizinski",
-   "age": "66",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794419654,
-   "photo": "photos/MAR_NIZINSKI_CHRISTOPHER_2026-11-11.jpg"
-  },
-  {
    "key": "BINGHAM_DYLAN_2026-11-11",
    "name": "Dylan J Bingham",
    "age": "24",
@@ -532,6 +532,105 @@
  ],
  "all_items": [
   {
+   "key": "RC_LEE_KEVIN_120011076190411",
+   "name": "Kevin Leandre Lee",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794452706,
+   "photo": "photos/RC_LEE_KEVIN_120011076190411.jpg"
+  },
+  {
+   "key": "RC_WILLIAMS_DARIUS_120011076190460",
+   "name": "Darius L Williams",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794452702,
+   "photo": "photos/RC_WILLIAMS_DARIUS_120011076190460.jpg"
+  },
+  {
+   "key": "MAR_GARCIA_JIMMY_2026-11-11",
+   "name": "Jimmy Garcia",
+   "age": "50",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794452010,
+   "photo": "photos/MAR_GARCIA_JIMMY_2026-11-11.jpg"
+  },
+  {
+   "key": "MKE_BANKS_BRYAN_406798",
+   "name": "Bryan R Banks",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794450535,
+   "photo": null
+  },
+  {
+   "key": "MKE_WESLEY_SHAKYIA_606300",
+   "name": "Shakyia Monyia Wesley",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
+   "ts": 1794450529,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAREFIELD_LISA_628245",
+   "name": "Lisa K Barefield",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to Healthcare Provider or Family",
+   "more": 0,
+   "ts": 1794450526,
+   "photo": null
+  },
+  {
+   "key": "MKE_WHITEHEAD_DEVION_648247",
+   "name": "Devion Lee Whitehead",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794450521,
+   "photo": "photos/MKE_WHITEHEAD_DEVION_648247.jpg"
+  },
+  {
+   "key": "MKE_BENSO_VINCENT_648248",
+   "name": "Vincent Anthony Benso",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1794450516,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHASE_PARKER_2065850",
+   "name": "Parker James Chase",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property <=$2500",
+   "more": 0,
+   "ts": 1794450512,
+   "photo": null
+  },
+  {
    "key": "MKE_FOSTER_DANIEL_289382",
    "name": "Daniel Lamar Foster",
    "age": "43",
@@ -540,7 +639,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794448660,
-   "photo": null
+   "photo": "photos/MKE_FOSTER_DANIEL_289382.jpg"
   },
   {
    "key": "MKE_EDWARDS_CALVIN_342519",
@@ -606,7 +705,7 @@
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 9,
    "ts": 1794443285,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_DERON_622545.jpg"
   },
   {
    "key": "MKE_MOYE_BREON_636056",
@@ -617,7 +716,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 4,
    "ts": 1794443283,
-   "photo": null
+   "photo": "photos/MKE_MOYE_BREON_636056.jpg"
   },
   {
    "key": "LANE_STACY_2026-11-11",
@@ -5458,50 +5557,6 @@
    "more": 0,
    "ts": 1794194827,
    "photo": null
-  },
-  {
-   "key": "DOU_PAULUS_HALEY_2026-11-08",
-   "name": "Haley J Paulus",
-   "age": "57",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794194226,
-   "photo": "photos/DOU_PAULUS_HALEY_2026-11-08.jpg"
-  },
-  {
-   "key": "MAR_DENZIN_SCOTT_2026-11-08_348103",
-   "name": "Scott Gordon Denzin",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contact After Domestic Abuse Arrest",
-   "more": 0,
-   "ts": 1794192794,
-   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08_348103.jpg"
-  },
-  {
-   "key": "MKE_TORRESPRINCIPE_HENDRICK_648209",
-   "name": "Hendrick J Torres Principe",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794191251,
-   "photo": "photos/MKE_TORRESPRINCIPE_HENDRICK_648209.jpg"
-  },
-  {
-   "key": "MKE_MOORE_JOHN_648210",
-   "name": "John Robert Moore",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794191250,
-   "photo": "photos/MKE_MOORE_JOHN_648210.jpg"
   }
  ]
 }
