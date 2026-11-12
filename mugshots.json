@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T06:04:53+00:00",
+ "updated": "2026-11-12T06:31:21+00:00",
  "items": [
+  {
+   "key": "DOU_SMITH_MARIA_2026-11-11",
+   "name": "Maria R Smith",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1794464241,
+   "photo": "photos/DOU_SMITH_MARIA_2026-11-11.jpg"
+  },
   {
    "key": "KEN_ARRINGTON_DUANE_2026-00006266",
    "name": "Duane Arrington",
@@ -43,7 +54,7 @@
    "charge": "Disorderly Conduct",
    "more": 5,
    "ts": 1794459514,
-   "photo": null
+   "photo": "photos/MKE_HALL_TEVELL_2057547.jpg"
   },
   {
    "key": "RC_HANSEN_SANDRA_120011076191927",
@@ -120,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794454089,
-   "photo": null
+   "photo": "photos/MKE_KIROS_DAVID_529331.jpg"
   },
   {
    "key": "MKE_PERKINS_DELMONTA_608635",
@@ -197,7 +208,7 @@
    "charge": "Fail/Display Vehicle License Plates",
    "more": 2,
    "ts": 1794450535,
-   "photo": null
+   "photo": "photos/MKE_BANKS_BRYAN_406798.jpg"
   },
   {
    "key": "MKE_WESLEY_SHAKYIA_606300",
@@ -442,17 +453,6 @@
    "photo": "photos/DOU_FREEMAN_JAKE_2026-11-11.jpg"
   },
   {
-   "key": "MAR_ELLWART_LOUIS_2026-11-11",
-   "name": "Louis Edward Ellwart",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794419700,
-   "photo": "photos/MAR_ELLWART_LOUIS_2026-11-11.jpg"
-  },
-  {
    "key": "BINGHAM_DYLAN_2026-11-11",
    "name": "Dylan J Bingham",
    "age": "24",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "DOU_SMITH_MARIA_2026-11-11",
+   "name": "Maria R Smith",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1794464241,
+   "photo": "photos/DOU_SMITH_MARIA_2026-11-11.jpg"
+  },
+  {
    "key": "KEN_ARRINGTON_DUANE_2026-00006266",
    "name": "Duane Arrington",
    "age": "61",
@@ -573,7 +584,7 @@
    "charge": "Disorderly Conduct",
    "more": 5,
    "ts": 1794459514,
-   "photo": null
+   "photo": "photos/MKE_HALL_TEVELL_2057547.jpg"
   },
   {
    "key": "RC_HANSEN_SANDRA_120011076191927",
@@ -650,7 +661,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794454089,
-   "photo": null
+   "photo": "photos/MKE_KIROS_DAVID_529331.jpg"
   },
   {
    "key": "MKE_PERKINS_DELMONTA_608635",
@@ -727,7 +738,7 @@
    "charge": "Fail/Display Vehicle License Plates",
    "more": 2,
    "ts": 1794450535,
-   "photo": null
+   "photo": "photos/MKE_BANKS_BRYAN_406798.jpg"
   },
   {
    "key": "MKE_WESLEY_SHAKYIA_606300",
