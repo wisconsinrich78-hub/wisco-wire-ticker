@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T06:31:21+00:00",
+ "updated": "2026-11-12T07:08:13+00:00",
  "items": [
+  {
+   "key": "MKE_FOX_DEVIN_648250",
+   "name": "Devin D Fox",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794466657,
+   "photo": "photos/MKE_FOX_DEVIN_648250.jpg"
+  },
+  {
+   "key": "KEN_STANLEY_ROGER_2026-00006267",
+   "name": "ROGER WILLIAM Third STANLEY",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794466496,
+   "photo": "photos/KEN_STANLEY_ROGER_2026-00006267.jpg"
+  },
+  {
+   "key": "VUE_BLONG_2026-11-12",
+   "name": "Blong Vue",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794466024,
+   "photo": null
+  },
   {
    "key": "DOU_SMITH_MARIA_2026-11-11",
    "name": "Maria R Smith",
@@ -32,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794461251,
-   "photo": null
+   "photo": "photos/MKE_LLOYD_CLIFTON_271749.jpg"
   },
   {
    "key": "MKE_DUNBAR_TREYONDES_386835",
@@ -43,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794461250,
-   "photo": null
+   "photo": "photos/MKE_DUNBAR_TREYONDES_386835.jpg"
   },
   {
    "key": "MKE_HALL_TEVELL_2057547",
@@ -153,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794454081,
-   "photo": null
+   "photo": "photos/MKE_MCINTYRE_DEVONTE_648249.jpg"
   },
   {
    "key": "JACKSON_KENNETH_2026-11-11",
@@ -209,28 +242,6 @@
    "more": 2,
    "ts": 1794450535,
    "photo": "photos/MKE_BANKS_BRYAN_406798.jpg"
-  },
-  {
-   "key": "MKE_WESLEY_SHAKYIA_606300",
-   "name": "Shakyia Monyia Wesley",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 3,
-   "ts": 1794450529,
-   "photo": "photos/MKE_WESLEY_SHAKYIA_606300.jpg"
-  },
-  {
-   "key": "MKE_BAREFIELD_LISA_628245",
-   "name": "Lisa K Barefield",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery to Healthcare Provider or Family",
-   "more": 0,
-   "ts": 1794450526,
-   "photo": "photos/MKE_BAREFIELD_LISA_628245.jpg"
   },
   {
    "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794394057,
    "photo": "photos/TREM_OLSON_MEGAN_4177.jpg"
-  },
-  {
-   "key": "TREM_VANMETER_SHYANN_5911",
-   "name": "Shyann May VanMeter",
-   "age": "23",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Appear Warrant",
-   "more": 0,
-   "ts": 1794394054,
-   "photo": "photos/TREM_VANMETER_SHYANN_5911.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_FOX_DEVIN_648250",
+   "name": "Devin D Fox",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794466657,
+   "photo": "photos/MKE_FOX_DEVIN_648250.jpg"
+  },
+  {
+   "key": "KEN_STANLEY_ROGER_2026-00006267",
+   "name": "ROGER WILLIAM Third STANLEY",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794466496,
+   "photo": "photos/KEN_STANLEY_ROGER_2026-00006267.jpg"
+  },
+  {
+   "key": "VUE_BLONG_2026-11-12",
+   "name": "Blong Vue",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794466024,
+   "photo": null
+  },
   {
    "key": "DOU_SMITH_MARIA_2026-11-11",
    "name": "Maria R Smith",
@@ -562,7 +595,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794461251,
-   "photo": null
+   "photo": "photos/MKE_LLOYD_CLIFTON_271749.jpg"
   },
   {
    "key": "MKE_DUNBAR_TREYONDES_386835",
@@ -573,7 +606,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794461250,
-   "photo": null
+   "photo": "photos/MKE_DUNBAR_TREYONDES_386835.jpg"
   },
   {
    "key": "MKE_HALL_TEVELL_2057547",
@@ -683,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794454081,
-   "photo": null
+   "photo": "photos/MKE_MCINTYRE_DEVONTE_648249.jpg"
   },
   {
    "key": "JACKSON_KENNETH_2026-11-11",
@@ -5424,105 +5457,6 @@
    "charge": "Hold For Justice Sanctions",
    "more": 2,
    "ts": 1794209220,
-   "photo": null
-  },
-  {
-   "key": "KEN_PUSHEE_CHARLES_2026-00006188",
-   "name": "Charles Allen Pushee",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Unsafe Lane Deviation",
-   "more": 2,
-   "ts": 1794207592,
-   "photo": "photos/KEN_PUSHEE_CHARLES_2026-00006188.jpg"
-  },
-  {
-   "key": "KEN_DAVID_SEAN_2026-00006185",
-   "name": "Sean Michael David",
-   "age": "53",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 2,
-   "ts": 1794207521,
-   "photo": null
-  },
-  {
-   "key": "KEN_COOKS_LAKEISHA_2026-00006189",
-   "name": "Lakeisha Denise Cooks",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794207484,
-   "photo": "photos/KEN_COOKS_LAKEISHA_2026-00006189.jpg"
-  },
-  {
-   "key": "KEN_CLARK_SKYLINN_2026-00006190",
-   "name": "Skylinn Marie Clark",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794207411,
-   "photo": "photos/KEN_CLARK_SKYLINN_2026-00006190.jpg"
-  },
-  {
-   "key": "MAR_FROST_AUSTAN_2026-11-08",
-   "name": "Austan Michael Frost",
-   "age": "21",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794207258,
-   "photo": "photos/MAR_FROST_AUSTAN_2026-11-08.jpg"
-  },
-  {
-   "key": "MAR_KELLEY_PATRICK_2026-11-08_11612101",
-   "name": "Patrick James Kelley",
-   "age": "62",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 1,
-   "ts": 1794207217,
-   "photo": "photos/MAR_KELLEY_PATRICK_2026-11-08_11612101.jpg"
-  },
-  {
-   "key": "RC_ORTIZ_ANIYA_120011074486823",
-   "name": "Aniya J Ortiz",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Credit Card-Theft by Acquisition",
-   "more": 19,
-   "ts": 1794206875,
-   "photo": "photos/RC_ORTIZ_ANIYA_120011074486823.jpg"
-  },
-  {
-   "key": "RC_RODRIGUEZ_ASHLEY_120011076073239",
-   "name": "Ashley Maria Rodriguez",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794206872,
-   "photo": "photos/RC_RODRIGUEZ_ASHLEY_120011076073239.jpg"
-  },
-  {
-   "key": "MCKINNEY_JAQUAN_2026-11-09",
-   "name": "Jaquan L Mckinney",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794206829,
    "photo": null
   }
  ]
