@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-12T21:01:32+00:00",
+ "updated": "2026-11-12T22:06:39+00:00",
  "items": [
+  {
+   "key": "MKE_AVENDALLO_MARCELINO_334846",
+   "name": "Marcelino Avendallo",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794520737,
+   "photo": null
+  },
+  {
+   "key": "MKE_WESLEY_CARMELITA_629243",
+   "name": "Carmelita J Wesley",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794520735,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCLAUGHLIN_JOHN_2036339",
+   "name": "John Stewart Mclaughlin",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794520732,
+   "photo": null
+  },
+  {
+   "key": "MKE_THARP_SHAMIKA_648262",
+   "name": "Shamika T Tharp",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794518874,
+   "photo": null
+  },
+  {
+   "key": "CAMPBELL_MATTHEW_2026-11-12",
+   "name": "Matthew L Campbell",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794518829,
+   "photo": null
+  },
   {
    "key": "RC_DAMS_ROBERT_120011076221525",
    "name": "Robert Ben Dams",
@@ -84,7 +139,7 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
+   "charge": "Criminal Damage to Property",
    "more": 3,
    "ts": 1794513495,
    "photo": null
@@ -167,39 +222,6 @@
    "photo": "photos/CARTER_PRINCE_2026-11-12.jpg"
   },
   {
-   "key": "RC_KRUEGER_JASON_120011076212411",
-   "name": "Jason M Krueger",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794509283,
-   "photo": "photos/RC_KRUEGER_JASON_120011076212411.jpg"
-  },
-  {
-   "key": "RC_WALRUP_JOHNNY_120011076212530",
-   "name": "Johnny Mariuce Walrup",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794509281,
-   "photo": "photos/RC_WALRUP_JOHNNY_120011076212530.jpg"
-  },
-  {
-   "key": "RC_COPPENS_CHARLES_120011076212852",
-   "name": "Charles Coppens",
-   "age": "65",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794509277,
-   "photo": null
-  },
-  {
    "key": "HISTER_DOMINIQUE_2026-11-12",
    "name": "Dominique M Hister",
    "age": "24",
@@ -220,17 +242,6 @@
    "more": 0,
    "ts": 1794509231,
    "photo": null
-  },
-  {
-   "key": "MKE_ZEPEDA_ABRIANNA_648260",
-   "name": "Abrianna Zepeda",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794508056,
-   "photo": "photos/MKE_ZEPEDA_ABRIANNA_648260.jpg"
   },
   {
    "key": "DOU_SANIGAR_SEAN_2026-11-12",
@@ -517,20 +528,64 @@
    "more": 2,
    "ts": 1794458834,
    "photo": null
-  },
-  {
-   "key": "ZIMMERMAN_MICHELLE_2026-11-11",
-   "name": "Michelle A Zimmerman",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794458833,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_AVENDALLO_MARCELINO_334846",
+   "name": "Marcelino Avendallo",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794520737,
+   "photo": null
+  },
+  {
+   "key": "MKE_WESLEY_CARMELITA_629243",
+   "name": "Carmelita J Wesley",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794520735,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCLAUGHLIN_JOHN_2036339",
+   "name": "John Stewart Mclaughlin",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794520732,
+   "photo": null
+  },
+  {
+   "key": "MKE_THARP_SHAMIKA_648262",
+   "name": "Shamika T Tharp",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794518874,
+   "photo": null
+  },
+  {
+   "key": "CAMPBELL_MATTHEW_2026-11-12",
+   "name": "Matthew L Campbell",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794518829,
+   "photo": null
+  },
   {
    "key": "RC_DAMS_ROBERT_120011076221525",
    "name": "Robert Ben Dams",
@@ -614,7 +669,7 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
+   "charge": "Criminal Damage to Property",
    "more": 3,
    "ts": 1794513495,
    "photo": null
@@ -5204,105 +5259,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 0,
    "ts": 1794263230,
-   "photo": null
-  },
-  {
-   "key": "KEN_LAMOTHE_JAMES_2026-00006205",
-   "name": "James M Lamothe",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794261498,
-   "photo": "photos/KEN_LAMOTHE_JAMES_2026-00006205.jpg"
-  },
-  {
-   "key": "MKE_THOMPSON_AARON_525056",
-   "name": "Aaron D Thompson",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794261488,
-   "photo": "photos/MKE_THOMPSON_AARON_525056.jpg"
-  },
-  {
-   "key": "KEN_BARNETT_BRITTNEY_2026-00006204",
-   "name": "Brittney Irene Barnett",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794261382,
-   "photo": "photos/KEN_BARNETT_BRITTNEY_2026-00006204.jpg"
-  },
-  {
-   "key": "MAR_OUSLEY_DIMITRI_2026-11-09_17077101",
-   "name": "Dimitri Ousley",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794261278,
-   "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-09_17077101.jpg"
-  },
-  {
-   "key": "MAR_DALEY_KEVIN_2026-11-09_9985404",
-   "name": "Kevin James Daley",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1794261240,
-   "photo": "photos/MAR_DALEY_KEVIN_2026-11-09_9985404.jpg"
-  },
-  {
-   "key": "RC_BOUSSON_JEREMY_120011076101221",
-   "name": "Jeremy Michael Bousson",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794260913,
-   "photo": "photos/RC_BOUSSON_JEREMY_120011076101221.jpg"
-  },
-  {
-   "key": "HOU_KISTLER_KORTNEYROBERT_6330",
-   "name": "Kortney Robert Kistler",
-   "age": "49",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Traffic - DWI - Refuse to submit to chemical (1-Court Pending)",
-   "more": 1,
-   "ts": 1794260858,
-   "photo": "photos/HOU_KISTLER_KORTNEYROBERT_6330.jpg"
-  },
-  {
-   "key": "MKE_GALOM_DEVONTE_645623",
-   "name": "Devonte Galom",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1794259714,
-   "photo": "photos/MKE_GALOM_DEVONTE_645623.jpg"
-  },
-  {
-   "key": "NEELY_VINCENT_2026-11-09",
-   "name": "Vincent D Neely",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794259627,
    "photo": null
   }
  ]
