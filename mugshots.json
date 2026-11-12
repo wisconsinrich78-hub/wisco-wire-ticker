@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T01:08:26+00:00",
+ "updated": "2026-11-12T01:59:45+00:00",
  "items": [
+  {
+   "key": "MKE_FOSTER_DANIEL_289382",
+   "name": "Daniel Lamar Foster",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794448660,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_CALVIN_342519",
+   "name": "Calvin Lee Edwards",
+   "age": "70",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794448658,
+   "photo": null
+  },
+  {
+   "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
+   "name": "Christopher Randall Palmer",
+   "age": "37",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Domestic Assault-Misdemeanor-Commits Act to C (1-Court Pending)",
+   "more": 0,
+   "ts": 1794448056,
+   "photo": null
+  },
   {
    "key": "MAR_RUSCH_ASHLEY_2026-11-11",
    "name": "Ashley Donna Rusch",
@@ -32,7 +65,7 @@
    "charge": "Causing Mental Harm to Child",
    "more": 1,
    "ts": 1794443287,
-   "photo": null
+   "photo": "photos/MKE_QUINN_DEVILLE_414260.jpg"
   },
   {
    "key": "MKE_JOHNSON_DERON_622545",
@@ -131,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794439724,
-   "photo": null
+   "photo": "photos/MKE_ALLEN_JABRIL_517421.jpg"
   },
   {
    "key": "DOU_PHILLIPS_JULIE_2026-11-11",
@@ -153,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794437918,
-   "photo": null
+   "photo": "photos/MKE_WILSON_CORDAREO_375254.jpg"
   },
   {
    "key": "MKE_BARBER_RODNEY_383200",
@@ -264,28 +297,6 @@
    "more": 3,
    "ts": 1794436886,
    "photo": "photos/MAR_COMSTOCK_JAMES_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_LONDON_602789",
-   "name": "London G Williams",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 10,
-   "ts": 1794434312,
-   "photo": "photos/MKE_WILLIAMS_LONDON_602789.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_MACK_641698",
-   "name": "Mack Maurice Johnson",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794432522,
-   "photo": "photos/MKE_JOHNSON_MACK_641698.jpg"
   },
   {
    "key": "FDL_THREETS_LEROY_2026-11-11",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794379631,
    "photo": null
-  },
-  {
-   "key": "DELAGRAVE_CAPRICE_2026-11-10",
-   "name": "Caprice B Delagrave",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794372425,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_FOSTER_DANIEL_289382",
+   "name": "Daniel Lamar Foster",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794448660,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_CALVIN_342519",
+   "name": "Calvin Lee Edwards",
+   "age": "70",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794448658,
+   "photo": null
+  },
+  {
+   "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
+   "name": "Christopher Randall Palmer",
+   "age": "37",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Domestic Assault-Misdemeanor-Commits Act to C (1-Court Pending)",
+   "more": 0,
+   "ts": 1794448056,
+   "photo": null
+  },
   {
    "key": "MAR_RUSCH_ASHLEY_2026-11-11",
    "name": "Ashley Donna Rusch",
@@ -562,7 +595,7 @@
    "charge": "Causing Mental Harm to Child",
    "more": 1,
    "ts": 1794443287,
-   "photo": null
+   "photo": "photos/MKE_QUINN_DEVILLE_414260.jpg"
   },
   {
    "key": "MKE_JOHNSON_DERON_622545",
@@ -661,7 +694,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794439724,
-   "photo": null
+   "photo": "photos/MKE_ALLEN_JABRIL_517421.jpg"
   },
   {
    "key": "DOU_PHILLIPS_JULIE_2026-11-11",
@@ -683,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794437918,
-   "photo": null
+   "photo": "photos/MKE_WILSON_CORDAREO_375254.jpg"
   },
   {
    "key": "MKE_BARBER_RODNEY_383200",
@@ -5469,127 +5502,6 @@
    "more": 1,
    "ts": 1794191250,
    "photo": "photos/MKE_MOORE_JOHN_648210.jpg"
-  },
-  {
-   "key": "KEN_SWANSON_RICHARD_2026-00006180",
-   "name": "Richard Jay Swanson",
-   "age": "67",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1794189573,
-   "photo": "photos/KEN_SWANSON_RICHARD_2026-00006180.jpg"
-  },
-  {
-   "key": "MKE_HUIRAS_STEVEN_543370",
-   "name": "Steven M Huiras",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794189467,
-   "photo": "photos/MKE_HUIRAS_STEVEN_543370.jpg"
-  },
-  {
-   "key": "MKE_WILDER_ARMOND_648207",
-   "name": "Armond Deshawne Wilder",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794189465,
-   "photo": "photos/MKE_WILDER_ARMOND_648207.jpg"
-  },
-  {
-   "key": "MKE_DACQUISTO_ANDREA_648208",
-   "name": "Andrea Dacquisto",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794189463,
-   "photo": "photos/MKE_DACQUISTO_ANDREA_648208.jpg"
-  },
-  {
-   "key": "KEN_HEARTON_CRYSTAL_2026-00006181",
-   "name": "Crystal Lynn Hearton",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Domestic Abuse Repeater",
-   "more": 1,
-   "ts": 1794189456,
-   "photo": "photos/KEN_HEARTON_CRYSTAL_2026-00006181.jpg"
-  },
-  {
-   "key": "KEN_FLORES_ADRIAN_2026-00006182",
-   "name": "Adrian Robert Flores",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate After Rev/Susp Of Registration",
-   "more": 3,
-   "ts": 1794189380,
-   "photo": "photos/KEN_FLORES_ADRIAN_2026-00006182.jpg"
-  },
-  {
-   "key": "KEN_BROWN_ISAIAH_2026-00006184",
-   "name": "Isaiah Demetrius Brown",
-   "age": "19",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Drive Or Operate Vehicle W/O Consent",
-   "more": 0,
-   "ts": 1794189307,
-   "photo": "photos/KEN_BROWN_ISAIAH_2026-00006184.jpg"
-  },
-  {
-   "key": "MAR_POPP_DYLAN_2026-11-08",
-   "name": "Dylan Mark Popp",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794189282,
-   "photo": null
-  },
-  {
-   "key": "MAR_SPRINGER_DANIEL_2026-11-08",
-   "name": "Daniel Frederick Springer",
-   "age": "72",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794189245,
-   "photo": "photos/MAR_SPRINGER_DANIEL_2026-11-08.jpg"
-  },
-  {
-   "key": "MAR_DENZIN_SCOTT_2026-11-08",
-   "name": "Scott Gordon Denzin",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contact After Domestic Abuse Arrest",
-   "more": 0,
-   "ts": 1794189209,
-   "photo": "photos/MAR_DENZIN_SCOTT_2026-11-08.jpg"
-  },
-  {
-   "key": "RC_BOERGER_NATHAN_120011076067727",
-   "name": "Nathan Irwin Boerger",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1794188879,
-   "photo": "photos/RC_BOERGER_NATHAN_120011076067727.jpg"
   }
  ]
 }
