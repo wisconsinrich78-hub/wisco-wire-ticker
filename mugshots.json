@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T17:00:04+00:00",
+ "updated": "2026-11-12T17:22:41+00:00",
  "items": [
+  {
+   "key": "KEN_STANLEYGOMEZ_BEN_2026-00006270",
+   "name": "Ben Stanley Gomez",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794503311,
+   "photo": null
+  },
+  {
+   "key": "KEN_PESDAN_KARAH_2026-00006269",
+   "name": "Karah Jean Pesdan",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violate Temp Restraining Order Or Injunction",
+   "more": 0,
+   "ts": 1794503247,
+   "photo": "photos/KEN_PESDAN_KARAH_2026-00006269.jpg"
+  },
   {
    "key": "MKE_WATSON_JALIN_648258",
    "name": "Jalin Lee Watson",
@@ -277,28 +299,6 @@
    "photo": null
   },
   {
-   "key": "RC_PETTY_ROBERT_120011076198706",
-   "name": "Robert R Petty",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1794484064,
-   "photo": "photos/RC_PETTY_ROBERT_120011076198706.jpg"
-  },
-  {
-   "key": "MKE_NEWNHAM_JOHN_648256",
-   "name": "John Newnham",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794482862,
-   "photo": "photos/MKE_NEWNHAM_JOHN_648256.jpg"
-  },
-  {
    "key": "FDL_PAVONGARCIA_ERICK_2026-11-12",
    "name": "Erick Pavon Garcia",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_STANLEYGOMEZ_BEN_2026-00006270",
+   "name": "Ben Stanley Gomez",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794503311,
+   "photo": null
+  },
+  {
+   "key": "KEN_PESDAN_KARAH_2026-00006269",
+   "name": "Karah Jean Pesdan",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violate Temp Restraining Order Or Injunction",
+   "more": 0,
+   "ts": 1794503247,
+   "photo": "photos/KEN_PESDAN_KARAH_2026-00006269.jpg"
+  },
   {
    "key": "MKE_WATSON_JALIN_648258",
    "name": "Jalin Lee Watson",
@@ -977,8 +999,8 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 1,
    "ts": 1794471598,
    "photo": "photos/KEN_MURRAY_ASHLEY_2026-00006268.jpg"
   },
@@ -5392,17 +5414,6 @@
    "more": 0,
    "ts": 1794245220,
    "photo": null
-  },
-  {
-   "key": "DOU_AUSTIN_KYLE_2026-11-09",
-   "name": "Kyle W Austin",
-   "age": "38",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 7,
-   "ts": 1794244635,
-   "photo": "photos/DOU_AUSTIN_KYLE_2026-11-09.jpg"
   }
  ]
 }
