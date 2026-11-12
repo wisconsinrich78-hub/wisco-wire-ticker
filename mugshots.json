@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T09:28:26+00:00",
+ "updated": "2026-11-12T09:52:15+00:00",
  "items": [
+  {
+   "key": "RC_ASCENCIO_CESAR_120011076197055",
+   "name": "Cesar Ascencio",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
+   "more": 1,
+   "ts": 1794476867,
+   "photo": "photos/RC_ASCENCIO_CESAR_120011076197055.jpg"
+  },
   {
    "key": "MKE_SHARMA_ARJUN_606397",
    "name": "Arjun Sharma",
@@ -253,17 +264,6 @@
    "more": 2,
    "ts": 1794461250,
    "photo": "photos/MKE_DUNBAR_TREYONDES_386835.jpg"
-  },
-  {
-   "key": "MKE_HALL_TEVELL_2057547",
-   "name": "Tevell De Marcus Kevin Hall",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 5,
-   "ts": 1794459514,
-   "photo": "photos/MKE_HALL_TEVELL_2057547.jpg"
   },
   {
    "key": "BAUM_JESSE_2026-11-11",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ASCENCIO_CESAR_120011076197055",
+   "name": "Cesar Ascencio",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
+   "more": 1,
+   "ts": 1794476867,
+   "photo": "photos/RC_ASCENCIO_CESAR_120011076197055.jpg"
+  },
   {
    "key": "MKE_SHARMA_ARJUN_606397",
    "name": "Arjun Sharma",
@@ -5513,28 +5524,6 @@
    "more": 3,
    "ts": 1794218028,
    "photo": "photos/MAR_POPP_DYLAN_2026-11-08_17074001.jpg"
-  },
-  {
-   "key": "RC_EVERTON_JALANDRE_120011076075316",
-   "name": "Jalandre Martise Everton",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794217681,
-   "photo": "photos/RC_EVERTON_JALANDRE_120011076075316.jpg"
-  },
-  {
-   "key": "RC_ADAMS_SHAMARIONTE_120011076075444",
-   "name": "Shamarionte Darnell Adams",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794217678,
-   "photo": "photos/RC_ADAMS_SHAMARIONTE_120011076075444.jpg"
   }
  ]
 }
