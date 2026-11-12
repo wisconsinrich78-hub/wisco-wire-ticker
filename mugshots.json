@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T05:51:52+00:00",
+ "updated": "2026-11-12T06:04:53+00:00",
  "items": [
+  {
+   "key": "KEN_ARRINGTON_DUANE_2026-00006266",
+   "name": "Duane Arrington",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794462998,
+   "photo": "photos/KEN_ARRINGTON_DUANE_2026-00006266.jpg"
+  },
   {
    "key": "MKE_LLOYD_CLIFTON_271749",
    "name": "Clifton Adell Lloyd",
@@ -209,17 +220,6 @@
    "more": 0,
    "ts": 1794450526,
    "photo": "photos/MKE_BAREFIELD_LISA_628245.jpg"
-  },
-  {
-   "key": "MKE_WHITEHEAD_DEVION_648247",
-   "name": "Devion Lee Whitehead",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794450521,
-   "photo": "photos/MKE_WHITEHEAD_DEVION_648247.jpg"
   },
   {
    "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_ARRINGTON_DUANE_2026-00006266",
+   "name": "Duane Arrington",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794462998,
+   "photo": "photos/KEN_ARRINGTON_DUANE_2026-00006266.jpg"
+  },
   {
    "key": "MKE_LLOYD_CLIFTON_271749",
    "name": "Clifton Adell Lloyd",
