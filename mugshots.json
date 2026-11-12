@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T11:50:20+00:00",
+ "updated": "2026-11-12T12:58:39+00:00",
  "items": [
+  {
+   "key": "MKE_THOMASTUCKER_ERICA_644028",
+   "name": "Erica Thomas-Tucker",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 1,
+   "ts": 1794488251,
+   "photo": null
+  },
+  {
+   "key": "WILSON_ANTHONY_2026-11-12",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1794488219,
+   "photo": null
+  },
   {
    "key": "RC_PETTY_ROBERT_120011076198706",
    "name": "Robert R Petty",
@@ -242,17 +264,6 @@
    "more": 1,
    "ts": 1794470255,
    "photo": "photos/MKE_THOMAS_JAY_648252.jpg"
-  },
-  {
-   "key": "MKE_SINGH_MANDEEP_648253",
-   "name": "Mandeep Singh",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794470253,
-   "photo": "photos/MKE_SINGH_MANDEEP_648253.jpg"
   },
   {
    "key": "VUE_BLONG_2026-11-12",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794419248,
    "photo": "photos/BINGHAM_DYLAN_2026-11-11.jpg"
-  },
-  {
-   "key": "FDL_KELLIHER_JOSEPH_2026-11-11",
-   "name": "Joseph James Kelliher",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794417424,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_THOMASTUCKER_ERICA_644028",
+   "name": "Erica Thomas-Tucker",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 1,
+   "ts": 1794488251,
+   "photo": null
+  },
+  {
+   "key": "WILSON_ANTHONY_2026-11-12",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out Of County Warrant",
+   "more": 0,
+   "ts": 1794488219,
+   "photo": null
+  },
   {
    "key": "RC_PETTY_ROBERT_120011076198706",
    "name": "Robert R Petty",
@@ -5502,28 +5524,6 @@
    "more": 0,
    "ts": 1794232402,
    "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_HUGHES_DWAIN_396124",
-   "name": "Dwain R Hughes",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794229058,
-   "photo": "photos/MKE_HUGHES_DWAIN_396124.jpg"
-  },
-  {
-   "key": "MAR_HUNTER_TERESA_2026-11-08_13988901",
-   "name": "Teresa Marie Hunter",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage To Property",
-   "more": 1,
-   "ts": 1794225210,
-   "photo": "photos/MAR_HUNTER_TERESA_2026-11-08_13988901.jpg"
   }
  ]
 }
