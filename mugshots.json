@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T09:00:49+00:00",
+ "updated": "2026-11-12T09:28:26+00:00",
  "items": [
+  {
+   "key": "MKE_SHARMA_ARJUN_606397",
+   "name": "Arjun Sharma",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794475654,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLARK_JULLAINEEN_645635",
+   "name": "Jullaineen D Clark",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794475652,
+   "photo": null
+  },
+  {
+   "key": "FDL_KARSCHNICK_ASHLEY_2026-11-12",
+   "name": "Ashley Marie Karschnick",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794474975,
+   "photo": "photos/FDL_KARSCHNICK_ASHLEY_2026-11-12.jpg"
+  },
   {
    "key": "MAR_OUSLEY_DIMITRI_2026-11-12",
    "name": "Dimitri Ousley",
@@ -233,17 +266,6 @@
    "photo": "photos/MKE_HALL_TEVELL_2057547.jpg"
   },
   {
-   "key": "RC_HANSEN_SANDRA_120011076191927",
-   "name": "Sandra M Hansen",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Physical Abuse of a Child - Intentionally Cause Bodily Harm",
-   "more": 1,
-   "ts": 1794458894,
-   "photo": "photos/RC_HANSEN_SANDRA_120011076191927.jpg"
-  },
-  {
    "key": "BAUM_JESSE_2026-11-11",
    "name": "Jesse A Baum",
    "age": "30",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1794458833,
    "photo": null
-  },
-  {
-   "key": "KEN_KELLEYJACKSON_CAMEONA_2026-00006265",
-   "name": "Cameona Deshawnapearl Kelley-Jackson",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L 3Rd + Offense",
-   "more": 0,
-   "ts": 1794455896,
-   "photo": "photos/KEN_KELLEYJACKSON_CAMEONA_2026-00006265.jpg"
   },
   {
    "key": "JACKSON_KENNETH_2026-11-11",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1794410244,
    "photo": "photos/FDL_MANN_ALONZO_2026-11-11.jpg"
-  },
-  {
-   "key": "ROEDEL_KATHLEEN_2026-11-11",
-   "name": "Kathleen B Roedel",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794407232,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SHARMA_ARJUN_606397",
+   "name": "Arjun Sharma",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794475654,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLARK_JULLAINEEN_645635",
+   "name": "Jullaineen D Clark",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794475652,
+   "photo": null
+  },
+  {
+   "key": "FDL_KARSCHNICK_ASHLEY_2026-11-12",
+   "name": "Ashley Marie Karschnick",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794474975,
+   "photo": "photos/FDL_KARSCHNICK_ASHLEY_2026-11-12.jpg"
+  },
   {
    "key": "MAR_OUSLEY_DIMITRI_2026-11-12",
    "name": "Dimitri Ousley",
@@ -5502,28 +5535,6 @@
    "more": 0,
    "ts": 1794217678,
    "photo": "photos/RC_ADAMS_SHAMARIONTE_120011076075444.jpg"
-  },
-  {
-   "key": "MKE_GOODMAN_LEROY_251286",
-   "name": "Leroy Anthony Goodman",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794216448,
-   "photo": "photos/MKE_GOODMAN_LEROY_251286.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_DAQUARIUS_643246",
-   "name": "Daquarius Trevaughn Davis",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794216447,
-   "photo": "photos/MKE_DAVIS_DAQUARIUS_643246.jpg"
   }
  ]
 }
