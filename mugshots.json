@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T13:50:52+00:00",
+ "updated": "2026-11-12T14:28:58+00:00",
  "items": [
+  {
+   "key": "MKE_BROWN_JAMES_413862",
+   "name": "James Joshuawall Brown",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1794493665,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERNANDEZ_ELADIO_626874",
+   "name": "Eladio Hernandez",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>15-40g)",
+   "more": 0,
+   "ts": 1794493663,
+   "photo": "photos/MKE_HERNANDEZ_ELADIO_626874.jpg"
+  },
+  {
+   "key": "MKE_GREEN_WILLIAM_512960",
+   "name": "William D Green",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 11,
+   "ts": 1794491861,
+   "photo": null
+  },
   {
    "key": "RC_CARTAGENA_SALENO_120011076200284",
    "name": "Saleno Cartagena",
@@ -211,17 +244,6 @@
    "photo": "photos/MKE_GALICIAGONZALEZ_ZOILA_648254.jpg"
   },
   {
-   "key": "KEN_MURRAY_ASHLEY_2026-00006268",
-   "name": "Ashley Elizabeth Murray",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794471598,
-   "photo": "photos/KEN_MURRAY_ASHLEY_2026-00006268.jpg"
-  },
-  {
    "key": "DOU_GREER_CHRISTINA_2026-11-12",
    "name": "Christina M Greer",
    "age": "39",
@@ -253,28 +275,6 @@
    "more": 3,
    "ts": 1794471363,
    "photo": "photos/FDL_BROWN_KITANNA_2026-11-12.jpg"
-  },
-  {
-   "key": "MKE_FLORES_ZACHARIAH_613323",
-   "name": "Zachariah Michael Flores",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794470258,
-   "photo": "photos/MKE_FLORES_ZACHARIAH_613323.jpg"
-  },
-  {
-   "key": "MKE_SUGGS_TYRESE_648251",
-   "name": "Tyrese Joel Suggs",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794470257,
-   "photo": "photos/MKE_SUGGS_TYRESE_648251.jpg"
   },
   {
    "key": "VUE_BLONG_2026-11-12",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_BROWN_JAMES_413862",
+   "name": "James Joshuawall Brown",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1794493665,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERNANDEZ_ELADIO_626874",
+   "name": "Eladio Hernandez",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>15-40g)",
+   "more": 0,
+   "ts": 1794493663,
+   "photo": "photos/MKE_HERNANDEZ_ELADIO_626874.jpg"
+  },
+  {
+   "key": "MKE_GREEN_WILLIAM_512960",
+   "name": "William D Green",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 11,
+   "ts": 1794491861,
+   "photo": null
+  },
   {
    "key": "RC_CARTAGENA_SALENO_120011076200284",
    "name": "Saleno Cartagena",
@@ -5403,149 +5436,6 @@
    "more": 0,
    "ts": 1794236016,
    "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09_3484305.jpg"
-  },
-  {
-   "key": "MKE_AGOSTODIAZ_JOSHUA_648216",
-   "name": "Joshua Agosto Diaz",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794234474,
-   "photo": "photos/MKE_AGOSTODIAZ_JOSHUA_648216.jpg"
-  },
-  {
-   "key": "MKE_ROSARIOSALGADO_NINOSKA_648217",
-   "name": "Ninoska Nicole Rosario Salgado",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794234470,
-   "photo": "photos/MKE_ROSARIOSALGADO_NINOSKA_648217.jpg"
-  },
-  {
-   "key": "BURROW_CHANDLER_2026-11-09",
-   "name": "Chandler Paul Burrow",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794234425,
-   "photo": null
-  },
-  {
-   "key": "HELLERUD_JERED_2026-11-09",
-   "name": "Jered E Hellerud",
-   "age": "39",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794234425,
-   "photo": null
-  },
-  {
-   "key": "FDL_QUICK_CHRISTOPHER_2026-11-09",
-   "name": "Christopher G Quick",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794233813,
-   "photo": "photos/FDL_QUICK_CHRISTOPHER_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_PLAIN_LUZERICK_289300",
-   "name": "Luzerick Sirlanto Plain",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 13,
-   "ts": 1794232666,
-   "photo": "photos/MKE_PLAIN_LUZERICK_289300.jpg"
-  },
-  {
-   "key": "MKE_CASTILLOLEBRON_LUIS_350214",
-   "name": "Luis Castillo-Lebron",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Sex Registry Violation",
-   "more": 0,
-   "ts": 1794232664,
-   "photo": "photos/MKE_CASTILLOLEBRON_LUIS_350214.jpg"
-  },
-  {
-   "key": "MKE_HAMPTON_DARYL_374255",
-   "name": "Daryl Wayne Hampton",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 11,
-   "ts": 1794232662,
-   "photo": "photos/MKE_HAMPTON_DARYL_374255.jpg"
-  },
-  {
-   "key": "MKE_MITCHELL_LARON_396508",
-   "name": "Laron Deshay Mitchell",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
-   "more": 2,
-   "ts": 1794232660,
-   "photo": "photos/MKE_MITCHELL_LARON_396508.jpg"
-  },
-  {
-   "key": "MKE_TAYLOR_BRANDON_402058",
-   "name": "Brandon Lamar Taylor",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794232657,
-   "photo": "photos/MKE_TAYLOR_BRANDON_402058.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_JAMES_624996",
-   "name": "James Denzel Williams",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 2,
-   "ts": 1794232656,
-   "photo": "photos/MKE_WILLIAMS_JAMES_624996.jpg"
-  },
-  {
-   "key": "MAR_WOODARD_DAVID_2026-11-09",
-   "name": "David Nathanael Woodard",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Alter Price",
-   "more": 0,
-   "ts": 1794232437,
-   "photo": null
-  },
-  {
-   "key": "MAR_JOHNSON_RHONDA_2026-11-09",
-   "name": "Rhonda Kay Johnson",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Felony",
-   "more": 0,
-   "ts": 1794232402,
-   "photo": "photos/MAR_JOHNSON_RHONDA_2026-11-09.jpg"
   }
  ]
 }
