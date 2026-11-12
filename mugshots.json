@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-12T07:34:07+00:00",
+ "updated": "2026-11-12T08:28:33+00:00",
  "items": [
+  {
+   "key": "MKE_GALICIAGONZALEZ_ZOILA_648254",
+   "name": "Zoila Galicia Gonzalez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794472047,
+   "photo": null
+  },
+  {
+   "key": "KEN_MURRAY_ASHLEY_2026-00006268",
+   "name": "Ashley Elizabeth Murray",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794471598,
+   "photo": "photos/KEN_MURRAY_ASHLEY_2026-00006268.jpg"
+  },
+  {
+   "key": "DOU_GREER_CHRISTINA_2026-11-12",
+   "name": "Christina M Greer",
+   "age": "39",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794471405,
+   "photo": "photos/DOU_GREER_CHRISTINA_2026-11-12.jpg"
+  },
+  {
+   "key": "FDL_KOEHLER_KARL_2026-11-12",
+   "name": "Karl G Koehler",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794471379,
+   "photo": "photos/FDL_KOEHLER_KARL_2026-11-12.jpg"
+  },
+  {
+   "key": "FDL_BROWN_KITANNA_2026-11-12",
+   "name": "Kitanna Michelle Brown",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
+   "more": 3,
+   "ts": 1794471363,
+   "photo": "photos/FDL_BROWN_KITANNA_2026-11-12.jpg"
+  },
+  {
+   "key": "MKE_FLORES_ZACHARIAH_613323",
+   "name": "Zachariah Michael Flores",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794470258,
+   "photo": null
+  },
+  {
+   "key": "MKE_SUGGS_TYRESE_648251",
+   "name": "Tyrese Joel Suggs",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794470257,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_JAY_648252",
+   "name": "Jay Anthony Thomas",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794470255,
+   "photo": null
+  },
+  {
+   "key": "MKE_SINGH_MANDEEP_648253",
+   "name": "Mandeep Singh",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794470253,
+   "photo": null
+  },
+  {
+   "key": "RC_LANOUETTE_DANIEL_120011076195958",
+   "name": "Daniel J Lanouette",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794469661,
+   "photo": "photos/RC_LANOUETTE_DANIEL_120011076195958.jpg"
+  },
   {
    "key": "MKE_FOX_DEVIN_648250",
    "name": "Devin D Fox",
@@ -18,8 +128,8 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 1,
    "ts": 1794466496,
    "photo": "photos/KEN_STANLEY_ROGER_2026-00006267.jpg"
   },
@@ -145,50 +255,6 @@
    "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006264.jpg"
   },
   {
-   "key": "RC_JACKSON_LAZAVEON_120011076191671",
-   "name": "Lazaveon Edward Jackson",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794455281,
-   "photo": "photos/RC_JACKSON_LAZAVEON_120011076191671.jpg"
-  },
-  {
-   "key": "MKE_KIROS_DAVID_529331",
-   "name": "David Elias Kiros",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794454089,
-   "photo": "photos/MKE_KIROS_DAVID_529331.jpg"
-  },
-  {
-   "key": "MKE_PERKINS_DELMONTA_608635",
-   "name": "Delmonta Todd Perkins",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794454084,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCINTYRE_DEVONTE_648249",
-   "name": "Devonte Keshawn Mcintyre",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794454081,
-   "photo": "photos/MKE_MCINTYRE_DEVONTE_648249.jpg"
-  },
-  {
    "key": "JACKSON_KENNETH_2026-11-11",
    "name": "Kenneth Deray Jackson",
    "age": "38",
@@ -200,28 +266,6 @@
    "photo": null
   },
   {
-   "key": "RC_LEE_KEVIN_120011076190411",
-   "name": "Kevin Leandre Lee",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794452706,
-   "photo": "photos/RC_LEE_KEVIN_120011076190411.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_DARIUS_120011076190460",
-   "name": "Darius L Williams",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794452702,
-   "photo": "photos/RC_WILLIAMS_DARIUS_120011076190460.jpg"
-  },
-  {
    "key": "MAR_GARCIA_JIMMY_2026-11-11",
    "name": "Jimmy Garcia",
    "age": "50",
@@ -231,17 +275,6 @@
    "more": 0,
    "ts": 1794452010,
    "photo": "photos/MAR_GARCIA_JIMMY_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_BANKS_BRYAN_406798",
-   "name": "Bryan R Banks",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Fail/Display Vehicle License Plates",
-   "more": 2,
-   "ts": 1794450535,
-   "photo": "photos/MKE_BANKS_BRYAN_406798.jpg"
   },
   {
    "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
@@ -453,17 +486,6 @@
    "photo": "photos/FEIST_VOLANTE_2026-11-11.jpg"
   },
   {
-   "key": "DOU_FREEMAN_JAKE_2026-11-11",
-   "name": "Jake C Freeman",
-   "age": "39",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794421093,
-   "photo": "photos/DOU_FREEMAN_JAKE_2026-11-11.jpg"
-  },
-  {
    "key": "BINGHAM_DYLAN_2026-11-11",
    "name": "Dylan J Bingham",
    "age": "24",
@@ -506,31 +528,119 @@
    "more": 0,
    "ts": 1794407232,
    "photo": null
-  },
-  {
-   "key": "FDL_BETANCO_LEONEL_2026-11-11",
-   "name": "Leonel Steven Betanco",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Failure To Appear / Warrants",
-   "more": 4,
-   "ts": 1794406599,
-   "photo": "photos/FDL_BETANCO_LEONEL_2026-11-11.jpg"
-  },
-  {
-   "key": "TREM_OLSON_MEGAN_4177",
-   "name": "Megan Ann Olson",
-   "age": "41",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Appear Warrant",
-   "more": 0,
-   "ts": 1794394057,
-   "photo": "photos/TREM_OLSON_MEGAN_4177.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_GALICIAGONZALEZ_ZOILA_648254",
+   "name": "Zoila Galicia Gonzalez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794472047,
+   "photo": null
+  },
+  {
+   "key": "KEN_MURRAY_ASHLEY_2026-00006268",
+   "name": "Ashley Elizabeth Murray",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794471598,
+   "photo": "photos/KEN_MURRAY_ASHLEY_2026-00006268.jpg"
+  },
+  {
+   "key": "DOU_GREER_CHRISTINA_2026-11-12",
+   "name": "Christina M Greer",
+   "age": "39",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794471405,
+   "photo": "photos/DOU_GREER_CHRISTINA_2026-11-12.jpg"
+  },
+  {
+   "key": "FDL_KOEHLER_KARL_2026-11-12",
+   "name": "Karl G Koehler",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794471379,
+   "photo": "photos/FDL_KOEHLER_KARL_2026-11-12.jpg"
+  },
+  {
+   "key": "FDL_BROWN_KITANNA_2026-11-12",
+   "name": "Kitanna Michelle Brown",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
+   "more": 3,
+   "ts": 1794471363,
+   "photo": "photos/FDL_BROWN_KITANNA_2026-11-12.jpg"
+  },
+  {
+   "key": "MKE_FLORES_ZACHARIAH_613323",
+   "name": "Zachariah Michael Flores",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794470258,
+   "photo": null
+  },
+  {
+   "key": "MKE_SUGGS_TYRESE_648251",
+   "name": "Tyrese Joel Suggs",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794470257,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_JAY_648252",
+   "name": "Jay Anthony Thomas",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794470255,
+   "photo": null
+  },
+  {
+   "key": "MKE_SINGH_MANDEEP_648253",
+   "name": "Mandeep Singh",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794470253,
+   "photo": null
+  },
+  {
+   "key": "RC_LANOUETTE_DANIEL_120011076195958",
+   "name": "Daniel J Lanouette",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794469661,
+   "photo": "photos/RC_LANOUETTE_DANIEL_120011076195958.jpg"
+  },
   {
    "key": "MKE_FOX_DEVIN_648250",
    "name": "Devin D Fox",
@@ -548,8 +658,8 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "more": 1,
    "ts": 1794466496,
    "photo": "photos/KEN_STANLEY_ROGER_2026-00006267.jpg"
   },
@@ -5414,39 +5524,6 @@
    "more": 0,
    "ts": 1794214077,
    "photo": "photos/RC_LEE_ANTONIO_120011076074575.jpg"
-  },
-  {
-   "key": "MKE_BROWN_SARAI_639740",
-   "name": "Sarai Symone Brown",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794212879,
-   "photo": "photos/MKE_BROWN_SARAI_639740.jpg"
-  },
-  {
-   "key": "MKE_WALLACE_ARIEL_648214",
-   "name": "Ariel Wallace",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794212877,
-   "photo": "photos/MKE_WALLACE_ARIEL_648214.jpg"
-  },
-  {
-   "key": "RC_WRIGHT_JONYAE_120011076073657",
-   "name": "Jonyae Lashae Wright",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1794210466,
-   "photo": null
   }
  ]
 }
