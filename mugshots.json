@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T19:51:56+00:00",
+ "updated": "2026-11-12T20:12:17+00:00",
  "items": [
+  {
+   "key": "MKE_ALABBAS_SUFIAN_627899",
+   "name": "Sufian Ahmad Alabbas",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to Certain Individuals Involved in a Court or Legal System",
+   "more": 0,
+   "ts": 1794513497,
+   "photo": null
+  },
+  {
+   "key": "MKE_KING_GENITA_633743",
+   "name": "Genita L King",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Subst.Battery-Int.Bod.Harm-Unborn Child",
+   "more": 0,
+   "ts": 1794513495,
+   "photo": null
+  },
+  {
+   "key": "KEN_FLETCHER_STEPHON_2026-00006272",
+   "name": "Stephon Andrew Fletcher",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1794513287,
+   "photo": "photos/KEN_FLETCHER_STEPHON_2026-00006272.jpg"
+  },
   {
    "key": "MAR_HENDRON_KAILYN_2026-11-12_5121801",
    "name": "Kailyn Alyissa Hendron",
@@ -131,7 +164,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794508056,
-   "photo": null
+   "photo": "photos/MKE_ZEPEDA_ABRIANNA_648260.jpg"
   },
   {
    "key": "DOU_SANIGAR_SEAN_2026-11-12",
@@ -197,7 +230,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794504475,
-   "photo": null
+   "photo": "photos/MKE_QUALLS_TARONNE_299079.jpg"
   },
   {
    "key": "KEN_STANLEYGOMEZ_BEN_2026-00006270",
@@ -253,17 +286,6 @@
    "more": 0,
    "ts": 1794502668,
    "photo": "photos/MKE_WALKER_ERIC_2058349.jpg"
-  },
-  {
-   "key": "MKE_KEHOE_DAMON_2059486",
-   "name": "Damon J Kehoe",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794502665,
-   "photo": "photos/MKE_KEHOE_DAMON_2059486.jpg"
   },
   {
    "key": "MAR_KLEMAN_ANTHONY_2026-11-12",
@@ -329,28 +351,6 @@
    "charge": "Hold For Justice Sanctions",
    "more": 1,
    "ts": 1794500825,
-   "photo": null
-  },
-  {
-   "key": "MKE_WOMACK_GREGORY_129142",
-   "name": "Gregory Nmn Womack",
-   "age": "73",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794499092,
-   "photo": "photos/MKE_WOMACK_GREGORY_129142.jpg"
-  },
-  {
-   "key": "MKE_PHILLIPS_ALECEA_648257",
-   "name": "Alecea L Phillips",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794499090,
    "photo": null
   },
   {
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_ALABBAS_SUFIAN_627899",
+   "name": "Sufian Ahmad Alabbas",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery to Certain Individuals Involved in a Court or Legal System",
+   "more": 0,
+   "ts": 1794513497,
+   "photo": null
+  },
+  {
+   "key": "MKE_KING_GENITA_633743",
+   "name": "Genita L King",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Subst.Battery-Int.Bod.Harm-Unborn Child",
+   "more": 0,
+   "ts": 1794513495,
+   "photo": null
+  },
+  {
+   "key": "KEN_FLETCHER_STEPHON_2026-00006272",
+   "name": "Stephon Andrew Fletcher",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Felony",
+   "more": 0,
+   "ts": 1794513287,
+   "photo": "photos/KEN_FLETCHER_STEPHON_2026-00006272.jpg"
+  },
+  {
    "key": "MAR_HENDRON_KAILYN_2026-11-12_5121801",
    "name": "Kailyn Alyissa Hendron",
    "age": "30",
@@ -661,7 +694,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794508056,
-   "photo": null
+   "photo": "photos/MKE_ZEPEDA_ABRIANNA_648260.jpg"
   },
   {
    "key": "DOU_SANIGAR_SEAN_2026-11-12",
@@ -727,7 +760,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794504475,
-   "photo": null
+   "photo": "photos/MKE_QUALLS_TARONNE_299079.jpg"
   },
   {
    "key": "KEN_STANLEYGOMEZ_BEN_2026-00006270",
@@ -5315,83 +5348,6 @@
    "more": 0,
    "ts": 1794255419,
    "photo": null
-  },
-  {
-   "key": "KEN_NOLLHAMELIN_DEVON_2026-00006203",
-   "name": "Devon M Noll-Hamelin",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "2Nd Deg. Sexual Assault/Use Of Force",
-   "more": 0,
-   "ts": 1794254281,
-   "photo": "photos/KEN_NOLLHAMELIN_DEVON_2026-00006203.jpg"
-  },
-  {
-   "key": "MKE_GLOVER_DENALI_632339",
-   "name": "Denali Dejan Glover",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794254263,
-   "photo": "photos/MKE_GLOVER_DENALI_632339.jpg"
-  },
-  {
-   "key": "MKE_SWOPE_JAMAN_648221",
-   "name": "Jaman A Swope",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794254261,
-   "photo": null
-  },
-  {
-   "key": "KEN_LI_CUIYAN_2026-00006202",
-   "name": "Cuiyan Li",
-   "age": "78",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794254140,
-   "photo": null
-  },
-  {
-   "key": "KEN_HART_EUGENE_2026-00006201",
-   "name": "Eugene Doles Hart",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794254104,
-   "photo": "photos/KEN_HART_EUGENE_2026-00006201.jpg"
-  },
-  {
-   "key": "MAR_OUSLEY_DIMITRI_2026-11-09",
-   "name": "Dimitri Ousley",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794254039,
-   "photo": null
-  },
-  {
-   "key": "MAR_HAGENBUCHER_NATHAN_2026-11-09",
-   "name": "Nathan Thomas Hagenbucher",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1794253999,
-   "photo": "photos/MAR_HAGENBUCHER_NATHAN_2026-11-09.jpg"
   }
  ]
 }
