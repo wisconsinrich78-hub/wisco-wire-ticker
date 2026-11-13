@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-13T02:59:51+00:00",
+ "updated": "2026-11-13T03:58:23+00:00",
  "items": [
+  {
+   "key": "MKE_HENDERSON_ARMONI_607864",
+   "name": "Armoni T Henderson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Aggravated Battery - Intend Bodily Harm",
+   "more": 1,
+   "ts": 1794542275,
+   "photo": null
+  },
+  {
+   "key": "MASHAK_JACKSON_2026-11-12",
+   "name": "Jackson M Mashak",
+   "age": "25",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794542237,
+   "photo": null
+  },
+  {
+   "key": "ZIMMERMAN_MICHELLE_2026-11-12",
+   "name": "Michelle A Zimmerman",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794542235,
+   "photo": null
+  },
+  {
+   "key": "MKE_FOWLER_BRYSON_643640",
+   "name": "Bryson V Fowler",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794540482,
+   "photo": null
+  },
+  {
+   "key": "MKE_TATELOTT_MAKAI_645221",
+   "name": "Makai Quinton Tate-Lott",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794540480,
+   "photo": null
+  },
   {
    "key": "MAR_WILSON_DARNELL_2026-11-12",
    "name": "Darnell Jcaleb Torin Wilson",
@@ -40,10 +95,10 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1794538570,
-   "photo": null
+   "photo": "photos/KEN_STARKS_GEQUILA_2026-00006278.jpg"
   },
   {
    "key": "MAR_PAULUS_HALEY_2026-11-12",
@@ -263,39 +318,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794528167,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRUMP_JAMES_613747",
-   "name": "James Andrew Crump",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Enticement-Prostitution",
-   "more": 11,
-   "ts": 1794528165,
-   "photo": null
-  },
-  {
-   "key": "MKE_KAUR_PRABHDEEP_644792",
-   "name": "Prabhdeep Kaur",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794528164,
-   "photo": null
-  },
-  {
-   "key": "MKE_KEBE_BABACAR_624099",
-   "name": "Babacar Kebe",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794526094,
    "photo": null
   },
   {
@@ -506,31 +528,64 @@
    "more": 1,
    "ts": 1794500825,
    "photo": null
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MKE_HENDERSON_ARMONI_607864",
+   "name": "Armoni T Henderson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Aggravated Battery - Intend Bodily Harm",
+   "more": 1,
+   "ts": 1794542275,
+   "photo": null
   },
   {
-   "key": "YANG_LONG_2026-11-12",
-   "name": "Long Yang",
-   "age": "33",
+   "key": "MASHAK_JACKSON_2026-11-12",
+   "name": "Jackson M Mashak",
+   "age": "25",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794542237,
+   "photo": null
+  },
+  {
+   "key": "ZIMMERMAN_MICHELLE_2026-11-12",
+   "name": "Michelle A Zimmerman",
+   "age": "38",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "",
    "more": 0,
-   "ts": 1794499018,
+   "ts": 1794542235,
    "photo": null
   },
   {
-   "key": "STEIGER_JEREMIAH_2026-11-12",
-   "name": "Jeremiah S Steiger",
-   "age": "48",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Revoked",
-   "more": 0,
-   "ts": 1794498430,
+   "key": "MKE_FOWLER_BRYSON_643640",
+   "name": "Bryson V Fowler",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794540482,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "MKE_TATELOTT_MAKAI_645221",
+   "name": "Makai Quinton Tate-Lott",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794540480,
+   "photo": null
+  },
   {
    "key": "MAR_WILSON_DARNELL_2026-11-12",
    "name": "Darnell Jcaleb Torin Wilson",
@@ -570,10 +625,10 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1794538570,
-   "photo": null
+   "photo": "photos/KEN_STARKS_GEQUILA_2026-00006278.jpg"
   },
   {
    "key": "MAR_PAULUS_HALEY_2026-11-12",
@@ -801,7 +856,7 @@
    "age": "51",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Child Enticement-Prostitution",
+   "charge": "Habitual Criminality",
    "more": 11,
    "ts": 1794528165,
    "photo": null
@@ -914,7 +969,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794520735,
-   "photo": null
+   "photo": "photos/MKE_WESLEY_CARMELITA_629243.jpg"
   },
   {
    "key": "MKE_MCLAUGHLIN_JOHN_2036339",
@@ -4962,83 +5017,6 @@
    "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
    "more": 0,
    "ts": 1794286081,
-   "photo": null
-  },
-  {
-   "key": "MKE_ANDERSON_ROBERT_648224",
-   "name": "Robert Mitchell Anderson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794283086,
-   "photo": "photos/MKE_ANDERSON_ROBERT_648224.jpg"
-  },
-  {
-   "key": "MKE_FERGUSON_CARLEESHA_648225",
-   "name": "Carleesha Lashonne Ferguson",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794283084,
-   "photo": "photos/MKE_FERGUSON_CARLEESHA_648225.jpg"
-  },
-  {
-   "key": "KEN_GUERRA_MICHAEL_2026-00006212",
-   "name": "Michael Ryan Guerra",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794282928,
-   "photo": "photos/KEN_GUERRA_MICHAEL_2026-00006212.jpg"
-  },
-  {
-   "key": "MAR_YAEGER_CLINT_2026-11-09",
-   "name": "Clint Jameson Yaeger",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794282872,
-   "photo": "photos/MAR_YAEGER_CLINT_2026-11-09.jpg"
-  },
-  {
-   "key": "KEN_BROWN_ERIC_2026-00006211",
-   "name": "Eric Michael Brown",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 2,
-   "ts": 1794282851,
-   "photo": "photos/KEN_BROWN_ERIC_2026-00006211.jpg"
-  },
-  {
-   "key": "MAR_ECKERT_OLIVIA_2026-11-09_2751208",
-   "name": "Olivia Hope Eckert",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess W/ Intent-Amphetamine(>10-50G)",
-   "more": 6,
-   "ts": 1794282837,
-   "photo": "photos/MAR_ECKERT_OLIVIA_2026-11-09_2751208.jpg"
-  },
-  {
-   "key": "RC_MONROE_DOMINIQUE_120011076119615",
-   "name": "Dominique M Monroe",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794282493,
    "photo": null
   }
  ]
