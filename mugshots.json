@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T12:52:59+00:00",
+ "updated": "2026-11-13T12:59:35+00:00",
  "items": [
+  {
+   "key": "MKE_HERRERARIZO_DENIS_648273",
+   "name": "Denis Herrera Rizo",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794574659,
+   "photo": null
+  },
+  {
+   "key": "MAR_ABDIRESAQ_MAHAD_2026-11-13",
+   "name": "Mahad Jama Abdiresaq",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794574448,
+   "photo": null
+  },
+  {
+   "key": "MAR_SMITH_JOSEPH_2026-11-13",
+   "name": "Joseph Landis Smith",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear - Ncic Misdemeanor",
+   "more": 1,
+   "ts": 1794574410,
+   "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13.jpg"
+  },
   {
    "key": "MKE_KYLES_JAYMONIKA_603895",
    "name": "Jaymonika L Kyles",
@@ -84,8 +117,8 @@
    "age": "50",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Hit And Run - Unattended Vehicle",
+   "more": 1,
    "ts": 1794568435,
    "photo": "photos/KEN_SMITH_CHRISTOPHER_2026-00006281.jpg"
   },
@@ -220,17 +253,6 @@
    "more": 0,
    "ts": 1794558425,
    "photo": "photos/GUERRA_MALIK_2026-11-13.jpg"
-  },
-  {
-   "key": "MKE_PATINOPATINO_KEVIN_648267",
-   "name": "Kevin Emanuel Patino-Patino",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794556661,
-   "photo": "photos/MKE_PATINOPATINO_KEVIN_648267.jpg"
   },
   {
    "key": "MAR_GLENN_DIAMOND_2026-11-12",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1794506127,
    "photo": "photos/MAR_KLEMAN_ANTHONY_2026-11-12_12613701.jpg"
-  },
-  {
-   "key": "MAR_NIZINSKI_CHRISTOPHER_2026-11-12",
-   "name": "Christopher F Nizinski",
-   "age": "66",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794506088,
-   "photo": "photos/MAR_NIZINSKI_CHRISTOPHER_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12",
-   "name": "Shawneen Marie Hulstrom",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794506045,
-   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HERRERARIZO_DENIS_648273",
+   "name": "Denis Herrera Rizo",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794574659,
+   "photo": null
+  },
+  {
+   "key": "MAR_ABDIRESAQ_MAHAD_2026-11-13",
+   "name": "Mahad Jama Abdiresaq",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794574448,
+   "photo": null
+  },
+  {
+   "key": "MAR_SMITH_JOSEPH_2026-11-13",
+   "name": "Joseph Landis Smith",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear - Ncic Misdemeanor",
+   "more": 1,
+   "ts": 1794574410,
+   "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13.jpg"
+  },
   {
    "key": "MKE_KYLES_JAYMONIKA_603895",
    "name": "Jaymonika L Kyles",
@@ -614,8 +647,8 @@
    "age": "50",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Hit And Run - Unattended Vehicle",
+   "more": 1,
    "ts": 1794568435,
    "photo": "photos/KEN_SMITH_CHRISTOPHER_2026-00006281.jpg"
   },
