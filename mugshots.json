@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T20:35:34+00:00",
+ "updated": "2026-11-13T20:49:31+00:00",
  "items": [
+  {
+   "key": "RC_KRUEGER_MAURIECE_120011076253580",
+   "name": "Mauriece Wolfgang Krueger",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794602886,
+   "photo": "photos/RC_KRUEGER_MAURIECE_120011076253580.jpg"
+  },
+  {
+   "key": "RC_CARTER_DEANGELO_120011076254141",
+   "name": "Deangelo Leonardo Carter",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794602884,
+   "photo": "photos/RC_CARTER_DEANGELO_120011076254141.jpg"
+  },
   {
    "key": "MKE_WRIGHT_ROBERT_221098",
    "name": "Robert Earl Wright",
@@ -209,28 +231,6 @@
    "more": 1,
    "ts": 1794594477,
    "photo": "photos/MKE_HUNTER_TRISTAN_357178.jpg"
-  },
-  {
-   "key": "MKE_PERRY_RICKY_370468",
-   "name": "Ricky Lanier Perry",
-   "age": "61",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794594475,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALEXANDER_CARLTON_648276",
-   "name": "Carlton Renaul Alexander",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794594473,
-   "photo": null
   },
   {
    "key": "PICKETT_RAINA_2026-11-13",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KRUEGER_MAURIECE_120011076253580",
+   "name": "Mauriece Wolfgang Krueger",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794602886,
+   "photo": "photos/RC_KRUEGER_MAURIECE_120011076253580.jpg"
+  },
+  {
+   "key": "RC_CARTER_DEANGELO_120011076254141",
+   "name": "Deangelo Leonardo Carter",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794602884,
+   "photo": "photos/RC_CARTER_DEANGELO_120011076254141.jpg"
+  },
   {
    "key": "MKE_WRIGHT_ROBERT_221098",
    "name": "Robert Earl Wright",
@@ -4941,72 +4963,6 @@
    "more": 0,
    "ts": 1794344004,
    "photo": "photos/MAR_CLARK_TROY_2026-11-10.jpg"
-  },
-  {
-   "key": "RC_CRONIN_KEALON_120011076139705",
-   "name": "Kealon J Cronin",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794343690,
-   "photo": "photos/RC_CRONIN_KEALON_120011076139705.jpg"
-  },
-  {
-   "key": "RC_WILBUR_ALONZO_120011076139827",
-   "name": "Alonzo Blake Wilbur",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794343688,
-   "photo": "photos/RC_WILBUR_ALONZO_120011076139827.jpg"
-  },
-  {
-   "key": "RC_BUBOLZ_DENNIS_120011076139875",
-   "name": "Dennis R Bubolz",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794343685,
-   "photo": "photos/RC_BUBOLZ_DENNIS_120011076139875.jpg"
-  },
-  {
-   "key": "RC_HOLLINGSWORTH_JAYLIN_120011076139945",
-   "name": "Jaylin J Hollingsworth",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794343682,
-   "photo": "photos/RC_HOLLINGSWORTH_JAYLIN_120011076139945.jpg"
-  },
-  {
-   "key": "RC_WOLNIK_BENJAMIN_120011076140036",
-   "name": "Benjamin James Wolnik",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794343679,
-   "photo": "photos/RC_WOLNIK_BENJAMIN_120011076140036.jpg"
-  },
-  {
-   "key": "RC_MARLETT_RICHARD_120011076141505",
-   "name": "Richard Kenneth Marlett",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due To Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1794343677,
-   "photo": null
   }
  ]
 }
