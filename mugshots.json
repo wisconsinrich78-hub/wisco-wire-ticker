@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T21:29:12+00:00",
+ "updated": "2026-11-13T21:49:35+00:00",
  "items": [
+  {
+   "key": "RC_ZAVALA_ZACHERY_120011076256217",
+   "name": "Zachery R Zavala",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794606498,
+   "photo": "photos/RC_ZAVALA_ZACHERY_120011076256217.jpg"
+  },
   {
    "key": "MKE_HENDERSON_JERLENE_194971",
    "name": "Jerlene Henderson",
@@ -106,7 +117,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Disorderly Conduct",
    "more": 11,
    "ts": 1794601670,
    "photo": null
@@ -150,7 +161,7 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1794601657,
    "photo": null
@@ -230,17 +241,6 @@
    "charge": "Possess w/Intent/Deliver Narcotics",
    "more": 5,
    "ts": 1794596280,
-   "photo": null
-  },
-  {
-   "key": "MKE_BRACY_PRINCE_648278",
-   "name": "Prince Adams Bracy",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794596277,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_ZAVALA_ZACHERY_120011076256217",
+   "name": "Zachery R Zavala",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794606498,
+   "photo": "photos/RC_ZAVALA_ZACHERY_120011076256217.jpg"
+  },
+  {
    "key": "MKE_HENDERSON_JERLENE_194971",
    "name": "Jerlene Henderson",
    "age": "75",
@@ -636,7 +647,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Disorderly Conduct",
    "more": 11,
    "ts": 1794601670,
    "photo": null
@@ -680,7 +691,7 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1794601657,
    "photo": null
@@ -4963,50 +4974,6 @@
    "more": 2,
    "ts": 1794347865,
    "photo": "photos/MKE_NORD_ANTHONY_421368.jpg"
-  },
-  {
-   "key": "RC_FARRINGTON_KEISHA_120011076142075",
-   "name": "Keisha Marie Farrington",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794347272,
-   "photo": "photos/RC_FARRINGTON_KEISHA_120011076142075.jpg"
-  },
-  {
-   "key": "RC_LEE_IESHA_120011076143034",
-   "name": "Iesha L Lee",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794347269,
-   "photo": "photos/RC_LEE_IESHA_120011076143034.jpg"
-  },
-  {
-   "key": "RC_HARRIS_NARIAH_120011076143099",
-   "name": "Nariah N Harris",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794347267,
-   "photo": "photos/RC_HARRIS_NARIAH_120011076143099.jpg"
-  },
-  {
-   "key": "RC_ROBINSON_JAMALL_120011076143502",
-   "name": "Jamall Amear Robinson",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794347264,
-   "photo": "photos/RC_ROBINSON_JAMALL_120011076143502.jpg"
   }
  ]
 }
