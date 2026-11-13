@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T19:29:22+00:00",
+ "updated": "2026-11-13T19:49:37+00:00",
  "items": [
+  {
+   "key": "RC_WEST_EDWIN_120011076251007",
+   "name": "Edwin Clarence West",
+   "age": "61",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794599298,
+   "photo": null
+  },
+  {
+   "key": "RC_MOE_COLM_120011076251089",
+   "name": "Colm Lee Moe",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794599295,
+   "photo": null
+  },
   {
    "key": "MKE_DAVIS_FREDERICK_372313",
    "name": "Frederick Montrell Davis",
@@ -255,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "RC_LEWIS_NIKERRA_120011076244668",
-   "name": "Nikerra Alyssa Jean Lewis",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794588467,
-   "photo": "photos/RC_LEWIS_NIKERRA_120011076244668.jpg"
-  },
-  {
    "key": "DOU_MICKELSON_TRACY_2026-11-13",
    "name": "Tracy L Mickelson",
    "age": "55",
@@ -275,17 +286,6 @@
    "more": 1,
    "ts": 1794586602,
    "photo": "photos/DOU_MICKELSON_TRACY_2026-11-13.jpg"
-  },
-  {
-   "key": "RC_IGBOKO_DEANA_120011076241184",
-   "name": "Deana Igboko",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794584869,
-   "photo": null
   },
   {
    "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WEST_EDWIN_120011076251007",
+   "name": "Edwin Clarence West",
+   "age": "61",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794599298,
+   "photo": null
+  },
+  {
+   "key": "RC_MOE_COLM_120011076251089",
+   "name": "Colm Lee Moe",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794599295,
+   "photo": null
+  },
   {
    "key": "MKE_DAVIS_FREDERICK_372313",
    "name": "Frederick Montrell Davis",
@@ -4952,17 +4974,6 @@
    "more": 0,
    "ts": 1794340671,
    "photo": "photos/MKE_LOPEZCAMPOS_EDWARD_644707.jpg"
-  },
-  {
-   "key": "LANCASTER_COREY_2026-11-10",
-   "name": "Corey G Lancaster",
-   "age": "55",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 5,
-   "ts": 1794340035,
-   "photo": null
   }
  ]
 }
