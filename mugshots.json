@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-13T21:49:35+00:00",
+ "updated": "2026-11-13T22:06:47+00:00",
  "items": [
+  {
+   "key": "KEN_ADAMS_RONALD_2026-00006289",
+   "name": "Ronald Joe Adams",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 4,
+   "ts": 1794607252,
+   "photo": "photos/KEN_ADAMS_RONALD_2026-00006289.jpg"
+  },
+  {
+   "key": "MKE_JOHNSON_SHANEQUA_507425",
+   "name": "Shanequa D Johnson",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794607066,
+   "photo": null
+  },
+  {
+   "key": "MKE_DENNIS_DEVARIO_628345",
+   "name": "Devario D Dennis",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794607064,
+   "photo": null
+  },
+  {
+   "key": "MKE_WOOD_GAGE_648280",
+   "name": "Gage O Wood",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794607062,
+   "photo": null
+  },
+  {
+   "key": "MAR_OUSLEY_DIMITRI_2026-11-13",
+   "name": "Dimitri Ousley",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Child Enticement-Expose Genitals/Pubic Area/Intimate Parts",
+   "more": 2,
+   "ts": 1794606892,
+   "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-13.jpg"
+  },
+  {
+   "key": "MAR_WILLHOITE_JUSTIN_2026-11-13",
+   "name": "Justin Ty Willhoite",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Neglecting A Child (Would Have Caused Harm)",
+   "more": 0,
+   "ts": 1794606851,
+   "photo": null
+  },
   {
    "key": "RC_ZAVALA_ZACHERY_120011076256217",
    "name": "Zachery R Zavala",
@@ -73,8 +139,8 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 1,
    "ts": 1794603250,
    "photo": "photos/KEN_GAFFNEY_ALEXANDRA_2026-00006287.jpg"
   },
@@ -178,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "KEN_GALINDOGARCIA_JORGE_2026-00006286",
-   "name": "Jorge Galindo-Garcia",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "1St Degree Reckless Endangering Safety",
-   "more": 3,
-   "ts": 1794599789,
-   "photo": "photos/KEN_GALINDOGARCIA_JORGE_2026-00006286.jpg"
-  },
-  {
    "key": "MAR_ERMELING_LOGAN_2026-11-13",
    "name": "Logan Ace Ermeling",
    "age": "28",
@@ -209,39 +264,6 @@
    "more": 0,
    "ts": 1794599678,
    "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13.jpg"
-  },
-  {
-   "key": "RC_WEST_EDWIN_120011076251007",
-   "name": "Edwin Clarence West",
-   "age": "61",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794599298,
-   "photo": null
-  },
-  {
-   "key": "RC_MOE_COLM_120011076251089",
-   "name": "Colm Lee Moe",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794599295,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_FREDERICK_372313",
-   "name": "Frederick Montrell Davis",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent/Deliver Narcotics",
-   "more": 5,
-   "ts": 1794596280,
-   "photo": null
   },
   {
    "key": "MAR_ARROWOOD_CHARLES_2026-11-13",
@@ -363,28 +385,6 @@
    "more": 0,
    "ts": 1794581611,
    "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13.jpg"
-  },
-  {
-   "key": "MAR_ABDIRESAQ_MAHAD_2026-11-13",
-   "name": "Mahad Jama Abdiresaq",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794574448,
-   "photo": null
-  },
-  {
-   "key": "MAR_SMITH_JOSEPH_2026-11-13",
-   "name": "Joseph Landis Smith",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear - Ncic Misdemeanor",
-   "more": 1,
-   "ts": 1794574410,
-   "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13.jpg"
   },
   {
    "key": "TREM_HERNANDEZ_MARCOS_6212",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "KEN_ADAMS_RONALD_2026-00006289",
+   "name": "Ronald Joe Adams",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Resisting Or Obstructing An Officer",
+   "more": 4,
+   "ts": 1794607252,
+   "photo": "photos/KEN_ADAMS_RONALD_2026-00006289.jpg"
+  },
+  {
+   "key": "MKE_JOHNSON_SHANEQUA_507425",
+   "name": "Shanequa D Johnson",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794607066,
+   "photo": null
+  },
+  {
+   "key": "MKE_DENNIS_DEVARIO_628345",
+   "name": "Devario D Dennis",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794607064,
+   "photo": null
+  },
+  {
+   "key": "MKE_WOOD_GAGE_648280",
+   "name": "Gage O Wood",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794607062,
+   "photo": null
+  },
+  {
+   "key": "MAR_OUSLEY_DIMITRI_2026-11-13",
+   "name": "Dimitri Ousley",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Child Enticement-Expose Genitals/Pubic Area/Intimate Parts",
+   "more": 2,
+   "ts": 1794606892,
+   "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-13.jpg"
+  },
+  {
+   "key": "MAR_WILLHOITE_JUSTIN_2026-11-13",
+   "name": "Justin Ty Willhoite",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Neglecting A Child (Would Have Caused Harm)",
+   "more": 0,
+   "ts": 1794606851,
+   "photo": null
+  },
+  {
    "key": "RC_ZAVALA_ZACHERY_120011076256217",
    "name": "Zachery R Zavala",
    "age": "28",
@@ -603,8 +669,8 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 1,
    "ts": 1794603250,
    "photo": "photos/KEN_GAFFNEY_ALEXANDRA_2026-00006287.jpg"
   },
@@ -881,7 +947,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794594471,
-   "photo": null
+   "photo": "photos/MKE_PEREZ_ALEX_648277.jpg"
   },
   {
    "key": "PICKETT_RAINA_2026-11-13",
@@ -4952,28 +5018,6 @@
    "more": 0,
    "ts": 1794349863,
    "photo": null
-  },
-  {
-   "key": "MKE_WEEKS_KAYTTY_377253",
-   "name": "Kaytty Joelynn Weeks",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794347867,
-   "photo": "photos/MKE_WEEKS_KAYTTY_377253.jpg"
-  },
-  {
-   "key": "MKE_NORD_ANTHONY_421368",
-   "name": "Anthony Dushun Nord",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794347865,
-   "photo": "photos/MKE_NORD_ANTHONY_421368.jpg"
   }
  ]
 }
