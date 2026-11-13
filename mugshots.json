@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T12:59:35+00:00",
+ "updated": "2026-11-13T14:11:11+00:00",
  "items": [
+  {
+   "key": "MKE_AITCHISON_MATTHEW_287781",
+   "name": "Matthew Scott Aitchison",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794578283,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUDZITIS_FRANK_601320",
+   "name": "Frank Rudzitis",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794578281,
+   "photo": null
+  },
   {
    "key": "MKE_HERRERARIZO_DENIS_648273",
    "name": "Denis Herrera Rizo",
@@ -128,8 +150,8 @@
    "age": "18",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Obstruct Or Interfere With Fire Or Police Department",
+   "more": 6,
    "ts": 1794567864,
    "photo": null
   },
@@ -209,28 +231,6 @@
    "more": 2,
    "ts": 1794562081,
    "photo": "photos/MKE_JOHNSON_MARZELL_263828.jpg"
-  },
-  {
-   "key": "MKE_JARAMILLOGUZMAN_ABIMAEL_643558",
-   "name": "Abimael Jaramillo Guzman",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 0,
-   "ts": 1794562079,
-   "photo": "photos/MKE_JARAMILLOGUZMAN_ABIMAEL_643558.jpg"
-  },
-  {
-   "key": "KEN_GARCIA_DAVID_2026-00006280",
-   "name": "David Isalba Garcia",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1794561023,
-   "photo": null
   },
   {
    "key": "JOHNSON_KELVIN_2026-11-13",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_AITCHISON_MATTHEW_287781",
+   "name": "Matthew Scott Aitchison",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794578283,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUDZITIS_FRANK_601320",
+   "name": "Frank Rudzitis",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794578281,
+   "photo": null
+  },
+  {
    "key": "MKE_HERRERARIZO_DENIS_648273",
    "name": "Denis Herrera Rizo",
    "age": "46",
@@ -658,8 +680,8 @@
    "age": "18",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Obstruct Or Interfere With Fire Or Police Department",
+   "more": 6,
    "ts": 1794567864,
    "photo": null
   },
@@ -823,7 +845,7 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1794554779,
    "photo": "photos/KEN_MARTIN_EDWARD_2026-00006279.jpg"
@@ -4973,61 +4995,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1794320824,
-   "photo": null
-  },
-  {
-   "key": "MKE_STEWART_RODRIC_258822",
-   "name": "Rodric Lamont Stewart",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794319079,
-   "photo": null
-  },
-  {
-   "key": "MKE_SANDERS_BRYAN_294160",
-   "name": "Bryan Demetrius Sanders",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1794319077,
-   "photo": "photos/MKE_SANDERS_BRYAN_294160.jpg"
-  },
-  {
-   "key": "MKE_BURKS_JOHNNY_511740",
-   "name": "Johnny Eugene Burks",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794319076,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCHULTZ_MILES_648233",
-   "name": "Miles Schultz",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794319073,
-   "photo": "photos/MKE_SCHULTZ_MILES_648233.jpg"
-  },
-  {
-   "key": "KEN_CAMARILLO_ADOLFO_2026-00006214",
-   "name": "Adolfo Camarillo",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Carrying License",
-   "more": 2,
-   "ts": 1794318854,
    "photo": null
   }
  ]
