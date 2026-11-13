@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T20:49:31+00:00",
+ "updated": "2026-11-13T20:56:17+00:00",
  "items": [
+  {
+   "key": "MAR_GRAEF_NAINNE_2026-11-13_13109003",
+   "name": "Nainne Graef",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1794603303,
+   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13_13109003.jpg"
+  },
+  {
+   "key": "MAR_ERMELING_LOGAN_2026-11-13_8275302",
+   "name": "Logan Ace Ermeling",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1794603268,
+   "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13_8275302.jpg"
+  },
+  {
+   "key": "KEN_GAFFNEY_ALEXANDRA_2026-00006287",
+   "name": "Alexandra Devan Gaffney",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794603250,
+   "photo": "photos/KEN_GAFFNEY_ALEXANDRA_2026-00006287.jpg"
+  },
+  {
+   "key": "MAR_MALOUF_WILLIAM_2026-11-13",
+   "name": "William Malouf",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Grooming Of A Child For Sexual Activity",
+   "more": 1,
+   "ts": 1794603231,
+   "photo": null
+  },
   {
    "key": "RC_KRUEGER_MAURIECE_120011076253580",
    "name": "Mauriece Wolfgang Krueger",
@@ -95,8 +139,8 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "1St Degree Reckless Endangering Safety",
+   "more": 3,
    "ts": 1794599789,
    "photo": "photos/KEN_GALINDOGARCIA_JORGE_2026-00006286.jpg"
   },
@@ -220,17 +264,6 @@
    "more": 0,
    "ts": 1794595187,
    "photo": "photos/MAR_SCHOEPKE_GARRET_2026-11-13_5345801.jpg"
-  },
-  {
-   "key": "MKE_HUNTER_TRISTAN_357178",
-   "name": "Tristan A Hunter",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794594477,
-   "photo": "photos/MKE_HUNTER_TRISTAN_357178.jpg"
   },
   {
    "key": "PICKETT_RAINA_2026-11-13",
@@ -398,28 +431,6 @@
    "photo": "photos/GUERRA_MALIK_2026-11-13.jpg"
   },
   {
-   "key": "MAR_GLENN_DIAMOND_2026-11-12",
-   "name": "Diamond Deangelo Glenn",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794549423,
-   "photo": "photos/MAR_GLENN_DIAMOND_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_ALSOWITI_RHEA_2026-11-12",
-   "name": "Rhea Alsowiti",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794549376,
-   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-12.jpg"
-  },
-  {
    "key": "MASHAK_JACKSON_2026-11-12",
    "name": "Jackson M Mashak",
    "age": "25",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1794542235,
    "photo": null
-  },
-  {
-   "key": "MAR_WILSON_DARNELL_2026-11-12",
-   "name": "Darnell Jcaleb Torin Wilson",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794538669,
-   "photo": "photos/MAR_WILSON_DARNELL_2026-11-12.jpg"
   },
   {
    "key": "FEIST_VOLANTE_2026-11-12",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_GRAEF_NAINNE_2026-11-13_13109003",
+   "name": "Nainne Graef",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1794603303,
+   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13_13109003.jpg"
+  },
+  {
+   "key": "MAR_ERMELING_LOGAN_2026-11-13_8275302",
+   "name": "Logan Ace Ermeling",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1794603268,
+   "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13_8275302.jpg"
+  },
+  {
+   "key": "KEN_GAFFNEY_ALEXANDRA_2026-00006287",
+   "name": "Alexandra Devan Gaffney",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794603250,
+   "photo": "photos/KEN_GAFFNEY_ALEXANDRA_2026-00006287.jpg"
+  },
+  {
+   "key": "MAR_MALOUF_WILLIAM_2026-11-13",
+   "name": "William Malouf",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Grooming Of A Child For Sexual Activity",
+   "more": 1,
+   "ts": 1794603231,
+   "photo": null
+  },
   {
    "key": "RC_KRUEGER_MAURIECE_120011076253580",
    "name": "Mauriece Wolfgang Krueger",
@@ -625,8 +669,8 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "1St Degree Reckless Endangering Safety",
+   "more": 3,
    "ts": 1794599789,
    "photo": "photos/KEN_GALINDOGARCIA_JORGE_2026-00006286.jpg"
   },
@@ -4941,28 +4985,6 @@
    "more": 1,
    "ts": 1794345438,
    "photo": "photos/DOU_LAGREW_DAVID_2026-11-10.jpg"
-  },
-  {
-   "key": "KEN_CAMARGOBELTRAN_ALERSON_2026-00006234",
-   "name": "Alerson Camargo-Beltran",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "1St Degree Reckless Endangering Safety",
-   "more": 2,
-   "ts": 1794344028,
-   "photo": null
-  },
-  {
-   "key": "MAR_CLARK_TROY_2026-11-10",
-   "name": "Troy Dwayne Clark",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1St Degree Child Sexual Assault - Intercourse With Person Un",
-   "more": 0,
-   "ts": 1794344004,
-   "photo": "photos/MAR_CLARK_TROY_2026-11-10.jpg"
   }
  ]
 }
