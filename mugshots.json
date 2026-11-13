@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T16:03:45+00:00",
+ "updated": "2026-11-13T16:28:25+00:00",
  "items": [
+  {
+   "key": "DOU_MICKELSON_TRACY_2026-11-13",
+   "name": "Tracy L Mickelson",
+   "age": "55",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 1,
+   "ts": 1794586602,
+   "photo": "photos/DOU_MICKELSON_TRACY_2026-11-13.jpg"
+  },
   {
    "key": "RC_IGBOKO_DEANA_120011076241184",
    "name": "Deana Igboko",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794509231,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "DOU_SANIGAR_SEAN_2026-11-12",
-   "name": "Sean R Sanigar",
-   "age": "37",
+   "key": "DOU_MICKELSON_TRACY_2026-11-13",
+   "name": "Tracy L Mickelson",
+   "age": "55",
    "county": "Douglas County",
    "region": "northwest",
    "charge": "Charges:",
    "more": 1,
-   "ts": 1794507410,
-   "photo": "photos/DOU_SANIGAR_SEAN_2026-11-12.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794586602,
+   "photo": "photos/DOU_MICKELSON_TRACY_2026-11-13.jpg"
+  },
   {
    "key": "RC_IGBOKO_DEANA_120011076241184",
    "name": "Deana Igboko",
@@ -4875,28 +4886,6 @@
    "more": 0,
    "ts": 1794329267,
    "photo": "photos/RC_RODRIGUEZ_ORLANDO_120011076133385.jpg"
-  },
-  {
-   "key": "CARSON_HANAH_2026-11-10",
-   "name": "Hanah M Carson",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Arson Of Building W/O Owner'S Consent",
-   "more": 1,
-   "ts": 1794328021,
-   "photo": null
-  },
-  {
-   "key": "FDL_HIGGINBOTHAM_ZACHERY_2026-11-10",
-   "name": "Zachery Rad Higginbotham",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery Substantial/Aggravated/Intend Bodily Harm No Drugs Or Alc",
-   "more": 3,
-   "ts": 1794327401,
-   "photo": "photos/FDL_HIGGINBOTHAM_ZACHERY_2026-11-10.jpg"
   }
  ]
 }
