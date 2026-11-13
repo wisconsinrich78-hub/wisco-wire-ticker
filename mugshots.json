@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T18:29:09+00:00",
+ "updated": "2026-11-13T18:49:26+00:00",
  "items": [
+  {
+   "key": "KEN_ADAMS_MARQUAVIS_2026-00006284",
+   "name": "Marquavis Tyron Adams",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Exceeding Speed Zones (1-10 Mph)",
+   "more": 2,
+   "ts": 1794595643,
+   "photo": "photos/KEN_ADAMS_MARQUAVIS_2026-00006284.jpg"
+  },
+  {
+   "key": "KEN_ACOSTA_ARTURO_2026-00006285",
+   "name": "Arturo O Acosta",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 0,
+   "ts": 1794595538,
+   "photo": "photos/KEN_ACOSTA_ARTURO_2026-00006285.jpg"
+  },
+  {
+   "key": "MAR_SCHOEPKE_GARRET_2026-11-13_5345801",
+   "name": "Garret Ray Schoepke",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794595187,
+   "photo": "photos/MAR_SCHOEPKE_GARRET_2026-11-13_5345801.jpg"
+  },
   {
    "key": "MKE_HUNTER_TRISTAN_357178",
    "name": "Tristan A Hunter",
@@ -244,28 +277,6 @@
    "photo": null
   },
   {
-   "key": "MKE_RUDZITIS_FRANK_601320",
-   "name": "Frank Rudzitis",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794578281,
-   "photo": "photos/MKE_RUDZITIS_FRANK_601320.jpg"
-  },
-  {
-   "key": "MKE_HERRERARIZO_DENIS_648273",
-   "name": "Denis Herrera Rizo",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794574659,
-   "photo": "photos/MKE_HERRERARIZO_DENIS_648273.jpg"
-  },
-  {
    "key": "MAR_ABDIRESAQ_MAHAD_2026-11-13",
    "name": "Mahad Jama Abdiresaq",
    "age": "38",
@@ -442,17 +453,6 @@
    "photo": "photos/MAR_LOMONTE_ANTHONY_2026-11-12.jpg"
   },
   {
-   "key": "MAR_MICHELS_JOSHUA_2026-11-12",
-   "name": "Joshua Franklin Michels",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1794538473,
-   "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-12.jpg"
-  },
-  {
    "key": "FEIST_VOLANTE_2026-11-12",
    "name": "Volante C Feist",
    "age": "36",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_ADAMS_MARQUAVIS_2026-00006284",
+   "name": "Marquavis Tyron Adams",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Exceeding Speed Zones (1-10 Mph)",
+   "more": 2,
+   "ts": 1794595643,
+   "photo": "photos/KEN_ADAMS_MARQUAVIS_2026-00006284.jpg"
+  },
+  {
+   "key": "KEN_ACOSTA_ARTURO_2026-00006285",
+   "name": "Arturo O Acosta",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 0,
+   "ts": 1794595538,
+   "photo": "photos/KEN_ACOSTA_ARTURO_2026-00006285.jpg"
+  },
+  {
+   "key": "MAR_SCHOEPKE_GARRET_2026-11-13_5345801",
+   "name": "Garret Ray Schoepke",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794595187,
+   "photo": "photos/MAR_SCHOEPKE_GARRET_2026-11-13_5345801.jpg"
+  },
   {
    "key": "MKE_HUNTER_TRISTAN_357178",
    "name": "Tristan A Hunter",
@@ -4930,39 +4963,6 @@
    "more": 0,
    "ts": 1794336793,
    "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10_15763404.jpg"
-  },
-  {
-   "key": "RC_GREWAL_ISHAN_120011076136732",
-   "name": "Ishan S Grewal",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794336483,
-   "photo": null
-  },
-  {
-   "key": "RC_HERRON_DEANGELO_120011076136974",
-   "name": "Deangelo Vivel Herron",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794336481,
-   "photo": "photos/RC_HERRON_DEANGELO_120011076136974.jpg"
-  },
-  {
-   "key": "RC_PETTWAY_KEVIN_120011076137046",
-   "name": "Kevin Pettway",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794336477,
-   "photo": "photos/RC_PETTWAY_KEVIN_120011076137046.jpg"
   }
  ]
 }
