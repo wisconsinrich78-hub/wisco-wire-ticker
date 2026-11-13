@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T17:29:03+00:00",
+ "updated": "2026-11-13T17:49:36+00:00",
  "items": [
+  {
+   "key": "RC_SURA_THOMAS_120011076246228",
+   "name": "Thomas Sylvester Sura",
+   "age": "62",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794592078,
+   "photo": "photos/RC_SURA_THOMAS_120011076246228.jpg"
+  },
   {
    "key": "MKE_DURHAM_KELVIN_640750",
    "name": "Kelvin J Durham",
@@ -266,17 +277,6 @@
    "photo": "photos/MKE_LOPEZ_MOCTEZUMA_634404.jpg"
   },
   {
-   "key": "MKE_SYVIENGCHAN_MADDIX_640028",
-   "name": "Maddix P Syviengchan",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1794569263,
-   "photo": "photos/MKE_SYVIENGCHAN_MADDIX_640028.jpg"
-  },
-  {
    "key": "TREM_HERNANDEZ_MARCOS_6212",
    "name": "Marcos James Hernandez",
    "age": "39",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_SURA_THOMAS_120011076246228",
+   "name": "Thomas Sylvester Sura",
+   "age": "62",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794592078,
+   "photo": "photos/RC_SURA_THOMAS_120011076246228.jpg"
+  },
   {
    "key": "MKE_DURHAM_KELVIN_640750",
    "name": "Kelvin J Durham",
