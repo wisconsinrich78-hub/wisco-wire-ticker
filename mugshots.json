@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T01:21:17+00:00",
+ "updated": "2026-11-13T02:05:13+00:00",
  "items": [
+  {
+   "key": "KEN_CHAVARRIA_ASHLEY_2026-00006276",
+   "name": "Ashley Beatriz Chavarria",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794535453,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALDRIP_IMAN_648265",
+   "name": "Iman Waldrip",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794535077,
+   "photo": null
+  },
+  {
+   "key": "RC_LOPEZ_MAURO_120011076228019",
+   "name": "Mauro Ubaldo Lopez",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 2,
+   "ts": 1794534486,
+   "photo": "photos/RC_LOPEZ_MAURO_120011076228019.jpg"
+  },
+  {
+   "key": "AYALA_ANTONIO_2026-11-12",
+   "name": "Antonio Ii Ayala",
+   "age": "49",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794533869,
+   "photo": null
+  },
   {
    "key": "TISCHER_ROBERT_2026-11-12",
    "name": "Robert Lee Tischer",
@@ -153,7 +197,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 3,
    "ts": 1794520737,
-   "photo": null
+   "photo": "photos/MKE_AVENDALLO_MARCELINO_334846.jpg"
   },
   {
    "key": "MKE_WESLEY_CARMELITA_629243",
@@ -197,39 +241,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794518829,
-   "photo": null
-  },
-  {
-   "key": "RC_DAMS_ROBERT_120011076221525",
-   "name": "Robert Ben Dams",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794516507,
-   "photo": null
-  },
-  {
-   "key": "RC_SCHREIBER_JASON_120011076221645",
-   "name": "Jason Ellsworth Schreiber",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794516504,
-   "photo": "photos/RC_SCHREIBER_JASON_120011076221645.jpg"
-  },
-  {
-   "key": "RC_DRAKE_MACKEY_120011076221913",
-   "name": "Mackey K Drake",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794516501,
    "photo": null
   },
   {
@@ -517,20 +528,53 @@
    "more": 1,
    "ts": 1794471405,
    "photo": "photos/DOU_GREER_CHRISTINA_2026-11-12.jpg"
-  },
-  {
-   "key": "FDL_KOEHLER_KARL_2026-11-12",
-   "name": "Karl G Koehler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794471379,
-   "photo": "photos/FDL_KOEHLER_KARL_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_CHAVARRIA_ASHLEY_2026-00006276",
+   "name": "Ashley Beatriz Chavarria",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794535453,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALDRIP_IMAN_648265",
+   "name": "Iman Waldrip",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794535077,
+   "photo": null
+  },
+  {
+   "key": "RC_LOPEZ_MAURO_120011076228019",
+   "name": "Mauro Ubaldo Lopez",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 2,
+   "ts": 1794534486,
+   "photo": "photos/RC_LOPEZ_MAURO_120011076228019.jpg"
+  },
+  {
+   "key": "AYALA_ANTONIO_2026-11-12",
+   "name": "Antonio Ii Ayala",
+   "age": "49",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794533869,
+   "photo": null
+  },
   {
    "key": "TISCHER_ROBERT_2026-11-12",
    "name": "Robert Lee Tischer",
@@ -683,7 +727,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 3,
    "ts": 1794520737,
-   "photo": null
+   "photo": "photos/MKE_AVENDALLO_MARCELINO_334846.jpg"
   },
   {
    "key": "MKE_WESLEY_CARMELITA_629243",
@@ -793,7 +837,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794515271,
-   "photo": null
+   "photo": "photos/MKE_MCKINNEY_LETERRY_648261.jpg"
   },
   {
    "key": "MKE_ALABBAS_SUFIAN_627899",
@@ -4941,94 +4985,6 @@
    "more": 1,
    "ts": 1794277084,
    "photo": "photos/DOU_MARTIN_GARY_2026-11-09.jpg"
-  },
-  {
-   "key": "MKE_SMITH_MICHAEL_180173",
-   "name": "Michael Gerard Smith",
-   "age": "64",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 0,
-   "ts": 1794275895,
-   "photo": null
-  },
-  {
-   "key": "MKE_TURNER_CORDARO_363192",
-   "name": "Cordaro W Turner",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 2,
-   "ts": 1794275892,
-   "photo": "photos/MKE_TURNER_CORDARO_363192.jpg"
-  },
-  {
-   "key": "MKE_NELSON_RICKY_366328",
-   "name": "Ricky J Nelson",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1794275890,
-   "photo": "photos/MKE_NELSON_RICKY_366328.jpg"
-  },
-  {
-   "key": "MKE_MALINSKI_KELLY_383843",
-   "name": "Kelly Jean Malinski",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794275887,
-   "photo": null
-  },
-  {
-   "key": "MKE_GLOVER_AMENHOTEP_420329",
-   "name": "Amenhotep Davon Glover",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 1,
-   "ts": 1794275884,
-   "photo": "photos/MKE_GLOVER_AMENHOTEP_420329.jpg"
-  },
-  {
-   "key": "KEN_BUNVILLE_SONYA_2026-00006209",
-   "name": "Sonya Bunville",
-   "age": "65",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794275665,
-   "photo": "photos/KEN_BUNVILLE_SONYA_2026-00006209.jpg"
-  },
-  {
-   "key": "MAR_WOODARD_DAVID_2026-11-09_7914801",
-   "name": "David Nathanael Woodard",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 0,
-   "ts": 1794275605,
-   "photo": "photos/MAR_WOODARD_DAVID_2026-11-09_7914801.jpg"
-  },
-  {
-   "key": "RC_SIMONSEN_STEVEN_120011076116268",
-   "name": "Steven James Simonsen",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 0,
-   "ts": 1794275292,
-   "photo": "photos/RC_SIMONSEN_STEVEN_120011076116268.jpg"
   }
  ]
 }
