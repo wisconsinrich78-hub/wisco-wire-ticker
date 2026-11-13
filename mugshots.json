@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T06:54:42+00:00",
+ "updated": "2026-11-13T07:10:08+00:00",
  "items": [
+  {
+   "key": "MKE_MERCADO_XAVIER_637560",
+   "name": "Xavier A Mercado",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794553071,
+   "photo": null
+  },
+  {
+   "key": "MKE_ELLIS_TAKYI_648266",
+   "name": "Ta'kyi Saneaya Ellis",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794553069,
+   "photo": null
+  },
   {
    "key": "MAR_GLENN_DIAMOND_2026-11-12",
    "name": "Diamond Deangelo Glenn",
@@ -76,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794540482,
-   "photo": null
+   "photo": "photos/MKE_FOWLER_BRYSON_643640.jpg"
   },
   {
    "key": "MKE_TATELOTT_MAKAI_645221",
@@ -87,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794540480,
-   "photo": null
+   "photo": "photos/MKE_TATELOTT_MAKAI_645221.jpg"
   },
   {
    "key": "MAR_WILSON_DARNELL_2026-11-12",
@@ -186,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794537034,
-   "photo": null
+   "photo": "photos/MKE_MOTLEY_LAVON_416625.jpg"
   },
   {
    "key": "MKE_WELLS_CINCERE_622740",
@@ -197,7 +219,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794537031,
-   "photo": null
+   "photo": "photos/MKE_WELLS_CINCERE_622740.jpg"
   },
   {
    "key": "FEIST_VOLANTE_2026-11-12",
@@ -288,17 +310,6 @@
    "photo": "photos/MKE_WALDRIP_IMAN_648265.jpg"
   },
   {
-   "key": "RC_LOPEZ_MAURO_120011076228019",
-   "name": "Mauro Ubaldo Lopez",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794534486,
-   "photo": "photos/RC_LOPEZ_MAURO_120011076228019.jpg"
-  },
-  {
    "key": "AYALA_ANTONIO_2026-11-12",
    "name": "Antonio Ii Ayala",
    "age": "49",
@@ -319,17 +330,6 @@
    "more": 0,
    "ts": 1794531684,
    "photo": null
-  },
-  {
-   "key": "MKE_GAMEZ_DONTONIO_625828",
-   "name": "Dontonio Gamez",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1794531467,
-   "photo": "photos/MKE_GAMEZ_DONTONIO_625828.jpg"
   },
   {
    "key": "FDL_BRYANT_MALIK_2026-11-12",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_MERCADO_XAVIER_637560",
+   "name": "Xavier A Mercado",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794553071,
+   "photo": null
+  },
+  {
+   "key": "MKE_ELLIS_TAKYI_648266",
+   "name": "Ta'kyi Saneaya Ellis",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794553069,
+   "photo": null
+  },
+  {
    "key": "MAR_GLENN_DIAMOND_2026-11-12",
    "name": "Diamond Deangelo Glenn",
    "age": "34",
@@ -606,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794540482,
-   "photo": null
+   "photo": "photos/MKE_FOWLER_BRYSON_643640.jpg"
   },
   {
    "key": "MKE_TATELOTT_MAKAI_645221",
@@ -617,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794540480,
-   "photo": null
+   "photo": "photos/MKE_TATELOTT_MAKAI_645221.jpg"
   },
   {
    "key": "MAR_WILSON_DARNELL_2026-11-12",
@@ -716,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794537034,
-   "photo": null
+   "photo": "photos/MKE_MOTLEY_LAVON_416625.jpg"
   },
   {
    "key": "MKE_WELLS_CINCERE_622740",
@@ -727,7 +749,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794537031,
-   "photo": null
+   "photo": "photos/MKE_WELLS_CINCERE_622740.jpg"
   },
   {
    "key": "FEIST_VOLANTE_2026-11-12",
