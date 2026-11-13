@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T11:28:53+00:00",
+ "updated": "2026-11-13T12:28:22+00:00",
  "items": [
+  {
+   "key": "MKE_KYLES_JAYMONIKA_603895",
+   "name": "Jaymonika L Kyles",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794572883,
+   "photo": null
+  },
+  {
+   "key": "MKE_SIVILAYVONGPHAKDY_ETHAN_648271",
+   "name": "Ethan P Sivilay-Vongphakdy",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794572881,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSADOSOTO_MELANY_648272",
+   "name": "Melany Rosado Soto",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794572880,
+   "photo": null
+  },
   {
    "key": "MKE_LOPEZ_MOCTEZUMA_634404",
    "name": "Moctezuma Lopez",
@@ -198,39 +231,6 @@
    "more": 4,
    "ts": 1794556661,
    "photo": "photos/MKE_PATINOPATINO_KEVIN_648267.jpg"
-  },
-  {
-   "key": "RC_WEBSTER_TRAVENN_120011076233210",
-   "name": "Travenn Lamont Webster",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 1,
-   "ts": 1794556089,
-   "photo": "photos/RC_WEBSTER_TRAVENN_120011076233210.jpg"
-  },
-  {
-   "key": "RC_COLDTRAIN_CHARLES_120011076233229",
-   "name": "Charles Alan Coldtrain",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-THC (<=200 grams)",
-   "more": 3,
-   "ts": 1794556086,
-   "photo": "photos/RC_COLDTRAIN_CHARLES_120011076233229.jpg"
-  },
-  {
-   "key": "KEN_MARTIN_EDWARD_2026-00006279",
-   "name": "Edward James Martin",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794554779,
-   "photo": "photos/KEN_MARTIN_EDWARD_2026-00006279.jpg"
   },
   {
    "key": "MAR_GLENN_DIAMOND_2026-11-12",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_KYLES_JAYMONIKA_603895",
+   "name": "Jaymonika L Kyles",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794572883,
+   "photo": null
+  },
+  {
+   "key": "MKE_SIVILAYVONGPHAKDY_ETHAN_648271",
+   "name": "Ethan P Sivilay-Vongphakdy",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794572881,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSADOSOTO_MELANY_648272",
+   "name": "Melany Rosado Soto",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794572880,
+   "photo": null
+  },
   {
    "key": "MKE_LOPEZ_MOCTEZUMA_634404",
    "name": "Moctezuma Lopez",
@@ -4974,17 +5007,6 @@
    "more": 0,
    "ts": 1794314867,
    "photo": "photos/RC_ROUSE_DWIGHT_120011076125721.jpg"
-  },
-  {
-   "key": "MKE_BUSTOS_GAEL_648232",
-   "name": "Gael Bustos",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794313655,
-   "photo": null
   }
  ]
 }
