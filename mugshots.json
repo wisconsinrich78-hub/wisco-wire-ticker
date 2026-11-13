@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T04:35:39+00:00",
+ "updated": "2026-11-13T05:00:14+00:00",
  "items": [
+  {
+   "key": "RC_FORD_GERALD_120011076231496",
+   "name": "Gerald Ford",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794545313,
+   "photo": "photos/RC_FORD_GERALD_120011076231496.jpg"
+  },
   {
    "key": "MKE_HENDERSON_ARMONI_607864",
    "name": "Armoni T Henderson",
@@ -310,17 +321,6 @@
    "photo": "photos/FDL_BRYANT_MALIK_2026-11-12.jpg"
   },
   {
-   "key": "MKE_WALKER_LEON_282397",
-   "name": "Leon Natron Walker",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794528167,
-   "photo": null
-  },
-  {
    "key": "GROTH_BENJAMIN_2026-11-12",
    "name": "Benjamin R Groth",
    "age": "46",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FORD_GERALD_120011076231496",
+   "name": "Gerald Ford",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794545313,
+   "photo": "photos/RC_FORD_GERALD_120011076231496.jpg"
+  },
   {
    "key": "MKE_HENDERSON_ARMONI_607864",
    "name": "Armoni T Henderson",
@@ -5007,17 +5018,6 @@
    "more": 0,
    "ts": 1794287785,
    "photo": "photos/FDL_FURNAS_DAVID_2026-11-09.jpg"
-  },
-  {
-   "key": "RC_SMITH_EDRICK_120011076120120",
-   "name": "Edrick Dywne Smith",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
-   "more": 0,
-   "ts": 1794286081,
-   "photo": null
   }
  ]
 }
