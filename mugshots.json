@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T20:56:17+00:00",
+ "updated": "2026-11-13T21:29:12+00:00",
  "items": [
+  {
+   "key": "MKE_HENDERSON_JERLENE_194971",
+   "name": "Jerlene Henderson",
+   "age": "75",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (5th or 6th)",
+   "more": 1,
+   "ts": 1794605315,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHULTZ_CHANCE_635568",
+   "name": "Chance T Schultz",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1794605313,
+   "photo": null
+  },
+  {
+   "key": "FDL_FRASE_VICTORIA_2026-11-13",
+   "name": "Victoria Ann Frase",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794604575,
+   "photo": "photos/FDL_FRASE_VICTORIA_2026-11-13.jpg"
+  },
   {
    "key": "MAR_GRAEF_NAINNE_2026-11-13_13109003",
    "name": "Nainne Graef",
@@ -231,28 +264,6 @@
    "more": 0,
    "ts": 1794596047,
    "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13.jpg"
-  },
-  {
-   "key": "KEN_ADAMS_MARQUAVIS_2026-00006284",
-   "name": "Marquavis Tyron Adams",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Exceeding Speed Zones (1-10 Mph)",
-   "more": 2,
-   "ts": 1794595643,
-   "photo": "photos/KEN_ADAMS_MARQUAVIS_2026-00006284.jpg"
-  },
-  {
-   "key": "KEN_ACOSTA_ARTURO_2026-00006285",
-   "name": "Arturo O Acosta",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 0,
-   "ts": 1794595538,
-   "photo": "photos/KEN_ACOSTA_ARTURO_2026-00006285.jpg"
   },
   {
    "key": "MAR_SCHOEPKE_GARRET_2026-11-13_5345801",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1794523642,
    "photo": null
-  },
-  {
-   "key": "RADDE_CORTELL_2026-11-12",
-   "name": "Cortell B Radde",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 3,
-   "ts": 1794522425,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HENDERSON_JERLENE_194971",
+   "name": "Jerlene Henderson",
+   "age": "75",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (5th or 6th)",
+   "more": 1,
+   "ts": 1794605315,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHULTZ_CHANCE_635568",
+   "name": "Chance T Schultz",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1794605313,
+   "photo": null
+  },
+  {
+   "key": "FDL_FRASE_VICTORIA_2026-11-13",
+   "name": "Victoria Ann Frase",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794604575,
+   "photo": "photos/FDL_FRASE_VICTORIA_2026-11-13.jpg"
+  },
   {
    "key": "MAR_GRAEF_NAINNE_2026-11-13_13109003",
    "name": "Nainne Graef",
@@ -4974,17 +5007,6 @@
    "more": 0,
    "ts": 1794347264,
    "photo": "photos/RC_ROBINSON_JAMALL_120011076143502.jpg"
-  },
-  {
-   "key": "DOU_LAGREW_DAVID_2026-11-10",
-   "name": "David R Lagrew",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794345438,
-   "photo": "photos/DOU_LAGREW_DAVID_2026-11-10.jpg"
   }
  ]
 }
