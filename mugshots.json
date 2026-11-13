@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T05:32:27+00:00",
+ "updated": "2026-11-13T06:10:25+00:00",
  "items": [
+  {
+   "key": "MAR_GLENN_DIAMOND_2026-11-12",
+   "name": "Diamond Deangelo Glenn",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794549423,
+   "photo": "photos/MAR_GLENN_DIAMOND_2026-11-12.jpg"
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-11-12",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794549376,
+   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-12.jpg"
+  },
   {
    "key": "RC_FORD_GERALD_120011076231496",
    "name": "Gerald Ford",
@@ -486,28 +508,6 @@
    "photo": null
   },
   {
-   "key": "MAR_RUSCH_ASHLEY_2026-11-12",
-   "name": "Ashley Donna Rusch",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession Of Thc",
-   "more": 2,
-   "ts": 1794502487,
-   "photo": "photos/MAR_RUSCH_ASHLEY_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_KNIGHT_JAMES_2026-11-12",
-   "name": "James Lee Knight",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1794502415,
-   "photo": "photos/MAR_KNIGHT_JAMES_2026-11-12.jpg"
-  },
-  {
    "key": "PERREN_JULLIAN_2026-11-12",
    "name": "Jullian A Perren",
    "age": "18",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_GLENN_DIAMOND_2026-11-12",
+   "name": "Diamond Deangelo Glenn",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794549423,
+   "photo": "photos/MAR_GLENN_DIAMOND_2026-11-12.jpg"
+  },
+  {
+   "key": "MAR_ALSOWITI_RHEA_2026-11-12",
+   "name": "Rhea Alsowiti",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794549376,
+   "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-12.jpg"
+  },
   {
    "key": "RC_FORD_GERALD_120011076231496",
    "name": "Gerald Ford",
@@ -4974,17 +4996,6 @@
    "more": 0,
    "ts": 1794291438,
    "photo": "photos/FDL_RISTOW_TYNEIKO_2026-11-09.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_AARON_120011076121562",
-   "name": "Aaron Johnson",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794289708,
-   "photo": null
   }
  ]
 }
