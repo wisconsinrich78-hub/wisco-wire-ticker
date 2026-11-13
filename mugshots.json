@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T17:09:38+00:00",
+ "updated": "2026-11-13T17:29:03+00:00",
  "items": [
+  {
+   "key": "MKE_DURHAM_KELVIN_640750",
+   "name": "Kelvin J Durham",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794590865,
+   "photo": null
+  },
+  {
+   "key": "MKE_HINES_DANIEL_648275",
+   "name": "Daniel L Hines",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794590864,
+   "photo": null
+  },
+  {
+   "key": "FDL_ROHDE_ROBERT_2026-11-13",
+   "name": "Robert Roger Rohde",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794590192,
+   "photo": "photos/FDL_ROHDE_ROBERT_2026-11-13.jpg"
+  },
   {
    "key": "MKE_EMMERICH_NANCY_348333",
    "name": "Nancy R Emmerich",
@@ -10,7 +43,7 @@
    "charge": "Party to a Crime",
    "more": 1,
    "ts": 1794589055,
-   "photo": null
+   "photo": "photos/MKE_EMMERICH_NANCY_348333.jpg"
   },
   {
    "key": "MKE_MORGAN_FRANKLIN_648274",
@@ -230,7 +263,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794569265,
-   "photo": null
+   "photo": "photos/MKE_LOPEZ_MOCTEZUMA_634404.jpg"
   },
   {
    "key": "MKE_SYVIENGCHAN_MADDIX_640028",
@@ -242,28 +275,6 @@
    "more": 7,
    "ts": 1794569263,
    "photo": "photos/MKE_SYVIENGCHAN_MADDIX_640028.jpg"
-  },
-  {
-   "key": "MKE_NOEL_GERMAYA_648269",
-   "name": "Germaya Danae Noel",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794569261,
-   "photo": "photos/MKE_NOEL_GERMAYA_648269.jpg"
-  },
-  {
-   "key": "MKE_MARTINEZDELARA_DARWIN_648270",
-   "name": "Darwin Cesar Martinez Delara",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794569260,
-   "photo": null
   },
   {
    "key": "TREM_HERNANDEZ_MARCOS_6212",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794518829,
    "photo": null
-  },
-  {
-   "key": "CARTER_PRINCE_2026-11-12",
-   "name": "Prince A Carter",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794512827,
-   "photo": "photos/CARTER_PRINCE_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_DURHAM_KELVIN_640750",
+   "name": "Kelvin J Durham",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794590865,
+   "photo": null
+  },
+  {
+   "key": "MKE_HINES_DANIEL_648275",
+   "name": "Daniel L Hines",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794590864,
+   "photo": null
+  },
+  {
+   "key": "FDL_ROHDE_ROBERT_2026-11-13",
+   "name": "Robert Roger Rohde",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794590192,
+   "photo": "photos/FDL_ROHDE_ROBERT_2026-11-13.jpg"
+  },
   {
    "key": "MKE_EMMERICH_NANCY_348333",
    "name": "Nancy R Emmerich",
@@ -540,7 +573,7 @@
    "charge": "Party to a Crime",
    "more": 1,
    "ts": 1794589055,
-   "photo": null
+   "photo": "photos/MKE_EMMERICH_NANCY_348333.jpg"
   },
   {
    "key": "MKE_MORGAN_FRANKLIN_648274",
@@ -760,7 +793,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794569265,
-   "photo": null
+   "photo": "photos/MKE_LOPEZ_MOCTEZUMA_634404.jpg"
   },
   {
    "key": "MKE_SYVIENGCHAN_MADDIX_640028",
@@ -793,7 +826,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794569260,
-   "photo": null
+   "photo": "photos/MKE_MARTINEZDELARA_DARWIN_648270.jpg"
   },
   {
    "key": "KEN_SMITH_CHRISTOPHER_2026-00006281",
@@ -4919,17 +4952,6 @@
    "more": 0,
    "ts": 1794333236,
    "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10.jpg"
-  },
-  {
-   "key": "MKE_WHITTSEY_ALEXIS_359257",
-   "name": "Alexis L Whittsey",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794331657,
-   "photo": "photos/MKE_WHITTSEY_ALEXIS_359257.jpg"
   }
  ]
 }
