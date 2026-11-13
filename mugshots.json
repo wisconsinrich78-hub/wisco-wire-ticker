@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T19:49:37+00:00",
+ "updated": "2026-11-13T20:01:21+00:00",
  "items": [
+  {
+   "key": "MKE_CERVANTES_MARTIN_648279",
+   "name": "Martin Javier Cervantes",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794599897,
+   "photo": null
+  },
+  {
+   "key": "KEN_GALINDOGARCIA_JORGE_2026-00006286",
+   "name": "Jorge Galindo-Garcia",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794599789,
+   "photo": "photos/KEN_GALINDOGARCIA_JORGE_2026-00006286.jpg"
+  },
+  {
+   "key": "MAR_ERMELING_LOGAN_2026-11-13",
+   "name": "Logan Ace Ermeling",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1794599729,
+   "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13.jpg"
+  },
+  {
+   "key": "MAR_MALONEY_BARBARA_2026-11-13",
+   "name": "Barbara Jean Maloney",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794599678,
+   "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13.jpg"
+  },
   {
    "key": "RC_WEST_EDWIN_120011076251007",
    "name": "Edwin Clarence West",
@@ -29,8 +73,8 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent/Deliver Narcotics",
+   "more": 11,
    "ts": 1794596280,
    "photo": null
   },
@@ -175,7 +219,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794590865,
-   "photo": null
+   "photo": "photos/MKE_DURHAM_KELVIN_640750.jpg"
   },
   {
    "key": "MKE_HINES_DANIEL_648275",
@@ -209,17 +253,6 @@
    "more": 1,
    "ts": 1794589055,
    "photo": "photos/MKE_EMMERICH_NANCY_348333.jpg"
-  },
-  {
-   "key": "MKE_MORGAN_FRANKLIN_648274",
-   "name": "Franklin Morgan",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794589053,
-   "photo": null
   },
   {
    "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103",
@@ -264,17 +297,6 @@
    "more": 1,
    "ts": 1794588824,
    "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13_475406.jpg"
-  },
-  {
-   "key": "RC_BAUMLER_MATTHEW_120011076243332",
-   "name": "Matthew Eric Baumler",
-   "age": "58",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Methamphetamine",
-   "more": 10,
-   "ts": 1794588470,
-   "photo": null
   },
   {
    "key": "DOU_MICKELSON_TRACY_2026-11-13",
@@ -431,28 +453,6 @@
    "photo": "photos/MAR_WILSON_DARNELL_2026-11-12.jpg"
   },
   {
-   "key": "MAR_OMOREGIE_DANIEL_2026-11-12",
-   "name": "Daniel Omoregie",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1794538629,
-   "photo": "photos/MAR_OMOREGIE_DANIEL_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_JACKSON_JAMES_2026-11-12",
-   "name": "James O Jackson",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1794538590,
-   "photo": "photos/MAR_JACKSON_JAMES_2026-11-12.jpg"
-  },
-  {
    "key": "FEIST_VOLANTE_2026-11-12",
    "name": "Volante C Feist",
    "age": "36",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_CERVANTES_MARTIN_648279",
+   "name": "Martin Javier Cervantes",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794599897,
+   "photo": null
+  },
+  {
+   "key": "KEN_GALINDOGARCIA_JORGE_2026-00006286",
+   "name": "Jorge Galindo-Garcia",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794599789,
+   "photo": "photos/KEN_GALINDOGARCIA_JORGE_2026-00006286.jpg"
+  },
+  {
+   "key": "MAR_ERMELING_LOGAN_2026-11-13",
+   "name": "Logan Ace Ermeling",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 1St",
+   "more": 0,
+   "ts": 1794599729,
+   "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13.jpg"
+  },
+  {
+   "key": "MAR_MALONEY_BARBARA_2026-11-13",
+   "name": "Barbara Jean Maloney",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794599678,
+   "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13.jpg"
+  },
+  {
    "key": "RC_WEST_EDWIN_120011076251007",
    "name": "Edwin Clarence West",
    "age": "61",
@@ -559,8 +603,8 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent/Deliver Narcotics",
+   "more": 11,
    "ts": 1794596280,
    "photo": null
   },
@@ -705,7 +749,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794590865,
-   "photo": null
+   "photo": "photos/MKE_DURHAM_KELVIN_640750.jpg"
   },
   {
    "key": "MKE_HINES_DANIEL_648275",
@@ -749,7 +793,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794589053,
-   "photo": null
+   "photo": "photos/MKE_MORGAN_FRANKLIN_648274.jpg"
   },
   {
    "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103",
@@ -4952,28 +4996,6 @@
    "more": 1,
    "ts": 1794340886,
    "photo": null
-  },
-  {
-   "key": "MKE_CLEMENTS_EUNIQUA_631721",
-   "name": "Euniqua S Clements",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 26,
-   "ts": 1794340673,
-   "photo": "photos/MKE_CLEMENTS_EUNIQUA_631721.jpg"
-  },
-  {
-   "key": "MKE_LOPEZCAMPOS_EDWARD_644707",
-   "name": "Edward Lopez Campos",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Recklessly Cause Great Harm",
-   "more": 0,
-   "ts": 1794340671,
-   "photo": "photos/MKE_LOPEZCAMPOS_EDWARD_644707.jpg"
   }
  ]
 }
