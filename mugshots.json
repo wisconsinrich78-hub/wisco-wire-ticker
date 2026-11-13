@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-13T16:49:26+00:00",
+ "updated": "2026-11-13T16:57:52+00:00",
  "items": [
+  {
+   "key": "MKE_EMMERICH_NANCY_348333",
+   "name": "Nancy R Emmerich",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 1,
+   "ts": 1794589055,
+   "photo": null
+  },
+  {
+   "key": "MKE_MORGAN_FRANKLIN_648274",
+   "name": "Franklin Morgan",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794589053,
+   "photo": null
+  },
+  {
+   "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103",
+   "name": "Jeniffer Lebron Campos",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist/Obstruct Officer - Subst. Bodily Harm/Soft Tissue Inj",
+   "more": 0,
+   "ts": 1794588952,
+   "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103.jpg"
+  },
+  {
+   "key": "MAR_GRAEF_NAINNE_2026-11-13",
+   "name": "Nainne Graef",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1794588902,
+   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13.jpg"
+  },
+  {
+   "key": "MAR_SCHOEPKE_GARRET_2026-11-13",
+   "name": "Garret Ray Schoepke",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794588862,
+   "photo": null
+  },
+  {
+   "key": "MAR_SMITH_JOSEPH_2026-11-13_475406",
+   "name": "Joseph Landis Smith",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear - Ncic Misdemeanor",
+   "more": 1,
+   "ts": 1794588824,
+   "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13_475406.jpg"
+  },
   {
    "key": "RC_BAUMLER_MATTHEW_120011076243332",
    "name": "Matthew Eric Baumler",
@@ -197,28 +263,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794569260,
-   "photo": null
-  },
-  {
-   "key": "KEN_SMITH_CHRISTOPHER_2026-00006281",
-   "name": "Christopher Michael Smith",
-   "age": "50",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Hit And Run - Unattended Vehicle",
-   "more": 1,
-   "ts": 1794568435,
-   "photo": "photos/KEN_SMITH_CHRISTOPHER_2026-00006281.jpg"
-  },
-  {
-   "key": "KEN_PEREZ_GIOVANNI_2026-00006282",
-   "name": "Giovanni L Perez",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Obstruct Or Interfere With Fire Or Police Department",
-   "more": 6,
-   "ts": 1794567864,
    "photo": null
   },
   {
@@ -475,28 +519,6 @@
    "photo": null
   },
   {
-   "key": "MAR_HENDRON_KAILYN_2026-11-12_5121801",
-   "name": "Kailyn Alyissa Hendron",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
-   "more": 0,
-   "ts": 1794512928,
-   "photo": "photos/MAR_HENDRON_KAILYN_2026-11-12_5121801.jpg"
-  },
-  {
-   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12_91318",
-   "name": "Shawneen Marie Hulstrom",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794512879,
-   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-12_91318.jpg"
-  },
-  {
    "key": "CARTER_PRINCE_2026-11-12",
    "name": "Prince A Carter",
    "age": "32",
@@ -506,31 +528,75 @@
    "more": 0,
    "ts": 1794512827,
    "photo": "photos/CARTER_PRINCE_2026-11-12.jpg"
-  },
-  {
-   "key": "HISTER_DOMINIQUE_2026-11-12",
-   "name": "Dominique M Hister",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794509232,
-   "photo": null
-  },
-  {
-   "key": "EDBERG_DAISY_2026-11-12",
-   "name": "Daisy M Edberg",
-   "age": "57",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Out Of County Warrant",
-   "more": 0,
-   "ts": 1794509231,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_EMMERICH_NANCY_348333",
+   "name": "Nancy R Emmerich",
+   "age": "67",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 1,
+   "ts": 1794589055,
+   "photo": null
+  },
+  {
+   "key": "MKE_MORGAN_FRANKLIN_648274",
+   "name": "Franklin Morgan",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794589053,
+   "photo": null
+  },
+  {
+   "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103",
+   "name": "Jeniffer Lebron Campos",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist/Obstruct Officer - Subst. Bodily Harm/Soft Tissue Inj",
+   "more": 0,
+   "ts": 1794588952,
+   "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103.jpg"
+  },
+  {
+   "key": "MAR_GRAEF_NAINNE_2026-11-13",
+   "name": "Nainne Graef",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1794588902,
+   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13.jpg"
+  },
+  {
+   "key": "MAR_SCHOEPKE_GARRET_2026-11-13",
+   "name": "Garret Ray Schoepke",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794588862,
+   "photo": null
+  },
+  {
+   "key": "MAR_SMITH_JOSEPH_2026-11-13_475406",
+   "name": "Joseph Landis Smith",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure To Appear - Ncic Misdemeanor",
+   "more": 1,
+   "ts": 1794588824,
+   "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13_475406.jpg"
+  },
   {
    "key": "RC_BAUMLER_MATTHEW_120011076243332",
    "name": "Matthew Eric Baumler",
@@ -4875,28 +4941,6 @@
    "more": 3,
    "ts": 1794329920,
    "photo": "photos/KEN_ONEAL_JULIE_2026-00006225.jpg"
-  },
-  {
-   "key": "MKE_SANTIAGOPEREZ_JHONNY_648236",
-   "name": "Jhonny Gael Santiago Perez",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 4,
-   "ts": 1794329870,
-   "photo": "photos/MKE_SANTIAGOPEREZ_JHONNY_648236.jpg"
-  },
-  {
-   "key": "MAR_BUSKAHACK_GAIGE_2026-11-10_15829701",
-   "name": "Gaige Alexander Buska-Hack",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 3Rd",
-   "more": 0,
-   "ts": 1794329591,
-   "photo": "photos/MAR_BUSKAHACK_GAIGE_2026-11-10_15829701.jpg"
   }
  ]
 }
