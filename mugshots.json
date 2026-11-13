@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T16:28:25+00:00",
+ "updated": "2026-11-13T16:49:26+00:00",
  "items": [
+  {
+   "key": "RC_BAUMLER_MATTHEW_120011076243332",
+   "name": "Matthew Eric Baumler",
+   "age": "58",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possess Methamphetamine",
+   "more": 10,
+   "ts": 1794588470,
+   "photo": null
+  },
+  {
+   "key": "RC_LEWIS_NIKERRA_120011076244668",
+   "name": "Nikerra Alyssa Jean Lewis",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794588467,
+   "photo": "photos/RC_LEWIS_NIKERRA_120011076244668.jpg"
+  },
   {
    "key": "DOU_MICKELSON_TRACY_2026-11-13",
    "name": "Tracy L Mickelson",
@@ -198,28 +220,6 @@
    "more": 6,
    "ts": 1794567864,
    "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_DEMETRIUS_373403",
-   "name": "Demetrius Ladell Davis",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794567458,
-   "photo": "photos/MKE_DAVIS_DEMETRIUS_373403.jpg"
-  },
-  {
-   "key": "MKE_THAO_KUE_648268",
-   "name": "Kue D Thao",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794567456,
-   "photo": "photos/MKE_THAO_KUE_648268.jpg"
   },
   {
    "key": "TREM_HERNANDEZ_MARCOS_6212",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BAUMLER_MATTHEW_120011076243332",
+   "name": "Matthew Eric Baumler",
+   "age": "58",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possess Methamphetamine",
+   "more": 10,
+   "ts": 1794588470,
+   "photo": null
+  },
+  {
+   "key": "RC_LEWIS_NIKERRA_120011076244668",
+   "name": "Nikerra Alyssa Jean Lewis",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794588467,
+   "photo": "photos/RC_LEWIS_NIKERRA_120011076244668.jpg"
+  },
   {
    "key": "DOU_MICKELSON_TRACY_2026-11-13",
    "name": "Tracy L Mickelson",
@@ -4875,17 +4897,6 @@
    "more": 0,
    "ts": 1794329591,
    "photo": "photos/MAR_BUSKAHACK_GAIGE_2026-11-10_15829701.jpg"
-  },
-  {
-   "key": "RC_RODRIGUEZ_ORLANDO_120011076133385",
-   "name": "Orlando Rodriguez",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794329267,
-   "photo": "photos/RC_RODRIGUEZ_ORLANDO_120011076133385.jpg"
   }
  ]
 }
