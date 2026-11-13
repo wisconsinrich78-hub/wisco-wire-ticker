@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-13T22:38:01+00:00",
+ "updated": "2026-11-13T23:02:23+00:00",
  "items": [
+  {
+   "key": "MKE_TIMSTEAGUE_ZAVIEN_631670",
+   "name": "Zavien K Tims-Teague",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate Vehicle w/o Consent-Passenger",
+   "more": 1,
+   "ts": 1794610647,
+   "photo": null
+  },
+  {
+   "key": "MKE_KURIAN_IVAN_648281",
+   "name": "Ivan P Kurian",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 2,
+   "ts": 1794610645,
+   "photo": null
+  },
+  {
+   "key": "KEN_JOHNSON_JASON_2026-00006288",
+   "name": "Jason Lamar Johnson",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794610587,
+   "photo": "photos/KEN_JOHNSON_JASON_2026-00006288.jpg"
+  },
+  {
+   "key": "MAR_ARROWOOD_CHARLES_2026-11-13_14953404",
+   "name": "Charles Arthur Arrowood",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794610496,
+   "photo": "photos/MAR_ARROWOOD_CHARLES_2026-11-13_14953404.jpg"
+  },
+  {
+   "key": "MAR_GARDUNO_KELLY_2026-11-13_14046810",
+   "name": "Kelly Marie Garduno",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794610451,
+   "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13_14046810.jpg"
+  },
   {
    "key": "KEN_ADAMS_RONALD_2026-00006289",
    "name": "Ronald Joe Adams",
@@ -29,8 +84,8 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794607064,
    "photo": null
   },
@@ -208,40 +263,7 @@
    "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1794601663,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_JAQARRIUS_622245",
-   "name": "Jaqarrius Deangelo Williams",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794601660,
-   "photo": null
-  },
-  {
-   "key": "MKE_NUNEZ_MICHAEL_636552",
-   "name": "Michael C Nunez",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1794601657,
-   "photo": null
-  },
-  {
-   "key": "MKE_CERVANTES_MARTIN_648279",
-   "name": "Martin Javier Cervantes",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794599897,
-   "photo": null
+   "photo": "photos/MKE_AGNEW_ROBERT_618003.jpg"
   },
   {
    "key": "MAR_ERMELING_LOGAN_2026-11-13",
@@ -363,28 +385,6 @@
    "more": 1,
    "ts": 1794588824,
    "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13_475406.jpg"
-  },
-  {
-   "key": "DOU_MICKELSON_TRACY_2026-11-13",
-   "name": "Tracy L Mickelson",
-   "age": "55",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794586602,
-   "photo": "photos/DOU_MICKELSON_TRACY_2026-11-13.jpg"
-  },
-  {
-   "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13",
-   "name": "Jeniffer Lebron Campos",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resist/Obstruct Officer - Subst. Bodily Harm/Soft Tissue Inj",
-   "more": 0,
-   "ts": 1794581611,
-   "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13.jpg"
   },
   {
    "key": "TREM_HERNANDEZ_MARCOS_6212",
@@ -532,6 +532,61 @@
  ],
  "all_items": [
   {
+   "key": "MKE_TIMSTEAGUE_ZAVIEN_631670",
+   "name": "Zavien K Tims-Teague",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate Vehicle w/o Consent-Passenger",
+   "more": 1,
+   "ts": 1794610647,
+   "photo": null
+  },
+  {
+   "key": "MKE_KURIAN_IVAN_648281",
+   "name": "Ivan P Kurian",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 2,
+   "ts": 1794610645,
+   "photo": null
+  },
+  {
+   "key": "KEN_JOHNSON_JASON_2026-00006288",
+   "name": "Jason Lamar Johnson",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794610587,
+   "photo": "photos/KEN_JOHNSON_JASON_2026-00006288.jpg"
+  },
+  {
+   "key": "MAR_ARROWOOD_CHARLES_2026-11-13_14953404",
+   "name": "Charles Arthur Arrowood",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794610496,
+   "photo": "photos/MAR_ARROWOOD_CHARLES_2026-11-13_14953404.jpg"
+  },
+  {
+   "key": "MAR_GARDUNO_KELLY_2026-11-13_14046810",
+   "name": "Kelly Marie Garduno",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794610451,
+   "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13_14046810.jpg"
+  },
+  {
    "key": "KEN_ADAMS_RONALD_2026-00006289",
    "name": "Ronald Joe Adams",
    "age": "42",
@@ -559,8 +614,8 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794607064,
    "photo": null
   },
@@ -738,7 +793,7 @@
    "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1794601663,
-   "photo": null
+   "photo": "photos/MKE_AGNEW_ROBERT_618003.jpg"
   },
   {
    "key": "MKE_WILLIAMS_JAQARRIUS_622245",
@@ -837,7 +892,7 @@
    "charge": "Possess w/Intent/Deliver Narcotics",
    "more": 5,
    "ts": 1794596280,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_FREDERICK_372313.jpg"
   },
   {
    "key": "MKE_BRACY_PRINCE_648278",
@@ -4996,17 +5051,6 @@
    "more": 0,
    "ts": 1794352621,
    "photo": "photos/FDL_SEALS_DEBRA_2026-11-10.jpg"
-  },
-  {
-   "key": "KEN_HAFFERKAMP_ASHLEY_2026-00006236",
-   "name": "Ashley Nicole Hafferkamp",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794351220,
-   "photo": "photos/KEN_HAFFERKAMP_ASHLEY_2026-00006236.jpg"
   }
  ]
 }
