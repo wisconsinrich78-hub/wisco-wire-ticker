@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T11:16:08+00:00",
+ "updated": "2026-11-13T11:28:53+00:00",
  "items": [
+  {
+   "key": "MKE_LOPEZ_MOCTEZUMA_634404",
+   "name": "Moctezuma Lopez",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794569265,
+   "photo": null
+  },
+  {
+   "key": "MKE_SYVIENGCHAN_MADDIX_640028",
+   "name": "Maddix P Syviengchan",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 7,
+   "ts": 1794569263,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOEL_GERMAYA_648269",
+   "name": "Germaya Danae Noel",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794569261,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTINEZDELARA_DARWIN_648270",
+   "name": "Darwin Cesar Martinez Delara",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794569260,
+   "photo": null
+  },
   {
    "key": "KEN_SMITH_CHRISTOPHER_2026-00006281",
    "name": "Christopher Michael Smith",
@@ -29,8 +73,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1794567458,
    "photo": null
   },
@@ -87,7 +131,7 @@
    "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
    "more": 3,
    "ts": 1794563861,
-   "photo": null
+   "photo": "photos/MKE_HENDRIX_ZACHARY_2046209.jpg"
   },
   {
    "key": "MKE_JOHNSON_MARZELL_263828",
@@ -189,28 +233,6 @@
    "photo": "photos/KEN_MARTIN_EDWARD_2026-00006279.jpg"
   },
   {
-   "key": "MKE_MERCADO_XAVIER_637560",
-   "name": "Xavier A Mercado",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794553071,
-   "photo": "photos/MKE_MERCADO_XAVIER_637560.jpg"
-  },
-  {
-   "key": "MKE_ELLIS_TAKYI_648266",
-   "name": "Ta'kyi Saneaya Ellis",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794553069,
-   "photo": "photos/MKE_ELLIS_TAKYI_648266.jpg"
-  },
-  {
    "key": "MAR_GLENN_DIAMOND_2026-11-12",
    "name": "Diamond Deangelo Glenn",
    "age": "34",
@@ -231,28 +253,6 @@
    "more": 1,
    "ts": 1794549376,
    "photo": "photos/MAR_ALSOWITI_RHEA_2026-11-12.jpg"
-  },
-  {
-   "key": "RC_FORD_GERALD_120011076231496",
-   "name": "Gerald Ford",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794545313,
-   "photo": "photos/RC_FORD_GERALD_120011076231496.jpg"
-  },
-  {
-   "key": "MKE_HENDERSON_ARMONI_607864",
-   "name": "Armoni T Henderson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Aggravated Battery - Intend Bodily Harm",
-   "more": 1,
-   "ts": 1794542275,
-   "photo": "photos/MKE_HENDERSON_ARMONI_607864.jpg"
   },
   {
    "key": "MASHAK_JACKSON_2026-11-12",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_LOPEZ_MOCTEZUMA_634404",
+   "name": "Moctezuma Lopez",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794569265,
+   "photo": null
+  },
+  {
+   "key": "MKE_SYVIENGCHAN_MADDIX_640028",
+   "name": "Maddix P Syviengchan",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 7,
+   "ts": 1794569263,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOEL_GERMAYA_648269",
+   "name": "Germaya Danae Noel",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794569261,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTINEZDELARA_DARWIN_648270",
+   "name": "Darwin Cesar Martinez Delara",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794569260,
+   "photo": null
+  },
+  {
    "key": "KEN_SMITH_CHRISTOPHER_2026-00006281",
    "name": "Christopher Michael Smith",
    "age": "50",
@@ -559,8 +603,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1794567458,
    "photo": null
   },
@@ -617,7 +661,7 @@
    "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
    "more": 3,
    "ts": 1794563861,
-   "photo": null
+   "photo": "photos/MKE_HENDRIX_ZACHARY_2046209.jpg"
   },
   {
    "key": "MKE_JOHNSON_MARZELL_263828",
@@ -4941,50 +4985,6 @@
    "more": 0,
    "ts": 1794313655,
    "photo": null
-  },
-  {
-   "key": "MKE_ORTIZCARMONA_LUIS_611885",
-   "name": "Luis J Ortiz-Carmona",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794310050,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUEYJOHNSON_JAYLIN_631939",
-   "name": "Jaylin Maruiee Huey Johnson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794310049,
-   "photo": null
-  },
-  {
-   "key": "MKE_HERNANDEZCASTANEDA_SELSO_648230",
-   "name": "Selso Hernandez-Castaneda",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794310047,
-   "photo": "photos/MKE_HERNANDEZCASTANEDA_SELSO_648230.jpg"
-  },
-  {
-   "key": "MKE_LOFTON_ALEXIS_648231",
-   "name": "Alexis M Lofton",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794310045,
-   "photo": "photos/MKE_LOFTON_ALEXIS_648231.jpg"
   }
  ]
 }
