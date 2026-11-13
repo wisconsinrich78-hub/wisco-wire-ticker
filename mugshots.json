@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-13T02:05:13+00:00",
+ "updated": "2026-11-13T02:21:19+00:00",
  "items": [
+  {
+   "key": "FDL_BROWN_PEGGY_2026-11-12",
+   "name": "Peggy Jane Brown",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794536175,
+   "photo": "photos/FDL_BROWN_PEGGY_2026-11-12.jpg"
+  },
+  {
+   "key": "KEN_SMITH_KELVIN_2026-00006274",
+   "name": "Kelvin Andrew Smith",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1794536128,
+   "photo": "photos/KEN_SMITH_KELVIN_2026-00006274.jpg"
+  },
+  {
+   "key": "KEN_NEFF_JAMES_2026-00006277",
+   "name": "James Anthony Neff",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Misd",
+   "more": 0,
+   "ts": 1794535969,
+   "photo": "photos/KEN_NEFF_JAMES_2026-00006277.jpg"
+  },
+  {
+   "key": "KEN_DONOVAN_KELLY_2026-00006273",
+   "name": "Kelly Alan Donovan",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (4Th)",
+   "more": 0,
+   "ts": 1794535792,
+   "photo": "photos/KEN_DONOVAN_KELLY_2026-00006273.jpg"
+  },
+  {
+   "key": "KEN_COTTON_BRIANNA_2026-00006275",
+   "name": "Brianna Monai Cotton",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 2,
+   "ts": 1794535626,
+   "photo": "photos/KEN_COTTON_BRIANNA_2026-00006275.jpg"
+  },
   {
    "key": "KEN_CHAVARRIA_ASHLEY_2026-00006276",
    "name": "Ashley Beatriz Chavarria",
@@ -187,50 +242,6 @@
    "more": 3,
    "ts": 1794522425,
    "photo": null
-  },
-  {
-   "key": "MKE_AVENDALLO_MARCELINO_334846",
-   "name": "Marcelino Avendallo",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1794520737,
-   "photo": "photos/MKE_AVENDALLO_MARCELINO_334846.jpg"
-  },
-  {
-   "key": "MKE_WESLEY_CARMELITA_629243",
-   "name": "Carmelita J Wesley",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794520735,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCLAUGHLIN_JOHN_2036339",
-   "name": "John Stewart Mclaughlin",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794520732,
-   "photo": "photos/MKE_MCLAUGHLIN_JOHN_2036339.jpg"
-  },
-  {
-   "key": "MKE_THARP_SHAMIKA_648262",
-   "name": "Shamika T Tharp",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794518874,
-   "photo": "photos/MKE_THARP_SHAMIKA_648262.jpg"
   },
   {
    "key": "CAMPBELL_MATTHEW_2026-11-12",
@@ -517,20 +528,64 @@
    "more": 2,
    "ts": 1794473606,
    "photo": "photos/MAR_BROOME_ERIN_2026-11-12.jpg"
-  },
-  {
-   "key": "DOU_GREER_CHRISTINA_2026-11-12",
-   "name": "Christina M Greer",
-   "age": "39",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794471405,
-   "photo": "photos/DOU_GREER_CHRISTINA_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_BROWN_PEGGY_2026-11-12",
+   "name": "Peggy Jane Brown",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794536175,
+   "photo": "photos/FDL_BROWN_PEGGY_2026-11-12.jpg"
+  },
+  {
+   "key": "KEN_SMITH_KELVIN_2026-00006274",
+   "name": "Kelvin Andrew Smith",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1794536128,
+   "photo": "photos/KEN_SMITH_KELVIN_2026-00006274.jpg"
+  },
+  {
+   "key": "KEN_NEFF_JAMES_2026-00006277",
+   "name": "James Anthony Neff",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation And Parole - Misd",
+   "more": 0,
+   "ts": 1794535969,
+   "photo": "photos/KEN_NEFF_JAMES_2026-00006277.jpg"
+  },
+  {
+   "key": "KEN_DONOVAN_KELLY_2026-00006273",
+   "name": "Kelly Alan Donovan",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Owi (4Th)",
+   "more": 0,
+   "ts": 1794535792,
+   "photo": "photos/KEN_DONOVAN_KELLY_2026-00006273.jpg"
+  },
+  {
+   "key": "KEN_COTTON_BRIANNA_2026-00006275",
+   "name": "Brianna Monai Cotton",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 2,
+   "ts": 1794535626,
+   "photo": "photos/KEN_COTTON_BRIANNA_2026-00006275.jpg"
+  },
   {
    "key": "KEN_CHAVARRIA_ASHLEY_2026-00006276",
    "name": "Ashley Beatriz Chavarria",
@@ -4974,17 +5029,6 @@
    "more": 0,
    "ts": 1794277842,
    "photo": null
-  },
-  {
-   "key": "DOU_MARTIN_GARY_2026-11-09",
-   "name": "Gary L Martin",
-   "age": "60",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794277084,
-   "photo": "photos/DOU_MARTIN_GARY_2026-11-09.jpg"
   }
  ]
 }
