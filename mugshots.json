@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T14:54:38+00:00",
+ "updated": "2026-11-13T15:49:32+00:00",
  "items": [
+  {
+   "key": "RC_IGBOKO_DEANA_120011076241184",
+   "name": "Deana Igboko",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794584869,
+   "photo": null
+  },
   {
    "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13",
    "name": "Jeniffer Lebron Campos",
@@ -43,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794578281,
-   "photo": null
+   "photo": "photos/MKE_RUDZITIS_FRANK_601320.jpg"
   },
   {
    "key": "MKE_HERRERARIZO_DENIS_648273",
@@ -109,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794572880,
-   "photo": null
+   "photo": "photos/MKE_ROSADOSOTO_MELANY_648272.jpg"
   },
   {
    "key": "MKE_LOPEZ_MOCTEZUMA_634404",
@@ -231,17 +242,6 @@
    "more": 1,
    "ts": 1794566830,
    "photo": "photos/TREM_SALERNO_MICHELLE_6214.jpg"
-  },
-  {
-   "key": "MKE_HENDRIX_ZACHARY_2046209",
-   "name": "Zachary Jordan Hendrix",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
-   "more": 3,
-   "ts": 1794563861,
-   "photo": "photos/MKE_HENDRIX_ZACHARY_2046209.jpg"
   },
   {
    "key": "JOHNSON_KELVIN_2026-11-13",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_IGBOKO_DEANA_120011076241184",
+   "name": "Deana Igboko",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794584869,
+   "photo": null
+  },
+  {
    "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13",
    "name": "Jeniffer Lebron Campos",
    "age": "43",
@@ -573,7 +584,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794578281,
-   "photo": null
+   "photo": "photos/MKE_RUDZITIS_FRANK_601320.jpg"
   },
   {
    "key": "MKE_HERRERARIZO_DENIS_648273",
@@ -639,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794572880,
-   "photo": null
+   "photo": "photos/MKE_ROSADOSOTO_MELANY_648272.jpg"
   },
   {
    "key": "MKE_LOPEZ_MOCTEZUMA_634404",
@@ -4919,61 +4930,6 @@
    "more": 0,
    "ts": 1794326011,
    "photo": null
-  },
-  {
-   "key": "RC_WALKER_CAMERON_120011076130363",
-   "name": "Cameron Aries Walker",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794325670,
-   "photo": "photos/RC_WALKER_CAMERON_120011076130363.jpg"
-  },
-  {
-   "key": "HEGGE_THOMAS_2026-11-10",
-   "name": "Thomas J Hegge",
-   "age": "59",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794325629,
-   "photo": null
-  },
-  {
-   "key": "MKE_RHODES_BOBBIE_604736",
-   "name": "Bobbie Jean Rhodes",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794324489,
-   "photo": "photos/MKE_RHODES_BOBBIE_604736.jpg"
-  },
-  {
-   "key": "MKE_BROOKS_MARCHELO_645972",
-   "name": "Marchelo Life Brooks",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794324487,
-   "photo": "photos/MKE_BROOKS_MARCHELO_645972.jpg"
-  },
-  {
-   "key": "FDL_PRUITT_DENNIS_2026-11-10",
-   "name": "Dennis Maurice Pruitt",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794323835,
-   "photo": "photos/FDL_PRUITT_DENNIS_2026-11-10.jpg"
   }
  ]
 }
