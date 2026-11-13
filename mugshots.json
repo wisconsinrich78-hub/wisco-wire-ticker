@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T08:29:02+00:00",
+ "updated": "2026-11-13T09:01:21+00:00",
  "items": [
+  {
+   "key": "JOHNSON_KELVIN_2026-11-13",
+   "name": "Kelvin L Johnson",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794559626,
+   "photo": null
+  },
   {
    "key": "GUERRA_MALIK_2026-11-13",
    "name": "Malik M Guerra",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794502551,
    "photo": null
-  },
-  {
-   "key": "PERREN_JULLIAN_2026-11-12",
-   "name": "Jullian A Perren",
-   "age": "18",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage To Property",
-   "more": 2,
-   "ts": 1794502027,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "JOHNSON_KELVIN_2026-11-13",
+   "name": "Kelvin L Johnson",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794559626,
+   "photo": null
+  },
   {
    "key": "GUERRA_MALIK_2026-11-13",
    "name": "Malik M Guerra",
@@ -4952,28 +4963,6 @@
    "more": 0,
    "ts": 1794302157,
    "photo": "photos/FDL_ABITZ_THOMAS_2026-11-10.jpg"
-  },
-  {
-   "key": "KEN_GROGAN_NATHANIEL_2026-00006213",
-   "name": "Nathaniel Vincent Grogan",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Unreasonable And Imprudent Speed",
-   "more": 1,
-   "ts": 1794300958,
-   "photo": null
-  },
-  {
-   "key": "MAR_YAEGER_CLINT_2026-11-09_14944604",
-   "name": "Clint Jameson Yaeger",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794300817,
-   "photo": "photos/MAR_YAEGER_CLINT_2026-11-09_14944604.jpg"
   }
  ]
 }
