@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T10:59:19+00:00",
+ "updated": "2026-11-13T11:16:08+00:00",
  "items": [
+  {
+   "key": "KEN_SMITH_CHRISTOPHER_2026-00006281",
+   "name": "Christopher Michael Smith",
+   "age": "50",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794568435,
+   "photo": "photos/KEN_SMITH_CHRISTOPHER_2026-00006281.jpg"
+  },
+  {
+   "key": "KEN_PEREZ_GIOVANNI_2026-00006282",
+   "name": "Giovanni L Perez",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794567864,
+   "photo": null
+  },
   {
    "key": "MKE_DAVIS_DEMETRIUS_373403",
    "name": "Demetrius Ladell Davis",
@@ -253,28 +275,6 @@
    "more": 0,
    "ts": 1794542235,
    "photo": null
-  },
-  {
-   "key": "MKE_FOWLER_BRYSON_643640",
-   "name": "Bryson V Fowler",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794540482,
-   "photo": "photos/MKE_FOWLER_BRYSON_643640.jpg"
-  },
-  {
-   "key": "MKE_TATELOTT_MAKAI_645221",
-   "name": "Makai Quinton Tate-Lott",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794540480,
-   "photo": "photos/MKE_TATELOTT_MAKAI_645221.jpg"
   },
   {
    "key": "MAR_WILSON_DARNELL_2026-11-12",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_SMITH_CHRISTOPHER_2026-00006281",
+   "name": "Christopher Michael Smith",
+   "age": "50",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794568435,
+   "photo": "photos/KEN_SMITH_CHRISTOPHER_2026-00006281.jpg"
+  },
+  {
+   "key": "KEN_PEREZ_GIOVANNI_2026-00006282",
+   "name": "Giovanni L Perez",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794567864,
+   "photo": null
+  },
   {
    "key": "MKE_DAVIS_DEMETRIUS_373403",
    "name": "Demetrius Ladell Davis",
