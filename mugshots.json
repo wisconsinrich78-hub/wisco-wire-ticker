@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T23:29:28+00:00",
+ "updated": "2026-11-13T23:49:33+00:00",
  "items": [
+  {
+   "key": "RC_JOHNSON_KYLE_120011076258318",
+   "name": "Kyle Jean Johnson",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794613689,
+   "photo": "photos/RC_JOHNSON_KYLE_120011076258318.jpg"
+  },
   {
    "key": "MKE_PARR_EDDIE_299243",
    "name": "Eddie Jordan Parr",
@@ -266,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "RC_KRUEGER_MAURIECE_120011076253580",
-   "name": "Mauriece Wolfgang Krueger",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794602886,
-   "photo": "photos/RC_KRUEGER_MAURIECE_120011076253580.jpg"
-  },
-  {
    "key": "MAR_ERMELING_LOGAN_2026-11-13",
    "name": "Logan Ace Ermeling",
    "age": "28",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_JOHNSON_KYLE_120011076258318",
+   "name": "Kyle Jean Johnson",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794613689,
+   "photo": "photos/RC_JOHNSON_KYLE_120011076258318.jpg"
+  },
   {
    "key": "MKE_PARR_EDDIE_299243",
    "name": "Eddie Jordan Parr",
@@ -5051,17 +5062,6 @@
    "more": 1,
    "ts": 1794356187,
    "photo": "photos/FDL_IHLENFELDT_JEANNE_2026-11-10.jpg"
-  },
-  {
-   "key": "RC_WILSON_THEOPOLIS_120011076146721",
-   "name": "Theopolis Wilson",
-   "age": "60",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794354468,
-   "photo": "photos/RC_WILSON_THEOPOLIS_120011076146721.jpg"
   }
  ]
 }
