@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-13T23:02:23+00:00",
+ "updated": "2026-11-13T23:29:28+00:00",
  "items": [
+  {
+   "key": "MKE_PARR_EDDIE_299243",
+   "name": "Eddie Jordan Parr",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794612467,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_MAURICE_357376",
+   "name": "Maurice L Lewis",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794612466,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLMONMCATTEE_TOSHUNIQUE_620291",
+   "name": "Toshunique N Holmon-Mcattee",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
+   "more": 1,
+   "ts": 1794612464,
+   "photo": null
+  },
+  {
+   "key": "MKE_JENNINGS_KGYLANIE_648282",
+   "name": "Kgylanie A Jennings",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794612462,
+   "photo": null
+  },
+  {
+   "key": "OSTRUM_BOBBY_2026-11-13",
+   "name": "Bobby L Ostrum",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence(3Rd)",
+   "more": 0,
+   "ts": 1794612426,
+   "photo": null
+  },
   {
    "key": "MKE_TIMSTEAGUE_ZAVIEN_631670",
    "name": "Zavien K Tims-Teague",
@@ -220,50 +275,6 @@
    "more": 0,
    "ts": 1794602886,
    "photo": "photos/RC_KRUEGER_MAURIECE_120011076253580.jpg"
-  },
-  {
-   "key": "RC_CARTER_DEANGELO_120011076254141",
-   "name": "Deangelo Leonardo Carter",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794602884,
-   "photo": "photos/RC_CARTER_DEANGELO_120011076254141.jpg"
-  },
-  {
-   "key": "MKE_WRIGHT_ROBERT_221098",
-   "name": "Robert Earl Wright",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 11,
-   "ts": 1794601670,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILKS_EUGENE_253244",
-   "name": "Eugene Delmontey Wilks",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1794601667,
-   "photo": null
-  },
-  {
-   "key": "MKE_AGNEW_ROBERT_618003",
-   "name": "Robert Agnew",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1794601663,
-   "photo": "photos/MKE_AGNEW_ROBERT_618003.jpg"
   },
   {
    "key": "MAR_ERMELING_LOGAN_2026-11-13",
@@ -517,20 +528,64 @@
    "more": 3,
    "ts": 1794528976,
    "photo": "photos/FDL_BRYANT_MALIK_2026-11-12.jpg"
-  },
-  {
-   "key": "GROTH_BENJAMIN_2026-11-12",
-   "name": "Benjamin R Groth",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794523642,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_PARR_EDDIE_299243",
+   "name": "Eddie Jordan Parr",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794612467,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_MAURICE_357376",
+   "name": "Maurice L Lewis",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794612466,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOLMONMCATTEE_TOSHUNIQUE_620291",
+   "name": "Toshunique N Holmon-Mcattee",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
+   "more": 1,
+   "ts": 1794612464,
+   "photo": null
+  },
+  {
+   "key": "MKE_JENNINGS_KGYLANIE_648282",
+   "name": "Kgylanie A Jennings",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794612462,
+   "photo": null
+  },
+  {
+   "key": "OSTRUM_BOBBY_2026-11-13",
+   "name": "Bobby L Ostrum",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence(3Rd)",
+   "more": 0,
+   "ts": 1794612426,
+   "photo": null
+  },
   {
    "key": "MKE_TIMSTEAGUE_ZAVIEN_631670",
    "name": "Zavien K Tims-Teague",
@@ -768,7 +823,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Domestic Abuse Surcharges",
    "more": 11,
    "ts": 1794601670,
    "photo": null
@@ -804,7 +859,7 @@
    "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1794601660,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_JAQARRIUS_622245.jpg"
   },
   {
    "key": "MKE_NUNEZ_MICHAEL_636552",
@@ -5007,50 +5062,6 @@
    "more": 0,
    "ts": 1794354468,
    "photo": "photos/RC_WILSON_THEOPOLIS_120011076146721.jpg"
-  },
-  {
-   "key": "MKE_ROGERS_DEVONTE_386235",
-   "name": "Devonte R Rogers",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Felony Murder",
-   "more": 1,
-   "ts": 1794353251,
-   "photo": "photos/MKE_ROGERS_DEVONTE_386235.jpg"
-  },
-  {
-   "key": "MKE_FOWLER_WILLIAM_639674",
-   "name": "William Fowler",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resist Officer - Substantial Bodily Harm/Soft Tissue Injury",
-   "more": 0,
-   "ts": 1794353250,
-   "photo": "photos/MKE_FOWLER_WILLIAM_639674.jpg"
-  },
-  {
-   "key": "DOU_JOHNSON_STEVEN_2026-11-10",
-   "name": "Steven L Johnson",
-   "age": "51",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794352637,
-   "photo": "photos/DOU_JOHNSON_STEVEN_2026-11-10.jpg"
-  },
-  {
-   "key": "FDL_SEALS_DEBRA_2026-11-10",
-   "name": "Debra Lynn Seals",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794352621,
-   "photo": "photos/FDL_SEALS_DEBRA_2026-11-10.jpg"
   }
  ]
 }
