@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T09:01:21+00:00",
+ "updated": "2026-11-13T09:28:54+00:00",
  "items": [
+  {
+   "key": "MKE_JOHNSON_MARZELL_263828",
+   "name": "Marzell Jamar Johnson",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794562081,
+   "photo": "photos/MKE_JOHNSON_MARZELL_263828.jpg"
+  },
+  {
+   "key": "MKE_JARAMILLOGUZMAN_ABIMAEL_643558",
+   "name": "Abimael Jaramillo Guzman",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1794562079,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIA_DAVID_2026-00006280",
+   "name": "David Isalba Garcia",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 0,
+   "ts": 1794561023,
+   "photo": null
+  },
   {
    "key": "JOHNSON_KELVIN_2026-11-13",
    "name": "Kelvin L Johnson",
@@ -277,17 +310,6 @@
    "photo": "photos/MKE_MOTLEY_LAVON_416625.jpg"
   },
   {
-   "key": "MKE_WELLS_CINCERE_622740",
-   "name": "Cincere Jaylon Wells",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794537031,
-   "photo": "photos/MKE_WELLS_CINCERE_622740.jpg"
-  },
-  {
    "key": "FEIST_VOLANTE_2026-11-12",
    "name": "Volante C Feist",
    "age": "36",
@@ -308,28 +330,6 @@
    "more": 0,
    "ts": 1794536175,
    "photo": "photos/FDL_BROWN_PEGGY_2026-11-12.jpg"
-  },
-  {
-   "key": "KEN_SMITH_KELVIN_2026-00006274",
-   "name": "Kelvin Andrew Smith",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794536128,
-   "photo": "photos/KEN_SMITH_KELVIN_2026-00006274.jpg"
-  },
-  {
-   "key": "KEN_NEFF_JAMES_2026-00006277",
-   "name": "James Anthony Neff",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Misd",
-   "more": 0,
-   "ts": 1794535969,
-   "photo": "photos/KEN_NEFF_JAMES_2026-00006277.jpg"
   },
   {
    "key": "AYALA_ANTONIO_2026-11-12",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JOHNSON_MARZELL_263828",
+   "name": "Marzell Jamar Johnson",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794562081,
+   "photo": "photos/MKE_JOHNSON_MARZELL_263828.jpg"
+  },
+  {
+   "key": "MKE_JARAMILLOGUZMAN_ABIMAEL_643558",
+   "name": "Abimael Jaramillo Guzman",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1794562079,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIA_DAVID_2026-00006280",
+   "name": "David Isalba Garcia",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out Of County",
+   "more": 0,
+   "ts": 1794561023,
+   "photo": null
+  },
   {
    "key": "JOHNSON_KELVIN_2026-11-13",
    "name": "Kelvin L Johnson",
@@ -4941,28 +4974,6 @@
    "more": 4,
    "ts": 1794304400,
    "photo": "photos/MAR_REED_GLENN_2026-11-09_16811.jpg"
-  },
-  {
-   "key": "MKE_CLARK_SAMARIA_632968",
-   "name": "Samaria Michelle Clark",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794302850,
-   "photo": null
-  },
-  {
-   "key": "FDL_ABITZ_THOMAS_2026-11-10",
-   "name": "Thomas James Abitz",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping",
-   "more": 0,
-   "ts": 1794302157,
-   "photo": "photos/FDL_ABITZ_THOMAS_2026-11-10.jpg"
   }
  ]
 }
