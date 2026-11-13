@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T18:49:26+00:00",
+ "updated": "2026-11-13T19:02:35+00:00",
  "items": [
+  {
+   "key": "MKE_DAVIS_FREDERICK_372313",
+   "name": "Frederick Montrell Davis",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794596280,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRACY_PRINCE_648278",
+   "name": "Prince Adams Bracy",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794596277,
+   "photo": null
+  },
+  {
+   "key": "MAR_ARROWOOD_CHARLES_2026-11-13",
+   "name": "Charles Arthur Arrowood",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794596103,
+   "photo": "photos/MAR_ARROWOOD_CHARLES_2026-11-13.jpg"
+  },
+  {
+   "key": "MAR_GARDUNO_KELLY_2026-11-13",
+   "name": "Kelly Marie Garduno",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1794596047,
+   "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13.jpg"
+  },
   {
    "key": "KEN_ADAMS_MARQUAVIS_2026-00006284",
    "name": "Marquavis Tyron Adams",
@@ -253,28 +297,6 @@
    "more": 0,
    "ts": 1794581611,
    "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13.jpg"
-  },
-  {
-   "key": "RC_MATTA_RAVEN_120011076239333",
-   "name": "Raven S Matta",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Owi (2Nd W/Pass < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794581298,
-   "photo": "photos/RC_MATTA_RAVEN_120011076239333.jpg"
-  },
-  {
-   "key": "MKE_AITCHISON_MATTHEW_287781",
-   "name": "Matthew Scott Aitchison",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794578283,
-   "photo": null
   },
   {
    "key": "MAR_ABDIRESAQ_MAHAD_2026-11-13",
@@ -431,28 +453,6 @@
    "photo": "photos/MAR_JACKSON_JAMES_2026-11-12.jpg"
   },
   {
-   "key": "MAR_PAULUS_HALEY_2026-11-12",
-   "name": "Haley Jo Paulus",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Felony",
-   "more": 0,
-   "ts": 1794538551,
-   "photo": "photos/MAR_PAULUS_HALEY_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_LOMONTE_ANTHONY_2026-11-12",
-   "name": "Anthony Norman Lomonte",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794538509,
-   "photo": "photos/MAR_LOMONTE_ANTHONY_2026-11-12.jpg"
-  },
-  {
    "key": "FEIST_VOLANTE_2026-11-12",
    "name": "Volante C Feist",
    "age": "36",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_DAVIS_FREDERICK_372313",
+   "name": "Frederick Montrell Davis",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794596280,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRACY_PRINCE_648278",
+   "name": "Prince Adams Bracy",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794596277,
+   "photo": null
+  },
+  {
+   "key": "MAR_ARROWOOD_CHARLES_2026-11-13",
+   "name": "Charles Arthur Arrowood",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794596103,
+   "photo": "photos/MAR_ARROWOOD_CHARLES_2026-11-13.jpg"
+  },
+  {
+   "key": "MAR_GARDUNO_KELLY_2026-11-13",
+   "name": "Kelly Marie Garduno",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Of Habeas Corpus",
+   "more": 0,
+   "ts": 1794596047,
+   "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13.jpg"
+  },
   {
    "key": "KEN_ADAMS_MARQUAVIS_2026-00006284",
    "name": "Marquavis Tyron Adams",
@@ -804,7 +848,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794578283,
-   "photo": null
+   "photo": "photos/MKE_AITCHISON_MATTHEW_287781.jpg"
   },
   {
    "key": "MKE_RUDZITIS_FRANK_601320",
@@ -4930,39 +4974,6 @@
    "more": 0,
    "ts": 1794338524,
    "photo": null
-  },
-  {
-   "key": "MKE_DANDRIDGE_TIONN_311028",
-   "name": "Tionn Delain Dandridge",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run",
-   "more": 2,
-   "ts": 1794337090,
-   "photo": "photos/MKE_DANDRIDGE_TIONN_311028.jpg"
-  },
-  {
-   "key": "MKE_STEVENSON_THOMAS_630428",
-   "name": "Thomas Douglas Stevenson",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794337087,
-   "photo": "photos/MKE_STEVENSON_THOMAS_630428.jpg"
-  },
-  {
-   "key": "MAR_KRUMWIEDE_JASON_2026-11-10_15763404",
-   "name": "Jason Allen Krumwiede",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794336793,
-   "photo": "photos/MAR_KRUMWIEDE_JASON_2026-11-10_15763404.jpg"
   }
  ]
 }
