@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T04:49:29+00:00",
+ "updated": "2026-11-14T05:02:58+00:00",
  "items": [
+  {
+   "key": "MKE_LEE_MARCUS_297647",
+   "name": "Marcus A Lee",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794632276,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOGINS_DORVELL_648289",
+   "name": "Dorvell Deangelo Gogins",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794632271,
+   "photo": null
+  },
+  {
+   "key": "KEN_KING_FAITH_2026-00006294",
+   "name": "Faith Larraine King",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Trespass To Dwelling",
+   "more": 1,
+   "ts": 1794632077,
+   "photo": "photos/KEN_KING_FAITH_2026-00006294.jpg"
+  },
   {
    "key": "RC_MARTIN_TERRAL_120011076262645",
    "name": "Terral Lynn Martin",
@@ -233,17 +266,6 @@
    "photo": null
   },
   {
-   "key": "MKE_PIERSON_LAMYAH_648286",
-   "name": "Lamyah Imonie Pierson",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794623272,
-   "photo": null
-  },
-  {
    "key": "MAR_BENES_DEVLIN_2026-11-13",
    "name": "Devlin Lee Benes",
    "age": "25",
@@ -253,28 +275,6 @@
    "more": 0,
    "ts": 1794621208,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
-  },
-  {
-   "key": "RC_SORIANODIAZ_HENRY_120011076260128",
-   "name": "Henry Alberto Soriano Diaz",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794620951,
-   "photo": "photos/RC_SORIANODIAZ_HENRY_120011076260128.jpg"
-  },
-  {
-   "key": "MKE_JAMES_DARNELL_648285",
-   "name": "Darnell D James",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794617866,
-   "photo": null
   },
   {
    "key": "DOU_WELTON_KYLEN_2026-11-13",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LEE_MARCUS_297647",
+   "name": "Marcus A Lee",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794632276,
+   "photo": null
+  },
+  {
+   "key": "MKE_GOGINS_DORVELL_648289",
+   "name": "Dorvell Deangelo Gogins",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794632271,
+   "photo": null
+  },
+  {
+   "key": "KEN_KING_FAITH_2026-00006294",
+   "name": "Faith Larraine King",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Trespass To Dwelling",
+   "more": 1,
+   "ts": 1794632077,
+   "photo": "photos/KEN_KING_FAITH_2026-00006294.jpg"
+  },
   {
    "key": "RC_MARTIN_TERRAL_120011076262645",
    "name": "Terral Lynn Martin",
@@ -999,7 +1032,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate Vehicle w/o Consent-Passenger",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794610647,
    "photo": null
@@ -5095,50 +5128,6 @@
    "more": 2,
    "ts": 1794374858,
    "photo": "photos/MKE_JOHNSON_RANDY_648237.jpg"
-  },
-  {
-   "key": "MKE_BOUDNIK_JESSICA_381362",
-   "name": "Jessica Lynn Boudnik",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794373062,
-   "photo": "photos/MKE_BOUDNIK_JESSICA_381362.jpg"
-  },
-  {
-   "key": "MKE_GUTIERREZ_SHIANN_645282",
-   "name": "Shiann M Gutierrez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794373061,
-   "photo": "photos/MKE_GUTIERREZ_SHIANN_645282.jpg"
-  },
-  {
-   "key": "KEN_DIAMOND_DONALD_2026-00006238",
-   "name": "Donald Louis Diamond",
-   "age": "76",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794372974,
-   "photo": "photos/KEN_DIAMOND_DONALD_2026-00006238.jpg"
-  },
-  {
-   "key": "MAR_CLARK_TROY_2026-11-10_10262011",
-   "name": "Troy Dwayne Clark",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1St Degree Child Sexual Assault - Intercourse With Person Un",
-   "more": 0,
-   "ts": 1794372827,
-   "photo": "photos/MAR_CLARK_TROY_2026-11-10_10262011.jpg"
   }
  ]
 }
