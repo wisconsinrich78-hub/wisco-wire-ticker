@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-14T16:49:29+00:00",
+ "updated": "2026-11-14T17:07:19+00:00",
  "items": [
+  {
+   "key": "KEN_VARGAS_HERNAN_2026-00006295",
+   "name": "Hernan Rangel Vargas",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 3,
+   "ts": 1794675928,
+   "photo": "photos/KEN_VARGAS_HERNAN_2026-00006295.jpg"
+  },
+  {
+   "key": "KEN_SEAMSTER_EDWARD_2026-00006297",
+   "name": "Edward Charlesberry Seamster",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794675849,
+   "photo": null
+  },
+  {
+   "key": "KEN_RUIZGOMEZ_JUAN_2026-00006298",
+   "name": "Juan Francisco Ruiz-Gomez",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 4,
+   "ts": 1794675800,
+   "photo": "photos/KEN_RUIZGOMEZ_JUAN_2026-00006298.jpg"
+  },
+  {
+   "key": "KEN_POOLE_ERICK_2026-00006299",
+   "name": "Erick Allen Poole",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess Open Intoxicants In Mv-Driver",
+   "more": 3,
+   "ts": 1794675651,
+   "photo": "photos/KEN_POOLE_ERICK_2026-00006299.jpg"
+  },
+  {
+   "key": "MKE_JONES_DERRICK_340846",
+   "name": "Derrick Ramone Jones",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1794675506,
+   "photo": null
+  },
+  {
+   "key": "KEN_JUANALVARADO_SERGIO_2026-00006300",
+   "name": "Sergio Evelio Juan-Alvarado",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Fail/Obey Traffic Officer Signal/Order",
+   "more": 1,
+   "ts": 1794675504,
+   "photo": "photos/KEN_JUANALVARADO_SERGIO_2026-00006300.jpg"
+  },
+  {
+   "key": "MKE_PLEARS_DAMETRA_648298",
+   "name": "Dametra Rloxican Plears",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794675504,
+   "photo": null
+  },
+  {
+   "key": "KEN_JENKINS_JAMIR_2026-00006302",
+   "name": "Jamir Davontae Jenkins",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794675366,
+   "photo": "photos/KEN_JENKINS_JAMIR_2026-00006302.jpg"
+  },
+  {
+   "key": "KEN_GIGLIOTTI_ANGELEAH_2026-00006301",
+   "name": "Angeleah Frances Gigliotti",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 4,
+   "ts": 1794675228,
+   "photo": "photos/KEN_GIGLIOTTI_ANGELEAH_2026-00006301.jpg"
+  },
+  {
+   "key": "KEN_DIAZHERNANDEZ_JUAN_2026-00006296",
+   "name": "Juan Daniel Diaz-Hernandez",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violate Absolute Sobriety Law",
+   "more": 9,
+   "ts": 1794675084,
+   "photo": "photos/KEN_DIAZHERNANDEZ_JUAN_2026-00006296.jpg"
+  },
   {
    "key": "KEN_CAMPBELL_JACOB_2026-00006303",
    "name": "Jacob Gregory Campbell",
@@ -79,61 +189,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SALLIS_BRIA_631037",
-   "name": "Bria Nashelle Sallis",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794666452,
-   "photo": "photos/MKE_SALLIS_BRIA_631037.jpg"
-  },
-  {
-   "key": "MKE_NEELEYPRATT_MIKIA_648296",
-   "name": "Mikia Jacob Neeley-Pratt",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 0,
-   "ts": 1794666450,
-   "photo": "photos/MKE_NEELEYPRATT_MIKIA_648296.jpg"
-  },
-  {
-   "key": "MKE_CULPEPPER_XAVIER_648294",
-   "name": "Xavier O Culpepper",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794664661,
-   "photo": "photos/MKE_CULPEPPER_XAVIER_648294.jpg"
-  },
-  {
-   "key": "MKE_HERNANDEZMERCADO_RAFAEL_648295",
-   "name": "Rafael A Hernandez Mercado",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794664659,
-   "photo": "photos/MKE_HERNANDEZMERCADO_RAFAEL_648295.jpg"
-  },
-  {
-   "key": "MKE_PUTCHEL_BREANN_2045062",
-   "name": "Breann Sue Putchel",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794659247,
-   "photo": "photos/MKE_PUTCHEL_BREANN_2045062.jpg"
-  },
-  {
    "key": "FDL_ROEBKE_CHERIE_2026-11-14",
    "name": "Cherie Michelle Roebke",
    "age": "",
@@ -154,17 +209,6 @@
    "more": 3,
    "ts": 1794658575,
    "photo": "photos/FDL_KELLY_MANETTE_2026-11-14.jpg"
-  },
-  {
-   "key": "RC_CERDA_VICTOR_120011076268990",
-   "name": "Victor R Cerda",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1794656883,
-   "photo": null
   },
   {
    "key": "DOU_AMYS_ZACHARY_2026-11-13",
@@ -198,50 +242,6 @@
    "more": 0,
    "ts": 1794653230,
    "photo": "photos/TREM_KOTLOV_ALEXANDER_6128.jpg"
-  },
-  {
-   "key": "MKE_LYONS_JERRY_648293",
-   "name": "Jerry Gentell Lyons",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794650251,
-   "photo": "photos/MKE_LYONS_JERRY_648293.jpg"
-  },
-  {
-   "key": "RC_HOWARD_MASON_120011076263718",
-   "name": "Mason D Howard",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 4,
-   "ts": 1794649699,
-   "photo": "photos/RC_HOWARD_MASON_120011076263718.jpg"
-  },
-  {
-   "key": "RC_BOSTICK_DERICK_120011076267929",
-   "name": "Derick Duane Bostick",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794649696,
-   "photo": "photos/RC_BOSTICK_DERICK_120011076267929.jpg"
-  },
-  {
-   "key": "MKE_HAYES_CODY_648292",
-   "name": "Cody Michael Hayes",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794648453,
-   "photo": "photos/MKE_HAYES_CODY_648292.jpg"
   },
   {
    "key": "SCHIFFLER_GARRETT_2026-11-14",
@@ -531,6 +531,116 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_VARGAS_HERNAN_2026-00006295",
+   "name": "Hernan Rangel Vargas",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 3,
+   "ts": 1794675928,
+   "photo": "photos/KEN_VARGAS_HERNAN_2026-00006295.jpg"
+  },
+  {
+   "key": "KEN_SEAMSTER_EDWARD_2026-00006297",
+   "name": "Edward Charlesberry Seamster",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794675849,
+   "photo": null
+  },
+  {
+   "key": "KEN_RUIZGOMEZ_JUAN_2026-00006298",
+   "name": "Juan Francisco Ruiz-Gomez",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 4,
+   "ts": 1794675800,
+   "photo": "photos/KEN_RUIZGOMEZ_JUAN_2026-00006298.jpg"
+  },
+  {
+   "key": "KEN_POOLE_ERICK_2026-00006299",
+   "name": "Erick Allen Poole",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess Open Intoxicants In Mv-Driver",
+   "more": 3,
+   "ts": 1794675651,
+   "photo": "photos/KEN_POOLE_ERICK_2026-00006299.jpg"
+  },
+  {
+   "key": "MKE_JONES_DERRICK_340846",
+   "name": "Derrick Ramone Jones",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1794675506,
+   "photo": null
+  },
+  {
+   "key": "KEN_JUANALVARADO_SERGIO_2026-00006300",
+   "name": "Sergio Evelio Juan-Alvarado",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Fail/Obey Traffic Officer Signal/Order",
+   "more": 1,
+   "ts": 1794675504,
+   "photo": "photos/KEN_JUANALVARADO_SERGIO_2026-00006300.jpg"
+  },
+  {
+   "key": "MKE_PLEARS_DAMETRA_648298",
+   "name": "Dametra Rloxican Plears",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794675504,
+   "photo": null
+  },
+  {
+   "key": "KEN_JENKINS_JAMIR_2026-00006302",
+   "name": "Jamir Davontae Jenkins",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794675366,
+   "photo": "photos/KEN_JENKINS_JAMIR_2026-00006302.jpg"
+  },
+  {
+   "key": "KEN_GIGLIOTTI_ANGELEAH_2026-00006301",
+   "name": "Angeleah Frances Gigliotti",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 4,
+   "ts": 1794675228,
+   "photo": "photos/KEN_GIGLIOTTI_ANGELEAH_2026-00006301.jpg"
+  },
+  {
+   "key": "KEN_DIAZHERNANDEZ_JUAN_2026-00006296",
+   "name": "Juan Daniel Diaz-Hernandez",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violate Absolute Sobriety Law",
+   "more": 9,
+   "ts": 1794675084,
+   "photo": "photos/KEN_DIAZHERNANDEZ_JUAN_2026-00006296.jpg"
+  },
   {
    "key": "KEN_CAMPBELL_JACOB_2026-00006303",
    "name": "Jacob Gregory Campbell",
@@ -4930,50 +5040,6 @@
    "more": 1,
    "ts": 1794417424,
    "photo": null
-  },
-  {
-   "key": "MKE_WRIGHT_CALVIN_295924",
-   "name": "Calvin Dewayne Wright",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Enticement-Sexual Contact",
-   "more": 0,
-   "ts": 1794416305,
-   "photo": "photos/MKE_WRIGHT_CALVIN_295924.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_JAMESHA_648245",
-   "name": "Jamesha C Johnson",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794416301,
-   "photo": "photos/MKE_JOHNSON_JAMESHA_648245.jpg"
-  },
-  {
-   "key": "KEN_SMALLWOOD_JACQUISE_2026-00006249",
-   "name": "Jacquise Ebony Smallwood",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return On Writ",
-   "more": 0,
-   "ts": 1794416111,
-   "photo": "photos/KEN_SMALLWOOD_JACQUISE_2026-00006249.jpg"
-  },
-  {
-   "key": "MAR_BARGANDER_MATTHEW_2026-11-11_3303401",
-   "name": "Matthew D Bargander",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resist Obstruct An Officer",
-   "more": 1,
-   "ts": 1794416018,
-   "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11_3303401.jpg"
   }
  ]
 }
