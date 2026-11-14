@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-14T14:34:30+00:00",
+ "updated": "2026-11-14T14:49:36+00:00",
  "items": [
+  {
+   "key": "RC_ALEXANDERSERRANO_MELISSA_120011076271571",
+   "name": "Melissa Christina Alexander-serrano",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794667685,
+   "photo": null
+  },
+  {
+   "key": "RC_WARREN_DENNIS_120011076271870",
+   "name": "Dennis Warren",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794667683,
+   "photo": "photos/RC_WARREN_DENNIS_120011076271870.jpg"
+  },
   {
    "key": "MKE_SMITH_JEREMIAH_507230",
    "name": "Jeremiah L Smith",
@@ -222,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_OCAMPOGUTIUERES_JOEZEN_648291",
-   "name": "Joezen Ocampo Gutiueres",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794644850,
-   "photo": "photos/MKE_OCAMPOGUTIUERES_JOEZEN_648291.jpg"
-  },
-  {
    "key": "SCHMIDT_JAMES_2026-11-14",
    "name": "James R Schmidt",
    "age": "49",
@@ -253,17 +264,6 @@
    "more": 2,
    "ts": 1794644170,
    "photo": "photos/FDL_BERNIER_BRENDA_2026-11-14.jpg"
-  },
-  {
-   "key": "MKE_VILJEVAC_NEVAEH_640768",
-   "name": "Nevaeh Lee Viljevac",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Harboring/Aiding a Felon (E/F/G/H/I or unclassified felony/not life)",
-   "more": 1,
-   "ts": 1794643051,
-   "photo": "photos/MKE_VILJEVAC_NEVAEH_640768.jpg"
   },
   {
    "key": "FDL_SINGH_RAO_2026-11-14",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ALEXANDERSERRANO_MELISSA_120011076271571",
+   "name": "Melissa Christina Alexander-serrano",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794667685,
+   "photo": null
+  },
+  {
+   "key": "RC_WARREN_DENNIS_120011076271870",
+   "name": "Dennis Warren",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794667683,
+   "photo": "photos/RC_WARREN_DENNIS_120011076271870.jpg"
+  },
   {
    "key": "MKE_SMITH_JEREMIAH_507230",
    "name": "Jeremiah L Smith",
