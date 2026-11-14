@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-14T18:00:02+00:00",
+ "updated": "2026-11-14T18:27:51+00:00",
  "items": [
+  {
+   "key": "MKE_CONNER_BRANDON_648300",
+   "name": "Brandon M Conner",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "County/Municipality - Receiving or Concealing Stolen Property (<=$2500",
+   "more": 0,
+   "ts": 1794680852,
+   "photo": null
+  },
+  {
+   "key": "MKE_PACHECOVELAZQUEZ_CARLOS_648301",
+   "name": "Carlos Pacheco Velazquez",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794680850,
+   "photo": null
+  },
   {
    "key": "MKE_CLOYD_ZAMARI_648299",
    "name": "Zamari Juana Cloyd",
@@ -165,28 +187,6 @@
    "more": 1,
    "ts": 1794670056,
    "photo": "photos/MKE_JONES_KEYON_648297.jpg"
-  },
-  {
-   "key": "RC_ALEXANDERSERRANO_MELISSA_120011076271571",
-   "name": "Melissa Christina Alexander-serrano",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794667685,
-   "photo": null
-  },
-  {
-   "key": "RC_WARREN_DENNIS_120011076271870",
-   "name": "Dennis Warren",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794667683,
-   "photo": "photos/RC_WARREN_DENNIS_120011076271870.jpg"
   },
   {
    "key": "FDL_ROEBKE_CHERIE_2026-11-14",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CONNER_BRANDON_648300",
+   "name": "Brandon M Conner",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "County/Municipality - Receiving or Concealing Stolen Property (<=$2500",
+   "more": 0,
+   "ts": 1794680852,
+   "photo": null
+  },
+  {
+   "key": "MKE_PACHECOVELAZQUEZ_CARLOS_648301",
+   "name": "Carlos Pacheco Velazquez",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794680850,
+   "photo": null
+  },
   {
    "key": "MKE_CLOYD_ZAMARI_648299",
    "name": "Zamari Juana Cloyd",
@@ -4930,17 +4952,6 @@
    "more": 1,
    "ts": 1794421686,
    "photo": "photos/MKE_FLORES_NICKOLAS_416321.jpg"
-  },
-  {
-   "key": "DOU_FREEMAN_JAKE_2026-11-11",
-   "name": "Jake C Freeman",
-   "age": "39",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794421093,
-   "photo": "photos/DOU_FREEMAN_JAKE_2026-11-11.jpg"
   }
  ]
 }
