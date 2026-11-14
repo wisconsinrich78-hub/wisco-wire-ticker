@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-14T00:01:32+00:00",
+ "updated": "2026-11-14T00:49:28+00:00",
  "items": [
+  {
+   "key": "RC_BURKMAN_DAVID_120011076259002",
+   "name": "David Malvern Burkman",
+   "age": "64",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-felony",
+   "more": 0,
+   "ts": 1794617289,
+   "photo": "photos/RC_BURKMAN_DAVID_120011076259002.jpg"
+  },
+  {
+   "key": "RC_BARRY_DOMINIQUE_120011076259017",
+   "name": "Dominique Barry",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Manufacture/Deliver THC (<=200 grams)",
+   "more": 0,
+   "ts": 1794617286,
+   "photo": "photos/RC_BARRY_DOMINIQUE_120011076259017.jpg"
+  },
+  {
+   "key": "MKE_TURNER_BRYAN_276268",
+   "name": "Bryan H Turner",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616063,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILKINS_MONICA_615402",
+   "name": "Monica L Wilkins",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616061,
+   "photo": null
+  },
+  {
+   "key": "MKE_RICARD_ZAKARY_648283",
+   "name": "Zakary L Ricard",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616059,
+   "photo": null
+  },
+  {
+   "key": "MKE_DIXON_ANTHONY_648284",
+   "name": "Anthony Eugene Dixon",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616057,
+   "photo": null
+  },
+  {
+   "key": "MKE_NELSON_DARNELL_2041790",
+   "name": "Darnell E Nelson",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616055,
+   "photo": null
+  },
+  {
+   "key": "DOU_WELTON_KYLEN_2026-11-13",
+   "name": "Kylen P Welton",
+   "age": "36",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1794615403,
+   "photo": "photos/DOU_WELTON_KYLEN_2026-11-13.jpg"
+  },
+  {
+   "key": "FDL_STEINWAY_RIK_2026-11-13",
+   "name": "Rik Woodward Steinway",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794615395,
+   "photo": null
+  },
   {
    "key": "KEN_BENJAMIN_MALENA_2026-00006290",
    "name": "Malena Marie Benjamin",
@@ -73,8 +172,8 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Neglecting a Child (Consequence is Great Bodily Harm)",
+   "more": 1,
    "ts": 1794612462,
    "photo": null
   },
@@ -95,7 +194,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate Vehicle w/o Consent-Passenger",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794610647,
    "photo": null
@@ -109,7 +208,7 @@
    "charge": "OWI (2nd)",
    "more": 2,
    "ts": 1794610645,
-   "photo": null
+   "photo": "photos/MKE_KURIAN_IVAN_648281.jpg"
   },
   {
    "key": "KEN_JOHNSON_JASON_2026-00006288",
@@ -145,50 +244,6 @@
    "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13_14046810.jpg"
   },
   {
-   "key": "KEN_ADAMS_RONALD_2026-00006289",
-   "name": "Ronald Joe Adams",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
-   "more": 4,
-   "ts": 1794607252,
-   "photo": "photos/KEN_ADAMS_RONALD_2026-00006289.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_SHANEQUA_507425",
-   "name": "Shanequa D Johnson",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794607066,
-   "photo": null
-  },
-  {
-   "key": "MKE_DENNIS_DEVARIO_628345",
-   "name": "Devario D Dennis",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794607064,
-   "photo": null
-  },
-  {
-   "key": "MKE_WOOD_GAGE_648280",
-   "name": "Gage O Wood",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794607062,
-   "photo": null
-  },
-  {
    "key": "MAR_OUSLEY_DIMITRI_2026-11-13",
    "name": "Dimitri Ousley",
    "age": "32",
@@ -208,39 +263,6 @@
    "charge": "Neglecting A Child (Would Have Caused Harm)",
    "more": 0,
    "ts": 1794606851,
-   "photo": null
-  },
-  {
-   "key": "RC_ZAVALA_ZACHERY_120011076256217",
-   "name": "Zachery R Zavala",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794606498,
-   "photo": "photos/RC_ZAVALA_ZACHERY_120011076256217.jpg"
-  },
-  {
-   "key": "MKE_HENDERSON_JERLENE_194971",
-   "name": "Jerlene Henderson",
-   "age": "75",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (5th or 6th)",
-   "more": 1,
-   "ts": 1794605315,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCHULTZ_CHANCE_635568",
-   "name": "Chance T Schultz",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1794605313,
    "photo": null
   },
   {
@@ -387,17 +409,6 @@
    "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13.jpg"
   },
   {
-   "key": "MAR_SCHOEPKE_GARRET_2026-11-13",
-   "name": "Garret Ray Schoepke",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1794588862,
-   "photo": null
-  },
-  {
    "key": "TREM_HERNANDEZ_MARCOS_6212",
    "name": "Marcos James Hernandez",
    "age": "39",
@@ -517,20 +528,108 @@
    "more": 0,
    "ts": 1794531684,
    "photo": null
-  },
-  {
-   "key": "FDL_BRYANT_MALIK_2026-11-12",
-   "name": "Malik Aumonte Bryant",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794528976,
-   "photo": "photos/FDL_BRYANT_MALIK_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BURKMAN_DAVID_120011076259002",
+   "name": "David Malvern Burkman",
+   "age": "64",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-felony",
+   "more": 0,
+   "ts": 1794617289,
+   "photo": "photos/RC_BURKMAN_DAVID_120011076259002.jpg"
+  },
+  {
+   "key": "RC_BARRY_DOMINIQUE_120011076259017",
+   "name": "Dominique Barry",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Manufacture/Deliver THC (<=200 grams)",
+   "more": 0,
+   "ts": 1794617286,
+   "photo": "photos/RC_BARRY_DOMINIQUE_120011076259017.jpg"
+  },
+  {
+   "key": "MKE_TURNER_BRYAN_276268",
+   "name": "Bryan H Turner",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616063,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILKINS_MONICA_615402",
+   "name": "Monica L Wilkins",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616061,
+   "photo": null
+  },
+  {
+   "key": "MKE_RICARD_ZAKARY_648283",
+   "name": "Zakary L Ricard",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616059,
+   "photo": null
+  },
+  {
+   "key": "MKE_DIXON_ANTHONY_648284",
+   "name": "Anthony Eugene Dixon",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616057,
+   "photo": null
+  },
+  {
+   "key": "MKE_NELSON_DARNELL_2041790",
+   "name": "Darnell E Nelson",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794616055,
+   "photo": null
+  },
+  {
+   "key": "DOU_WELTON_KYLEN_2026-11-13",
+   "name": "Kylen P Welton",
+   "age": "36",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 5,
+   "ts": 1794615403,
+   "photo": "photos/DOU_WELTON_KYLEN_2026-11-13.jpg"
+  },
+  {
+   "key": "FDL_STEINWAY_RIK_2026-11-13",
+   "name": "Rik Woodward Steinway",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794615395,
+   "photo": null
+  },
   {
    "key": "KEN_BENJAMIN_MALENA_2026-00006290",
    "name": "Malena Marie Benjamin",
@@ -603,8 +702,8 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Neglecting a Child (Consequence is Great Bodily Harm)",
+   "more": 1,
    "ts": 1794612462,
    "photo": null
   },
@@ -625,7 +724,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate Vehicle w/o Consent-Passenger",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794610647,
    "photo": null
@@ -639,7 +738,7 @@
    "charge": "OWI (2nd)",
    "more": 2,
    "ts": 1794610645,
-   "photo": null
+   "photo": "photos/MKE_KURIAN_IVAN_648281.jpg"
   },
   {
    "key": "KEN_JOHNSON_JASON_2026-00006288",
@@ -771,7 +870,7 @@
    "charge": "Habitual Criminality",
    "more": 1,
    "ts": 1794605313,
-   "photo": null
+   "photo": "photos/MKE_SCHULTZ_CHANCE_635568.jpg"
   },
   {
    "key": "FDL_FRASE_VICTORIA_2026-11-13",
@@ -859,7 +958,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 11,
    "ts": 1794601670,
-   "photo": null
+   "photo": "photos/MKE_WRIGHT_ROBERT_221098.jpg"
   },
   {
    "key": "MKE_WILKS_EUGENE_253244",
@@ -870,7 +969,7 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 0,
    "ts": 1794601667,
-   "photo": null
+   "photo": "photos/MKE_WILKS_EUGENE_253244.jpg"
   },
   {
    "key": "MKE_AGNEW_ROBERT_618003",
@@ -5040,50 +5139,6 @@
    "more": 1,
    "ts": 1794358428,
    "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006240.jpg"
-  },
-  {
-   "key": "MKE_BROWN_ANTHONY_355731",
-   "name": "Anthony Martez Brown",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 3,
-   "ts": 1794356857,
-   "photo": "photos/MKE_BROWN_ANTHONY_355731.jpg"
-  },
-  {
-   "key": "MKE_LEE_ALICIA_417724",
-   "name": "Alicia Bianca Lee",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Recklessly Cause Harm",
-   "more": 2,
-   "ts": 1794356854,
-   "photo": "photos/MKE_LEE_ALICIA_417724.jpg"
-  },
-  {
-   "key": "MKE_WIMPIEBERGERON_TRAVELL_421528",
-   "name": "Travell PAir Wimpie-Bergeron",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess/Distribute/Exhibit an Intimate Representation",
-   "more": 1,
-   "ts": 1794356852,
-   "photo": "photos/MKE_WIMPIEBERGERON_TRAVELL_421528.jpg"
-  },
-  {
-   "key": "FDL_IHLENFELDT_JEANNE_2026-11-10",
-   "name": "Jeanne Marie Ihlenfeldt",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Owi - 5Th Or 6Th Offense Intoxicated",
-   "more": 1,
-   "ts": 1794356187,
-   "photo": "photos/FDL_IHLENFELDT_JEANNE_2026-11-10.jpg"
   }
  ]
 }
