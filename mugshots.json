@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T01:29:34+00:00",
+ "updated": "2026-11-14T01:49:40+00:00",
  "items": [
+  {
+   "key": "RC_SORIANODIAZ_HENRY_120011076260128",
+   "name": "Henry Alberto Soriano Diaz",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794620951,
+   "photo": "photos/RC_SORIANODIAZ_HENRY_120011076260128.jpg"
+  },
   {
    "key": "MKE_JAMES_DARNELL_648285",
    "name": "Darnell D James",
@@ -209,17 +220,6 @@
    "more": 1,
    "ts": 1794610647,
    "photo": null
-  },
-  {
-   "key": "MKE_KURIAN_IVAN_648281",
-   "name": "Ivan P Kurian",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 2,
-   "ts": 1794610645,
-   "photo": "photos/MKE_KURIAN_IVAN_648281.jpg"
   },
   {
    "key": "MAR_ARROWOOD_CHARLES_2026-11-13_14953404",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_SORIANODIAZ_HENRY_120011076260128",
+   "name": "Henry Alberto Soriano Diaz",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794620951,
+   "photo": "photos/RC_SORIANODIAZ_HENRY_120011076260128.jpg"
+  },
   {
    "key": "MKE_JAMES_DARNELL_648285",
    "name": "Darnell D James",
@@ -5040,28 +5051,6 @@
    "more": 2,
    "ts": 1794362018,
    "photo": "photos/MAR_HAWN_ROBERT_2026-11-09_698011.jpg"
-  },
-  {
-   "key": "RC_GRANT_JEANINE_120011076149995",
-   "name": "Jeanine Grant",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794361673,
-   "photo": "photos/RC_GRANT_JEANINE_120011076149995.jpg"
-  },
-  {
-   "key": "PRICE_ALBERT_2026-11-10",
-   "name": "Albert K Price",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Intimidate Victim/Dissuade Reporting",
-   "more": 2,
-   "ts": 1794361628,
-   "photo": null
   }
  ]
 }
