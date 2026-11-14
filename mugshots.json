@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T05:49:33+00:00",
+ "updated": "2026-11-14T06:46:00+00:00",
  "items": [
+  {
+   "key": "MKE_ODELL_ANGELA_648290",
+   "name": "Angela L Odell",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794637662,
+   "photo": null
+  },
   {
    "key": "RC_MASON_HOWARD_120011076263718",
    "name": "Howard Mason",
@@ -98,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794628664,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_DONTARIUS_634682.jpg"
   },
   {
    "key": "MKE_COOPERSAYPOH_REGINA_648288",
@@ -186,18 +197,7 @@
    "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794626874,
-   "photo": null
-  },
-  {
-   "key": "MKE_WATKINS_RONALD_648287",
-   "name": "Ronald Chantwon Laval Watkins",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794626873,
-   "photo": null
+   "photo": "photos/MKE_JENNINGS_KAYLANIE_648282.jpg"
   },
   {
    "key": "ALI_JOMANA_2026-11-13",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_ODELL_ANGELA_648290",
+   "name": "Angela L Odell",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794637662,
+   "photo": null
+  },
+  {
    "key": "RC_MASON_HOWARD_120011076263718",
    "name": "Howard Mason",
    "age": "39",
@@ -628,7 +639,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794628664,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_DONTARIUS_634682.jpg"
   },
   {
    "key": "MKE_COOPERSAYPOH_REGINA_648288",
@@ -716,7 +727,7 @@
    "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794626874,
-   "photo": null
+   "photo": "photos/MKE_JENNINGS_KAYLANIE_648282.jpg"
   },
   {
    "key": "MKE_WATKINS_RONALD_648287",
@@ -1013,7 +1024,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794612467,
-   "photo": null
+   "photo": "photos/MKE_PARR_EDDIE_299243.jpg"
   },
   {
    "key": "MKE_LEWIS_MAURICE_357376",
@@ -5106,28 +5117,6 @@
    "more": 0,
    "ts": 1794379631,
    "photo": null
-  },
-  {
-   "key": "MKE_GRAY_JEFFREY_284047",
-   "name": "Jeffrey Allen Gray",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1794378477,
-   "photo": "photos/MKE_GRAY_JEFFREY_284047.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_SHYRA_534897",
-   "name": "Shyra Teasha Jackson",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794378475,
-   "photo": "photos/MKE_JACKSON_SHYRA_534897.jpg"
   }
  ]
 }
