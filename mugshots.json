@@ -1,14 +1,36 @@
 {
- "updated": "2026-11-14T19:49:43+00:00",
+ "updated": "2026-11-14T20:20:36+00:00",
  "items": [
+  {
+   "key": "MKE_HOWARD_AARON_360497",
+   "name": "Aaron Vincent Howard",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794686268,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERRERA_JOSE_648302",
+   "name": "Jose Elias Herrera",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794686266,
+   "photo": null
+  },
   {
    "key": "DOU_HILLSBERG_SHIAN_2026-11-14",
    "name": "Shian D Hillsberg",
    "age": "34",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
+   "charge": "Cont Subst/Possess Synthetics",
+   "more": 3,
    "ts": 1794683811,
    "photo": "photos/DOU_HILLSBERG_SHIAN_2026-11-14.jpg"
   },
@@ -21,7 +43,7 @@
    "charge": "Battery",
    "more": 3,
    "ts": 1794682665,
-   "photo": null
+   "photo": "photos/MKE_JONES_DEVIN_340845.jpg"
   },
   {
    "key": "MKE_KUYKENDOLL_KENYATTA_608031",
@@ -51,7 +73,7 @@
    "age": "41",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Municipality - Receiving or Concealing Stolen Property (<=$2500",
+   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
    "more": 0,
    "ts": 1794680852,
    "photo": null
@@ -117,7 +139,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Possess Open Intoxicants In Mv-Driver",
+   "charge": "Possess Open Intoxicants in Mv-Driver",
    "more": 3,
    "ts": 1794675651,
    "photo": "photos/KEN_POOLE_ERICK_2026-00006299.jpg"
@@ -167,35 +189,13 @@
    "photo": "photos/KEN_JENKINS_JAMIR_2026-00006302.jpg"
   },
   {
-   "key": "KEN_GIGLIOTTI_ANGELEAH_2026-00006301",
-   "name": "Angeleah Frances Gigliotti",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 4,
-   "ts": 1794675228,
-   "photo": "photos/KEN_GIGLIOTTI_ANGELEAH_2026-00006301.jpg"
-  },
-  {
-   "key": "KEN_DIAZHERNANDEZ_JUAN_2026-00006296",
-   "name": "Juan Daniel Diaz-Hernandez",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violate Absolute Sobriety Law",
-   "more": 9,
-   "ts": 1794675084,
-   "photo": "photos/KEN_DIAZHERNANDEZ_JUAN_2026-00006296.jpg"
-  },
-  {
    "key": "DOU_BASLEY_SHERRI_2026-11-14",
    "name": "Sherri L Basley",
    "age": "37",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
+   "charge": "Burglary, Resid, Forcible Ent",
+   "more": 1,
    "ts": 1794673083,
    "photo": "photos/DOU_BASLEY_SHERRI_2026-11-14.jpg"
   },
@@ -216,7 +216,7 @@
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
-   "charge": "Veh Operator Flee/Elude Traffic Officer-Bodily Harm/Damage To Property",
+   "charge": "Veh Operator Flee/Elude Traffic Officer-Bodily Harm/Damage to\u2026",
    "more": 3,
    "ts": 1794658575,
    "photo": "photos/FDL_KELLY_MANETTE_2026-11-14.jpg"
@@ -227,8 +227,8 @@
    "age": "36",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1794655005,
    "photo": "photos/DOU_AMYS_ZACHARY_2026-11-13.jpg"
   },
@@ -260,7 +260,7 @@
    "age": "27",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Operating While Under The Influence(2Nd)",
+   "charge": "Operating While Under the Influence (2nd)",
    "more": 0,
    "ts": 1794648437,
    "photo": null
@@ -271,7 +271,7 @@
    "age": "49",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Operating While Under The Influence(4Th)",
+   "charge": "Operating While Under the Influence (4th)",
    "more": 0,
    "ts": 1794644822,
    "photo": null
@@ -282,7 +282,7 @@
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
+   "charge": "OWI - 2nd Offense",
    "more": 2,
    "ts": 1794644170,
    "photo": "photos/FDL_BERNIER_BRENDA_2026-11-14.jpg"
@@ -348,7 +348,7 @@
    "age": "45",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Possession Of Narcotic Drugs",
+   "charge": "Possession of Narcotic Drugs",
    "more": 2,
    "ts": 1794624948,
    "photo": "photos/MAR_BROOME_ERIN_2026-11-12_1607010.jpg"
@@ -359,7 +359,7 @@
    "age": "20",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Grooming Of A Child For Sexual Activity",
+   "charge": "Grooming of a Child for Sexual Activity",
    "more": 1,
    "ts": 1794624906,
    "photo": "photos/MAR_MALOUF_WILLIAM_2026-11-13_7781501.jpg"
@@ -370,7 +370,7 @@
    "age": "25",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
+   "charge": "Operating While Under the Influence 2nd",
    "more": 0,
    "ts": 1794624868,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13_13412.jpg"
@@ -392,7 +392,7 @@
    "age": "25",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
+   "charge": "Operating While Under the Influence 2nd",
    "more": 0,
    "ts": 1794621208,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
@@ -403,8 +403,8 @@
    "age": "36",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
+   "charge": "Domestic-False Imprisonment",
+   "more": 4,
    "ts": 1794615403,
    "photo": "photos/DOU_WELTON_KYLEN_2026-11-13.jpg"
   },
@@ -436,7 +436,7 @@
    "age": "44",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Operating While Under The Influence(3Rd)",
+   "charge": "Operating While Under the Influence (3rd)",
    "more": 0,
    "ts": 1794612426,
    "photo": null
@@ -480,7 +480,7 @@
    "age": "27",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Neglecting A Child (Would Have Caused Harm)",
+   "charge": "Neglecting a Child (Would Have Caused Harm)",
    "more": 0,
    "ts": 1794606851,
    "photo": null
@@ -532,13 +532,35 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HOWARD_AARON_360497",
+   "name": "Aaron Vincent Howard",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794686268,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERRERA_JOSE_648302",
+   "name": "Jose Elias Herrera",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794686266,
+   "photo": null
+  },
+  {
    "key": "DOU_HILLSBERG_SHIAN_2026-11-14",
    "name": "Shian D Hillsberg",
    "age": "34",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 4,
+   "charge": "Cont Subst/Possess Synthetics",
+   "more": 3,
    "ts": 1794683811,
    "photo": "photos/DOU_HILLSBERG_SHIAN_2026-11-14.jpg"
   },
@@ -551,7 +573,7 @@
    "charge": "Battery",
    "more": 3,
    "ts": 1794682665,
-   "photo": null
+   "photo": "photos/MKE_JONES_DEVIN_340845.jpg"
   },
   {
    "key": "MKE_KUYKENDOLL_KENYATTA_608031",
@@ -581,7 +603,7 @@
    "age": "41",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Municipality - Receiving or Concealing Stolen Property (<=$2500",
+   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
    "more": 0,
    "ts": 1794680852,
    "photo": null
@@ -647,7 +669,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Possess Open Intoxicants In Mv-Driver",
+   "charge": "Possess Open Intoxicants in Mv-Driver",
    "more": 3,
    "ts": 1794675651,
    "photo": "photos/KEN_POOLE_ERICK_2026-00006299.jpg"
@@ -735,8 +757,8 @@
    "age": "37",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 2,
+   "charge": "Burglary, Resid, Forcible Ent",
+   "more": 1,
    "ts": 1794673083,
    "photo": "photos/DOU_BASLEY_SHERRI_2026-11-14.jpg"
   },
@@ -867,7 +889,7 @@
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
-   "charge": "Veh Operator Flee/Elude Traffic Officer-Bodily Harm/Damage To Property",
+   "charge": "Veh Operator Flee/Elude Traffic Officer-Bodily Harm/Damage to\u2026",
    "more": 3,
    "ts": 1794658575,
    "photo": "photos/FDL_KELLY_MANETTE_2026-11-14.jpg"
@@ -878,7 +900,7 @@
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "Operating While Under The Influence",
+   "charge": "Operating While Under the Influence",
    "more": 0,
    "ts": 1794656883,
    "photo": null
@@ -889,8 +911,8 @@
    "age": "36",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 3,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1794655005,
    "photo": "photos/DOU_AMYS_ZACHARY_2026-11-13.jpg"
   },
@@ -966,7 +988,7 @@
    "age": "27",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Operating While Under The Influence(2Nd)",
+   "charge": "Operating While Under the Influence (2nd)",
    "more": 0,
    "ts": 1794648437,
    "photo": null
@@ -977,7 +999,7 @@
    "age": "57",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "Operating While Under The Influence",
+   "charge": "Operating While Under the Influence",
    "more": 0,
    "ts": 1794646091,
    "photo": "photos/RC_JACKSON_TIMOTHY_120011076266815.jpg"
@@ -1021,7 +1043,7 @@
    "age": "49",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Operating While Under The Influence(4Th)",
+   "charge": "Operating While Under the Influence (4th)",
    "more": 0,
    "ts": 1794644822,
    "photo": null
@@ -1032,7 +1054,7 @@
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
-   "charge": "Owi - 2Nd Offense",
+   "charge": "OWI - 2nd Offense",
    "more": 2,
    "ts": 1794644170,
    "photo": "photos/FDL_BERNIER_BRENDA_2026-11-14.jpg"
@@ -1208,7 +1230,7 @@
    "age": "21",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Criminal Trespass To Dwelling",
+   "charge": "Criminal Trespass to Dwelling",
    "more": 1,
    "ts": 1794632077,
    "photo": "photos/KEN_KING_FAITH_2026-00006294.jpg"
@@ -1373,7 +1395,7 @@
    "age": "45",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Possession Of Narcotic Drugs",
+   "charge": "Possession of Narcotic Drugs",
    "more": 2,
    "ts": 1794624948,
    "photo": "photos/MAR_BROOME_ERIN_2026-11-12_1607010.jpg"
@@ -1384,7 +1406,7 @@
    "age": "20",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Grooming Of A Child For Sexual Activity",
+   "charge": "Grooming of a Child for Sexual Activity",
    "more": 1,
    "ts": 1794624906,
    "photo": "photos/MAR_MALOUF_WILLIAM_2026-11-13_7781501.jpg"
@@ -1395,7 +1417,7 @@
    "age": "25",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
+   "charge": "Operating While Under the Influence 2nd",
    "more": 0,
    "ts": 1794624868,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13_13412.jpg"
@@ -1406,7 +1428,7 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Probation And Parole - Felony",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1794624853,
    "photo": "photos/KEN_PEREZ_MARK_2026-00006291.jpg"
@@ -1461,7 +1483,7 @@
    "age": "25",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
+   "charge": "Operating While Under the Influence 2nd",
    "more": 0,
    "ts": 1794621208,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
@@ -1571,8 +1593,8 @@
    "age": "36",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
+   "charge": "Domestic-False Imprisonment",
+   "more": 4,
    "ts": 1794615403,
    "photo": "photos/DOU_WELTON_KYLEN_2026-11-13.jpg"
   },
@@ -1670,7 +1692,7 @@
    "age": "44",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Operating While Under The Influence(3Rd)",
+   "charge": "Operating While Under the Influence (3rd)",
    "more": 0,
    "ts": 1794612426,
    "photo": null
@@ -1736,7 +1758,7 @@
    "age": "42",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Resisting Or Obstructing An Officer",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 4,
    "ts": 1794607252,
    "photo": "photos/KEN_ADAMS_RONALD_2026-00006289.jpg"
@@ -1791,7 +1813,7 @@
    "age": "27",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Neglecting A Child (Would Have Caused Harm)",
+   "charge": "Neglecting a Child (Would Have Caused Harm)",
    "more": 0,
    "ts": 1794606851,
    "photo": null
@@ -1846,7 +1868,7 @@
    "age": "33",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "charge": "Failure to Appear Warrant - Misdemeanor",
    "more": 0,
    "ts": 1794603303,
    "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13_13109003.jpg"
@@ -1857,7 +1879,7 @@
    "age": "28",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
+   "charge": "Operating While Under the Influence 1st",
    "more": 0,
    "ts": 1794603268,
    "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13_8275302.jpg"
@@ -1868,7 +1890,7 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
+   "charge": "Warrant Other Agency - Out of County",
    "more": 1,
    "ts": 1794603250,
    "photo": "photos/KEN_GAFFNEY_ALEXANDRA_2026-00006287.jpg"
@@ -1879,7 +1901,7 @@
    "age": "20",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Grooming Of A Child For Sexual Activity",
+   "charge": "Grooming of a Child for Sexual Activity",
    "more": 1,
    "ts": 1794603231,
    "photo": null
@@ -1978,7 +2000,7 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "1St Degree Reckless Endangering Safety",
+   "charge": "1st Degree Reckless Endangering Safety",
    "more": 3,
    "ts": 1794599789,
    "photo": "photos/KEN_GALINDOGARCIA_JORGE_2026-00006286.jpg"
@@ -1989,7 +2011,7 @@
    "age": "28",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
+   "charge": "Operating While Under the Influence 1st",
    "more": 0,
    "ts": 1794599729,
    "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13.jpg"
@@ -2066,7 +2088,7 @@
    "age": "43",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Writ Of Habeas Corpus",
+   "charge": "Writ of Habeas Corpus",
    "more": 0,
    "ts": 1794596047,
    "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13.jpg"
@@ -2088,7 +2110,7 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
+   "charge": "Warrant Other Agency - Out of County",
    "more": 0,
    "ts": 1794595538,
    "photo": "photos/KEN_ACOSTA_ARTURO_2026-00006285.jpg"
@@ -2099,7 +2121,7 @@
    "age": "27",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
+   "charge": "Operating While Under the Influence 2nd",
    "more": 0,
    "ts": 1794595187,
    "photo": "photos/MAR_SCHOEPKE_GARRET_2026-11-13_5345801.jpg"
@@ -2242,7 +2264,7 @@
    "age": "33",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "charge": "Failure to Appear Warrant - Misdemeanor",
    "more": 0,
    "ts": 1794588902,
    "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13.jpg"
@@ -2253,7 +2275,7 @@
    "age": "27",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
+   "charge": "Operating While Under the Influence 2nd",
    "more": 0,
    "ts": 1794588862,
    "photo": null
@@ -2264,7 +2286,7 @@
    "age": "38",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Failure To Appear - Ncic Misdemeanor",
+   "charge": "Failure to Appear - Ncic Misdemeanor",
    "more": 1,
    "ts": 1794588824,
    "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13_475406.jpg"
@@ -2297,8 +2319,8 @@
    "age": "55",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
+   "charge": "Cont Subst/Possess Synthetics",
+   "more": 0,
    "ts": 1794586602,
    "photo": "photos/DOU_MICKELSON_TRACY_2026-11-13.jpg"
   },
@@ -2330,7 +2352,7 @@
    "age": "36",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "Owi (2Nd W/Pass < 16 Yrs Old)",
+   "charge": "OWI (2nd W/Pass < 16 Yrs Old)",
    "more": 0,
    "ts": 1794581298,
    "photo": "photos/RC_MATTA_RAVEN_120011076239333.jpg"
@@ -2385,7 +2407,7 @@
    "age": "38",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Failure To Appear - Ncic Misdemeanor",
+   "charge": "Failure to Appear - Ncic Misdemeanor",
    "more": 1,
    "ts": 1794574410,
    "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13.jpg"
@@ -2473,7 +2495,7 @@
    "age": "50",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Hit And Run - Unattended Vehicle",
+   "charge": "Hit and Run - Unattended Vehicle",
    "more": 1,
    "ts": 1794568435,
    "photo": "photos/KEN_SMITH_CHRISTOPHER_2026-00006281.jpg"
@@ -2484,7 +2506,7 @@
    "age": "18",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Obstruct Or Interfere With Fire Or Police Department",
+   "charge": "Obstruct or Interfere with Fire or Police Department",
    "more": 6,
    "ts": 1794567864,
    "photo": null
@@ -2550,7 +2572,7 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court O",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
    "more": 3,
    "ts": 1794563861,
    "photo": "photos/MKE_HENDRIX_ZACHARY_2046209.jpg"
@@ -2583,7 +2605,7 @@
    "age": "21",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
+   "charge": "Warrant Other Agency - Out of County",
    "more": 0,
    "ts": 1794561023,
    "photo": null
@@ -2792,7 +2814,7 @@
    "age": "41",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "charge": "Failure to Appear Warrant - Misdemeanor",
    "more": 0,
    "ts": 1794538590,
    "photo": "photos/MAR_JACKSON_JAMES_2026-11-12.jpg"
@@ -2814,7 +2836,7 @@
    "age": "57",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Failure To Appear Warrant - Felony",
+   "charge": "Failure to Appear Warrant - Felony",
    "more": 0,
    "ts": 1794538551,
    "photo": "photos/MAR_PAULUS_HALEY_2026-11-12.jpg"
@@ -2913,7 +2935,7 @@
    "age": "64",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Probation And Parole - Misd",
+   "charge": "Probation and Parole - Misd",
    "more": 0,
    "ts": 1794535969,
    "photo": "photos/KEN_NEFF_JAMES_2026-00006277.jpg"
@@ -2924,7 +2946,7 @@
    "age": "49",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Owi (4Th)",
+   "charge": "OWI (4th)",
    "more": 0,
    "ts": 1794535792,
    "photo": "photos/KEN_DONOVAN_KELLY_2026-00006273.jpg"
@@ -2935,7 +2957,7 @@
    "age": "29",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
+   "charge": "Warrant Other Agency - Out of County",
    "more": 2,
    "ts": 1794535626,
    "photo": "photos/KEN_COTTON_BRIANNA_2026-00006275.jpg"
@@ -2957,7 +2979,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Neglecting a Child (Harm Did Not Occur and Child Under 6 Years or Disa",
+   "charge": "Neglecting a Child (Harm Did Not Occur and Child Under 6 Years or\u2026",
    "more": 4,
    "ts": 1794535077,
    "photo": "photos/MKE_WALDRIP_IMAN_648265.jpg"
@@ -3221,7 +3243,7 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "Possession of a Controlled Substance (Other than a Schedule I or II Na",
+   "charge": "Possession of a Controlled Substance (Other than a Schedule I or II\u2026",
    "more": 0,
    "ts": 1794516498,
    "photo": "photos/RC_MURRAY_ASHLEY_120011076222402.jpg"
@@ -3276,7 +3298,7 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Probation And Parole - Felony",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1794513287,
    "photo": "photos/KEN_FLETCHER_STEPHON_2026-00006272.jpg"
@@ -3287,7 +3309,7 @@
    "age": "30",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
+   "charge": "Contempt of Court-Disobey Order",
    "more": 0,
    "ts": 1794512928,
    "photo": "photos/MAR_HENDRON_KAILYN_2026-11-12_5121801.jpg"
@@ -3397,7 +3419,7 @@
    "age": "57",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Out Of County Warrant",
+   "charge": "Out of County Warrant",
    "more": 0,
    "ts": 1794509231,
    "photo": null
@@ -3419,8 +3441,8 @@
    "age": "37",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
+   "charge": "Probation/Parole Violation",
+   "more": 0,
    "ts": 1794507410,
    "photo": "photos/DOU_SANIGAR_SEAN_2026-11-12.jpg"
   },
@@ -3430,7 +3452,7 @@
    "age": "39",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
+   "charge": "Contempt of Court-Disobey Order",
    "more": 0,
    "ts": 1794506127,
    "photo": "photos/MAR_KLEMAN_ANTHONY_2026-11-12_12613701.jpg"
@@ -3496,7 +3518,7 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Violate Temp Restraining Order Or Injunction",
+   "charge": "Violate Temp Restraining Order or Injunction",
    "more": 0,
    "ts": 1794503247,
    "photo": "photos/KEN_PESDAN_KARAH_2026-00006269.jpg"
@@ -3551,7 +3573,7 @@
    "age": "39",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Contempt Of Court - Violate Order To Surrender Firearms",
+   "charge": "Contempt of Court - Violate Order to Surrender Firearms",
    "more": 0,
    "ts": 1794502612,
    "photo": null
@@ -3562,7 +3584,7 @@
    "age": "30",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
+   "charge": "Contempt of Court-Disobey Order",
    "more": 0,
    "ts": 1794502551,
    "photo": null
@@ -3573,7 +3595,7 @@
    "age": "30",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Possession Of Thc",
+   "charge": "Possession of THC",
    "more": 2,
    "ts": 1794502487,
    "photo": "photos/MAR_RUSCH_ASHLEY_2026-11-12.jpg"
@@ -3584,7 +3606,7 @@
    "age": "38",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Contempt Of Court-Disobey Order",
+   "charge": "Contempt of Court-Disobey Order",
    "more": 0,
    "ts": 1794502415,
    "photo": "photos/MAR_KNIGHT_JAMES_2026-11-12.jpg"
@@ -3595,7 +3617,7 @@
    "age": "18",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Criminal Damage To Property",
+   "charge": "Criminal Damage to Property",
    "more": 2,
    "ts": 1794502027,
    "photo": null
@@ -3606,7 +3628,7 @@
    "age": "35",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Hold For Justice Sanctions",
+   "charge": "Hold for Justice Sanctions",
    "more": 1,
    "ts": 1794500825,
    "photo": null
@@ -3749,7 +3771,7 @@
    "age": "36",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Hold For Justice Sanctions",
+   "charge": "Hold for Justice Sanctions",
    "more": 0,
    "ts": 1794491224,
    "photo": null
@@ -3771,7 +3793,7 @@
    "age": "58",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "Out Of County Warrant",
+   "charge": "Out of County Warrant",
    "more": 0,
    "ts": 1794488219,
    "photo": null
@@ -3804,7 +3826,7 @@
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
-   "charge": "Possession Of Cocaine (2Nd And Subsequent Offense)",
+   "charge": "Possession of Cocaine (2nd and Subsequent Offense)",
    "more": 0,
    "ts": 1794482184,
    "photo": "photos/FDL_PAVONGARCIA_ERICK_2026-11-12.jpg"
@@ -3914,7 +3936,7 @@
    "age": "45",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Possession Of Narcotic Drugs",
+   "charge": "Possession of Narcotic Drugs",
    "more": 2,
    "ts": 1794473606,
    "photo": "photos/MAR_BROOME_ERIN_2026-11-12.jpg"
@@ -3947,7 +3969,7 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
+   "charge": "Warrant Other Agency - Out of County",
    "more": 1,
    "ts": 1794471598,
    "photo": "photos/KEN_MURRAY_ASHLEY_2026-00006268.jpg"
@@ -3958,8 +3980,8 @@
    "age": "39",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
+   "charge": "Probation/Parole Violation",
+   "more": 0,
    "ts": 1794471405,
    "photo": "photos/DOU_GREER_CHRISTINA_2026-11-12.jpg"
   },
@@ -3980,7 +4002,7 @@
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
-   "charge": "Owi - W/Minor Child In Veh - 1St Offense",
+   "charge": "OWI - W/Minor Child in Veh - 1st Offense",
    "more": 3,
    "ts": 1794471363,
    "photo": "photos/FDL_BROWN_KITANNA_2026-11-12.jpg"
@@ -4057,7 +4079,7 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Due To Alc/Cont Subst/Refusal)",
+   "charge": "Operating While Revoked (Due to Alc/Cont Subst/Refusal)",
    "more": 1,
    "ts": 1794466496,
    "photo": "photos/KEN_STANLEY_ROGER_2026-00006267.jpg"
@@ -4079,8 +4101,8 @@
    "age": "43",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 5,
+   "charge": "Bail Jumping",
+   "more": 4,
    "ts": 1794464241,
    "photo": "photos/DOU_SMITH_MARIA_2026-11-11.jpg"
   },
@@ -4167,7 +4189,7 @@
    "age": "25",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Operate W/O Valid D/L 3Rd + Offense",
+   "charge": "Operate W/O Valid D/L 3rd + Offense",
    "more": 0,
    "ts": 1794455896,
    "photo": "photos/KEN_KELLEYJACKSON_CAMEONA_2026-00006265.jpg"
@@ -4442,7 +4464,7 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Possession Of Marijuana (Thc) 2Nd+",
+   "charge": "Possession of Marijuana (THC) 2nd+",
    "more": 1,
    "ts": 1794441780,
    "photo": "photos/KEN_MARTIN_KEVIN_2026-00006263.jpg"
@@ -4453,7 +4475,7 @@
    "age": "69",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Owi (5Th Or 6Th)",
+   "charge": "OWI (5th or 6th)",
    "more": 7,
    "ts": 1794441705,
    "photo": "photos/KEN_HAND_KENNETH_2026-00006243.jpg"
@@ -4464,7 +4486,7 @@
    "age": "27",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Possession Of Thc",
+   "charge": "Possession of THC",
    "more": 1,
    "ts": 1794441480,
    "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11_14338302.jpg"
@@ -4508,8 +4530,8 @@
    "age": "48",
    "county": "Douglas County",
    "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
+   "charge": "Probation/Parole Violation",
+   "more": 0,
    "ts": 1794439099,
    "photo": "photos/DOU_PHILLIPS_JULIE_2026-11-11.jpg"
   },
@@ -4552,7 +4574,7 @@
    "age": "27",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Possession Of Thc",
+   "charge": "Possession of THC",
    "more": 1,
    "ts": 1794437663,
    "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11.jpg"
@@ -4574,7 +4596,7 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Manufacture/Deliver Pcp, Methcathinone, Or Amphetamine (50 Grams+)",
+   "charge": "Manufacture/Deliver Pcp, Methcathinone, or Amphetamine (50 Grams+)",
    "more": 0,
    "ts": 1794437531,
    "photo": "photos/KEN_MCMULLIN_ROBERT_2026-00006260.jpg"
@@ -4618,7 +4640,7 @@
    "age": "39",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
+   "charge": "Failure to Appear Warrant - Misdemeanor",
    "more": 0,
    "ts": 1794436922,
    "photo": "photos/MAR_BLOODSON_LANA_2026-11-11.jpg"
@@ -4629,7 +4651,7 @@
    "age": "52",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "3Rd Degree Sexual Assault",
+   "charge": "3rd Degree Sexual Assault",
    "more": 3,
    "ts": 1794436886,
    "photo": "photos/MAR_COMSTOCK_JAMES_2026-11-11.jpg"
@@ -4673,7 +4695,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Owi (2Nd)",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1794430734,
    "photo": "photos/KEN_MORAN_ADRIAN_2026-00006257.jpg"
@@ -4684,7 +4706,7 @@
    "age": "65",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Return On Writ",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1794430677,
    "photo": "photos/KEN_KUROWSKI_PAULINA_2026-00006256.jpg"
@@ -4695,7 +4717,7 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Criminal Damage To Property",
+   "charge": "Criminal Damage to Property",
    "more": 2,
    "ts": 1794430597,
    "photo": "photos/KEN_JACKSON_JOHN_2026-00006255.jpg"
@@ -4717,7 +4739,7 @@
    "age": "70",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "Probation And Parole - Felony",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1794430490,
    "photo": "photos/KEN_HURLBUT_DONALD_2026-00006258.jpg"
@@ -4787,39 +4809,6 @@
    "more": 0,
    "ts": 1794428913,
    "photo": "photos/MKE_ATKINS_LEONZELL_634425.jpg"
-  },
-  {
-   "key": "MKE_GODBOLT_DAVID_243810",
-   "name": "David Allen Godbolt",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 12,
-   "ts": 1794427087,
-   "photo": "photos/MKE_GODBOLT_DAVID_243810.jpg"
-  },
-  {
-   "key": "MKE_BENTZ_KENNETH_638441",
-   "name": "Kenneth K Bentz",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Utility\u2019s Property",
-   "more": 0,
-   "ts": 1794427084,
-   "photo": "photos/MKE_BENTZ_KENNETH_638441.jpg"
-  },
-  {
-   "key": "MAR_BURNETT_WESLEY_2026-11-11_8187006",
-   "name": "Wesley Devon Burnett",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Manuf/Deliver Amphetamine(>10-50G)",
-   "more": 1,
-   "ts": 1794426838,
-   "photo": "photos/MAR_BURNETT_WESLEY_2026-11-11_8187006.jpg"
   }
  ]
 }
