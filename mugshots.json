@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-14T06:46:00+00:00",
+ "updated": "2026-11-14T06:49:30+00:00",
  "items": [
+  {
+   "key": "RC_BYRD_LEDELL_120011075048207",
+   "name": "Ledell L Byrd",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Sell/Possess/Use/Transport Machine Gun",
+   "more": 2,
+   "ts": 1794638903,
+   "photo": "photos/RC_BYRD_LEDELL_120011075048207.jpg"
+  },
+  {
+   "key": "RC_ESPINOZA_IAN_120011076264547",
+   "name": "Ian Christopher Espinoza",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794638900,
+   "photo": null
+  },
   {
    "key": "MKE_ODELL_ANGELA_648290",
    "name": "Angela L Odell",
@@ -176,28 +198,6 @@
    "more": 0,
    "ts": 1794628050,
    "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_TERVINO_257447",
-   "name": "Tervino Terrell Williams",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794626876,
-   "photo": null
-  },
-  {
-   "key": "MKE_JENNINGS_KAYLANIE_648282",
-   "name": "Kaylanie A Jennings",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794626874,
-   "photo": "photos/MKE_JENNINGS_KAYLANIE_648282.jpg"
   },
   {
    "key": "ALI_JOMANA_2026-11-13",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BYRD_LEDELL_120011075048207",
+   "name": "Ledell L Byrd",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Sell/Possess/Use/Transport Machine Gun",
+   "more": 2,
+   "ts": 1794638903,
+   "photo": "photos/RC_BYRD_LEDELL_120011075048207.jpg"
+  },
+  {
+   "key": "RC_ESPINOZA_IAN_120011076264547",
+   "name": "Ian Christopher Espinoza",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794638900,
+   "photo": null
+  },
   {
    "key": "MKE_ODELL_ANGELA_648290",
    "name": "Angela L Odell",
@@ -5094,28 +5116,6 @@
    "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1794380016,
-   "photo": null
-  },
-  {
-   "key": "RC_NEWSON_NICHOLAS_120011076155533",
-   "name": "Nicholas Nathaniel Newson",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794379685,
-   "photo": null
-  },
-  {
-   "key": "JACKSON_JEQUELLA_2026-11-11",
-   "name": "Jequella J Jackson",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Exp: Owi (1St W/Pass < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794379631,
    "photo": null
   }
  ]
