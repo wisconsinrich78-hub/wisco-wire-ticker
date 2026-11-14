@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T03:29:20+00:00",
+ "updated": "2026-11-14T03:49:29+00:00",
  "items": [
+  {
+   "key": "RC_AVILA_ANDRES_120011076262029",
+   "name": "Andres Manuel Avila",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794628121,
+   "photo": "photos/RC_AVILA_ANDRES_120011076262029.jpg"
+  },
+  {
+   "key": "RC_BRIGNONIMOLINA_JOSE_120011076262129",
+   "name": "Jose C Brignoni molina",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794628118,
+   "photo": null
+  },
+  {
+   "key": "WINJUM_ADRIAN_2026-11-13",
+   "name": "Adrian M Winjum",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794628050,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_TERVINO_257447",
    "name": "Tervino Terrell Williams",
@@ -231,28 +264,6 @@
    "more": 0,
    "ts": 1794616059,
    "photo": "photos/MKE_RICARD_ZAKARY_648283.jpg"
-  },
-  {
-   "key": "MKE_DIXON_ANTHONY_648284",
-   "name": "Anthony Eugene Dixon",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794616057,
-   "photo": "photos/MKE_DIXON_ANTHONY_648284.jpg"
-  },
-  {
-   "key": "MKE_NELSON_DARNELL_2041790",
-   "name": "Darnell E Nelson",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1794616055,
-   "photo": "photos/MKE_NELSON_DARNELL_2041790.jpg"
   },
   {
    "key": "DOU_WELTON_KYLEN_2026-11-13",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794536175,
    "photo": "photos/FDL_BROWN_PEGGY_2026-11-12.jpg"
-  },
-  {
-   "key": "AYALA_ANTONIO_2026-11-12",
-   "name": "Antonio Ii Ayala",
-   "age": "49",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794533869,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_AVILA_ANDRES_120011076262029",
+   "name": "Andres Manuel Avila",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794628121,
+   "photo": "photos/RC_AVILA_ANDRES_120011076262029.jpg"
+  },
+  {
+   "key": "RC_BRIGNONIMOLINA_JOSE_120011076262129",
+   "name": "Jose C Brignoni molina",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794628118,
+   "photo": null
+  },
+  {
+   "key": "WINJUM_ADRIAN_2026-11-13",
+   "name": "Adrian M Winjum",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794628050,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_TERVINO_257447",
    "name": "Tervino Terrell Williams",
