@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T00:56:38+00:00",
+ "updated": "2026-11-14T01:04:32+00:00",
  "items": [
+  {
+   "key": "MKE_JAMES_DARNELL_648285",
+   "name": "Darnell D James",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794617866,
+   "photo": null
+  },
   {
    "key": "RC_BURKMAN_DAVID_120011076259002",
    "name": "David Malvern Burkman",
@@ -51,10 +62,10 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1794616059,
-   "photo": null
+   "photo": "photos/MKE_RICARD_ZAKARY_648283.jpg"
   },
   {
    "key": "MKE_DIXON_ANTHONY_648284",
@@ -73,10 +84,10 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 0,
    "ts": 1794616055,
-   "photo": null
+   "photo": "photos/MKE_NELSON_DARNELL_2041790.jpg"
   },
   {
    "key": "DOU_WELTON_KYLEN_2026-11-13",
@@ -172,7 +183,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Neglecting a Child (Consequence is Great Bodily Harm)",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794612462,
    "photo": null
@@ -194,7 +205,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Operate Vehicle w/o Consent-Passenger",
    "more": 1,
    "ts": 1794610647,
    "photo": null
@@ -209,17 +220,6 @@
    "more": 2,
    "ts": 1794610645,
    "photo": "photos/MKE_KURIAN_IVAN_648281.jpg"
-  },
-  {
-   "key": "KEN_JOHNSON_JASON_2026-00006288",
-   "name": "Jason Lamar Johnson",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1794610587,
-   "photo": "photos/KEN_JOHNSON_JASON_2026-00006288.jpg"
   },
   {
    "key": "MAR_ARROWOOD_CHARLES_2026-11-13_14953404",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_JAMES_DARNELL_648285",
+   "name": "Darnell D James",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794617866,
+   "photo": null
+  },
+  {
    "key": "RC_BURKMAN_DAVID_120011076259002",
    "name": "David Malvern Burkman",
    "age": "64",
@@ -581,10 +592,10 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1794616059,
-   "photo": null
+   "photo": "photos/MKE_RICARD_ZAKARY_648283.jpg"
   },
   {
    "key": "MKE_DIXON_ANTHONY_648284",
@@ -603,10 +614,10 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 0,
    "ts": 1794616055,
-   "photo": null
+   "photo": "photos/MKE_NELSON_DARNELL_2041790.jpg"
   },
   {
    "key": "DOU_WELTON_KYLEN_2026-11-13",
@@ -702,7 +713,7 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Neglecting a Child (Consequence is Great Bodily Harm)",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794612462,
    "photo": null
@@ -724,7 +735,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Operate Vehicle w/o Consent-Passenger",
    "more": 1,
    "ts": 1794610647,
    "photo": null
@@ -1002,7 +1013,7 @@
    "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1794601657,
-   "photo": null
+   "photo": "photos/MKE_NUNEZ_MICHAEL_636552.jpg"
   },
   {
    "key": "MKE_CERVANTES_MARTIN_648279",
@@ -1178,7 +1189,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794594473,
-   "photo": null
+   "photo": "photos/MKE_ALEXANDER_CARLTON_648276.jpg"
   },
   {
    "key": "MKE_PEREZ_ALEX_648277",
@@ -5062,61 +5073,6 @@
    "more": 1,
    "ts": 1794360435,
    "photo": null
-  },
-  {
-   "key": "MKE_PARKER_JEFFREY_305163",
-   "name": "Jeffrey Todd Parker",
-   "age": "61",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 1,
-   "ts": 1794358666,
-   "photo": "photos/MKE_PARKER_JEFFREY_305163.jpg"
-  },
-  {
-   "key": "MKE_BOWIE_SYAIR_616404",
-   "name": "Syair Imoni Bowie",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "3rd Degree Sexual Assault - Sexual Contact - Complainant Bodily Fluids",
-   "more": 1,
-   "ts": 1794358664,
-   "photo": "photos/MKE_BOWIE_SYAIR_616404.jpg"
-  },
-  {
-   "key": "MKE_JONES_LENIEYA_625709",
-   "name": "Lenieya Michelle Jones",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1794358662,
-   "photo": "photos/MKE_JONES_LENIEYA_625709.jpg"
-  },
-  {
-   "key": "MKE_MICHELIC_MARK_2057232",
-   "name": "Mark L Michelic",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1794358660,
-   "photo": "photos/MKE_MICHELIC_MARK_2057232.jpg"
-  },
-  {
-   "key": "MKE_CURRY_ANDRA_2062865",
-   "name": "Andra Deshawn Curry",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 14,
-   "ts": 1794358658,
-   "photo": "photos/MKE_CURRY_ANDRA_2062865.jpg"
   }
  ]
 }
