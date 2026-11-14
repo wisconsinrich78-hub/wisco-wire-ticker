@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-14T03:49:29+00:00",
+ "updated": "2026-11-14T04:02:43+00:00",
  "items": [
+  {
+   "key": "MKE_REED_LARON_319323",
+   "name": "Laron Donte Reed",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794628666,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_DONTARIUS_634682",
+   "name": "Dontarius R Williams",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794628664,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOPERSAYPOH_REGINA_648288",
+   "name": "Regina S Cooper Saypoh",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794628661,
+   "photo": null
+  },
+  {
+   "key": "KEN_HEARD_JORDAN_2026-00006292",
+   "name": "Jordan Alexis Heard",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violate Red Traffic Signal",
+   "more": 4,
+   "ts": 1794628468,
+   "photo": "photos/KEN_HEARD_JORDAN_2026-00006292.jpg"
+  },
+  {
+   "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
+   "name": "Ronald James Coleman",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794628405,
+   "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13_10507.jpg"
+  },
   {
    "key": "RC_AVILA_ANDRES_120011076262029",
    "name": "Andres Manuel Avila",
@@ -128,7 +183,7 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794624853,
    "photo": "photos/KEN_PEREZ_MARK_2026-00006291.jpg"
@@ -220,50 +275,6 @@
    "more": 0,
    "ts": 1794617289,
    "photo": "photos/RC_BURKMAN_DAVID_120011076259002.jpg"
-  },
-  {
-   "key": "RC_BARRY_DOMINIQUE_120011076259017",
-   "name": "Dominique Barry",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Manufacture/Deliver THC (<=200 grams)",
-   "more": 0,
-   "ts": 1794617286,
-   "photo": "photos/RC_BARRY_DOMINIQUE_120011076259017.jpg"
-  },
-  {
-   "key": "MKE_TURNER_BRYAN_276268",
-   "name": "Bryan H Turner",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794616063,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILKINS_MONICA_615402",
-   "name": "Monica L Wilkins",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794616061,
-   "photo": "photos/MKE_WILKINS_MONICA_615402.jpg"
-  },
-  {
-   "key": "MKE_RICARD_ZAKARY_648283",
-   "name": "Zakary L Ricard",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1794616059,
-   "photo": "photos/MKE_RICARD_ZAKARY_648283.jpg"
   },
   {
    "key": "DOU_WELTON_KYLEN_2026-11-13",
@@ -398,17 +409,6 @@
    "photo": null
   },
   {
-   "key": "MAR_ERMELING_LOGAN_2026-11-13",
-   "name": "Logan Ace Ermeling",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 1St",
-   "more": 0,
-   "ts": 1794599729,
-   "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13.jpg"
-  },
-  {
    "key": "PICKETT_RAINA_2026-11-13",
    "name": "Raina J Pickett",
    "age": "38",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_REED_LARON_319323",
+   "name": "Laron Donte Reed",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794628666,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_DONTARIUS_634682",
+   "name": "Dontarius R Williams",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794628664,
+   "photo": null
+  },
+  {
+   "key": "MKE_COOPERSAYPOH_REGINA_648288",
+   "name": "Regina S Cooper Saypoh",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794628661,
+   "photo": null
+  },
+  {
+   "key": "KEN_HEARD_JORDAN_2026-00006292",
+   "name": "Jordan Alexis Heard",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violate Red Traffic Signal",
+   "more": 4,
+   "ts": 1794628468,
+   "photo": "photos/KEN_HEARD_JORDAN_2026-00006292.jpg"
+  },
+  {
+   "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
+   "name": "Ronald James Coleman",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794628405,
+   "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13_10507.jpg"
+  },
   {
    "key": "RC_AVILA_ANDRES_120011076262029",
    "name": "Andres Manuel Avila",
@@ -658,7 +713,7 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation And Parole - Felony",
    "more": 0,
    "ts": 1794624853,
    "photo": "photos/KEN_PEREZ_MARK_2026-00006291.jpg"
@@ -933,7 +988,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Operate Vehicle w/o Consent-Passenger",
    "more": 1,
    "ts": 1794610647,
    "photo": null
@@ -1024,7 +1079,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794607062,
-   "photo": null
+   "photo": "photos/MKE_WOOD_GAGE_648280.jpg"
   },
   {
    "key": "MAR_OUSLEY_DIMITRI_2026-11-13",
@@ -1299,7 +1354,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794596277,
-   "photo": null
+   "photo": "photos/MKE_BRACY_PRINCE_648278.jpg"
   },
   {
    "key": "MAR_ARROWOOD_CHARLES_2026-11-13",
@@ -1376,7 +1431,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794594475,
-   "photo": null
+   "photo": "photos/MKE_PERRY_RICKY_370468.jpg"
   },
   {
    "key": "MKE_ALEXANDER_CARLTON_648276",
@@ -5095,17 +5150,6 @@
    "more": 0,
    "ts": 1794371224,
    "photo": null
-  },
-  {
-   "key": "MKE_TANDESKI_RODERICK_403318",
-   "name": "Roderick M Tandeski",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794369453,
-   "photo": "photos/MKE_TANDESKI_RODERICK_403318.jpg"
   }
  ]
 }
