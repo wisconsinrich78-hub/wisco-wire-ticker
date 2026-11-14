@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T17:07:19+00:00",
+ "updated": "2026-11-14T17:29:16+00:00",
  "items": [
+  {
+   "key": "MKE_CLOYD_ZAMARI_648299",
+   "name": "Zamari Juana Cloyd",
+   "age": "15",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794677254,
+   "photo": null
+  },
   {
    "key": "KEN_VARGAS_HERNAN_2026-00006295",
    "name": "Hernan Rangel Vargas",
@@ -73,8 +84,8 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794675504,
    "photo": null
   },
@@ -176,17 +187,6 @@
    "more": 0,
    "ts": 1794667683,
    "photo": "photos/RC_WARREN_DENNIS_120011076271870.jpg"
-  },
-  {
-   "key": "MKE_SMITH_JEREMIAH_507230",
-   "name": "Jeremiah L Smith",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 2,
-   "ts": 1794666454,
-   "photo": null
   },
   {
    "key": "FDL_ROEBKE_CHERIE_2026-11-14",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_CLOYD_ZAMARI_648299",
+   "name": "Zamari Juana Cloyd",
+   "age": "15",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794677254,
+   "photo": null
+  },
+  {
    "key": "KEN_VARGAS_HERNAN_2026-00006295",
    "name": "Hernan Rangel Vargas",
    "age": "29",
@@ -603,8 +614,8 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794675504,
    "photo": null
   },
@@ -716,7 +727,7 @@
    "charge": "Criminal Damage to Property",
    "more": 2,
    "ts": 1794666454,
-   "photo": null
+   "photo": "photos/MKE_SMITH_JEREMIAH_507230.jpg"
   },
   {
    "key": "MKE_SALLIS_BRIA_631037",
@@ -4985,61 +4996,6 @@
    "more": 0,
    "ts": 1794419248,
    "photo": "photos/BINGHAM_DYLAN_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_ARENAS_CESAR_286197",
-   "name": "Cesar Lopez Arenas",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 1,
-   "ts": 1794418089,
-   "photo": "photos/MKE_ARENAS_CESAR_286197.jpg"
-  },
-  {
-   "key": "MKE_NESBIT_KEVIN_368038",
-   "name": "Kevin Andre Nesbit",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794418085,
-   "photo": "photos/MKE_NESBIT_KEVIN_368038.jpg"
-  },
-  {
-   "key": "MKE_REGAS_PETER_624465",
-   "name": "Peter Regas",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 1,
-   "ts": 1794418082,
-   "photo": "photos/MKE_REGAS_PETER_624465.jpg"
-  },
-  {
-   "key": "DOU_LOVE_JAMES_2026-11-11",
-   "name": "James D Love",
-   "age": "57",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794418007,
-   "photo": "photos/DOU_LOVE_JAMES_2026-11-11.jpg"
-  },
-  {
-   "key": "FDL_KELLIHER_JOSEPH_2026-11-11",
-   "name": "Joseph James Kelliher",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794417424,
-   "photo": null
   }
  ]
 }
