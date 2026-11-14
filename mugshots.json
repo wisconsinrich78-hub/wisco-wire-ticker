@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T11:34:10+00:00",
+ "updated": "2026-11-14T11:49:27+00:00",
  "items": [
+  {
+   "key": "RC_CERDA_VICTOR_120011076268990",
+   "name": "Victor R Cerda",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence",
+   "more": 0,
+   "ts": 1794656883,
+   "photo": null
+  },
   {
    "key": "DOU_AMYS_ZACHARY_2026-11-13",
    "name": "Zachary C Amys",
@@ -242,17 +253,6 @@
    "more": 2,
    "ts": 1794638903,
    "photo": "photos/RC_BYRD_LEDELL_120011075048207.jpg"
-  },
-  {
-   "key": "RC_ESPINOZA_IAN_120011076264547",
-   "name": "Ian Christopher Espinoza",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794638900,
-   "photo": null
   },
   {
    "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_CERDA_VICTOR_120011076268990",
+   "name": "Victor R Cerda",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Under The Influence",
+   "more": 0,
+   "ts": 1794656883,
+   "photo": null
+  },
   {
    "key": "DOU_AMYS_ZACHARY_2026-11-13",
    "name": "Zachary C Amys",
@@ -5062,17 +5073,6 @@
    "more": 0,
    "ts": 1794398007,
    "photo": "photos/MAR_MACDONALD_MATTHEW_2026-11-10_1618903.jpg"
-  },
-  {
-   "key": "RC_EVANS_NICHOLUS_120011076159465",
-   "name": "Nicholus James Evans",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794397677,
-   "photo": null
   }
  ]
 }
