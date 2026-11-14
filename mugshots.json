@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T02:13:25+00:00",
+ "updated": "2026-11-14T02:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_RODERICK_285901",
+   "name": "Roderick Yadelle Williams",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794623279,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAWSON_DAMONTA_500588",
+   "name": "Damonta Davarian Dawson",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794623275,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIERSON_LAMYAH_648286",
+   "name": "Lamyah Imonie Pierson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794623272,
+   "photo": null
+  },
   {
    "key": "MAR_BENES_DEVLIN_2026-11-13",
    "name": "Devlin Lee Benes",
@@ -189,28 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_HOLMONMCATTEE_TOSHUNIQUE_620291",
-   "name": "Toshunique N Holmon-Mcattee",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 1,
-   "ts": 1794612464,
-   "photo": null
-  },
-  {
-   "key": "MKE_JENNINGS_KGYLANIE_648282",
-   "name": "Kgylanie A Jennings",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794612462,
-   "photo": null
-  },
-  {
    "key": "OSTRUM_BOBBY_2026-11-13",
    "name": "Bobby L Ostrum",
    "age": "44",
@@ -219,17 +230,6 @@
    "charge": "Operating While Under The Influence(3Rd)",
    "more": 0,
    "ts": 1794612426,
-   "photo": null
-  },
-  {
-   "key": "MKE_TIMSTEAGUE_ZAVIEN_631670",
-   "name": "Zavien K Tims-Teague",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794610647,
    "photo": null
   },
   {
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_RODERICK_285901",
+   "name": "Roderick Yadelle Williams",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794623279,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAWSON_DAMONTA_500588",
+   "name": "Damonta Davarian Dawson",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794623275,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIERSON_LAMYAH_648286",
+   "name": "Lamyah Imonie Pierson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794623272,
+   "photo": null
+  },
   {
    "key": "MAR_BENES_DEVLIN_2026-11-13",
    "name": "Devlin Lee Benes",
@@ -4985,50 +5018,6 @@
    "more": 0,
    "ts": 1794365592,
    "photo": "photos/MAR_DENZIN_SCOTT_2026-11-10.jpg"
-  },
-  {
-   "key": "RC_GILLIAM_TANYA_120011076151892",
-   "name": "Tanya Nicole Gilliam",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794365268,
-   "photo": "photos/RC_GILLIAM_TANYA_120011076151892.jpg"
-  },
-  {
-   "key": "MKE_ENGLISH_TIMOTHY_299460",
-   "name": "Timothy Douglas English",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Fail/Obey Traffic Officer Sign/Signal",
-   "more": 5,
-   "ts": 1794364050,
-   "photo": "photos/MKE_ENGLISH_TIMOTHY_299460.jpg"
-  },
-  {
-   "key": "MKE_CHAPPELL_ANTONIO_633786",
-   "name": "Antonio Lovell Chappell",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794364049,
-   "photo": "photos/MKE_CHAPPELL_ANTONIO_633786.jpg"
-  },
-  {
-   "key": "FDL_MORGANO_JOHN_2026-11-10",
-   "name": "John Paul Morgano",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1794363409,
-   "photo": "photos/FDL_MORGANO_JOHN_2026-11-10.jpg"
   }
  ]
 }
