@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T01:49:40+00:00",
+ "updated": "2026-11-14T01:54:50+00:00",
  "items": [
+  {
+   "key": "MAR_BENES_DEVLIN_2026-11-13",
+   "name": "Devlin Lee Benes",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794621208,
+   "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
+  },
   {
    "key": "RC_SORIANODIAZ_HENRY_120011076260128",
    "name": "Henry Alberto Soriano Diaz",
@@ -128,8 +139,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Mistreating Animals",
+   "more": 4,
    "ts": 1794614216,
    "photo": "photos/KEN_BENJAMIN_MALENA_2026-00006290.jpg"
   },
@@ -398,17 +409,6 @@
    "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103.jpg"
   },
   {
-   "key": "MAR_GRAEF_NAINNE_2026-11-13",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1794588902,
-   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13.jpg"
-  },
-  {
    "key": "TREM_HERNANDEZ_MARCOS_6212",
    "name": "Marcos James Hernandez",
    "age": "39",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_BENES_DEVLIN_2026-11-13",
+   "name": "Devlin Lee Benes",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under The Influence 2Nd",
+   "more": 0,
+   "ts": 1794621208,
+   "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
+  },
   {
    "key": "RC_SORIANODIAZ_HENRY_120011076260128",
    "name": "Henry Alberto Soriano Diaz",
@@ -658,8 +669,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Mistreating Animals",
+   "more": 4,
    "ts": 1794614216,
    "photo": "photos/KEN_BENJAMIN_MALENA_2026-00006290.jpg"
   },
@@ -5040,17 +5051,6 @@
    "more": 0,
    "ts": 1794362270,
    "photo": "photos/MKE_GONZALEZ_CARLOS_641325.jpg"
-  },
-  {
-   "key": "MAR_HAWN_ROBERT_2026-11-09_698011",
-   "name": "Robert Eugene Hawn",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794362018,
-   "photo": "photos/MAR_HAWN_ROBERT_2026-11-09_698011.jpg"
   }
  ]
 }
