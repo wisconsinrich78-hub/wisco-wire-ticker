@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T09:53:32+00:00",
+ "updated": "2026-11-14T10:27:40+00:00",
  "items": [
+  {
+   "key": "MKE_LYONS_JERRY_648293",
+   "name": "Jerry Gentell Lyons",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794650251,
+   "photo": null
+  },
   {
    "key": "RC_HOWARD_MASON_120011076263718",
    "name": "Mason D Howard",
@@ -164,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794639477,
-   "photo": null
+   "photo": "photos/MKE_BLOCKMON_DOMINIC_633552.jpg"
   },
   {
    "key": "MKE_SUGGSJACKSON_DEMARIO_645979",
@@ -209,17 +220,6 @@
    "more": 0,
    "ts": 1794638900,
    "photo": null
-  },
-  {
-   "key": "MKE_ODELL_ANGELA_648290",
-   "name": "Angela L Odell",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794637662,
-   "photo": "photos/MKE_ODELL_ANGELA_648290.jpg"
   },
   {
    "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_LYONS_JERRY_648293",
+   "name": "Jerry Gentell Lyons",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794650251,
+   "photo": null
+  },
+  {
    "key": "RC_HOWARD_MASON_120011076263718",
    "name": "Mason D Howard",
    "age": "39",
@@ -694,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794639477,
-   "photo": null
+   "photo": "photos/MKE_BLOCKMON_DOMINIC_633552.jpg"
   },
   {
    "key": "MKE_SUGGSJACKSON_DEMARIO_645979",
@@ -1046,7 +1057,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794623275,
-   "photo": null
+   "photo": "photos/MKE_DAWSON_DAMONTA_500588.jpg"
   },
   {
    "key": "MKE_PIERSON_LAMYAH_648286",
@@ -5095,28 +5106,6 @@
    "more": 1,
    "ts": 1794394050,
    "photo": "photos/TREM_LEARY_TODD_6211.jpg"
-  },
-  {
-   "key": "MKE_EVANS_TREVON_645964",
-   "name": "Trevon Evans",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794391080,
-   "photo": "photos/MKE_EVANS_TREVON_645964.jpg"
-  },
-  {
-   "key": "MKE_CANNADY_LAMAR_647334",
-   "name": "Lamar Vashaun Cannady",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794391078,
-   "photo": "photos/MKE_CANNADY_LAMAR_647334.jpg"
   }
  ]
 }
