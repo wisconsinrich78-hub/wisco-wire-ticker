@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T20:28:17+00:00",
+ "updated": "2026-11-14T20:49:33+00:00",
  "items": [
+  {
+   "key": "RC_GLOWACKI_ZACHARY_120011076277110",
+   "name": "Zachary J Glowacki",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794689305,
+   "photo": "photos/RC_GLOWACKI_ZACHARY_120011076277110.jpg"
+  },
+  {
+   "key": "RC_ROMERO_ANTHONY_120011076277140",
+   "name": "Anthony Romero",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794689302,
+   "photo": null
+  },
+  {
+   "key": "RC_GLOWACKI_RICHARD_120011076277171",
+   "name": "Richard Carl Glowacki",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794689299,
+   "photo": null
+  },
   {
    "key": "MKE_HARRIS_DAISHAWN_648303",
    "name": "Daishawn J Harris",
@@ -29,8 +62,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794686266,
    "photo": null
   },
@@ -154,39 +187,6 @@
    "more": 3,
    "ts": 1794675651,
    "photo": "photos/KEN_POOLE_ERICK_2026-00006299.jpg"
-  },
-  {
-   "key": "MKE_JONES_DERRICK_340846",
-   "name": "Derrick Ramone Jones",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794675506,
-   "photo": "photos/MKE_JONES_DERRICK_340846.jpg"
-  },
-  {
-   "key": "KEN_JUANALVARADO_SERGIO_2026-00006300",
-   "name": "Sergio Evelio Juan-Alvarado",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Fail/Obey Traffic Officer Signal/Order",
-   "more": 1,
-   "ts": 1794675504,
-   "photo": "photos/KEN_JUANALVARADO_SERGIO_2026-00006300.jpg"
-  },
-  {
-   "key": "MKE_PLEARS_DAMETRA_648298",
-   "name": "Dametra Rloxican Plears",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794675504,
-   "photo": "photos/MKE_PLEARS_DAMETRA_648298.jpg"
   },
   {
    "key": "DOU_BASLEY_SHERRI_2026-11-14",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "RC_GLOWACKI_ZACHARY_120011076277110",
+   "name": "Zachary J Glowacki",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794689305,
+   "photo": "photos/RC_GLOWACKI_ZACHARY_120011076277110.jpg"
+  },
+  {
+   "key": "RC_ROMERO_ANTHONY_120011076277140",
+   "name": "Anthony Romero",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794689302,
+   "photo": null
+  },
+  {
+   "key": "RC_GLOWACKI_RICHARD_120011076277171",
+   "name": "Richard Carl Glowacki",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794689299,
+   "photo": null
+  },
+  {
    "key": "MKE_HARRIS_DAISHAWN_648303",
    "name": "Daishawn J Harris",
    "age": "21",
@@ -559,8 +592,8 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1794686266,
    "photo": null
   },
@@ -4765,61 +4798,6 @@
    "more": 0,
    "ts": 1794430460,
    "photo": "photos/MAR_FLOWERS_MARCUS_2026-11-11.jpg"
-  },
-  {
-   "key": "RC_BOONE_CHRISTOPHER_120011076177581",
-   "name": "Christopher Cody Boone",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794430089,
-   "photo": "photos/RC_BOONE_CHRISTOPHER_120011076177581.jpg"
-  },
-  {
-   "key": "RC_TIRADO_JUAN_120011076178898",
-   "name": "Juan Antonio Tirado",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794430086,
-   "photo": "photos/RC_TIRADO_JUAN_120011076178898.jpg"
-  },
-  {
-   "key": "WILLIAMS_JERRY_2026-11-11",
-   "name": "Jerry Bryson Marcell Williams",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Extradition",
-   "more": 1,
-   "ts": 1794430032,
-   "photo": null
-  },
-  {
-   "key": "MKE_FIFE_TYRESE_288190",
-   "name": "Tyrese Dula Fife",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Trafficking of a Child",
-   "more": 0,
-   "ts": 1794428916,
-   "photo": "photos/MKE_FIFE_TYRESE_288190.jpg"
-  },
-  {
-   "key": "MKE_ATKINS_LEONZELL_634425",
-   "name": "Leonzell Antwone Atkins",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794428913,
-   "photo": "photos/MKE_ATKINS_LEONZELL_634425.jpg"
   }
  ]
 }
