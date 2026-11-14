@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T05:28:32+00:00",
+ "updated": "2026-11-14T05:49:33+00:00",
  "items": [
+  {
+   "key": "RC_MASON_HOWARD_120011076263718",
+   "name": "Howard Mason",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794635294,
+   "photo": null
+  },
   {
    "key": "MKE_HOWELL_SHANEQUA_507425",
    "name": "Shanequa D Howell",
@@ -30,7 +41,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 2,
    "ts": 1794632276,
    "photo": null
   },
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1794624868,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13_13412.jpg"
-  },
-  {
-   "key": "KEN_PEREZ_MARK_2026-00006291",
-   "name": "Mark William Perez",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation And Parole - Felony",
-   "more": 0,
-   "ts": 1794624853,
-   "photo": "photos/KEN_PEREZ_MARK_2026-00006291.jpg"
   },
   {
    "key": "MAR_COLEMAN_RONALD_2026-11-13",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_MASON_HOWARD_120011076263718",
+   "name": "Howard Mason",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794635294,
+   "photo": null
+  },
+  {
    "key": "MKE_HOWELL_SHANEQUA_507425",
    "name": "Shanequa D Howell",
    "age": "33",
@@ -560,7 +571,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 2,
    "ts": 1794632276,
    "photo": null
   },
