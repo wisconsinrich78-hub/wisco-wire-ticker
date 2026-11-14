@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T23:49:33+00:00",
+ "updated": "2026-11-14T00:01:32+00:00",
  "items": [
+  {
+   "key": "KEN_BENJAMIN_MALENA_2026-00006290",
+   "name": "Malena Marie Benjamin",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794614216,
+   "photo": "photos/KEN_BENJAMIN_MALENA_2026-00006290.jpg"
+  },
+  {
+   "key": "MAR_MALONEY_BARBARA_2026-11-13_1712836",
+   "name": "Barbara Jean Maloney",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794614064,
+   "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13_1712836.jpg"
+  },
   {
    "key": "RC_JOHNSON_KYLE_120011076258318",
    "name": "Kyle Jean Johnson",
@@ -255,17 +277,6 @@
    "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13_8275302.jpg"
   },
   {
-   "key": "KEN_GAFFNEY_ALEXANDRA_2026-00006287",
-   "name": "Alexandra Devan Gaffney",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out Of County",
-   "more": 1,
-   "ts": 1794603250,
-   "photo": "photos/KEN_GAFFNEY_ALEXANDRA_2026-00006287.jpg"
-  },
-  {
    "key": "MAR_MALOUF_WILLIAM_2026-11-13",
    "name": "William Malouf",
    "age": "20",
@@ -385,17 +396,6 @@
    "more": 0,
    "ts": 1794588862,
    "photo": null
-  },
-  {
-   "key": "MAR_SMITH_JOSEPH_2026-11-13_475406",
-   "name": "Joseph Landis Smith",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear - Ncic Misdemeanor",
-   "more": 1,
-   "ts": 1794588824,
-   "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13_475406.jpg"
   },
   {
    "key": "TREM_HERNANDEZ_MARCOS_6212",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_BENJAMIN_MALENA_2026-00006290",
+   "name": "Malena Marie Benjamin",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794614216,
+   "photo": "photos/KEN_BENJAMIN_MALENA_2026-00006290.jpg"
+  },
+  {
+   "key": "MAR_MALONEY_BARBARA_2026-11-13_1712836",
+   "name": "Barbara Jean Maloney",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794614064,
+   "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13_1712836.jpg"
+  },
   {
    "key": "RC_JOHNSON_KYLE_120011076258318",
    "name": "Kyle Jean Johnson",
