@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-14T21:43:24+00:00",
+ "updated": "2026-11-14T21:49:27+00:00",
  "items": [
+  {
+   "key": "RC_DENNIS_JAQUALE_120011076279066",
+   "name": "Jaquale G Dennis",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794692906,
+   "photo": "photos/RC_DENNIS_JAQUALE_120011076279066.jpg"
+  },
+  {
+   "key": "RC_RUSH_JAIA_120011076279419",
+   "name": "Jaia N Rush",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794692903,
+   "photo": "photos/RC_RUSH_JAIA_120011076279419.jpg"
+  },
   {
    "key": "MKE_BROWN_LUCAS_376924",
    "name": "Lucas L Brown",
@@ -187,28 +209,6 @@
    "more": 3,
    "ts": 1794675928,
    "photo": "photos/KEN_VARGAS_HERNAN_2026-00006295.jpg"
-  },
-  {
-   "key": "KEN_SEAMSTER_EDWARD_2026-00006297",
-   "name": "Edward Charlesberry Seamster",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794675849,
-   "photo": null
-  },
-  {
-   "key": "KEN_RUIZGOMEZ_JUAN_2026-00006298",
-   "name": "Juan Francisco Ruiz-Gomez",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 4,
-   "ts": 1794675800,
-   "photo": "photos/KEN_RUIZGOMEZ_JUAN_2026-00006298.jpg"
   },
   {
    "key": "DOU_BASLEY_SHERRI_2026-11-14",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DENNIS_JAQUALE_120011076279066",
+   "name": "Jaquale G Dennis",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794692906,
+   "photo": "photos/RC_DENNIS_JAQUALE_120011076279066.jpg"
+  },
+  {
+   "key": "RC_RUSH_JAIA_120011076279419",
+   "name": "Jaia N Rush",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794692903,
+   "photo": "photos/RC_RUSH_JAIA_120011076279419.jpg"
+  },
   {
    "key": "MKE_BROWN_LUCAS_376924",
    "name": "Lucas L Brown",
