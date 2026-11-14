@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T16:34:31+00:00",
+ "updated": "2026-11-14T16:49:29+00:00",
  "items": [
+  {
+   "key": "KEN_CAMPBELL_JACOB_2026-00006303",
+   "name": "Jacob Gregory Campbell",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Retail Theft-Intentionally Take (>$500-$5000)",
+   "more": 0,
+   "ts": 1794674923,
+   "photo": "photos/KEN_CAMPBELL_JACOB_2026-00006303.jpg"
+  },
   {
    "key": "DOU_BASLEY_SHERRI_2026-11-14",
    "name": "Sherri L Basley",
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1794648437,
    "photo": null
-  },
-  {
-   "key": "RC_JACKSON_TIMOTHY_120011076266815",
-   "name": "Timothy Paul Jackson",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under The Influence",
-   "more": 0,
-   "ts": 1794646091,
-   "photo": "photos/RC_JACKSON_TIMOTHY_120011076266815.jpg"
   },
   {
    "key": "SCHMIDT_JAMES_2026-11-14",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_CAMPBELL_JACOB_2026-00006303",
+   "name": "Jacob Gregory Campbell",
+   "age": "29",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Retail Theft-Intentionally Take (>$500-$5000)",
+   "more": 0,
+   "ts": 1794674923,
+   "photo": "photos/KEN_CAMPBELL_JACOB_2026-00006303.jpg"
+  },
   {
    "key": "DOU_BASLEY_SHERRI_2026-11-14",
    "name": "Sherri L Basley",
@@ -4963,39 +4974,6 @@
    "more": 1,
    "ts": 1794416018,
    "photo": "photos/MAR_BARGANDER_MATTHEW_2026-11-11_3303401.jpg"
-  },
-  {
-   "key": "RC_VOIGT_BRANDAN_120011076164430",
-   "name": "Brandan Steven Voigt",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794415715,
-   "photo": "photos/RC_VOIGT_BRANDAN_120011076164430.jpg"
-  },
-  {
-   "key": "RC_SANDERS_MARTINI_120011076166408",
-   "name": "Martini Andre Sanders",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794415712,
-   "photo": "photos/RC_SANDERS_MARTINI_120011076166408.jpg"
-  },
-  {
-   "key": "RC_HOLMES_JERAD_120011076166450",
-   "name": "Jerad L Holmes",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794415707,
-   "photo": "photos/RC_HOLMES_JERAD_120011076166450.jpg"
   }
  ]
 }
