@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T23:28:36+00:00",
+ "updated": "2026-11-14T23:49:28+00:00",
  "items": [
   {
    "key": "MKE_POWELL_ANTHONY_385688",
@@ -62,7 +62,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Muni. Retail Theft-Intent. Conceal",
+   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
    "more": 6,
    "ts": 1794697068,
    "photo": null
@@ -76,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794693471,
-   "photo": null
+   "photo": "photos/MKE_WALTON_RUSSELL_387041.jpg"
   },
   {
    "key": "MKE_JIMENEZHERNANDEZ_GEORGE_648304",
@@ -592,7 +592,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Muni. Retail Theft-Intent. Conceal",
+   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
    "more": 6,
    "ts": 1794697068,
    "photo": null
@@ -606,7 +606,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794693471,
-   "photo": null
+   "photo": "photos/MKE_WALTON_RUSSELL_387041.jpg"
   },
   {
    "key": "MKE_JIMENEZHERNANDEZ_GEORGE_648304",
@@ -4699,39 +4699,6 @@
    "more": 1,
    "ts": 1794441480,
    "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11_14338302.jpg"
-  },
-  {
-   "key": "RC_WILSON_KEINARI_120011076185139",
-   "name": "Keinari M Wilson",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794440897,
-   "photo": "photos/RC_WILSON_KEINARI_120011076185139.jpg"
-  },
-  {
-   "key": "HANKEL_MALACHI_2026-11-11",
-   "name": "Malachi C Hankel",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794440835,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALLEN_JABRIL_517421",
-   "name": "Jabril Mandela Allen",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794439724,
-   "photo": "photos/MKE_ALLEN_JABRIL_517421.jpg"
   }
  ]
 }
