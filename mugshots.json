@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:34:13+00:00",
+ "updated": "2026-11-14T13:28:04+00:00",
  "items": [
   {
    "key": "MKE_PUTCHEL_BREANN_2045062",
@@ -8,7 +8,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 6,
    "ts": 1794659247,
    "photo": null
   },
@@ -538,7 +538,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 6,
    "ts": 1794659247,
    "photo": null
   },
@@ -5018,28 +5018,6 @@
    "more": 1,
    "ts": 1794405499,
    "photo": "photos/MKE_DERYA_ESAM_600211.jpg"
-  },
-  {
-   "key": "MKE_ALIPATTERSON_SHAHEED_524235",
-   "name": "Shaheed Mikal Ali-Patterson",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794401878,
-   "photo": "photos/MKE_ALIPATTERSON_SHAHEED_524235.jpg"
-  },
-  {
-   "key": "KEN_MOFFETT_MELISCENT_2026-00006247",
-   "name": "Meliscent Ng Moffett",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Failure To Keep Vehicle Under Control",
-   "more": 4,
-   "ts": 1794401656,
-   "photo": null
   }
  ]
 }
