@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:54:50+00:00",
+ "updated": "2026-11-14T02:13:25+00:00",
  "items": [
   {
    "key": "MAR_BENES_DEVLIN_2026-11-13",
@@ -73,10 +73,10 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
    "more": 0,
    "ts": 1794616061,
-   "photo": null
+   "photo": "photos/MKE_WILKINS_MONICA_615402.jpg"
   },
   {
    "key": "MKE_RICARD_ZAKARY_648283",
@@ -227,7 +227,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate Vehicle w/o Consent-Passenger",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794610647,
    "photo": null
@@ -603,10 +603,10 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
    "more": 0,
    "ts": 1794616061,
-   "photo": null
+   "photo": "photos/MKE_WILKINS_MONICA_615402.jpg"
   },
   {
    "key": "MKE_RICARD_ZAKARY_648283",
@@ -757,7 +757,7 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate Vehicle w/o Consent-Passenger",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1794610647,
    "photo": null
@@ -892,7 +892,7 @@
    "charge": "OWI (5th or 6th)",
    "more": 1,
    "ts": 1794605315,
-   "photo": null
+   "photo": "photos/MKE_HENDERSON_JERLENE_194971.jpg"
   },
   {
    "key": "MKE_SCHULTZ_CHANCE_635568",
@@ -5029,28 +5029,6 @@
    "more": 2,
    "ts": 1794363409,
    "photo": "photos/FDL_MORGANO_JOHN_2026-11-10.jpg"
-  },
-  {
-   "key": "MKE_KELM_TRACEY_215594",
-   "name": "Tracey Lynette Kelm",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794362272,
-   "photo": "photos/MKE_KELM_TRACEY_215594.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZ_CARLOS_641325",
-   "name": "Carlos Exabiel Gonzalez",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1794362270,
-   "photo": "photos/MKE_GONZALEZ_CARLOS_641325.jpg"
   }
  ]
 }
