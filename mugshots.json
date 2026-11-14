@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-14T22:56:17+00:00",
+ "updated": "2026-11-14T23:28:36+00:00",
  "items": [
+  {
+   "key": "MKE_POWELL_ANTHONY_385688",
+   "name": "Anthony Lamar Powell",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Capture an Intimate Representation",
+   "more": 1,
+   "ts": 1794698865,
+   "photo": null
+  },
+  {
+   "key": "MKE_TARDY_ANGELA_628421",
+   "name": "Angela R Tardy",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794698863,
+   "photo": null
+  },
+  {
+   "key": "KEN_APOLINAR_VAZQUEZ_2026-00006306",
+   "name": "Vazquez Oscar Apolinar",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794698094,
+   "photo": null
+  },
+  {
+   "key": "KEN_ANDERSON_ORLANDO_2026-00006305",
+   "name": "Orlando Delone Anderson",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 1,
+   "ts": 1794698054,
+   "photo": "photos/KEN_ANDERSON_ORLANDO_2026-00006305.jpg"
+  },
+  {
+   "key": "MKE_SMITH_AARON_397768",
+   "name": "Aaron Dontrell Smith",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794697070,
+   "photo": null
+  },
+  {
+   "key": "MKE_TORRESVELEZ_HECTOR_603173",
+   "name": "Hector L Torres-Velez",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "County/Muni. Retail Theft-Intent. Conceal",
+   "more": 6,
+   "ts": 1794697068,
+   "photo": null
+  },
   {
    "key": "MKE_WALTON_RUSSELL_387041",
    "name": "Russell J Walton",
@@ -134,39 +200,6 @@
    "photo": null
   },
   {
-   "key": "MKE_HARRIS_DAISHAWN_648303",
-   "name": "Daishawn J Harris",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794688052,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOWARD_AARON_360497",
-   "name": "Aaron Vincent Howard",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794686268,
-   "photo": "photos/MKE_HOWARD_AARON_360497.jpg"
-  },
-  {
-   "key": "MKE_HERRERA_JOSE_648302",
-   "name": "Jose Elias Herrera",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794686266,
-   "photo": null
-  },
-  {
    "key": "DOU_HILLSBERG_SHIAN_2026-11-14",
    "name": "Shian D Hillsberg",
    "age": "34",
@@ -176,39 +209,6 @@
    "more": 3,
    "ts": 1794683811,
    "photo": "photos/DOU_HILLSBERG_SHIAN_2026-11-14.jpg"
-  },
-  {
-   "key": "MKE_JONES_DEVIN_340845",
-   "name": "Devin Russell Jones",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 3,
-   "ts": 1794682665,
-   "photo": "photos/MKE_JONES_DEVIN_340845.jpg"
-  },
-  {
-   "key": "MKE_KUYKENDOLL_KENYATTA_608031",
-   "name": "Kenyatta Kuykendoll",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794682664,
-   "photo": "photos/MKE_KUYKENDOLL_KENYATTA_608031.jpg"
-  },
-  {
-   "key": "RC_JAMES_STEVEN_120011076275713",
-   "name": "Steven Q James",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794682086,
-   "photo": null
   },
   {
    "key": "DOU_BASLEY_SHERRI_2026-11-14",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "MKE_POWELL_ANTHONY_385688",
+   "name": "Anthony Lamar Powell",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Capture an Intimate Representation",
+   "more": 1,
+   "ts": 1794698865,
+   "photo": null
+  },
+  {
+   "key": "MKE_TARDY_ANGELA_628421",
+   "name": "Angela R Tardy",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794698863,
+   "photo": null
+  },
+  {
+   "key": "KEN_APOLINAR_VAZQUEZ_2026-00006306",
+   "name": "Vazquez Oscar Apolinar",
+   "age": "43",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794698094,
+   "photo": null
+  },
+  {
+   "key": "KEN_ANDERSON_ORLANDO_2026-00006305",
+   "name": "Orlando Delone Anderson",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 1,
+   "ts": 1794698054,
+   "photo": "photos/KEN_ANDERSON_ORLANDO_2026-00006305.jpg"
+  },
+  {
+   "key": "MKE_SMITH_AARON_397768",
+   "name": "Aaron Dontrell Smith",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794697070,
+   "photo": null
+  },
+  {
+   "key": "MKE_TORRESVELEZ_HECTOR_603173",
+   "name": "Hector L Torres-Velez",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "County/Muni. Retail Theft-Intent. Conceal",
+   "more": 6,
+   "ts": 1794697068,
+   "photo": null
+  },
+  {
    "key": "MKE_WALTON_RUSSELL_387041",
    "name": "Russell J Walton",
    "age": "34",
@@ -672,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794688052,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_DAISHAWN_648303.jpg"
   },
   {
    "key": "MKE_HOWARD_AARON_360497",
@@ -694,7 +760,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794686266,
-   "photo": null
+   "photo": "photos/MKE_HERRERA_JOSE_648302.jpg"
   },
   {
    "key": "DOU_HILLSBERG_SHIAN_2026-11-14",
@@ -4666,50 +4732,6 @@
    "more": 2,
    "ts": 1794439724,
    "photo": "photos/MKE_ALLEN_JABRIL_517421.jpg"
-  },
-  {
-   "key": "DOU_PHILLIPS_JULIE_2026-11-11",
-   "name": "Julie A Phillips",
-   "age": "48",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 0,
-   "ts": 1794439099,
-   "photo": "photos/DOU_PHILLIPS_JULIE_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_WILSON_CORDAREO_375254",
-   "name": "Cordareo A Wilson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794437918,
-   "photo": "photos/MKE_WILSON_CORDAREO_375254.jpg"
-  },
-  {
-   "key": "MKE_BARBER_RODNEY_383200",
-   "name": "Rodney Lewis Barber",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794437912,
-   "photo": "photos/MKE_BARBER_RODNEY_383200.jpg"
-  },
-  {
-   "key": "MKE_JAMES_JAMEL_411040",
-   "name": "Jamel L James",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Endanger Safety/Use/Dangerous Weapon",
-   "more": 1,
-   "ts": 1794437908,
-   "photo": "photos/MKE_JAMES_JAMEL_411040.jpg"
   }
  ]
 }
