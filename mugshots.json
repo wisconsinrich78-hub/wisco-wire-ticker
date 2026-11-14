@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T14:00:49+00:00",
+ "updated": "2026-11-14T14:34:30+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_JEREMIAH_507230",
+   "name": "Jeremiah L Smith",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 2,
+   "ts": 1794666454,
+   "photo": null
+  },
+  {
+   "key": "MKE_SALLIS_BRIA_631037",
+   "name": "Bria Nashelle Sallis",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794666452,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEELEYPRATT_MIKIA_648296",
+   "name": "Mikia Jacob Neeley-Pratt",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1794666450,
+   "photo": null
+  },
   {
    "key": "MKE_CULPEPPER_XAVIER_648294",
    "name": "Xavier O Culpepper",
@@ -109,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794650251,
-   "photo": null
+   "photo": "photos/MKE_LYONS_JERRY_648293.jpg"
   },
   {
    "key": "RC_HOWARD_MASON_120011076263718",
@@ -233,17 +266,6 @@
    "photo": "photos/MKE_VILJEVAC_NEVAEH_640768.jpg"
   },
   {
-   "key": "RC_BUTLER_AIREESE_120011076265864",
-   "name": "Aireese Laquwan Butler",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794642484,
-   "photo": "photos/RC_BUTLER_AIREESE_120011076265864.jpg"
-  },
-  {
    "key": "FDL_SINGH_RAO_2026-11-14",
    "name": "Rao B Singh",
    "age": "",
@@ -253,28 +275,6 @@
    "more": 2,
    "ts": 1794640592,
    "photo": null
-  },
-  {
-   "key": "MKE_FLETCHER_CLIFFORD_504901",
-   "name": "Clifford Fletcher",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794639478,
-   "photo": "photos/MKE_FLETCHER_CLIFFORD_504901.jpg"
-  },
-  {
-   "key": "MKE_BLOCKMON_DOMINIC_633552",
-   "name": "Dominic T Blockmon",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794639477,
-   "photo": "photos/MKE_BLOCKMON_DOMINIC_633552.jpg"
   },
   {
    "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SMITH_JEREMIAH_507230",
+   "name": "Jeremiah L Smith",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 2,
+   "ts": 1794666454,
+   "photo": null
+  },
+  {
+   "key": "MKE_SALLIS_BRIA_631037",
+   "name": "Bria Nashelle Sallis",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794666452,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEELEYPRATT_MIKIA_648296",
+   "name": "Mikia Jacob Neeley-Pratt",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1794666450,
+   "photo": null
+  },
+  {
    "key": "MKE_CULPEPPER_XAVIER_648294",
    "name": "Xavier O Culpepper",
    "age": "31",
@@ -639,7 +672,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794650251,
-   "photo": null
+   "photo": "photos/MKE_LYONS_JERRY_648293.jpg"
   },
   {
    "key": "RC_HOWARD_MASON_120011076263718",
@@ -4974,50 +5007,6 @@
    "more": 1,
    "ts": 1794410244,
    "photo": "photos/FDL_MANN_ALONZO_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_SCONIERS_TIMOTHY_272023",
-   "name": "Timothy M Sconiers",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 2,
-   "ts": 1794407310,
-   "photo": "photos/MKE_SCONIERS_TIMOTHY_272023.jpg"
-  },
-  {
-   "key": "MKE_SIMMONDS_CORNELIUS_648243",
-   "name": "Cornelius T Simmonds",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1794407304,
-   "photo": "photos/MKE_SIMMONDS_CORNELIUS_648243.jpg"
-  },
-  {
-   "key": "ROEDEL_KATHLEEN_2026-11-11",
-   "name": "Kathleen B Roedel",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794407232,
-   "photo": null
-  },
-  {
-   "key": "FDL_BETANCO_LEONEL_2026-11-11",
-   "name": "Leonel Steven Betanco",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Failure To Appear / Warrants",
-   "more": 4,
-   "ts": 1794406599,
-   "photo": "photos/FDL_BETANCO_LEONEL_2026-11-11.jpg"
   }
  ]
 }
