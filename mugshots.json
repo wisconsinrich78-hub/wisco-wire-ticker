@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-14T07:53:40+00:00",
+ "updated": "2026-11-14T08:28:25+00:00",
  "items": [
+  {
+   "key": "MKE_MCKEE_WILLIAM_344952",
+   "name": "William Mckee",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794644853,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOINER_TYVON_530781",
+   "name": "Tyvon Joiner",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Alter Price (>$500 - $5000)",
+   "more": 0,
+   "ts": 1794644852,
+   "photo": null
+  },
+  {
+   "key": "MKE_OCAMPOGUTIUERES_JOEZEN_648291",
+   "name": "Joezen Ocampo Gutiueres",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794644850,
+   "photo": null
+  },
+  {
+   "key": "SCHMIDT_JAMES_2026-11-14",
+   "name": "James R Schmidt",
+   "age": "49",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence(4Th)",
+   "more": 0,
+   "ts": 1794644822,
+   "photo": null
+  },
+  {
+   "key": "FDL_BERNIER_BRENDA_2026-11-14",
+   "name": "Brenda Marie Bernier",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 2,
+   "ts": 1794644170,
+   "photo": "photos/FDL_BERNIER_BRENDA_2026-11-14.jpg"
+  },
+  {
+   "key": "MKE_VILJEVAC_NEVAEH_640768",
+   "name": "Nevaeh Lee Viljevac",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Harboring/Aiding a Felon (E/F/G/H/I or unclassified felony/not life)",
+   "more": 1,
+   "ts": 1794643051,
+   "photo": null
+  },
   {
    "key": "RC_BUTLER_AIREESE_120011076265864",
    "name": "Aireese Laquwan Butler",
@@ -51,8 +117,8 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1794639475,
    "photo": null
   },
@@ -142,50 +208,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794632276,
-   "photo": null
-  },
-  {
-   "key": "MKE_GOGINS_DORVELL_648289",
-   "name": "Dorvell Deangelo Gogins",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794632271,
-   "photo": null
-  },
-  {
-   "key": "KEN_KING_FAITH_2026-00006294",
-   "name": "Faith Larraine King",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Trespass To Dwelling",
-   "more": 1,
-   "ts": 1794632077,
-   "photo": "photos/KEN_KING_FAITH_2026-00006294.jpg"
-  },
-  {
-   "key": "RC_MARTIN_TERRAL_120011076262645",
-   "name": "Terral Lynn Martin",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine (2nd and subsequent)",
-   "more": 1,
-   "ts": 1794631699,
-   "photo": "photos/RC_MARTIN_TERRAL_120011076262645.jpg"
-  },
-  {
-   "key": "MKE_REED_LARON_319323",
-   "name": "Laron Donte Reed",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794628666,
    "photo": null
   },
   {
@@ -506,31 +528,75 @@
    "more": 0,
    "ts": 1794542237,
    "photo": null
-  },
-  {
-   "key": "ZIMMERMAN_MICHELLE_2026-11-12",
-   "name": "Michelle A Zimmerman",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794542235,
-   "photo": null
-  },
-  {
-   "key": "FEIST_VOLANTE_2026-11-12",
-   "name": "Volante C Feist",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794536829,
-   "photo": "photos/FEIST_VOLANTE_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MCKEE_WILLIAM_344952",
+   "name": "William Mckee",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794644853,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOINER_TYVON_530781",
+   "name": "Tyvon Joiner",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Alter Price (>$500 - $5000)",
+   "more": 0,
+   "ts": 1794644852,
+   "photo": null
+  },
+  {
+   "key": "MKE_OCAMPOGUTIUERES_JOEZEN_648291",
+   "name": "Joezen Ocampo Gutiueres",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794644850,
+   "photo": null
+  },
+  {
+   "key": "SCHMIDT_JAMES_2026-11-14",
+   "name": "James R Schmidt",
+   "age": "49",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence(4Th)",
+   "more": 0,
+   "ts": 1794644822,
+   "photo": null
+  },
+  {
+   "key": "FDL_BERNIER_BRENDA_2026-11-14",
+   "name": "Brenda Marie Bernier",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Owi - 2Nd Offense",
+   "more": 2,
+   "ts": 1794644170,
+   "photo": "photos/FDL_BERNIER_BRENDA_2026-11-14.jpg"
+  },
+  {
+   "key": "MKE_VILJEVAC_NEVAEH_640768",
+   "name": "Nevaeh Lee Viljevac",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Harboring/Aiding a Felon (E/F/G/H/I or unclassified felony/not life)",
+   "more": 1,
+   "ts": 1794643051,
+   "photo": null
+  },
   {
    "key": "RC_BUTLER_AIREESE_120011076265864",
    "name": "Aireese Laquwan Butler",
@@ -581,8 +647,8 @@
    "age": "18",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1794639475,
    "photo": null
   },
@@ -716,7 +782,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794628666,
-   "photo": null
+   "photo": "photos/MKE_REED_LARON_319323.jpg"
   },
   {
    "key": "MKE_WILLIAMS_DONTARIUS_634682",
@@ -804,7 +870,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794626876,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_TERVINO_257447.jpg"
   },
   {
    "key": "MKE_JENNINGS_KAYLANIE_648282",
@@ -936,7 +1002,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794623272,
-   "photo": null
+   "photo": "photos/MKE_PIERSON_LAMYAH_648286.jpg"
   },
   {
    "key": "MAR_BENES_DEVLIN_2026-11-13",
@@ -969,7 +1035,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794617866,
-   "photo": null
+   "photo": "photos/MKE_JAMES_DARNELL_648285.jpg"
   },
   {
    "key": "RC_BURKMAN_DAVID_120011076259002",
@@ -1123,7 +1189,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794612466,
-   "photo": null
+   "photo": "photos/MKE_LEWIS_MAURICE_357376.jpg"
   },
   {
    "key": "MKE_HOLMONMCATTEE_TOSHUNIQUE_620291",
@@ -1134,7 +1200,7 @@
    "charge": "Use Dangerous Weapon (Misdemeanor)",
    "more": 1,
    "ts": 1794612464,
-   "photo": null
+   "photo": "photos/MKE_HOLMONMCATTEE_TOSHUNIQUE_620291.jpg"
   },
   {
    "key": "MKE_JENNINGS_KGYLANIE_648282",
@@ -1167,7 +1233,7 @@
    "charge": "Operate Vehicle w/o Consent-Passenger",
    "more": 1,
    "ts": 1794610647,
-   "photo": null
+   "photo": "photos/MKE_TIMSTEAGUE_ZAVIEN_631670.jpg"
   },
   {
    "key": "MKE_KURIAN_IVAN_648281",
@@ -5051,83 +5117,6 @@
    "more": 1,
    "ts": 1794386911,
    "photo": "photos/RC_MOSLEY_ALAYSIA_120011076156871.jpg"
-  },
-  {
-   "key": "MKE_CARTER_DEMICO_378098",
-   "name": "Demico Rayshon Carter",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794385676,
-   "photo": "photos/MKE_CARTER_DEMICO_378098.jpg"
-  },
-  {
-   "key": "MKE_CROSS_EARNEST_648238",
-   "name": "Earnest D Cross",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794385672,
-   "photo": "photos/MKE_CROSS_EARNEST_648238.jpg"
-  },
-  {
-   "key": "MKE_RAMOS_GUILLERMO_648239",
-   "name": "Guillermo R Ramos",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794385670,
-   "photo": "photos/MKE_RAMOS_GUILLERMO_648239.jpg"
-  },
-  {
-   "key": "FDL_BAILLOD_MONICA_2026-11-11",
-   "name": "Monica M Baillod",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "DELIVER FENTANYL (>10g but <=50g)",
-   "more": 1,
-   "ts": 1794384969,
-   "photo": "photos/FDL_BAILLOD_MONICA_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_CHRISTIAN_618456",
-   "name": "Christian Claude Williams",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794383860,
-   "photo": "photos/MKE_WILLIAMS_CHRISTIAN_618456.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_MELVIN_635912",
-   "name": "Melvin A Johnson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794383858,
-   "photo": "photos/MKE_JOHNSON_MELVIN_635912.jpg"
-  },
-  {
-   "key": "MAR_BURCHETT_SALINA_2026-11-10",
-   "name": "Salina Kay Burchett",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under The Influence 2Nd",
-   "more": 0,
-   "ts": 1794383649,
-   "photo": "photos/MAR_BURCHETT_SALINA_2026-11-10.jpg"
   }
  ]
 }
