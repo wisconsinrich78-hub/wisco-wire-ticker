@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T20:59:14+00:00",
+ "updated": "2026-11-14T21:28:28+00:00",
  "items": [
+  {
+   "key": "MKE_BROWN_LUCAS_376924",
+   "name": "Lucas L Brown",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794691687,
+   "photo": null
+  },
+  {
+   "key": "HALVERSON_SHANE_2026-11-14",
+   "name": "Shane K Halverson",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794691627,
+   "photo": null
+  },
+  {
+   "key": "FRAUSTO_DEREK_2026-11-14",
+   "name": "Derek Lucas Frausto",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold on Revocation Order or Warrant",
+   "more": 0,
+   "ts": 1794691626,
+   "photo": null
+  },
   {
    "key": "RC_GLOWACKI_ZACHARY_120011076277110",
    "name": "Zachary J Glowacki",
@@ -176,17 +209,6 @@
    "more": 4,
    "ts": 1794675800,
    "photo": "photos/KEN_RUIZGOMEZ_JUAN_2026-00006298.jpg"
-  },
-  {
-   "key": "KEN_POOLE_ERICK_2026-00006299",
-   "name": "Erick Allen Poole",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Open Intoxicants in Mv-Driver",
-   "more": 3,
-   "ts": 1794675651,
-   "photo": "photos/KEN_POOLE_ERICK_2026-00006299.jpg"
   },
   {
    "key": "DOU_BASLEY_SHERRI_2026-11-14",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1794594449,
    "photo": null
-  },
-  {
-   "key": "FDL_ROHDE_ROBERT_2026-11-13",
-   "name": "Robert Roger Rohde",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794590192,
-   "photo": "photos/FDL_ROHDE_ROBERT_2026-11-13.jpg"
-  },
-  {
-   "key": "TREM_HERNANDEZ_MARCOS_6212",
-   "name": "Marcos James Hernandez",
-   "age": "39",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794566833,
-   "photo": "photos/TREM_HERNANDEZ_MARCOS_6212.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_BROWN_LUCAS_376924",
+   "name": "Lucas L Brown",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794691687,
+   "photo": null
+  },
+  {
+   "key": "HALVERSON_SHANE_2026-11-14",
+   "name": "Shane K Halverson",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794691627,
+   "photo": null
+  },
+  {
+   "key": "FRAUSTO_DEREK_2026-11-14",
+   "name": "Derek Lucas Frausto",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold on Revocation Order or Warrant",
+   "more": 0,
+   "ts": 1794691626,
+   "photo": null
+  },
   {
    "key": "RC_GLOWACKI_ZACHARY_120011076277110",
    "name": "Zachary J Glowacki",
@@ -4721,17 +4754,6 @@
    "more": 4,
    "ts": 1794432522,
    "photo": "photos/MKE_JOHNSON_MACK_641698.jpg"
-  },
-  {
-   "key": "FDL_THREETS_LEROY_2026-11-11",
-   "name": "Leroy R Threets",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794431870,
-   "photo": "photos/FDL_THREETS_LEROY_2026-11-11.jpg"
   }
  ]
 }
