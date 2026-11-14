@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-14T08:49:25+00:00",
+ "updated": "2026-11-14T09:28:42+00:00",
  "items": [
+  {
+   "key": "MKE_HAYES_CODY_648292",
+   "name": "Cody Michael Hayes",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794648453,
+   "photo": null
+  },
+  {
+   "key": "SCHIFFLER_GARRETT_2026-11-14",
+   "name": "Garrett D Schiffler",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 0,
+   "ts": 1794648437,
+   "photo": null
+  },
   {
    "key": "RC_JACKSON_TIMOTHY_120011076266815",
    "name": "Timothy Paul Jackson",
@@ -41,7 +63,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 5,
    "ts": 1794644850,
    "photo": null
   },
@@ -76,7 +98,7 @@
    "charge": "Harboring/Aiding a Felon (E/F/G/H/I or unclassified felony/not life)",
    "more": 1,
    "ts": 1794643051,
-   "photo": null
+   "photo": "photos/MKE_VILJEVAC_NEVAEH_640768.jpg"
   },
   {
    "key": "RC_BUTLER_AIREESE_120011076265864",
@@ -175,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794637662,
-   "photo": null
+   "photo": "photos/MKE_ODELL_ANGELA_648290.jpg"
   },
   {
    "key": "RC_MASON_HOWARD_120011076263718",
@@ -198,17 +220,6 @@
    "more": 1,
    "ts": 1794634056,
    "photo": "photos/MKE_HOWELL_SHANEQUA_507425.jpg"
-  },
-  {
-   "key": "MKE_MOTON_TAVARIS_643947",
-   "name": "Tavaris M Moton",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794634054,
-   "photo": null
   },
   {
    "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794558425,
    "photo": "photos/GUERRA_MALIK_2026-11-13.jpg"
-  },
-  {
-   "key": "MASHAK_JACKSON_2026-11-12",
-   "name": "Jackson M Mashak",
-   "age": "25",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794542237,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HAYES_CODY_648292",
+   "name": "Cody Michael Hayes",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794648453,
+   "photo": null
+  },
+  {
+   "key": "SCHIFFLER_GARRETT_2026-11-14",
+   "name": "Garrett D Schiffler",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under The Influence(2Nd)",
+   "more": 0,
+   "ts": 1794648437,
+   "photo": null
+  },
   {
    "key": "RC_JACKSON_TIMOTHY_120011076266815",
    "name": "Timothy Paul Jackson",
@@ -571,7 +593,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 2,
+   "more": 5,
    "ts": 1794644850,
    "photo": null
   },
@@ -606,7 +628,7 @@
    "charge": "Harboring/Aiding a Felon (E/F/G/H/I or unclassified felony/not life)",
    "more": 1,
    "ts": 1794643051,
-   "photo": null
+   "photo": "photos/MKE_VILJEVAC_NEVAEH_640768.jpg"
   },
   {
    "key": "RC_BUTLER_AIREESE_120011076265864",
@@ -705,7 +727,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794637662,
-   "photo": null
+   "photo": "photos/MKE_ODELL_ANGELA_648290.jpg"
   },
   {
    "key": "RC_MASON_HOWARD_120011076263718",
@@ -749,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794632276,
-   "photo": null
+   "photo": "photos/MKE_LEE_MARCUS_297647.jpg"
   },
   {
    "key": "MKE_GOGINS_DORVELL_648289",
@@ -760,7 +782,7 @@
    "charge": "Charges Pending",
    "more": 8,
    "ts": 1794632271,
-   "photo": null
+   "photo": "photos/MKE_GOGINS_DORVELL_648289.jpg"
   },
   {
    "key": "KEN_KING_FAITH_2026-00006294",
@@ -991,7 +1013,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794623279,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_RODERICK_285901.jpg"
   },
   {
    "key": "MKE_DAWSON_DAMONTA_500588",
@@ -5084,39 +5106,6 @@
    "more": 4,
    "ts": 1794390644,
    "photo": "photos/RC_HUJAR_MICHAEL_120011076158121.jpg"
-  },
-  {
-   "key": "MKE_EAST_TREVON_392481",
-   "name": "Trevon Equan East",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1794389293,
-   "photo": "photos/MKE_EAST_TREVON_392481.jpg"
-  },
-  {
-   "key": "MKE_CLARK_MELODIE_642873",
-   "name": "Melodie SJ Clark",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794389291,
-   "photo": "photos/MKE_CLARK_MELODIE_642873.jpg"
-  },
-  {
-   "key": "MAR_BELL_QUANTEZ_2026-11-11_762002",
-   "name": "Quantez D Bell",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794387213,
-   "photo": "photos/MAR_BELL_QUANTEZ_2026-11-11_762002.jpg"
   }
  ]
 }
