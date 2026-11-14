@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T18:57:43+00:00",
+ "updated": "2026-11-14T19:34:12+00:00",
  "items": [
+  {
+   "key": "DOU_HILLSBERG_SHIAN_2026-11-14",
+   "name": "Shian D Hillsberg",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1794683811,
+   "photo": "photos/DOU_HILLSBERG_SHIAN_2026-11-14.jpg"
+  },
+  {
+   "key": "MKE_JONES_DEVIN_340845",
+   "name": "Devin Russell Jones",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1794682665,
+   "photo": null
+  },
+  {
+   "key": "MKE_KUYKENDOLL_KENYATTA_608031",
+   "name": "Kenyatta Kuykendoll",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794682664,
+   "photo": null
+  },
   {
    "key": "RC_JAMES_STEVEN_120011076275713",
    "name": "Steven Q James",
@@ -30,7 +63,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 1,
    "ts": 1794680850,
    "photo": null
   },
@@ -120,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794675504,
-   "photo": null
+   "photo": "photos/MKE_PLEARS_DAMETRA_648298.jpg"
   },
   {
    "key": "KEN_JENKINS_JAMIR_2026-00006302",
@@ -156,17 +189,6 @@
    "photo": "photos/KEN_DIAZHERNANDEZ_JUAN_2026-00006296.jpg"
   },
   {
-   "key": "KEN_CAMPBELL_JACOB_2026-00006303",
-   "name": "Jacob Gregory Campbell",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Take (>$500-$5000)",
-   "more": 0,
-   "ts": 1794674923,
-   "photo": "photos/KEN_CAMPBELL_JACOB_2026-00006303.jpg"
-  },
-  {
    "key": "DOU_BASLEY_SHERRI_2026-11-14",
    "name": "Sherri L Basley",
    "age": "37",
@@ -176,17 +198,6 @@
    "more": 2,
    "ts": 1794673083,
    "photo": "photos/DOU_BASLEY_SHERRI_2026-11-14.jpg"
-  },
-  {
-   "key": "MKE_SPRINKMANN_JEFFREY_267630",
-   "name": "Jeffrey Sean Sprinkmann",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794670057,
-   "photo": "photos/MKE_SPRINKMANN_JEFFREY_267630.jpg"
   },
   {
    "key": "FDL_ROEBKE_CHERIE_2026-11-14",
@@ -486,17 +497,6 @@
    "photo": "photos/FDL_FRASE_VICTORIA_2026-11-13.jpg"
   },
   {
-   "key": "MAR_GRAEF_NAINNE_2026-11-13_13109003",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure To Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1794603303,
-   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13_13109003.jpg"
-  },
-  {
    "key": "PICKETT_RAINA_2026-11-13",
    "name": "Raina J Pickett",
    "age": "38",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "DOU_HILLSBERG_SHIAN_2026-11-14",
+   "name": "Shian D Hillsberg",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Charges:",
+   "more": 4,
+   "ts": 1794683811,
+   "photo": "photos/DOU_HILLSBERG_SHIAN_2026-11-14.jpg"
+  },
+  {
+   "key": "MKE_JONES_DEVIN_340845",
+   "name": "Devin Russell Jones",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1794682665,
+   "photo": null
+  },
+  {
+   "key": "MKE_KUYKENDOLL_KENYATTA_608031",
+   "name": "Kenyatta Kuykendoll",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794682664,
+   "photo": null
+  },
+  {
    "key": "RC_JAMES_STEVEN_120011076275713",
    "name": "Steven Q James",
    "age": "30",
@@ -560,7 +593,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 1,
    "ts": 1794680850,
    "photo": null
   },
@@ -650,7 +683,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794675504,
-   "photo": null
+   "photo": "photos/MKE_PLEARS_DAMETRA_648298.jpg"
   },
   {
    "key": "KEN_JENKINS_JAMIR_2026-00006302",
@@ -4853,39 +4886,6 @@
    "more": 0,
    "ts": 1794426484,
    "photo": "photos/RC_VENTURA_MELISA_120011076177048.jpg"
-  },
-  {
-   "key": "DOU_KING_ROBERT_2026-11-11",
-   "name": "Robert A King",
-   "age": "59",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Charges:",
-   "more": 1,
-   "ts": 1794424705,
-   "photo": "photos/DOU_KING_ROBERT_2026-11-11.jpg"
-  },
-  {
-   "key": "MKE_BOYD_JIMMY_536799",
-   "name": "Jimmy D Boyd",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794423536,
-   "photo": "photos/MKE_BOYD_JIMMY_536799.jpg"
-  },
-  {
-   "key": "MKE_COLON_MANUEL_648246",
-   "name": "Manuel Colon",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794423530,
-   "photo": "photos/MKE_COLON_MANUEL_648246.jpg"
   }
  ]
 }
