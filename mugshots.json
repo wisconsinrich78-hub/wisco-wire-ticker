@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-14T09:28:42+00:00",
+ "updated": "2026-11-14T09:49:29+00:00",
  "items": [
+  {
+   "key": "RC_HOWARD_MASON_120011076263718",
+   "name": "Mason D Howard",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 4,
+   "ts": 1794649699,
+   "photo": "photos/RC_HOWARD_MASON_120011076263718.jpg"
+  },
+  {
+   "key": "RC_BOSTICK_DERICK_120011076267929",
+   "name": "Derick Duane Bostick",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794649696,
+   "photo": "photos/RC_BOSTICK_DERICK_120011076267929.jpg"
+  },
   {
    "key": "MKE_HAYES_CODY_648292",
    "name": "Cody Michael Hayes",
@@ -198,28 +220,6 @@
    "more": 1,
    "ts": 1794637662,
    "photo": "photos/MKE_ODELL_ANGELA_648290.jpg"
-  },
-  {
-   "key": "RC_MASON_HOWARD_120011076263718",
-   "name": "Howard Mason",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794635294,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOWELL_SHANEQUA_507425",
-   "name": "Shanequa D Howell",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794634056,
-   "photo": "photos/MKE_HOWELL_SHANEQUA_507425.jpg"
   },
   {
    "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_HOWARD_MASON_120011076263718",
+   "name": "Mason D Howard",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 4,
+   "ts": 1794649699,
+   "photo": "photos/RC_HOWARD_MASON_120011076263718.jpg"
+  },
+  {
+   "key": "RC_BOSTICK_DERICK_120011076267929",
+   "name": "Derick Duane Bostick",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794649696,
+   "photo": "photos/RC_BOSTICK_DERICK_120011076267929.jpg"
+  },
   {
    "key": "MKE_HAYES_CODY_648292",
    "name": "Cody Michael Hayes",
