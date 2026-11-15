@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T10:28:09+00:00",
+ "updated": "2026-11-15T10:49:26+00:00",
  "items": [
+  {
+   "key": "TREM_SEIDEL_BRADLEY_6216",
+   "name": "Bradley James Seidel",
+   "age": "36",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 5,
+   "ts": 1794739629,
+   "photo": "photos/TREM_SEIDEL_BRADLEY_6216.jpg"
+  },
+  {
+   "key": "TREM_LORENZOCORONADO_ERIKA_6217",
+   "name": "Erika Cristina Lorenzo Coronado",
+   "age": "27",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794739628,
+   "photo": "photos/TREM_LORENZOCORONADO_ERIKA_6217.jpg"
+  },
+  {
+   "key": "COLE_RIANA_2026-11-15",
+   "name": "Riana B Cole",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 2,
+   "ts": 1794739624,
+   "photo": null
+  },
   {
    "key": "DOU_ANDERSON_LANE_2026-11-15",
    "name": "Lane A Anderson",
@@ -464,28 +497,6 @@
    "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13_10507.jpg"
   },
   {
-   "key": "WINJUM_ADRIAN_2026-11-13",
-   "name": "Adrian M Winjum",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794628050,
-   "photo": null
-  },
-  {
-   "key": "ALI_JOMANA_2026-11-13",
-   "name": "Jomana H M A Ali",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1794626817,
-   "photo": null
-  },
-  {
    "key": "MAR_GLENN_DIAMOND_2026-11-12_16201003",
    "name": "Diamond Deangelo Glenn",
    "age": "34",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1794624906,
    "photo": "photos/MAR_MALOUF_WILLIAM_2026-11-13_7781501.jpg"
-  },
-  {
-   "key": "MAR_BENES_DEVLIN_2026-11-13_13412",
-   "name": "Devlin Lee Benes",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794624868,
-   "photo": "photos/MAR_BENES_DEVLIN_2026-11-13_13412.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "TREM_SEIDEL_BRADLEY_6216",
+   "name": "Bradley James Seidel",
+   "age": "36",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 5,
+   "ts": 1794739629,
+   "photo": "photos/TREM_SEIDEL_BRADLEY_6216.jpg"
+  },
+  {
+   "key": "TREM_LORENZOCORONADO_ERIKA_6217",
+   "name": "Erika Cristina Lorenzo Coronado",
+   "age": "27",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794739628,
+   "photo": "photos/TREM_LORENZOCORONADO_ERIKA_6217.jpg"
+  },
+  {
+   "key": "COLE_RIANA_2026-11-15",
+   "name": "Riana B Cole",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 2,
+   "ts": 1794739624,
+   "photo": null
+  },
   {
    "key": "DOU_ANDERSON_LANE_2026-11-15",
    "name": "Lane A Anderson",
@@ -4556,28 +4589,6 @@
    "more": 0,
    "ts": 1794482184,
    "photo": "photos/FDL_PAVONGARCIA_ERICK_2026-11-12.jpg"
-  },
-  {
-   "key": "RC_MORALES_ALYSSA_120011076197337",
-   "name": "Alyssa Marie Morales",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794480463,
-   "photo": "photos/RC_MORALES_ALYSSA_120011076197337.jpg"
-  },
-  {
-   "key": "RC_NAVARETTE_JESUS_120011076197418",
-   "name": "Jesus Navarette",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794480461,
-   "photo": null
   }
  ]
 }
