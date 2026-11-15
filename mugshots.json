@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T17:47:05+00:00",
+ "updated": "2026-11-15T17:49:29+00:00",
  "items": [
+  {
+   "key": "RC_WALKER_KAHARION_120011076294055",
+   "name": "Kaharion R Walker",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794764897,
+   "photo": "photos/RC_WALKER_KAHARION_120011076294055.jpg"
+  },
   {
    "key": "MKE_KYLES_DENISE_361889",
    "name": "Denise Lashun Kyles",
@@ -299,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "KEN_JUAREZGALINDO_FROILAN_2026-00006318",
-   "name": "Froilan Juarez-Galindo",
-   "age": "53",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Unsafe Lane Deviation",
-   "more": 3,
-   "ts": 1794736445,
-   "photo": null
-  },
-  {
    "key": "SUMMERLIN_JONATHAN_2026-11-15",
    "name": "Jonathan Davidbailey Summerlin",
    "age": "28",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WALKER_KAHARION_120011076294055",
+   "name": "Kaharion R Walker",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794764897,
+   "photo": "photos/RC_WALKER_KAHARION_120011076294055.jpg"
+  },
   {
    "key": "MKE_KYLES_DENISE_361889",
    "name": "Denise Lashun Kyles",
