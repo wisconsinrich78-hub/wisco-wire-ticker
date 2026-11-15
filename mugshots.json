@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T07:28:09+00:00",
+ "updated": "2026-11-15T07:49:27+00:00",
  "items": [
+  {
+   "key": "RC_FORD_ZAVION_120011076286474",
+   "name": "Zavion Zaquan Ford",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794728912,
+   "photo": "photos/RC_FORD_ZAVION_120011076286474.jpg"
+  },
+  {
+   "key": "EDELL_THEODORA_2026-11-15",
+   "name": "Theodora Belou Edell",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794728825,
+   "photo": null
+  },
   {
    "key": "OLSON_JACOB_2026-11-15",
    "name": "Jacob C Olson",
@@ -231,17 +253,6 @@
    "more": 0,
    "ts": 1794714488,
    "photo": "photos/RC_BARBER_SHERMAN_120011076283520.jpg"
-  },
-  {
-   "key": "MKE_SMITH_ANTJUAN_415735",
-   "name": "Antjuan D Smith",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794713259,
-   "photo": "photos/MKE_SMITH_ANTJUAN_415735.jpg"
   },
   {
    "key": "DOU_LIVINGSTON_MICHAEL_2026-11-14",
@@ -517,20 +528,31 @@
    "more": 4,
    "ts": 1794615403,
    "photo": "photos/DOU_WELTON_KYLEN_2026-11-13.jpg"
-  },
-  {
-   "key": "FDL_STEINWAY_RIK_2026-11-13",
-   "name": "Rik Woodward Steinway",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794615395,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FORD_ZAVION_120011076286474",
+   "name": "Zavion Zaquan Ford",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794728912,
+   "photo": "photos/RC_FORD_ZAVION_120011076286474.jpg"
+  },
+  {
+   "key": "EDELL_THEODORA_2026-11-15",
+   "name": "Theodora Belou Edell",
+   "age": "24",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794728825,
+   "photo": null
+  },
   {
    "key": "OLSON_JACOB_2026-11-15",
    "name": "Jacob C Olson",
@@ -4633,17 +4655,6 @@
    "more": 1,
    "ts": 1794470253,
    "photo": "photos/MKE_SINGH_MANDEEP_648253.jpg"
-  },
-  {
-   "key": "RC_LANOUETTE_DANIEL_120011076195958",
-   "name": "Daniel J Lanouette",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794469661,
-   "photo": "photos/RC_LANOUETTE_DANIEL_120011076195958.jpg"
   }
  ]
 }
