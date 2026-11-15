@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T00:49:27+00:00",
+ "updated": "2026-11-15T01:28:12+00:00",
  "items": [
+  {
+   "key": "KNOWLER_JOSEPH_2026-11-14",
+   "name": "Joseph C Knowler",
+   "age": "61",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794706023,
+   "photo": null
+  },
+  {
+   "key": "KEN_CORONADOLOPEZ_AMERICA_2026-00006308",
+   "name": "America S Coronado-Lopez",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794704251,
+   "photo": "photos/KEN_CORONADOLOPEZ_AMERICA_2026-00006308.jpg"
+  },
+  {
+   "key": "KEN_CORONADO_CRYSTAL_2026-00006307",
+   "name": "Crystal Nicole Coronado",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794704164,
+   "photo": "photos/KEN_CORONADO_CRYSTAL_2026-00006307.jpg"
+  },
   {
    "key": "MKE_BROX_OLIVIA_361561",
    "name": "Olivia Annette Delores Brox",
@@ -40,7 +73,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Stalking",
+   "charge": "Capture an Intimate Representation",
    "more": 1,
    "ts": 1794698865,
    "photo": null
@@ -54,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794698863,
-   "photo": null
+   "photo": "photos/MKE_TARDY_ANGELA_628421.jpg"
   },
   {
    "key": "KEN_APOLINAR_VAZQUEZ_2026-00006306",
@@ -62,8 +95,8 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Keep Open Intoxicants in Mv by Driver",
+   "more": 4,
    "ts": 1794698094,
    "photo": null
   },
@@ -95,7 +128,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
    "more": 6,
    "ts": 1794697068,
    "photo": null
@@ -154,28 +187,6 @@
    "more": 0,
    "ts": 1794692906,
    "photo": "photos/RC_DENNIS_JAQUALE_120011076279066.jpg"
-  },
-  {
-   "key": "RC_RUSH_JAIA_120011076279419",
-   "name": "Jaia N Rush",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794692903,
-   "photo": "photos/RC_RUSH_JAIA_120011076279419.jpg"
-  },
-  {
-   "key": "MKE_BROWN_LUCAS_376924",
-   "name": "Lucas L Brown",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794691687,
-   "photo": null
   },
   {
    "key": "HALVERSON_SHANE_2026-11-14",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794604575,
    "photo": "photos/FDL_FRASE_VICTORIA_2026-11-13.jpg"
-  },
-  {
-   "key": "PICKETT_RAINA_2026-11-13",
-   "name": "Raina J Pickett",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794594449,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "KNOWLER_JOSEPH_2026-11-14",
+   "name": "Joseph C Knowler",
+   "age": "61",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794706023,
+   "photo": null
+  },
+  {
+   "key": "KEN_CORONADOLOPEZ_AMERICA_2026-00006308",
+   "name": "America S Coronado-Lopez",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794704251,
+   "photo": "photos/KEN_CORONADOLOPEZ_AMERICA_2026-00006308.jpg"
+  },
+  {
+   "key": "KEN_CORONADO_CRYSTAL_2026-00006307",
+   "name": "Crystal Nicole Coronado",
+   "age": "40",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794704164,
+   "photo": "photos/KEN_CORONADO_CRYSTAL_2026-00006307.jpg"
+  },
   {
    "key": "MKE_BROX_OLIVIA_361561",
    "name": "Olivia Annette Delores Brox",
@@ -570,7 +603,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Stalking",
+   "charge": "Capture an Intimate Representation",
    "more": 1,
    "ts": 1794698865,
    "photo": null
@@ -584,7 +617,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794698863,
-   "photo": null
+   "photo": "photos/MKE_TARDY_ANGELA_628421.jpg"
   },
   {
    "key": "KEN_APOLINAR_VAZQUEZ_2026-00006306",
@@ -592,8 +625,8 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Keep Open Intoxicants in Mv by Driver",
+   "more": 4,
    "ts": 1794698094,
    "photo": null
   },
@@ -625,7 +658,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
    "more": 6,
    "ts": 1794697068,
    "photo": null
@@ -705,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794691687,
-   "photo": null
+   "photo": "photos/MKE_BROWN_LUCAS_376924.jpg"
   },
   {
    "key": "HALVERSON_SHANE_2026-11-14",
@@ -4633,17 +4666,6 @@
    "more": 0,
    "ts": 1794448056,
    "photo": null
-  },
-  {
-   "key": "MAR_RUSCH_ASHLEY_2026-11-11",
-   "name": "Ashley Donna Rusch",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 3,
-   "ts": 1794444837,
-   "photo": "photos/MAR_RUSCH_ASHLEY_2026-11-11.jpg"
   }
  ]
 }
