@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T23:49:28+00:00",
+ "updated": "2026-11-15T00:27:55+00:00",
  "items": [
+  {
+   "key": "MKE_BROX_OLIVIA_361561",
+   "name": "Olivia Annette Delores Brox",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794702461,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARCIA_DANIEL_644409",
+   "name": "Daniel Garcia",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794702459,
+   "photo": null
+  },
+  {
+   "key": "MKE_SOBCZAK_JEROME_2041565",
+   "name": "Jerome Paul Sobczak",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794702457,
+   "photo": null
+  },
   {
    "key": "MKE_POWELL_ANTHONY_385688",
    "name": "Anthony Lamar Powell",
@@ -164,39 +197,6 @@
    "charge": "Hold on Revocation Order or Warrant",
    "more": 0,
    "ts": 1794691626,
-   "photo": null
-  },
-  {
-   "key": "RC_GLOWACKI_ZACHARY_120011076277110",
-   "name": "Zachary J Glowacki",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794689305,
-   "photo": "photos/RC_GLOWACKI_ZACHARY_120011076277110.jpg"
-  },
-  {
-   "key": "RC_ROMERO_ANTHONY_120011076277140",
-   "name": "Anthony Romero",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794689302,
-   "photo": null
-  },
-  {
-   "key": "RC_GLOWACKI_RICHARD_120011076277171",
-   "name": "Richard Carl Glowacki",
-   "age": "60",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794689299,
    "photo": null
   },
   {
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_BROX_OLIVIA_361561",
+   "name": "Olivia Annette Delores Brox",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794702461,
+   "photo": null
+  },
+  {
+   "key": "MKE_GARCIA_DANIEL_644409",
+   "name": "Daniel Garcia",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794702459,
+   "photo": null
+  },
+  {
+   "key": "MKE_SOBCZAK_JEROME_2041565",
+   "name": "Jerome Paul Sobczak",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794702457,
+   "photo": null
+  },
   {
    "key": "MKE_POWELL_ANTHONY_385688",
    "name": "Anthony Lamar Powell",
@@ -4655,50 +4688,6 @@
    "more": 4,
    "ts": 1794443283,
    "photo": "photos/MKE_MOYE_BREON_636056.jpg"
-  },
-  {
-   "key": "LANE_STACY_2026-11-11",
-   "name": "Stacy Opal Lane",
-   "age": "50",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794443232,
-   "photo": null
-  },
-  {
-   "key": "KEN_MARTIN_KEVIN_2026-00006263",
-   "name": "Kevin Roshawn Martin",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Marijuana (THC) 2nd+",
-   "more": 1,
-   "ts": 1794441780,
-   "photo": "photos/KEN_MARTIN_KEVIN_2026-00006263.jpg"
-  },
-  {
-   "key": "KEN_HAND_KENNETH_2026-00006243",
-   "name": "KENNETH FRANKLIN Senior HAND",
-   "age": "69",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "OWI (5th or 6th)",
-   "more": 7,
-   "ts": 1794441705,
-   "photo": "photos/KEN_HAND_KENNETH_2026-00006243.jpg"
-  },
-  {
-   "key": "MAR_SIEFKEN_DEREK_2026-11-11_14338302",
-   "name": "Derek Anthony Siefken",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of THC",
-   "more": 1,
-   "ts": 1794441480,
-   "photo": "photos/MAR_SIEFKEN_DEREK_2026-11-11_14338302.jpg"
   }
  ]
 }
