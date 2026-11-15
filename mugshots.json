@@ -1,13 +1,35 @@
 {
- "updated": "2026-11-15T18:24:01+00:00",
+ "updated": "2026-11-15T18:49:39+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_BRITTANIE_518127",
+   "name": "Brittanie Marie Smith",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794767454,
+   "photo": null
+  },
+  {
+   "key": "TISCHER_ROBERT_2026-11-15",
+   "name": "Robert Lee Tischer",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794767452,
+   "photo": null
+  },
   {
    "key": "RC_WALKER_KAHARION_120011076294055",
    "name": "Kaharion R Walker",
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1794764897,
    "photo": "photos/RC_WALKER_KAHARION_120011076294055.jpg"
@@ -231,17 +253,6 @@
    "more": 2,
    "ts": 1794742042,
    "photo": "photos/MKE_GREEN_KAMAURI_623548.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZBAROJAS_ALEJANDRO_648313",
-   "name": "Alejandro Gonzalez Barojas",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794742041,
-   "photo": "photos/MKE_GONZALEZBAROJAS_ALEJANDRO_648313.jpg"
   },
   {
    "key": "DOU_PAJTASH_KAYLA_2026-11-15",
@@ -517,27 +528,38 @@
    "more": 0,
    "ts": 1794653232,
    "photo": "photos/TREM_ENERSEN_CHARLES_4846.jpg"
-  },
-  {
-   "key": "TREM_KOTLOV_ALEXANDER_6128",
-   "name": "Alexander Kotlov",
-   "age": "50",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Appear Warrant",
-   "more": 0,
-   "ts": 1794653230,
-   "photo": "photos/TREM_KOTLOV_ALEXANDER_6128.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SMITH_BRITTANIE_518127",
+   "name": "Brittanie Marie Smith",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794767454,
+   "photo": null
+  },
+  {
+   "key": "TISCHER_ROBERT_2026-11-15",
+   "name": "Robert Lee Tischer",
+   "age": "45",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794767452,
+   "photo": null
+  },
   {
    "key": "RC_WALKER_KAHARION_120011076294055",
    "name": "Kaharion R Walker",
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1794764897,
    "photo": "photos/RC_WALKER_KAHARION_120011076294055.jpg"
@@ -4391,72 +4413,6 @@
    "more": 0,
    "ts": 1794512827,
    "photo": "photos/CARTER_PRINCE_2026-11-12.jpg"
-  },
-  {
-   "key": "RC_KRUEGER_JASON_120011076212411",
-   "name": "Jason M Krueger",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794509283,
-   "photo": "photos/RC_KRUEGER_JASON_120011076212411.jpg"
-  },
-  {
-   "key": "RC_WALRUP_JOHNNY_120011076212530",
-   "name": "Johnny Mariuce Walrup",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794509281,
-   "photo": "photos/RC_WALRUP_JOHNNY_120011076212530.jpg"
-  },
-  {
-   "key": "RC_COPPENS_CHARLES_120011076212852",
-   "name": "Charles Coppens",
-   "age": "65",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794509277,
-   "photo": null
-  },
-  {
-   "key": "HISTER_DOMINIQUE_2026-11-12",
-   "name": "Dominique M Hister",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794509232,
-   "photo": null
-  },
-  {
-   "key": "EDBERG_DAISY_2026-11-12",
-   "name": "Daisy M Edberg",
-   "age": "57",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Out of County Warrant",
-   "more": 0,
-   "ts": 1794509231,
-   "photo": null
-  },
-  {
-   "key": "MKE_ZEPEDA_ABRIANNA_648260",
-   "name": "Abrianna Zepeda",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794508056,
-   "photo": "photos/MKE_ZEPEDA_ABRIANNA_648260.jpg"
   }
  ]
 }
