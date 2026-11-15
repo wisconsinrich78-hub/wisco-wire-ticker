@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T16:49:27+00:00",
+ "updated": "2026-11-15T17:16:29+00:00",
  "items": [
+  {
+   "key": "MKE_KYLES_DENISE_361889",
+   "name": "Denise Lashun Kyles",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794761865,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_BRIAN_2026-11-15_641803",
+   "name": "Brian David Johnson",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794761598,
+   "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15_641803.jpg"
+  },
   {
    "key": "MKE_CARTER_FREDDIE_621937",
    "name": "Freddie Lee Carter",
@@ -288,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "KEN_GONZALEZLOPEZ_CARLOS_2026-00006317",
-   "name": "Carlos Daniel Gonzalez-Lopez",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Open Intoxicants in Mv-Driver",
-   "more": 3,
-   "ts": 1794736409,
-   "photo": "photos/KEN_GONZALEZLOPEZ_CARLOS_2026-00006317.jpg"
-  },
-  {
    "key": "SUMMERLIN_JONATHAN_2026-11-15",
    "name": "Jonathan Davidbailey Summerlin",
    "age": "28",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794653230,
    "photo": "photos/TREM_KOTLOV_ALEXANDER_6128.jpg"
-  },
-  {
-   "key": "SCHIFFLER_GARRETT_2026-11-14",
-   "name": "Garrett D Schiffler",
-   "age": "27",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence (2nd)",
-   "more": 0,
-   "ts": 1794648437,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_KYLES_DENISE_361889",
+   "name": "Denise Lashun Kyles",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794761865,
+   "photo": null
+  },
+  {
+   "key": "MAR_JOHNSON_BRIAN_2026-11-15_641803",
+   "name": "Brian David Johnson",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794761598,
+   "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15_641803.jpg"
+  },
   {
    "key": "MKE_CARTER_FREDDIE_621937",
    "name": "Freddie Lee Carter",
@@ -4490,116 +4512,6 @@
    "more": 0,
    "ts": 1794504475,
    "photo": "photos/MKE_QUALLS_TARONNE_299079.jpg"
-  },
-  {
-   "key": "KEN_STANLEYGOMEZ_BEN_2026-00006270",
-   "name": "Ben Stanley Gomez",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794503311,
-   "photo": "photos/KEN_STANLEYGOMEZ_BEN_2026-00006270.jpg"
-  },
-  {
-   "key": "KEN_PESDAN_KARAH_2026-00006269",
-   "name": "Karah Jean Pesdan",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violate Temp Restraining Order or Injunction",
-   "more": 0,
-   "ts": 1794503247,
-   "photo": "photos/KEN_PESDAN_KARAH_2026-00006269.jpg"
-  },
-  {
-   "key": "MKE_WATSON_JALIN_648258",
-   "name": "Jalin Lee Watson",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794502674,
-   "photo": "photos/MKE_WATSON_JALIN_648258.jpg"
-  },
-  {
-   "key": "MKE_WILKINSON_JOVAN_648259",
-   "name": "Jovan Wilkinson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794502671,
-   "photo": "photos/MKE_WILKINSON_JOVAN_648259.jpg"
-  },
-  {
-   "key": "MKE_WALKER_ERIC_2058349",
-   "name": "Eric D Walker",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794502668,
-   "photo": "photos/MKE_WALKER_ERIC_2058349.jpg"
-  },
-  {
-   "key": "MKE_KEHOE_DAMON_2059486",
-   "name": "Damon J Kehoe",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794502665,
-   "photo": "photos/MKE_KEHOE_DAMON_2059486.jpg"
-  },
-  {
-   "key": "MAR_KLEMAN_ANTHONY_2026-11-12",
-   "name": "Anthony John Kleman",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt of Court - Violate Order to Surrender Firearms",
-   "more": 0,
-   "ts": 1794502612,
-   "photo": null
-  },
-  {
-   "key": "MAR_HENDRON_KAILYN_2026-11-12",
-   "name": "Kailyn Alyissa Hendron",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt of Court-Disobey Order",
-   "more": 0,
-   "ts": 1794502551,
-   "photo": null
-  },
-  {
-   "key": "MAR_RUSCH_ASHLEY_2026-11-12",
-   "name": "Ashley Donna Rusch",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of THC",
-   "more": 2,
-   "ts": 1794502487,
-   "photo": "photos/MAR_RUSCH_ASHLEY_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_KNIGHT_JAMES_2026-11-12",
-   "name": "James Lee Knight",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt of Court-Disobey Order",
-   "more": 0,
-   "ts": 1794502415,
-   "photo": "photos/MAR_KNIGHT_JAMES_2026-11-12.jpg"
   }
  ]
 }
