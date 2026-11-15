@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T08:28:11+00:00",
+ "updated": "2026-11-15T08:49:33+00:00",
  "items": [
+  {
+   "key": "RC_STARKS_JARVIS_120011076287841",
+   "name": "Jarvis Starks",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794732496,
+   "photo": "photos/RC_STARKS_JARVIS_120011076287841.jpg"
+  },
+  {
+   "key": "SCHULZE_JASON_2026-11-15",
+   "name": "Jason Lewis Schulze",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under the Influence (2nd)",
+   "more": 0,
+   "ts": 1794732424,
+   "photo": null
+  },
   {
    "key": "MKE_CLARKE_CALVIN_179346",
    "name": "Calvin Sylvester Clarke",
@@ -21,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794729468,
-   "photo": null
+   "photo": "photos/MKE_HANDY_JAYLEN_515880.jpg"
   },
   {
    "key": "MKE_SANCHEZ_ANTHONY_648312",
@@ -32,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794729464,
-   "photo": null
+   "photo": "photos/MKE_SANCHEZ_ANTHONY_648312.jpg"
   },
   {
    "key": "RC_FORD_ZAVION_120011076286474",
@@ -220,17 +242,6 @@
    "more": 4,
    "ts": 1794718691,
    "photo": "photos/KEN_NELSON_CIELO_2026-00006312.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_TIERRA_604920",
-   "name": "TIERRA Layton WILLIAMS",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794718657,
-   "photo": "photos/MKE_WILLIAMS_TIERRA_604920.jpg"
   },
   {
    "key": "DOU_BECKER_ADAM_2026-11-14",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794621208,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
-  },
-  {
-   "key": "DOU_WELTON_KYLEN_2026-11-13",
-   "name": "Kylen P Welton",
-   "age": "36",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Domestic-False Imprisonment",
-   "more": 4,
-   "ts": 1794615403,
-   "photo": "photos/DOU_WELTON_KYLEN_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_STARKS_JARVIS_120011076287841",
+   "name": "Jarvis Starks",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794732496,
+   "photo": "photos/RC_STARKS_JARVIS_120011076287841.jpg"
+  },
+  {
+   "key": "SCHULZE_JASON_2026-11-15",
+   "name": "Jason Lewis Schulze",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under the Influence (2nd)",
+   "more": 0,
+   "ts": 1794732424,
+   "photo": null
+  },
   {
    "key": "MKE_CLARKE_CALVIN_179346",
    "name": "Calvin Sylvester Clarke",
@@ -551,7 +573,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794729468,
-   "photo": null
+   "photo": "photos/MKE_HANDY_JAYLEN_515880.jpg"
   },
   {
    "key": "MKE_SANCHEZ_ANTHONY_648312",
@@ -562,7 +584,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794729464,
-   "photo": null
+   "photo": "photos/MKE_SANCHEZ_ANTHONY_648312.jpg"
   },
   {
    "key": "RC_FORD_ZAVION_120011076286474",
@@ -4578,17 +4600,6 @@
    "more": 2,
    "ts": 1794473606,
    "photo": "photos/MAR_BROOME_ERIN_2026-11-12.jpg"
-  },
-  {
-   "key": "RC_FOXCROFT_DREW_120011076196320",
-   "name": "Drew J Foxcroft",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794473267,
-   "photo": "photos/RC_FOXCROFT_DREW_120011076196320.jpg"
   }
  ]
 }
