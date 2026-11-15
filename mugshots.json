@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T08:49:33+00:00",
+ "updated": "2026-11-15T08:58:52+00:00",
  "items": [
+  {
+   "key": "KEN_LOPEZ_CHRISTOPHER_2026-00006316",
+   "name": "Christopher Lopez",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794732805,
+   "photo": null
+  },
   {
    "key": "RC_STARKS_JARVIS_120011076287841",
    "name": "Jarvis Starks",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1794718756,
    "photo": "photos/KEN_PESDAN_KARAH_2026-00006304.jpg"
-  },
-  {
-   "key": "KEN_NELSON_CIELO_2026-00006312",
-   "name": "Cielo Jeremiah Nelson",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate After Rev/Susp of Registration",
-   "more": 4,
-   "ts": 1794718691,
-   "photo": "photos/KEN_NELSON_CIELO_2026-00006312.jpg"
   },
   {
    "key": "DOU_BECKER_ADAM_2026-11-14",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_LOPEZ_CHRISTOPHER_2026-00006316",
+   "name": "Christopher Lopez",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794732805,
+   "photo": null
+  },
   {
    "key": "RC_STARKS_JARVIS_120011076287841",
    "name": "Jarvis Starks",
@@ -4578,28 +4589,6 @@
    "more": 2,
    "ts": 1794474975,
    "photo": "photos/FDL_KARSCHNICK_ASHLEY_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_OUSLEY_DIMITRI_2026-11-12",
-   "name": "Dimitri Ousley",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1794473735,
-   "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_BROOME_ERIN_2026-11-12",
-   "name": "Erin Lynn Broome",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 2,
-   "ts": 1794473606,
-   "photo": "photos/MAR_BROOME_ERIN_2026-11-12.jpg"
   }
  ]
 }
