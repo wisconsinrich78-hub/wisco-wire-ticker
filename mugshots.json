@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T03:49:30+00:00",
+ "updated": "2026-11-15T03:58:15+00:00",
  "items": [
+  {
+   "key": "HOWE_MELINDA_2026-11-14",
+   "name": "Melinda S Howe",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess W/ Intent-\u2026",
+   "more": 4,
+   "ts": 1794715031,
+   "photo": null
+  },
   {
    "key": "RC_BARBER_SHERMAN_120011076283520",
    "name": "Sherman S Barber",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1794606892,
    "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-13.jpg"
-  },
-  {
-   "key": "FDL_FRASE_VICTORIA_2026-11-13",
-   "name": "Victoria Ann Frase",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794604575,
-   "photo": "photos/FDL_FRASE_VICTORIA_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "HOWE_MELINDA_2026-11-14",
+   "name": "Melinda S Howe",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess W/ Intent-\u2026",
+   "more": 4,
+   "ts": 1794715031,
+   "photo": null
+  },
   {
    "key": "RC_BARBER_SHERMAN_120011076283520",
    "name": "Sherman S Barber",
@@ -4556,17 +4567,6 @@
    "more": 0,
    "ts": 1794455896,
    "photo": "photos/KEN_KELLEYJACKSON_CAMEONA_2026-00006265.jpg"
-  },
-  {
-   "key": "KEN_HENDRICKSON_CODY_2026-00006264",
-   "name": "Cody Christopher Hendrickson",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794455815,
-   "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006264.jpg"
   }
  ]
 }
