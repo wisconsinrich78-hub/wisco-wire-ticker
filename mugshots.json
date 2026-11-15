@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T08:58:52+00:00",
+ "updated": "2026-11-15T09:35:47+00:00",
  "items": [
+  {
+   "key": "MKE_NEAL_GALATIA_638111",
+   "name": "Galatia Micole Neal",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794734862,
+   "photo": null
+  },
+  {
+   "key": "SUMMERLIN_JONATHAN_2026-11-15",
+   "name": "Jonathan Davidbailey Summerlin",
+   "age": "28",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794734825,
+   "photo": null
+  },
   {
    "key": "KEN_LOPEZ_CHRISTOPHER_2026-00006316",
    "name": "Christopher Lopez",
@@ -231,17 +253,6 @@
    "more": 5,
    "ts": 1794718825,
    "photo": "photos/KEN_QUIRINO_FRED_2026-00006310.jpg"
-  },
-  {
-   "key": "KEN_PESDAN_KARAH_2026-00006304",
-   "name": "Karah Jean Pesdan",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794718756,
-   "photo": "photos/KEN_PESDAN_KARAH_2026-00006304.jpg"
   },
   {
    "key": "DOU_BECKER_ADAM_2026-11-14",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794624818,
    "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13.jpg"
-  },
-  {
-   "key": "MAR_BENES_DEVLIN_2026-11-13",
-   "name": "Devlin Lee Benes",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794621208,
-   "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_NEAL_GALATIA_638111",
+   "name": "Galatia Micole Neal",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794734862,
+   "photo": null
+  },
+  {
+   "key": "SUMMERLIN_JONATHAN_2026-11-15",
+   "name": "Jonathan Davidbailey Summerlin",
+   "age": "28",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794734825,
+   "photo": null
+  },
   {
    "key": "KEN_LOPEZ_CHRISTOPHER_2026-00006316",
    "name": "Christopher Lopez",
@@ -4556,39 +4578,6 @@
    "more": 1,
    "ts": 1794476867,
    "photo": "photos/RC_ASCENCIO_CESAR_120011076197055.jpg"
-  },
-  {
-   "key": "MKE_SHARMA_ARJUN_606397",
-   "name": "Arjun Sharma",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794475654,
-   "photo": "photos/MKE_SHARMA_ARJUN_606397.jpg"
-  },
-  {
-   "key": "MKE_CLARK_JULLAINEEN_645635",
-   "name": "Jullaineen D Clark",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794475652,
-   "photo": "photos/MKE_CLARK_JULLAINEEN_645635.jpg"
-  },
-  {
-   "key": "FDL_KARSCHNICK_ASHLEY_2026-11-12",
-   "name": "Ashley Marie Karschnick",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794474975,
-   "photo": "photos/FDL_KARSCHNICK_ASHLEY_2026-11-12.jpg"
   }
  ]
 }
