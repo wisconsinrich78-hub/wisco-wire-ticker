@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T03:28:05+00:00",
+ "updated": "2026-11-15T03:49:30+00:00",
  "items": [
+  {
+   "key": "RC_BARBER_SHERMAN_120011076283520",
+   "name": "Sherman S Barber",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794714488,
+   "photo": "photos/RC_BARBER_SHERMAN_120011076283520.jpg"
+  },
   {
    "key": "MKE_SMITH_ANTJUAN_415735",
    "name": "Antjuan D Smith",
@@ -150,10 +161,10 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Capture an Intimate Representation",
+   "charge": "Stalking",
    "more": 1,
    "ts": 1794698865,
-   "photo": null
+   "photo": "photos/MKE_POWELL_ANTHONY_385688.jpg"
   },
   {
    "key": "MKE_TARDY_ANGELA_628421",
@@ -187,17 +198,6 @@
    "more": 1,
    "ts": 1794698054,
    "photo": "photos/KEN_ANDERSON_ORLANDO_2026-00006305.jpg"
-  },
-  {
-   "key": "MKE_SMITH_AARON_397768",
-   "name": "Aaron Dontrell Smith",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794697070,
-   "photo": "photos/MKE_SMITH_AARON_397768.jpg"
   },
   {
    "key": "HALVERSON_SHANE_2026-11-14",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_BARBER_SHERMAN_120011076283520",
+   "name": "Sherman S Barber",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794714488,
+   "photo": "photos/RC_BARBER_SHERMAN_120011076283520.jpg"
+  },
+  {
    "key": "MKE_SMITH_ANTJUAN_415735",
    "name": "Antjuan D Smith",
    "age": "33",
@@ -680,10 +691,10 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Capture an Intimate Representation",
+   "charge": "Stalking",
    "more": 1,
    "ts": 1794698865,
-   "photo": null
+   "photo": "photos/MKE_POWELL_ANTHONY_385688.jpg"
   },
   {
    "key": "MKE_TARDY_ANGELA_628421",
@@ -738,7 +749,7 @@
    "charge": "Resisting or Obstructing an Officer (Forfeiture)",
    "more": 6,
    "ts": 1794697068,
-   "photo": null
+   "photo": "photos/MKE_TORRESVELEZ_HECTOR_603173.jpg"
   },
   {
    "key": "MKE_WALTON_RUSSELL_387041",
@@ -771,7 +782,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794693467,
-   "photo": null
+   "photo": "photos/MKE_HARTFIELD_AZARI_648305.jpg"
   },
   {
    "key": "MKE_KIRK_TERRION_648306",
@@ -782,7 +793,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794693464,
-   "photo": null
+   "photo": "photos/MKE_KIRK_TERRION_648306.jpg"
   },
   {
    "key": "RC_DENNIS_JAQUALE_120011076279066",
@@ -4556,28 +4567,6 @@
    "more": 0,
    "ts": 1794455815,
    "photo": "photos/KEN_HENDRICKSON_CODY_2026-00006264.jpg"
-  },
-  {
-   "key": "RC_JACKSON_LAZAVEON_120011076191671",
-   "name": "Lazaveon Edward Jackson",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794455281,
-   "photo": "photos/RC_JACKSON_LAZAVEON_120011076191671.jpg"
-  },
-  {
-   "key": "MKE_KIROS_DAVID_529331",
-   "name": "David Elias Kiros",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794454089,
-   "photo": "photos/MKE_KIROS_DAVID_529331.jpg"
   }
  ]
 }
