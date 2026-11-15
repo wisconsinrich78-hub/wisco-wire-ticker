@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T06:28:59+00:00",
+ "updated": "2026-11-15T06:49:26+00:00",
  "items": [
+  {
+   "key": "RC_ROBINSON_LAVELLE_120011076286171",
+   "name": "Lavelle Shontae Robinson",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794725298,
+   "photo": "photos/RC_ROBINSON_LAVELLE_120011076286171.jpg"
+  },
   {
    "key": "MKE_MYERS_JOSEPH_2009652",
    "name": "Joseph William Myers",
@@ -209,17 +220,6 @@
    "more": 0,
    "ts": 1794713257,
    "photo": "photos/MKE_ROBINSON_SARA_2031153.jpg"
-  },
-  {
-   "key": "MKE_SEVERICHEVARGAS_ANGEL_648308",
-   "name": "Angel E Severiche Vargas",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794709678,
-   "photo": "photos/MKE_SEVERICHEVARGAS_ANGEL_648308.jpg"
   },
   {
    "key": "DOU_LIVINGSTON_MICHAEL_2026-11-14",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ROBINSON_LAVELLE_120011076286171",
+   "name": "Lavelle Shontae Robinson",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794725298,
+   "photo": "photos/RC_ROBINSON_LAVELLE_120011076286171.jpg"
+  },
   {
    "key": "MKE_MYERS_JOSEPH_2009652",
    "name": "Joseph William Myers",
@@ -4622,17 +4633,6 @@
    "more": 1,
    "ts": 1794466496,
    "photo": "photos/KEN_STANLEY_ROGER_2026-00006267.jpg"
-  },
-  {
-   "key": "VUE_BLONG_2026-11-12",
-   "name": "Blong Vue",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794466024,
-   "photo": null
   }
  ]
 }
