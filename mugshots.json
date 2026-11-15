@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T01:28:12+00:00",
+ "updated": "2026-11-15T01:49:29+00:00",
  "items": [
+  {
+   "key": "RC_ROMERO_JOHN_120011076281738",
+   "name": "John Anthony Romero",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794707296,
+   "photo": null
+  },
   {
    "key": "KNOWLER_JOSEPH_2026-11-14",
    "name": "Joseph C Knowler",
@@ -176,17 +187,6 @@
    "more": 1,
    "ts": 1794693464,
    "photo": null
-  },
-  {
-   "key": "RC_DENNIS_JAQUALE_120011076279066",
-   "name": "Jaquale G Dennis",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794692906,
-   "photo": "photos/RC_DENNIS_JAQUALE_120011076279066.jpg"
   },
   {
    "key": "HALVERSON_SHANE_2026-11-14",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ROMERO_JOHN_120011076281738",
+   "name": "John Anthony Romero",
+   "age": "55",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794707296,
+   "photo": null
+  },
   {
    "key": "KNOWLER_JOSEPH_2026-11-14",
    "name": "Joseph C Knowler",
@@ -4655,17 +4666,6 @@
    "more": 1,
    "ts": 1794448658,
    "photo": "photos/MKE_EDWARDS_CALVIN_342519.jpg"
-  },
-  {
-   "key": "HOU_PALMER_CHRISTOPHERRANDALL_6333",
-   "name": "Christopher Randall Palmer",
-   "age": "37",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Domestic Assault-Misdemeanor-Commits Act to C (1-Court Pending)",
-   "more": 0,
-   "ts": 1794448056,
-   "photo": null
   }
  ]
 }
