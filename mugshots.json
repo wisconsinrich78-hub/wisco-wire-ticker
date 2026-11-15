@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-15T05:28:47+00:00",
+ "updated": "2026-11-15T06:28:59+00:00",
  "items": [
+  {
+   "key": "MKE_MYERS_JOSEPH_2009652",
+   "name": "Joseph William Myers",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794724057,
+   "photo": null
+  },
+  {
+   "key": "KLEIN_CHANCEY_2026-11-15",
+   "name": "Chancey L Klein",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Cause Injury/Operate While Under Influence 1st",
+   "more": 0,
+   "ts": 1794724023,
+   "photo": null
+  },
+  {
+   "key": "KEN_HILL_TYREN_2026-00006314",
+   "name": "Tyren Rc Hill",
+   "age": "19",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 4,
+   "ts": 1794722030,
+   "photo": "photos/KEN_HILL_TYREN_2026-00006314.jpg"
+  },
+  {
+   "key": "MAR_REINKE_MIRANDA_2026-11-14",
+   "name": "Miranda Elizabeth Reinke",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 2,
+   "ts": 1794722022,
+   "photo": null
+  },
   {
    "key": "MKE_HARDWICK_DWAYNE_297796",
    "name": "Dwayne Brandon Hardwick",
@@ -40,7 +84,7 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1794718922,
    "photo": "photos/KEN_TOMASZEWSKI_JASON_2026-00006313.jpg"
@@ -164,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794713257,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_SARA_2031153.jpg"
   },
   {
    "key": "MKE_SEVERICHEVARGAS_ANGEL_648308",
@@ -175,7 +219,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794709678,
-   "photo": null
+   "photo": "photos/MKE_SEVERICHEVARGAS_ANGEL_648308.jpg"
   },
   {
    "key": "DOU_LIVINGSTON_MICHAEL_2026-11-14",
@@ -187,28 +231,6 @@
    "more": 1,
    "ts": 1794709019,
    "photo": "photos/DOU_LIVINGSTON_MICHAEL_2026-11-14.jpg"
-  },
-  {
-   "key": "MKE_MCELROY_CHEVELLE_635024",
-   "name": "Chevelle A McElroy",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794707881,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_LILLYANNA_648307",
-   "name": "Lillyanna M Williams",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Runaway",
-   "more": 3,
-   "ts": 1794707877,
-   "photo": null
   },
   {
    "key": "KNOWLER_JOSEPH_2026-11-14",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794612426,
    "photo": null
-  },
-  {
-   "key": "MAR_ARROWOOD_CHARLES_2026-11-13_14953404",
-   "name": "Charles Arthur Arrowood",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794610496,
-   "photo": "photos/MAR_ARROWOOD_CHARLES_2026-11-13_14953404.jpg"
-  },
-  {
-   "key": "MAR_GARDUNO_KELLY_2026-11-13_14046810",
-   "name": "Kelly Marie Garduno",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794610451,
-   "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13_14046810.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MYERS_JOSEPH_2009652",
+   "name": "Joseph William Myers",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794724057,
+   "photo": null
+  },
+  {
+   "key": "KLEIN_CHANCEY_2026-11-15",
+   "name": "Chancey L Klein",
+   "age": "36",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Cause Injury/Operate While Under Influence 1st",
+   "more": 0,
+   "ts": 1794724023,
+   "photo": null
+  },
+  {
+   "key": "KEN_HILL_TYREN_2026-00006314",
+   "name": "Tyren Rc Hill",
+   "age": "19",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 4,
+   "ts": 1794722030,
+   "photo": "photos/KEN_HILL_TYREN_2026-00006314.jpg"
+  },
+  {
+   "key": "MAR_REINKE_MIRANDA_2026-11-14",
+   "name": "Miranda Elizabeth Reinke",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 2,
+   "ts": 1794722022,
+   "photo": null
+  },
   {
    "key": "MKE_HARDWICK_DWAYNE_297796",
    "name": "Dwayne Brandon Hardwick",
@@ -570,7 +614,7 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1794718922,
    "photo": "photos/KEN_TOMASZEWSKI_JASON_2026-00006313.jpg"
@@ -694,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794713257,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_SARA_2031153.jpg"
   },
   {
    "key": "MKE_SEVERICHEVARGAS_ANGEL_648308",
@@ -705,7 +749,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794709678,
-   "photo": null
+   "photo": "photos/MKE_SEVERICHEVARGAS_ANGEL_648308.jpg"
   },
   {
    "key": "DOU_LIVINGSTON_MICHAEL_2026-11-14",
@@ -727,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794707881,
-   "photo": null
+   "photo": "photos/MKE_MCELROY_CHEVELLE_635024.jpg"
   },
   {
    "key": "MKE_WILLIAMS_LILLYANNA_648307",
@@ -735,7 +779,7 @@
    "age": "17",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Runaway",
+   "charge": "Charges Pending",
    "more": 3,
    "ts": 1794707877,
    "photo": null
@@ -804,7 +848,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794702459,
-   "photo": null
+   "photo": "photos/MKE_GARCIA_DANIEL_644409.jpg"
   },
   {
    "key": "MKE_SOBCZAK_JEROME_2041565",
@@ -815,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794702457,
-   "photo": null
+   "photo": "photos/MKE_SOBCZAK_JEROME_2041565.jpg"
   },
   {
    "key": "MKE_POWELL_ANTHONY_385688",
@@ -4589,28 +4633,6 @@
    "more": 0,
    "ts": 1794466024,
    "photo": null
-  },
-  {
-   "key": "DOU_SMITH_MARIA_2026-11-11",
-   "name": "Maria R Smith",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Bail Jumping",
-   "more": 4,
-   "ts": 1794464241,
-   "photo": "photos/DOU_SMITH_MARIA_2026-11-11.jpg"
-  },
-  {
-   "key": "KEN_ARRINGTON_DUANE_2026-00006266",
-   "name": "Duane Arrington",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794462998,
-   "photo": "photos/KEN_ARRINGTON_DUANE_2026-00006266.jpg"
   }
  ]
 }
