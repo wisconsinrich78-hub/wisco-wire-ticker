@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T02:53:43+00:00",
+ "updated": "2026-11-15T03:28:05+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_ANTJUAN_415735",
+   "name": "Antjuan D Smith",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794713259,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_SARA_2031153",
+   "name": "Sara Lyn Robinson",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794713257,
+   "photo": null
+  },
   {
    "key": "MKE_SEVERICHEVARGAS_ANGEL_648308",
    "name": "Angel E Severiche Vargas",
@@ -176,28 +198,6 @@
    "more": 3,
    "ts": 1794697070,
    "photo": "photos/MKE_SMITH_AARON_397768.jpg"
-  },
-  {
-   "key": "MKE_TORRESVELEZ_HECTOR_603173",
-   "name": "Hector L Torres-Velez",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
-   "more": 6,
-   "ts": 1794697068,
-   "photo": null
-  },
-  {
-   "key": "MKE_WALTON_RUSSELL_387041",
-   "name": "Russell J Walton",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794693471,
-   "photo": "photos/MKE_WALTON_RUSSELL_387041.jpg"
   },
   {
    "key": "HALVERSON_SHANE_2026-11-14",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SMITH_ANTJUAN_415735",
+   "name": "Antjuan D Smith",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794713259,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_SARA_2031153",
+   "name": "Sara Lyn Robinson",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794713257,
+   "photo": null
+  },
   {
    "key": "MKE_SEVERICHEVARGAS_ANGEL_648308",
    "name": "Angel E Severiche Vargas",
@@ -4556,61 +4578,6 @@
    "more": 1,
    "ts": 1794454089,
    "photo": "photos/MKE_KIROS_DAVID_529331.jpg"
-  },
-  {
-   "key": "MKE_PERKINS_DELMONTA_608635",
-   "name": "Delmonta Todd Perkins",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794454084,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCINTYRE_DEVONTE_648249",
-   "name": "Devonte Keshawn Mcintyre",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794454081,
-   "photo": "photos/MKE_MCINTYRE_DEVONTE_648249.jpg"
-  },
-  {
-   "key": "JACKSON_KENNETH_2026-11-11",
-   "name": "Kenneth Deray Jackson",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1794454027,
-   "photo": null
-  },
-  {
-   "key": "RC_LEE_KEVIN_120011076190411",
-   "name": "Kevin Leandre Lee",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794452706,
-   "photo": "photos/RC_LEE_KEVIN_120011076190411.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_DARIUS_120011076190460",
-   "name": "Darius L Williams",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794452702,
-   "photo": "photos/RC_WILLIAMS_DARIUS_120011076190460.jpg"
   }
  ]
 }
