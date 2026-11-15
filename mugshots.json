@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T14:01:12+00:00",
+ "updated": "2026-11-15T14:32:53+00:00",
  "items": [
+  {
+   "key": "MKE_SUTTLE_TEAIRRY_397976",
+   "name": "Teairry Desmond Suttle",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794752883,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCLAURIN_FREDDIE_648315",
+   "name": "Freddie Terrell Mclaurin",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Refusing a Global Positioning System Tracking Device",
+   "more": 0,
+   "ts": 1794752879,
+   "photo": null
+  },
+  {
+   "key": "MKE_TURNER_KENNETH_648316",
+   "name": "Kenneth Turner",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794752877,
+   "photo": null
+  },
   {
    "key": "MKE_HARRISDIAZ_IMMANUEL_648314",
    "name": "Immanuel Harris-Diaz",
@@ -205,8 +238,8 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession or Attempted Possession of a Controlled Substances within\u2026",
+   "more": 3,
    "ts": 1794732496,
    "photo": "photos/RC_STARKS_JARVIS_120011076287841.jpg"
   },
@@ -255,17 +288,6 @@
    "photo": "photos/MKE_SANCHEZ_ANTHONY_648312.jpg"
   },
   {
-   "key": "RC_FORD_ZAVION_120011076286474",
-   "name": "Zavion Zaquan Ford",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794728912,
-   "photo": "photos/RC_FORD_ZAVION_120011076286474.jpg"
-  },
-  {
    "key": "EDELL_THEODORA_2026-11-15",
    "name": "Theodora Belou Edell",
    "age": "24",
@@ -297,28 +319,6 @@
    "more": 0,
    "ts": 1794726994,
    "photo": "photos/FDL_NEWELL_DEVON_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_HOUSTON_LAMARC_412278",
-   "name": "Lamarc A Houston",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794725854,
-   "photo": "photos/MKE_HOUSTON_LAMARC_412278.jpg"
-  },
-  {
-   "key": "RC_ROBINSON_LAVELLE_120011076286171",
-   "name": "Lavelle Shontae Robinson",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794725298,
-   "photo": "photos/RC_ROBINSON_LAVELLE_120011076286171.jpg"
   },
   {
    "key": "KLEIN_CHANCEY_2026-11-15",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SUTTLE_TEAIRRY_397976",
+   "name": "Teairry Desmond Suttle",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794752883,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCLAURIN_FREDDIE_648315",
+   "name": "Freddie Terrell Mclaurin",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Refusing a Global Positioning System Tracking Device",
+   "more": 0,
+   "ts": 1794752879,
+   "photo": null
+  },
+  {
+   "key": "MKE_TURNER_KENNETH_648316",
+   "name": "Kenneth Turner",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794752877,
+   "photo": null
+  },
+  {
    "key": "MKE_HARRISDIAZ_IMMANUEL_648314",
    "name": "Immanuel Harris-Diaz",
    "age": "18",
@@ -735,8 +768,8 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession or Attempted Possession of a Controlled Substances within\u2026",
+   "more": 3,
    "ts": 1794732496,
    "photo": "photos/RC_STARKS_JARVIS_120011076287841.jpg"
   },
@@ -790,8 +823,8 @@
    "age": "27",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions\u2026",
+   "more": 4,
    "ts": 1794728912,
    "photo": "photos/RC_FORD_ZAVION_120011076286474.jpg"
   },
@@ -845,8 +878,8 @@
    "age": "47",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
    "ts": 1794725298,
    "photo": "photos/RC_ROBINSON_LAVELLE_120011076286171.jpg"
   },
@@ -1032,7 +1065,7 @@
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
    "more": 0,
    "ts": 1794714488,
    "photo": "photos/RC_BARBER_SHERMAN_120011076283520.jpg"
@@ -1307,8 +1340,8 @@
    "age": "27",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 4,
    "ts": 1794692903,
    "photo": "photos/RC_RUSH_JAIA_120011076279419.jpg"
   },
@@ -1362,10 +1395,10 @@
    "age": "28",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 1,
    "ts": 1794689302,
-   "photo": null
+   "photo": "photos/RC_ROMERO_ANTHONY_120011076277140.jpg"
   },
   {
    "key": "RC_GLOWACKI_RICHARD_120011076277171",
@@ -1450,8 +1483,8 @@
    "age": "30",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Second Degree Recklessly Endangering Safety",
+   "more": 5,
    "ts": 1794682086,
    "photo": null
   },
@@ -1659,8 +1692,8 @@
    "age": "43",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1794667683,
    "photo": "photos/RC_WARREN_DENNIS_120011076271870.jpg"
   },
@@ -1824,8 +1857,8 @@
    "age": "34",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 8,
    "ts": 1794649696,
    "photo": "photos/RC_BOSTICK_DERICK_120011076267929.jpg"
   },
@@ -1934,7 +1967,7 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 0,
    "ts": 1794642484,
    "photo": "photos/RC_BUTLER_AIREESE_120011076265864.jpg"
@@ -2165,7 +2198,7 @@
    "age": "39",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
    "more": 0,
    "ts": 1794628121,
    "photo": "photos/RC_AVILA_ANDRES_120011076262029.jpg"
@@ -2176,10 +2209,10 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Narcotic Drugs",
+   "more": 1,
    "ts": 1794628118,
-   "photo": null
+   "photo": "photos/RC_BRIGNONIMOLINA_JOSE_120011076262129.jpg"
   },
   {
    "key": "WINJUM_ADRIAN_2026-11-13",
@@ -3221,8 +3254,8 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
+   "charge": "Bail Jumping-Felony",
+   "more": 4,
    "ts": 1794578283,
    "photo": "photos/MKE_AITCHISON_MATTHEW_287781.jpg"
   },
@@ -3540,8 +3573,8 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
+   "charge": "Battery",
+   "more": 5,
    "ts": 1794553071,
    "photo": "photos/MKE_MERCADO_XAVIER_637560.jpg"
   },
@@ -3628,7 +3661,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Disorderly Conduct",
    "more": 3,
    "ts": 1794540482,
    "photo": "photos/MKE_FOWLER_BRYSON_643640.jpg"
@@ -4541,8 +4574,8 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 14,
    "ts": 1794497271,
    "photo": "photos/MKE_PHIPPS_CHARRALES_297695.jpg"
   },
@@ -4578,28 +4611,6 @@
    "more": 0,
    "ts": 1794497229,
    "photo": null
-  },
-  {
-   "key": "MKE_BROWN_JAMES_413862",
-   "name": "James Joshuawall Brown",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1794493665,
-   "photo": "photos/MKE_BROWN_JAMES_413862.jpg"
-  },
-  {
-   "key": "MKE_HERNANDEZ_ELADIO_626874",
-   "name": "Eladio Hernandez",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>15-40g)",
-   "more": 0,
-   "ts": 1794493663,
-   "photo": "photos/MKE_HERNANDEZ_ELADIO_626874.jpg"
   }
  ]
 }
