@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-15T19:49:33+00:00",
+ "updated": "2026-11-15T20:49:34+00:00",
  "items": [
+  {
+   "key": "RC_GRAY_DWAYNE_120011076297110",
+   "name": "Dwayne E Gray",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794775702,
+   "photo": "photos/RC_GRAY_DWAYNE_120011076297110.jpg"
+  },
+  {
+   "key": "RC_PATTERSON_LUTHER_120011076297178",
+   "name": "Luther Patterson",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794775699,
+   "photo": "photos/RC_PATTERSON_LUTHER_120011076297178.jpg"
+  },
+  {
+   "key": "FDL_LOPEZLOPEZ_HECTOR_2026-11-15",
+   "name": "Hector Lopez Lopez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1794773784,
+   "photo": "photos/FDL_LOPEZLOPEZ_HECTOR_2026-11-15.jpg"
+  },
+  {
+   "key": "MKE_COHEN_BRIZELL_628941",
+   "name": "Brizell Alexzander Cohen",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 4,
+   "ts": 1794772658,
+   "photo": null
+  },
+  {
+   "key": "MKE_TUNSTALL_JAWUAN_648321",
+   "name": "Jawuan James Tunstall",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1794772656,
+   "photo": null
+  },
   {
    "key": "FDL_AMONS_ELIJAH_2026-11-15",
    "name": "Elijah Laney Amons",
@@ -76,7 +131,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794761865,
-   "photo": null
+   "photo": "photos/MKE_KYLES_DENISE_361889.jpg"
   },
   {
    "key": "MAR_JOHNSON_BRIAN_2026-11-15_641803",
@@ -198,50 +253,6 @@
    "more": 1,
    "ts": 1794752883,
    "photo": "photos/MKE_SUTTLE_TEAIRRY_397976.jpg"
-  },
-  {
-   "key": "MKE_MCLAURIN_FREDDIE_648315",
-   "name": "Freddie Terrell Mclaurin",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Refusing a Global Positioning System Tracking Device",
-   "more": 0,
-   "ts": 1794752879,
-   "photo": "photos/MKE_MCLAURIN_FREDDIE_648315.jpg"
-  },
-  {
-   "key": "MKE_TURNER_KENNETH_648316",
-   "name": "Kenneth Turner",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794752877,
-   "photo": "photos/MKE_TURNER_KENNETH_648316.jpg"
-  },
-  {
-   "key": "MKE_HARRISDIAZ_IMMANUEL_648314",
-   "name": "Immanuel Harris-Diaz",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794751048,
-   "photo": "photos/MKE_HARRISDIAZ_IMMANUEL_648314.jpg"
-  },
-  {
-   "key": "MKE_MARTINEZPEREZ_ELIEZER_525871",
-   "name": "Eliezer Martinez-Perez",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794747446,
-   "photo": "photos/MKE_MARTINEZPEREZ_ELIEZER_525871.jpg"
   },
   {
    "key": "FDL_WILLIAMS_ANTWION_2026-11-15",
@@ -517,20 +528,64 @@
    "more": 3,
    "ts": 1794658575,
    "photo": "photos/FDL_KELLY_MANETTE_2026-11-14.jpg"
-  },
-  {
-   "key": "DOU_AMYS_ZACHARY_2026-11-13",
-   "name": "Zachary C Amys",
-   "age": "36",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794655005,
-   "photo": "photos/DOU_AMYS_ZACHARY_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GRAY_DWAYNE_120011076297110",
+   "name": "Dwayne E Gray",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794775702,
+   "photo": "photos/RC_GRAY_DWAYNE_120011076297110.jpg"
+  },
+  {
+   "key": "RC_PATTERSON_LUTHER_120011076297178",
+   "name": "Luther Patterson",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794775699,
+   "photo": "photos/RC_PATTERSON_LUTHER_120011076297178.jpg"
+  },
+  {
+   "key": "FDL_LOPEZLOPEZ_HECTOR_2026-11-15",
+   "name": "Hector Lopez Lopez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1794773784,
+   "photo": "photos/FDL_LOPEZLOPEZ_HECTOR_2026-11-15.jpg"
+  },
+  {
+   "key": "MKE_COHEN_BRIZELL_628941",
+   "name": "Brizell Alexzander Cohen",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 4,
+   "ts": 1794772658,
+   "photo": null
+  },
+  {
+   "key": "MKE_TUNSTALL_JAWUAN_648321",
+   "name": "Jawuan James Tunstall",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1794772656,
+   "photo": null
+  },
   {
    "key": "FDL_AMONS_ELIJAH_2026-11-15",
    "name": "Elijah Laney Amons",
@@ -606,7 +661,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794761865,
-   "photo": null
+   "photo": "photos/MKE_KYLES_DENISE_361889.jpg"
   },
   {
    "key": "MAR_JOHNSON_BRIAN_2026-11-15_641803",
@@ -3969,8 +4024,8 @@
    "age": "22",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
    "ts": 1794537031,
    "photo": "photos/MKE_WELLS_CINCERE_622740.jpg"
   },
@@ -4281,105 +4336,6 @@
    "more": 0,
    "ts": 1794518829,
    "photo": null
-  },
-  {
-   "key": "RC_DAMS_ROBERT_120011076221525",
-   "name": "Robert Ben Dams",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794516507,
-   "photo": null
-  },
-  {
-   "key": "RC_SCHREIBER_JASON_120011076221645",
-   "name": "Jason Ellsworth Schreiber",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794516504,
-   "photo": "photos/RC_SCHREIBER_JASON_120011076221645.jpg"
-  },
-  {
-   "key": "RC_DRAKE_MACKEY_120011076221913",
-   "name": "Mackey K Drake",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794516501,
-   "photo": null
-  },
-  {
-   "key": "RC_MURRAY_ASHLEY_120011076222402",
-   "name": "Ashley Elizabeth Murray",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of a Controlled Substance (Other than a Schedule I or II\u2026",
-   "more": 0,
-   "ts": 1794516498,
-   "photo": "photos/RC_MURRAY_ASHLEY_120011076222402.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_REGGNO_240139",
-   "name": "Reggno Jermaine Robinson",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794515273,
-   "photo": "photos/MKE_ROBINSON_REGGNO_240139.jpg"
-  },
-  {
-   "key": "MKE_MCKINNEY_LETERRY_648261",
-   "name": "Leterry Nedray Mckinney",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794515271,
-   "photo": "photos/MKE_MCKINNEY_LETERRY_648261.jpg"
-  },
-  {
-   "key": "MKE_ALABBAS_SUFIAN_627899",
-   "name": "Sufian Ahmad Alabbas",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery to Certain Individuals Involved in a Court or Legal System",
-   "more": 0,
-   "ts": 1794513497,
-   "photo": "photos/MKE_ALABBAS_SUFIAN_627899.jpg"
-  },
-  {
-   "key": "MKE_KING_GENITA_633743",
-   "name": "Genita L King",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1794513495,
-   "photo": "photos/MKE_KING_GENITA_633743.jpg"
-  },
-  {
-   "key": "KEN_FLETCHER_STEPHON_2026-00006272",
-   "name": "Stephon Andrew Fletcher",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1794513287,
-   "photo": "photos/KEN_FLETCHER_STEPHON_2026-00006272.jpg"
   }
  ]
 }
