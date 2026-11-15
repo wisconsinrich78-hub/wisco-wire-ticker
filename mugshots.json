@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-15T04:49:26+00:00",
+ "updated": "2026-11-15T05:28:47+00:00",
  "items": [
+  {
+   "key": "MKE_HARDWICK_DWAYNE_297796",
+   "name": "Dwayne Brandon Hardwick",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794720449,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREZ_LEONARDO_648310",
+   "name": "Leonardo Abel Perez",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794720447,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARAUZPONCE_LUIS_648311",
+   "name": "Luis Antonio Arauz Ponce",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794720445,
+   "photo": null
+  },
+  {
+   "key": "KEN_TOMASZEWSKI_JASON_2026-00006313",
+   "name": "Jason Adam Tomaszewski",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794718922,
+   "photo": "photos/KEN_TOMASZEWSKI_JASON_2026-00006313.jpg"
+  },
+  {
+   "key": "KEN_QUIRINO_FRED_2026-00006310",
+   "name": "Fred Joseph Quirino",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Non-Registration of Vehicle",
+   "more": 5,
+   "ts": 1794718825,
+   "photo": "photos/KEN_QUIRINO_FRED_2026-00006310.jpg"
+  },
+  {
+   "key": "KEN_PESDAN_KARAH_2026-00006304",
+   "name": "Karah Jean Pesdan",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794718756,
+   "photo": "photos/KEN_PESDAN_KARAH_2026-00006304.jpg"
+  },
+  {
+   "key": "KEN_NELSON_CIELO_2026-00006312",
+   "name": "Cielo Jeremiah Nelson",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate After Rev/Susp of Registration",
+   "more": 4,
+   "ts": 1794718691,
+   "photo": "photos/KEN_NELSON_CIELO_2026-00006312.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_TIERRA_604920",
+   "name": "TIERRA Layton WILLIAMS",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794718657,
+   "photo": null
+  },
+  {
+   "key": "MKE_REZAHERNANDEZ_CITALITH_648309",
+   "name": "Citalith Reza-Hernandez",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794718655,
+   "photo": null
+  },
+  {
+   "key": "KEN_JOHN_JASON_2026-00006311",
+   "name": "Jason Martin John",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 0,
+   "ts": 1794718629,
+   "photo": "photos/KEN_JOHN_JASON_2026-00006311.jpg"
+  },
   {
    "key": "DOU_BECKER_ADAM_2026-11-14",
    "name": "Adam J Becker",
@@ -101,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "RC_ROMERO_JOHN_120011076281738",
-   "name": "John Anthony Romero",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794707296,
-   "photo": null
-  },
-  {
    "key": "KNOWLER_JOSEPH_2026-11-14",
    "name": "Joseph C Knowler",
    "age": "61",
@@ -121,105 +220,6 @@
    "more": 0,
    "ts": 1794706023,
    "photo": null
-  },
-  {
-   "key": "KEN_CORONADOLOPEZ_AMERICA_2026-00006308",
-   "name": "America S Coronado-Lopez",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794704251,
-   "photo": "photos/KEN_CORONADOLOPEZ_AMERICA_2026-00006308.jpg"
-  },
-  {
-   "key": "KEN_CORONADO_CRYSTAL_2026-00006307",
-   "name": "Crystal Nicole Coronado",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794704164,
-   "photo": "photos/KEN_CORONADO_CRYSTAL_2026-00006307.jpg"
-  },
-  {
-   "key": "MKE_BROX_OLIVIA_361561",
-   "name": "Olivia Annette Delores Brox",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794702461,
-   "photo": "photos/MKE_BROX_OLIVIA_361561.jpg"
-  },
-  {
-   "key": "MKE_GARCIA_DANIEL_644409",
-   "name": "Daniel Garcia",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794702459,
-   "photo": null
-  },
-  {
-   "key": "MKE_SOBCZAK_JEROME_2041565",
-   "name": "Jerome Paul Sobczak",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794702457,
-   "photo": null
-  },
-  {
-   "key": "MKE_POWELL_ANTHONY_385688",
-   "name": "Anthony Lamar Powell",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 1,
-   "ts": 1794698865,
-   "photo": "photos/MKE_POWELL_ANTHONY_385688.jpg"
-  },
-  {
-   "key": "MKE_TARDY_ANGELA_628421",
-   "name": "Angela R Tardy",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794698863,
-   "photo": "photos/MKE_TARDY_ANGELA_628421.jpg"
-  },
-  {
-   "key": "KEN_APOLINAR_VAZQUEZ_2026-00006306",
-   "name": "Vazquez Oscar Apolinar",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Keep Open Intoxicants in Mv by Driver",
-   "more": 4,
-   "ts": 1794698094,
-   "photo": null
-  },
-  {
-   "key": "KEN_ANDERSON_ORLANDO_2026-00006305",
-   "name": "Orlando Delone Anderson",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 1,
-   "ts": 1794698054,
-   "photo": "photos/KEN_ANDERSON_ORLANDO_2026-00006305.jpg"
   },
   {
    "key": "HALVERSON_SHANE_2026-11-14",
@@ -532,6 +532,116 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HARDWICK_DWAYNE_297796",
+   "name": "Dwayne Brandon Hardwick",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794720449,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREZ_LEONARDO_648310",
+   "name": "Leonardo Abel Perez",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794720447,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARAUZPONCE_LUIS_648311",
+   "name": "Luis Antonio Arauz Ponce",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794720445,
+   "photo": null
+  },
+  {
+   "key": "KEN_TOMASZEWSKI_JASON_2026-00006313",
+   "name": "Jason Adam Tomaszewski",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794718922,
+   "photo": "photos/KEN_TOMASZEWSKI_JASON_2026-00006313.jpg"
+  },
+  {
+   "key": "KEN_QUIRINO_FRED_2026-00006310",
+   "name": "Fred Joseph Quirino",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Non-Registration of Vehicle",
+   "more": 5,
+   "ts": 1794718825,
+   "photo": "photos/KEN_QUIRINO_FRED_2026-00006310.jpg"
+  },
+  {
+   "key": "KEN_PESDAN_KARAH_2026-00006304",
+   "name": "Karah Jean Pesdan",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794718756,
+   "photo": "photos/KEN_PESDAN_KARAH_2026-00006304.jpg"
+  },
+  {
+   "key": "KEN_NELSON_CIELO_2026-00006312",
+   "name": "Cielo Jeremiah Nelson",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate After Rev/Susp of Registration",
+   "more": 4,
+   "ts": 1794718691,
+   "photo": "photos/KEN_NELSON_CIELO_2026-00006312.jpg"
+  },
+  {
+   "key": "MKE_WILLIAMS_TIERRA_604920",
+   "name": "TIERRA Layton WILLIAMS",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794718657,
+   "photo": null
+  },
+  {
+   "key": "MKE_REZAHERNANDEZ_CITALITH_648309",
+   "name": "Citalith Reza-Hernandez",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794718655,
+   "photo": null
+  },
+  {
+   "key": "KEN_JOHN_JASON_2026-00006311",
+   "name": "Jason Martin John",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 0,
+   "ts": 1794718629,
+   "photo": "photos/KEN_JOHN_JASON_2026-00006311.jpg"
+  },
+  {
    "key": "DOU_BECKER_ADAM_2026-11-14",
    "name": "Adam J Becker",
    "age": "42",
@@ -658,7 +768,7 @@
    "age": "26",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1794704251,
    "photo": "photos/KEN_CORONADOLOPEZ_AMERICA_2026-00006308.jpg"
@@ -669,7 +779,7 @@
    "age": "40",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1794704164,
    "photo": "photos/KEN_CORONADO_CRYSTAL_2026-00006307.jpg"
@@ -4501,39 +4611,6 @@
    "more": 1,
    "ts": 1794462998,
    "photo": "photos/KEN_ARRINGTON_DUANE_2026-00006266.jpg"
-  },
-  {
-   "key": "MKE_LLOYD_CLIFTON_271749",
-   "name": "Clifton Adell Lloyd",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794461251,
-   "photo": "photos/MKE_LLOYD_CLIFTON_271749.jpg"
-  },
-  {
-   "key": "MKE_DUNBAR_TREYONDES_386835",
-   "name": "Treyondes L Dunbar",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794461250,
-   "photo": "photos/MKE_DUNBAR_TREYONDES_386835.jpg"
-  },
-  {
-   "key": "MKE_HALL_TEVELL_2057547",
-   "name": "Tevell De Marcus Kevin Hall",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 5,
-   "ts": 1794459514,
-   "photo": "photos/MKE_HALL_TEVELL_2057547.jpg"
   }
  ]
 }
