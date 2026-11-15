@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T15:49:28+00:00",
+ "updated": "2026-11-15T16:12:46+00:00",
  "items": [
+  {
+   "key": "MKE_CARTER_FREDDIE_621937",
+   "name": "Freddie Lee Carter",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794758287,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREZFELICIANO_ANGEL_648319",
+   "name": "Angel Perez-Feliciano",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794758285,
+   "photo": null
+  },
+  {
+   "key": "MAR_DUNCAN_TIMOTHY_2026-11-15_6094713",
+   "name": "Timothy Allen Duncan",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794758034,
+   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15_6094713.jpg"
+  },
   {
    "key": "MKE_BLUNT_NATHANIEL_630955",
    "name": "Nathaniel D Blunt",
@@ -10,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794756456,
-   "photo": null
+   "photo": "photos/MKE_BLUNT_NATHANIEL_630955.jpg"
   },
   {
    "key": "MKE_VELAZQUEZ_SHOPHIA_648317",
@@ -21,7 +54,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794756454,
-   "photo": null
+   "photo": "photos/MKE_VELAZQUEZ_SHOPHIA_648317.jpg"
   },
   {
    "key": "MKE_PAYNE_JOHN_648318",
@@ -51,7 +84,7 @@
    "age": "51",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1794754423,
    "photo": "photos/KEN_CIBRARIO_BRYON_2026-00006320.jpg"
@@ -266,17 +299,6 @@
    "photo": "photos/KEN_GONZALEZLOPEZ_CARLOS_2026-00006317.jpg"
   },
   {
-   "key": "MKE_NEAL_GALATIA_638111",
-   "name": "Galatia Micole Neal",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794734862,
-   "photo": "photos/MKE_NEAL_GALATIA_638111.jpg"
-  },
-  {
    "key": "SUMMERLIN_JONATHAN_2026-11-15",
    "name": "Jonathan Davidbailey Summerlin",
    "age": "28",
@@ -285,17 +307,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794734825,
-   "photo": null
-  },
-  {
-   "key": "KEN_LOPEZ_CHRISTOPHER_2026-00006316",
-   "name": "Christopher Lopez",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Unreasonable and Imprudent Speed",
-   "more": 2,
-   "ts": 1794732805,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794648437,
    "photo": null
-  },
-  {
-   "key": "FDL_BERNIER_BRENDA_2026-11-14",
-   "name": "Brenda Marie Bernier",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "OWI - 2nd Offense",
-   "more": 2,
-   "ts": 1794644170,
-   "photo": "photos/FDL_BERNIER_BRENDA_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CARTER_FREDDIE_621937",
+   "name": "Freddie Lee Carter",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794758287,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREZFELICIANO_ANGEL_648319",
+   "name": "Angel Perez-Feliciano",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794758285,
+   "photo": null
+  },
+  {
+   "key": "MAR_DUNCAN_TIMOTHY_2026-11-15_6094713",
+   "name": "Timothy Allen Duncan",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794758034,
+   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15_6094713.jpg"
+  },
   {
    "key": "MKE_BLUNT_NATHANIEL_630955",
    "name": "Nathaniel D Blunt",
@@ -540,7 +573,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794756456,
-   "photo": null
+   "photo": "photos/MKE_BLUNT_NATHANIEL_630955.jpg"
   },
   {
    "key": "MKE_VELAZQUEZ_SHOPHIA_648317",
@@ -551,7 +584,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794756454,
-   "photo": null
+   "photo": "photos/MKE_VELAZQUEZ_SHOPHIA_648317.jpg"
   },
   {
    "key": "MKE_PAYNE_JOHN_648318",
@@ -581,7 +614,7 @@
    "age": "51",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1794754423,
    "photo": "photos/KEN_CIBRARIO_BRYON_2026-00006320.jpg"
@@ -4588,39 +4621,6 @@
    "charge": "Hold for Justice Sanctions",
    "more": 1,
    "ts": 1794500825,
-   "photo": null
-  },
-  {
-   "key": "MKE_WOMACK_GREGORY_129142",
-   "name": "Gregory Nmn Womack",
-   "age": "73",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794499092,
-   "photo": "photos/MKE_WOMACK_GREGORY_129142.jpg"
-  },
-  {
-   "key": "MKE_PHILLIPS_ALECEA_648257",
-   "name": "Alecea L Phillips",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794499090,
-   "photo": "photos/MKE_PHILLIPS_ALECEA_648257.jpg"
-  },
-  {
-   "key": "YANG_LONG_2026-11-12",
-   "name": "Long Yang",
-   "age": "33",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794499018,
    "photo": null
   }
  ]
