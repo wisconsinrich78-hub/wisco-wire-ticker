@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T00:27:55+00:00",
+ "updated": "2026-11-15T00:49:27+00:00",
  "items": [
   {
    "key": "MKE_BROX_OLIVIA_361561",
@@ -40,7 +40,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Capture an Intimate Representation",
+   "charge": "Stalking",
    "more": 1,
    "ts": 1794698865,
    "photo": null
@@ -95,7 +95,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
+   "charge": "Charges Pending",
    "more": 6,
    "ts": 1794697068,
    "photo": null
@@ -120,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794693469,
-   "photo": null
+   "photo": "photos/MKE_JIMENEZHERNANDEZ_GEORGE_648304.jpg"
   },
   {
    "key": "MKE_HARTFIELD_AZARI_648305",
@@ -570,7 +570,7 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Capture an Intimate Representation",
+   "charge": "Stalking",
    "more": 1,
    "ts": 1794698865,
    "photo": null
@@ -625,7 +625,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
+   "charge": "Charges Pending",
    "more": 6,
    "ts": 1794697068,
    "photo": null
@@ -650,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794693469,
-   "photo": null
+   "photo": "photos/MKE_JIMENEZHERNANDEZ_GEORGE_648304.jpg"
   },
   {
    "key": "MKE_HARTFIELD_AZARI_648305",
@@ -4644,50 +4644,6 @@
    "more": 3,
    "ts": 1794444837,
    "photo": "photos/MAR_RUSCH_ASHLEY_2026-11-11.jpg"
-  },
-  {
-   "key": "RC_CARROTHERS_SHERICA_120011076186413",
-   "name": "Sherica Rochelle Carrothers",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 2,
-   "ts": 1794444494,
-   "photo": "photos/RC_CARROTHERS_SHERICA_120011076186413.jpg"
-  },
-  {
-   "key": "MKE_QUINN_DEVILLE_414260",
-   "name": "Deville J Quinn",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Causing Mental Harm to Child",
-   "more": 1,
-   "ts": 1794443287,
-   "photo": "photos/MKE_QUINN_DEVILLE_414260.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_DERON_622545",
-   "name": "Deron Domaine Johnson",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 9,
-   "ts": 1794443285,
-   "photo": "photos/MKE_JOHNSON_DERON_622545.jpg"
-  },
-  {
-   "key": "MKE_MOYE_BREON_636056",
-   "name": "Breon Khalil Moye",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 4,
-   "ts": 1794443283,
-   "photo": "photos/MKE_MOYE_BREON_636056.jpg"
   }
  ]
 }
