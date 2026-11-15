@@ -1,16 +1,49 @@
 {
- "updated": "2026-11-15T18:49:39+00:00",
+ "updated": "2026-11-15T19:49:33+00:00",
  "items": [
+  {
+   "key": "FDL_AMONS_ELIJAH_2026-11-15",
+   "name": "Elijah Laney Amons",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1794770165,
+   "photo": "photos/FDL_AMONS_ELIJAH_2026-11-15.jpg"
+  },
+  {
+   "key": "MKE_JONES_SHANTIA_539864",
+   "name": "Shantia Nicole Jones",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794769081,
+   "photo": null
+  },
+  {
+   "key": "MKE_SYKES_SAVION_648320",
+   "name": "Savion Sykes",
+   "age": "16",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794769079,
+   "photo": "photos/MKE_SYKES_SAVION_648320.jpg"
+  },
   {
    "key": "MKE_SMITH_BRITTANIE_518127",
    "name": "Brittanie Marie Smith",
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of Narcotic Drugs",
    "more": 0,
    "ts": 1794767454,
-   "photo": null
+   "photo": "photos/MKE_SMITH_BRITTANIE_518127.jpg"
   },
   {
    "key": "TISCHER_ROBERT_2026-11-15",
@@ -76,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794758285,
-   "photo": null
+   "photo": "photos/MKE_PEREZFELICIANO_ANGEL_648319.jpg"
   },
   {
    "key": "MAR_DUNCAN_TIMOTHY_2026-11-15_6094713",
@@ -231,28 +264,6 @@
    "more": 0,
    "ts": 1794743607,
    "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15.jpg"
-  },
-  {
-   "key": "KEN_MORRIS_SHELBY_2026-00006319",
-   "name": "SHELBY Junior MORRIS",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794743593,
-   "photo": "photos/KEN_MORRIS_SHELBY_2026-00006319.jpg"
-  },
-  {
-   "key": "MKE_GREEN_KAMAURI_623548",
-   "name": "Kamauri Larnell Green",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794742042,
-   "photo": "photos/MKE_GREEN_KAMAURI_623548.jpg"
   },
   {
    "key": "DOU_PAJTASH_KAYLA_2026-11-15",
@@ -517,30 +528,52 @@
    "more": 2,
    "ts": 1794655005,
    "photo": "photos/DOU_AMYS_ZACHARY_2026-11-13.jpg"
-  },
-  {
-   "key": "TREM_ENERSEN_CHARLES_4846",
-   "name": "Charles Gregory Enersen",
-   "age": "58",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794653232,
-   "photo": "photos/TREM_ENERSEN_CHARLES_4846.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_AMONS_ELIJAH_2026-11-15",
+   "name": "Elijah Laney Amons",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 3,
+   "ts": 1794770165,
+   "photo": "photos/FDL_AMONS_ELIJAH_2026-11-15.jpg"
+  },
+  {
+   "key": "MKE_JONES_SHANTIA_539864",
+   "name": "Shantia Nicole Jones",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794769081,
+   "photo": null
+  },
+  {
+   "key": "MKE_SYKES_SAVION_648320",
+   "name": "Savion Sykes",
+   "age": "16",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794769079,
+   "photo": "photos/MKE_SYKES_SAVION_648320.jpg"
+  },
   {
    "key": "MKE_SMITH_BRITTANIE_518127",
    "name": "Brittanie Marie Smith",
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of Narcotic Drugs",
    "more": 0,
    "ts": 1794767454,
-   "photo": null
+   "photo": "photos/MKE_SMITH_BRITTANIE_518127.jpg"
   },
   {
    "key": "TISCHER_ROBERT_2026-11-15",
@@ -606,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794758285,
-   "photo": null
+   "photo": "photos/MKE_PEREZFELICIANO_ANGEL_648319.jpg"
   },
   {
    "key": "MAR_DUNCAN_TIMOTHY_2026-11-15_6094713",
@@ -4347,72 +4380,6 @@
    "more": 0,
    "ts": 1794513287,
    "photo": "photos/KEN_FLETCHER_STEPHON_2026-00006272.jpg"
-  },
-  {
-   "key": "MAR_HENDRON_KAILYN_2026-11-12_5121801",
-   "name": "Kailyn Alyissa Hendron",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt of Court-Disobey Order",
-   "more": 0,
-   "ts": 1794512928,
-   "photo": "photos/MAR_HENDRON_KAILYN_2026-11-12_5121801.jpg"
-  },
-  {
-   "key": "RC_KURIAN_IVAN_120011076214562",
-   "name": "Ivan Kurian",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794512882,
-   "photo": null
-  },
-  {
-   "key": "RC_MCKAY_MARVIN_120011076215971",
-   "name": "Marvin Glenn Mckay",
-   "age": "63",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794512880,
-   "photo": "photos/RC_MCKAY_MARVIN_120011076215971.jpg"
-  },
-  {
-   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-12_91318",
-   "name": "Shawneen Marie Hulstrom",
-   "age": "48",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794512879,
-   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-12_91318.jpg"
-  },
-  {
-   "key": "RC_WHITE_TAUREAN_120011076216144",
-   "name": "Taurean Lovell White",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794512877,
-   "photo": "photos/RC_WHITE_TAUREAN_120011076216144.jpg"
-  },
-  {
-   "key": "CARTER_PRINCE_2026-11-12",
-   "name": "Prince A Carter",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794512827,
-   "photo": "photos/CARTER_PRINCE_2026-11-12.jpg"
   }
  ]
 }
