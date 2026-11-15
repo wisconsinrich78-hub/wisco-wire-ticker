@@ -1,14 +1,25 @@
 {
- "updated": "2026-11-15T13:49:27+00:00",
+ "updated": "2026-11-15T14:01:12+00:00",
  "items": [
+  {
+   "key": "MKE_HARRISDIAZ_IMMANUEL_648314",
+   "name": "Immanuel Harris-Diaz",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794751048,
+   "photo": null
+  },
   {
    "key": "MKE_MARTINEZPEREZ_ELIEZER_525871",
    "name": "Eliezer Martinez-Perez",
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1794747446,
    "photo": null
   },
@@ -54,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794742042,
-   "photo": null
+   "photo": "photos/MKE_GREEN_KAMAURI_623548.jpg"
   },
   {
    "key": "MKE_GONZALEZBAROJAS_ALEJANDRO_648313",
@@ -150,10 +161,10 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Open Intoxicants in Mv-Driver",
+   "more": 3,
    "ts": 1794736409,
-   "photo": null
+   "photo": "photos/KEN_GONZALEZLOPEZ_CARLOS_2026-00006317.jpg"
   },
   {
    "key": "MKE_NEAL_GALATIA_638111",
@@ -308,17 +319,6 @@
    "more": 0,
    "ts": 1794725298,
    "photo": "photos/RC_ROBINSON_LAVELLE_120011076286171.jpg"
-  },
-  {
-   "key": "MKE_MYERS_JOSEPH_2009652",
-   "name": "Joseph William Myers",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794724057,
-   "photo": "photos/MKE_MYERS_JOSEPH_2009652.jpg"
   },
   {
    "key": "KLEIN_CHANCEY_2026-11-15",
@@ -532,13 +532,24 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HARRISDIAZ_IMMANUEL_648314",
+   "name": "Immanuel Harris-Diaz",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794751048,
+   "photo": null
+  },
+  {
    "key": "MKE_MARTINEZPEREZ_ELIEZER_525871",
    "name": "Eliezer Martinez-Perez",
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1794747446,
    "photo": null
   },
@@ -584,7 +595,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794742042,
-   "photo": null
+   "photo": "photos/MKE_GREEN_KAMAURI_623548.jpg"
   },
   {
    "key": "MKE_GONZALEZBAROJAS_ALEJANDRO_648313",
@@ -680,10 +691,10 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Open Intoxicants in Mv-Driver",
+   "more": 3,
    "ts": 1794736409,
-   "photo": null
+   "photo": "photos/KEN_GONZALEZLOPEZ_CARLOS_2026-00006317.jpg"
   },
   {
    "key": "MKE_NEAL_GALATIA_638111",
@@ -4589,17 +4600,6 @@
    "more": 0,
    "ts": 1794493663,
    "photo": "photos/MKE_HERNANDEZ_ELADIO_626874.jpg"
-  },
-  {
-   "key": "MKE_GREEN_WILLIAM_512960",
-   "name": "William D Green",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 11,
-   "ts": 1794491861,
-   "photo": "photos/MKE_GREEN_WILLIAM_512960.jpg"
   }
  ]
 }
