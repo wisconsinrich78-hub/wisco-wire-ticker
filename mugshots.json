@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T09:49:29+00:00",
+ "updated": "2026-11-15T10:28:09+00:00",
  "items": [
+  {
+   "key": "DOU_ANDERSON_LANE_2026-11-15",
+   "name": "Lane A Anderson",
+   "age": "30",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Warrant Arrest",
+   "more": 1,
+   "ts": 1794737810,
+   "photo": null
+  },
+  {
+   "key": "KEN_JUAREZGALINDO_FROILAN_2026-00006318",
+   "name": "Froilan Juarez-Galindo",
+   "age": "53",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794736445,
+   "photo": null
+  },
+  {
+   "key": "KEN_GONZALEZLOPEZ_CARLOS_2026-00006317",
+   "name": "Carlos Daniel Gonzalez-Lopez",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794736409,
+   "photo": null
+  },
   {
    "key": "MKE_NEAL_GALATIA_638111",
    "name": "Galatia Micole Neal",
@@ -29,8 +62,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Unreasonable and Imprudent Speed",
+   "more": 2,
    "ts": 1794732805,
    "photo": null
   },
@@ -231,28 +264,6 @@
    "more": 2,
    "ts": 1794720445,
    "photo": "photos/MKE_ARAUZPONCE_LUIS_648311.jpg"
-  },
-  {
-   "key": "KEN_TOMASZEWSKI_JASON_2026-00006313",
-   "name": "Jason Adam Tomaszewski",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794718922,
-   "photo": "photos/KEN_TOMASZEWSKI_JASON_2026-00006313.jpg"
-  },
-  {
-   "key": "KEN_QUIRINO_FRED_2026-00006310",
-   "name": "Fred Joseph Quirino",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Non-Registration of Vehicle",
-   "more": 5,
-   "ts": 1794718825,
-   "photo": "photos/KEN_QUIRINO_FRED_2026-00006310.jpg"
   },
   {
    "key": "DOU_BECKER_ADAM_2026-11-14",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794624868,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13_13412.jpg"
-  },
-  {
-   "key": "MAR_COLEMAN_RONALD_2026-11-13",
-   "name": "Ronald James Coleman",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794624818,
-   "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_ANDERSON_LANE_2026-11-15",
+   "name": "Lane A Anderson",
+   "age": "30",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Warrant Arrest",
+   "more": 1,
+   "ts": 1794737810,
+   "photo": null
+  },
+  {
+   "key": "KEN_JUAREZGALINDO_FROILAN_2026-00006318",
+   "name": "Froilan Juarez-Galindo",
+   "age": "53",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794736445,
+   "photo": null
+  },
+  {
+   "key": "KEN_GONZALEZLOPEZ_CARLOS_2026-00006317",
+   "name": "Carlos Daniel Gonzalez-Lopez",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794736409,
+   "photo": null
+  },
   {
    "key": "MKE_NEAL_GALATIA_638111",
    "name": "Galatia Micole Neal",
@@ -559,8 +592,8 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Unreasonable and Imprudent Speed",
+   "more": 2,
    "ts": 1794732805,
    "photo": null
   },
@@ -4545,28 +4578,6 @@
    "more": 0,
    "ts": 1794480461,
    "photo": null
-  },
-  {
-   "key": "MKE_PEGUES_DAMION_504266",
-   "name": "Damion Raynard Pegues",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794477447,
-   "photo": "photos/MKE_PEGUES_DAMION_504266.jpg"
-  },
-  {
-   "key": "MKE_SIMMONS_IYANA_648255",
-   "name": "Iyana Ali Simmons",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794477445,
-   "photo": "photos/MKE_SIMMONS_IYANA_648255.jpg"
   }
  ]
 }
