@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T23:37:19+00:00",
+ "updated": "2026-11-15T23:49:32+00:00",
  "items": [
+  {
+   "key": "RC_FREEMAN_RICHARD_120011076300176",
+   "name": "Richard Freeman",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Misdemeanor Battery",
+   "more": 1,
+   "ts": 1794786489,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIS_RENNISHA_611712",
    "name": "Rennisha Renee Willis",
@@ -242,17 +253,6 @@
    "more": 2,
    "ts": 1794758287,
    "photo": "photos/MKE_CARTER_FREDDIE_621937.jpg"
-  },
-  {
-   "key": "MKE_PEREZFELICIANO_ANGEL_648319",
-   "name": "Angel Perez-Feliciano",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794758285,
-   "photo": "photos/MKE_PEREZFELICIANO_ANGEL_648319.jpg"
   },
   {
    "key": "MAR_DUNCAN_TIMOTHY_2026-11-15_6094713",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FREEMAN_RICHARD_120011076300176",
+   "name": "Richard Freeman",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Misdemeanor Battery",
+   "more": 1,
+   "ts": 1794786489,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIS_RENNISHA_611712",
    "name": "Rennisha Renee Willis",
