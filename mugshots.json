@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-15T14:49:28+00:00",
+ "updated": "2026-11-15T15:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_BLUNT_NATHANIEL_630955",
+   "name": "Nathaniel D Blunt",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794756456,
+   "photo": null
+  },
+  {
+   "key": "MKE_VELAZQUEZ_SHOPHIA_648317",
+   "name": "Shophia Velazquez",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794756454,
+   "photo": null
+  },
+  {
+   "key": "MKE_PAYNE_JOHN_648318",
+   "name": "John Marcus Payne",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794756453,
+   "photo": null
+  },
+  {
+   "key": "FDL_TOWNER_NICOLE_2026-11-15",
+   "name": "Nicole Chantrall Towner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "FAILURE TO APPEAR / WARRANTS (x2)",
+   "more": 1,
+   "ts": 1794755798,
+   "photo": "photos/FDL_TOWNER_NICOLE_2026-11-15.jpg"
+  },
+  {
+   "key": "KEN_CIBRARIO_BRYON_2026-00006320",
+   "name": "Bryon Paul Cibrario",
+   "age": "51",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794754423,
+   "photo": "photos/KEN_CIBRARIO_BRYON_2026-00006320.jpg"
+  },
+  {
+   "key": "MAR_JOHNSON_BRIAN_2026-11-15",
+   "name": "Brian David Johnson",
+   "age": "58",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794754401,
+   "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15.jpg"
+  },
   {
    "key": "MKE_SUTTLE_TEAIRRY_397976",
    "name": "Teairry Desmond Suttle",
@@ -10,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794752883,
-   "photo": null
+   "photo": "photos/MKE_SUTTLE_TEAIRRY_397976.jpg"
   },
   {
    "key": "MKE_MCLAURIN_FREDDIE_648315",
@@ -21,7 +87,7 @@
    "charge": "Refusing a Global Positioning System Tracking Device",
    "more": 0,
    "ts": 1794752879,
-   "photo": null
+   "photo": "photos/MKE_MCLAURIN_FREDDIE_648315.jpg"
   },
   {
    "key": "MKE_TURNER_KENNETH_648316",
@@ -43,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794751048,
-   "photo": null
+   "photo": "photos/MKE_HARRISDIAZ_IMMANUEL_648314.jpg"
   },
   {
    "key": "MKE_MARTINEZPEREZ_ELIEZER_525871",
@@ -233,17 +299,6 @@
    "photo": null
   },
   {
-   "key": "RC_STARKS_JARVIS_120011076287841",
-   "name": "Jarvis Starks",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession or Attempted Possession of a Controlled Substances within\u2026",
-   "more": 3,
-   "ts": 1794732496,
-   "photo": "photos/RC_STARKS_JARVIS_120011076287841.jpg"
-  },
-  {
    "key": "SCHULZE_JASON_2026-11-15",
    "name": "Jason Lewis Schulze",
    "age": "27",
@@ -253,39 +308,6 @@
    "more": 0,
    "ts": 1794732424,
    "photo": null
-  },
-  {
-   "key": "MKE_CLARKE_CALVIN_179346",
-   "name": "Calvin Sylvester Clarke",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794731247,
-   "photo": "photos/MKE_CLARKE_CALVIN_179346.jpg"
-  },
-  {
-   "key": "MKE_HANDY_JAYLEN_515880",
-   "name": "Jaylen Handy",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794729468,
-   "photo": "photos/MKE_HANDY_JAYLEN_515880.jpg"
-  },
-  {
-   "key": "MKE_SANCHEZ_ANTHONY_648312",
-   "name": "Anthony John Sanchez",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794729464,
-   "photo": "photos/MKE_SANCHEZ_ANTHONY_648312.jpg"
   },
   {
    "key": "EDELL_THEODORA_2026-11-15",
@@ -506,31 +528,75 @@
    "more": 2,
    "ts": 1794644170,
    "photo": "photos/FDL_BERNIER_BRENDA_2026-11-14.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "FDL_SINGH_RAO_2026-11-14",
-   "name": "Rao B Singh",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1794640592,
+   "key": "MKE_BLUNT_NATHANIEL_630955",
+   "name": "Nathaniel D Blunt",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794756456,
    "photo": null
   },
   {
-   "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
-   "name": "Ronald James Coleman",
-   "age": "57",
+   "key": "MKE_VELAZQUEZ_SHOPHIA_648317",
+   "name": "Shophia Velazquez",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794756454,
+   "photo": null
+  },
+  {
+   "key": "MKE_PAYNE_JOHN_648318",
+   "name": "John Marcus Payne",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794756453,
+   "photo": null
+  },
+  {
+   "key": "FDL_TOWNER_NICOLE_2026-11-15",
+   "name": "Nicole Chantrall Towner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "FAILURE TO APPEAR / WARRANTS (x2)",
+   "more": 1,
+   "ts": 1794755798,
+   "photo": "photos/FDL_TOWNER_NICOLE_2026-11-15.jpg"
+  },
+  {
+   "key": "KEN_CIBRARIO_BRYON_2026-00006320",
+   "name": "Bryon Paul Cibrario",
+   "age": "51",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794754423,
+   "photo": "photos/KEN_CIBRARIO_BRYON_2026-00006320.jpg"
+  },
+  {
+   "key": "MAR_JOHNSON_BRIAN_2026-11-15",
+   "name": "Brian David Johnson",
+   "age": "58",
    "county": "Marathon County",
    "region": "northwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1794628405,
-   "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13_10507.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794754401,
+   "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15.jpg"
+  },
   {
    "key": "MKE_SUTTLE_TEAIRRY_397976",
    "name": "Teairry Desmond Suttle",
@@ -540,7 +606,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794752883,
-   "photo": null
+   "photo": "photos/MKE_SUTTLE_TEAIRRY_397976.jpg"
   },
   {
    "key": "MKE_MCLAURIN_FREDDIE_648315",
@@ -551,7 +617,7 @@
    "charge": "Refusing a Global Positioning System Tracking Device",
    "more": 0,
    "ts": 1794752879,
-   "photo": null
+   "photo": "photos/MKE_MCLAURIN_FREDDIE_648315.jpg"
   },
   {
    "key": "MKE_TURNER_KENNETH_648316",
@@ -573,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794751048,
-   "photo": null
+   "photo": "photos/MKE_HARRISDIAZ_IMMANUEL_648314.jpg"
   },
   {
    "key": "MKE_MARTINEZPEREZ_ELIEZER_525871",
@@ -4555,61 +4621,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794499018,
-   "photo": null
-  },
-  {
-   "key": "STEIGER_JEREMIAH_2026-11-12",
-   "name": "Jeremiah S Steiger",
-   "age": "48",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Revoked",
-   "more": 0,
-   "ts": 1794498430,
-   "photo": null
-  },
-  {
-   "key": "MKE_PHIPPS_CHARRALES_297695",
-   "name": "Charrales R Phipps",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 14,
-   "ts": 1794497271,
-   "photo": "photos/MKE_PHIPPS_CHARRALES_297695.jpg"
-  },
-  {
-   "key": "MKE_HOLMON_MONTIQUE_618949",
-   "name": "Montique Holmon",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1794497270,
-   "photo": "photos/MKE_HOLMON_MONTIQUE_618949.jpg"
-  },
-  {
-   "key": "MKE_GALLEGOS_JOSEPH_630690",
-   "name": "Joseph Nicholas Gallegos",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794497268,
-   "photo": "photos/MKE_GALLEGOS_JOSEPH_630690.jpg"
-  },
-  {
-   "key": "JOSTAD_DEVONDRE_2026-11-12",
-   "name": "Devondre L Jostad",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Revoked",
-   "more": 0,
-   "ts": 1794497229,
    "photo": null
   }
  ]
