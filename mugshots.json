@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T08:05:02+00:00",
+ "updated": "2026-11-15T08:28:11+00:00",
  "items": [
+  {
+   "key": "MKE_CLARKE_CALVIN_179346",
+   "name": "Calvin Sylvester Clarke",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794731247,
+   "photo": null
+  },
   {
    "key": "MKE_HANDY_JAYLEN_515880",
    "name": "Jaylen Handy",
@@ -220,17 +231,6 @@
    "more": 4,
    "ts": 1794718657,
    "photo": "photos/MKE_WILLIAMS_TIERRA_604920.jpg"
-  },
-  {
-   "key": "MKE_REZAHERNANDEZ_CITALITH_648309",
-   "name": "Citalith Reza-Hernandez",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794718655,
-   "photo": "photos/MKE_REZAHERNANDEZ_CITALITH_648309.jpg"
   },
   {
    "key": "DOU_BECKER_ADAM_2026-11-14",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CLARKE_CALVIN_179346",
+   "name": "Calvin Sylvester Clarke",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794731247,
+   "photo": null
+  },
   {
    "key": "MKE_HANDY_JAYLEN_515880",
    "name": "Jaylen Handy",
@@ -4578,61 +4589,6 @@
    "more": 0,
    "ts": 1794473267,
    "photo": "photos/RC_FOXCROFT_DREW_120011076196320.jpg"
-  },
-  {
-   "key": "MKE_GALICIAGONZALEZ_ZOILA_648254",
-   "name": "Zoila Galicia Gonzalez",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794472047,
-   "photo": "photos/MKE_GALICIAGONZALEZ_ZOILA_648254.jpg"
-  },
-  {
-   "key": "KEN_MURRAY_ASHLEY_2026-00006268",
-   "name": "Ashley Elizabeth Murray",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out of County",
-   "more": 1,
-   "ts": 1794471598,
-   "photo": "photos/KEN_MURRAY_ASHLEY_2026-00006268.jpg"
-  },
-  {
-   "key": "DOU_GREER_CHRISTINA_2026-11-12",
-   "name": "Christina M Greer",
-   "age": "39",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 0,
-   "ts": 1794471405,
-   "photo": "photos/DOU_GREER_CHRISTINA_2026-11-12.jpg"
-  },
-  {
-   "key": "FDL_KOEHLER_KARL_2026-11-12",
-   "name": "Karl G Koehler",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794471379,
-   "photo": "photos/FDL_KOEHLER_KARL_2026-11-12.jpg"
-  },
-  {
-   "key": "FDL_BROWN_KITANNA_2026-11-12",
-   "name": "Kitanna Michelle Brown",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "OWI - W/Minor Child in Veh - 1st Offense",
-   "more": 3,
-   "ts": 1794471363,
-   "photo": "photos/FDL_BROWN_KITANNA_2026-11-12.jpg"
   }
  ]
 }
