@@ -1,14 +1,47 @@
 {
- "updated": "2026-11-15T11:49:24+00:00",
+ "updated": "2026-11-15T12:28:27+00:00",
  "items": [
+  {
+   "key": "FDL_WILLIAMS_ANTWION_2026-11-15",
+   "name": "Antwion Lashann Williams",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 1,
+   "ts": 1794745010,
+   "photo": "photos/FDL_WILLIAMS_ANTWION_2026-11-15.jpg"
+  },
+  {
+   "key": "MAR_DUNCAN_TIMOTHY_2026-11-15",
+   "name": "Timothy Allen Duncan",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794743607,
+   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15.jpg"
+  },
+  {
+   "key": "KEN_MORRIS_SHELBY_2026-00006319",
+   "name": "SHELBY Junior MORRIS",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794743593,
+   "photo": null
+  },
   {
    "key": "MKE_GREEN_KAMAURI_623548",
    "name": "Kamauri Larnell Green",
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1794742042,
    "photo": null
   },
@@ -95,8 +128,8 @@
    "age": "53",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Unsafe Lane Deviation",
+   "more": 3,
    "ts": 1794736445,
    "photo": null
   },
@@ -310,17 +343,6 @@
    "photo": null
   },
   {
-   "key": "MKE_HARDWICK_DWAYNE_297796",
-   "name": "Dwayne Brandon Hardwick",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794720449,
-   "photo": "photos/MKE_HARDWICK_DWAYNE_297796.jpg"
-  },
-  {
    "key": "DOU_BECKER_ADAM_2026-11-14",
    "name": "Adam J Becker",
    "age": "42",
@@ -506,39 +528,50 @@
    "more": 0,
    "ts": 1794628405,
    "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13_10507.jpg"
-  },
-  {
-   "key": "MAR_GLENN_DIAMOND_2026-11-12_16201003",
-   "name": "Diamond Deangelo Glenn",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794624989,
-   "photo": "photos/MAR_GLENN_DIAMOND_2026-11-12_16201003.jpg"
-  },
-  {
-   "key": "MAR_BROOME_ERIN_2026-11-12_1607010",
-   "name": "Erin Lynn Broome",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 2,
-   "ts": 1794624948,
-   "photo": "photos/MAR_BROOME_ERIN_2026-11-12_1607010.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_WILLIAMS_ANTWION_2026-11-15",
+   "name": "Antwion Lashann Williams",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 1,
+   "ts": 1794745010,
+   "photo": "photos/FDL_WILLIAMS_ANTWION_2026-11-15.jpg"
+  },
+  {
+   "key": "MAR_DUNCAN_TIMOTHY_2026-11-15",
+   "name": "Timothy Allen Duncan",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794743607,
+   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15.jpg"
+  },
+  {
+   "key": "KEN_MORRIS_SHELBY_2026-00006319",
+   "name": "SHELBY Junior MORRIS",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794743593,
+   "photo": null
+  },
   {
    "key": "MKE_GREEN_KAMAURI_623548",
    "name": "Kamauri Larnell Green",
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1794742042,
    "photo": null
   },
@@ -625,8 +658,8 @@
    "age": "53",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Unsafe Lane Deviation",
+   "more": 3,
    "ts": 1794736445,
    "photo": null
   },
