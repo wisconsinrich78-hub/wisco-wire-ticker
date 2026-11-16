@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-16T18:11:46+00:00",
+ "updated": "2026-11-16T18:40:30+00:00",
  "items": [
+  {
+   "key": "MKE_RULLANLOPEZ_JEFFREY_414111",
+   "name": "Jeffrey Oneil Rullan-Lopez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
+   "more": 14,
+   "ts": 1794853667,
+   "photo": null
+  },
+  {
+   "key": "MKE_OFFICE_TRAVION_623855",
+   "name": "Travion Elijah Office",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794853665,
+   "photo": null
+  },
+  {
+   "key": "MKE_WOJNAROWICZ_VINCENT_648336",
+   "name": "Vincent James Wojnarowicz",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794853664,
+   "photo": null
+  },
+  {
+   "key": "FDL_PIRTLE_MARCUS_2026-11-16",
+   "name": "Marcus Lakeith Pirtle",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794852987,
+   "photo": "photos/FDL_PIRTLE_MARCUS_2026-11-16.jpg"
+  },
   {
    "key": "KEN_HIGGINBOTTOM_OSCAR_2026-00006336",
    "name": "Oscar Oneal Higginbottom",
@@ -198,39 +242,6 @@
    "more": 0,
    "ts": 1794844098,
    "photo": "photos/RC_SANDERS_CHARLES_120011076317965.jpg"
-  },
-  {
-   "key": "RC_GARCIA_BENJAMIN_120011076318392",
-   "name": "Benjamin Lucas Garcia",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Enforce The Duty Of Child Support Or Maintenance",
-   "more": 0,
-   "ts": 1794844095,
-   "photo": "photos/RC_GARCIA_BENJAMIN_120011076318392.jpg"
-  },
-  {
-   "key": "RC_RABIN_DAVID_120011076318718",
-   "name": "David Rabin",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794844093,
-   "photo": null
-  },
-  {
-   "key": "MKE_DILWORTH_MARION_244681",
-   "name": "Marion Devaughn Dilworth",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794841334,
-   "photo": null
   },
   {
    "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
@@ -517,20 +528,53 @@
    "more": 1,
    "ts": 1794745010,
    "photo": "photos/FDL_WILLIAMS_ANTWION_2026-11-15.jpg"
-  },
-  {
-   "key": "THOMPSON_PASSION_2026-11-15",
-   "name": "Passion R Thompson",
-   "age": "43",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794740217,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_RULLANLOPEZ_JEFFREY_414111",
+   "name": "Jeffrey Oneil Rullan-Lopez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
+   "more": 14,
+   "ts": 1794853667,
+   "photo": null
+  },
+  {
+   "key": "MKE_OFFICE_TRAVION_623855",
+   "name": "Travion Elijah Office",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794853665,
+   "photo": null
+  },
+  {
+   "key": "MKE_WOJNAROWICZ_VINCENT_648336",
+   "name": "Vincent James Wojnarowicz",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794853664,
+   "photo": null
+  },
+  {
+   "key": "FDL_PIRTLE_MARCUS_2026-11-16",
+   "name": "Marcus Lakeith Pirtle",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794852987,
+   "photo": "photos/FDL_PIRTLE_MARCUS_2026-11-16.jpg"
+  },
   {
    "key": "KEN_HIGGINBOTTOM_OSCAR_2026-00006336",
    "name": "Oscar Oneal Higginbottom",
@@ -4468,83 +4512,6 @@
    "more": 0,
    "ts": 1794595538,
    "photo": "photos/KEN_ACOSTA_ARTURO_2026-00006285.jpg"
-  },
-  {
-   "key": "MAR_SCHOEPKE_GARRET_2026-11-13_5345801",
-   "name": "Garret Ray Schoepke",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794595187,
-   "photo": "photos/MAR_SCHOEPKE_GARRET_2026-11-13_5345801.jpg"
-  },
-  {
-   "key": "MKE_HUNTER_TRISTAN_357178",
-   "name": "Tristan A Hunter",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794594477,
-   "photo": "photos/MKE_HUNTER_TRISTAN_357178.jpg"
-  },
-  {
-   "key": "MKE_PERRY_RICKY_370468",
-   "name": "Ricky Lanier Perry",
-   "age": "61",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794594475,
-   "photo": "photos/MKE_PERRY_RICKY_370468.jpg"
-  },
-  {
-   "key": "MKE_ALEXANDER_CARLTON_648276",
-   "name": "Carlton Renaul Alexander",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794594473,
-   "photo": "photos/MKE_ALEXANDER_CARLTON_648276.jpg"
-  },
-  {
-   "key": "MKE_PEREZ_ALEX_648277",
-   "name": "Alex Yadiel Perez",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794594471,
-   "photo": "photos/MKE_PEREZ_ALEX_648277.jpg"
-  },
-  {
-   "key": "PICKETT_RAINA_2026-11-13",
-   "name": "Raina J Pickett",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794594449,
-   "photo": null
-  },
-  {
-   "key": "PICKETT_RAINA_2026-11-13_PHOTO_UPDATE",
-   "name": "Raina J Pickett",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794594449,
-   "photo": "photos/PICKETT_RAINA_2026-11-13_PHOTO_UPDATE.jpg"
   }
  ]
 }
