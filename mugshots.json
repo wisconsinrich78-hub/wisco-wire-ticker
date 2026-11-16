@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T11:49:39+00:00",
+ "updated": "2026-11-16T12:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_SPIKES_SHAKIRA_648332",
+   "name": "Shakira Lea Spikes",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794832058,
+   "photo": null
+  },
   {
    "key": "MKE_RIDLEY_BRIAN_648331",
    "name": "Brian A Ridley",
@@ -10,7 +21,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794828454,
-   "photo": null
+   "photo": "photos/MKE_RIDLEY_BRIAN_648331.jpg"
   },
   {
    "key": "MKE_NOVY_LYLE_648330",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1794808120,
    "photo": null
-  },
-  {
-   "key": "MKE_GARCIA_ROBERTO_287287",
-   "name": "Roberto Garcia",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1794806869,
-   "photo": "photos/MKE_GARCIA_ROBERTO_287287.jpg"
   },
   {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SPIKES_SHAKIRA_648332",
+   "name": "Shakira Lea Spikes",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794832058,
+   "photo": null
+  },
+  {
    "key": "MKE_RIDLEY_BRIAN_648331",
    "name": "Brian A Ridley",
    "age": "42",
@@ -540,7 +551,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794828454,
-   "photo": null
+   "photo": "photos/MKE_RIDLEY_BRIAN_648331.jpg"
   },
   {
    "key": "MKE_NOVY_LYLE_648330",
@@ -4226,39 +4237,6 @@
    "more": 1,
    "ts": 1794574410,
    "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13.jpg"
-  },
-  {
-   "key": "MKE_KYLES_JAYMONIKA_603895",
-   "name": "Jaymonika L Kyles",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794572883,
-   "photo": "photos/MKE_KYLES_JAYMONIKA_603895.jpg"
-  },
-  {
-   "key": "MKE_SIVILAYVONGPHAKDY_ETHAN_648271",
-   "name": "Ethan P Sivilay-Vongphakdy",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794572881,
-   "photo": "photos/MKE_SIVILAYVONGPHAKDY_ETHAN_648271.jpg"
-  },
-  {
-   "key": "MKE_ROSADOSOTO_MELANY_648272",
-   "name": "Melany Rosado Soto",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794572880,
-   "photo": "photos/MKE_ROSADOSOTO_MELANY_648272.jpg"
   }
  ]
 }
