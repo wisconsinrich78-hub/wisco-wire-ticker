@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T14:29:21+00:00",
+ "updated": "2026-11-16T14:49:44+00:00",
  "items": [
+  {
+   "key": "RC_BELL_MICHAEL_120011076314334",
+   "name": "Michael Terrell Bell",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Forfeiture)",
+   "more": 0,
+   "ts": 1794840507,
+   "photo": "photos/RC_BELL_MICHAEL_120011076314334.jpg"
+  },
   {
    "key": "MKE_DIAZ_MIGUEL_613333",
    "name": "Miguel Angel Diaz",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1794823056,
    "photo": "photos/MKE_EVANS_DANTE_388406.jpg"
-  },
-  {
-   "key": "RC_GREEN_JAMES_120011076310065",
-   "name": "James Green",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794822501,
-   "photo": "photos/RC_GREEN_JAMES_120011076310065.jpg"
   },
   {
    "key": "MAR_THUNDERCLOUD_ROGER_2026-11-16",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BELL_MICHAEL_120011076314334",
+   "name": "Michael Terrell Bell",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Forfeiture)",
+   "more": 0,
+   "ts": 1794840507,
+   "photo": "photos/RC_BELL_MICHAEL_120011076314334.jpg"
+  },
   {
    "key": "MKE_DIAZ_MIGUEL_613333",
    "name": "Miguel Angel Diaz",
@@ -4358,17 +4369,6 @@
    "more": 0,
    "ts": 1794581611,
    "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13.jpg"
-  },
-  {
-   "key": "RC_MATTA_RAVEN_120011076239333",
-   "name": "Raven S Matta",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "OWI (2nd W/Pass < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794581298,
-   "photo": "photos/RC_MATTA_RAVEN_120011076239333.jpg"
   }
  ]
 }
