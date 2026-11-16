@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-16T22:49:33+00:00",
+ "updated": "2026-11-16T23:35:13+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_ANDRE_299315",
+   "name": "Andre Maurice Smith",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1794871702,
+   "photo": null
+  },
+  {
+   "key": "MKE_WACHOWIAK_SCOTT_400145",
+   "name": "Scott Jacob Wachowiak",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1794871698,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_CAMREN_401600",
+   "name": "Camren L Davis",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Injury",
+   "more": 7,
+   "ts": 1794871694,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTINEZ_SAMUEL_648343",
+   "name": "Samuel Elijah Martinez",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794871691,
+   "photo": null
+  },
+  {
+   "key": "DOU_METERAUD_AMANDA_2026-11-16",
+   "name": "Amanda D Meteraud",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Bail Jumping",
+   "more": 4,
+   "ts": 1794871250,
+   "photo": "photos/DOU_METERAUD_AMANDA_2026-11-16.jpg"
+  },
+  {
+   "key": "FDL_STOFFEL_JAI_2026-11-16",
+   "name": "Jai Jacob Stoffel",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Knowingly Violate a Domestic Abuse Injunction",
+   "more": 2,
+   "ts": 1794871022,
+   "photo": "photos/FDL_STOFFEL_JAI_2026-11-16.jpg"
+  },
+  {
+   "key": "MKE_BECKER_ROBERT_618876",
+   "name": "Robert Anthony Becker",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 5,
+   "ts": 1794869863,
+   "photo": null
+  },
   {
    "key": "RC_ROBINSON_ROBERT_120011076335086",
    "name": "Robert Ivan Robinson",
@@ -21,7 +98,7 @@
    "charge": "Possess Drug Paraphernalia",
    "more": 4,
    "ts": 1794869235,
-   "photo": null
+   "photo": "photos/LANG_CHRISTOPHER_2026-11-16.jpg"
   },
   {
    "key": "DOU_SANDERS_JON_2026-11-16",
@@ -54,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794866304,
-   "photo": null
+   "photo": "photos/MKE_SPEARMAN_WALTER_648342.jpg"
   },
   {
    "key": "MKE_BEAULIEU_JACOB_2051597",
@@ -209,61 +286,6 @@
    "more": 0,
    "ts": 1794862108,
    "photo": "photos/RC_GARCIALOPEZ_CRUZ_120011076331265.jpg"
-  },
-  {
-   "key": "MKE_SMITH_JARED_364168",
-   "name": "Jared J Smith",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794860859,
-   "photo": null
-  },
-  {
-   "key": "MKE_GREEN_ANTHONY_648339",
-   "name": "Anthony M Green",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794860856,
-   "photo": null
-  },
-  {
-   "key": "KEN_TURNER_JAMIE_2026-00006341",
-   "name": "Jamie Lynn Turner",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794860830,
-   "photo": "photos/KEN_TURNER_JAMIE_2026-00006341.jpg"
-  },
-  {
-   "key": "KEN_ROGERS_CONNOR_2026-00006339",
-   "name": "Connor Elizabeth Rogers",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794860759,
-   "photo": "photos/KEN_ROGERS_CONNOR_2026-00006339.jpg"
-  },
-  {
-   "key": "KEN_PEREZHOYOS_JOSE_2026-00006344",
-   "name": "Jose Angel Perez Hoyos",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Federal Agency Hold",
-   "more": 0,
-   "ts": 1794860683,
-   "photo": null
   },
   {
    "key": "KOWALKE_CHAD_2026-11-16",
@@ -497,17 +519,6 @@
    "photo": "photos/DOU_OTTERINO_VINCENT_2026-11-15.jpg"
   },
   {
-   "key": "MAR_DEBROUX_BRADY_2026-11-15",
-   "name": "Brady Andrew Debroux",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1794808475,
-   "photo": "photos/MAR_DEBROUX_BRADY_2026-11-15.jpg"
-  },
-  {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
    "name": "Lesther Josue Carrasco Garcia",
    "age": "",
@@ -517,20 +528,86 @@
    "more": 0,
    "ts": 1794806177,
    "photo": "photos/FDL_CARRASCOGARCIA_LESTHER_2026-11-15.jpg"
-  },
-  {
-   "key": "FDL_HUTH_RACHEAL_2026-11-15",
-   "name": "Racheal Louise Huth",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794802579,
-   "photo": "photos/FDL_HUTH_RACHEAL_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SMITH_ANDRE_299315",
+   "name": "Andre Maurice Smith",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1794871702,
+   "photo": null
+  },
+  {
+   "key": "MKE_WACHOWIAK_SCOTT_400145",
+   "name": "Scott Jacob Wachowiak",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1794871698,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_CAMREN_401600",
+   "name": "Camren L Davis",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Injury",
+   "more": 7,
+   "ts": 1794871694,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTINEZ_SAMUEL_648343",
+   "name": "Samuel Elijah Martinez",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794871691,
+   "photo": null
+  },
+  {
+   "key": "DOU_METERAUD_AMANDA_2026-11-16",
+   "name": "Amanda D Meteraud",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Bail Jumping",
+   "more": 4,
+   "ts": 1794871250,
+   "photo": "photos/DOU_METERAUD_AMANDA_2026-11-16.jpg"
+  },
+  {
+   "key": "FDL_STOFFEL_JAI_2026-11-16",
+   "name": "Jai Jacob Stoffel",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Knowingly Violate a Domestic Abuse Injunction",
+   "more": 2,
+   "ts": 1794871022,
+   "photo": "photos/FDL_STOFFEL_JAI_2026-11-16.jpg"
+  },
+  {
+   "key": "MKE_BECKER_ROBERT_618876",
+   "name": "Robert Anthony Becker",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 5,
+   "ts": 1794869863,
+   "photo": null
+  },
   {
    "key": "RC_ROBINSON_ROBERT_120011076335086",
    "name": "Robert Ivan Robinson",
@@ -551,7 +628,7 @@
    "charge": "Possess Drug Paraphernalia",
    "more": 4,
    "ts": 1794869235,
-   "photo": null
+   "photo": "photos/LANG_CHRISTOPHER_2026-11-16.jpg"
   },
   {
    "key": "DOU_SANDERS_JON_2026-11-16",
@@ -584,7 +661,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794866304,
-   "photo": null
+   "photo": "photos/MKE_SPEARMAN_WALTER_648342.jpg"
   },
   {
    "key": "MKE_BEAULIEU_JACOB_2051597",
@@ -815,7 +892,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794859088,
-   "photo": null
+   "photo": "photos/MKE_BLACKMORE_MARIANNA_272840.jpg"
   },
   {
    "key": "MKE_NOLANNOVAK_ESSENCE_641388",
@@ -870,7 +947,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794855493,
-   "photo": null
+   "photo": "photos/MKE_HUIZAR_VICTOR_648337.jpg"
   },
   {
    "key": "MAR_PERRY_KIEUTA_2026-11-15_17106702",
@@ -4413,127 +4490,6 @@
    "more": 0,
    "ts": 1794613689,
    "photo": "photos/RC_JOHNSON_KYLE_120011076258318.jpg"
-  },
-  {
-   "key": "MKE_PARR_EDDIE_299243",
-   "name": "Eddie Jordan Parr",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794612467,
-   "photo": "photos/MKE_PARR_EDDIE_299243.jpg"
-  },
-  {
-   "key": "MKE_LEWIS_MAURICE_357376",
-   "name": "Maurice L Lewis",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794612466,
-   "photo": "photos/MKE_LEWIS_MAURICE_357376.jpg"
-  },
-  {
-   "key": "MKE_HOLMONMCATTEE_TOSHUNIQUE_620291",
-   "name": "Toshunique N Holmon-Mcattee",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 1,
-   "ts": 1794612464,
-   "photo": "photos/MKE_HOLMONMCATTEE_TOSHUNIQUE_620291.jpg"
-  },
-  {
-   "key": "MKE_JENNINGS_KGYLANIE_648282",
-   "name": "Kgylanie A Jennings",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794612462,
-   "photo": null
-  },
-  {
-   "key": "OSTRUM_BOBBY_2026-11-13",
-   "name": "Bobby L Ostrum",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence (3rd)",
-   "more": 0,
-   "ts": 1794612426,
-   "photo": null
-  },
-  {
-   "key": "OSTRUM_BOBBY_2026-11-13_PHOTO_UPDATE",
-   "name": "Bobby L Ostrum",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence (3rd)",
-   "more": 0,
-   "ts": 1794612426,
-   "photo": "photos/OSTRUM_BOBBY_2026-11-13_PHOTO_UPDATE.jpg"
-  },
-  {
-   "key": "MKE_TIMSTEAGUE_ZAVIEN_631670",
-   "name": "Zavien K Tims-Teague",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate Vehicle w/o Consent-Passenger",
-   "more": 1,
-   "ts": 1794610647,
-   "photo": "photos/MKE_TIMSTEAGUE_ZAVIEN_631670.jpg"
-  },
-  {
-   "key": "MKE_KURIAN_IVAN_648281",
-   "name": "Ivan P Kurian",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 2,
-   "ts": 1794610645,
-   "photo": "photos/MKE_KURIAN_IVAN_648281.jpg"
-  },
-  {
-   "key": "KEN_JOHNSON_JASON_2026-00006288",
-   "name": "Jason Lamar Johnson",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1794610587,
-   "photo": "photos/KEN_JOHNSON_JASON_2026-00006288.jpg"
-  },
-  {
-   "key": "MAR_ARROWOOD_CHARLES_2026-11-13_14953404",
-   "name": "Charles Arthur Arrowood",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794610496,
-   "photo": "photos/MAR_ARROWOOD_CHARLES_2026-11-13_14953404.jpg"
-  },
-  {
-   "key": "MAR_GARDUNO_KELLY_2026-11-13_14046810",
-   "name": "Kelly Marie Garduno",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794610451,
-   "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13_14046810.jpg"
   }
  ]
 }
