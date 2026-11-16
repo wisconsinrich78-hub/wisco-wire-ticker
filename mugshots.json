@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T22:21:00+00:00",
+ "updated": "2026-11-16T22:49:33+00:00",
  "items": [
+  {
+   "key": "RC_ROBINSON_ROBERT_120011076335086",
+   "name": "Robert Ivan Robinson",
+   "age": "69",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794869307,
+   "photo": "photos/RC_ROBINSON_ROBERT_120011076335086.jpg"
+  },
+  {
+   "key": "LANG_CHRISTOPHER_2026-11-16",
+   "name": "Christopher D Lang",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 4,
+   "ts": 1794869235,
+   "photo": null
+  },
+  {
+   "key": "DOU_SANDERS_JON_2026-11-16",
+   "name": "Jon E Sanders",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "OWI Alcohol or Drugs",
+   "more": 2,
+   "ts": 1794867660,
+   "photo": "photos/DOU_SANDERS_JON_2026-11-16.jpg"
+  },
   {
    "key": "MKE_JOHNSON_JANIYAH_648341",
    "name": "Janiyah M Johnson",
@@ -51,7 +84,7 @@
    "age": "42",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions\u2026",
    "more": 0,
    "ts": 1794865717,
    "photo": "photos/RC_HENNEGAN_JEREMY_120011076333142.jpg"
@@ -231,17 +264,6 @@
    "more": 0,
    "ts": 1794860683,
    "photo": null
-  },
-  {
-   "key": "KEN_OLIVER_KEVANTAE_2026-00006343",
-   "name": "Kevantae Jordan Oliver",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794860647,
-   "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
   },
   {
    "key": "KOWALKE_CHAD_2026-11-16",
@@ -486,17 +508,6 @@
    "photo": "photos/MAR_DEBROUX_BRADY_2026-11-15.jpg"
   },
   {
-   "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15",
-   "name": "Samuel Antonio-Toribio",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 3rd",
-   "more": 1,
-   "ts": 1794808437,
-   "photo": "photos/MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15.jpg"
-  },
-  {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
    "name": "Lesther Josue Carrasco Garcia",
    "age": "",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794802579,
    "photo": "photos/FDL_HUTH_RACHEAL_2026-11-15.jpg"
-  },
-  {
-   "key": "FDL_DUFNER_STEPHANIE_2026-11-15",
-   "name": "Stephanie Marie Dufner",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794798983,
-   "photo": "photos/FDL_DUFNER_STEPHANIE_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ROBINSON_ROBERT_120011076335086",
+   "name": "Robert Ivan Robinson",
+   "age": "69",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794869307,
+   "photo": "photos/RC_ROBINSON_ROBERT_120011076335086.jpg"
+  },
+  {
+   "key": "LANG_CHRISTOPHER_2026-11-16",
+   "name": "Christopher D Lang",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 4,
+   "ts": 1794869235,
+   "photo": null
+  },
+  {
+   "key": "DOU_SANDERS_JON_2026-11-16",
+   "name": "Jon E Sanders",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "OWI Alcohol or Drugs",
+   "more": 2,
+   "ts": 1794867660,
+   "photo": "photos/DOU_SANDERS_JON_2026-11-16.jpg"
+  },
   {
    "key": "MKE_JOHNSON_JANIYAH_648341",
    "name": "Janiyah M Johnson",
@@ -581,7 +614,7 @@
    "age": "42",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions\u2026",
    "more": 0,
    "ts": 1794865717,
    "photo": "photos/RC_HENNEGAN_JEREMY_120011076333142.jpg"
@@ -1024,7 +1057,7 @@
    "charge": "Throw/Discharge Bodily Fluid at Public Safety Worker or Prosecutor",
    "more": 1,
    "ts": 1794850070,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZ_ANGELA_608824.jpg"
   },
   {
    "key": "MKE_WARD_TYRUS_610869",
@@ -1343,7 +1376,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794833845,
-   "photo": null
+   "photo": "photos/MKE_JAHFAR_ABDULMALIK_648334.jpg"
   },
   {
    "key": "KEN_CLEMONS_JACOB_2026-00006331",
