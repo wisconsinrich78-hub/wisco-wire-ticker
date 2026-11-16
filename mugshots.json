@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T09:40:34+00:00",
+ "updated": "2026-11-16T09:49:25+00:00",
  "items": [
+  {
+   "key": "RC_GREEN_JAMES_120011076310065",
+   "name": "James Green",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794822501,
+   "photo": "photos/RC_GREEN_JAMES_120011076310065.jpg"
+  },
   {
    "key": "MAR_THUNDERCLOUD_ROGER_2026-11-16",
    "name": "Roger Alan Thundercloud",
@@ -253,17 +264,6 @@
    "more": 4,
    "ts": 1794806863,
    "photo": "photos/MKE_HICKEY_NATHAN_648327.jpg"
-  },
-  {
-   "key": "MKE_ECHEVARRIARIVERA_ELIEZER_648328",
-   "name": "Eliezer Echevarria Rivera",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794806861,
-   "photo": "photos/MKE_ECHEVARRIARIVERA_ELIEZER_648328.jpg"
   },
   {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GREEN_JAMES_120011076310065",
+   "name": "James Green",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794822501,
+   "photo": "photos/RC_GREEN_JAMES_120011076310065.jpg"
+  },
   {
    "key": "MAR_THUNDERCLOUD_ROGER_2026-11-16",
    "name": "Roger Alan Thundercloud",
