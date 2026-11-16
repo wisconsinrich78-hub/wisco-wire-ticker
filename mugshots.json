@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-16T06:49:28+00:00",
+ "updated": "2026-11-16T07:43:25+00:00",
  "items": [
+  {
+   "key": "FDL_BANDS_TONEEKA_2026-11-16",
+   "name": "Toneeka Nicole Bands",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "FAILURE TO APPEAR / WARRANTS (x3)",
+   "more": 0,
+   "ts": 1794813360,
+   "photo": "photos/FDL_BANDS_TONEEKA_2026-11-16.jpg"
+  },
+  {
+   "key": "KEN_JELKS_LATRICE_2026-00006329",
+   "name": "Latrice Roche Jelks",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794812371,
+   "photo": "photos/KEN_JELKS_LATRICE_2026-00006329.jpg"
+  },
+  {
+   "key": "MKE_SEGARRAFLORES_FREDDIE_626639",
+   "name": "Freddie Segarra- Flores",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794812251,
+   "photo": null
+  },
+  {
+   "key": "MAR_URBAN_ADAM_2026-11-15_15582501",
+   "name": "Adam John Urban",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794812063,
+   "photo": "photos/MAR_URBAN_ADAM_2026-11-15_15582501.jpg"
+  },
   {
    "key": "RC_DEXTER_CODY_120011076308092",
    "name": "Cody J Dexter",
@@ -230,7 +274,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794801467,
-   "photo": null
+   "photo": "photos/MKE_WILKINS_DAVION_607593.jpg"
   },
   {
    "key": "MKE_GREEN_NASIR_648325",
@@ -252,28 +296,6 @@
    "charge": "Non-Registration of Vehicle",
    "more": 2,
    "ts": 1794801176,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_EDDIE_212605",
-   "name": "Eddie James Williams",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794799668,
-   "photo": null
-  },
-  {
-   "key": "MKE_DOTTS_LADETRA_400376",
-   "name": "Ladetra D Dotts",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794799666,
    "photo": null
   },
   {
@@ -431,17 +453,6 @@
    "photo": "photos/FDL_WILLIAMS_ANTWION_2026-11-15.jpg"
   },
   {
-   "key": "MAR_DUNCAN_TIMOTHY_2026-11-15",
-   "name": "Timothy Allen Duncan",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794743607,
-   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15.jpg"
-  },
-  {
    "key": "THOMPSON_PASSION_2026-11-15",
    "name": "Passion R Thompson",
    "age": "43",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1794728825,
    "photo": null
-  },
-  {
-   "key": "OLSON_JACOB_2026-11-15",
-   "name": "Jacob C Olson",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794727618,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_BANDS_TONEEKA_2026-11-16",
+   "name": "Toneeka Nicole Bands",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "FAILURE TO APPEAR / WARRANTS (x3)",
+   "more": 0,
+   "ts": 1794813360,
+   "photo": "photos/FDL_BANDS_TONEEKA_2026-11-16.jpg"
+  },
+  {
+   "key": "KEN_JELKS_LATRICE_2026-00006329",
+   "name": "Latrice Roche Jelks",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794812371,
+   "photo": "photos/KEN_JELKS_LATRICE_2026-00006329.jpg"
+  },
+  {
+   "key": "MKE_SEGARRAFLORES_FREDDIE_626639",
+   "name": "Freddie Segarra- Flores",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794812251,
+   "photo": null
+  },
+  {
+   "key": "MAR_URBAN_ADAM_2026-11-15_15582501",
+   "name": "Adam John Urban",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794812063,
+   "photo": "photos/MAR_URBAN_ADAM_2026-11-15_15582501.jpg"
+  },
   {
    "key": "RC_DEXTER_CODY_120011076308092",
    "name": "Cody J Dexter",
@@ -760,7 +804,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794801467,
-   "photo": null
+   "photo": "photos/MKE_WILKINS_DAVION_607593.jpg"
   },
   {
    "key": "MKE_GREEN_NASIR_648325",
@@ -804,7 +848,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794799666,
-   "photo": null
+   "photo": "photos/MKE_DOTTS_LADETRA_400376.jpg"
   },
   {
    "key": "FDL_DUFNER_STEPHANIE_2026-11-15",
@@ -4314,39 +4358,6 @@
    "more": 3,
    "ts": 1794556086,
    "photo": "photos/RC_COLDTRAIN_CHARLES_120011076233229.jpg"
-  },
-  {
-   "key": "KEN_MARTIN_EDWARD_2026-00006279",
-   "name": "Edward James Martin",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794554779,
-   "photo": "photos/KEN_MARTIN_EDWARD_2026-00006279.jpg"
-  },
-  {
-   "key": "MKE_MERCADO_XAVIER_637560",
-   "name": "Xavier A Mercado",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 5,
-   "ts": 1794553071,
-   "photo": "photos/MKE_MERCADO_XAVIER_637560.jpg"
-  },
-  {
-   "key": "MKE_ELLIS_TAKYI_648266",
-   "name": "Ta'kyi Saneaya Ellis",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794553069,
-   "photo": "photos/MKE_ELLIS_TAKYI_648266.jpg"
   }
  ]
 }
