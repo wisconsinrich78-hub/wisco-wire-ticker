@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-16T07:49:30+00:00",
+ "updated": "2026-11-16T08:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_GEE_TERRELL_282725",
+   "name": "Terrell Lorenzo Gee",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794817650,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_COREY_292035",
+   "name": "Corey D Jones",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794817649,
+   "photo": null
+  },
+  {
+   "key": "SERVAIS_BRENNA_2026-11-16",
+   "name": "Brenna N Servais",
+   "age": "28",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794816407,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHELTON_NATISHA_611535",
+   "name": "Natisha C Shelton",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794815855,
+   "photo": null
+  },
+  {
+   "key": "KEN_HAYGOOD_SHAKEIA_2026-00006330",
+   "name": "Shakeia Latorra Haygood",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794815822,
+   "photo": "photos/KEN_HAYGOOD_SHAKEIA_2026-00006330.jpg"
+  },
   {
    "key": "RC_JOHNSON_MYKQUEON_120011076308114",
    "name": "Mykqueon M Johnson",
@@ -29,8 +84,8 @@
    "age": "44",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Retail Theft-Intentionally Conceal (<=$500)",
+   "more": 2,
    "ts": 1794812371,
    "photo": "photos/KEN_JELKS_LATRICE_2026-00006329.jpg"
   },
@@ -164,7 +219,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794806867,
-   "photo": null
+   "photo": "photos/MKE_PECI_KRISTIAN_634341.jpg"
   },
   {
    "key": "MKE_SACKMANN_SAMANTHA_644138",
@@ -175,7 +230,7 @@
    "charge": "Lewd, Lascivious Behavior-In Public",
    "more": 0,
    "ts": 1794806865,
-   "photo": null
+   "photo": "photos/MKE_SACKMANN_SAMANTHA_644138.jpg"
   },
   {
    "key": "MKE_HICKEY_NATHAN_648327",
@@ -186,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794806863,
-   "photo": null
+   "photo": "photos/MKE_HICKEY_NATHAN_648327.jpg"
   },
   {
    "key": "MKE_ECHEVARRIARIVERA_ELIEZER_648328",
@@ -197,7 +252,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794806861,
-   "photo": null
+   "photo": "photos/MKE_ECHEVARRIARIVERA_ELIEZER_648328.jpg"
   },
   {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
@@ -209,17 +264,6 @@
    "more": 0,
    "ts": 1794806177,
    "photo": "photos/FDL_CARRASCOGARCIA_LESTHER_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_MAYABOTERO_ESTEBAN_648326",
-   "name": "Esteban Maya Botero",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794805059,
-   "photo": null
   },
   {
    "key": "MAR_URBAN_ADAM_2026-11-15",
@@ -244,17 +288,6 @@
    "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-15_547918.jpg"
   },
   {
-   "key": "RC_SHELBY_BOBBY_120011076305417",
-   "name": "Bobby Jeval Shelby",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794804495,
-   "photo": "photos/RC_SHELBY_BOBBY_120011076305417.jpg"
-  },
-  {
    "key": "DOU_HOVDE_RACHEL_2026-11-15",
    "name": "Rachel E Hovde",
    "age": "43",
@@ -275,28 +308,6 @@
    "more": 0,
    "ts": 1794802579,
    "photo": "photos/FDL_HUTH_RACHEAL_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_WILKINS_DAVION_607593",
-   "name": "Davion Demetri Wilkins",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794801467,
-   "photo": "photos/MKE_WILKINS_DAVION_607593.jpg"
-  },
-  {
-   "key": "MKE_GREEN_NASIR_648325",
-   "name": "Nasir El-farad Green",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794801465,
-   "photo": null
   },
   {
    "key": "FDL_DUFNER_STEPHANIE_2026-11-15",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1794732424,
    "photo": null
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MKE_GEE_TERRELL_282725",
+   "name": "Terrell Lorenzo Gee",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794817650,
+   "photo": null
   },
   {
-   "key": "EDELL_THEODORA_2026-11-15",
-   "name": "Theodora Belou Edell",
-   "age": "24",
+   "key": "MKE_JONES_COREY_292035",
+   "name": "Corey D Jones",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794817649,
+   "photo": null
+  },
+  {
+   "key": "SERVAIS_BRENNA_2026-11-16",
+   "name": "Brenna N Servais",
+   "age": "28",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "",
    "more": 0,
-   "ts": 1794728825,
+   "ts": 1794816407,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "MKE_SHELTON_NATISHA_611535",
+   "name": "Natisha C Shelton",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794815855,
+   "photo": null
+  },
+  {
+   "key": "KEN_HAYGOOD_SHAKEIA_2026-00006330",
+   "name": "Shakeia Latorra Haygood",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794815822,
+   "photo": "photos/KEN_HAYGOOD_SHAKEIA_2026-00006330.jpg"
+  },
   {
    "key": "RC_JOHNSON_MYKQUEON_120011076308114",
    "name": "Mykqueon M Johnson",
@@ -559,8 +614,8 @@
    "age": "44",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Retail Theft-Intentionally Conceal (<=$500)",
+   "more": 2,
    "ts": 1794812371,
    "photo": "photos/KEN_JELKS_LATRICE_2026-00006329.jpg"
   },
@@ -694,7 +749,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794806867,
-   "photo": null
+   "photo": "photos/MKE_PECI_KRISTIAN_634341.jpg"
   },
   {
    "key": "MKE_SACKMANN_SAMANTHA_644138",
@@ -705,7 +760,7 @@
    "charge": "Lewd, Lascivious Behavior-In Public",
    "more": 0,
    "ts": 1794806865,
-   "photo": null
+   "photo": "photos/MKE_SACKMANN_SAMANTHA_644138.jpg"
   },
   {
    "key": "MKE_HICKEY_NATHAN_648327",
@@ -716,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1794806863,
-   "photo": null
+   "photo": "photos/MKE_HICKEY_NATHAN_648327.jpg"
   },
   {
    "key": "MKE_ECHEVARRIARIVERA_ELIEZER_648328",
@@ -727,7 +782,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794806861,
-   "photo": null
+   "photo": "photos/MKE_ECHEVARRIARIVERA_ELIEZER_648328.jpg"
   },
   {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
@@ -749,7 +804,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794805059,
-   "photo": null
+   "photo": "photos/MKE_MAYABOTERO_ESTEBAN_648326.jpg"
   },
   {
    "key": "MAR_URBAN_ADAM_2026-11-15",
@@ -826,7 +881,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794801465,
-   "photo": null
+   "photo": "photos/MKE_GREEN_NASIR_648325.jpg"
   },
   {
    "key": "KEN_FALCONE_JOSEPH_2026-00006328",
@@ -848,7 +903,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794799668,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_EDDIE_212605.jpg"
   },
   {
    "key": "MKE_DOTTS_LADETRA_400376",
@@ -4314,39 +4369,6 @@
    "more": 0,
    "ts": 1794561023,
    "photo": null
-  },
-  {
-   "key": "JOHNSON_KELVIN_2026-11-13",
-   "name": "Kelvin L Johnson",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794559626,
-   "photo": null
-  },
-  {
-   "key": "GUERRA_MALIK_2026-11-13",
-   "name": "Malik M Guerra",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794558425,
-   "photo": "photos/GUERRA_MALIK_2026-11-13.jpg"
-  },
-  {
-   "key": "MKE_PATINOPATINO_KEVIN_648267",
-   "name": "Kevin Emanuel Patino-Patino",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794556661,
-   "photo": "photos/MKE_PATINOPATINO_KEVIN_648267.jpg"
   }
  ]
 }
