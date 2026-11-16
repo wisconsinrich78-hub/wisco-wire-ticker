@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-16T12:49:29+00:00",
+ "updated": "2026-11-16T13:42:11+00:00",
  "items": [
+  {
+   "key": "MANGLER_TYLER_2026-11-16",
+   "name": "Tyler J Mangler",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1794835631,
+   "photo": null
+  },
+  {
+   "key": "FDL_AVILARIOS_ANUBIS_2026-11-16",
+   "name": "Anubis Exequiel Avila Rios",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794834957,
+   "photo": "photos/FDL_AVILARIOS_ANUBIS_2026-11-16.jpg"
+  },
+  {
+   "key": "MKE_VALADEZ_MARK_354630",
+   "name": "Mark Valadez",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794833848,
+   "photo": null
+  },
+  {
+   "key": "MKE_SINGLETON_MICHAEL_648333",
+   "name": "Michael Stephen Singleton",
+   "age": "77",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794833847,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAHFAR_ABDULMALIK_648334",
+   "name": "Abdul Malik Bin Jahfar",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794833845,
+   "photo": null
+  },
+  {
+   "key": "KEN_CLEMONS_JACOB_2026-00006331",
+   "name": "Jacob Jon Clemons",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794833708,
+   "photo": "photos/KEN_CLEMONS_JACOB_2026-00006331.jpg"
+  },
+  {
+   "key": "MAR_YOUNG_PORSCHA_2026-11-16",
+   "name": "Porscha Rae Young",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794833606,
+   "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16.jpg"
+  },
   {
    "key": "MKE_SPIKES_SHAKIRA_648332",
    "name": "Shakira Lea Spikes",
@@ -10,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794832058,
-   "photo": null
+   "photo": "photos/MKE_SPIKES_SHAKIRA_648332.jpg"
   },
   {
    "key": "MKE_RIDLEY_BRIAN_648331",
@@ -178,17 +255,6 @@
    "photo": "photos/MAR_URBAN_ADAM_2026-11-15_15582501.jpg"
   },
   {
-   "key": "RC_DEXTER_CODY_120011076308092",
-   "name": "Cody J Dexter",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 1,
-   "ts": 1794811710,
-   "photo": null
-  },
-  {
    "key": "DOU_OTTERINO_VINCENT_2026-11-15",
    "name": "Vincent A Otterino",
    "age": "38",
@@ -231,39 +297,6 @@
    "more": 1,
    "ts": 1794808402,
    "photo": "photos/MAR_MCKINNEY_FAYE_2026-11-15.jpg"
-  },
-  {
-   "key": "RC_KNOTEK_MICHAEL_120011076306334",
-   "name": "Michael J Knotek",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 0,
-   "ts": 1794808125,
-   "photo": null
-  },
-  {
-   "key": "RC_MCFADZEN_CONNOR_120011076306453",
-   "name": "Connor Nick Mcfadzen",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Retail Theft - Alter Price - (<=$500)",
-   "more": 0,
-   "ts": 1794808123,
-   "photo": null
-  },
-  {
-   "key": "RC_KNOTEK_MICHAEL_120011076306848",
-   "name": "Michael J Knotek",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794808120,
-   "photo": null
   },
   {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
@@ -431,17 +464,6 @@
    "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15_641803.jpg"
   },
   {
-   "key": "MAR_DUNCAN_TIMOTHY_2026-11-15_6094713",
-   "name": "Timothy Allen Duncan",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794758034,
-   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15_6094713.jpg"
-  },
-  {
    "key": "FDL_TOWNER_NICOLE_2026-11-15",
    "name": "Nicole Chantrall Towner",
    "age": "",
@@ -506,31 +528,86 @@
    "more": 2,
    "ts": 1794739624,
    "photo": null
-  },
-  {
-   "key": "SUMMERLIN_JONATHAN_2026-11-15",
-   "name": "Jonathan Davidbailey Summerlin",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794734825,
-   "photo": null
-  },
-  {
-   "key": "SCHULZE_JASON_2026-11-15",
-   "name": "Jason Lewis Schulze",
-   "age": "27",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence (2nd)",
-   "more": 0,
-   "ts": 1794732424,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MANGLER_TYLER_2026-11-16",
+   "name": "Tyler J Mangler",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1794835631,
+   "photo": null
+  },
+  {
+   "key": "FDL_AVILARIOS_ANUBIS_2026-11-16",
+   "name": "Anubis Exequiel Avila Rios",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794834957,
+   "photo": "photos/FDL_AVILARIOS_ANUBIS_2026-11-16.jpg"
+  },
+  {
+   "key": "MKE_VALADEZ_MARK_354630",
+   "name": "Mark Valadez",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794833848,
+   "photo": null
+  },
+  {
+   "key": "MKE_SINGLETON_MICHAEL_648333",
+   "name": "Michael Stephen Singleton",
+   "age": "77",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794833847,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAHFAR_ABDULMALIK_648334",
+   "name": "Abdul Malik Bin Jahfar",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794833845,
+   "photo": null
+  },
+  {
+   "key": "KEN_CLEMONS_JACOB_2026-00006331",
+   "name": "Jacob Jon Clemons",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794833708,
+   "photo": "photos/KEN_CLEMONS_JACOB_2026-00006331.jpg"
+  },
+  {
+   "key": "MAR_YOUNG_PORSCHA_2026-11-16",
+   "name": "Porscha Rae Young",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794833606,
+   "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16.jpg"
+  },
   {
    "key": "MKE_SPIKES_SHAKIRA_648332",
    "name": "Shakira Lea Spikes",
@@ -540,7 +617,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794832058,
-   "photo": null
+   "photo": "photos/MKE_SPIKES_SHAKIRA_648332.jpg"
   },
   {
    "key": "MKE_RIDLEY_BRIAN_648331",
@@ -4204,39 +4281,6 @@
    "more": 2,
    "ts": 1794578281,
    "photo": "photos/MKE_RUDZITIS_FRANK_601320.jpg"
-  },
-  {
-   "key": "MKE_HERRERARIZO_DENIS_648273",
-   "name": "Denis Herrera Rizo",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794574659,
-   "photo": "photos/MKE_HERRERARIZO_DENIS_648273.jpg"
-  },
-  {
-   "key": "MAR_ABDIRESAQ_MAHAD_2026-11-13",
-   "name": "Mahad Jama Abdiresaq",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794574448,
-   "photo": null
-  },
-  {
-   "key": "MAR_SMITH_JOSEPH_2026-11-13",
-   "name": "Joseph Landis Smith",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear - Ncic Misdemeanor",
-   "more": 1,
-   "ts": 1794574410,
-   "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13.jpg"
   }
  ]
 }
