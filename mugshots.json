@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T19:36:15+00:00",
+ "updated": "2026-11-16T19:49:35+00:00",
  "items": [
+  {
+   "key": "KOWALKE_CHAD_2026-11-16",
+   "name": "Chad A Kowalke",
+   "age": "51",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794858438,
+   "photo": null
+  },
   {
    "key": "STETTER_BRONWYN_2026-11-16",
    "name": "Bronwyn Rachel Stetter",
@@ -517,20 +528,20 @@
    "more": 3,
    "ts": 1794770165,
    "photo": "photos/FDL_AMONS_ELIJAH_2026-11-15.jpg"
-  },
-  {
-   "key": "TISCHER_ROBERT_2026-11-15",
-   "name": "Robert Lee Tischer",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794767452,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "KOWALKE_CHAD_2026-11-16",
+   "name": "Chad A Kowalke",
+   "age": "51",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794858438,
+   "photo": null
+  },
   {
    "key": "STETTER_BRONWYN_2026-11-16",
    "name": "Bronwyn Rachel Stetter",
@@ -4523,28 +4534,6 @@
    "more": 0,
    "ts": 1794599678,
    "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13.jpg"
-  },
-  {
-   "key": "RC_WEST_EDWIN_120011076251007",
-   "name": "Edwin Clarence West",
-   "age": "61",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794599298,
-   "photo": null
-  },
-  {
-   "key": "RC_MOE_COLM_120011076251089",
-   "name": "Colm Lee Moe",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794599295,
-   "photo": null
   }
  ]
 }
