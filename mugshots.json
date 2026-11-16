@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T08:49:27+00:00",
+ "updated": "2026-11-16T09:40:34+00:00",
  "items": [
+  {
+   "key": "MAR_THUNDERCLOUD_ROGER_2026-11-16",
+   "name": "Roger Alan Thundercloud",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1794819263,
+   "photo": "photos/MAR_THUNDERCLOUD_ROGER_2026-11-16.jpg"
+  },
   {
    "key": "MKE_GEE_TERRELL_282725",
    "name": "Terrell Lorenzo Gee",
@@ -51,7 +62,7 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out of County",
    "more": 0,
    "ts": 1794815822,
    "photo": "photos/KEN_HAYGOOD_SHAKEIA_2026-00006330.jpg"
@@ -98,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794812251,
-   "photo": null
+   "photo": "photos/MKE_SEGARRAFLORES_FREDDIE_626639.jpg"
   },
   {
    "key": "MAR_URBAN_ADAM_2026-11-15_15582501",
@@ -208,7 +219,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1794806869,
-   "photo": null
+   "photo": "photos/MKE_GARCIA_ROBERTO_287287.jpg"
   },
   {
    "key": "MKE_PECI_KRISTIAN_634341",
@@ -442,17 +453,6 @@
    "photo": "photos/FDL_TOWNER_NICOLE_2026-11-15.jpg"
   },
   {
-   "key": "MAR_JOHNSON_BRIAN_2026-11-15",
-   "name": "Brian David Johnson",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794754401,
-   "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15.jpg"
-  },
-  {
    "key": "FDL_WILLIAMS_ANTWION_2026-11-15",
    "name": "Antwion Lashann Williams",
    "age": "",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MAR_THUNDERCLOUD_ROGER_2026-11-16",
+   "name": "Roger Alan Thundercloud",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1794819263,
+   "photo": "photos/MAR_THUNDERCLOUD_ROGER_2026-11-16.jpg"
+  },
+  {
    "key": "MKE_GEE_TERRELL_282725",
    "name": "Terrell Lorenzo Gee",
    "age": "46",
@@ -581,7 +592,7 @@
    "age": "45",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Warrant Other Agency - Out of County",
    "more": 0,
    "ts": 1794815822,
    "photo": "photos/KEN_HAYGOOD_SHAKEIA_2026-00006330.jpg"
@@ -628,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794812251,
-   "photo": null
+   "photo": "photos/MKE_SEGARRAFLORES_FREDDIE_626639.jpg"
   },
   {
    "key": "MAR_URBAN_ADAM_2026-11-15_15582501",
@@ -738,7 +749,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1794806869,
-   "photo": null
+   "photo": "photos/MKE_GARCIA_ROBERTO_287287.jpg"
   },
   {
    "key": "MKE_PECI_KRISTIAN_634341",
@@ -4336,39 +4347,6 @@
    "more": 3,
    "ts": 1794563861,
    "photo": "photos/MKE_HENDRIX_ZACHARY_2046209.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_MARZELL_263828",
-   "name": "Marzell Jamar Johnson",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794562081,
-   "photo": "photos/MKE_JOHNSON_MARZELL_263828.jpg"
-  },
-  {
-   "key": "MKE_JARAMILLOGUZMAN_ABIMAEL_643558",
-   "name": "Abimael Jaramillo Guzman",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 0,
-   "ts": 1794562079,
-   "photo": "photos/MKE_JARAMILLOGUZMAN_ABIMAEL_643558.jpg"
-  },
-  {
-   "key": "KEN_GARCIA_DAVID_2026-00006280",
-   "name": "David Isalba Garcia",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out of County",
-   "more": 0,
-   "ts": 1794561023,
-   "photo": null
   }
  ]
 }
