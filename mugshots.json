@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-16T00:35:49+00:00",
+ "updated": "2026-11-16T01:49:34+00:00",
  "items": [
+  {
+   "key": "RC_KIRBY_CRAION_120011076302732",
+   "name": "Craion Kirby",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794793694,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASAREZ_DESIRAE_510524",
+   "name": "Desirae J Casarez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794790654,
+   "photo": null
+  },
   {
    "key": "MKE_RODRIGUEZ_ELIBERTO_328151",
    "name": "Eliberto Rodriguez",
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1794769081,
    "photo": "photos/MKE_JONES_SHANTIA_539864.jpg"
-  },
-  {
-   "key": "MKE_SYKES_SAVION_648320",
-   "name": "Savion Sykes",
-   "age": "16",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794769079,
-   "photo": "photos/MKE_SYKES_SAVION_648320.jpg"
-  },
-  {
-   "key": "MKE_SMITH_BRITTANIE_518127",
-   "name": "Brittanie Marie Smith",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 0,
-   "ts": 1794767454,
-   "photo": "photos/MKE_SMITH_BRITTANIE_518127.jpg"
   },
   {
    "key": "TISCHER_ROBERT_2026-11-15",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KIRBY_CRAION_120011076302732",
+   "name": "Craion Kirby",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794793694,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASAREZ_DESIRAE_510524",
+   "name": "Desirae J Casarez",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794790654,
+   "photo": null
+  },
   {
    "key": "MKE_RODRIGUEZ_ELIBERTO_328151",
    "name": "Eliberto Rodriguez",
@@ -4248,50 +4270,6 @@
    "more": 4,
    "ts": 1794535077,
    "photo": "photos/MKE_WALDRIP_IMAN_648265.jpg"
-  },
-  {
-   "key": "RC_LOPEZ_MAURO_120011076228019",
-   "name": "Mauro Ubaldo Lopez",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794534486,
-   "photo": "photos/RC_LOPEZ_MAURO_120011076228019.jpg"
-  },
-  {
-   "key": "AYALA_ANTONIO_2026-11-12",
-   "name": "Antonio Ii Ayala",
-   "age": "49",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794533869,
-   "photo": null
-  },
-  {
-   "key": "TISCHER_ROBERT_2026-11-12",
-   "name": "Robert Lee Tischer",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794531684,
-   "photo": null
-  },
-  {
-   "key": "MKE_GAMEZ_DONTONIO_625828",
-   "name": "Dontonio Gamez",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 14,
-   "ts": 1794531467,
-   "photo": "photos/MKE_GAMEZ_DONTONIO_625828.jpg"
   }
  ]
 }
