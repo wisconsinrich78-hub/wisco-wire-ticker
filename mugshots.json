@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-16T19:49:35+00:00",
+ "updated": "2026-11-16T20:49:30+00:00",
  "items": [
+  {
+   "key": "RC_GARCIALOPEZ_CRUZ_120011076331265",
+   "name": "Cruz Garcialopez",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794862108,
+   "photo": "photos/RC_GARCIALOPEZ_CRUZ_120011076331265.jpg"
+  },
+  {
+   "key": "MKE_SMITH_JARED_364168",
+   "name": "Jared J Smith",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794860859,
+   "photo": null
+  },
+  {
+   "key": "MKE_GREEN_ANTHONY_648339",
+   "name": "Anthony M Green",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794860856,
+   "photo": null
+  },
+  {
+   "key": "KEN_TURNER_JAMIE_2026-00006341",
+   "name": "Jamie Lynn Turner",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794860830,
+   "photo": "photos/KEN_TURNER_JAMIE_2026-00006341.jpg"
+  },
+  {
+   "key": "KEN_ROGERS_CONNOR_2026-00006339",
+   "name": "Connor Elizabeth Rogers",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794860759,
+   "photo": "photos/KEN_ROGERS_CONNOR_2026-00006339.jpg"
+  },
+  {
+   "key": "KEN_PEREZHOYOS_JOSE_2026-00006344",
+   "name": "Jose Angel Perez Hoyos",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794860683,
+   "photo": null
+  },
+  {
+   "key": "KEN_OLIVER_KEVANTAE_2026-00006343",
+   "name": "Kevantae Jordan Oliver",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794860647,
+   "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
+  },
+  {
+   "key": "MKE_BLACKMORE_MARIANNA_272840",
+   "name": "Marianna Blackmore",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794859088,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOLANNOVAK_ESSENCE_641388",
+   "name": "Essence K Nolan Novak",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 0,
+   "ts": 1794859082,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_ROYSHAWN_648338",
+   "name": "Royshawn Alanzo Williams",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794859080,
+   "photo": null
+  },
   {
    "key": "KOWALKE_CHAD_2026-11-16",
    "name": "Chad A Kowalke",
@@ -22,39 +132,6 @@
    "more": 0,
    "ts": 1794857223,
    "photo": null
-  },
-  {
-   "key": "KEN_TURNER_JAMIE_2026-00006341",
-   "name": "Jamie Lynn Turner",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794855896,
-   "photo": "photos/KEN_TURNER_JAMIE_2026-00006341.jpg"
-  },
-  {
-   "key": "KEN_ROGERS_CONNOR_2026-00006339",
-   "name": "Connor Elizabeth Rogers",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794855823,
-   "photo": "photos/KEN_ROGERS_CONNOR_2026-00006339.jpg"
-  },
-  {
-   "key": "KEN_OLIVER_KEVANTAE_2026-00006343",
-   "name": "Kevantae Jordan Oliver",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794855751,
-   "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
   },
   {
    "key": "MKE_HUIZAR_VICTOR_648337",
@@ -84,8 +161,8 @@
    "age": "39",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Methamphetamine",
+   "more": 3,
    "ts": 1794855035,
    "photo": null
   },
@@ -156,28 +233,6 @@
    "photo": "photos/FDL_PIRTLE_MARCUS_2026-11-16.jpg"
   },
   {
-   "key": "KEN_HIGGINBOTTOM_OSCAR_2026-00006336",
-   "name": "Oscar Oneal Higginbottom",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794851791,
-   "photo": "photos/KEN_HIGGINBOTTOM_OSCAR_2026-00006336.jpg"
-  },
-  {
-   "key": "KEN_HERNANDEZ_KALUSHA_2026-00006337",
-   "name": "Kalusha Omar Hernandez",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794851719,
-   "photo": "photos/KEN_HERNANDEZ_KALUSHA_2026-00006337.jpg"
-  },
-  {
    "key": "MAR_ZYDZIK_ANTHONY_2026-11-16",
    "name": "Anthony Lee Zydzik",
    "age": "32",
@@ -187,17 +242,6 @@
    "more": 0,
    "ts": 1794851673,
    "photo": "photos/MAR_ZYDZIK_ANTHONY_2026-11-16.jpg"
-  },
-  {
-   "key": "KEN_ARROYO_VICTOR_2026-00006338",
-   "name": "VICTOR MANUEL Junior ARROYO",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794851643,
-   "photo": null
   },
   {
    "key": "MAR_HATLEBACK_KEEGAN_2026-11-16",
@@ -211,28 +255,6 @@
    "photo": "photos/MAR_HATLEBACK_KEEGAN_2026-11-16.jpg"
   },
   {
-   "key": "RC_COX_JAVION_120011076321502",
-   "name": "Javion M Cox",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794851321,
-   "photo": "photos/RC_COX_JAVION_120011076321502.jpg"
-  },
-  {
-   "key": "RC_BROWN_NIKENDRA_120011076323046",
-   "name": "Nikendra Lynn Brown",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794851318,
-   "photo": "photos/RC_BROWN_NIKENDRA_120011076323046.jpg"
-  },
-  {
    "key": "DRIVER_DARIUS_2026-11-16",
    "name": "Darius D Driver",
    "age": "47",
@@ -242,28 +264,6 @@
    "more": 1,
    "ts": 1794851241,
    "photo": null
-  },
-  {
-   "key": "MKE_RODRIGUEZ_ANGELA_608824",
-   "name": "Angela Guadalupe Rodriguez",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Throw/Discharge Bodily Fluid at Public Safety Worker or Prosecutor",
-   "more": 1,
-   "ts": 1794850070,
-   "photo": null
-  },
-  {
-   "key": "MKE_WARD_TYRUS_610869",
-   "name": "Tyrus Anthony Ward",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794850068,
-   "photo": "photos/MKE_WARD_TYRUS_610869.jpg"
   },
   {
    "key": "FDL_KNAPP_CALLIE_2026-11-16",
@@ -532,6 +532,116 @@
  ],
  "all_items": [
   {
+   "key": "RC_GARCIALOPEZ_CRUZ_120011076331265",
+   "name": "Cruz Garcialopez",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794862108,
+   "photo": "photos/RC_GARCIALOPEZ_CRUZ_120011076331265.jpg"
+  },
+  {
+   "key": "MKE_SMITH_JARED_364168",
+   "name": "Jared J Smith",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794860859,
+   "photo": null
+  },
+  {
+   "key": "MKE_GREEN_ANTHONY_648339",
+   "name": "Anthony M Green",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794860856,
+   "photo": null
+  },
+  {
+   "key": "KEN_TURNER_JAMIE_2026-00006341",
+   "name": "Jamie Lynn Turner",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794860830,
+   "photo": "photos/KEN_TURNER_JAMIE_2026-00006341.jpg"
+  },
+  {
+   "key": "KEN_ROGERS_CONNOR_2026-00006339",
+   "name": "Connor Elizabeth Rogers",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794860759,
+   "photo": "photos/KEN_ROGERS_CONNOR_2026-00006339.jpg"
+  },
+  {
+   "key": "KEN_PEREZHOYOS_JOSE_2026-00006344",
+   "name": "Jose Angel Perez Hoyos",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794860683,
+   "photo": null
+  },
+  {
+   "key": "KEN_OLIVER_KEVANTAE_2026-00006343",
+   "name": "Kevantae Jordan Oliver",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794860647,
+   "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
+  },
+  {
+   "key": "MKE_BLACKMORE_MARIANNA_272840",
+   "name": "Marianna Blackmore",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794859088,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOLANNOVAK_ESSENCE_641388",
+   "name": "Essence K Nolan Novak",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 0,
+   "ts": 1794859082,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILLIAMS_ROYSHAWN_648338",
+   "name": "Royshawn Alanzo Williams",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794859080,
+   "photo": null
+  },
+  {
    "key": "KOWALKE_CHAD_2026-11-16",
    "name": "Chad A Kowalke",
    "age": "51",
@@ -552,39 +662,6 @@
    "more": 0,
    "ts": 1794857223,
    "photo": null
-  },
-  {
-   "key": "KEN_TURNER_JAMIE_2026-00006341",
-   "name": "Jamie Lynn Turner",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794855896,
-   "photo": "photos/KEN_TURNER_JAMIE_2026-00006341.jpg"
-  },
-  {
-   "key": "KEN_ROGERS_CONNOR_2026-00006339",
-   "name": "Connor Elizabeth Rogers",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794855823,
-   "photo": "photos/KEN_ROGERS_CONNOR_2026-00006339.jpg"
-  },
-  {
-   "key": "KEN_OLIVER_KEVANTAE_2026-00006343",
-   "name": "Kevantae Jordan Oliver",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794855751,
-   "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
   },
   {
    "key": "MKE_HUIZAR_VICTOR_648337",
@@ -614,8 +691,8 @@
    "age": "39",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Methamphetamine",
+   "more": 3,
    "ts": 1794855035,
    "photo": null
   },
@@ -691,7 +768,7 @@
    "age": "54",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1794851791,
    "photo": "photos/KEN_HIGGINBOTTOM_OSCAR_2026-00006336.jpg"
@@ -724,10 +801,10 @@
    "age": "21",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1794851643,
-   "photo": null
+   "photo": "photos/KEN_ARROYO_VICTOR_2026-00006338.jpg"
   },
   {
    "key": "MAR_HATLEBACK_KEEGAN_2026-11-16",
@@ -815,7 +892,7 @@
    "charge": "Habitual Criminality",
    "more": 8,
    "ts": 1794848305,
-   "photo": null
+   "photo": "photos/MKE_FINLEY_JAMARION_619834.jpg"
   },
   {
    "key": "MKE_DELGADOBANKS_JAHSIER_640764",
@@ -4413,127 +4490,6 @@
    "more": 1,
    "ts": 1794603231,
    "photo": null
-  },
-  {
-   "key": "RC_KRUEGER_MAURIECE_120011076253580",
-   "name": "Mauriece Wolfgang Krueger",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794602886,
-   "photo": "photos/RC_KRUEGER_MAURIECE_120011076253580.jpg"
-  },
-  {
-   "key": "RC_CARTER_DEANGELO_120011076254141",
-   "name": "Deangelo Leonardo Carter",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794602884,
-   "photo": "photos/RC_CARTER_DEANGELO_120011076254141.jpg"
-  },
-  {
-   "key": "MKE_WRIGHT_ROBERT_221098",
-   "name": "Robert Earl Wright",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 11,
-   "ts": 1794601670,
-   "photo": "photos/MKE_WRIGHT_ROBERT_221098.jpg"
-  },
-  {
-   "key": "MKE_WILKS_EUGENE_253244",
-   "name": "Eugene Delmontey Wilks",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1794601667,
-   "photo": "photos/MKE_WILKS_EUGENE_253244.jpg"
-  },
-  {
-   "key": "MKE_AGNEW_ROBERT_618003",
-   "name": "Robert Agnew",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1794601663,
-   "photo": "photos/MKE_AGNEW_ROBERT_618003.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_JAQARRIUS_622245",
-   "name": "Jaqarrius Deangelo Williams",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794601660,
-   "photo": "photos/MKE_WILLIAMS_JAQARRIUS_622245.jpg"
-  },
-  {
-   "key": "MKE_NUNEZ_MICHAEL_636552",
-   "name": "Michael C Nunez",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1794601657,
-   "photo": "photos/MKE_NUNEZ_MICHAEL_636552.jpg"
-  },
-  {
-   "key": "MKE_CERVANTES_MARTIN_648279",
-   "name": "Martin Javier Cervantes",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794599897,
-   "photo": "photos/MKE_CERVANTES_MARTIN_648279.jpg"
-  },
-  {
-   "key": "KEN_GALINDOGARCIA_JORGE_2026-00006286",
-   "name": "Jorge Galindo-Garcia",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "1st Degree Reckless Endangering Safety",
-   "more": 3,
-   "ts": 1794599789,
-   "photo": "photos/KEN_GALINDOGARCIA_JORGE_2026-00006286.jpg"
-  },
-  {
-   "key": "MAR_ERMELING_LOGAN_2026-11-13",
-   "name": "Logan Ace Ermeling",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 1st",
-   "more": 0,
-   "ts": 1794599729,
-   "photo": "photos/MAR_ERMELING_LOGAN_2026-11-13.jpg"
-  },
-  {
-   "key": "MAR_MALONEY_BARBARA_2026-11-13",
-   "name": "Barbara Jean Maloney",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794599678,
-   "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13.jpg"
   }
  ]
 }
