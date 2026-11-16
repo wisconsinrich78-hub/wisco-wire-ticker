@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T07:43:25+00:00",
+ "updated": "2026-11-16T07:49:30+00:00",
  "items": [
+  {
+   "key": "RC_JOHNSON_MYKQUEON_120011076308114",
+   "name": "Mykqueon M Johnson",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794815295,
+   "photo": "photos/RC_JOHNSON_MYKQUEON_120011076308114.jpg"
+  },
   {
    "key": "FDL_BANDS_TONEEKA_2026-11-16",
    "name": "Toneeka Nicole Bands",
@@ -51,8 +62,8 @@
    "age": "37",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 1,
    "ts": 1794811710,
    "photo": null
   },
@@ -285,17 +296,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794801465,
-   "photo": null
-  },
-  {
-   "key": "KEN_FALCONE_JOSEPH_2026-00006328",
-   "name": "Joseph Anthony Falcone",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Non-Registration of Vehicle",
-   "more": 2,
-   "ts": 1794801176,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_JOHNSON_MYKQUEON_120011076308114",
+   "name": "Mykqueon M Johnson",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794815295,
+   "photo": "photos/RC_JOHNSON_MYKQUEON_120011076308114.jpg"
+  },
+  {
    "key": "FDL_BANDS_TONEEKA_2026-11-16",
    "name": "Toneeka Nicole Bands",
    "age": "",
@@ -581,8 +592,8 @@
    "age": "37",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 1,
    "ts": 1794811710,
    "photo": null
   },
@@ -4336,28 +4347,6 @@
    "more": 4,
    "ts": 1794556661,
    "photo": "photos/MKE_PATINOPATINO_KEVIN_648267.jpg"
-  },
-  {
-   "key": "RC_WEBSTER_TRAVENN_120011076233210",
-   "name": "Travenn Lamont Webster",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 1,
-   "ts": 1794556089,
-   "photo": "photos/RC_WEBSTER_TRAVENN_120011076233210.jpg"
-  },
-  {
-   "key": "RC_COLDTRAIN_CHARLES_120011076233229",
-   "name": "Charles Alan Coldtrain",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-THC (<=200 grams)",
-   "more": 3,
-   "ts": 1794556086,
-   "photo": "photos/RC_COLDTRAIN_CHARLES_120011076233229.jpg"
   }
  ]
 }
