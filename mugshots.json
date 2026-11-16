@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T23:35:13+00:00",
+ "updated": "2026-11-16T23:49:29+00:00",
  "items": [
+  {
+   "key": "RICE_CRYSTAL_2026-11-16",
+   "name": "Crystal M Rice",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794872839,
+   "photo": null
+  },
   {
    "key": "MKE_SMITH_ANDRE_299315",
    "name": "Andre Maurice Smith",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1794810058,
    "photo": "photos/DOU_OTTERINO_VINCENT_2026-11-15.jpg"
-  },
-  {
-   "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
-   "name": "Lesther Josue Carrasco Garcia",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1794806177,
-   "photo": "photos/FDL_CARRASCOGARCIA_LESTHER_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RICE_CRYSTAL_2026-11-16",
+   "name": "Crystal M Rice",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794872839,
+   "photo": null
+  },
   {
    "key": "MKE_SMITH_ANDRE_299315",
    "name": "Andre Maurice Smith",
@@ -4479,17 +4490,6 @@
    "more": 0,
    "ts": 1794614064,
    "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13_1712836.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_KYLE_120011076258318",
-   "name": "Kyle Jean Johnson",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794613689,
-   "photo": "photos/RC_JOHNSON_KYLE_120011076258318.jpg"
   }
  ]
 }
