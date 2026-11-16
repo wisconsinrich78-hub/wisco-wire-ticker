@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-16T18:53:54+00:00",
+ "updated": "2026-11-16T19:36:15+00:00",
  "items": [
+  {
+   "key": "STETTER_BRONWYN_2026-11-16",
+   "name": "Bronwyn Rachel Stetter",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794857223,
+   "photo": null
+  },
+  {
+   "key": "KEN_TURNER_JAMIE_2026-00006341",
+   "name": "Jamie Lynn Turner",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794855896,
+   "photo": "photos/KEN_TURNER_JAMIE_2026-00006341.jpg"
+  },
+  {
+   "key": "KEN_ROGERS_CONNOR_2026-00006339",
+   "name": "Connor Elizabeth Rogers",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794855823,
+   "photo": "photos/KEN_ROGERS_CONNOR_2026-00006339.jpg"
+  },
+  {
+   "key": "KEN_OLIVER_KEVANTAE_2026-00006343",
+   "name": "Kevantae Jordan Oliver",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794855751,
+   "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
+  },
+  {
+   "key": "MKE_HUIZAR_VICTOR_648337",
+   "name": "Victor Manuel Huizar",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794855493,
+   "photo": null
+  },
+  {
+   "key": "MAR_PERRY_KIEUTA_2026-11-15_17106702",
+   "name": "Kieuta Zarere Perry",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 5,
+   "ts": 1794855306,
+   "photo": "photos/MAR_PERRY_KIEUTA_2026-11-15_17106702.jpg"
+  },
   {
    "key": "RC_LEWIS_CHRISTINA_120011076325961",
    "name": "Christina J Lewis",
@@ -54,7 +120,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794853665,
-   "photo": null
+   "photo": "photos/MKE_OFFICE_TRAVION_623855.jpg"
   },
   {
    "key": "MKE_WOJNAROWICZ_VINCENT_648336",
@@ -62,10 +128,10 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd w/ Passenger < 16 Yrs Old)",
    "more": 0,
    "ts": 1794853664,
-   "photo": null
+   "photo": "photos/MKE_WOJNAROWICZ_VINCENT_648336.jpg"
   },
   {
    "key": "FDL_PIRTLE_MARCUS_2026-11-16",
@@ -186,7 +252,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794850068,
-   "photo": null
+   "photo": "photos/MKE_WARD_TYRUS_610869.jpg"
   },
   {
    "key": "FDL_KNAPP_CALLIE_2026-11-16",
@@ -200,28 +266,6 @@
    "photo": "photos/FDL_KNAPP_CALLIE_2026-11-16.jpg"
   },
   {
-   "key": "MKE_FINLEY_JAMARION_619834",
-   "name": "Jamarion Douglas Finley",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 8,
-   "ts": 1794848305,
-   "photo": null
-  },
-  {
-   "key": "MKE_DELGADOBANKS_JAHSIER_640764",
-   "name": "Jahsier A Delgado-Banks",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 5,
-   "ts": 1794848302,
-   "photo": null
-  },
-  {
    "key": "PAULSON_DOUGLAS_2026-11-16",
    "name": "Douglas J Paulson",
    "age": "33",
@@ -231,28 +275,6 @@
    "more": 0,
    "ts": 1794846426,
    "photo": null
-  },
-  {
-   "key": "MKE_MIX_GREGORY_640739",
-   "name": "Gregory K Mix",
-   "age": "69",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794844671,
-   "photo": null
-  },
-  {
-   "key": "KEN_JOHNSON_MYKQUEON_2026-00006333",
-   "name": "Mykqueon Mikai Johnson",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 0,
-   "ts": 1794844437,
-   "photo": "photos/KEN_JOHNSON_MYKQUEON_2026-00006333.jpg"
   },
   {
    "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
@@ -475,17 +497,6 @@
    "photo": "photos/FDL_DUFNER_STEPHANIE_2026-11-15.jpg"
   },
   {
-   "key": "MAR_PERRY_KIEUTA_2026-11-15",
-   "name": "Kieuta Zarere Perry",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 2,
-   "ts": 1794797658,
-   "photo": "photos/MAR_PERRY_KIEUTA_2026-11-15.jpg"
-  },
-  {
    "key": "FDL_LOPEZLOPEZ_HECTOR_2026-11-15",
    "name": "Hector Lopez Lopez",
    "age": "",
@@ -517,20 +528,75 @@
    "more": 0,
    "ts": 1794767452,
    "photo": null
-  },
-  {
-   "key": "FDL_TOWNER_NICOLE_2026-11-15",
-   "name": "Nicole Chantrall Towner",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "FAILURE TO APPEAR / WARRANTS (x2)",
-   "more": 1,
-   "ts": 1794755798,
-   "photo": "photos/FDL_TOWNER_NICOLE_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "STETTER_BRONWYN_2026-11-16",
+   "name": "Bronwyn Rachel Stetter",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 0,
+   "ts": 1794857223,
+   "photo": null
+  },
+  {
+   "key": "KEN_TURNER_JAMIE_2026-00006341",
+   "name": "Jamie Lynn Turner",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794855896,
+   "photo": "photos/KEN_TURNER_JAMIE_2026-00006341.jpg"
+  },
+  {
+   "key": "KEN_ROGERS_CONNOR_2026-00006339",
+   "name": "Connor Elizabeth Rogers",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794855823,
+   "photo": "photos/KEN_ROGERS_CONNOR_2026-00006339.jpg"
+  },
+  {
+   "key": "KEN_OLIVER_KEVANTAE_2026-00006343",
+   "name": "Kevantae Jordan Oliver",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794855751,
+   "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
+  },
+  {
+   "key": "MKE_HUIZAR_VICTOR_648337",
+   "name": "Victor Manuel Huizar",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794855493,
+   "photo": null
+  },
+  {
+   "key": "MAR_PERRY_KIEUTA_2026-11-15_17106702",
+   "name": "Kieuta Zarere Perry",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 5,
+   "ts": 1794855306,
+   "photo": "photos/MAR_PERRY_KIEUTA_2026-11-15_17106702.jpg"
+  },
   {
    "key": "RC_LEWIS_CHRISTINA_120011076325961",
    "name": "Christina J Lewis",
@@ -584,7 +650,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794853665,
-   "photo": null
+   "photo": "photos/MKE_OFFICE_TRAVION_623855.jpg"
   },
   {
    "key": "MKE_WOJNAROWICZ_VINCENT_648336",
@@ -592,10 +658,10 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd w/ Passenger < 16 Yrs Old)",
    "more": 0,
    "ts": 1794853664,
-   "photo": null
+   "photo": "photos/MKE_WOJNAROWICZ_VINCENT_648336.jpg"
   },
   {
    "key": "FDL_PIRTLE_MARCUS_2026-11-16",
@@ -716,7 +782,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794850068,
-   "photo": null
+   "photo": "photos/MKE_WARD_TYRUS_610869.jpg"
   },
   {
    "key": "FDL_KNAPP_CALLIE_2026-11-16",
@@ -749,7 +815,7 @@
    "charge": "Burglary-Building or Dwelling",
    "more": 5,
    "ts": 1794848302,
-   "photo": null
+   "photo": "photos/MKE_DELGADOBANKS_JAHSIER_640764.jpg"
   },
   {
    "key": "PAULSON_DOUGLAS_2026-11-16",
@@ -771,7 +837,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794844671,
-   "photo": null
+   "photo": "photos/MKE_MIX_GREGORY_640739.jpg"
   },
   {
    "key": "KEN_JOHNSON_MYKQUEON_2026-00006333",
@@ -837,7 +903,7 @@
    "charge": "Charges Pending",
    "more": 8,
    "ts": 1794841334,
-   "photo": null
+   "photo": "photos/MKE_DILWORTH_MARION_244681.jpg"
   },
   {
    "key": "MKE_THOMAS_COURTNIE_648322",
@@ -1002,7 +1068,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794833848,
-   "photo": null
+   "photo": "photos/MKE_VALADEZ_MARK_354630.jpg"
   },
   {
    "key": "MKE_SINGLETON_MICHAEL_648333",
@@ -4479,50 +4545,6 @@
    "more": 0,
    "ts": 1794599295,
    "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_FREDERICK_372313",
-   "name": "Frederick Montrell Davis",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent/Deliver Narcotics",
-   "more": 5,
-   "ts": 1794596280,
-   "photo": "photos/MKE_DAVIS_FREDERICK_372313.jpg"
-  },
-  {
-   "key": "MKE_BRACY_PRINCE_648278",
-   "name": "Prince Adams Bracy",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794596277,
-   "photo": "photos/MKE_BRACY_PRINCE_648278.jpg"
-  },
-  {
-   "key": "MAR_ARROWOOD_CHARLES_2026-11-13",
-   "name": "Charles Arthur Arrowood",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794596103,
-   "photo": "photos/MAR_ARROWOOD_CHARLES_2026-11-13.jpg"
-  },
-  {
-   "key": "MAR_GARDUNO_KELLY_2026-11-13",
-   "name": "Kelly Marie Garduno",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ of Habeas Corpus",
-   "more": 0,
-   "ts": 1794596047,
-   "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13.jpg"
   }
  ]
 }
