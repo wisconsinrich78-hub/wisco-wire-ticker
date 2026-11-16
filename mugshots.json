@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-16T16:49:27+00:00",
+ "updated": "2026-11-16T17:49:31+00:00",
  "items": [
+  {
+   "key": "RC_COX_JAVION_120011076321502",
+   "name": "Javion M Cox",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794851321,
+   "photo": "photos/RC_COX_JAVION_120011076321502.jpg"
+  },
+  {
+   "key": "RC_BROWN_NIKENDRA_120011076323046",
+   "name": "Nikendra Lynn Brown",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794851318,
+   "photo": "photos/RC_BROWN_NIKENDRA_120011076323046.jpg"
+  },
+  {
+   "key": "DRIVER_DARIUS_2026-11-16",
+   "name": "Darius D Driver",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1794851241,
+   "photo": null
+  },
+  {
+   "key": "MKE_RODRIGUEZ_ANGELA_608824",
+   "name": "Angela Guadalupe Rodriguez",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Throw/Discharge Bodily Fluid at Public Safety Worker or Prosecutor",
+   "more": 1,
+   "ts": 1794850070,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_TYRUS_610869",
+   "name": "Tyrus Anthony Ward",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794850068,
+   "photo": null
+  },
+  {
+   "key": "FDL_KNAPP_CALLIE_2026-11-16",
+   "name": "Callie Jo Knapp",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession of THC - 2nd and Subsequent",
+   "more": 1,
+   "ts": 1794849380,
+   "photo": "photos/FDL_KNAPP_CALLIE_2026-11-16.jpg"
+  },
+  {
+   "key": "MKE_FINLEY_JAMARION_619834",
+   "name": "Jamarion Douglas Finley",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 8,
+   "ts": 1794848305,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELGADOBANKS_JAHSIER_640764",
+   "name": "Jahsier A Delgado-Banks",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 5,
+   "ts": 1794848302,
+   "photo": null
+  },
   {
    "key": "PAULSON_DOUGLAS_2026-11-16",
    "name": "Douglas J Paulson",
@@ -123,61 +211,6 @@
    "photo": "photos/MKE_DIAZ_MIGUEL_613333.jpg"
   },
   {
-   "key": "MKE_ILER_ADRIAN_629546",
-   "name": "Adrian Romel Iler",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1794839256,
-   "photo": "photos/MKE_ILER_ADRIAN_629546.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZ_JONATHAN_648335",
-   "name": "Jonathan Josue Gonzalez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794839255,
-   "photo": null
-  },
-  {
-   "key": "MKE_TARLETON_TERRANCE_2066800",
-   "name": "Terrance T Tarleton",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1794839253,
-   "photo": "photos/MKE_TARLETON_TERRANCE_2066800.jpg"
-  },
-  {
-   "key": "MKE_CORNELIUS_ARMONO_346151",
-   "name": "Armono Macato Cornelius",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 5,
-   "ts": 1794837459,
-   "photo": "photos/MKE_CORNELIUS_ARMONO_346151.jpg"
-  },
-  {
-   "key": "MKE_UNDERWOOD_TYRIQUE_602587",
-   "name": "Tyrique Javon Underwood",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
-   "more": 3,
-   "ts": 1794837456,
-   "photo": "photos/MKE_UNDERWOOD_TYRIQUE_602587.jpg"
-  },
-  {
    "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
    "name": "Samuel Antonio-Toribio",
    "age": "38",
@@ -187,17 +220,6 @@
    "more": 1,
    "ts": 1794837301,
    "photo": "photos/MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203.jpg"
-  },
-  {
-   "key": "KEN_BROWN_GARY_2026-00006332",
-   "name": "Gary Lee Brown",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 5,
-   "ts": 1794837273,
-   "photo": "photos/KEN_BROWN_GARY_2026-00006332.jpg"
   },
   {
    "key": "MAR_TZINTZUN_RICARDO_2026-11-15_8146101",
@@ -506,31 +528,97 @@
    "more": 0,
    "ts": 1794740217,
    "photo": null
-  },
-  {
-   "key": "TREM_SEIDEL_BRADLEY_6216",
-   "name": "Bradley James Seidel",
-   "age": "36",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 5,
-   "ts": 1794739629,
-   "photo": "photos/TREM_SEIDEL_BRADLEY_6216.jpg"
-  },
-  {
-   "key": "TREM_LORENZOCORONADO_ERIKA_6217",
-   "name": "Erika Cristina Lorenzo Coronado",
-   "age": "27",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794739628,
-   "photo": "photos/TREM_LORENZOCORONADO_ERIKA_6217.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_COX_JAVION_120011076321502",
+   "name": "Javion M Cox",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794851321,
+   "photo": "photos/RC_COX_JAVION_120011076321502.jpg"
+  },
+  {
+   "key": "RC_BROWN_NIKENDRA_120011076323046",
+   "name": "Nikendra Lynn Brown",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794851318,
+   "photo": "photos/RC_BROWN_NIKENDRA_120011076323046.jpg"
+  },
+  {
+   "key": "DRIVER_DARIUS_2026-11-16",
+   "name": "Darius D Driver",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1794851241,
+   "photo": null
+  },
+  {
+   "key": "MKE_RODRIGUEZ_ANGELA_608824",
+   "name": "Angela Guadalupe Rodriguez",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Throw/Discharge Bodily Fluid at Public Safety Worker or Prosecutor",
+   "more": 1,
+   "ts": 1794850070,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_TYRUS_610869",
+   "name": "Tyrus Anthony Ward",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794850068,
+   "photo": null
+  },
+  {
+   "key": "FDL_KNAPP_CALLIE_2026-11-16",
+   "name": "Callie Jo Knapp",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession of THC - 2nd and Subsequent",
+   "more": 1,
+   "ts": 1794849380,
+   "photo": "photos/FDL_KNAPP_CALLIE_2026-11-16.jpg"
+  },
+  {
+   "key": "MKE_FINLEY_JAMARION_619834",
+   "name": "Jamarion Douglas Finley",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 8,
+   "ts": 1794848305,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELGADOBANKS_JAHSIER_640764",
+   "name": "Jahsier A Delgado-Banks",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 5,
+   "ts": 1794848302,
+   "photo": null
+  },
   {
    "key": "PAULSON_DOUGLAS_2026-11-16",
    "name": "Douglas J Paulson",
@@ -2292,6 +2380,17 @@
    "photo": null
   },
   {
+   "key": "HOWE_MELINDA_2026-11-14_PHOTO_UPDATE",
+   "name": "Melinda S Howe",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess W/ Intent-\u2026",
+   "more": 4,
+   "ts": 1794715031,
+   "photo": "photos/HOWE_MELINDA_2026-11-14_PHOTO_UPDATE.jpg"
+  },
+  {
    "key": "RC_BARBER_SHERMAN_120011076283520",
    "name": "Sherman S Barber",
    "age": "33",
@@ -2385,10 +2484,10 @@
    "age": "61",
    "county": "La Crosse County",
    "region": "southwest",
-   "charge": "",
+   "charge": "Probation",
    "more": 0,
    "ts": 1794706023,
-   "photo": null
+   "photo": "photos/KNOWLER_JOSEPH_2026-11-14.jpg"
   },
   {
    "key": "KEN_CORONADOLOPEZ_AMERICA_2026-00006308",
@@ -2600,6 +2699,17 @@
    "photo": null
   },
   {
+   "key": "HALVERSON_SHANE_2026-11-14_PHOTO_UPDATE",
+   "name": "Shane K Halverson",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794691627,
+   "photo": "photos/HALVERSON_SHANE_2026-11-14_PHOTO_UPDATE.jpg"
+  },
+  {
    "key": "FRAUSTO_DEREK_2026-11-14",
    "name": "Derek Lucas Frausto",
    "age": "41",
@@ -2609,6 +2719,17 @@
    "more": 0,
    "ts": 1794691626,
    "photo": null
+  },
+  {
+   "key": "FRAUSTO_DEREK_2026-11-14_PHOTO_UPDATE",
+   "name": "Derek Lucas Frausto",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold on Revocation Order or Warrant",
+   "more": 0,
+   "ts": 1794691626,
+   "photo": "photos/FRAUSTO_DEREK_2026-11-14_PHOTO_UPDATE.jpg"
   },
   {
    "key": "RC_GLOWACKI_ZACHARY_120011076277110",
@@ -3117,6 +3238,17 @@
    "photo": null
   },
   {
+   "key": "SCHIFFLER_GARRETT_2026-11-14_PHOTO_UPDATE",
+   "name": "Garrett D Schiffler",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under the Influence (2nd)",
+   "more": 0,
+   "ts": 1794648437,
+   "photo": "photos/SCHIFFLER_GARRETT_2026-11-14_PHOTO_UPDATE.jpg"
+  },
+  {
    "key": "RC_JACKSON_TIMOTHY_120011076266815",
    "name": "Timothy Paul Jackson",
    "age": "57",
@@ -3170,6 +3302,17 @@
    "more": 0,
    "ts": 1794644822,
    "photo": null
+  },
+  {
+   "key": "SCHMIDT_JAMES_2026-11-14_PHOTO_UPDATE",
+   "name": "James R Schmidt",
+   "age": "49",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under the Influence (4th)",
+   "more": 0,
+   "ts": 1794644822,
+   "photo": "photos/SCHMIDT_JAMES_2026-11-14_PHOTO_UPDATE.jpg"
   },
   {
    "key": "FDL_BERNIER_BRENDA_2026-11-14",
@@ -3458,6 +3601,17 @@
    "photo": null
   },
   {
+   "key": "WINJUM_ADRIAN_2026-11-13_PHOTO_UPDATE",
+   "name": "Adrian M Winjum",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794628050,
+   "photo": "photos/WINJUM_ADRIAN_2026-11-13_PHOTO_UPDATE.jpg"
+  },
+  {
    "key": "MKE_WILLIAMS_TERVINO_257447",
    "name": "Tervino Terrell Williams",
    "age": "52",
@@ -3500,6 +3654,17 @@
    "more": 1,
    "ts": 1794626817,
    "photo": null
+  },
+  {
+   "key": "ALI_JOMANA_2026-11-13_PHOTO_UPDATE",
+   "name": "Jomana H M A Ali",
+   "age": "23",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794626817,
+   "photo": "photos/ALI_JOMANA_2026-11-13_PHOTO_UPDATE.jpg"
   },
   {
    "key": "MAR_GLENN_DIAMOND_2026-11-12_16201003",
@@ -3819,6 +3984,17 @@
    "more": 0,
    "ts": 1794612426,
    "photo": null
+  },
+  {
+   "key": "OSTRUM_BOBBY_2026-11-13_PHOTO_UPDATE",
+   "name": "Bobby L Ostrum",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Under the Influence (3rd)",
+   "more": 0,
+   "ts": 1794612426,
+   "photo": "photos/OSTRUM_BOBBY_2026-11-13_PHOTO_UPDATE.jpg"
   },
   {
    "key": "MKE_TIMSTEAGUE_ZAVIEN_631670",
@@ -4305,114 +4481,15 @@
    "photo": null
   },
   {
-   "key": "RC_SURA_THOMAS_120011076246228",
-   "name": "Thomas Sylvester Sura",
-   "age": "62",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794592078,
-   "photo": "photos/RC_SURA_THOMAS_120011076246228.jpg"
-  },
-  {
-   "key": "MKE_DURHAM_KELVIN_640750",
-   "name": "Kelvin J Durham",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794590865,
-   "photo": "photos/MKE_DURHAM_KELVIN_640750.jpg"
-  },
-  {
-   "key": "MKE_HINES_DANIEL_648275",
-   "name": "Daniel L Hines",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794590864,
-   "photo": "photos/MKE_HINES_DANIEL_648275.jpg"
-  },
-  {
-   "key": "FDL_ROHDE_ROBERT_2026-11-13",
-   "name": "Robert Roger Rohde",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
+   "key": "PICKETT_RAINA_2026-11-13_PHOTO_UPDATE",
+   "name": "Raina J Pickett",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1794590192,
-   "photo": "photos/FDL_ROHDE_ROBERT_2026-11-13.jpg"
-  },
-  {
-   "key": "MKE_EMMERICH_NANCY_348333",
-   "name": "Nancy R Emmerich",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 1,
-   "ts": 1794589055,
-   "photo": "photos/MKE_EMMERICH_NANCY_348333.jpg"
-  },
-  {
-   "key": "MKE_MORGAN_FRANKLIN_648274",
-   "name": "Franklin Morgan",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794589053,
-   "photo": "photos/MKE_MORGAN_FRANKLIN_648274.jpg"
-  },
-  {
-   "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103",
-   "name": "Jeniffer Lebron Campos",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resist/Obstruct Officer - Subst. Bodily Harm/Soft Tissue Inj",
-   "more": 0,
-   "ts": 1794588952,
-   "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13_14310103.jpg"
-  },
-  {
-   "key": "MAR_GRAEF_NAINNE_2026-11-13",
-   "name": "Nainne Graef",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1794588902,
-   "photo": "photos/MAR_GRAEF_NAINNE_2026-11-13.jpg"
-  },
-  {
-   "key": "MAR_SCHOEPKE_GARRET_2026-11-13",
-   "name": "Garret Ray Schoepke",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794588862,
-   "photo": null
-  },
-  {
-   "key": "MAR_SMITH_JOSEPH_2026-11-13_475406",
-   "name": "Joseph Landis Smith",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear - Ncic Misdemeanor",
-   "more": 1,
-   "ts": 1794588824,
-   "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13_475406.jpg"
+   "ts": 1794594449,
+   "photo": "photos/PICKETT_RAINA_2026-11-13_PHOTO_UPDATE.jpg"
   }
  ]
 }
