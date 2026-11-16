@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-16T21:49:41+00:00",
+ "updated": "2026-11-16T22:21:00+00:00",
  "items": [
+  {
+   "key": "MKE_JOHNSON_JANIYAH_648341",
+   "name": "Janiyah M Johnson",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 2,
+   "ts": 1794866309,
+   "photo": null
+  },
+  {
+   "key": "MKE_SPEARMAN_WALTER_648342",
+   "name": "Walter Jacquez Spearman",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794866304,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEAULIEU_JACOB_2051597",
+   "name": "Jacob R Beaulieu",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794866298,
+   "photo": null
+  },
+  {
+   "key": "MAR_DIGANGI_BENJAMIN_2026-11-16",
+   "name": "Benjamin Lawrence Digangi",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 2,
+   "ts": 1794866032,
+   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16.jpg"
+  },
   {
    "key": "RC_HENNEGAN_JEREMY_120011076333142",
    "name": "Jeremy John Hennegan",
@@ -40,8 +84,8 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 8,
    "ts": 1794864484,
    "photo": null
   },
@@ -183,7 +227,7 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Federal Agency Hold",
    "more": 0,
    "ts": 1794860683,
    "photo": null
@@ -198,39 +242,6 @@
    "more": 0,
    "ts": 1794860647,
    "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
-  },
-  {
-   "key": "MKE_BLACKMORE_MARIANNA_272840",
-   "name": "Marianna Blackmore",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794859088,
-   "photo": null
-  },
-  {
-   "key": "MKE_NOLANNOVAK_ESSENCE_641388",
-   "name": "Essence K Nolan Novak",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 0,
-   "ts": 1794859082,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_ROYSHAWN_648338",
-   "name": "Royshawn Alanzo Williams",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794859080,
-   "photo": null
   },
   {
    "key": "KOWALKE_CHAD_2026-11-16",
@@ -486,17 +497,6 @@
    "photo": "photos/MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15.jpg"
   },
   {
-   "key": "MAR_MCKINNEY_FAYE_2026-11-15",
-   "name": "Faye Mckinney",
-   "age": "18",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794808402,
-   "photo": "photos/MAR_MCKINNEY_FAYE_2026-11-15.jpg"
-  },
-  {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
    "name": "Lesther Josue Carrasco Garcia",
    "age": "",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JOHNSON_JANIYAH_648341",
+   "name": "Janiyah M Johnson",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 2,
+   "ts": 1794866309,
+   "photo": null
+  },
+  {
+   "key": "MKE_SPEARMAN_WALTER_648342",
+   "name": "Walter Jacquez Spearman",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794866304,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEAULIEU_JACOB_2051597",
+   "name": "Jacob R Beaulieu",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794866298,
+   "photo": null
+  },
+  {
+   "key": "MAR_DIGANGI_BENJAMIN_2026-11-16",
+   "name": "Benjamin Lawrence Digangi",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 2,
+   "ts": 1794866032,
+   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16.jpg"
+  },
   {
    "key": "RC_HENNEGAN_JEREMY_120011076333142",
    "name": "Jeremy John Hennegan",
@@ -570,8 +614,8 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 8,
    "ts": 1794864484,
    "photo": null
   },
@@ -713,7 +757,7 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Federal Agency Hold",
    "more": 0,
    "ts": 1794860683,
    "photo": null
@@ -3871,7 +3915,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 1,
+   "more": 11,
    "ts": 1794634054,
    "photo": "photos/MKE_MOTON_TAVARIS_643947.jpg"
   },
@@ -4457,72 +4501,6 @@
    "more": 0,
    "ts": 1794610451,
    "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13_14046810.jpg"
-  },
-  {
-   "key": "KEN_ADAMS_RONALD_2026-00006289",
-   "name": "Ronald Joe Adams",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 4,
-   "ts": 1794607252,
-   "photo": "photos/KEN_ADAMS_RONALD_2026-00006289.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_SHANEQUA_507425",
-   "name": "Shanequa D Johnson",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794607066,
-   "photo": null
-  },
-  {
-   "key": "MKE_DENNIS_DEVARIO_628345",
-   "name": "Devario D Dennis",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794607064,
-   "photo": null
-  },
-  {
-   "key": "MKE_WOOD_GAGE_648280",
-   "name": "Gage O Wood",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794607062,
-   "photo": "photos/MKE_WOOD_GAGE_648280.jpg"
-  },
-  {
-   "key": "MAR_OUSLEY_DIMITRI_2026-11-13",
-   "name": "Dimitri Ousley",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Child Enticement-Expose Genitals/Pubic Area/Intimate Parts",
-   "more": 2,
-   "ts": 1794606892,
-   "photo": "photos/MAR_OUSLEY_DIMITRI_2026-11-13.jpg"
-  },
-  {
-   "key": "MAR_WILLHOITE_JUSTIN_2026-11-13",
-   "name": "Justin Ty Willhoite",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Neglecting a Child (Would Have Caused Harm)",
-   "more": 0,
-   "ts": 1794606851,
-   "photo": null
   }
  ]
 }
