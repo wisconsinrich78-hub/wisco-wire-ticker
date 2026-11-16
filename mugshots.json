@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-16T13:42:11+00:00",
+ "updated": "2026-11-16T14:29:21+00:00",
  "items": [
+  {
+   "key": "MKE_DIAZ_MIGUEL_613333",
+   "name": "Miguel Angel Diaz",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Take/Drive Veh. w/o Consent-Abandon Veh",
+   "more": 1,
+   "ts": 1794839258,
+   "photo": null
+  },
+  {
+   "key": "MKE_ILER_ADRIAN_629546",
+   "name": "Adrian Romel Iler",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1794839256,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_JONATHAN_648335",
+   "name": "Jonathan Josue Gonzalez",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794839255,
+   "photo": null
+  },
+  {
+   "key": "MKE_TARLETON_TERRANCE_2066800",
+   "name": "Terrance T Tarleton",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1794839253,
+   "photo": null
+  },
+  {
+   "key": "MKE_CORNELIUS_ARMONO_346151",
+   "name": "Armono Macato Cornelius",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
+   "ts": 1794837459,
+   "photo": null
+  },
+  {
+   "key": "MKE_UNDERWOOD_TYRIQUE_602587",
+   "name": "Tyrique Javon Underwood",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
+   "more": 3,
+   "ts": 1794837456,
+   "photo": null
+  },
+  {
+   "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
+   "name": "Samuel Antonio-Toribio",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 3rd",
+   "more": 1,
+   "ts": 1794837301,
+   "photo": "photos/MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203.jpg"
+  },
+  {
+   "key": "KEN_BROWN_GARY_2026-00006332",
+   "name": "Gary Lee Brown",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 5,
+   "ts": 1794837273,
+   "photo": "photos/KEN_BROWN_GARY_2026-00006332.jpg"
+  },
+  {
+   "key": "MAR_TZINTZUN_RICARDO_2026-11-15_8146101",
+   "name": "Ricardo Ramon Tzintzun",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1794837263,
+   "photo": null
+  },
+  {
+   "key": "MAR_YOUNG_PORSCHA_2026-11-16_225317",
+   "name": "Porscha Rae Young",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794837224,
+   "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16_225317.jpg"
+  },
   {
    "key": "MANGLER_TYLER_2026-11-16",
    "name": "Tyler J Mangler",
@@ -62,8 +172,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 3,
    "ts": 1794833708,
    "photo": "photos/KEN_CLEMONS_JACOB_2026-00006331.jpg"
   },
@@ -145,28 +255,6 @@
    "photo": "photos/MAR_THUNDERCLOUD_ROGER_2026-11-16.jpg"
   },
   {
-   "key": "MKE_GEE_TERRELL_282725",
-   "name": "Terrell Lorenzo Gee",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794817650,
-   "photo": "photos/MKE_GEE_TERRELL_282725.jpg"
-  },
-  {
-   "key": "MKE_JONES_COREY_292035",
-   "name": "Corey D Jones",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794817649,
-   "photo": "photos/MKE_JONES_COREY_292035.jpg"
-  },
-  {
    "key": "SERVAIS_BRENNA_2026-11-16",
    "name": "Brenna N Servais",
    "age": "28",
@@ -178,39 +266,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SHELTON_NATISHA_611535",
-   "name": "Natisha C Shelton",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794815855,
-   "photo": "photos/MKE_SHELTON_NATISHA_611535.jpg"
-  },
-  {
-   "key": "KEN_HAYGOOD_SHAKEIA_2026-00006330",
-   "name": "Shakeia Latorra Haygood",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out of County",
-   "more": 0,
-   "ts": 1794815822,
-   "photo": "photos/KEN_HAYGOOD_SHAKEIA_2026-00006330.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_MYKQUEON_120011076308114",
-   "name": "Mykqueon M Johnson",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794815295,
-   "photo": "photos/RC_JOHNSON_MYKQUEON_120011076308114.jpg"
-  },
-  {
    "key": "FDL_BANDS_TONEEKA_2026-11-16",
    "name": "Toneeka Nicole Bands",
    "age": "",
@@ -220,28 +275,6 @@
    "more": 0,
    "ts": 1794813360,
    "photo": "photos/FDL_BANDS_TONEEKA_2026-11-16.jpg"
-  },
-  {
-   "key": "KEN_JELKS_LATRICE_2026-00006329",
-   "name": "Latrice Roche Jelks",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Conceal (<=$500)",
-   "more": 2,
-   "ts": 1794812371,
-   "photo": "photos/KEN_JELKS_LATRICE_2026-00006329.jpg"
-  },
-  {
-   "key": "MKE_SEGARRAFLORES_FREDDIE_626639",
-   "name": "Freddie Segarra- Flores",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794812251,
-   "photo": "photos/MKE_SEGARRAFLORES_FREDDIE_626639.jpg"
   },
   {
    "key": "MAR_URBAN_ADAM_2026-11-15_15582501",
@@ -398,28 +431,6 @@
    "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-15_105911.jpg"
   },
   {
-   "key": "MAR_GOSCH_TAMMIE_2026-11-15",
-   "name": "Tammie Annette Gosch",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Knowingly Violate Domestic Abuse Order (Da Repeater)",
-   "more": 2,
-   "ts": 1794779611,
-   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-15.jpg"
-  },
-  {
-   "key": "MAR_BLOCK_WILLIAM_2026-11-15",
-   "name": "William D Block",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 2,
-   "ts": 1794776029,
-   "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-15.jpg"
-  },
-  {
    "key": "FDL_LOPEZLOPEZ_HECTOR_2026-11-15",
    "name": "Hector Lopez Lopez",
    "age": "",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1794767452,
    "photo": null
-  },
-  {
-   "key": "MAR_JOHNSON_BRIAN_2026-11-15_641803",
-   "name": "Brian David Johnson",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794761598,
-   "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15_641803.jpg"
   },
   {
    "key": "FDL_TOWNER_NICOLE_2026-11-15",
@@ -532,6 +532,116 @@
  ],
  "all_items": [
   {
+   "key": "MKE_DIAZ_MIGUEL_613333",
+   "name": "Miguel Angel Diaz",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Take/Drive Veh. w/o Consent-Abandon Veh",
+   "more": 1,
+   "ts": 1794839258,
+   "photo": null
+  },
+  {
+   "key": "MKE_ILER_ADRIAN_629546",
+   "name": "Adrian Romel Iler",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1794839256,
+   "photo": null
+  },
+  {
+   "key": "MKE_GONZALEZ_JONATHAN_648335",
+   "name": "Jonathan Josue Gonzalez",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794839255,
+   "photo": null
+  },
+  {
+   "key": "MKE_TARLETON_TERRANCE_2066800",
+   "name": "Terrance T Tarleton",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1794839253,
+   "photo": null
+  },
+  {
+   "key": "MKE_CORNELIUS_ARMONO_346151",
+   "name": "Armono Macato Cornelius",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
+   "ts": 1794837459,
+   "photo": null
+  },
+  {
+   "key": "MKE_UNDERWOOD_TYRIQUE_602587",
+   "name": "Tyrique Javon Underwood",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
+   "more": 3,
+   "ts": 1794837456,
+   "photo": null
+  },
+  {
+   "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
+   "name": "Samuel Antonio-Toribio",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 3rd",
+   "more": 1,
+   "ts": 1794837301,
+   "photo": "photos/MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203.jpg"
+  },
+  {
+   "key": "KEN_BROWN_GARY_2026-00006332",
+   "name": "Gary Lee Brown",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 5,
+   "ts": 1794837273,
+   "photo": "photos/KEN_BROWN_GARY_2026-00006332.jpg"
+  },
+  {
+   "key": "MAR_TZINTZUN_RICARDO_2026-11-15_8146101",
+   "name": "Ricardo Ramon Tzintzun",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1794837263,
+   "photo": null
+  },
+  {
+   "key": "MAR_YOUNG_PORSCHA_2026-11-16_225317",
+   "name": "Porscha Rae Young",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794837224,
+   "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16_225317.jpg"
+  },
+  {
    "key": "MANGLER_TYLER_2026-11-16",
    "name": "Tyler J Mangler",
    "age": "31",
@@ -592,8 +702,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 3,
    "ts": 1794833708,
    "photo": "photos/KEN_CLEMONS_JACOB_2026-00006331.jpg"
   },
@@ -4259,28 +4369,6 @@
    "more": 0,
    "ts": 1794581298,
    "photo": "photos/RC_MATTA_RAVEN_120011076239333.jpg"
-  },
-  {
-   "key": "MKE_AITCHISON_MATTHEW_287781",
-   "name": "Matthew Scott Aitchison",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 4,
-   "ts": 1794578283,
-   "photo": "photos/MKE_AITCHISON_MATTHEW_287781.jpg"
-  },
-  {
-   "key": "MKE_RUDZITIS_FRANK_601320",
-   "name": "Frank Rudzitis",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794578281,
-   "photo": "photos/MKE_RUDZITIS_FRANK_601320.jpg"
   }
  ]
 }
