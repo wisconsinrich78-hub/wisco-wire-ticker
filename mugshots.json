@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T05:48:01+00:00",
+ "updated": "2026-11-16T05:49:36+00:00",
  "items": [
+  {
+   "key": "RC_KNOTEK_MICHAEL_120011076306334",
+   "name": "Michael J Knotek",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Criminal Damage To Property",
+   "more": 0,
+   "ts": 1794808125,
+   "photo": null
+  },
+  {
+   "key": "RC_MCFADZEN_CONNOR_120011076306453",
+   "name": "Connor Nick Mcfadzen",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Retail Theft - Alter Price - (<=$500)",
+   "more": 0,
+   "ts": 1794808123,
+   "photo": null
+  },
+  {
+   "key": "RC_KNOTEK_MICHAEL_120011076306848",
+   "name": "Michael J Knotek",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794808120,
+   "photo": null
+  },
   {
    "key": "MKE_GARCIA_ROBERTO_287287",
    "name": "Roberto Garcia",
@@ -211,28 +244,6 @@
    "photo": "photos/KEN_ROBINSON_TIESHA_2026-00006327.jpg"
   },
   {
-   "key": "KEN_PATTERSON_TYRONE_2026-00006326",
-   "name": "TYRONE MONROE Junior PATTERSON",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1794797866,
-   "photo": "photos/KEN_PATTERSON_TYRONE_2026-00006326.jpg"
-  },
-  {
-   "key": "KEN_NICKOS_ADAM_2026-00006324",
-   "name": "Adam James Nickos",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Fail to Install/Violate Court\u2026",
-   "more": 3,
-   "ts": 1794797791,
-   "photo": "photos/KEN_NICKOS_ADAM_2026-00006324.jpg"
-  },
-  {
    "key": "MAR_PERRY_KIEUTA_2026-11-15",
    "name": "Kieuta Zarere Perry",
    "age": "29",
@@ -253,17 +264,6 @@
    "more": 2,
    "ts": 1794797614,
    "photo": null
-  },
-  {
-   "key": "MKE_BYRD_WILLIEDEE_627128",
-   "name": "Willie Dee W Byrd",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794796142,
-   "photo": "photos/MKE_BYRD_WILLIEDEE_627128.jpg"
   },
   {
    "key": "MAR_BLOCK_WILLIAM_2026-11-15_105911",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KNOTEK_MICHAEL_120011076306334",
+   "name": "Michael J Knotek",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Criminal Damage To Property",
+   "more": 0,
+   "ts": 1794808125,
+   "photo": null
+  },
+  {
+   "key": "RC_MCFADZEN_CONNOR_120011076306453",
+   "name": "Connor Nick Mcfadzen",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Retail Theft - Alter Price - (<=$500)",
+   "more": 0,
+   "ts": 1794808123,
+   "photo": null
+  },
+  {
+   "key": "RC_KNOTEK_MICHAEL_120011076306848",
+   "name": "Michael J Knotek",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794808120,
+   "photo": null
+  },
   {
    "key": "MKE_GARCIA_ROBERTO_287287",
    "name": "Roberto Garcia",
