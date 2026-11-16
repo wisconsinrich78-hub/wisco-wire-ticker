@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-16T02:49:30+00:00",
+ "updated": "2026-11-16T03:49:29+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_EDDIE_212605",
+   "name": "Eddie James Williams",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794799668,
+   "photo": null
+  },
+  {
+   "key": "MKE_DOTTS_LADETRA_400376",
+   "name": "Ladetra D Dotts",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794799666,
+   "photo": null
+  },
+  {
+   "key": "FDL_DUFNER_STEPHANIE_2026-11-15",
+   "name": "Stephanie Marie Dufner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794798983,
+   "photo": "photos/FDL_DUFNER_STEPHANIE_2026-11-15.jpg"
+  },
+  {
+   "key": "KEN_ROBINSON_TIESHA_2026-00006327",
+   "name": "Tiesha Marsha Robinson",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1794797938,
+   "photo": "photos/KEN_ROBINSON_TIESHA_2026-00006327.jpg"
+  },
+  {
+   "key": "KEN_PATTERSON_TYRONE_2026-00006326",
+   "name": "TYRONE MONROE Junior PATTERSON",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1794797866,
+   "photo": "photos/KEN_PATTERSON_TYRONE_2026-00006326.jpg"
+  },
+  {
+   "key": "KEN_NICKOS_ADAM_2026-00006324",
+   "name": "Adam James Nickos",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Fail to Install/Violate Court\u2026",
+   "more": 3,
+   "ts": 1794797791,
+   "photo": "photos/KEN_NICKOS_ADAM_2026-00006324.jpg"
+  },
+  {
+   "key": "MAR_PERRY_KIEUTA_2026-11-15",
+   "name": "Kieuta Zarere Perry",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 2,
+   "ts": 1794797658,
+   "photo": "photos/MAR_PERRY_KIEUTA_2026-11-15.jpg"
+  },
+  {
+   "key": "MAR_TZINTZUN_RICARDO_2026-11-15",
+   "name": "Ricardo Ramon Tzintzun",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1794797614,
+   "photo": null
+  },
   {
    "key": "MKE_BYRD_WILLIEDEE_627128",
    "name": "Willie Dee W Byrd",
@@ -21,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794796135,
-   "photo": null
+   "photo": "photos/MKE_DEIBERT_KYLE_2029323.jpg"
   },
   {
    "key": "RC_KIRBY_CRAION_120011076302732",
@@ -65,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794788851,
-   "photo": null
+   "photo": "photos/MKE_RUSH_TRESHAWN_648324.jpg"
   },
   {
    "key": "KEN_HOGREVE_KENNETH_2026-00006325",
@@ -73,8 +161,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Criminal Damage to Property",
+   "more": 3,
    "ts": 1794786952,
    "photo": "photos/KEN_HOGREVE_KENNETH_2026-00006325.jpg"
   },
@@ -134,17 +222,6 @@
    "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-15_105911.jpg"
   },
   {
-   "key": "MKE_JONES_ANTONIO_648323",
-   "name": "Antonio W Jones",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794779866,
-   "photo": "photos/MKE_JONES_ANTONIO_648323.jpg"
-  },
-  {
    "key": "MAR_GOSCH_TAMMIE_2026-11-15",
    "name": "Tammie Annette Gosch",
    "age": "44",
@@ -154,17 +231,6 @@
    "more": 2,
    "ts": 1794779611,
    "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_THOMAS_COURTINE_648322",
-   "name": "Courtine C Thomas",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794778081,
-   "photo": "photos/MKE_THOMAS_COURTINE_648322.jpg"
   },
   {
    "key": "MAR_BLOCK_WILLIAM_2026-11-15",
@@ -178,28 +244,6 @@
    "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-15.jpg"
   },
   {
-   "key": "RC_GRAY_DWAYNE_120011076297110",
-   "name": "Dwayne E Gray",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 3,
-   "ts": 1794775702,
-   "photo": "photos/RC_GRAY_DWAYNE_120011076297110.jpg"
-  },
-  {
-   "key": "RC_PATTERSON_LUTHER_120011076297178",
-   "name": "Luther Patterson",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794775699,
-   "photo": "photos/RC_PATTERSON_LUTHER_120011076297178.jpg"
-  },
-  {
    "key": "FDL_LOPEZLOPEZ_HECTOR_2026-11-15",
    "name": "Hector Lopez Lopez",
    "age": "",
@@ -209,17 +253,6 @@
    "more": 0,
    "ts": 1794773784,
    "photo": "photos/FDL_LOPEZLOPEZ_HECTOR_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_COHEN_BRIZELL_628941",
-   "name": "Brizell Alexzander Cohen",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 4,
-   "ts": 1794772658,
-   "photo": "photos/MKE_COHEN_BRIZELL_628941.jpg"
   },
   {
    "key": "FDL_AMONS_ELIJAH_2026-11-15",
@@ -495,42 +528,97 @@
    "more": 0,
    "ts": 1794706023,
    "photo": null
-  },
-  {
-   "key": "HALVERSON_SHANE_2026-11-14",
-   "name": "Shane K Halverson",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794691627,
-   "photo": null
-  },
-  {
-   "key": "FRAUSTO_DEREK_2026-11-14",
-   "name": "Derek Lucas Frausto",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold on Revocation Order or Warrant",
-   "more": 0,
-   "ts": 1794691626,
-   "photo": null
-  },
-  {
-   "key": "DOU_HILLSBERG_SHIAN_2026-11-14",
-   "name": "Shian D Hillsberg",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Cont Subst/Possess Synthetics",
-   "more": 3,
-   "ts": 1794683811,
-   "photo": "photos/DOU_HILLSBERG_SHIAN_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_EDDIE_212605",
+   "name": "Eddie James Williams",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794799668,
+   "photo": null
+  },
+  {
+   "key": "MKE_DOTTS_LADETRA_400376",
+   "name": "Ladetra D Dotts",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794799666,
+   "photo": null
+  },
+  {
+   "key": "FDL_DUFNER_STEPHANIE_2026-11-15",
+   "name": "Stephanie Marie Dufner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794798983,
+   "photo": "photos/FDL_DUFNER_STEPHANIE_2026-11-15.jpg"
+  },
+  {
+   "key": "KEN_ROBINSON_TIESHA_2026-00006327",
+   "name": "Tiesha Marsha Robinson",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1794797938,
+   "photo": "photos/KEN_ROBINSON_TIESHA_2026-00006327.jpg"
+  },
+  {
+   "key": "KEN_PATTERSON_TYRONE_2026-00006326",
+   "name": "TYRONE MONROE Junior PATTERSON",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1794797866,
+   "photo": "photos/KEN_PATTERSON_TYRONE_2026-00006326.jpg"
+  },
+  {
+   "key": "KEN_NICKOS_ADAM_2026-00006324",
+   "name": "Adam James Nickos",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Fail to Install/Violate Court\u2026",
+   "more": 3,
+   "ts": 1794797791,
+   "photo": "photos/KEN_NICKOS_ADAM_2026-00006324.jpg"
+  },
+  {
+   "key": "MAR_PERRY_KIEUTA_2026-11-15",
+   "name": "Kieuta Zarere Perry",
+   "age": "29",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1st-Degree Recklessly Endangering Safety",
+   "more": 2,
+   "ts": 1794797658,
+   "photo": "photos/MAR_PERRY_KIEUTA_2026-11-15.jpg"
+  },
+  {
+   "key": "MAR_TZINTZUN_RICARDO_2026-11-15",
+   "name": "Ricardo Ramon Tzintzun",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1794797614,
+   "photo": null
+  },
   {
    "key": "MKE_BYRD_WILLIEDEE_627128",
    "name": "Willie Dee W Byrd",
@@ -551,7 +639,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794796135,
-   "photo": null
+   "photo": "photos/MKE_DEIBERT_KYLE_2029323.jpg"
   },
   {
    "key": "RC_KIRBY_CRAION_120011076302732",
@@ -595,7 +683,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794788851,
-   "photo": null
+   "photo": "photos/MKE_RUSH_TRESHAWN_648324.jpg"
   },
   {
    "key": "KEN_HOGREVE_KENNETH_2026-00006325",
@@ -603,8 +691,8 @@
    "age": "46",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Criminal Damage to Property",
+   "more": 3,
    "ts": 1794786952,
    "photo": "photos/KEN_HOGREVE_KENNETH_2026-00006325.jpg"
   },
@@ -4072,105 +4160,6 @@
    "more": 0,
    "ts": 1794542235,
    "photo": null
-  },
-  {
-   "key": "MKE_FOWLER_BRYSON_643640",
-   "name": "Bryson V Fowler",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794540482,
-   "photo": "photos/MKE_FOWLER_BRYSON_643640.jpg"
-  },
-  {
-   "key": "MKE_TATELOTT_MAKAI_645221",
-   "name": "Makai Quinton Tate-Lott",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794540480,
-   "photo": "photos/MKE_TATELOTT_MAKAI_645221.jpg"
-  },
-  {
-   "key": "MAR_WILSON_DARNELL_2026-11-12",
-   "name": "Darnell Jcaleb Torin Wilson",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794538669,
-   "photo": "photos/MAR_WILSON_DARNELL_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_OMOREGIE_DANIEL_2026-11-12",
-   "name": "Daniel Omoregie",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1794538629,
-   "photo": "photos/MAR_OMOREGIE_DANIEL_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_JACKSON_JAMES_2026-11-12",
-   "name": "James O Jackson",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1794538590,
-   "photo": "photos/MAR_JACKSON_JAMES_2026-11-12.jpg"
-  },
-  {
-   "key": "KEN_STARKS_GEQUILA_2026-00006278",
-   "name": "Gequila Starks",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794538570,
-   "photo": "photos/KEN_STARKS_GEQUILA_2026-00006278.jpg"
-  },
-  {
-   "key": "MAR_PAULUS_HALEY_2026-11-12",
-   "name": "Haley Jo Paulus",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear Warrant - Felony",
-   "more": 0,
-   "ts": 1794538551,
-   "photo": "photos/MAR_PAULUS_HALEY_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_LOMONTE_ANTHONY_2026-11-12",
-   "name": "Anthony Norman Lomonte",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794538509,
-   "photo": "photos/MAR_LOMONTE_ANTHONY_2026-11-12.jpg"
-  },
-  {
-   "key": "MAR_MICHELS_JOSHUA_2026-11-12",
-   "name": "Joshua Franklin Michels",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1794538473,
-   "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-12.jpg"
   }
  ]
 }
