@@ -1,14 +1,36 @@
 {
- "updated": "2026-11-16T01:49:34+00:00",
+ "updated": "2026-11-16T02:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_BYRD_WILLIEDEE_627128",
+   "name": "Willie Dee W Byrd",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794796142,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEIBERT_KYLE_2029323",
+   "name": "Kyle Alexander Deibert",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794796135,
+   "photo": null
+  },
   {
    "key": "RC_KIRBY_CRAION_120011076302732",
    "name": "Craion Kirby",
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Lewd, Lascivious Behavior-Exposure",
+   "more": 3,
    "ts": 1794793694,
    "photo": null
   },
@@ -21,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794790654,
-   "photo": null
+   "photo": "photos/MKE_CASAREZ_DESIRAE_510524.jpg"
   },
   {
    "key": "MKE_RODRIGUEZ_ELIBERTO_328151",
@@ -32,7 +54,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794788853,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZ_ELIBERTO_328151.jpg"
   },
   {
    "key": "MKE_RUSH_TRESHAWN_648324",
@@ -76,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794783446,
-   "photo": null
+   "photo": "photos/MKE_WILLIS_RENNISHA_611712.jpg"
   },
   {
    "key": "KEN_ZAHNOW_ELIZABETH_2026-00006323",
@@ -200,17 +222,6 @@
    "photo": "photos/MKE_COHEN_BRIZELL_628941.jpg"
   },
   {
-   "key": "MKE_TUNSTALL_JAWUAN_648321",
-   "name": "Jawuan James Tunstall",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 3,
-   "ts": 1794772656,
-   "photo": "photos/MKE_TUNSTALL_JAWUAN_648321.jpg"
-  },
-  {
    "key": "FDL_AMONS_ELIJAH_2026-11-15",
    "name": "Elijah Laney Amons",
    "age": "",
@@ -220,17 +231,6 @@
    "more": 3,
    "ts": 1794770165,
    "photo": "photos/FDL_AMONS_ELIJAH_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_JONES_SHANTIA_539864",
-   "name": "Shantia Nicole Jones",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794769081,
-   "photo": "photos/MKE_JONES_SHANTIA_539864.jpg"
   },
   {
    "key": "TISCHER_ROBERT_2026-11-15",
@@ -532,13 +532,35 @@
  ],
  "all_items": [
   {
+   "key": "MKE_BYRD_WILLIEDEE_627128",
+   "name": "Willie Dee W Byrd",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794796142,
+   "photo": null
+  },
+  {
+   "key": "MKE_DEIBERT_KYLE_2029323",
+   "name": "Kyle Alexander Deibert",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794796135,
+   "photo": null
+  },
+  {
    "key": "RC_KIRBY_CRAION_120011076302732",
    "name": "Craion Kirby",
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Lewd, Lascivious Behavior-Exposure",
+   "more": 3,
    "ts": 1794793694,
    "photo": null
   },
@@ -551,7 +573,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794790654,
-   "photo": null
+   "photo": "photos/MKE_CASAREZ_DESIRAE_510524.jpg"
   },
   {
    "key": "MKE_RODRIGUEZ_ELIBERTO_328151",
@@ -562,7 +584,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794788853,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZ_ELIBERTO_328151.jpg"
   },
   {
    "key": "MKE_RUSH_TRESHAWN_648324",
@@ -606,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794783446,
-   "photo": null
+   "photo": "photos/MKE_WILLIS_RENNISHA_611712.jpg"
   },
   {
    "key": "KEN_ZAHNOW_ELIZABETH_2026-00006323",
@@ -4149,127 +4171,6 @@
    "more": 1,
    "ts": 1794538473,
    "photo": "photos/MAR_MICHELS_JOSHUA_2026-11-12.jpg"
-  },
-  {
-   "key": "MKE_SMITH_RAYMOND_343584",
-   "name": "Raymond Lynell Smith",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794537036,
-   "photo": "photos/MKE_SMITH_RAYMOND_343584.jpg"
-  },
-  {
-   "key": "MKE_MOTLEY_LAVON_416625",
-   "name": "Lavon Jordan Motley",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794537034,
-   "photo": "photos/MKE_MOTLEY_LAVON_416625.jpg"
-  },
-  {
-   "key": "MKE_WELLS_CINCERE_622740",
-   "name": "Cincere Jaylon Wells",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 5,
-   "ts": 1794537031,
-   "photo": "photos/MKE_WELLS_CINCERE_622740.jpg"
-  },
-  {
-   "key": "FEIST_VOLANTE_2026-11-12",
-   "name": "Volante C Feist",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794536829,
-   "photo": "photos/FEIST_VOLANTE_2026-11-12.jpg"
-  },
-  {
-   "key": "FDL_BROWN_PEGGY_2026-11-12",
-   "name": "Peggy Jane Brown",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794536175,
-   "photo": "photos/FDL_BROWN_PEGGY_2026-11-12.jpg"
-  },
-  {
-   "key": "KEN_SMITH_KELVIN_2026-00006274",
-   "name": "Kelvin Andrew Smith",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794536128,
-   "photo": "photos/KEN_SMITH_KELVIN_2026-00006274.jpg"
-  },
-  {
-   "key": "KEN_NEFF_JAMES_2026-00006277",
-   "name": "James Anthony Neff",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Misd",
-   "more": 0,
-   "ts": 1794535969,
-   "photo": "photos/KEN_NEFF_JAMES_2026-00006277.jpg"
-  },
-  {
-   "key": "KEN_DONOVAN_KELLY_2026-00006273",
-   "name": "Kelly Alan Donovan",
-   "age": "49",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1794535792,
-   "photo": "photos/KEN_DONOVAN_KELLY_2026-00006273.jpg"
-  },
-  {
-   "key": "KEN_COTTON_BRIANNA_2026-00006275",
-   "name": "Brianna Monai Cotton",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out of County",
-   "more": 2,
-   "ts": 1794535626,
-   "photo": "photos/KEN_COTTON_BRIANNA_2026-00006275.jpg"
-  },
-  {
-   "key": "KEN_CHAVARRIA_ASHLEY_2026-00006276",
-   "name": "Ashley Beatriz Chavarria",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794535453,
-   "photo": null
-  },
-  {
-   "key": "MKE_WALDRIP_IMAN_648265",
-   "name": "Iman Waldrip",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Neglecting a Child (Harm Did Not Occur and Child Under 6 Years or\u2026",
-   "more": 4,
-   "ts": 1794535077,
-   "photo": "photos/MKE_WALDRIP_IMAN_648265.jpg"
   }
  ]
 }
