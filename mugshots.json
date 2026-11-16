@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-16T14:49:44+00:00",
+ "updated": "2026-11-16T15:49:32+00:00",
  "items": [
+  {
+   "key": "RC_CRAION_KIRBY_120011076302732",
+   "name": "Kirby Craion",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Lewd, Lascivious Behavior-Exposure",
+   "more": 3,
+   "ts": 1794844101,
+   "photo": null
+  },
+  {
+   "key": "RC_SANDERS_CHARLES_120011076317965",
+   "name": "Charles A Sanders",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794844098,
+   "photo": "photos/RC_SANDERS_CHARLES_120011076317965.jpg"
+  },
+  {
+   "key": "RC_GARCIA_BENJAMIN_120011076318392",
+   "name": "Benjamin Lucas Garcia",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794844095,
+   "photo": "photos/RC_GARCIA_BENJAMIN_120011076318392.jpg"
+  },
+  {
+   "key": "RC_RABIN_DAVID_120011076318718",
+   "name": "David Rabin",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794844093,
+   "photo": null
+  },
+  {
+   "key": "MKE_DILWORTH_MARION_244681",
+   "name": "Marion Devaughn Dilworth",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794841334,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_COURTNIE_648322",
+   "name": "Courtnie C Thomas",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794841332,
+   "photo": "photos/MKE_THOMAS_COURTNIE_648322.jpg"
+  },
   {
    "key": "RC_BELL_MICHAEL_120011076314334",
    "name": "Michael Terrell Bell",
@@ -21,7 +87,7 @@
    "charge": "Take/Drive Veh. w/o Consent-Abandon Veh",
    "more": 1,
    "ts": 1794839258,
-   "photo": null
+   "photo": "photos/MKE_DIAZ_MIGUEL_613333.jpg"
   },
   {
    "key": "MKE_ILER_ADRIAN_629546",
@@ -32,7 +98,7 @@
    "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1794839256,
-   "photo": null
+   "photo": "photos/MKE_ILER_ADRIAN_629546.jpg"
   },
   {
    "key": "MKE_GONZALEZ_JONATHAN_648335",
@@ -65,7 +131,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 5,
    "ts": 1794837459,
-   "photo": null
+   "photo": "photos/MKE_CORNELIUS_ARMONO_346151.jpg"
   },
   {
    "key": "MKE_UNDERWOOD_TYRIQUE_602587",
@@ -167,28 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JAHFAR_ABDULMALIK_648334",
-   "name": "Abdul Malik Bin Jahfar",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794833845,
-   "photo": null
-  },
-  {
-   "key": "KEN_CLEMONS_JACOB_2026-00006331",
-   "name": "Jacob Jon Clemons",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794833708,
-   "photo": "photos/KEN_CLEMONS_JACOB_2026-00006331.jpg"
-  },
-  {
    "key": "MAR_YOUNG_PORSCHA_2026-11-16",
    "name": "Porscha Rae Young",
    "age": "36",
@@ -198,50 +242,6 @@
    "more": 0,
    "ts": 1794833606,
    "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_SPIKES_SHAKIRA_648332",
-   "name": "Shakira Lea Spikes",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794832058,
-   "photo": "photos/MKE_SPIKES_SHAKIRA_648332.jpg"
-  },
-  {
-   "key": "MKE_RIDLEY_BRIAN_648331",
-   "name": "Brian A Ridley",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794828454,
-   "photo": "photos/MKE_RIDLEY_BRIAN_648331.jpg"
-  },
-  {
-   "key": "MKE_NOVY_LYLE_648330",
-   "name": "Lyle S Novy",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794826648,
-   "photo": "photos/MKE_NOVY_LYLE_648330.jpg"
-  },
-  {
-   "key": "MKE_EVANS_DANTE_388406",
-   "name": "Dante D Evans",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794823056,
-   "photo": "photos/MKE_EVANS_DANTE_388406.jpg"
   },
   {
    "key": "MAR_THUNDERCLOUD_ROGER_2026-11-16",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "RC_CRAION_KIRBY_120011076302732",
+   "name": "Kirby Craion",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Lewd, Lascivious Behavior-Exposure",
+   "more": 3,
+   "ts": 1794844101,
+   "photo": null
+  },
+  {
+   "key": "RC_SANDERS_CHARLES_120011076317965",
+   "name": "Charles A Sanders",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794844098,
+   "photo": "photos/RC_SANDERS_CHARLES_120011076317965.jpg"
+  },
+  {
+   "key": "RC_GARCIA_BENJAMIN_120011076318392",
+   "name": "Benjamin Lucas Garcia",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794844095,
+   "photo": "photos/RC_GARCIA_BENJAMIN_120011076318392.jpg"
+  },
+  {
+   "key": "RC_RABIN_DAVID_120011076318718",
+   "name": "David Rabin",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794844093,
+   "photo": null
+  },
+  {
+   "key": "MKE_DILWORTH_MARION_244681",
+   "name": "Marion Devaughn Dilworth",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794841334,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMAS_COURTNIE_648322",
+   "name": "Courtnie C Thomas",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1794841332,
+   "photo": "photos/MKE_THOMAS_COURTNIE_648322.jpg"
+  },
+  {
    "key": "RC_BELL_MICHAEL_120011076314334",
    "name": "Michael Terrell Bell",
    "age": "38",
@@ -551,7 +617,7 @@
    "charge": "Take/Drive Veh. w/o Consent-Abandon Veh",
    "more": 1,
    "ts": 1794839258,
-   "photo": null
+   "photo": "photos/MKE_DIAZ_MIGUEL_613333.jpg"
   },
   {
    "key": "MKE_ILER_ADRIAN_629546",
@@ -562,7 +628,7 @@
    "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1794839256,
-   "photo": null
+   "photo": "photos/MKE_ILER_ADRIAN_629546.jpg"
   },
   {
    "key": "MKE_GONZALEZ_JONATHAN_648335",
@@ -595,7 +661,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 5,
    "ts": 1794837459,
-   "photo": null
+   "photo": "photos/MKE_CORNELIUS_ARMONO_346151.jpg"
   },
   {
    "key": "MKE_UNDERWOOD_TYRIQUE_602587",
@@ -4347,28 +4413,6 @@
    "more": 0,
    "ts": 1794586602,
    "photo": "photos/DOU_MICKELSON_TRACY_2026-11-13.jpg"
-  },
-  {
-   "key": "RC_IGBOKO_DEANA_120011076241184",
-   "name": "Deana Igboko",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794584869,
-   "photo": null
-  },
-  {
-   "key": "MAR_LEBRONCAMPOS_JENIFFER_2026-11-13",
-   "name": "Jeniffer Lebron Campos",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resist/Obstruct Officer - Subst. Bodily Harm/Soft Tissue Inj",
-   "more": 0,
-   "ts": 1794581611,
-   "photo": "photos/MAR_LEBRONCAMPOS_JENIFFER_2026-11-13.jpg"
   }
  ]
 }
