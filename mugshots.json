@@ -1,13 +1,24 @@
 {
- "updated": "2026-11-16T09:49:25+00:00",
+ "updated": "2026-11-16T10:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_EVANS_DANTE_388406",
+   "name": "Dante D Evans",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794823056,
+   "photo": null
+  },
   {
    "key": "RC_GREEN_JAMES_120011076310065",
    "name": "James Green",
    "age": "27",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1794822501,
    "photo": "photos/RC_GREEN_JAMES_120011076310065.jpg"
@@ -32,7 +43,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1794817650,
-   "photo": null
+   "photo": "photos/MKE_GEE_TERRELL_282725.jpg"
   },
   {
    "key": "MKE_JONES_COREY_292035",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1794806865,
    "photo": "photos/MKE_SACKMANN_SAMANTHA_644138.jpg"
-  },
-  {
-   "key": "MKE_HICKEY_NATHAN_648327",
-   "name": "Nathan Hickey",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794806863,
-   "photo": "photos/MKE_HICKEY_NATHAN_648327.jpg"
   },
   {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
@@ -532,12 +532,23 @@
  ],
  "all_items": [
   {
+   "key": "MKE_EVANS_DANTE_388406",
+   "name": "Dante D Evans",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794823056,
+   "photo": null
+  },
+  {
    "key": "RC_GREEN_JAMES_120011076310065",
    "name": "James Green",
    "age": "27",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1794822501,
    "photo": "photos/RC_GREEN_JAMES_120011076310065.jpg"
@@ -562,7 +573,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1794817650,
-   "photo": null
+   "photo": "photos/MKE_GEE_TERRELL_282725.jpg"
   },
   {
    "key": "MKE_JONES_COREY_292035",
@@ -4314,50 +4325,6 @@
    "more": 1,
    "ts": 1794567456,
    "photo": "photos/MKE_THAO_KUE_648268.jpg"
-  },
-  {
-   "key": "TREM_HERNANDEZ_MARCOS_6212",
-   "name": "Marcos James Hernandez",
-   "age": "39",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794566833,
-   "photo": "photos/TREM_HERNANDEZ_MARCOS_6212.jpg"
-  },
-  {
-   "key": "TREM_EDBERG_DAISY_6213",
-   "name": "Daisy Mae Edberg",
-   "age": "57",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794566831,
-   "photo": "photos/TREM_EDBERG_DAISY_6213.jpg"
-  },
-  {
-   "key": "TREM_SALERNO_MICHELLE_6214",
-   "name": "Michelle Rose Salerno",
-   "age": "47",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated - 5th or 6th Offense",
-   "more": 1,
-   "ts": 1794566830,
-   "photo": "photos/TREM_SALERNO_MICHELLE_6214.jpg"
-  },
-  {
-   "key": "MKE_HENDRIX_ZACHARY_2046209",
-   "name": "Zachary Jordan Hendrix",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
-   "more": 3,
-   "ts": 1794563861,
-   "photo": "photos/MKE_HENDRIX_ZACHARY_2046209.jpg"
   }
  ]
 }
