@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-16T10:49:28+00:00",
+ "updated": "2026-11-16T11:49:39+00:00",
  "items": [
+  {
+   "key": "MKE_RIDLEY_BRIAN_648331",
+   "name": "Brian A Ridley",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794828454,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOVY_LYLE_648330",
+   "name": "Lyle S Novy",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794826648,
+   "photo": "photos/MKE_NOVY_LYLE_648330.jpg"
+  },
   {
    "key": "MKE_EVANS_DANTE_388406",
    "name": "Dante D Evans",
@@ -10,7 +32,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794823056,
-   "photo": null
+   "photo": "photos/MKE_EVANS_DANTE_388406.jpg"
   },
   {
    "key": "RC_GREEN_JAMES_120011076310065",
@@ -54,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794817649,
-   "photo": null
+   "photo": "photos/MKE_JONES_COREY_292035.jpg"
   },
   {
    "key": "SERVAIS_BRENNA_2026-11-16",
@@ -76,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794815855,
-   "photo": null
+   "photo": "photos/MKE_SHELTON_NATISHA_611535.jpg"
   },
   {
    "key": "KEN_HAYGOOD_SHAKEIA_2026-00006330",
@@ -242,28 +264,6 @@
    "more": 0,
    "ts": 1794806869,
    "photo": "photos/MKE_GARCIA_ROBERTO_287287.jpg"
-  },
-  {
-   "key": "MKE_PECI_KRISTIAN_634341",
-   "name": "Kristian Peci",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794806867,
-   "photo": "photos/MKE_PECI_KRISTIAN_634341.jpg"
-  },
-  {
-   "key": "MKE_SACKMANN_SAMANTHA_644138",
-   "name": "Samantha Marie Sackmann",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Lewd, Lascivious Behavior-In Public",
-   "more": 0,
-   "ts": 1794806865,
-   "photo": "photos/MKE_SACKMANN_SAMANTHA_644138.jpg"
   },
   {
    "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_RIDLEY_BRIAN_648331",
+   "name": "Brian A Ridley",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794828454,
+   "photo": null
+  },
+  {
+   "key": "MKE_NOVY_LYLE_648330",
+   "name": "Lyle S Novy",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794826648,
+   "photo": "photos/MKE_NOVY_LYLE_648330.jpg"
+  },
+  {
    "key": "MKE_EVANS_DANTE_388406",
    "name": "Dante D Evans",
    "age": "34",
@@ -540,7 +562,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794823056,
-   "photo": null
+   "photo": "photos/MKE_EVANS_DANTE_388406.jpg"
   },
   {
    "key": "RC_GREEN_JAMES_120011076310065",
@@ -584,7 +606,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794817649,
-   "photo": null
+   "photo": "photos/MKE_JONES_COREY_292035.jpg"
   },
   {
    "key": "SERVAIS_BRENNA_2026-11-16",
@@ -606,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794815855,
-   "photo": null
+   "photo": "photos/MKE_SHELTON_NATISHA_611535.jpg"
   },
   {
    "key": "KEN_HAYGOOD_SHAKEIA_2026-00006330",
@@ -4237,94 +4259,6 @@
    "more": 1,
    "ts": 1794572880,
    "photo": "photos/MKE_ROSADOSOTO_MELANY_648272.jpg"
-  },
-  {
-   "key": "MKE_LOPEZ_MOCTEZUMA_634404",
-   "name": "Moctezuma Lopez",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794569265,
-   "photo": "photos/MKE_LOPEZ_MOCTEZUMA_634404.jpg"
-  },
-  {
-   "key": "MKE_SYVIENGCHAN_MADDIX_640028",
-   "name": "Maddix P Syviengchan",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1794569263,
-   "photo": "photos/MKE_SYVIENGCHAN_MADDIX_640028.jpg"
-  },
-  {
-   "key": "MKE_NOEL_GERMAYA_648269",
-   "name": "Germaya Danae Noel",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794569261,
-   "photo": "photos/MKE_NOEL_GERMAYA_648269.jpg"
-  },
-  {
-   "key": "MKE_MARTINEZDELARA_DARWIN_648270",
-   "name": "Darwin Cesar Martinez Delara",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794569260,
-   "photo": "photos/MKE_MARTINEZDELARA_DARWIN_648270.jpg"
-  },
-  {
-   "key": "KEN_SMITH_CHRISTOPHER_2026-00006281",
-   "name": "Christopher Michael Smith",
-   "age": "50",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Hit and Run - Unattended Vehicle",
-   "more": 1,
-   "ts": 1794568435,
-   "photo": "photos/KEN_SMITH_CHRISTOPHER_2026-00006281.jpg"
-  },
-  {
-   "key": "KEN_PEREZ_GIOVANNI_2026-00006282",
-   "name": "Giovanni L Perez",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Obstruct or Interfere with Fire or Police Department",
-   "more": 6,
-   "ts": 1794567864,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_DEMETRIUS_373403",
-   "name": "Demetrius Ladell Davis",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794567458,
-   "photo": "photos/MKE_DAVIS_DEMETRIUS_373403.jpg"
-  },
-  {
-   "key": "MKE_THAO_KUE_648268",
-   "name": "Kue D Thao",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794567456,
-   "photo": "photos/MKE_THAO_KUE_648268.jpg"
   }
  ]
 }
