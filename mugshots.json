@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-16T06:19:37+00:00",
+ "updated": "2026-11-16T06:49:28+00:00",
  "items": [
+  {
+   "key": "RC_DEXTER_CODY_120011076308092",
+   "name": "Cody J Dexter",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794811710,
+   "photo": null
+  },
+  {
+   "key": "DOU_OTTERINO_VINCENT_2026-11-15",
+   "name": "Vincent A Otterino",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794810058,
+   "photo": "photos/DOU_OTTERINO_VINCENT_2026-11-15.jpg"
+  },
   {
    "key": "MAR_DEBROUX_BRADY_2026-11-15",
    "name": "Brady Andrew Debroux",
@@ -266,17 +288,6 @@
    "photo": "photos/FDL_DUFNER_STEPHANIE_2026-11-15.jpg"
   },
   {
-   "key": "KEN_ROBINSON_TIESHA_2026-00006327",
-   "name": "Tiesha Marsha Robinson",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1794797938,
-   "photo": "photos/KEN_ROBINSON_TIESHA_2026-00006327.jpg"
-  },
-  {
    "key": "MAR_PERRY_KIEUTA_2026-11-15",
    "name": "Kieuta Zarere Perry",
    "age": "29",
@@ -431,17 +442,6 @@
    "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15.jpg"
   },
   {
-   "key": "DOU_PAJTASH_KAYLA_2026-11-15",
-   "name": "Kayla J Pajtash",
-   "age": "27",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "OWI Alcohol or Drugs",
-   "more": 0,
-   "ts": 1794741401,
-   "photo": "photos/DOU_PAJTASH_KAYLA_2026-11-15.jpg"
-  },
-  {
    "key": "THOMPSON_PASSION_2026-11-15",
    "name": "Passion R Thompson",
    "age": "43",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DEXTER_CODY_120011076308092",
+   "name": "Cody J Dexter",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794811710,
+   "photo": null
+  },
+  {
+   "key": "DOU_OTTERINO_VINCENT_2026-11-15",
+   "name": "Vincent A Otterino",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794810058,
+   "photo": "photos/DOU_OTTERINO_VINCENT_2026-11-15.jpg"
+  },
   {
    "key": "MAR_DEBROUX_BRADY_2026-11-15",
    "name": "Brady Andrew Debroux",
