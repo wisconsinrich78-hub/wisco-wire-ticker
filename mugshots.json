@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T15:49:32+00:00",
+ "updated": "2026-11-16T16:49:27+00:00",
  "items": [
+  {
+   "key": "PAULSON_DOUGLAS_2026-11-16",
+   "name": "Douglas J Paulson",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794846426,
+   "photo": null
+  },
+  {
+   "key": "MKE_MIX_GREGORY_640739",
+   "name": "Gregory K Mix",
+   "age": "69",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794844671,
+   "photo": null
+  },
+  {
+   "key": "KEN_JOHNSON_MYKQUEON_2026-00006333",
+   "name": "Mykqueon Mikai Johnson",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 0,
+   "ts": 1794844437,
+   "photo": "photos/KEN_JOHNSON_MYKQUEON_2026-00006333.jpg"
+  },
   {
    "key": "RC_CRAION_KIRBY_120011076302732",
    "name": "Kirby Craion",
@@ -29,7 +62,7 @@
    "age": "34",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Enforce The Duty Of Child Support Or Maintenance",
    "more": 0,
    "ts": 1794844095,
    "photo": "photos/RC_GARCIA_BENJAMIN_120011076318392.jpg"
@@ -120,7 +153,7 @@
    "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1794839253,
-   "photo": null
+   "photo": "photos/MKE_TARLETON_TERRANCE_2066800.jpg"
   },
   {
    "key": "MKE_CORNELIUS_ARMONO_346151",
@@ -142,7 +175,7 @@
    "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
    "more": 3,
    "ts": 1794837456,
-   "photo": null
+   "photo": "photos/MKE_UNDERWOOD_TYRIQUE_602587.jpg"
   },
   {
    "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
@@ -209,28 +242,6 @@
    "more": 0,
    "ts": 1794834957,
    "photo": "photos/FDL_AVILARIOS_ANUBIS_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_VALADEZ_MARK_354630",
-   "name": "Mark Valadez",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794833848,
-   "photo": null
-  },
-  {
-   "key": "MKE_SINGLETON_MICHAEL_648333",
-   "name": "Michael Stephen Singleton",
-   "age": "77",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794833847,
-   "photo": null
   },
   {
    "key": "MAR_YOUNG_PORSCHA_2026-11-16",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1794739628,
    "photo": "photos/TREM_LORENZOCORONADO_ERIKA_6217.jpg"
-  },
-  {
-   "key": "COLE_RIANA_2026-11-15",
-   "name": "Riana B Cole",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 2,
-   "ts": 1794739624,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "PAULSON_DOUGLAS_2026-11-16",
+   "name": "Douglas J Paulson",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794846426,
+   "photo": null
+  },
+  {
+   "key": "MKE_MIX_GREGORY_640739",
+   "name": "Gregory K Mix",
+   "age": "69",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794844671,
+   "photo": null
+  },
+  {
+   "key": "KEN_JOHNSON_MYKQUEON_2026-00006333",
+   "name": "Mykqueon Mikai Johnson",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 0,
+   "ts": 1794844437,
+   "photo": "photos/KEN_JOHNSON_MYKQUEON_2026-00006333.jpg"
+  },
   {
    "key": "RC_CRAION_KIRBY_120011076302732",
    "name": "Kirby Craion",
@@ -559,7 +592,7 @@
    "age": "34",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Enforce The Duty Of Child Support Or Maintenance",
    "more": 0,
    "ts": 1794844095,
    "photo": "photos/RC_GARCIA_BENJAMIN_120011076318392.jpg"
@@ -650,7 +683,7 @@
    "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1794839253,
-   "photo": null
+   "photo": "photos/MKE_TARLETON_TERRANCE_2066800.jpg"
   },
   {
    "key": "MKE_CORNELIUS_ARMONO_346151",
@@ -672,7 +705,7 @@
    "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
    "more": 3,
    "ts": 1794837456,
-   "photo": null
+   "photo": "photos/MKE_UNDERWOOD_TYRIQUE_602587.jpg"
   },
   {
    "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
@@ -4380,39 +4413,6 @@
    "more": 1,
    "ts": 1794588824,
    "photo": "photos/MAR_SMITH_JOSEPH_2026-11-13_475406.jpg"
-  },
-  {
-   "key": "RC_BAUMLER_MATTHEW_120011076243332",
-   "name": "Matthew Eric Baumler",
-   "age": "58",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Methamphetamine",
-   "more": 10,
-   "ts": 1794588470,
-   "photo": null
-  },
-  {
-   "key": "RC_LEWIS_NIKERRA_120011076244668",
-   "name": "Nikerra Alyssa Jean Lewis",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794588467,
-   "photo": "photos/RC_LEWIS_NIKERRA_120011076244668.jpg"
-  },
-  {
-   "key": "DOU_MICKELSON_TRACY_2026-11-13",
-   "name": "Tracy L Mickelson",
-   "age": "55",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Cont Subst/Possess Synthetics",
-   "more": 0,
-   "ts": 1794586602,
-   "photo": "photos/DOU_MICKELSON_TRACY_2026-11-13.jpg"
   }
  ]
 }
