@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-16T20:58:10+00:00",
+ "updated": "2026-11-16T21:49:41+00:00",
  "items": [
+  {
+   "key": "RC_HENNEGAN_JEREMY_120011076333142",
+   "name": "Jeremy John Hennegan",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794865717,
+   "photo": "photos/RC_HENNEGAN_JEREMY_120011076333142.jpg"
+  },
+  {
+   "key": "RC_KOTKE_JEFFREY_120011076333391",
+   "name": "Jeffrey Richard Kotke",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794865714,
+   "photo": "photos/RC_KOTKE_JEFFREY_120011076333391.jpg"
+  },
+  {
+   "key": "RC_MATTISON_ZACQUEN_120011076333462",
+   "name": "Zacquen Donald Mattison",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794865710,
+   "photo": "photos/RC_MATTISON_ZACQUEN_120011076333462.jpg"
+  },
+  {
+   "key": "MKE_HANSAKDA_JORDEN_647479",
+   "name": "Jorden S Hansakda",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794864484,
+   "photo": null
+  },
+  {
+   "key": "MKE_PENELTONTHOMAS_DENNIS_648340",
+   "name": "Dennis Terell Penelton Thomas",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794864480,
+   "photo": null
+  },
+  {
+   "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
+   "name": "Jose Fray Tzompaxtle Salas",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1794864427,
+   "photo": null
+  },
+  {
+   "key": "FDL_FRENCH_JOSEF_2026-11-16",
+   "name": "Josef William French",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794863778,
+   "photo": "photos/FDL_FRENCH_JOSEF_2026-11-16.jpg"
+  },
   {
    "key": "MAR_STANKE_JONATHON_2026-11-16",
    "name": "Jonathon Michael Stanke",
@@ -178,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_HUIZAR_VICTOR_648337",
-   "name": "Victor Manuel Huizar",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794855493,
-   "photo": null
-  },
-  {
    "key": "MAR_PERRY_KIEUTA_2026-11-15_17106702",
    "name": "Kieuta Zarere Perry",
    "age": "29",
@@ -200,28 +266,6 @@
    "photo": "photos/MAR_PERRY_KIEUTA_2026-11-15_17106702.jpg"
   },
   {
-   "key": "RC_LEWIS_CHRISTINA_120011076325961",
-   "name": "Christina J Lewis",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Methamphetamine",
-   "more": 3,
-   "ts": 1794855035,
-   "photo": null
-  },
-  {
-   "key": "RC_CENTELLDUNK_ADRIC_120011076326106",
-   "name": "Adric Centell-dunk",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794855032,
-   "photo": "photos/RC_CENTELLDUNK_ADRIC_120011076326106.jpg"
-  },
-  {
    "key": "MORAN_MATTHEW_2026-11-16",
    "name": "Matthew Moran",
    "age": "67",
@@ -231,28 +275,6 @@
    "more": 0,
    "ts": 1794854880,
    "photo": null
-  },
-  {
-   "key": "MKE_RULLANLOPEZ_JEFFREY_414111",
-   "name": "Jeffrey Oneil Rullan-Lopez",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
-   "more": 14,
-   "ts": 1794853667,
-   "photo": null
-  },
-  {
-   "key": "MKE_OFFICE_TRAVION_623855",
-   "name": "Travion Elijah Office",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794853665,
-   "photo": "photos/MKE_OFFICE_TRAVION_623855.jpg"
   },
   {
    "key": "FDL_PIRTLE_MARCUS_2026-11-16",
@@ -506,31 +528,86 @@
    "more": 0,
    "ts": 1794798983,
    "photo": "photos/FDL_DUFNER_STEPHANIE_2026-11-15.jpg"
-  },
-  {
-   "key": "FDL_LOPEZLOPEZ_HECTOR_2026-11-15",
-   "name": "Hector Lopez Lopez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794773784,
-   "photo": "photos/FDL_LOPEZLOPEZ_HECTOR_2026-11-15.jpg"
-  },
-  {
-   "key": "FDL_AMONS_ELIJAH_2026-11-15",
-   "name": "Elijah Laney Amons",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794770165,
-   "photo": "photos/FDL_AMONS_ELIJAH_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_HENNEGAN_JEREMY_120011076333142",
+   "name": "Jeremy John Hennegan",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794865717,
+   "photo": "photos/RC_HENNEGAN_JEREMY_120011076333142.jpg"
+  },
+  {
+   "key": "RC_KOTKE_JEFFREY_120011076333391",
+   "name": "Jeffrey Richard Kotke",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794865714,
+   "photo": "photos/RC_KOTKE_JEFFREY_120011076333391.jpg"
+  },
+  {
+   "key": "RC_MATTISON_ZACQUEN_120011076333462",
+   "name": "Zacquen Donald Mattison",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794865710,
+   "photo": "photos/RC_MATTISON_ZACQUEN_120011076333462.jpg"
+  },
+  {
+   "key": "MKE_HANSAKDA_JORDEN_647479",
+   "name": "Jorden S Hansakda",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794864484,
+   "photo": null
+  },
+  {
+   "key": "MKE_PENELTONTHOMAS_DENNIS_648340",
+   "name": "Dennis Terell Penelton Thomas",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794864480,
+   "photo": null
+  },
+  {
+   "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
+   "name": "Jose Fray Tzompaxtle Salas",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1794864427,
+   "photo": null
+  },
+  {
+   "key": "FDL_FRENCH_JOSEF_2026-11-16",
+   "name": "Josef William French",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794863778,
+   "photo": "photos/FDL_FRENCH_JOSEF_2026-11-16.jpg"
+  },
   {
    "key": "MAR_STANKE_JONATHON_2026-11-16",
    "name": "Jonathon Michael Stanke",
@@ -771,7 +848,7 @@
    "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
    "more": 14,
    "ts": 1794853667,
-   "photo": null
+   "photo": "photos/MKE_RULLANLOPEZ_JEFFREY_414111.jpg"
   },
   {
    "key": "MKE_OFFICE_TRAVION_623855",
@@ -4446,50 +4523,6 @@
    "more": 0,
    "ts": 1794606851,
    "photo": null
-  },
-  {
-   "key": "RC_ZAVALA_ZACHERY_120011076256217",
-   "name": "Zachery R Zavala",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794606498,
-   "photo": "photos/RC_ZAVALA_ZACHERY_120011076256217.jpg"
-  },
-  {
-   "key": "MKE_HENDERSON_JERLENE_194971",
-   "name": "Jerlene Henderson",
-   "age": "75",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (5th or 6th)",
-   "more": 1,
-   "ts": 1794605315,
-   "photo": "photos/MKE_HENDERSON_JERLENE_194971.jpg"
-  },
-  {
-   "key": "MKE_SCHULTZ_CHANCE_635568",
-   "name": "Chance T Schultz",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1794605313,
-   "photo": "photos/MKE_SCHULTZ_CHANCE_635568.jpg"
-  },
-  {
-   "key": "FDL_FRASE_VICTORIA_2026-11-13",
-   "name": "Victoria Ann Frase",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794604575,
-   "photo": "photos/FDL_FRASE_VICTORIA_2026-11-13.jpg"
   }
  ]
 }
