@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T18:40:30+00:00",
+ "updated": "2026-11-16T18:53:54+00:00",
  "items": [
+  {
+   "key": "RC_LEWIS_CHRISTINA_120011076325961",
+   "name": "Christina J Lewis",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794855035,
+   "photo": null
+  },
+  {
+   "key": "RC_CENTELLDUNK_ADRIC_120011076326106",
+   "name": "Adric Centell-dunk",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794855032,
+   "photo": "photos/RC_CENTELLDUNK_ADRIC_120011076326106.jpg"
+  },
+  {
+   "key": "MORAN_MATTHEW_2026-11-16",
+   "name": "Matthew Moran",
+   "age": "67",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794854880,
+   "photo": null
+  },
   {
    "key": "MKE_RULLANLOPEZ_JEFFREY_414111",
    "name": "Jeffrey Oneil Rullan-Lopez",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1794844437,
    "photo": "photos/KEN_JOHNSON_MYKQUEON_2026-00006333.jpg"
-  },
-  {
-   "key": "RC_CRAION_KIRBY_120011076302732",
-   "name": "Kirby Craion",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Lewd, Lascivious Behavior-Exposure",
-   "more": 3,
-   "ts": 1794844101,
-   "photo": null
-  },
-  {
-   "key": "RC_SANDERS_CHARLES_120011076317965",
-   "name": "Charles A Sanders",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794844098,
-   "photo": "photos/RC_SANDERS_CHARLES_120011076317965.jpg"
   },
   {
    "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1794755798,
    "photo": "photos/FDL_TOWNER_NICOLE_2026-11-15.jpg"
-  },
-  {
-   "key": "FDL_WILLIAMS_ANTWION_2026-11-15",
-   "name": "Antwion Lashann Williams",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Misdemeanor Bail Jumping",
-   "more": 1,
-   "ts": 1794745010,
-   "photo": "photos/FDL_WILLIAMS_ANTWION_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_LEWIS_CHRISTINA_120011076325961",
+   "name": "Christina J Lewis",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794855035,
+   "photo": null
+  },
+  {
+   "key": "RC_CENTELLDUNK_ADRIC_120011076326106",
+   "name": "Adric Centell-dunk",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794855032,
+   "photo": "photos/RC_CENTELLDUNK_ADRIC_120011076326106.jpg"
+  },
+  {
+   "key": "MORAN_MATTHEW_2026-11-16",
+   "name": "Matthew Moran",
+   "age": "67",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794854880,
+   "photo": null
+  },
   {
    "key": "MKE_RULLANLOPEZ_JEFFREY_414111",
    "name": "Jeffrey Oneil Rullan-Lopez",
@@ -4490,28 +4523,6 @@
    "more": 0,
    "ts": 1794596047,
    "photo": "photos/MAR_GARDUNO_KELLY_2026-11-13.jpg"
-  },
-  {
-   "key": "KEN_ADAMS_MARQUAVIS_2026-00006284",
-   "name": "Marquavis Tyron Adams",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Exceeding Speed Zones (1-10 Mph)",
-   "more": 2,
-   "ts": 1794595643,
-   "photo": "photos/KEN_ADAMS_MARQUAVIS_2026-00006284.jpg"
-  },
-  {
-   "key": "KEN_ACOSTA_ARTURO_2026-00006285",
-   "name": "Arturo O Acosta",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out of County",
-   "more": 0,
-   "ts": 1794595538,
-   "photo": "photos/KEN_ACOSTA_ARTURO_2026-00006285.jpg"
   }
  ]
 }
