@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-16T17:49:31+00:00",
+ "updated": "2026-11-16T18:11:46+00:00",
  "items": [
+  {
+   "key": "KEN_HIGGINBOTTOM_OSCAR_2026-00006336",
+   "name": "Oscar Oneal Higginbottom",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794851791,
+   "photo": "photos/KEN_HIGGINBOTTOM_OSCAR_2026-00006336.jpg"
+  },
+  {
+   "key": "KEN_HERNANDEZ_KALUSHA_2026-00006337",
+   "name": "Kalusha Omar Hernandez",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794851719,
+   "photo": "photos/KEN_HERNANDEZ_KALUSHA_2026-00006337.jpg"
+  },
+  {
+   "key": "MAR_ZYDZIK_ANTHONY_2026-11-16",
+   "name": "Anthony Lee Zydzik",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794851673,
+   "photo": "photos/MAR_ZYDZIK_ANTHONY_2026-11-16.jpg"
+  },
+  {
+   "key": "KEN_ARROYO_VICTOR_2026-00006338",
+   "name": "VICTOR MANUEL Junior ARROYO",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794851643,
+   "photo": null
+  },
+  {
+   "key": "MAR_HATLEBACK_KEEGAN_2026-11-16",
+   "name": "Keegan Mark Hatleback",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794851635,
+   "photo": "photos/MAR_HATLEBACK_KEEGAN_2026-11-16.jpg"
+  },
   {
    "key": "RC_COX_JAVION_120011076321502",
    "name": "Javion M Cox",
@@ -176,39 +231,6 @@
    "more": 8,
    "ts": 1794841334,
    "photo": null
-  },
-  {
-   "key": "MKE_THOMAS_COURTNIE_648322",
-   "name": "Courtnie C Thomas",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794841332,
-   "photo": "photos/MKE_THOMAS_COURTNIE_648322.jpg"
-  },
-  {
-   "key": "RC_BELL_MICHAEL_120011076314334",
-   "name": "Michael Terrell Bell",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Forfeiture)",
-   "more": 0,
-   "ts": 1794840507,
-   "photo": "photos/RC_BELL_MICHAEL_120011076314334.jpg"
-  },
-  {
-   "key": "MKE_DIAZ_MIGUEL_613333",
-   "name": "Miguel Angel Diaz",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Take/Drive Veh. w/o Consent-Abandon Veh",
-   "more": 1,
-   "ts": 1794839258,
-   "photo": "photos/MKE_DIAZ_MIGUEL_613333.jpg"
   },
   {
    "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
@@ -442,28 +464,6 @@
    "photo": "photos/MAR_PERRY_KIEUTA_2026-11-15.jpg"
   },
   {
-   "key": "MAR_TZINTZUN_RICARDO_2026-11-15",
-   "name": "Ricardo Ramon Tzintzun",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 2,
-   "ts": 1794797614,
-   "photo": null
-  },
-  {
-   "key": "MAR_BLOCK_WILLIAM_2026-11-15_105911",
-   "name": "William Douglas Block",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 2,
-   "ts": 1794783196,
-   "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-15_105911.jpg"
-  },
-  {
    "key": "FDL_LOPEZLOPEZ_HECTOR_2026-11-15",
    "name": "Hector Lopez Lopez",
    "age": "",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_HIGGINBOTTOM_OSCAR_2026-00006336",
+   "name": "Oscar Oneal Higginbottom",
+   "age": "54",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794851791,
+   "photo": "photos/KEN_HIGGINBOTTOM_OSCAR_2026-00006336.jpg"
+  },
+  {
+   "key": "KEN_HERNANDEZ_KALUSHA_2026-00006337",
+   "name": "Kalusha Omar Hernandez",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794851719,
+   "photo": "photos/KEN_HERNANDEZ_KALUSHA_2026-00006337.jpg"
+  },
+  {
+   "key": "MAR_ZYDZIK_ANTHONY_2026-11-16",
+   "name": "Anthony Lee Zydzik",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794851673,
+   "photo": "photos/MAR_ZYDZIK_ANTHONY_2026-11-16.jpg"
+  },
+  {
+   "key": "KEN_ARROYO_VICTOR_2026-00006338",
+   "name": "VICTOR MANUEL Junior ARROYO",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794851643,
+   "photo": null
+  },
+  {
+   "key": "MAR_HATLEBACK_KEEGAN_2026-11-16",
+   "name": "Keegan Mark Hatleback",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794851635,
+   "photo": "photos/MAR_HATLEBACK_KEEGAN_2026-11-16.jpg"
+  },
   {
    "key": "RC_COX_JAVION_120011076321502",
    "name": "Javion M Cox",
@@ -760,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794839255,
-   "photo": null
+   "photo": "photos/MKE_GONZALEZ_JONATHAN_648335.jpg"
   },
   {
    "key": "MKE_TARLETON_TERRANCE_2066800",
@@ -881,7 +936,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794833847,
-   "photo": null
+   "photo": "photos/MKE_SINGLETON_MICHAEL_648333.jpg"
   },
   {
    "key": "MKE_JAHFAR_ABDULMALIK_648334",
