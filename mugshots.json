@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-17T01:49:32+00:00",
+ "updated": "2026-11-17T02:49:26+00:00",
  "items": [
+  {
+   "key": "RC_AVILESOVALLE_PETRONAAVIGAIL_120011076339632",
+   "name": "Petrona Avigail Aviles Ovalle",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of a Firearm by a Felon",
+   "more": 1,
+   "ts": 1794883697,
+   "photo": null
+  },
+  {
+   "key": "RC_CULBERSON_TATIANNA_120011076339835",
+   "name": "Tatianna Monay Culberson",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794883694,
+   "photo": "photos/RC_CULBERSON_TATIANNA_120011076339835.jpg"
+  },
+  {
+   "key": "RC_PIGGEE_GKARR_120011076339868",
+   "name": "G'karr L Piggee",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794883691,
+   "photo": "photos/RC_PIGGEE_GKARR_120011076339868.jpg"
+  },
+  {
+   "key": "MKE_SMITH_ALESHA_515875",
+   "name": "Alesha Marie Smith",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794882459,
+   "photo": "photos/MKE_SMITH_ALESHA_515875.jpg"
+  },
+  {
+   "key": "MKE_PIPPINS_DEVON_630968",
+   "name": "Devon A Pippins",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 4,
+   "ts": 1794880659,
+   "photo": "photos/MKE_PIPPINS_DEVON_630968.jpg"
+  },
+  {
+   "key": "MKE_SHAW_JEREMIAH_648344",
+   "name": "Jeremiah Shaw",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794880658,
+   "photo": null
+  },
   {
    "key": "MKE_JACOBS_CLANCY_264665",
    "name": "Clancy Louis Jacobs",
@@ -120,7 +186,7 @@
    "charge": "Habitual Criminality",
    "more": 12,
    "ts": 1794871694,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_CAMREN_401600.jpg"
   },
   {
    "key": "MKE_MARTINEZ_SAMUEL_648343",
@@ -164,18 +230,7 @@
    "charge": "Operating While Suspended",
    "more": 5,
    "ts": 1794869863,
-   "photo": null
-  },
-  {
-   "key": "RC_ROBINSON_ROBERT_120011076335086",
-   "name": "Robert Ivan Robinson",
-   "age": "69",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794869307,
-   "photo": "photos/RC_ROBINSON_ROBERT_120011076335086.jpg"
+   "photo": "photos/MKE_BECKER_ROBERT_618876.jpg"
   },
   {
    "key": "LANG_CHRISTOPHER_2026-11-16",
@@ -200,39 +255,6 @@
    "photo": "photos/DOU_SANDERS_JON_2026-11-16.jpg"
   },
   {
-   "key": "MKE_JOHNSON_JANIYAH_648341",
-   "name": "Janiyah M Johnson",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1794866309,
-   "photo": "photos/MKE_JOHNSON_JANIYAH_648341.jpg"
-  },
-  {
-   "key": "MKE_SPEARMAN_WALTER_648342",
-   "name": "Walter Jacquez Spearman",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794866304,
-   "photo": "photos/MKE_SPEARMAN_WALTER_648342.jpg"
-  },
-  {
-   "key": "MKE_BEAULIEU_JACOB_2051597",
-   "name": "Jacob R Beaulieu",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794866298,
-   "photo": "photos/MKE_BEAULIEU_JACOB_2051597.jpg"
-  },
-  {
    "key": "MAR_DIGANGI_BENJAMIN_2026-11-16",
    "name": "Benjamin Lawrence Digangi",
    "age": "31",
@@ -242,28 +264,6 @@
    "more": 2,
    "ts": 1794866032,
    "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16.jpg"
-  },
-  {
-   "key": "RC_HENNEGAN_JEREMY_120011076333142",
-   "name": "Jeremy John Hennegan",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions\u2026",
-   "more": 0,
-   "ts": 1794865717,
-   "photo": "photos/RC_HENNEGAN_JEREMY_120011076333142.jpg"
-  },
-  {
-   "key": "RC_KOTKE_JEFFREY_120011076333391",
-   "name": "Jeffrey Richard Kotke",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794865714,
-   "photo": "photos/RC_KOTKE_JEFFREY_120011076333391.jpg"
   },
   {
    "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "RC_AVILESOVALLE_PETRONAAVIGAIL_120011076339632",
+   "name": "Petrona Avigail Aviles Ovalle",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of a Firearm by a Felon",
+   "more": 1,
+   "ts": 1794883697,
+   "photo": null
+  },
+  {
+   "key": "RC_CULBERSON_TATIANNA_120011076339835",
+   "name": "Tatianna Monay Culberson",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794883694,
+   "photo": "photos/RC_CULBERSON_TATIANNA_120011076339835.jpg"
+  },
+  {
+   "key": "RC_PIGGEE_GKARR_120011076339868",
+   "name": "G'karr L Piggee",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794883691,
+   "photo": "photos/RC_PIGGEE_GKARR_120011076339868.jpg"
+  },
+  {
+   "key": "MKE_SMITH_ALESHA_515875",
+   "name": "Alesha Marie Smith",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794882459,
+   "photo": "photos/MKE_SMITH_ALESHA_515875.jpg"
+  },
+  {
+   "key": "MKE_PIPPINS_DEVON_630968",
+   "name": "Devon A Pippins",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 4,
+   "ts": 1794880659,
+   "photo": "photos/MKE_PIPPINS_DEVON_630968.jpg"
+  },
+  {
+   "key": "MKE_SHAW_JEREMIAH_648344",
+   "name": "Jeremiah Shaw",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794880658,
+   "photo": null
+  },
+  {
    "key": "MKE_JACOBS_CLANCY_264665",
    "name": "Clancy Louis Jacobs",
    "age": "53",
@@ -650,7 +716,7 @@
    "charge": "Habitual Criminality",
    "more": 12,
    "ts": 1794871694,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_CAMREN_401600.jpg"
   },
   {
    "key": "MKE_MARTINEZ_SAMUEL_648343",
@@ -694,7 +760,7 @@
    "charge": "Operating While Suspended",
    "more": 5,
    "ts": 1794869863,
-   "photo": null
+   "photo": "photos/MKE_BECKER_ROBERT_618876.jpg"
   },
   {
    "key": "RC_ROBINSON_ROBERT_120011076335086",
@@ -815,7 +881,7 @@
    "charge": "Charges Pending",
    "more": 8,
    "ts": 1794864484,
-   "photo": null
+   "photo": "photos/MKE_HANSAKDA_JORDEN_647479.jpg"
   },
   {
    "key": "MKE_PENELTONTHOMAS_DENNIS_648340",
@@ -4380,50 +4446,6 @@
    "more": 0,
    "ts": 1794624818,
    "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_RODERICK_285901",
-   "name": "Roderick Yadelle Williams",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 10,
-   "ts": 1794623279,
-   "photo": "photos/MKE_WILLIAMS_RODERICK_285901.jpg"
-  },
-  {
-   "key": "MKE_DAWSON_DAMONTA_500588",
-   "name": "Damonta Davarian Dawson",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794623275,
-   "photo": "photos/MKE_DAWSON_DAMONTA_500588.jpg"
-  },
-  {
-   "key": "MKE_PIERSON_LAMYAH_648286",
-   "name": "Lamyah Imonie Pierson",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794623272,
-   "photo": "photos/MKE_PIERSON_LAMYAH_648286.jpg"
-  },
-  {
-   "key": "MAR_BENES_DEVLIN_2026-11-13",
-   "name": "Devlin Lee Benes",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794621208,
-   "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
   }
  ]
 }
