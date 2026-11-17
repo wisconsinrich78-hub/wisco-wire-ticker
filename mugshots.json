@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T00:49:26+00:00",
+ "updated": "2026-11-17T01:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_JACOBS_CLANCY_264665",
+   "name": "Clancy Louis Jacobs",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 6,
+   "ts": 1794877075,
+   "photo": null
+  },
+  {
+   "key": "MAR_DIGANGI_BENJAMIN_2026-11-16_16954503",
+   "name": "Benjamin Lawrence Digangi",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 2,
+   "ts": 1794876815,
+   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16_16954503.jpg"
+  },
   {
    "key": "RC_TOBIAS_LEONARD_120011076337125",
    "name": "Leonard Steven Tobias",
@@ -18,8 +40,8 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Forgery-Uttering",
+   "more": 2,
    "ts": 1794876486,
    "photo": "photos/RC_WILLIAMS_JOEY_120011076337186.jpg"
   },
@@ -32,7 +54,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1794875269,
-   "photo": null
+   "photo": "photos/MKE_JONES_TERRELL_261900.jpg"
   },
   {
    "key": "MKE_BUTCHER_DONTRAIL_393551",
@@ -76,7 +98,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1794871702,
-   "photo": null
+   "photo": "photos/MKE_SMITH_ANDRE_299315.jpg"
   },
   {
    "key": "MKE_WACHOWIAK_SCOTT_400145",
@@ -87,7 +109,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1794871698,
-   "photo": null
+   "photo": "photos/MKE_WACHOWIAK_SCOTT_400145.jpg"
   },
   {
    "key": "MKE_DAVIS_CAMREN_401600",
@@ -186,7 +208,7 @@
    "charge": "Battery",
    "more": 2,
    "ts": 1794866309,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_JANIYAH_648341.jpg"
   },
   {
    "key": "MKE_SPEARMAN_WALTER_648342",
@@ -208,7 +230,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794866298,
-   "photo": null
+   "photo": "photos/MKE_BEAULIEU_JACOB_2051597.jpg"
   },
   {
    "key": "MAR_DIGANGI_BENJAMIN_2026-11-16",
@@ -242,17 +264,6 @@
    "more": 0,
    "ts": 1794865714,
    "photo": "photos/RC_KOTKE_JEFFREY_120011076333391.jpg"
-  },
-  {
-   "key": "RC_MATTISON_ZACQUEN_120011076333462",
-   "name": "Zacquen Donald Mattison",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794865710,
-   "photo": "photos/RC_MATTISON_ZACQUEN_120011076333462.jpg"
   },
   {
    "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794813360,
    "photo": "photos/FDL_BANDS_TONEEKA_2026-11-16.jpg"
-  },
-  {
-   "key": "MAR_URBAN_ADAM_2026-11-15_15582501",
-   "name": "Adam John Urban",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794812063,
-   "photo": "photos/MAR_URBAN_ADAM_2026-11-15_15582501.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JACOBS_CLANCY_264665",
+   "name": "Clancy Louis Jacobs",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 6,
+   "ts": 1794877075,
+   "photo": null
+  },
+  {
+   "key": "MAR_DIGANGI_BENJAMIN_2026-11-16_16954503",
+   "name": "Benjamin Lawrence Digangi",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 2,
+   "ts": 1794876815,
+   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16_16954503.jpg"
+  },
   {
    "key": "RC_TOBIAS_LEONARD_120011076337125",
    "name": "Leonard Steven Tobias",
@@ -548,8 +570,8 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Forgery-Uttering",
+   "more": 2,
    "ts": 1794876486,
    "photo": "photos/RC_WILLIAMS_JOEY_120011076337186.jpg"
   },
@@ -562,7 +584,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1794875269,
-   "photo": null
+   "photo": "photos/MKE_JONES_TERRELL_261900.jpg"
   },
   {
    "key": "MKE_BUTCHER_DONTRAIL_393551",
@@ -606,7 +628,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1794871702,
-   "photo": null
+   "photo": "photos/MKE_SMITH_ANDRE_299315.jpg"
   },
   {
    "key": "MKE_WACHOWIAK_SCOTT_400145",
@@ -617,7 +639,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1794871698,
-   "photo": null
+   "photo": "photos/MKE_WACHOWIAK_SCOTT_400145.jpg"
   },
   {
    "key": "MKE_DAVIS_CAMREN_401600",
@@ -716,7 +738,7 @@
    "charge": "Battery",
    "more": 2,
    "ts": 1794866309,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_JANIYAH_648341.jpg"
   },
   {
    "key": "MKE_SPEARMAN_WALTER_648342",
@@ -738,7 +760,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794866298,
-   "photo": null
+   "photo": "photos/MKE_BEAULIEU_JACOB_2051597.jpg"
   },
   {
    "key": "MAR_DIGANGI_BENJAMIN_2026-11-16",
@@ -804,7 +826,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794864480,
-   "photo": null
+   "photo": "photos/MKE_PENELTONTHOMAS_DENNIS_648340.jpg"
   },
   {
    "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
@@ -892,7 +914,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794860859,
-   "photo": null
+   "photo": "photos/MKE_SMITH_JARED_364168.jpg"
   },
   {
    "key": "MKE_GREEN_ANTHONY_648339",
@@ -3914,8 +3936,8 @@
    "age": "17",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
+   "charge": "Possess Dangerous Weapon-Person < 18",
+   "more": 9,
    "ts": 1794644850,
    "photo": "photos/MKE_OCAMPOGUTIUERES_JOEZEN_648291.jpg"
   },
@@ -4402,28 +4424,6 @@
    "more": 0,
    "ts": 1794621208,
    "photo": "photos/MAR_BENES_DEVLIN_2026-11-13.jpg"
-  },
-  {
-   "key": "RC_SORIANODIAZ_HENRY_120011076260128",
-   "name": "Henry Alberto Soriano Diaz",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794620951,
-   "photo": "photos/RC_SORIANODIAZ_HENRY_120011076260128.jpg"
-  },
-  {
-   "key": "MKE_JAMES_DARNELL_648285",
-   "name": "Darnell D James",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794617866,
-   "photo": "photos/MKE_JAMES_DARNELL_648285.jpg"
   }
  ]
 }
