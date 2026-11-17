@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T21:12:17+00:00",
+ "updated": "2026-11-17T21:30:50+00:00",
  "items": [
+  {
+   "key": "DOU_RHODES_BILLY_2026-11-17",
+   "name": "Billy J Rhodes",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1794950320,
+   "photo": "photos/DOU_RHODES_BILLY_2026-11-17.jpg"
+  },
   {
    "key": "KEN_TAYLOR_DESHAWN_2026-00006365",
    "name": "Deshawn Treveon Taylor",
@@ -409,17 +420,6 @@
    "photo": null
   },
   {
-   "key": "MAR_KIEFER_TRISTON_2026-11-17",
-   "name": "Triston Scott Kiefer",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 0,
-   "ts": 1794905625,
-   "photo": "photos/MAR_KIEFER_TRISTON_2026-11-17.jpg"
-  },
-  {
    "key": "BRAUDT_DEREK_2026-11-16",
    "name": "Derek G Braudt",
    "age": "21",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_RHODES_BILLY_2026-11-17",
+   "name": "Billy J Rhodes",
+   "age": "34",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1794950320,
+   "photo": "photos/DOU_RHODES_BILLY_2026-11-17.jpg"
+  },
   {
    "key": "KEN_TAYLOR_DESHAWN_2026-00006365",
    "name": "Deshawn Treveon Taylor",
@@ -4468,61 +4479,6 @@
    "more": 4,
    "ts": 1794692903,
    "photo": "photos/RC_RUSH_JAIA_120011076279419.jpg"
-  },
-  {
-   "key": "MKE_BROWN_LUCAS_376924",
-   "name": "Lucas L Brown",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794691687,
-   "photo": "photos/MKE_BROWN_LUCAS_376924.jpg"
-  },
-  {
-   "key": "HALVERSON_SHANE_2026-11-14",
-   "name": "Shane K Halverson",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794691627,
-   "photo": null
-  },
-  {
-   "key": "HALVERSON_SHANE_2026-11-14_PHOTO_UPDATE",
-   "name": "Shane K Halverson",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794691627,
-   "photo": "photos/HALVERSON_SHANE_2026-11-14_PHOTO_UPDATE.jpg"
-  },
-  {
-   "key": "FRAUSTO_DEREK_2026-11-14",
-   "name": "Derek Lucas Frausto",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold on Revocation Order or Warrant",
-   "more": 0,
-   "ts": 1794691626,
-   "photo": null
-  },
-  {
-   "key": "FRAUSTO_DEREK_2026-11-14_PHOTO_UPDATE",
-   "name": "Derek Lucas Frausto",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold on Revocation Order or Warrant",
-   "more": 0,
-   "ts": 1794691626,
-   "photo": "photos/FRAUSTO_DEREK_2026-11-14_PHOTO_UPDATE.jpg"
   }
  ]
 }
