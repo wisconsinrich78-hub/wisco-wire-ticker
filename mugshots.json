@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T00:32:07+00:00",
+ "updated": "2026-11-17T00:49:26+00:00",
  "items": [
+  {
+   "key": "RC_TOBIAS_LEONARD_120011076337125",
+   "name": "Leonard Steven Tobias",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794876488,
+   "photo": null
+  },
+  {
+   "key": "RC_WILLIAMS_JOEY_120011076337186",
+   "name": "Joey Williams",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794876486,
+   "photo": "photos/RC_WILLIAMS_JOEY_120011076337186.jpg"
+  },
   {
    "key": "MKE_JONES_TERRELL_261900",
    "name": "Terrell Demound Jones",
@@ -231,28 +253,6 @@
    "more": 0,
    "ts": 1794865710,
    "photo": "photos/RC_MATTISON_ZACQUEN_120011076333462.jpg"
-  },
-  {
-   "key": "MKE_HANSAKDA_JORDEN_647479",
-   "name": "Jorden S Hansakda",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794864484,
-   "photo": null
-  },
-  {
-   "key": "MKE_PENELTONTHOMAS_DENNIS_648340",
-   "name": "Dennis Terell Penelton Thomas",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794864480,
-   "photo": null
   },
   {
    "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_TOBIAS_LEONARD_120011076337125",
+   "name": "Leonard Steven Tobias",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794876488,
+   "photo": null
+  },
+  {
+   "key": "RC_WILLIAMS_JOEY_120011076337186",
+   "name": "Joey Williams",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794876486,
+   "photo": "photos/RC_WILLIAMS_JOEY_120011076337186.jpg"
+  },
   {
    "key": "MKE_JONES_TERRELL_261900",
    "name": "Terrell Demound Jones",
@@ -4402,28 +4424,6 @@
    "more": 5,
    "ts": 1794617866,
    "photo": "photos/MKE_JAMES_DARNELL_648285.jpg"
-  },
-  {
-   "key": "RC_BURKMAN_DAVID_120011076259002",
-   "name": "David Malvern Burkman",
-   "age": "64",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 0,
-   "ts": 1794617289,
-   "photo": "photos/RC_BURKMAN_DAVID_120011076259002.jpg"
-  },
-  {
-   "key": "RC_BARRY_DOMINIQUE_120011076259017",
-   "name": "Dominique Barry",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Manufacture/Deliver THC (<=200 grams)",
-   "more": 0,
-   "ts": 1794617286,
-   "photo": "photos/RC_BARRY_DOMINIQUE_120011076259017.jpg"
   }
  ]
 }
