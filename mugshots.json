@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-17T22:49:49+00:00",
+ "updated": "2026-11-17T23:00:08+00:00",
  "items": [
+  {
+   "key": "MKE_CARTER_KENNETH_376407",
+   "name": "Kenneth Cortez Carter",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794956364,
+   "photo": null
+  },
+  {
+   "key": "MKE_ABILES_ISRAEL_604334",
+   "name": "Israel Abiles",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794956361,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_BREANNA_624210",
+   "name": "Breanna Jamila Davis",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794956352,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTON_JACK_648361",
+   "name": "Jack Alan Caston",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794956348,
+   "photo": null
+  },
+  {
+   "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
+   "name": "Raul Raul Portillo-Castaneda",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bodily Harm or Threat to Employee of Health Care Facility",
+   "more": 3,
+   "ts": 1794956243,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILLIAMS_DILLON_2026-11-17",
+   "name": "Dillon Ray Williams",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 6,
+   "ts": 1794956184,
+   "photo": "photos/MAR_WILLIAMS_DILLON_2026-11-17.jpg"
+  },
+  {
+   "key": "MAR_STANDS_SHANICE_2026-11-17",
+   "name": "Shanice Ann Stands",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794956124,
+   "photo": "photos/MAR_STANDS_SHANICE_2026-11-17.jpg"
+  },
   {
    "key": "RC_NELSON_MELINDA_120011076365672",
    "name": "Melinda Kaye Nelson",
@@ -167,50 +244,6 @@
    "photo": "photos/KEN_HARRIS_ANTHONY_2026-00006362.jpg"
   },
   {
-   "key": "KEN_CLARK_KATELYNN_2026-00006363",
-   "name": "Katelynn Cole Clark",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794945821,
-   "photo": "photos/KEN_CLARK_KATELYNN_2026-00006363.jpg"
-  },
-  {
-   "key": "KEN_CARDENAS_MELISSA_2026-00006364",
-   "name": "Melissa Roxanne Cardenas",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794945740,
-   "photo": "photos/KEN_CARDENAS_MELISSA_2026-00006364.jpg"
-  },
-  {
-   "key": "MKE_JEFF_DEVONTE_401702",
-   "name": "Devonte Lee Jeff",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 13,
-   "ts": 1794945548,
-   "photo": "photos/MKE_JEFF_DEVONTE_401702.jpg"
-  },
-  {
-   "key": "MKE_RUCKER_TAQUAYLA_604835",
-   "name": "Taquayla Rucker",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794945537,
-   "photo": "photos/MKE_RUCKER_TAQUAYLA_604835.jpg"
-  },
-  {
    "key": "MAR_JAMES_ALIYA_2026-11-17",
    "name": "Aliya Mae James",
    "age": "20",
@@ -352,39 +385,6 @@
    "more": 0,
    "ts": 1794927205,
    "photo": "photos/MAR_CLARK_CORA_2026-11-17.jpg"
-  },
-  {
-   "key": "MAR_MARUSKA_JOSHUA_2026-11-17_12564307",
-   "name": "Joshua Thomas Maruska",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794919996,
-   "photo": "photos/MAR_MARUSKA_JOSHUA_2026-11-17_12564307.jpg"
-  },
-  {
-   "key": "MAR_MARUSKA_JOSHUA_2026-11-17",
-   "name": "Joshua Thomas Maruska",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794916389,
-   "photo": "photos/MAR_MARUSKA_JOSHUA_2026-11-17.jpg"
-  },
-  {
-   "key": "MAR_HOOVER_TYLYN_2026-11-16_33803",
-   "name": "Tylyn D Hoover",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794912791,
-   "photo": "photos/MAR_HOOVER_TYLYN_2026-11-16_33803.jpg"
   },
   {
    "key": "TREM_HEMBD_ALLY_4143",
@@ -531,6 +531,83 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CARTER_KENNETH_376407",
+   "name": "Kenneth Cortez Carter",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794956364,
+   "photo": null
+  },
+  {
+   "key": "MKE_ABILES_ISRAEL_604334",
+   "name": "Israel Abiles",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794956361,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_BREANNA_624210",
+   "name": "Breanna Jamila Davis",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794956352,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTON_JACK_648361",
+   "name": "Jack Alan Caston",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794956348,
+   "photo": null
+  },
+  {
+   "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
+   "name": "Raul Raul Portillo-Castaneda",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bodily Harm or Threat to Employee of Health Care Facility",
+   "more": 3,
+   "ts": 1794956243,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILLIAMS_DILLON_2026-11-17",
+   "name": "Dillon Ray Williams",
+   "age": "36",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 6,
+   "ts": 1794956184,
+   "photo": "photos/MAR_WILLIAMS_DILLON_2026-11-17.jpg"
+  },
+  {
+   "key": "MAR_STANDS_SHANICE_2026-11-17",
+   "name": "Shanice Ann Stands",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794956124,
+   "photo": "photos/MAR_STANDS_SHANICE_2026-11-17.jpg"
+  },
   {
    "key": "RC_NELSON_MELINDA_120011076365672",
    "name": "Melinda Kaye Nelson",
@@ -4446,28 +4523,6 @@
    "more": 1,
    "ts": 1794698054,
    "photo": "photos/KEN_ANDERSON_ORLANDO_2026-00006305.jpg"
-  },
-  {
-   "key": "MKE_SMITH_AARON_397768",
-   "name": "Aaron Dontrell Smith",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794697070,
-   "photo": "photos/MKE_SMITH_AARON_397768.jpg"
-  },
-  {
-   "key": "MKE_TORRESVELEZ_HECTOR_603173",
-   "name": "Hector L Torres-Velez",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer (Forfeiture)",
-   "more": 6,
-   "ts": 1794697068,
-   "photo": "photos/MKE_TORRESVELEZ_HECTOR_603173.jpg"
   }
  ]
 }
