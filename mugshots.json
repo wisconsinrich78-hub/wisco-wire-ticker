@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-17T12:07:06+00:00",
+ "updated": "2026-11-17T12:45:19+00:00",
  "items": [
+  {
+   "key": "MKE_CRUSE_DEMITTRIS_257184",
+   "name": "Demittris L Cruse",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794918453,
+   "photo": null
+  },
+  {
+   "key": "MKE_GUTIERREZ_GUADALUPE_288510",
+   "name": "Guadalupe D Gutierrez",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794918451,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_SHARONDA_648353",
+   "name": "Sharonda Tamika Johnson",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794918450,
+   "photo": null
+  },
   {
    "key": "MAR_MARUSKA_JOSHUA_2026-11-17",
    "name": "Joshua Thomas Maruska",
@@ -98,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794907655,
-   "photo": null
+   "photo": "photos/MKE_BERRY_JEREMY_2038909.jpg"
   },
   {
    "key": "REYES_ROBERTO_2026-11-17",
@@ -161,7 +194,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Disorderly Conduct",
    "more": 9,
    "ts": 1794902266,
    "photo": null
@@ -175,7 +208,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794902265,
-   "photo": null
+   "photo": "photos/MKE_AUSTINN_ARIYON_648351.jpg"
   },
   {
    "key": "KEN_GUNTERMOORE_KARA_2026-00006351",
@@ -220,39 +253,6 @@
    "more": 0,
    "ts": 1794901726,
    "photo": "photos/RC_WILLIAMS_KOLAIND_120011076346130.jpg"
-  },
-  {
-   "key": "MKE_PEREZTERON_MIGUEL_384647",
-   "name": "Miguel A Perez-teron",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794898653,
-   "photo": null
-  },
-  {
-   "key": "MKE_LOPEZ_JESUS_611918",
-   "name": "Jesus Alexis Lopez",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 5,
-   "ts": 1794898651,
-   "photo": "photos/MKE_LOPEZ_JESUS_611918.jpg"
-  },
-  {
-   "key": "MKE_WARD_IYANNA_648350",
-   "name": "Iyanna Tremay Ward",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794898650,
-   "photo": "photos/MKE_WARD_IYANNA_648350.jpg"
   },
   {
    "key": "BRAUDT_DEREK_2026-11-16",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_CRUSE_DEMITTRIS_257184",
+   "name": "Demittris L Cruse",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794918453,
+   "photo": null
+  },
+  {
+   "key": "MKE_GUTIERREZ_GUADALUPE_288510",
+   "name": "Guadalupe D Gutierrez",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794918451,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_SHARONDA_648353",
+   "name": "Sharonda Tamika Johnson",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794918450,
+   "photo": null
+  },
+  {
    "key": "MAR_MARUSKA_JOSHUA_2026-11-17",
    "name": "Joshua Thomas Maruska",
    "age": "42",
@@ -628,7 +661,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794907655,
-   "photo": null
+   "photo": "photos/MKE_BERRY_JEREMY_2038909.jpg"
   },
   {
    "key": "REYES_ROBERTO_2026-11-17",
@@ -691,7 +724,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Disorderly Conduct",
    "more": 9,
    "ts": 1794902266,
    "photo": null
@@ -705,7 +738,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794902265,
-   "photo": null
+   "photo": "photos/MKE_AUSTINN_ARIYON_648351.jpg"
   },
   {
    "key": "KEN_GUNTERMOORE_KARA_2026-00006351",
@@ -826,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794893271,
-   "photo": null
+   "photo": "photos/MKE_LEE_MONTE_399446.jpg"
   },
   {
    "key": "MKE_WALKER_SHANTAJA_648348",
@@ -4270,39 +4303,6 @@
    "more": 0,
    "ts": 1794664659,
    "photo": "photos/MKE_HERNANDEZMERCADO_RAFAEL_648295.jpg"
-  },
-  {
-   "key": "MKE_PUTCHEL_BREANN_2045062",
-   "name": "Breann Sue Putchel",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794659247,
-   "photo": "photos/MKE_PUTCHEL_BREANN_2045062.jpg"
-  },
-  {
-   "key": "FDL_ROEBKE_CHERIE_2026-11-14",
-   "name": "Cherie Michelle Roebke",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794658586,
-   "photo": "photos/FDL_ROEBKE_CHERIE_2026-11-14.jpg"
-  },
-  {
-   "key": "FDL_KELLY_MANETTE_2026-11-14",
-   "name": "Manette Andrew Kelly",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Veh Operator Flee/Elude Traffic Officer-Bodily Harm/Damage to\u2026",
-   "more": 3,
-   "ts": 1794658575,
-   "photo": "photos/FDL_KELLY_MANETTE_2026-11-14.jpg"
   }
  ]
 }
