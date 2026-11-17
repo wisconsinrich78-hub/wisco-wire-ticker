@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T04:10:54+00:00",
+ "updated": "2026-11-17T04:49:35+00:00",
  "items": [
+  {
+   "key": "REDMOND_LEE_2026-11-16",
+   "name": "Lee H Redmond",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794890826,
+   "photo": null
+  },
+  {
+   "key": "DOU_NELSON_NATALIE_2026-11-16",
+   "name": "Natalie A Nelson",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1794889022,
+   "photo": "photos/DOU_NELSON_NATALIE_2026-11-16.jpg"
+  },
   {
    "key": "MKE_HUARACHAORTIZ_SANTIAGO_648345",
    "name": "Santiago Sipriano Huaracha-Ortiz",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794833606,
    "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16.jpg"
-  },
-  {
-   "key": "MAR_THUNDERCLOUD_ROGER_2026-11-16",
-   "name": "Roger Alan Thundercloud",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1794819263,
-   "photo": "photos/MAR_THUNDERCLOUD_ROGER_2026-11-16.jpg"
-  },
-  {
-   "key": "SERVAIS_BRENNA_2026-11-16",
-   "name": "Brenna N Servais",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794816407,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "REDMOND_LEE_2026-11-16",
+   "name": "Lee H Redmond",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794890826,
+   "photo": null
+  },
+  {
+   "key": "DOU_NELSON_NATALIE_2026-11-16",
+   "name": "Natalie A Nelson",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1794889022,
+   "photo": "photos/DOU_NELSON_NATALIE_2026-11-16.jpg"
+  },
   {
    "key": "MKE_HUARACHAORTIZ_SANTIAGO_648345",
    "name": "Santiago Sipriano Huaracha-Ortiz",
@@ -4281,17 +4303,6 @@
    "more": 1,
    "ts": 1794632077,
    "photo": "photos/KEN_KING_FAITH_2026-00006294.jpg"
-  },
-  {
-   "key": "RC_MARTIN_TERRAL_120011076262645",
-   "name": "Terral Lynn Martin",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine (2nd and subsequent)",
-   "more": 1,
-   "ts": 1794631699,
-   "photo": "photos/RC_MARTIN_TERRAL_120011076262645.jpg"
   }
  ]
 }
