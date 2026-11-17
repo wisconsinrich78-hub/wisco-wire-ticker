@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T18:27:57+00:00",
+ "updated": "2026-11-17T18:49:29+00:00",
  "items": [
+  {
+   "key": "RC_BOYLE_CASEY_120011076358570",
+   "name": "Casey M Boyle",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794941276,
+   "photo": "photos/RC_BOYLE_CASEY_120011076358570.jpg"
+  },
+  {
+   "key": "RC_FORD_STEVEN_120011076360375",
+   "name": "Steven Lavell Ford",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794941273,
+   "photo": null
+  },
   {
    "key": "MKE_COTTON_JARRIEL_389979",
    "name": "Jarriel Demont Cotton",
@@ -255,17 +277,6 @@
    "photo": "photos/MKE_GENTRY_LEVI_648354.jpg"
   },
   {
-   "key": "MKE_JONES_ANTONYUN_648355",
-   "name": "Antonyun J Jones",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794929477,
-   "photo": "photos/MKE_JONES_ANTONYUN_648355.jpg"
-  },
-  {
    "key": "MAR_CLARK_CORA_2026-11-17",
    "name": "Cora Lee Clark",
    "age": "52",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1794927205,
    "photo": "photos/MAR_CLARK_CORA_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_CUNNINGHAM_KAMYA_640395",
-   "name": "Kamya Lashawn Cunningham",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
-   "more": 5,
-   "ts": 1794923853,
-   "photo": "photos/MKE_CUNNINGHAM_KAMYA_640395.jpg"
   },
   {
    "key": "MAR_MARUSKA_JOSHUA_2026-11-17_12564307",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BOYLE_CASEY_120011076358570",
+   "name": "Casey M Boyle",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794941276,
+   "photo": "photos/RC_BOYLE_CASEY_120011076358570.jpg"
+  },
+  {
+   "key": "RC_FORD_STEVEN_120011076360375",
+   "name": "Steven Lavell Ford",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794941273,
+   "photo": null
+  },
   {
    "key": "MKE_COTTON_JARRIEL_389979",
    "name": "Jarriel Demont Cotton",
@@ -4358,17 +4380,6 @@
    "more": 1,
    "ts": 1794682664,
    "photo": "photos/MKE_KUYKENDOLL_KENYATTA_608031.jpg"
-  },
-  {
-   "key": "RC_JAMES_STEVEN_120011076275713",
-   "name": "Steven Q James",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Second Degree Recklessly Endangering Safety",
-   "more": 5,
-   "ts": 1794682086,
-   "photo": null
   }
  ]
 }
