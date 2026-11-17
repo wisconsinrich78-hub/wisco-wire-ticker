@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-17T20:54:07+00:00",
+ "updated": "2026-11-17T21:12:17+00:00",
  "items": [
+  {
+   "key": "KEN_TAYLOR_DESHAWN_2026-00006365",
+   "name": "Deshawn Treveon Taylor",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794949506,
+   "photo": "photos/KEN_TAYLOR_DESHAWN_2026-00006365.jpg"
+  },
+  {
+   "key": "KEN_MCGEE_PAMELA_2026-00006368",
+   "name": "Pamela Denise Mcgee",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794949422,
+   "photo": "photos/KEN_MCGEE_PAMELA_2026-00006368.jpg"
+  },
+  {
+   "key": "KEN_KELSCH_LAURIE_2026-00006367",
+   "name": "Laurie Diane Kelsch",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794949306,
+   "photo": "photos/KEN_KELSCH_LAURIE_2026-00006367.jpg"
+  },
+  {
+   "key": "KEN_BOONE_CHRISTOPHER_2026-00006369",
+   "name": "Christopher Cody Boone",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794949059,
+   "photo": "photos/KEN_BOONE_CHRISTOPHER_2026-00006369.jpg"
+  },
+  {
+   "key": "MAR_TZINZUN_RICARDO_2026-11-15",
+   "name": "Ricardo Ramon Tzinzun",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1794948931,
+   "photo": "photos/MAR_TZINZUN_RICARDO_2026-11-15.jpg"
+  },
+  {
+   "key": "MAR_JAMES_ALIYA_2026-11-17_10370502",
+   "name": "Aliya Mae James",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession of THC",
+   "more": 1,
+   "ts": 1794948886,
+   "photo": "photos/MAR_JAMES_ALIYA_2026-11-17_10370502.jpg"
+  },
   {
    "key": "MKE_TERRY_MIKHI_643638",
    "name": "Mikhi L Terry",
@@ -29,7 +95,7 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1794945906,
    "photo": "photos/KEN_HARRIS_ANTHONY_2026-00006362.jpg"
@@ -51,7 +117,7 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1794945740,
    "photo": "photos/KEN_CARDENAS_MELISSA_2026-00006364.jpg"
@@ -156,17 +222,6 @@
    "photo": "photos/MKE_TRUSSELL_JACQUISE_637425.jpg"
   },
   {
-   "key": "MKE_OCAMPOGUTIERREZ_JOEZEN_648291",
-   "name": "Joezen Ocampo-Gutierrez",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Attempt",
-   "more": 9,
-   "ts": 1794941882,
-   "photo": "photos/MKE_OCAMPOGUTIERREZ_JOEZEN_648291.jpg"
-  },
-  {
    "key": "MAR_KIEFER_TRISTON_2026-11-17_5250709",
    "name": "Triston Scott Kiefer",
    "age": "28",
@@ -176,39 +231,6 @@
    "more": 2,
    "ts": 1794941654,
    "photo": "photos/MAR_KIEFER_TRISTON_2026-11-17_5250709.jpg"
-  },
-  {
-   "key": "RC_BOYLE_CASEY_120011076358570",
-   "name": "Casey M Boyle",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794941276,
-   "photo": "photos/RC_BOYLE_CASEY_120011076358570.jpg"
-  },
-  {
-   "key": "RC_FORD_STEVEN_120011076360375",
-   "name": "Steven Lavell Ford",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794941273,
-   "photo": null
-  },
-  {
-   "key": "MKE_COTTON_JARRIEL_389979",
-   "name": "Jarriel Demont Cotton",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794940068,
-   "photo": "photos/MKE_COTTON_JARRIEL_389979.jpg"
   },
   {
    "key": "BOHANNON_PERRION_2026-11-17",
@@ -398,17 +420,6 @@
    "photo": "photos/MAR_KIEFER_TRISTON_2026-11-17.jpg"
   },
   {
-   "key": "MAR_LORBECKE_GAVIN_2026-11-17",
-   "name": "Gavin Lee Lorbecke",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794905592,
-   "photo": "photos/MAR_LORBECKE_GAVIN_2026-11-17.jpg"
-  },
-  {
    "key": "BRAUDT_DEREK_2026-11-16",
    "name": "Derek G Braudt",
    "age": "21",
@@ -440,17 +451,6 @@
    "more": 1,
    "ts": 1794892584,
    "photo": "photos/FDL_JACKSON_RYAN_2026-11-16.jpg"
-  },
-  {
-   "key": "MAR_HOOVER_TYLYN_2026-11-16",
-   "name": "Tylyn D Hoover",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794891199,
-   "photo": "photos/MAR_HOOVER_TYLYN_2026-11-16.jpg"
   },
   {
    "key": "REDMOND_LEE_2026-11-16",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "KEN_TAYLOR_DESHAWN_2026-00006365",
+   "name": "Deshawn Treveon Taylor",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794949506,
+   "photo": "photos/KEN_TAYLOR_DESHAWN_2026-00006365.jpg"
+  },
+  {
+   "key": "KEN_MCGEE_PAMELA_2026-00006368",
+   "name": "Pamela Denise Mcgee",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794949422,
+   "photo": "photos/KEN_MCGEE_PAMELA_2026-00006368.jpg"
+  },
+  {
+   "key": "KEN_KELSCH_LAURIE_2026-00006367",
+   "name": "Laurie Diane Kelsch",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794949306,
+   "photo": "photos/KEN_KELSCH_LAURIE_2026-00006367.jpg"
+  },
+  {
+   "key": "KEN_BOONE_CHRISTOPHER_2026-00006369",
+   "name": "Christopher Cody Boone",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794949059,
+   "photo": "photos/KEN_BOONE_CHRISTOPHER_2026-00006369.jpg"
+  },
+  {
+   "key": "MAR_TZINZUN_RICARDO_2026-11-15",
+   "name": "Ricardo Ramon Tzinzun",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
+   "ts": 1794948931,
+   "photo": "photos/MAR_TZINZUN_RICARDO_2026-11-15.jpg"
+  },
+  {
+   "key": "MAR_JAMES_ALIYA_2026-11-17_10370502",
+   "name": "Aliya Mae James",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession of THC",
+   "more": 1,
+   "ts": 1794948886,
+   "photo": "photos/MAR_JAMES_ALIYA_2026-11-17_10370502.jpg"
+  },
+  {
    "key": "MKE_TERRY_MIKHI_643638",
    "name": "Mikhi L Terry",
    "age": "23",
@@ -559,7 +625,7 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1794945906,
    "photo": "photos/KEN_HARRIS_ANTHONY_2026-00006362.jpg"
@@ -581,7 +647,7 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1794945740,
    "photo": "photos/KEN_CARDENAS_MELISSA_2026-00006364.jpg"
