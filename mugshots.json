@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T12:45:19+00:00",
+ "updated": "2026-11-17T12:49:32+00:00",
  "items": [
+  {
+   "key": "RC_ARTIS_DAUMARRI_120011076349484",
+   "name": "Daumarri A Artis",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794919689,
+   "photo": null
+  },
   {
    "key": "MKE_CRUSE_DEMITTRIS_257184",
    "name": "Demittris L Cruse",
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1794901732,
    "photo": "photos/RC_CANADY_QUMAIRE_120011076345722.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_KOLAIND_120011076346130",
-   "name": "Kolaind Brazil Williams",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794901726,
-   "photo": "photos/RC_WILLIAMS_KOLAIND_120011076346130.jpg"
   },
   {
    "key": "BRAUDT_DEREK_2026-11-16",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ARTIS_DAUMARRI_120011076349484",
+   "name": "Daumarri A Artis",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794919689,
+   "photo": null
+  },
   {
    "key": "MKE_CRUSE_DEMITTRIS_257184",
    "name": "Demittris L Cruse",
