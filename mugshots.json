@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T13:22:07+00:00",
+ "updated": "2026-11-17T13:49:36+00:00",
  "items": [
+  {
+   "key": "RC_PATRICK_NASHAWN_120011076351179",
+   "name": "Nashawn A Patrick",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794923291,
+   "photo": "photos/RC_PATRICK_NASHAWN_120011076351179.jpg"
+  },
   {
    "key": "MKE_FOX_PRINCE_642004",
    "name": "Prince J Fox",
@@ -253,17 +264,6 @@
    "more": 1,
    "ts": 1794902092,
    "photo": "photos/KEN_GUNTERMOORE_KARA_2026-00006351.jpg"
-  },
-  {
-   "key": "RC_POLLARD_PORTIA_120011076345552",
-   "name": "Portia Marie Pollard",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Electric Weapon",
-   "more": 1,
-   "ts": 1794901735,
-   "photo": null
   },
   {
    "key": "BRAUDT_DEREK_2026-11-16",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PATRICK_NASHAWN_120011076351179",
+   "name": "Nashawn A Patrick",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794923291,
+   "photo": "photos/RC_PATRICK_NASHAWN_120011076351179.jpg"
+  },
   {
    "key": "MKE_FOX_PRINCE_642004",
    "name": "Prince J Fox",
