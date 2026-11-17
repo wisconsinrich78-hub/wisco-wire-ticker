@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T12:49:32+00:00",
+ "updated": "2026-11-17T13:22:07+00:00",
  "items": [
+  {
+   "key": "MKE_FOX_PRINCE_642004",
+   "name": "Prince J Fox",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794920257,
+   "photo": null
+  },
+  {
+   "key": "MAR_MARUSKA_JOSHUA_2026-11-17_12564307",
+   "name": "Joshua Thomas Maruska",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794919996,
+   "photo": "photos/MAR_MARUSKA_JOSHUA_2026-11-17_12564307.jpg"
+  },
   {
    "key": "RC_ARTIS_DAUMARRI_120011076349484",
    "name": "Daumarri A Artis",
@@ -242,17 +264,6 @@
    "more": 1,
    "ts": 1794901735,
    "photo": null
-  },
-  {
-   "key": "RC_CANADY_QUMAIRE_120011076345722",
-   "name": "Qumaire J Canady",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of a Firearm by a Felon",
-   "more": 0,
-   "ts": 1794901732,
-   "photo": "photos/RC_CANADY_QUMAIRE_120011076345722.jpg"
   },
   {
    "key": "BRAUDT_DEREK_2026-11-16",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794854880,
    "photo": null
-  },
-  {
-   "key": "FDL_PIRTLE_MARCUS_2026-11-16",
-   "name": "Marcus Lakeith Pirtle",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794852987,
-   "photo": "photos/FDL_PIRTLE_MARCUS_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_FOX_PRINCE_642004",
+   "name": "Prince J Fox",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794920257,
+   "photo": null
+  },
+  {
+   "key": "MAR_MARUSKA_JOSHUA_2026-11-17_12564307",
+   "name": "Joshua Thomas Maruska",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794919996,
+   "photo": "photos/MAR_MARUSKA_JOSHUA_2026-11-17_12564307.jpg"
+  },
   {
    "key": "RC_ARTIS_DAUMARRI_120011076349484",
    "name": "Daumarri A Artis",
