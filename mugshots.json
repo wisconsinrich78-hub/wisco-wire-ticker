@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-17T18:49:29+00:00",
+ "updated": "2026-11-17T19:49:40+00:00",
  "items": [
+  {
+   "key": "RC_FLUETTE_JEFFREY_120011076362040",
+   "name": "Jeffrey Kurt Fluette",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794944925,
+   "photo": "photos/RC_FLUETTE_JEFFREY_120011076362040.jpg"
+  },
+  {
+   "key": "RC_GOSSETT_CURTIS_120011076362682",
+   "name": "Curtis James Gossett",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794944922,
+   "photo": "photos/RC_GOSSETT_CURTIS_120011076362682.jpg"
+  },
+  {
+   "key": "KRANAU_SUSAN_2026-11-17",
+   "name": "Susan C Kranau",
+   "age": "65",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 0,
+   "ts": 1794943640,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLOYD_YAREE_402391",
+   "name": "Yaree L Cloyd",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "more": 2,
+   "ts": 1794941888,
+   "photo": null
+  },
+  {
+   "key": "MKE_TRUSSELL_JACQUISE_637425",
+   "name": "Jacquise Lavern Trussell",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794941885,
+   "photo": null
+  },
+  {
+   "key": "MKE_OCAMPOGUTIERREZ_JOEZEN_648291",
+   "name": "Joezen Ocampo-Gutierrez",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Attempt",
+   "more": 9,
+   "ts": 1794941882,
+   "photo": "photos/MKE_OCAMPOGUTIERREZ_JOEZEN_648291.jpg"
+  },
+  {
+   "key": "MAR_KIEFER_TRISTON_2026-11-17_5250709",
+   "name": "Triston Scott Kiefer",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 2,
+   "ts": 1794941654,
+   "photo": "photos/MAR_KIEFER_TRISTON_2026-11-17_5250709.jpg"
+  },
   {
    "key": "RC_BOYLE_CASEY_120011076358570",
    "name": "Casey M Boyle",
@@ -32,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794940068,
-   "photo": null
+   "photo": "photos/MKE_COTTON_JARRIEL_389979.jpg"
   },
   {
    "key": "MKE_DELEON_POWELL_542001",
@@ -43,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794940065,
-   "photo": null
+   "photo": "photos/MKE_DELEON_POWELL_542001.jpg"
   },
   {
    "key": "MKE_BUCARDOCHAVARRIA_CARLOS_648358",
@@ -84,7 +161,7 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Revocation Ord & Warr",
    "more": 0,
    "ts": 1794938144,
    "photo": "photos/KEN_SCHRAEDER_ELICE_2026-00006361.jpg"
@@ -109,7 +186,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794936469,
-   "photo": null
+   "photo": "photos/MKE_MCCLOUD_JERMAINE_637081.jpg"
   },
   {
    "key": "MKE_NESS_MYCHALA_648357",
@@ -189,17 +266,6 @@
    "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17_880804.jpg"
   },
   {
-   "key": "MKE_LOVE_ANINA_648356",
-   "name": "Anina Tavia Love",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794931072,
-   "photo": "photos/MKE_LOVE_ANINA_648356.jpg"
-  },
-  {
    "key": "MAR_CLARK_CORA_2026-11-17_10286001",
    "name": "Cora Lee Clark",
    "age": "52",
@@ -231,50 +297,6 @@
    "more": 0,
    "ts": 1794930817,
    "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17.jpg"
-  },
-  {
-   "key": "RC_GRESHAM_LAKIYA_120011076354283",
-   "name": "Lakiya A Gresham",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794930534,
-   "photo": "photos/RC_GRESHAM_LAKIYA_120011076354283.jpg"
-  },
-  {
-   "key": "MKE_MAEBANE_KENNETH_343835",
-   "name": "Kenneth John Maebane",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794929483,
-   "photo": "photos/MKE_MAEBANE_KENNETH_343835.jpg"
-  },
-  {
-   "key": "MKE_CRUZ_NICASIO_389024",
-   "name": "Nicasio N Cruz",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 11,
-   "ts": 1794929482,
-   "photo": "photos/MKE_CRUZ_NICASIO_389024.jpg"
-  },
-  {
-   "key": "MKE_GENTRY_LEVI_648354",
-   "name": "Levi Gentry",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794929480,
-   "photo": "photos/MKE_GENTRY_LEVI_648354.jpg"
   },
   {
    "key": "MAR_CLARK_CORA_2026-11-17",
@@ -453,17 +475,6 @@
    "photo": "photos/HOU_GAVIN_DEANJOSEPH_6331.jpg"
   },
   {
-   "key": "MAR_DIGANGI_BENJAMIN_2026-11-16_16954503",
-   "name": "Benjamin Lawrence Digangi",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794876815,
-   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16_16954503.jpg"
-  },
-  {
    "key": "FDL_MOSS_CRAIG_2026-11-16",
    "name": "Craig R Moss",
    "age": "",
@@ -517,20 +528,86 @@
    "more": 0,
    "ts": 1794864427,
    "photo": null
-  },
-  {
-   "key": "FDL_FRENCH_JOSEF_2026-11-16",
-   "name": "Josef William French",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794863778,
-   "photo": "photos/FDL_FRENCH_JOSEF_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FLUETTE_JEFFREY_120011076362040",
+   "name": "Jeffrey Kurt Fluette",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794944925,
+   "photo": "photos/RC_FLUETTE_JEFFREY_120011076362040.jpg"
+  },
+  {
+   "key": "RC_GOSSETT_CURTIS_120011076362682",
+   "name": "Curtis James Gossett",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794944922,
+   "photo": "photos/RC_GOSSETT_CURTIS_120011076362682.jpg"
+  },
+  {
+   "key": "KRANAU_SUSAN_2026-11-17",
+   "name": "Susan C Kranau",
+   "age": "65",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 0,
+   "ts": 1794943640,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLOYD_YAREE_402391",
+   "name": "Yaree L Cloyd",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "more": 2,
+   "ts": 1794941888,
+   "photo": null
+  },
+  {
+   "key": "MKE_TRUSSELL_JACQUISE_637425",
+   "name": "Jacquise Lavern Trussell",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794941885,
+   "photo": null
+  },
+  {
+   "key": "MKE_OCAMPOGUTIERREZ_JOEZEN_648291",
+   "name": "Joezen Ocampo-Gutierrez",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Attempt",
+   "more": 9,
+   "ts": 1794941882,
+   "photo": "photos/MKE_OCAMPOGUTIERREZ_JOEZEN_648291.jpg"
+  },
+  {
+   "key": "MAR_KIEFER_TRISTON_2026-11-17_5250709",
+   "name": "Triston Scott Kiefer",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 2,
+   "ts": 1794941654,
+   "photo": "photos/MAR_KIEFER_TRISTON_2026-11-17_5250709.jpg"
+  },
   {
    "key": "RC_BOYLE_CASEY_120011076358570",
    "name": "Casey M Boyle",
@@ -562,7 +639,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794940068,
-   "photo": null
+   "photo": "photos/MKE_COTTON_JARRIEL_389979.jpg"
   },
   {
    "key": "MKE_DELEON_POWELL_542001",
@@ -573,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794940065,
-   "photo": null
+   "photo": "photos/MKE_DELEON_POWELL_542001.jpg"
   },
   {
    "key": "MKE_BUCARDOCHAVARRIA_CARLOS_648358",
@@ -614,7 +691,7 @@
    "age": "37",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Revocation Ord & Warr",
    "more": 0,
    "ts": 1794938144,
    "photo": "photos/KEN_SCHRAEDER_ELICE_2026-00006361.jpg"
@@ -639,7 +716,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794936469,
-   "photo": null
+   "photo": "photos/MKE_MCCLOUD_JERMAINE_637081.jpg"
   },
   {
    "key": "MKE_NESS_MYCHALA_648357",
@@ -4347,39 +4424,6 @@
    "more": 1,
    "ts": 1794686266,
    "photo": "photos/MKE_HERRERA_JOSE_648302.jpg"
-  },
-  {
-   "key": "DOU_HILLSBERG_SHIAN_2026-11-14",
-   "name": "Shian D Hillsberg",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Cont Subst/Possess Synthetics",
-   "more": 3,
-   "ts": 1794683811,
-   "photo": "photos/DOU_HILLSBERG_SHIAN_2026-11-14.jpg"
-  },
-  {
-   "key": "MKE_JONES_DEVIN_340845",
-   "name": "Devin Russell Jones",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 3,
-   "ts": 1794682665,
-   "photo": "photos/MKE_JONES_DEVIN_340845.jpg"
-  },
-  {
-   "key": "MKE_KUYKENDOLL_KENYATTA_608031",
-   "name": "Kenyatta Kuykendoll",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
-   "more": 1,
-   "ts": 1794682664,
-   "photo": "photos/MKE_KUYKENDOLL_KENYATTA_608031.jpg"
   }
  ]
 }
