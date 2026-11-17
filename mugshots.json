@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:06:52+00:00",
+ "updated": "2026-11-17T11:49:26+00:00",
  "items": [
   {
    "key": "MKE_BONILLA_MARVIN_350410",
@@ -150,7 +150,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Charges Pending",
    "more": 9,
    "ts": 1794902266,
    "photo": null
@@ -680,7 +680,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Charges Pending",
    "more": 9,
    "ts": 1794902266,
    "photo": null
@@ -4292,28 +4292,6 @@
    "more": 3,
    "ts": 1794658575,
    "photo": "photos/FDL_KELLY_MANETTE_2026-11-14.jpg"
-  },
-  {
-   "key": "RC_CERDA_VICTOR_120011076268990",
-   "name": "Victor R Cerda",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence",
-   "more": 0,
-   "ts": 1794656883,
-   "photo": null
-  },
-  {
-   "key": "DOU_AMYS_ZACHARY_2026-11-13",
-   "name": "Zachary C Amys",
-   "age": "36",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794655005,
-   "photo": "photos/DOU_AMYS_ZACHARY_2026-11-13.jpg"
   }
  ]
 }
