@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-17T17:49:28+00:00",
+ "updated": "2026-11-17T18:27:57+00:00",
  "items": [
+  {
+   "key": "MKE_COTTON_JARRIEL_389979",
+   "name": "Jarriel Demont Cotton",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794940068,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELEON_POWELL_542001",
+   "name": "Powell J Deleon",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794940065,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUCARDOCHAVARRIA_CARLOS_648358",
+   "name": "Carlos H Bucardo Chavarria",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794940063,
+   "photo": null
+  },
+  {
+   "key": "BOHANNON_PERRION_2026-11-17",
+   "name": "Perrion J Bohannon",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794940023,
+   "photo": null
+  },
+  {
+   "key": "DOU_SCHELINDER_JESSICA_2026-11-17",
+   "name": "Jessica L Schelinder",
+   "age": "52",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1794939443,
+   "photo": "photos/DOU_SCHELINDER_JESSICA_2026-11-17.jpg"
+  },
+  {
+   "key": "KEN_SCHRAEDER_ELICE_2026-00006361",
+   "name": "Elice Monique Schraeder",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794938144,
+   "photo": "photos/KEN_SCHRAEDER_ELICE_2026-00006361.jpg"
+  },
+  {
+   "key": "MAR_TROSKOSKI_RYAN_2026-11-17",
+   "name": "Ryan Andrew Troskoski",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1794938030,
+   "photo": "photos/MAR_TROSKOSKI_RYAN_2026-11-17.jpg"
+  },
   {
    "key": "MKE_MCCLOUD_JERMAINE_637081",
    "name": "Jermaine Jemel McCloud",
@@ -43,7 +120,7 @@
    "charge": "Possession of Child Pornography",
    "more": 1,
    "ts": 1794934672,
-   "photo": null
+   "photo": "photos/MKE_REYNOLDS_ROBERT_626266.jpg"
   },
   {
    "key": "MKE_VARELAESPINOZA_EDDYS_646856",
@@ -54,7 +131,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 1,
    "ts": 1794934670,
-   "photo": null
+   "photo": "photos/MKE_VARELAESPINOZA_EDDYS_646856.jpg"
   },
   {
    "key": "KEN_WASHINGTON_RICHARD_2026-00006360",
@@ -62,8 +139,8 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Marijuana (THC)",
+   "more": 3,
    "ts": 1794934455,
    "photo": "photos/KEN_WASHINGTON_RICHARD_2026-00006360.jpg"
   },
@@ -211,28 +288,6 @@
    "photo": "photos/MKE_CUNNINGHAM_KAMYA_640395.jpg"
   },
   {
-   "key": "RC_PATRICK_NASHAWN_120011076351179",
-   "name": "Nashawn A Patrick",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794923291,
-   "photo": "photos/RC_PATRICK_NASHAWN_120011076351179.jpg"
-  },
-  {
-   "key": "MKE_FOX_PRINCE_642004",
-   "name": "Prince J Fox",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794920257,
-   "photo": "photos/MKE_FOX_PRINCE_642004.jpg"
-  },
-  {
    "key": "MAR_MARUSKA_JOSHUA_2026-11-17_12564307",
    "name": "Joshua Thomas Maruska",
    "age": "42",
@@ -242,28 +297,6 @@
    "more": 0,
    "ts": 1794919996,
    "photo": "photos/MAR_MARUSKA_JOSHUA_2026-11-17_12564307.jpg"
-  },
-  {
-   "key": "RC_ARTIS_DAUMARRI_120011076349484",
-   "name": "Daumarri A Artis",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794919689,
-   "photo": null
-  },
-  {
-   "key": "MKE_CRUSE_DEMITTRIS_257184",
-   "name": "Demittris L Cruse",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794918453,
-   "photo": "photos/MKE_CRUSE_DEMITTRIS_257184.jpg"
   },
   {
    "key": "MAR_MARUSKA_JOSHUA_2026-11-17",
@@ -453,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "DOU_METERAUD_AMANDA_2026-11-16",
-   "name": "Amanda D Meteraud",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Bail Jumping",
-   "more": 4,
-   "ts": 1794871250,
-   "photo": "photos/DOU_METERAUD_AMANDA_2026-11-16.jpg"
-  },
-  {
    "key": "FDL_STOFFEL_JAI_2026-11-16",
    "name": "Jai Jacob Stoffel",
    "age": "",
@@ -486,17 +508,6 @@
    "photo": "photos/LANG_CHRISTOPHER_2026-11-16.jpg"
   },
   {
-   "key": "DOU_SANDERS_JON_2026-11-16",
-   "name": "Jon E Sanders",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "OWI Alcohol or Drugs",
-   "more": 2,
-   "ts": 1794867660,
-   "photo": "photos/DOU_SANDERS_JON_2026-11-16.jpg"
-  },
-  {
    "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
    "name": "Jose Fray Tzompaxtle Salas",
    "age": "29",
@@ -517,20 +528,86 @@
    "more": 0,
    "ts": 1794863778,
    "photo": "photos/FDL_FRENCH_JOSEF_2026-11-16.jpg"
-  },
-  {
-   "key": "KOWALKE_CHAD_2026-11-16",
-   "name": "Chad A Kowalke",
-   "age": "51",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794858438,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_COTTON_JARRIEL_389979",
+   "name": "Jarriel Demont Cotton",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794940068,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELEON_POWELL_542001",
+   "name": "Powell J Deleon",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794940065,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUCARDOCHAVARRIA_CARLOS_648358",
+   "name": "Carlos H Bucardo Chavarria",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794940063,
+   "photo": null
+  },
+  {
+   "key": "BOHANNON_PERRION_2026-11-17",
+   "name": "Perrion J Bohannon",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794940023,
+   "photo": null
+  },
+  {
+   "key": "DOU_SCHELINDER_JESSICA_2026-11-17",
+   "name": "Jessica L Schelinder",
+   "age": "52",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1794939443,
+   "photo": "photos/DOU_SCHELINDER_JESSICA_2026-11-17.jpg"
+  },
+  {
+   "key": "KEN_SCHRAEDER_ELICE_2026-00006361",
+   "name": "Elice Monique Schraeder",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794938144,
+   "photo": "photos/KEN_SCHRAEDER_ELICE_2026-00006361.jpg"
+  },
+  {
+   "key": "MAR_TROSKOSKI_RYAN_2026-11-17",
+   "name": "Ryan Andrew Troskoski",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1794938030,
+   "photo": "photos/MAR_TROSKOSKI_RYAN_2026-11-17.jpg"
+  },
   {
    "key": "MKE_MCCLOUD_JERMAINE_637081",
    "name": "Jermaine Jemel McCloud",
@@ -573,7 +650,7 @@
    "charge": "Possession of Child Pornography",
    "more": 1,
    "ts": 1794934672,
-   "photo": null
+   "photo": "photos/MKE_REYNOLDS_ROBERT_626266.jpg"
   },
   {
    "key": "MKE_VARELAESPINOZA_EDDYS_646856",
@@ -584,7 +661,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 1,
    "ts": 1794934670,
-   "photo": null
+   "photo": "photos/MKE_VARELAESPINOZA_EDDYS_646856.jpg"
   },
   {
    "key": "KEN_WASHINGTON_RICHARD_2026-00006360",
@@ -592,8 +669,8 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Marijuana (THC)",
+   "more": 3,
    "ts": 1794934455,
    "photo": "photos/KEN_WASHINGTON_RICHARD_2026-00006360.jpg"
   },
@@ -4291,28 +4368,6 @@
    "charge": "Second Degree Recklessly Endangering Safety",
    "more": 5,
    "ts": 1794682086,
-   "photo": null
-  },
-  {
-   "key": "MKE_CONNER_BRANDON_648300",
-   "name": "Brandon M Conner",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
-   "more": 0,
-   "ts": 1794680852,
-   "photo": "photos/MKE_CONNER_BRANDON_648300.jpg"
-  },
-  {
-   "key": "MKE_PACHECOVELAZQUEZ_CARLOS_648301",
-   "name": "Carlos Pacheco Velazquez",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794680850,
    "photo": null
   }
  ]
