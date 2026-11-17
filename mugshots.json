@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-17T05:16:50+00:00",
+ "updated": "2026-11-17T05:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_LEE_MONTE_399446",
+   "name": "Monte Solomon Lee",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794893271,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALKER_SHANTAJA_648348",
+   "name": "Shantaja Nicollae Walker",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794893269,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_ANTONIO_648349",
+   "name": "Antonio Deangelo Jones",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794893266,
+   "photo": null
+  },
   {
    "key": "FDL_JACKSON_RYAN_2026-11-16",
    "name": "Ryan Jerold Jackson",
@@ -200,17 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JACOBS_CLANCY_264665",
-   "name": "Clancy Louis Jacobs",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 6,
-   "ts": 1794877075,
-   "photo": null
-  },
-  {
    "key": "MAR_DIGANGI_BENJAMIN_2026-11-16_16954503",
    "name": "Benjamin Lawrence Digangi",
    "age": "31",
@@ -220,28 +242,6 @@
    "more": 2,
    "ts": 1794876815,
    "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16_16954503.jpg"
-  },
-  {
-   "key": "RC_TOBIAS_LEONARD_120011076337125",
-   "name": "Leonard Steven Tobias",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794876488,
-   "photo": null
-  },
-  {
-   "key": "RC_WILLIAMS_JOEY_120011076337186",
-   "name": "Joey Williams",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Forgery-Uttering",
-   "more": 2,
-   "ts": 1794876486,
-   "photo": "photos/RC_WILLIAMS_JOEY_120011076337186.jpg"
   },
   {
    "key": "FDL_MOSS_CRAIG_2026-11-16",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_LEE_MONTE_399446",
+   "name": "Monte Solomon Lee",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794893271,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALKER_SHANTAJA_648348",
+   "name": "Shantaja Nicollae Walker",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794893269,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_ANTONIO_648349",
+   "name": "Antonio Deangelo Jones",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794893266,
+   "photo": null
+  },
+  {
    "key": "FDL_JACKSON_RYAN_2026-11-16",
    "name": "Ryan Jerold Jackson",
    "age": "",
@@ -735,7 +768,7 @@
    "age": "53",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
+   "charge": "Domestic Abuse Surcharges",
    "more": 6,
    "ts": 1794877075,
    "photo": null
@@ -4281,39 +4314,6 @@
    "more": 1,
    "ts": 1794637662,
    "photo": "photos/MKE_ODELL_ANGELA_648290.jpg"
-  },
-  {
-   "key": "RC_MASON_HOWARD_120011076263718",
-   "name": "Howard Mason",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794635294,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOWELL_SHANEQUA_507425",
-   "name": "Shanequa D Howell",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794634056,
-   "photo": "photos/MKE_HOWELL_SHANEQUA_507425.jpg"
-  },
-  {
-   "key": "MKE_MOTON_TAVARIS_643947",
-   "name": "Tavaris M Moton",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 11,
-   "ts": 1794634054,
-   "photo": "photos/MKE_MOTON_TAVARIS_643947.jpg"
   }
  ]
 }
