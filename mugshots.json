@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-17T06:49:34+00:00",
+ "updated": "2026-11-17T07:49:26+00:00",
  "items": [
+  {
+   "key": "RC_POLLARD_PORTIA_120011076345552",
+   "name": "Portia Marie Pollard",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794901735,
+   "photo": null
+  },
+  {
+   "key": "RC_CANADY_QUMAIRE_120011076345722",
+   "name": "Qumaire J Canady",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of a Firearm by a Felon",
+   "more": 0,
+   "ts": 1794901732,
+   "photo": "photos/RC_CANADY_QUMAIRE_120011076345722.jpg"
+  },
+  {
+   "key": "RC_WILLIAMS_KOLAIND_120011076346130",
+   "name": "Kolaind Brazil Williams",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794901726,
+   "photo": "photos/RC_WILLIAMS_KOLAIND_120011076346130.jpg"
+  },
+  {
+   "key": "MKE_PEREZTERON_MIGUEL_384647",
+   "name": "Miguel A Perez-teron",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794898653,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOPEZ_JESUS_611918",
+   "name": "Jesus Alexis Lopez",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 5,
+   "ts": 1794898651,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_IYANNA_648350",
+   "name": "Iyanna Tremay Ward",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794898650,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIA_ARNOLD_2026-00006350",
+   "name": "Arnold Garcia",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794898478,
+   "photo": "photos/KEN_GARCIA_ARNOLD_2026-00006350.jpg"
+  },
   {
    "key": "BRAUDT_DEREK_2026-11-16",
    "name": "Derek G Braudt",
@@ -176,83 +253,6 @@
    "more": 0,
    "ts": 1794885698,
    "photo": "photos/HOU_GAVIN_DEANJOSEPH_6331.jpg"
-  },
-  {
-   "key": "KEN_NETTLES_ROBERT_2026-00006346",
-   "name": "Robert Earl Nettles",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794884043,
-   "photo": "photos/KEN_NETTLES_ROBERT_2026-00006346.jpg"
-  },
-  {
-   "key": "RC_AVILESOVALLE_PETRONAAVIGAIL_120011076339632",
-   "name": "Petrona Avigail Aviles Ovalle",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of a Firearm by a Felon",
-   "more": 1,
-   "ts": 1794883697,
-   "photo": null
-  },
-  {
-   "key": "RC_CULBERSON_TATIANNA_120011076339835",
-   "name": "Tatianna Monay Culberson",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1794883694,
-   "photo": "photos/RC_CULBERSON_TATIANNA_120011076339835.jpg"
-  },
-  {
-   "key": "RC_PIGGEE_GKARR_120011076339868",
-   "name": "G'karr L Piggee",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Veh. Operator Flee/Elude Officer",
-   "more": 1,
-   "ts": 1794883691,
-   "photo": "photos/RC_PIGGEE_GKARR_120011076339868.jpg"
-  },
-  {
-   "key": "MKE_SMITH_ALESHA_515875",
-   "name": "Alesha Marie Smith",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794882459,
-   "photo": "photos/MKE_SMITH_ALESHA_515875.jpg"
-  },
-  {
-   "key": "MKE_PIPPINS_DEVON_630968",
-   "name": "Devon A Pippins",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 4,
-   "ts": 1794880659,
-   "photo": "photos/MKE_PIPPINS_DEVON_630968.jpg"
-  },
-  {
-   "key": "MKE_SHAW_JEREMIAH_648344",
-   "name": "Jeremiah Shaw",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794880658,
-   "photo": null
   },
   {
    "key": "MAR_DIGANGI_BENJAMIN_2026-11-16_16954503",
@@ -532,6 +532,83 @@
  ],
  "all_items": [
   {
+   "key": "RC_POLLARD_PORTIA_120011076345552",
+   "name": "Portia Marie Pollard",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794901735,
+   "photo": null
+  },
+  {
+   "key": "RC_CANADY_QUMAIRE_120011076345722",
+   "name": "Qumaire J Canady",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of a Firearm by a Felon",
+   "more": 0,
+   "ts": 1794901732,
+   "photo": "photos/RC_CANADY_QUMAIRE_120011076345722.jpg"
+  },
+  {
+   "key": "RC_WILLIAMS_KOLAIND_120011076346130",
+   "name": "Kolaind Brazil Williams",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794901726,
+   "photo": "photos/RC_WILLIAMS_KOLAIND_120011076346130.jpg"
+  },
+  {
+   "key": "MKE_PEREZTERON_MIGUEL_384647",
+   "name": "Miguel A Perez-teron",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1794898653,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOPEZ_JESUS_611918",
+   "name": "Jesus Alexis Lopez",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 5,
+   "ts": 1794898651,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_IYANNA_648350",
+   "name": "Iyanna Tremay Ward",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794898650,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIA_ARNOLD_2026-00006350",
+   "name": "Arnold Garcia",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1794898478,
+   "photo": "photos/KEN_GARCIA_ARNOLD_2026-00006350.jpg"
+  },
+  {
    "key": "BRAUDT_DEREK_2026-11-16",
    "name": "Derek G Braudt",
    "age": "21",
@@ -782,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794880658,
-   "photo": null
+   "photo": "photos/MKE_SHAW_JEREMIAH_648344.jpg"
   },
   {
    "key": "MKE_JACOBS_CLANCY_264665",
@@ -4237,72 +4314,6 @@
    "more": 1,
    "ts": 1794643051,
    "photo": "photos/MKE_VILJEVAC_NEVAEH_640768.jpg"
-  },
-  {
-   "key": "RC_BUTLER_AIREESE_120011076265864",
-   "name": "Aireese Laquwan Butler",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1794642484,
-   "photo": "photos/RC_BUTLER_AIREESE_120011076265864.jpg"
-  },
-  {
-   "key": "FDL_SINGH_RAO_2026-11-14",
-   "name": "Rao B Singh",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1794640592,
-   "photo": null
-  },
-  {
-   "key": "MKE_FLETCHER_CLIFFORD_504901",
-   "name": "Clifford Fletcher",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794639478,
-   "photo": "photos/MKE_FLETCHER_CLIFFORD_504901.jpg"
-  },
-  {
-   "key": "MKE_BLOCKMON_DOMINIC_633552",
-   "name": "Dominic T Blockmon",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794639477,
-   "photo": "photos/MKE_BLOCKMON_DOMINIC_633552.jpg"
-  },
-  {
-   "key": "MKE_SUGGSJACKSON_DEMARIO_645979",
-   "name": "Demario Tyreese Suggs-Jackson",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794639475,
-   "photo": "photos/MKE_SUGGSJACKSON_DEMARIO_645979.jpg"
-  },
-  {
-   "key": "MKE_KEES_JONATHAN_2043416",
-   "name": "Jonathan Peter Kees",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794639474,
-   "photo": "photos/MKE_KEES_JONATHAN_2043416.jpg"
   }
  ]
 }
