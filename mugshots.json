@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:53:25+00:00",
+ "updated": "2026-11-17T22:49:49+00:00",
  "items": [
   {
    "key": "RC_NELSON_MELINDA_120011076365672",
@@ -9,7 +9,7 @@
    "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1794952170,
+   "ts": 1794955773,
    "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
   },
   {
@@ -20,7 +20,7 @@
    "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1794952161,
+   "ts": 1794955768,
    "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
   },
   {
@@ -31,8 +31,30 @@
    "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1794952150,
+   "ts": 1794955762,
    "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
+  },
+  {
+   "key": "MKE_PRICE_WILLIE_290929",
+   "name": "Willie Darnel Price",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 2,
+   "ts": 1794952743,
+   "photo": null
+  },
+  {
+   "key": "MKE_MORRIS_AMBER_612906",
+   "name": "Amber M Morris",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794952738,
+   "photo": null
   },
   {
    "key": "DOU_RHODES_BILLY_2026-11-17",
@@ -189,17 +211,6 @@
    "photo": "photos/MKE_RUCKER_TAQUAYLA_604835.jpg"
   },
   {
-   "key": "MKE_MUNIZ_KEVIN_616911",
-   "name": "Kevin Junique Muniz",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 1,
-   "ts": 1794945533,
-   "photo": null
-  },
-  {
    "key": "MAR_JAMES_ALIYA_2026-11-17",
    "name": "Aliya Mae James",
    "age": "20",
@@ -209,17 +220,6 @@
    "more": 1,
    "ts": 1794945347,
    "photo": "photos/MAR_JAMES_ALIYA_2026-11-17.jpg"
-  },
-  {
-   "key": "RC_FLUETTE_JEFFREY_120011076362040",
-   "name": "Jeffrey Kurt Fluette",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 3,
-   "ts": 1794944925,
-   "photo": "photos/RC_FLUETTE_JEFFREY_120011076362040.jpg"
   },
   {
    "key": "KRANAU_SUSAN_2026-11-17",
@@ -539,7 +539,7 @@
    "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1794952170,
+   "ts": 1794955773,
    "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
   },
   {
@@ -550,7 +550,7 @@
    "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1794952161,
+   "ts": 1794955768,
    "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
   },
   {
@@ -561,8 +561,30 @@
    "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1794952150,
+   "ts": 1794955762,
    "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
+  },
+  {
+   "key": "MKE_PRICE_WILLIE_290929",
+   "name": "Willie Darnel Price",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 2,
+   "ts": 1794952743,
+   "photo": null
+  },
+  {
+   "key": "MKE_MORRIS_AMBER_612906",
+   "name": "Amber M Morris",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794952738,
+   "photo": null
   },
   {
    "key": "DOU_RHODES_BILLY_2026-11-17",
@@ -727,7 +749,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 1,
    "ts": 1794945533,
-   "photo": null
+   "photo": "photos/MKE_MUNIZ_KEVIN_616911.jpg"
   },
   {
    "key": "MAR_JAMES_ALIYA_2026-11-17",
@@ -782,7 +804,7 @@
    "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
    "more": 2,
    "ts": 1794941888,
-   "photo": null
+   "photo": "photos/MKE_CLOYD_YAREE_402391.jpg"
   },
   {
    "key": "MKE_TRUSSELL_JACQUISE_637425",
@@ -2399,7 +2421,7 @@
    "charge": "Bail Jumping-Misdemeanor",
    "more": 1,
    "ts": 1794851241,
-   "photo": null
+   "photo": "photos/DRIVER_DARIUS_2026-11-16.jpg"
   },
   {
    "key": "MKE_RODRIGUEZ_ANGELA_608824",
@@ -4446,50 +4468,6 @@
    "more": 6,
    "ts": 1794697068,
    "photo": "photos/MKE_TORRESVELEZ_HECTOR_603173.jpg"
-  },
-  {
-   "key": "MKE_WALTON_RUSSELL_387041",
-   "name": "Russell J Walton",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794693471,
-   "photo": "photos/MKE_WALTON_RUSSELL_387041.jpg"
-  },
-  {
-   "key": "MKE_JIMENEZHERNANDEZ_GEORGE_648304",
-   "name": "George Alexande Jimenez hernandez",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794693469,
-   "photo": "photos/MKE_JIMENEZHERNANDEZ_GEORGE_648304.jpg"
-  },
-  {
-   "key": "MKE_HARTFIELD_AZARI_648305",
-   "name": "Azari Hartfield",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794693467,
-   "photo": "photos/MKE_HARTFIELD_AZARI_648305.jpg"
-  },
-  {
-   "key": "MKE_KIRK_TERRION_648306",
-   "name": "Terrion Kirk",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794693464,
-   "photo": "photos/MKE_KIRK_TERRION_648306.jpg"
   }
  ]
 }
