@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T02:49:26+00:00",
+ "updated": "2026-11-17T03:06:47+00:00",
  "items": [
+  {
+   "key": "KEN_NETTLES_ROBERT_2026-00006346",
+   "name": "Robert Earl Nettles",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794884043,
+   "photo": "photos/KEN_NETTLES_ROBERT_2026-00006346.jpg"
+  },
   {
    "key": "RC_AVILESOVALLE_PETRONAAVIGAIL_120011076339632",
    "name": "Petrona Avigail Aviles Ovalle",
@@ -220,17 +231,6 @@
    "more": 2,
    "ts": 1794871022,
    "photo": "photos/FDL_STOFFEL_JAI_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_BECKER_ROBERT_618876",
-   "name": "Robert Anthony Becker",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Suspended",
-   "more": 5,
-   "ts": 1794869863,
-   "photo": "photos/MKE_BECKER_ROBERT_618876.jpg"
   },
   {
    "key": "LANG_CHRISTOPHER_2026-11-16",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_NETTLES_ROBERT_2026-00006346",
+   "name": "Robert Earl Nettles",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794884043,
+   "photo": "photos/KEN_NETTLES_ROBERT_2026-00006346.jpg"
+  },
   {
    "key": "RC_AVILESOVALLE_PETRONAAVIGAIL_120011076339632",
    "name": "Petrona Avigail Aviles Ovalle",
@@ -4380,72 +4391,6 @@
    "more": 1,
    "ts": 1794626817,
    "photo": "photos/ALI_JOMANA_2026-11-13_PHOTO_UPDATE.jpg"
-  },
-  {
-   "key": "MAR_GLENN_DIAMOND_2026-11-12_16201003",
-   "name": "Diamond Deangelo Glenn",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794624989,
-   "photo": "photos/MAR_GLENN_DIAMOND_2026-11-12_16201003.jpg"
-  },
-  {
-   "key": "MAR_BROOME_ERIN_2026-11-12_1607010",
-   "name": "Erin Lynn Broome",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 2,
-   "ts": 1794624948,
-   "photo": "photos/MAR_BROOME_ERIN_2026-11-12_1607010.jpg"
-  },
-  {
-   "key": "MAR_MALOUF_WILLIAM_2026-11-13_7781501",
-   "name": "William Malouf",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Grooming of a Child for Sexual Activity",
-   "more": 1,
-   "ts": 1794624906,
-   "photo": "photos/MAR_MALOUF_WILLIAM_2026-11-13_7781501.jpg"
-  },
-  {
-   "key": "MAR_BENES_DEVLIN_2026-11-13_13412",
-   "name": "Devlin Lee Benes",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794624868,
-   "photo": "photos/MAR_BENES_DEVLIN_2026-11-13_13412.jpg"
-  },
-  {
-   "key": "KEN_PEREZ_MARK_2026-00006291",
-   "name": "Mark William Perez",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1794624853,
-   "photo": "photos/KEN_PEREZ_MARK_2026-00006291.jpg"
-  },
-  {
-   "key": "MAR_COLEMAN_RONALD_2026-11-13",
-   "name": "Ronald James Coleman",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794624818,
-   "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13.jpg"
   }
  ]
 }
