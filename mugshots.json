@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-17T03:06:47+00:00",
+ "updated": "2026-11-17T03:49:31+00:00",
  "items": [
+  {
+   "key": "RC_FINCH_COREY_120011076341740",
+   "name": "Corey M Finch",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794887286,
+   "photo": "photos/RC_FINCH_COREY_120011076341740.jpg"
+  },
+  {
+   "key": "MKE_ROBINSON_MATTHEW_291666",
+   "name": "Matthew Vonterio Robinson",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794886053,
+   "photo": null
+  },
+  {
+   "key": "HOU_GAVIN_DEANJOSEPH_6331",
+   "name": "Dean Joseph Gavin",
+   "age": "57",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Possess child sexual abuse material; Register (Sentenced)",
+   "more": 0,
+   "ts": 1794885698,
+   "photo": "photos/HOU_GAVIN_DEANJOSEPH_6331.jpg"
+  },
   {
    "key": "KEN_NETTLES_ROBERT_2026-00006346",
    "name": "Robert Earl Nettles",
@@ -29,8 +62,8 @@
    "age": "34",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1794883694,
    "photo": "photos/RC_CULBERSON_TATIANNA_120011076339835.jpg"
   },
@@ -40,8 +73,8 @@
    "age": "29",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Veh. Operator Flee/Elude Officer",
+   "more": 1,
    "ts": 1794883691,
    "photo": "photos/RC_PIGGEE_GKARR_120011076339868.jpg"
   },
@@ -142,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794875267,
-   "photo": null
+   "photo": "photos/MKE_BUTCHER_DONTRAIL_393551.jpg"
   },
   {
    "key": "FDL_MOSS_CRAIG_2026-11-16",
@@ -187,28 +220,6 @@
    "more": 0,
    "ts": 1794871698,
    "photo": "photos/MKE_WACHOWIAK_SCOTT_400145.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_CAMREN_401600",
-   "name": "Camren L Davis",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 12,
-   "ts": 1794871694,
-   "photo": "photos/MKE_DAVIS_CAMREN_401600.jpg"
-  },
-  {
-   "key": "MKE_MARTINEZ_SAMUEL_648343",
-   "name": "Samuel Elijah Martinez",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794871691,
-   "photo": null
   },
   {
    "key": "DOU_METERAUD_AMANDA_2026-11-16",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794816407,
    "photo": null
-  },
-  {
-   "key": "FDL_BANDS_TONEEKA_2026-11-16",
-   "name": "Toneeka Nicole Bands",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "FAILURE TO APPEAR / WARRANTS (x3)",
-   "more": 0,
-   "ts": 1794813360,
-   "photo": "photos/FDL_BANDS_TONEEKA_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FINCH_COREY_120011076341740",
+   "name": "Corey M Finch",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794887286,
+   "photo": "photos/RC_FINCH_COREY_120011076341740.jpg"
+  },
+  {
+   "key": "MKE_ROBINSON_MATTHEW_291666",
+   "name": "Matthew Vonterio Robinson",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1794886053,
+   "photo": null
+  },
+  {
+   "key": "HOU_GAVIN_DEANJOSEPH_6331",
+   "name": "Dean Joseph Gavin",
+   "age": "57",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Possess child sexual abuse material; Register (Sentenced)",
+   "more": 0,
+   "ts": 1794885698,
+   "photo": "photos/HOU_GAVIN_DEANJOSEPH_6331.jpg"
+  },
   {
    "key": "KEN_NETTLES_ROBERT_2026-00006346",
    "name": "Robert Earl Nettles",
@@ -559,8 +592,8 @@
    "age": "34",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1794883694,
    "photo": "photos/RC_CULBERSON_TATIANNA_120011076339835.jpg"
   },
@@ -570,8 +603,8 @@
    "age": "29",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Veh. Operator Flee/Elude Officer",
+   "more": 1,
    "ts": 1794883691,
    "photo": "photos/RC_PIGGEE_GKARR_120011076339868.jpg"
   },
@@ -672,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794875267,
-   "photo": null
+   "photo": "photos/MKE_BUTCHER_DONTRAIL_393551.jpg"
   },
   {
    "key": "FDL_MOSS_CRAIG_2026-11-16",
@@ -738,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1794871691,
-   "photo": null
+   "photo": "photos/MKE_MARTINEZ_SAMUEL_648343.jpg"
   },
   {
    "key": "DOU_METERAUD_AMANDA_2026-11-16",
@@ -4292,105 +4325,6 @@
    "more": 0,
    "ts": 1794628405,
    "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13_10507.jpg"
-  },
-  {
-   "key": "RC_AVILA_ANDRES_120011076262029",
-   "name": "Andres Manuel Avila",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of THC (Tetrahydrocannabinols) - (2nd and subsequent)",
-   "more": 0,
-   "ts": 1794628121,
-   "photo": "photos/RC_AVILA_ANDRES_120011076262029.jpg"
-  },
-  {
-   "key": "RC_BRIGNONIMOLINA_JOSE_120011076262129",
-   "name": "Jose C Brignoni molina",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 1,
-   "ts": 1794628118,
-   "photo": "photos/RC_BRIGNONIMOLINA_JOSE_120011076262129.jpg"
-  },
-  {
-   "key": "WINJUM_ADRIAN_2026-11-13",
-   "name": "Adrian M Winjum",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794628050,
-   "photo": null
-  },
-  {
-   "key": "WINJUM_ADRIAN_2026-11-13_PHOTO_UPDATE",
-   "name": "Adrian M Winjum",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794628050,
-   "photo": "photos/WINJUM_ADRIAN_2026-11-13_PHOTO_UPDATE.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_TERVINO_257447",
-   "name": "Tervino Terrell Williams",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794626876,
-   "photo": "photos/MKE_WILLIAMS_TERVINO_257447.jpg"
-  },
-  {
-   "key": "MKE_JENNINGS_KAYLANIE_648282",
-   "name": "Kaylanie A Jennings",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794626874,
-   "photo": "photos/MKE_JENNINGS_KAYLANIE_648282.jpg"
-  },
-  {
-   "key": "MKE_WATKINS_RONALD_648287",
-   "name": "Ronald Chantwon Laval Watkins",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794626873,
-   "photo": "photos/MKE_WATKINS_RONALD_648287.jpg"
-  },
-  {
-   "key": "ALI_JOMANA_2026-11-13",
-   "name": "Jomana H M A Ali",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1794626817,
-   "photo": null
-  },
-  {
-   "key": "ALI_JOMANA_2026-11-13_PHOTO_UPDATE",
-   "name": "Jomana H M A Ali",
-   "age": "23",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1794626817,
-   "photo": "photos/ALI_JOMANA_2026-11-13_PHOTO_UPDATE.jpg"
   }
  ]
 }
