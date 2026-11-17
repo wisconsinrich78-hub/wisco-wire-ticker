@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T23:49:29+00:00",
+ "updated": "2026-11-17T00:32:07+00:00",
  "items": [
+  {
+   "key": "MKE_JONES_TERRELL_261900",
+   "name": "Terrell Demound Jones",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1794875269,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUTCHER_DONTRAIL_393551",
+   "name": "Dontrail Jamual Butcher",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794875267,
+   "photo": null
+  },
+  {
+   "key": "FDL_MOSS_CRAIG_2026-11-16",
+   "name": "Craig R Moss",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x0)",
+   "more": 1,
+   "ts": 1794874603,
+   "photo": null
+  },
   {
    "key": "RICE_CRYSTAL_2026-11-16",
    "name": "Crystal M Rice",
@@ -40,8 +73,8 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "1st Degree Reckless Injury",
-   "more": 7,
+   "charge": "Habitual Criminality",
+   "more": 12,
    "ts": 1794871694,
    "photo": null
   },
@@ -255,17 +288,6 @@
    "photo": "photos/MAR_STANKE_JONATHON_2026-11-16.jpg"
   },
   {
-   "key": "KEN_JACKSON_MELVIN_2026-00006345",
-   "name": "Melvin Eugene Jackson",
-   "age": "59",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794862457,
-   "photo": "photos/KEN_JACKSON_MELVIN_2026-00006345.jpg"
-  },
-  {
    "key": "MAR_GOSCH_TAMMIE_2026-11-16",
    "name": "Tammie Annette Gosch",
    "age": "44",
@@ -286,17 +308,6 @@
    "more": 4,
    "ts": 1794862418,
    "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-16.jpg"
-  },
-  {
-   "key": "RC_GARCIALOPEZ_CRUZ_120011076331265",
-   "name": "Cruz Garcialopez",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794862108,
-   "photo": "photos/RC_GARCIALOPEZ_CRUZ_120011076331265.jpg"
   },
   {
    "key": "KOWALKE_CHAD_2026-11-16",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794812063,
    "photo": "photos/MAR_URBAN_ADAM_2026-11-15_15582501.jpg"
-  },
-  {
-   "key": "DOU_OTTERINO_VINCENT_2026-11-15",
-   "name": "Vincent A Otterino",
-   "age": "38",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794810058,
-   "photo": "photos/DOU_OTTERINO_VINCENT_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JONES_TERRELL_261900",
+   "name": "Terrell Demound Jones",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1794875269,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUTCHER_DONTRAIL_393551",
+   "name": "Dontrail Jamual Butcher",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794875267,
+   "photo": null
+  },
+  {
+   "key": "FDL_MOSS_CRAIG_2026-11-16",
+   "name": "Craig R Moss",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x0)",
+   "more": 1,
+   "ts": 1794874603,
+   "photo": null
+  },
   {
    "key": "RICE_CRYSTAL_2026-11-16",
    "name": "Crystal M Rice",
@@ -570,8 +603,8 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "1st Degree Reckless Injury",
-   "more": 7,
+   "charge": "Habitual Criminality",
+   "more": 12,
    "ts": 1794871694,
    "photo": null
   },
@@ -790,8 +823,8 @@
    "age": "59",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Warrant Other Agency - Out of County",
+   "more": 2,
    "ts": 1794862457,
    "photo": "photos/KEN_JACKSON_MELVIN_2026-00006345.jpg"
   },
@@ -848,7 +881,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794860856,
-   "photo": null
+   "photo": "photos/MKE_GREEN_ANTHONY_648339.jpg"
   },
   {
    "key": "KEN_TURNER_JAMIE_2026-00006341",
@@ -914,7 +947,7 @@
    "charge": "Burglary-Building or Dwelling",
    "more": 0,
    "ts": 1794859082,
-   "photo": null
+   "photo": "photos/MKE_NOLANNOVAK_ESSENCE_641388.jpg"
   },
   {
    "key": "MKE_WILLIAMS_ROYSHAWN_648338",
@@ -925,7 +958,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794859080,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ROYSHAWN_648338.jpg"
   },
   {
    "key": "KOWALKE_CHAD_2026-11-16",
@@ -4391,105 +4424,6 @@
    "more": 0,
    "ts": 1794617286,
    "photo": "photos/RC_BARRY_DOMINIQUE_120011076259017.jpg"
-  },
-  {
-   "key": "MKE_TURNER_BRYAN_276268",
-   "name": "Bryan H Turner",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794616063,
-   "photo": "photos/MKE_TURNER_BRYAN_276268.jpg"
-  },
-  {
-   "key": "MKE_WILKINS_MONICA_615402",
-   "name": "Monica L Wilkins",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794616061,
-   "photo": "photos/MKE_WILKINS_MONICA_615402.jpg"
-  },
-  {
-   "key": "MKE_RICARD_ZAKARY_648283",
-   "name": "Zakary L Ricard",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1794616059,
-   "photo": "photos/MKE_RICARD_ZAKARY_648283.jpg"
-  },
-  {
-   "key": "MKE_DIXON_ANTHONY_648284",
-   "name": "Anthony Eugene Dixon",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794616057,
-   "photo": "photos/MKE_DIXON_ANTHONY_648284.jpg"
-  },
-  {
-   "key": "MKE_NELSON_DARNELL_2041790",
-   "name": "Darnell E Nelson",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 0,
-   "ts": 1794616055,
-   "photo": "photos/MKE_NELSON_DARNELL_2041790.jpg"
-  },
-  {
-   "key": "DOU_WELTON_KYLEN_2026-11-13",
-   "name": "Kylen P Welton",
-   "age": "36",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Domestic-False Imprisonment",
-   "more": 4,
-   "ts": 1794615403,
-   "photo": "photos/DOU_WELTON_KYLEN_2026-11-13.jpg"
-  },
-  {
-   "key": "FDL_STEINWAY_RIK_2026-11-13",
-   "name": "Rik Woodward Steinway",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794615395,
-   "photo": null
-  },
-  {
-   "key": "KEN_BENJAMIN_MALENA_2026-00006290",
-   "name": "Malena Marie Benjamin",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Mistreating Animals",
-   "more": 4,
-   "ts": 1794614216,
-   "photo": "photos/KEN_BENJAMIN_MALENA_2026-00006290.jpg"
-  },
-  {
-   "key": "MAR_MALONEY_BARBARA_2026-11-13_1712836",
-   "name": "Barbara Jean Maloney",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794614064,
-   "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13_1712836.jpg"
   }
  ]
 }
