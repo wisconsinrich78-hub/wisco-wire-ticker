@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-17T19:49:40+00:00",
+ "updated": "2026-11-17T20:50:01+00:00",
  "items": [
+  {
+   "key": "MKE_TERRY_MIKHI_643638",
+   "name": "Mikhi L Terry",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794947340,
+   "photo": null
+  },
+  {
+   "key": "MKE_HENDERSONBELL_TANEA_648359",
+   "name": "Tanea L Henderson Bell",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1794947335,
+   "photo": null
+  },
+  {
+   "key": "KEN_HARRIS_ANTHONY_2026-00006362",
+   "name": "ANTHONY LEE Second HARRIS",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794945906,
+   "photo": "photos/KEN_HARRIS_ANTHONY_2026-00006362.jpg"
+  },
+  {
+   "key": "KEN_CLARK_KATELYNN_2026-00006363",
+   "name": "Katelynn Cole Clark",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794945821,
+   "photo": "photos/KEN_CLARK_KATELYNN_2026-00006363.jpg"
+  },
+  {
+   "key": "KEN_CARDENAS_MELISSA_2026-00006364",
+   "name": "Melissa Roxanne Cardenas",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794945740,
+   "photo": "photos/KEN_CARDENAS_MELISSA_2026-00006364.jpg"
+  },
+  {
+   "key": "MKE_JEFF_DEVONTE_401702",
+   "name": "Devonte Lee Jeff",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Stalking",
+   "more": 13,
+   "ts": 1794945548,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUCKER_TAQUAYLA_604835",
+   "name": "Taquayla Rucker",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794945537,
+   "photo": null
+  },
+  {
+   "key": "MKE_MUNIZ_KEVIN_616911",
+   "name": "Kevin Junique Muniz",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 1,
+   "ts": 1794945533,
+   "photo": null
+  },
+  {
+   "key": "MAR_JAMES_ALIYA_2026-11-17",
+   "name": "Aliya Mae James",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession of THC",
+   "more": 1,
+   "ts": 1794945347,
+   "photo": "photos/MAR_JAMES_ALIYA_2026-11-17.jpg"
+  },
   {
    "key": "RC_FLUETTE_JEFFREY_120011076362040",
    "name": "Jeffrey Kurt Fluette",
@@ -54,7 +153,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794941885,
-   "photo": null
+   "photo": "photos/MKE_TRUSSELL_JACQUISE_637425.jpg"
   },
   {
    "key": "MKE_OCAMPOGUTIERREZ_JOEZEN_648291",
@@ -112,28 +211,6 @@
    "photo": "photos/MKE_COTTON_JARRIEL_389979.jpg"
   },
   {
-   "key": "MKE_DELEON_POWELL_542001",
-   "name": "Powell J Deleon",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794940065,
-   "photo": "photos/MKE_DELEON_POWELL_542001.jpg"
-  },
-  {
-   "key": "MKE_BUCARDOCHAVARRIA_CARLOS_648358",
-   "name": "Carlos H Bucardo Chavarria",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794940063,
-   "photo": null
-  },
-  {
    "key": "BOHANNON_PERRION_2026-11-17",
    "name": "Perrion J Bohannon",
    "age": "26",
@@ -156,17 +233,6 @@
    "photo": "photos/DOU_SCHELINDER_JESSICA_2026-11-17.jpg"
   },
   {
-   "key": "KEN_SCHRAEDER_ELICE_2026-00006361",
-   "name": "Elice Monique Schraeder",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Revocation Ord & Warr",
-   "more": 0,
-   "ts": 1794938144,
-   "photo": "photos/KEN_SCHRAEDER_ELICE_2026-00006361.jpg"
-  },
-  {
    "key": "MAR_TROSKOSKI_RYAN_2026-11-17",
    "name": "Ryan Andrew Troskoski",
    "age": "32",
@@ -178,28 +244,6 @@
    "photo": "photos/MAR_TROSKOSKI_RYAN_2026-11-17.jpg"
   },
   {
-   "key": "MKE_MCCLOUD_JERMAINE_637081",
-   "name": "Jermaine Jemel McCloud",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794936469,
-   "photo": "photos/MKE_MCCLOUD_JERMAINE_637081.jpg"
-  },
-  {
-   "key": "MKE_NESS_MYCHALA_648357",
-   "name": "Mychala Marie Ness",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794936467,
-   "photo": "photos/MKE_NESS_MYCHALA_648357.jpg"
-  },
-  {
    "key": "FDL_DAY_HAILEY_2026-11-17",
    "name": "Hailey Elizabeth Day",
    "age": "",
@@ -209,39 +253,6 @@
    "more": 0,
    "ts": 1794935783,
    "photo": null
-  },
-  {
-   "key": "MKE_REYNOLDS_ROBERT_626266",
-   "name": "Robert P Reynolds",
-   "age": "77",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Child Pornography",
-   "more": 1,
-   "ts": 1794934672,
-   "photo": "photos/MKE_REYNOLDS_ROBERT_626266.jpg"
-  },
-  {
-   "key": "MKE_VARELAESPINOZA_EDDYS_646856",
-   "name": "Eddys Francisco Varela-Espinoza",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 1,
-   "ts": 1794934670,
-   "photo": "photos/MKE_VARELAESPINOZA_EDDYS_646856.jpg"
-  },
-  {
-   "key": "KEN_WASHINGTON_RICHARD_2026-00006360",
-   "name": "Richard Dewayne Washington",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Marijuana (THC)",
-   "more": 3,
-   "ts": 1794934455,
-   "photo": "photos/KEN_WASHINGTON_RICHARD_2026-00006360.jpg"
   },
   {
    "key": "MAR_NEWCOMER_SCOT_2026-11-17",
@@ -453,17 +464,6 @@
    "photo": "photos/REDMOND_LEE_2026-11-16.jpg"
   },
   {
-   "key": "DOU_NELSON_NATALIE_2026-11-16",
-   "name": "Natalie A Nelson",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 0,
-   "ts": 1794889022,
-   "photo": "photos/DOU_NELSON_NATALIE_2026-11-16.jpg"
-  },
-  {
    "key": "HOU_GAVIN_DEANJOSEPH_6331",
    "name": "Dean Joseph Gavin",
    "age": "57",
@@ -532,6 +532,105 @@
  ],
  "all_items": [
   {
+   "key": "MKE_TERRY_MIKHI_643638",
+   "name": "Mikhi L Terry",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794947340,
+   "photo": null
+  },
+  {
+   "key": "MKE_HENDERSONBELL_TANEA_648359",
+   "name": "Tanea L Henderson Bell",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1794947335,
+   "photo": null
+  },
+  {
+   "key": "KEN_HARRIS_ANTHONY_2026-00006362",
+   "name": "ANTHONY LEE Second HARRIS",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794945906,
+   "photo": "photos/KEN_HARRIS_ANTHONY_2026-00006362.jpg"
+  },
+  {
+   "key": "KEN_CLARK_KATELYNN_2026-00006363",
+   "name": "Katelynn Cole Clark",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1794945821,
+   "photo": "photos/KEN_CLARK_KATELYNN_2026-00006363.jpg"
+  },
+  {
+   "key": "KEN_CARDENAS_MELISSA_2026-00006364",
+   "name": "Melissa Roxanne Cardenas",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794945740,
+   "photo": "photos/KEN_CARDENAS_MELISSA_2026-00006364.jpg"
+  },
+  {
+   "key": "MKE_JEFF_DEVONTE_401702",
+   "name": "Devonte Lee Jeff",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Stalking",
+   "more": 13,
+   "ts": 1794945548,
+   "photo": null
+  },
+  {
+   "key": "MKE_RUCKER_TAQUAYLA_604835",
+   "name": "Taquayla Rucker",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794945537,
+   "photo": null
+  },
+  {
+   "key": "MKE_MUNIZ_KEVIN_616911",
+   "name": "Kevin Junique Muniz",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 1,
+   "ts": 1794945533,
+   "photo": null
+  },
+  {
+   "key": "MAR_JAMES_ALIYA_2026-11-17",
+   "name": "Aliya Mae James",
+   "age": "20",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession of THC",
+   "more": 1,
+   "ts": 1794945347,
+   "photo": "photos/MAR_JAMES_ALIYA_2026-11-17.jpg"
+  },
+  {
    "key": "RC_FLUETTE_JEFFREY_120011076362040",
    "name": "Jeffrey Kurt Fluette",
    "age": "38",
@@ -584,7 +683,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794941885,
-   "photo": null
+   "photo": "photos/MKE_TRUSSELL_JACQUISE_637425.jpg"
   },
   {
    "key": "MKE_OCAMPOGUTIERREZ_JOEZEN_648291",
@@ -4358,72 +4457,6 @@
    "more": 0,
    "ts": 1794691626,
    "photo": "photos/FRAUSTO_DEREK_2026-11-14_PHOTO_UPDATE.jpg"
-  },
-  {
-   "key": "RC_GLOWACKI_ZACHARY_120011076277110",
-   "name": "Zachary J Glowacki",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794689305,
-   "photo": "photos/RC_GLOWACKI_ZACHARY_120011076277110.jpg"
-  },
-  {
-   "key": "RC_ROMERO_ANTHONY_120011076277140",
-   "name": "Anthony Romero",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 1,
-   "ts": 1794689302,
-   "photo": "photos/RC_ROMERO_ANTHONY_120011076277140.jpg"
-  },
-  {
-   "key": "RC_GLOWACKI_RICHARD_120011076277171",
-   "name": "Richard Carl Glowacki",
-   "age": "60",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794689299,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARRIS_DAISHAWN_648303",
-   "name": "Daishawn J Harris",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794688052,
-   "photo": "photos/MKE_HARRIS_DAISHAWN_648303.jpg"
-  },
-  {
-   "key": "MKE_HOWARD_AARON_360497",
-   "name": "Aaron Vincent Howard",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794686268,
-   "photo": "photos/MKE_HOWARD_AARON_360497.jpg"
-  },
-  {
-   "key": "MKE_HERRERA_JOSE_648302",
-   "name": "Jose Elias Herrera",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794686266,
-   "photo": "photos/MKE_HERRERA_JOSE_648302.jpg"
   }
  ]
 }
