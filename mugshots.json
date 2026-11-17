@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-17T16:49:35+00:00",
+ "updated": "2026-11-17T17:28:08+00:00",
  "items": [
+  {
+   "key": "MKE_MCCLOUD_JERMAINE_637081",
+   "name": "Jermaine Jemel McCloud",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794936469,
+   "photo": null
+  },
+  {
+   "key": "MKE_NESS_MYCHALA_648357",
+   "name": "Mychala Marie Ness",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794936467,
+   "photo": "photos/MKE_NESS_MYCHALA_648357.jpg"
+  },
+  {
+   "key": "FDL_DAY_HAILEY_2026-11-17",
+   "name": "Hailey Elizabeth Day",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Detainer",
+   "more": 0,
+   "ts": 1794935783,
+   "photo": null
+  },
+  {
+   "key": "MKE_REYNOLDS_ROBERT_626266",
+   "name": "Robert P Reynolds",
+   "age": "77",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794934672,
+   "photo": null
+  },
+  {
+   "key": "MKE_VARELAESPINOZA_EDDYS_646856",
+   "name": "Eddys Francisco Varela-Espinoza",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 1,
+   "ts": 1794934670,
+   "photo": null
+  },
+  {
+   "key": "KEN_WASHINGTON_RICHARD_2026-00006360",
+   "name": "Richard Dewayne Washington",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794934455,
+   "photo": "photos/KEN_WASHINGTON_RICHARD_2026-00006360.jpg"
+  },
+  {
+   "key": "MAR_NEWCOMER_SCOT_2026-11-17",
+   "name": "Scot Thomas Newcomer",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794934444,
+   "photo": "photos/MAR_NEWCOMER_SCOT_2026-11-17.jpg"
+  },
+  {
+   "key": "MAR_VANOOYEN_BRAYDEN_2026-11-17_880804",
+   "name": "Brayden Michael Vanooyen",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794934406,
+   "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17_880804.jpg"
+  },
   {
    "key": "MKE_LOVE_ANINA_648356",
    "name": "Anina Tavia Love",
@@ -32,7 +120,7 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1794930866,
-   "photo": null
+   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-17.jpg"
   },
   {
    "key": "MAR_VANOOYEN_BRAYDEN_2026-11-17",
@@ -76,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 11,
    "ts": 1794929482,
-   "photo": null
+   "photo": "photos/MKE_CRUZ_NICASIO_389024.jpg"
   },
   {
    "key": "MKE_GENTRY_LEVI_648354",
@@ -120,7 +208,7 @@
    "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
    "more": 5,
    "ts": 1794923853,
-   "photo": null
+   "photo": "photos/MKE_CUNNINGHAM_KAMYA_640395.jpg"
   },
   {
    "key": "RC_PATRICK_NASHAWN_120011076351179",
@@ -178,28 +266,6 @@
    "photo": "photos/MKE_CRUSE_DEMITTRIS_257184.jpg"
   },
   {
-   "key": "MKE_GUTIERREZ_GUADALUPE_288510",
-   "name": "Guadalupe D Gutierrez",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794918451,
-   "photo": null
-  },
-  {
-   "key": "MKE_JOHNSON_SHARONDA_648353",
-   "name": "Sharonda Tamika Johnson",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794918450,
-   "photo": "photos/MKE_JOHNSON_SHARONDA_648353.jpg"
-  },
-  {
    "key": "MAR_MARUSKA_JOSHUA_2026-11-17",
    "name": "Joshua Thomas Maruska",
    "age": "42",
@@ -209,39 +275,6 @@
    "more": 0,
    "ts": 1794916389,
    "photo": "photos/MAR_MARUSKA_JOSHUA_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_BONILLA_MARVIN_350410",
-   "name": "Marvin John Bonilla",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794913050,
-   "photo": "photos/MKE_BONILLA_MARVIN_350410.jpg"
-  },
-  {
-   "key": "MKE_SCHMIDT_HARRISON_642092",
-   "name": "Harrison William Schmidt",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794913049,
-   "photo": "photos/MKE_SCHMIDT_HARRISON_642092.jpg"
-  },
-  {
-   "key": "MKE_SCHMIDT_AMBER_648352",
-   "name": "Amber Kelly Schmidt",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794913047,
-   "photo": "photos/MKE_SCHMIDT_AMBER_648352.jpg"
   },
   {
    "key": "MAR_HOOVER_TYLYN_2026-11-16_33803",
@@ -464,17 +497,6 @@
    "photo": "photos/DOU_SANDERS_JON_2026-11-16.jpg"
   },
   {
-   "key": "MAR_DIGANGI_BENJAMIN_2026-11-16",
-   "name": "Benjamin Lawrence Digangi",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794866032,
-   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16.jpg"
-  },
-  {
    "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
    "name": "Jose Fray Tzompaxtle Salas",
    "age": "29",
@@ -497,17 +519,6 @@
    "photo": "photos/FDL_FRENCH_JOSEF_2026-11-16.jpg"
   },
   {
-   "key": "MAR_STANKE_JONATHON_2026-11-16",
-   "name": "Jonathon Michael Stanke",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794862488,
-   "photo": "photos/MAR_STANKE_JONATHON_2026-11-16.jpg"
-  },
-  {
    "key": "KOWALKE_CHAD_2026-11-16",
    "name": "Chad A Kowalke",
    "age": "51",
@@ -517,20 +528,97 @@
    "more": 0,
    "ts": 1794858438,
    "photo": null
-  },
-  {
-   "key": "STETTER_BRONWYN_2026-11-16",
-   "name": "Bronwyn Rachel Stetter",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794857223,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MCCLOUD_JERMAINE_637081",
+   "name": "Jermaine Jemel McCloud",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794936469,
+   "photo": null
+  },
+  {
+   "key": "MKE_NESS_MYCHALA_648357",
+   "name": "Mychala Marie Ness",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794936467,
+   "photo": "photos/MKE_NESS_MYCHALA_648357.jpg"
+  },
+  {
+   "key": "FDL_DAY_HAILEY_2026-11-17",
+   "name": "Hailey Elizabeth Day",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Detainer",
+   "more": 0,
+   "ts": 1794935783,
+   "photo": null
+  },
+  {
+   "key": "MKE_REYNOLDS_ROBERT_626266",
+   "name": "Robert P Reynolds",
+   "age": "77",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794934672,
+   "photo": null
+  },
+  {
+   "key": "MKE_VARELAESPINOZA_EDDYS_646856",
+   "name": "Eddys Francisco Varela-Espinoza",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 1,
+   "ts": 1794934670,
+   "photo": null
+  },
+  {
+   "key": "KEN_WASHINGTON_RICHARD_2026-00006360",
+   "name": "Richard Dewayne Washington",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794934455,
+   "photo": "photos/KEN_WASHINGTON_RICHARD_2026-00006360.jpg"
+  },
+  {
+   "key": "MAR_NEWCOMER_SCOT_2026-11-17",
+   "name": "Scot Thomas Newcomer",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1794934444,
+   "photo": "photos/MAR_NEWCOMER_SCOT_2026-11-17.jpg"
+  },
+  {
+   "key": "MAR_VANOOYEN_BRAYDEN_2026-11-17_880804",
+   "name": "Brayden Michael Vanooyen",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794934406,
+   "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17_880804.jpg"
+  },
   {
    "key": "MKE_LOVE_ANINA_648356",
    "name": "Anina Tavia Love",
@@ -562,7 +650,7 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1794930866,
-   "photo": null
+   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-17.jpg"
   },
   {
    "key": "MAR_VANOOYEN_BRAYDEN_2026-11-17",
@@ -606,7 +694,7 @@
    "charge": "Charges Pending",
    "more": 11,
    "ts": 1794929482,
-   "photo": null
+   "photo": "photos/MKE_CRUZ_NICASIO_389024.jpg"
   },
   {
    "key": "MKE_GENTRY_LEVI_648354",
@@ -650,7 +738,7 @@
    "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
    "more": 5,
    "ts": 1794923853,
-   "photo": null
+   "photo": "photos/MKE_CUNNINGHAM_KAMYA_640395.jpg"
   },
   {
    "key": "RC_PATRICK_NASHAWN_120011076351179",
@@ -716,7 +804,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794918451,
-   "photo": null
+   "photo": "photos/MKE_GUTIERREZ_GUADALUPE_288510.jpg"
   },
   {
    "key": "MKE_JOHNSON_SHARONDA_648353",
@@ -4226,127 +4314,6 @@
    "more": 1,
    "ts": 1794680850,
    "photo": null
-  },
-  {
-   "key": "MKE_CLOYD_ZAMARI_648299",
-   "name": "Zamari Juana Cloyd",
-   "age": "15",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794677254,
-   "photo": null
-  },
-  {
-   "key": "KEN_VARGAS_HERNAN_2026-00006295",
-   "name": "Hernan Rangel Vargas",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 3,
-   "ts": 1794675928,
-   "photo": "photos/KEN_VARGAS_HERNAN_2026-00006295.jpg"
-  },
-  {
-   "key": "KEN_SEAMSTER_EDWARD_2026-00006297",
-   "name": "Edward Charlesberry Seamster",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794675849,
-   "photo": null
-  },
-  {
-   "key": "KEN_RUIZGOMEZ_JUAN_2026-00006298",
-   "name": "Juan Francisco Ruiz-Gomez",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 4,
-   "ts": 1794675800,
-   "photo": "photos/KEN_RUIZGOMEZ_JUAN_2026-00006298.jpg"
-  },
-  {
-   "key": "KEN_POOLE_ERICK_2026-00006299",
-   "name": "Erick Allen Poole",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Open Intoxicants in Mv-Driver",
-   "more": 3,
-   "ts": 1794675651,
-   "photo": "photos/KEN_POOLE_ERICK_2026-00006299.jpg"
-  },
-  {
-   "key": "MKE_JONES_DERRICK_340846",
-   "name": "Derrick Ramone Jones",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1794675506,
-   "photo": "photos/MKE_JONES_DERRICK_340846.jpg"
-  },
-  {
-   "key": "KEN_JUANALVARADO_SERGIO_2026-00006300",
-   "name": "Sergio Evelio Juan-Alvarado",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Fail/Obey Traffic Officer Signal/Order",
-   "more": 1,
-   "ts": 1794675504,
-   "photo": "photos/KEN_JUANALVARADO_SERGIO_2026-00006300.jpg"
-  },
-  {
-   "key": "MKE_PLEARS_DAMETRA_648298",
-   "name": "Dametra Rloxican Plears",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794675504,
-   "photo": "photos/MKE_PLEARS_DAMETRA_648298.jpg"
-  },
-  {
-   "key": "KEN_JENKINS_JAMIR_2026-00006302",
-   "name": "Jamir Davontae Jenkins",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1794675366,
-   "photo": "photos/KEN_JENKINS_JAMIR_2026-00006302.jpg"
-  },
-  {
-   "key": "KEN_GIGLIOTTI_ANGELEAH_2026-00006301",
-   "name": "Angeleah Frances Gigliotti",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 4,
-   "ts": 1794675228,
-   "photo": "photos/KEN_GIGLIOTTI_ANGELEAH_2026-00006301.jpg"
-  },
-  {
-   "key": "KEN_DIAZHERNANDEZ_JUAN_2026-00006296",
-   "name": "Juan Daniel Diaz-Hernandez",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violate Absolute Sobriety Law",
-   "more": 9,
-   "ts": 1794675084,
-   "photo": "photos/KEN_DIAZHERNANDEZ_JUAN_2026-00006296.jpg"
   }
  ]
 }
