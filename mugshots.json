@@ -1,6 +1,149 @@
 {
- "updated": "2026-11-17T23:00:08+00:00",
+ "updated": "2026-11-17T23:49:35+00:00",
  "items": [
+  {
+   "key": "RC_NELSON_MELINDA_120011076365672",
+   "name": "Melinda Kaye Nelson",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959310,
+   "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
+  },
+  {
+   "key": "RC_TUTTLE_CHRISTOPHER_120011076366118",
+   "name": "Christopher Michael Tuttle",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959307,
+   "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
+  },
+  {
+   "key": "RC_KAULAITY_DYLAN_120011076366250",
+   "name": "Dylan Sean Kaulaity",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959303,
+   "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
+  },
+  {
+   "key": "RC_STROUD_GIOVANNI_120011076369470",
+   "name": "Giovanni F l Stroud",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959299,
+   "photo": "photos/RC_STROUD_GIOVANNI_120011076369470.jpg"
+  },
+  {
+   "key": "MKE_DOE_CHRISTOPHER_278162",
+   "name": "Christopher David Doe",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794958124,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARSON_DEMONTE_648362",
+   "name": "Demonte M Carson",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794958117,
+   "photo": null
+  },
+  {
+   "key": "MKE_LAJOICE_CHARLES_648363",
+   "name": "Charles Lajoice",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794958111,
+   "photo": null
+  },
+  {
+   "key": "KEN_VALOTTA_MARK_2026-00006372",
+   "name": "Mark Valotta",
+   "age": "52",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957962,
+   "photo": null
+  },
+  {
+   "key": "KEN_SEAY_DERRICK_2026-00006371",
+   "name": "Derrick Lashawn Seay",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957882,
+   "photo": "photos/KEN_SEAY_DERRICK_2026-00006371.jpg"
+  },
+  {
+   "key": "KEN_RUSH_LENNARD_2026-00006373",
+   "name": "Lennard Lee Rush",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957812,
+   "photo": "photos/KEN_RUSH_LENNARD_2026-00006373.jpg"
+  },
+  {
+   "key": "KEN_PRATHER_FRED_2026-00006375",
+   "name": "FRED HENRY Fourth PRATHER",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957728,
+   "photo": "photos/KEN_PRATHER_FRED_2026-00006375.jpg"
+  },
+  {
+   "key": "KEN_PEASE_JAMES_2026-00006370",
+   "name": "James Cliford Pease",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property - Special Facts",
+   "more": 0,
+   "ts": 1794957651,
+   "photo": "photos/KEN_PEASE_JAMES_2026-00006370.jpg"
+  },
+  {
+   "key": "KEN_HARRELL_RASHEED_2026-00006374",
+   "name": "RASHEED UJIMA Junior HARRELL",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957446,
+   "photo": "photos/KEN_HARRELL_RASHEED_2026-00006374.jpg"
+  },
   {
    "key": "MKE_CARTER_KENNETH_376407",
    "name": "Kenneth Cortez Carter",
@@ -29,20 +172,9 @@
    "age": "33",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794956352,
-   "photo": null
-  },
-  {
-   "key": "MKE_CASTON_JACK_648361",
-   "name": "Jack Alan Caston",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
    "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794956348,
+   "more": 2,
+   "ts": 1794956352,
    "photo": null
   },
   {
@@ -79,61 +211,6 @@
    "photo": "photos/MAR_STANDS_SHANICE_2026-11-17.jpg"
   },
   {
-   "key": "RC_NELSON_MELINDA_120011076365672",
-   "name": "Melinda Kaye Nelson",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794955773,
-   "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
-  },
-  {
-   "key": "RC_TUTTLE_CHRISTOPHER_120011076366118",
-   "name": "Christopher Michael Tuttle",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794955768,
-   "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
-  },
-  {
-   "key": "RC_KAULAITY_DYLAN_120011076366250",
-   "name": "Dylan Sean Kaulaity",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794955762,
-   "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
-  },
-  {
-   "key": "MKE_PRICE_WILLIE_290929",
-   "name": "Willie Darnel Price",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 2,
-   "ts": 1794952743,
-   "photo": null
-  },
-  {
-   "key": "MKE_MORRIS_AMBER_612906",
-   "name": "Amber M Morris",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794952738,
-   "photo": null
-  },
-  {
    "key": "DOU_RHODES_BILLY_2026-11-17",
    "name": "Billy J Rhodes",
    "age": "34",
@@ -143,50 +220,6 @@
    "more": 0,
    "ts": 1794950320,
    "photo": "photos/DOU_RHODES_BILLY_2026-11-17.jpg"
-  },
-  {
-   "key": "KEN_TAYLOR_DESHAWN_2026-00006365",
-   "name": "Deshawn Treveon Taylor",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794949506,
-   "photo": "photos/KEN_TAYLOR_DESHAWN_2026-00006365.jpg"
-  },
-  {
-   "key": "KEN_MCGEE_PAMELA_2026-00006368",
-   "name": "Pamela Denise Mcgee",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794949422,
-   "photo": "photos/KEN_MCGEE_PAMELA_2026-00006368.jpg"
-  },
-  {
-   "key": "KEN_KELSCH_LAURIE_2026-00006367",
-   "name": "Laurie Diane Kelsch",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794949306,
-   "photo": "photos/KEN_KELSCH_LAURIE_2026-00006367.jpg"
-  },
-  {
-   "key": "KEN_BOONE_CHRISTOPHER_2026-00006369",
-   "name": "Christopher Cody Boone",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794949059,
-   "photo": "photos/KEN_BOONE_CHRISTOPHER_2026-00006369.jpg"
   },
   {
    "key": "MAR_TZINZUN_RICARDO_2026-11-15",
@@ -209,39 +242,6 @@
    "more": 1,
    "ts": 1794948886,
    "photo": "photos/MAR_JAMES_ALIYA_2026-11-17_10370502.jpg"
-  },
-  {
-   "key": "MKE_TERRY_MIKHI_643638",
-   "name": "Mikhi L Terry",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794947340,
-   "photo": null
-  },
-  {
-   "key": "MKE_HENDERSONBELL_TANEA_648359",
-   "name": "Tanea L Henderson Bell",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1794947335,
-   "photo": null
-  },
-  {
-   "key": "KEN_HARRIS_ANTHONY_2026-00006362",
-   "name": "ANTHONY LEE Second HARRIS",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794945906,
-   "photo": "photos/KEN_HARRIS_ANTHONY_2026-00006362.jpg"
   },
   {
    "key": "MAR_JAMES_ALIYA_2026-11-17",
@@ -532,6 +532,149 @@
  ],
  "all_items": [
   {
+   "key": "RC_NELSON_MELINDA_120011076365672",
+   "name": "Melinda Kaye Nelson",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959310,
+   "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
+  },
+  {
+   "key": "RC_TUTTLE_CHRISTOPHER_120011076366118",
+   "name": "Christopher Michael Tuttle",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959307,
+   "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
+  },
+  {
+   "key": "RC_KAULAITY_DYLAN_120011076366250",
+   "name": "Dylan Sean Kaulaity",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959303,
+   "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
+  },
+  {
+   "key": "RC_STROUD_GIOVANNI_120011076369470",
+   "name": "Giovanni F l Stroud",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959299,
+   "photo": "photos/RC_STROUD_GIOVANNI_120011076369470.jpg"
+  },
+  {
+   "key": "MKE_DOE_CHRISTOPHER_278162",
+   "name": "Christopher David Doe",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794958124,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARSON_DEMONTE_648362",
+   "name": "Demonte M Carson",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794958117,
+   "photo": null
+  },
+  {
+   "key": "MKE_LAJOICE_CHARLES_648363",
+   "name": "Charles Lajoice",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794958111,
+   "photo": null
+  },
+  {
+   "key": "KEN_VALOTTA_MARK_2026-00006372",
+   "name": "Mark Valotta",
+   "age": "52",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957962,
+   "photo": null
+  },
+  {
+   "key": "KEN_SEAY_DERRICK_2026-00006371",
+   "name": "Derrick Lashawn Seay",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957882,
+   "photo": "photos/KEN_SEAY_DERRICK_2026-00006371.jpg"
+  },
+  {
+   "key": "KEN_RUSH_LENNARD_2026-00006373",
+   "name": "Lennard Lee Rush",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957812,
+   "photo": "photos/KEN_RUSH_LENNARD_2026-00006373.jpg"
+  },
+  {
+   "key": "KEN_PRATHER_FRED_2026-00006375",
+   "name": "FRED HENRY Fourth PRATHER",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957728,
+   "photo": "photos/KEN_PRATHER_FRED_2026-00006375.jpg"
+  },
+  {
+   "key": "KEN_PEASE_JAMES_2026-00006370",
+   "name": "James Cliford Pease",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property - Special Facts",
+   "more": 0,
+   "ts": 1794957651,
+   "photo": "photos/KEN_PEASE_JAMES_2026-00006370.jpg"
+  },
+  {
+   "key": "KEN_HARRELL_RASHEED_2026-00006374",
+   "name": "RASHEED UJIMA Junior HARRELL",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794957446,
+   "photo": "photos/KEN_HARRELL_RASHEED_2026-00006374.jpg"
+  },
+  {
    "key": "MKE_CARTER_KENNETH_376407",
    "name": "Kenneth Cortez Carter",
    "age": "38",
@@ -559,8 +702,8 @@
    "age": "33",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1794956352,
    "photo": null
   },
@@ -607,39 +750,6 @@
    "more": 0,
    "ts": 1794956124,
    "photo": "photos/MAR_STANDS_SHANICE_2026-11-17.jpg"
-  },
-  {
-   "key": "RC_NELSON_MELINDA_120011076365672",
-   "name": "Melinda Kaye Nelson",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794955773,
-   "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
-  },
-  {
-   "key": "RC_TUTTLE_CHRISTOPHER_120011076366118",
-   "name": "Christopher Michael Tuttle",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794955768,
-   "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
-  },
-  {
-   "key": "RC_KAULAITY_DYLAN_120011076366250",
-   "name": "Dylan Sean Kaulaity",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794955762,
-   "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
   },
   {
    "key": "MKE_PRICE_WILLIE_290929",
@@ -691,7 +801,7 @@
    "age": "48",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Retail Theft-Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1794949422,
    "photo": "photos/KEN_MCGEE_PAMELA_2026-00006368.jpg"
@@ -702,8 +812,8 @@
    "age": "38",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
    "ts": 1794949306,
    "photo": "photos/KEN_KELSCH_LAURIE_2026-00006367.jpg"
   },
@@ -713,7 +823,7 @@
    "age": "41",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Intox (3rd)",
    "more": 0,
    "ts": 1794949059,
    "photo": "photos/KEN_BOONE_CHRISTOPHER_2026-00006369.jpg"
@@ -4479,50 +4589,6 @@
    "more": 1,
    "ts": 1794702457,
    "photo": "photos/MKE_SOBCZAK_JEROME_2041565.jpg"
-  },
-  {
-   "key": "MKE_POWELL_ANTHONY_385688",
-   "name": "Anthony Lamar Powell",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 1,
-   "ts": 1794698865,
-   "photo": "photos/MKE_POWELL_ANTHONY_385688.jpg"
-  },
-  {
-   "key": "MKE_TARDY_ANGELA_628421",
-   "name": "Angela R Tardy",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794698863,
-   "photo": "photos/MKE_TARDY_ANGELA_628421.jpg"
-  },
-  {
-   "key": "KEN_APOLINAR_VAZQUEZ_2026-00006306",
-   "name": "Vazquez Oscar Apolinar",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Keep Open Intoxicants in Mv by Driver",
-   "more": 4,
-   "ts": 1794698094,
-   "photo": null
-  },
-  {
-   "key": "KEN_ANDERSON_ORLANDO_2026-00006305",
-   "name": "Orlando Delone Anderson",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 1,
-   "ts": 1794698054,
-   "photo": "photos/KEN_ANDERSON_ORLANDO_2026-00006305.jpg"
   }
  ]
 }
