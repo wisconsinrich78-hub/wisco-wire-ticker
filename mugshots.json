@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T03:49:31+00:00",
+ "updated": "2026-11-17T04:10:54+00:00",
  "items": [
+  {
+   "key": "MKE_HUARACHAORTIZ_SANTIAGO_648345",
+   "name": "Santiago Sipriano Huaracha-Ortiz",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1794887878,
+   "photo": null
+  },
+  {
+   "key": "MKE_CANNONPETERSON_RENA_648346",
+   "name": "Rena Nicole Cannon Peterson",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794887876,
+   "photo": null
+  },
   {
    "key": "RC_FINCH_COREY_120011076341740",
    "name": "Corey M Finch",
@@ -40,8 +62,8 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
    "ts": 1794884043,
    "photo": "photos/KEN_NETTLES_ROBERT_2026-00006346.jpg"
   },
@@ -117,7 +139,7 @@
    "age": "53",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
+   "charge": "Domestic Abuse Surcharges",
    "more": 6,
    "ts": 1794877075,
    "photo": null
@@ -198,28 +220,6 @@
    "more": 0,
    "ts": 1794872839,
    "photo": null
-  },
-  {
-   "key": "MKE_SMITH_ANDRE_299315",
-   "name": "Andre Maurice Smith",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1794871702,
-   "photo": "photos/MKE_SMITH_ANDRE_299315.jpg"
-  },
-  {
-   "key": "MKE_WACHOWIAK_SCOTT_400145",
-   "name": "Scott Jacob Wachowiak",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1794871698,
-   "photo": "photos/MKE_WACHOWIAK_SCOTT_400145.jpg"
   },
   {
    "key": "DOU_METERAUD_AMANDA_2026-11-16",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HUARACHAORTIZ_SANTIAGO_648345",
+   "name": "Santiago Sipriano Huaracha-Ortiz",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1794887878,
+   "photo": null
+  },
+  {
+   "key": "MKE_CANNONPETERSON_RENA_648346",
+   "name": "Rena Nicole Cannon Peterson",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794887876,
+   "photo": null
+  },
+  {
    "key": "RC_FINCH_COREY_120011076341740",
    "name": "Corey M Finch",
    "age": "48",
@@ -570,8 +592,8 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
    "ts": 1794884043,
    "photo": "photos/KEN_NETTLES_ROBERT_2026-00006346.jpg"
   },
@@ -647,7 +669,7 @@
    "age": "53",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
+   "charge": "Domestic Abuse Surcharges",
    "more": 6,
    "ts": 1794877075,
    "photo": null
@@ -4270,61 +4292,6 @@
    "more": 1,
    "ts": 1794631699,
    "photo": "photos/RC_MARTIN_TERRAL_120011076262645.jpg"
-  },
-  {
-   "key": "MKE_REED_LARON_319323",
-   "name": "Laron Donte Reed",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794628666,
-   "photo": "photos/MKE_REED_LARON_319323.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_DONTARIUS_634682",
-   "name": "Dontarius R Williams",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794628664,
-   "photo": "photos/MKE_WILLIAMS_DONTARIUS_634682.jpg"
-  },
-  {
-   "key": "MKE_COOPERSAYPOH_REGINA_648288",
-   "name": "Regina S Cooper Saypoh",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794628661,
-   "photo": "photos/MKE_COOPERSAYPOH_REGINA_648288.jpg"
-  },
-  {
-   "key": "KEN_HEARD_JORDAN_2026-00006292",
-   "name": "Jordan Alexis Heard",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violate Red Traffic Signal",
-   "more": 4,
-   "ts": 1794628468,
-   "photo": "photos/KEN_HEARD_JORDAN_2026-00006292.jpg"
-  },
-  {
-   "key": "MAR_COLEMAN_RONALD_2026-11-13_10507",
-   "name": "Ronald James Coleman",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794628405,
-   "photo": "photos/MAR_COLEMAN_RONALD_2026-11-13_10507.jpg"
   }
  ]
 }
