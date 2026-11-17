@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-17T21:30:50+00:00",
+ "updated": "2026-11-17T21:53:25+00:00",
  "items": [
+  {
+   "key": "RC_NELSON_MELINDA_120011076365672",
+   "name": "Melinda Kaye Nelson",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794952170,
+   "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
+  },
+  {
+   "key": "RC_TUTTLE_CHRISTOPHER_120011076366118",
+   "name": "Christopher Michael Tuttle",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794952161,
+   "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
+  },
+  {
+   "key": "RC_KAULAITY_DYLAN_120011076366250",
+   "name": "Dylan Sean Kaulaity",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794952150,
+   "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
+  },
   {
    "key": "DOU_RHODES_BILLY_2026-11-17",
    "name": "Billy J Rhodes",
@@ -142,7 +175,7 @@
    "charge": "Stalking",
    "more": 13,
    "ts": 1794945548,
-   "photo": null
+   "photo": "photos/MKE_JEFF_DEVONTE_401702.jpg"
   },
   {
    "key": "MKE_RUCKER_TAQUAYLA_604835",
@@ -153,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794945537,
-   "photo": null
+   "photo": "photos/MKE_RUCKER_TAQUAYLA_604835.jpg"
   },
   {
    "key": "MKE_MUNIZ_KEVIN_616911",
@@ -189,17 +222,6 @@
    "photo": "photos/RC_FLUETTE_JEFFREY_120011076362040.jpg"
   },
   {
-   "key": "RC_GOSSETT_CURTIS_120011076362682",
-   "name": "Curtis James Gossett",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794944922,
-   "photo": "photos/RC_GOSSETT_CURTIS_120011076362682.jpg"
-  },
-  {
    "key": "KRANAU_SUSAN_2026-11-17",
    "name": "Susan C Kranau",
    "age": "65",
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1794943640,
    "photo": null
-  },
-  {
-   "key": "MKE_CLOYD_YAREE_402391",
-   "name": "Yaree L Cloyd",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
-   "more": 2,
-   "ts": 1794941888,
-   "photo": null
-  },
-  {
-   "key": "MKE_TRUSSELL_JACQUISE_637425",
-   "name": "Jacquise Lavern Trussell",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794941885,
-   "photo": "photos/MKE_TRUSSELL_JACQUISE_637425.jpg"
   },
   {
    "key": "MAR_KIEFER_TRISTON_2026-11-17_5250709",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "RC_NELSON_MELINDA_120011076365672",
+   "name": "Melinda Kaye Nelson",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794952170,
+   "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
+  },
+  {
+   "key": "RC_TUTTLE_CHRISTOPHER_120011076366118",
+   "name": "Christopher Michael Tuttle",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794952161,
+   "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
+  },
+  {
+   "key": "RC_KAULAITY_DYLAN_120011076366250",
+   "name": "Dylan Sean Kaulaity",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794952150,
+   "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
+  },
+  {
    "key": "DOU_RHODES_BILLY_2026-11-17",
    "name": "Billy J Rhodes",
    "age": "34",
@@ -672,7 +705,7 @@
    "charge": "Stalking",
    "more": 13,
    "ts": 1794945548,
-   "photo": null
+   "photo": "photos/MKE_JEFF_DEVONTE_401702.jpg"
   },
   {
    "key": "MKE_RUCKER_TAQUAYLA_604835",
@@ -683,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794945537,
-   "photo": null
+   "photo": "photos/MKE_RUCKER_TAQUAYLA_604835.jpg"
   },
   {
    "key": "MKE_MUNIZ_KEVIN_616911",
@@ -837,7 +870,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794940063,
-   "photo": null
+   "photo": "photos/MKE_BUCARDOCHAVARRIA_CARLOS_648358.jpg"
   },
   {
    "key": "BOHANNON_PERRION_2026-11-17",
@@ -4457,28 +4490,6 @@
    "more": 1,
    "ts": 1794693464,
    "photo": "photos/MKE_KIRK_TERRION_648306.jpg"
-  },
-  {
-   "key": "RC_DENNIS_JAQUALE_120011076279066",
-   "name": "Jaquale G Dennis",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794692906,
-   "photo": "photos/RC_DENNIS_JAQUALE_120011076279066.jpg"
-  },
-  {
-   "key": "RC_RUSH_JAIA_120011076279419",
-   "name": "Jaia N Rush",
-   "age": "27",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 4,
-   "ts": 1794692903,
-   "photo": "photos/RC_RUSH_JAIA_120011076279419.jpg"
   }
  ]
 }
