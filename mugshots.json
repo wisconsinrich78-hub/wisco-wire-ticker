@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T09:49:35+00:00",
+ "updated": "2026-11-17T10:10:36+00:00",
  "items": [
+  {
+   "key": "MKE_TATUM_SEAN_635809",
+   "name": "Sean K Tatum",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794909458,
+   "photo": null
+  },
   {
    "key": "MKE_BERRY_JEREMY_2038909",
    "name": "Jeremy L Berry",
@@ -153,7 +164,7 @@
    "charge": "Habitual Criminality",
    "more": 5,
    "ts": 1794898651,
-   "photo": null
+   "photo": "photos/MKE_LOPEZ_JESUS_611918.jpg"
   },
   {
    "key": "MKE_WARD_IYANNA_648350",
@@ -220,17 +231,6 @@
    "more": 1,
    "ts": 1794893269,
    "photo": "photos/MKE_WALKER_SHANTAJA_648348.jpg"
-  },
-  {
-   "key": "MKE_JONES_ANTONIO_648349",
-   "name": "Antonio Deangelo Jones",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794893266,
-   "photo": "photos/MKE_JONES_ANTONIO_648349.jpg"
   },
   {
    "key": "FDL_JACKSON_RYAN_2026-11-16",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_TATUM_SEAN_635809",
+   "name": "Sean K Tatum",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794909458,
+   "photo": null
+  },
+  {
    "key": "MKE_BERRY_JEREMY_2038909",
    "name": "Jeremy L Berry",
    "age": "38",
@@ -683,7 +694,7 @@
    "charge": "Habitual Criminality",
    "more": 5,
    "ts": 1794898651,
-   "photo": null
+   "photo": "photos/MKE_LOPEZ_JESUS_611918.jpg"
   },
   {
    "key": "MKE_WARD_IYANNA_648350",
@@ -4259,17 +4270,6 @@
    "more": 0,
    "ts": 1794653230,
    "photo": "photos/TREM_KOTLOV_ALEXANDER_6128.jpg"
-  },
-  {
-   "key": "MKE_LYONS_JERRY_648293",
-   "name": "Jerry Gentell Lyons",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794650251,
-   "photo": "photos/MKE_LYONS_JERRY_648293.jpg"
   }
  ]
 }
