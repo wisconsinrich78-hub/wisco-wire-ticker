@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-18T00:13:59+00:00",
+ "updated": "2026-11-18T00:38:37+00:00",
  "items": [
+  {
+   "key": "MKE_PURDY_KENOSHA_632650",
+   "name": "Kenosha Gabriella Purdy",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 0,
+   "ts": 1794961672,
+   "photo": null
+  },
+  {
+   "key": "MKE_ASHLEY_JOHN_641271",
+   "name": "John Jahrell Ashley",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Homicide by Negligent Operation/Vehicle",
+   "more": 0,
+   "ts": 1794961671,
+   "photo": null
+  },
+  {
+   "key": "MKE_BELLAMY_SAMOTRIA_646683",
+   "name": "Samotria Shauna Bellamy",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794961668,
+   "photo": null
+  },
+  {
+   "key": "MKE_FIREHAMMER_ZACHARY_2056678",
+   "name": "Zachary R Firehammer",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794961666,
+   "photo": null
+  },
+  {
+   "key": "DOU_LUCKEY_BRENDEN_2026-11-17",
+   "name": "Brenden R Luckey",
+   "age": "24",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Destruction/Damage/Vandalism",
+   "more": 9,
+   "ts": 1794961005,
+   "photo": "photos/DOU_LUCKEY_BRENDEN_2026-11-17.jpg"
+  },
+  {
+   "key": "FDL_BREIDENBACH_DIANA_2026-11-17",
+   "name": "Diana Carol Breidenbach",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Theft - Movable Property (> $2500 - $5000)",
+   "more": 0,
+   "ts": 1794960963,
+   "photo": "photos/FDL_BREIDENBACH_DIANA_2026-11-17.jpg"
+  },
   {
    "key": "THRUNE_KORTO_2026-11-17",
    "name": "Korto B Thrune",
@@ -143,50 +209,6 @@
    "more": 0,
    "ts": 1794957728,
    "photo": "photos/KEN_PRATHER_FRED_2026-00006375.jpg"
-  },
-  {
-   "key": "KEN_PEASE_JAMES_2026-00006370",
-   "name": "James Cliford Pease",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property - Special Facts",
-   "more": 0,
-   "ts": 1794957651,
-   "photo": "photos/KEN_PEASE_JAMES_2026-00006370.jpg"
-  },
-  {
-   "key": "KEN_HARRELL_RASHEED_2026-00006374",
-   "name": "RASHEED UJIMA Junior HARRELL",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794957446,
-   "photo": "photos/KEN_HARRELL_RASHEED_2026-00006374.jpg"
-  },
-  {
-   "key": "MKE_CARTER_KENNETH_376407",
-   "name": "Kenneth Cortez Carter",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794956364,
-   "photo": null
-  },
-  {
-   "key": "MKE_ABILES_ISRAEL_604334",
-   "name": "Israel Abiles",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794956361,
-   "photo": null
   },
   {
    "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
@@ -387,17 +409,6 @@
    "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17.jpg"
   },
   {
-   "key": "MAR_CLARK_CORA_2026-11-17",
-   "name": "Cora Lee Clark",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794927205,
-   "photo": "photos/MAR_CLARK_CORA_2026-11-17.jpg"
-  },
-  {
    "key": "TREM_HEMBD_ALLY_4143",
    "name": "Ally Marjorie Hembd",
    "age": "25",
@@ -517,20 +528,75 @@
    "more": 2,
    "ts": 1794871022,
    "photo": "photos/FDL_STOFFEL_JAI_2026-11-16.jpg"
-  },
-  {
-   "key": "LANG_CHRISTOPHER_2026-11-16",
-   "name": "Christopher D Lang",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 4,
-   "ts": 1794869235,
-   "photo": "photos/LANG_CHRISTOPHER_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_PURDY_KENOSHA_632650",
+   "name": "Kenosha Gabriella Purdy",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 0,
+   "ts": 1794961672,
+   "photo": null
+  },
+  {
+   "key": "MKE_ASHLEY_JOHN_641271",
+   "name": "John Jahrell Ashley",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Homicide by Negligent Operation/Vehicle",
+   "more": 0,
+   "ts": 1794961671,
+   "photo": null
+  },
+  {
+   "key": "MKE_BELLAMY_SAMOTRIA_646683",
+   "name": "Samotria Shauna Bellamy",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794961668,
+   "photo": null
+  },
+  {
+   "key": "MKE_FIREHAMMER_ZACHARY_2056678",
+   "name": "Zachary R Firehammer",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 0,
+   "ts": 1794961666,
+   "photo": null
+  },
+  {
+   "key": "DOU_LUCKEY_BRENDEN_2026-11-17",
+   "name": "Brenden R Luckey",
+   "age": "24",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Destruction/Damage/Vandalism",
+   "more": 9,
+   "ts": 1794961005,
+   "photo": "photos/DOU_LUCKEY_BRENDEN_2026-11-17.jpg"
+  },
+  {
+   "key": "FDL_BREIDENBACH_DIANA_2026-11-17",
+   "name": "Diana Carol Breidenbach",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Theft - Movable Property (> $2500 - $5000)",
+   "more": 0,
+   "ts": 1794960963,
+   "photo": "photos/FDL_BREIDENBACH_DIANA_2026-11-17.jpg"
+  },
   {
    "key": "THRUNE_KORTO_2026-11-17",
    "name": "Korto B Thrune",
@@ -4578,39 +4644,6 @@
    "more": 0,
    "ts": 1794704164,
    "photo": "photos/KEN_CORONADO_CRYSTAL_2026-00006307.jpg"
-  },
-  {
-   "key": "MKE_BROX_OLIVIA_361561",
-   "name": "Olivia Annette Delores Brox",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794702461,
-   "photo": "photos/MKE_BROX_OLIVIA_361561.jpg"
-  },
-  {
-   "key": "MKE_GARCIA_DANIEL_644409",
-   "name": "Daniel Garcia",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794702459,
-   "photo": "photos/MKE_GARCIA_DANIEL_644409.jpg"
-  },
-  {
-   "key": "MKE_SOBCZAK_JEROME_2041565",
-   "name": "Jerome Paul Sobczak",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794702457,
-   "photo": "photos/MKE_SOBCZAK_JEROME_2041565.jpg"
   }
  ]
 }
