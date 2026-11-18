@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-18T00:49:27+00:00",
+ "updated": "2026-11-18T01:03:27+00:00",
  "items": [
+  {
+   "key": "MKE_THOMAS_KASIB_360313",
+   "name": "Kasib A Thomas",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794963456,
+   "photo": null
+  },
+  {
+   "key": "MKE_NORWOOD_RAYSHAWN_616780",
+   "name": "Rayshawn Marquise Norwood",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794963454,
+   "photo": null
+  },
+  {
+   "key": "MKE_DRYDEN_VIRGIL_644331",
+   "name": "Virgil L Dryden",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794963452,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAYNES_DARIUS_645534",
+   "name": "Darius Luvelle Haynes",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1794963451,
+   "photo": null
+  },
   {
    "key": "MKE_PURDY_KENOSHA_632650",
    "name": "Kenosha Gabriella Purdy",
@@ -43,7 +87,7 @@
    "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
    "more": 0,
    "ts": 1794961666,
-   "photo": null
+   "photo": "photos/MKE_FIREHAMMER_ZACHARY_2056678.jpg"
   },
   {
    "key": "DOU_LUCKEY_BRENDEN_2026-11-17",
@@ -165,50 +209,6 @@
    "more": 0,
    "ts": 1794958111,
    "photo": null
-  },
-  {
-   "key": "KEN_VALOTTA_MARK_2026-00006372",
-   "name": "Mark Valotta",
-   "age": "52",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794957962,
-   "photo": null
-  },
-  {
-   "key": "KEN_SEAY_DERRICK_2026-00006371",
-   "name": "Derrick Lashawn Seay",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794957882,
-   "photo": "photos/KEN_SEAY_DERRICK_2026-00006371.jpg"
-  },
-  {
-   "key": "KEN_RUSH_LENNARD_2026-00006373",
-   "name": "Lennard Lee Rush",
-   "age": "49",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794957812,
-   "photo": "photos/KEN_RUSH_LENNARD_2026-00006373.jpg"
-  },
-  {
-   "key": "KEN_PRATHER_FRED_2026-00006375",
-   "name": "FRED HENRY Fourth PRATHER",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794957728,
-   "photo": "photos/KEN_PRATHER_FRED_2026-00006375.jpg"
   },
   {
    "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_THOMAS_KASIB_360313",
+   "name": "Kasib A Thomas",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794963456,
+   "photo": null
+  },
+  {
+   "key": "MKE_NORWOOD_RAYSHAWN_616780",
+   "name": "Rayshawn Marquise Norwood",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794963454,
+   "photo": null
+  },
+  {
+   "key": "MKE_DRYDEN_VIRGIL_644331",
+   "name": "Virgil L Dryden",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1794963452,
+   "photo": null
+  },
+  {
+   "key": "MKE_HAYNES_DARIUS_645534",
+   "name": "Darius Luvelle Haynes",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1794963451,
+   "photo": null
+  },
+  {
    "key": "MKE_PURDY_KENOSHA_632650",
    "name": "Kenosha Gabriella Purdy",
    "age": "29",
@@ -573,7 +617,7 @@
    "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
    "more": 0,
    "ts": 1794961666,
-   "photo": null
+   "photo": "photos/MKE_FIREHAMMER_ZACHARY_2056678.jpg"
   },
   {
    "key": "DOU_LUCKEY_BRENDEN_2026-11-17",
@@ -4622,28 +4666,6 @@
    "more": 0,
    "ts": 1794706023,
    "photo": "photos/KNOWLER_JOSEPH_2026-11-14.jpg"
-  },
-  {
-   "key": "KEN_CORONADOLOPEZ_AMERICA_2026-00006308",
-   "name": "America S Coronado-Lopez",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1794704251,
-   "photo": "photos/KEN_CORONADOLOPEZ_AMERICA_2026-00006308.jpg"
-  },
-  {
-   "key": "KEN_CORONADO_CRYSTAL_2026-00006307",
-   "name": "Crystal Nicole Coronado",
-   "age": "40",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1794704164,
-   "photo": "photos/KEN_CORONADO_CRYSTAL_2026-00006307.jpg"
   }
  ]
 }
