@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T05:42:36+00:00",
+ "updated": "2026-11-18T05:49:32+00:00",
  "items": [
+  {
+   "key": "RC_CHRISTOPHER_BRIAN_120011076374835",
+   "name": "Brian Lester Christopher",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take - (>$500-$5,000)",
+   "more": 1,
+   "ts": 1794980888,
+   "photo": "photos/RC_CHRISTOPHER_BRIAN_120011076374835.jpg"
+  },
   {
    "key": "MKE_WILBRANDT_YVONNE_322868",
    "name": "Yvonne Theresa Wilbrandt",
@@ -106,8 +117,8 @@
    "age": "22",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Throwing or Discharging Bodily Fluids at Public Safety Worker or\u2026",
+   "more": 5,
    "ts": 1794977279,
    "photo": null
   },
@@ -219,17 +230,6 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 5,
    "ts": 1794968856,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILKINS_STACY_600401",
-   "name": "Stacy Lamar Wilkins",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 2,
-   "ts": 1794968855,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_CHRISTOPHER_BRIAN_120011076374835",
+   "name": "Brian Lester Christopher",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take - (>$500-$5,000)",
+   "more": 1,
+   "ts": 1794980888,
+   "photo": "photos/RC_CHRISTOPHER_BRIAN_120011076374835.jpg"
+  },
+  {
    "key": "MKE_WILBRANDT_YVONNE_322868",
    "name": "Yvonne Theresa Wilbrandt",
    "age": "52",
@@ -636,8 +647,8 @@
    "age": "22",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Throwing or Discharging Bodily Fluids at Public Safety Worker or\u2026",
+   "more": 5,
    "ts": 1794977279,
    "photo": null
   },
