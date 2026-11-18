@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-18T21:54:37+00:00",
+ "updated": "2026-11-18T22:04:50+00:00",
  "items": [
+  {
+   "key": "KEN_KUROWSKI_PAULINA_2026-00006387",
+   "name": "Paulina Marie Kurowski",
+   "age": "65",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1795039286,
+   "photo": "photos/KEN_KUROWSKI_PAULINA_2026-00006387.jpg"
+  },
+  {
+   "key": "KEN_DANIEL_ANTONIO_2026-00006390",
+   "name": "ANTONIO DEVON Senior DANIEL",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795039208,
+   "photo": "photos/KEN_DANIEL_ANTONIO_2026-00006390.jpg"
+  },
+  {
+   "key": "KEN_BOLTON_KURTIS_2026-00006388",
+   "name": "Kurtis Bolton",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 7,
+   "ts": 1795039128,
+   "photo": "photos/KEN_BOLTON_KURTIS_2026-00006388.jpg"
+  },
+  {
+   "key": "MKE_SANCHEZ_DAVID_516063",
+   "name": "David J Sanchez",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795039079,
+   "photo": null
+  },
+  {
+   "key": "MKE_CEBALLOSMALDONADO_KEVIN_648381",
+   "name": "Kevin Ceballos Maldonado",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795039077,
+   "photo": null
+  },
+  {
+   "key": "KEN_ARMSTRONG_ARTAVIA_2026-00006389",
+   "name": "Artavia Armstrong",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795039051,
+   "photo": "photos/KEN_ARMSTRONG_ARTAVIA_2026-00006389.jpg"
+  },
+  {
+   "key": "MAR_MILLER_THOMAS_2026-11-18_16353702",
+   "name": "Thomas Miller",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1795038978,
+   "photo": "photos/MAR_MILLER_THOMAS_2026-11-18_16353702.jpg"
+  },
+  {
+   "key": "MAR_CAUTHEN_TRISHA_2026-11-18",
+   "name": "Trisha Lynn Cauthen",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795038893,
+   "photo": "photos/MAR_CAUTHEN_TRISHA_2026-11-18.jpg"
+  },
+  {
+   "key": "MAR_BRUNKER_ANGELA_2026-11-18",
+   "name": "Angela Marie Brunker",
+   "age": "51",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795038840,
+   "photo": "photos/MAR_BRUNKER_ANGELA_2026-11-18.jpg"
+  },
   {
    "key": "RC_PIMENTELMACEDONIO_ERIK_120011076399754",
    "name": "Erik Pimentel-Macedonio",
@@ -128,7 +227,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "3rd Degree Sexual Assault",
+   "charge": "2nd Degree Sexual Assault of Child",
    "more": 2,
    "ts": 1795031856,
    "photo": null
@@ -156,50 +255,6 @@
    "photo": null
   },
   {
-   "key": "KEN_SPOHN_RONNIE_2026-00006385",
-   "name": "Ronnie Jay Spohn",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 4,
-   "ts": 1795028027,
-   "photo": "photos/KEN_SPOHN_RONNIE_2026-00006385.jpg"
-  },
-  {
-   "key": "RC_LAWS_DASHAWN_120011076393980",
-   "name": "Dashawn Levi Laws",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Theft",
-   "more": 6,
-   "ts": 1795027688,
-   "photo": "photos/RC_LAWS_DASHAWN_120011076393980.jpg"
-  },
-  {
-   "key": "MKE_TIMONEDA_JONATHAN_628351",
-   "name": "Jonathan Eduardo Timoneda",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795026474,
-   "photo": null
-  },
-  {
-   "key": "MKE_HOLMES_LATOSHA_648379",
-   "name": "Latosha Latrice Holmes",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795026472,
-   "photo": null
-  },
-  {
    "key": "FDL_PICKART_NICHOLE_2026-11-18",
    "name": "Nichole Ann Pickart",
    "age": "",
@@ -209,28 +264,6 @@
    "more": 0,
    "ts": 1795025797,
    "photo": "photos/FDL_PICKART_NICHOLE_2026-11-18.jpg"
-  },
-  {
-   "key": "KEN_RODRIGUEZ_JUAN_2026-00006383",
-   "name": "Juan Noel Rodriguez",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "1st Degree Reckless Endangering Safety",
-   "more": 0,
-   "ts": 1795024644,
-   "photo": "photos/KEN_RODRIGUEZ_JUAN_2026-00006383.jpg"
-  },
-  {
-   "key": "KEN_APKARIAN_QUENTIN_2026-00006384",
-   "name": "Quentin Anthony Apkarian",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Federal Agency Hold",
-   "more": 0,
-   "ts": 1795024558,
-   "photo": "photos/KEN_APKARIAN_QUENTIN_2026-00006384.jpg"
   },
   {
    "key": "MAR_LORBECKE_GAVIN_2026-11-17_1280714",
@@ -495,42 +528,108 @@
    "more": 2,
    "ts": 1794974048,
    "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-17.jpg"
-  },
-  {
-   "key": "MAR_NASS_ABRIELLE_2026-11-17",
-   "name": "Abrielle Kaye Nass",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1794974006,
-   "photo": "photos/MAR_NASS_ABRIELLE_2026-11-17.jpg"
-  },
-  {
-   "key": "MAR_JAMES_GERALD_2026-11-17",
-   "name": "Gerald Dwayne James",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 4th",
-   "more": 2,
-   "ts": 1794966802,
-   "photo": "photos/MAR_JAMES_GERALD_2026-11-17.jpg"
-  },
-  {
-   "key": "CARTER_PRINCE_2026-11-17",
-   "name": "Prince A Carter",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794965224,
-   "photo": "photos/CARTER_PRINCE_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_KUROWSKI_PAULINA_2026-00006387",
+   "name": "Paulina Marie Kurowski",
+   "age": "65",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1795039286,
+   "photo": "photos/KEN_KUROWSKI_PAULINA_2026-00006387.jpg"
+  },
+  {
+   "key": "KEN_DANIEL_ANTONIO_2026-00006390",
+   "name": "ANTONIO DEVON Senior DANIEL",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795039208,
+   "photo": "photos/KEN_DANIEL_ANTONIO_2026-00006390.jpg"
+  },
+  {
+   "key": "KEN_BOLTON_KURTIS_2026-00006388",
+   "name": "Kurtis Bolton",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 7,
+   "ts": 1795039128,
+   "photo": "photos/KEN_BOLTON_KURTIS_2026-00006388.jpg"
+  },
+  {
+   "key": "MKE_SANCHEZ_DAVID_516063",
+   "name": "David J Sanchez",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795039079,
+   "photo": null
+  },
+  {
+   "key": "MKE_CEBALLOSMALDONADO_KEVIN_648381",
+   "name": "Kevin Ceballos Maldonado",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795039077,
+   "photo": null
+  },
+  {
+   "key": "KEN_ARMSTRONG_ARTAVIA_2026-00006389",
+   "name": "Artavia Armstrong",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795039051,
+   "photo": "photos/KEN_ARMSTRONG_ARTAVIA_2026-00006389.jpg"
+  },
+  {
+   "key": "MAR_MILLER_THOMAS_2026-11-18_16353702",
+   "name": "Thomas Miller",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1795038978,
+   "photo": "photos/MAR_MILLER_THOMAS_2026-11-18_16353702.jpg"
+  },
+  {
+   "key": "MAR_CAUTHEN_TRISHA_2026-11-18",
+   "name": "Trisha Lynn Cauthen",
+   "age": "40",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795038893,
+   "photo": "photos/MAR_CAUTHEN_TRISHA_2026-11-18.jpg"
+  },
+  {
+   "key": "MAR_BRUNKER_ANGELA_2026-11-18",
+   "name": "Angela Marie Brunker",
+   "age": "51",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795038840,
+   "photo": "photos/MAR_BRUNKER_ANGELA_2026-11-18.jpg"
+  },
   {
    "key": "RC_PIMENTELMACEDONIO_ERIK_120011076399754",
    "name": "Erik Pimentel-Macedonio",
@@ -658,7 +757,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "3rd Degree Sexual Assault",
+   "charge": "2nd Degree Sexual Assault of Child",
    "more": 2,
    "ts": 1795031856,
    "photo": null
@@ -4963,17 +5062,6 @@
    "more": 2,
    "ts": 1794783196,
    "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-15_105911.jpg"
-  },
-  {
-   "key": "MKE_JONES_ANTONIO_648323",
-   "name": "Antonio W Jones",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794779866,
-   "photo": "photos/MKE_JONES_ANTONIO_648323.jpg"
   }
  ]
 }
