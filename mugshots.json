@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-18T13:13:48+00:00",
+ "updated": "2026-11-18T13:49:31+00:00",
  "items": [
+  {
+   "key": "RC_MILLARD_TAYLOR_120011076380937",
+   "name": "Taylor James Millard",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine (2nd and subsequent)",
+   "more": 7,
+   "ts": 1795009687,
+   "photo": "photos/RC_MILLARD_TAYLOR_120011076380937.jpg"
+  },
+  {
+   "key": "RC_WILDER_KEITH_120011076381910",
+   "name": "Keith Patrick Wilder",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795009684,
+   "photo": null
+  },
+  {
+   "key": "RC_COVELLI_RYAN_120011076381932",
+   "name": "Ryan Covelli",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795009682,
+   "photo": "photos/RC_COVELLI_RYAN_120011076381932.jpg"
+  },
   {
    "key": "MKE_JEFFERSON_TYRELL_2056964",
    "name": "Tyrell Liace Jefferson",
@@ -244,17 +277,6 @@
    "photo": "photos/RC_TURNER_LEKECHA_120011076377202.jpg"
   },
   {
-   "key": "MKE_ROSS_OMAR_534576",
-   "name": "Omar Antoine Ross",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794990472,
-   "photo": null
-  },
-  {
    "key": "PRIDGEON_JUSTIN_2026-11-18",
    "name": "Justin R Pridgeon",
    "age": "29",
@@ -275,28 +297,6 @@
    "more": 1,
    "ts": 1794988946,
    "photo": null
-  },
-  {
-   "key": "MKE_BOUNDS_BENNIE_201227",
-   "name": "Bennie D Bounds",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794988664,
-   "photo": null
-  },
-  {
-   "key": "KEN_GODEC_JOSEPH_2026-00006381",
-   "name": "Joseph Peter Godec",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 0,
-   "ts": 1794988559,
-   "photo": "photos/KEN_GODEC_JOSEPH_2026-00006381.jpg"
   },
   {
    "key": "FUNMAKER_DIXON_2026-11-18",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MILLARD_TAYLOR_120011076380937",
+   "name": "Taylor James Millard",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine (2nd and subsequent)",
+   "more": 7,
+   "ts": 1795009687,
+   "photo": "photos/RC_MILLARD_TAYLOR_120011076380937.jpg"
+  },
+  {
+   "key": "RC_WILDER_KEITH_120011076381910",
+   "name": "Keith Patrick Wilder",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795009684,
+   "photo": null
+  },
+  {
+   "key": "RC_COVELLI_RYAN_120011076381932",
+   "name": "Ryan Covelli",
+   "age": "51",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795009682,
+   "photo": "photos/RC_COVELLI_RYAN_120011076381932.jpg"
+  },
   {
    "key": "MKE_JEFFERSON_TYRELL_2056964",
    "name": "Tyrell Liace Jefferson",
