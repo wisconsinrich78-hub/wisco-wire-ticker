@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T18:39:37+00:00",
+ "updated": "2026-11-18T18:49:31+00:00",
  "items": [
+  {
+   "key": "RC_LAWS_DASHAWN_120011076393980",
+   "name": "Dashawn Levi Laws",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795027688,
+   "photo": "photos/RC_LAWS_DASHAWN_120011076393980.jpg"
+  },
   {
    "key": "MKE_TIMONEDA_JONATHAN_628351",
    "name": "Jonathan Eduardo Timoneda",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1795017475,
    "photo": "photos/MKE_MARTINSANCHEZ_SAUL_648375.jpg"
-  },
-  {
-   "key": "MKE_MURRELL_KSHAWN_2067842",
-   "name": "Kshawn Scott Murrell",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795017472,
-   "photo": null
   },
   {
    "key": "FDL_DROSSART_DANIELLE_2026-11-18",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_LAWS_DASHAWN_120011076393980",
+   "name": "Dashawn Levi Laws",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795027688,
+   "photo": "photos/RC_LAWS_DASHAWN_120011076393980.jpg"
+  },
   {
    "key": "MKE_TIMONEDA_JONATHAN_628351",
    "name": "Jonathan Eduardo Timoneda",
