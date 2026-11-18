@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T04:36:36+00:00",
+ "updated": "2026-11-18T04:49:29+00:00",
  "items": [
+  {
+   "key": "RC_PETERSON_MARCUS_120011076374725",
+   "name": "Marcus Valdemar Peterson",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794977279,
+   "photo": null
+  },
   {
    "key": "SCHUELKE_SHANTAE_2026-11-17",
    "name": "Shantae L Schuelke",
@@ -230,17 +241,6 @@
    "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 0,
    "ts": 1794961672,
-   "photo": null
-  },
-  {
-   "key": "MKE_ASHLEY_JOHN_641271",
-   "name": "John Jahrell Ashley",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Homicide by Negligent Operation/Vehicle",
-   "more": 0,
-   "ts": 1794961671,
    "photo": null
   },
   {
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PETERSON_MARCUS_120011076374725",
+   "name": "Marcus Valdemar Peterson",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794977279,
+   "photo": null
+  },
   {
    "key": "SCHUELKE_SHANTAE_2026-11-17",
    "name": "Shantae L Schuelke",
