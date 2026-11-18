@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-18T09:49:27+00:00",
+ "updated": "2026-11-18T09:59:43+00:00",
  "items": [
+  {
+   "key": "MKE_WILSONTREVINO_LAQUANDA_648373",
+   "name": "Laquanda Marie Wilson-Trevino",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794995856,
+   "photo": null
+  },
+  {
+   "key": "MKE_MUHAMMAD_MAHDEE_648374",
+   "name": "Mahdee Muhammad",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794995854,
+   "photo": null
+  },
+  {
+   "key": "MKE_PORTER_PAUL_2053176",
+   "name": "Paul J Porter",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794995852,
+   "photo": null
+  },
+  {
+   "key": "MAR_HER_LUE_2026-11-18",
+   "name": "Lue Her",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 2nd",
+   "more": 0,
+   "ts": 1794995648,
+   "photo": "photos/MAR_HER_LUE_2026-11-18.jpg"
+  },
   {
    "key": "RC_ELAM_CAMRON_120011076377876",
    "name": "Camron J Elam",
@@ -172,7 +216,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 1,
    "ts": 1794983268,
    "photo": null
@@ -220,39 +264,6 @@
    "more": 0,
    "ts": 1794981205,
    "photo": "photos/MAR_REED_DOUGLASS_2026-11-17_1235912.jpg"
-  },
-  {
-   "key": "RC_CHRISTOPHER_BRIAN_120011076374835",
-   "name": "Brian Lester Christopher",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take - (>$500-$5,000)",
-   "more": 1,
-   "ts": 1794980888,
-   "photo": "photos/RC_CHRISTOPHER_BRIAN_120011076374835.jpg"
-  },
-  {
-   "key": "MKE_WILBRANDT_YVONNE_322868",
-   "name": "Yvonne Theresa Wilbrandt",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1794979671,
-   "photo": null
-  },
-  {
-   "key": "MKE_BALDWIN_EMILY_648365",
-   "name": "Emily L Baldwin",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794979668,
-   "photo": null
   },
   {
    "key": "MAR_REED_DOUGLASS_2026-11-17",
@@ -486,17 +497,6 @@
    "photo": "photos/DOU_SCHELINDER_JESSICA_2026-11-17.jpg"
   },
   {
-   "key": "MAR_TROSKOSKI_RYAN_2026-11-17",
-   "name": "Ryan Andrew Troskoski",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1794938030,
-   "photo": "photos/MAR_TROSKOSKI_RYAN_2026-11-17.jpg"
-  },
-  {
    "key": "FDL_DAY_HAILEY_2026-11-17",
    "name": "Hailey Elizabeth Day",
    "age": "",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILSONTREVINO_LAQUANDA_648373",
+   "name": "Laquanda Marie Wilson-Trevino",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794995856,
+   "photo": null
+  },
+  {
+   "key": "MKE_MUHAMMAD_MAHDEE_648374",
+   "name": "Mahdee Muhammad",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1794995854,
+   "photo": null
+  },
+  {
+   "key": "MKE_PORTER_PAUL_2053176",
+   "name": "Paul J Porter",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794995852,
+   "photo": null
+  },
+  {
+   "key": "MAR_HER_LUE_2026-11-18",
+   "name": "Lue Her",
+   "age": "49",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 2nd",
+   "more": 0,
+   "ts": 1794995648,
+   "photo": "photos/MAR_HER_LUE_2026-11-18.jpg"
+  },
   {
    "key": "RC_ELAM_CAMRON_120011076377876",
    "name": "Camron J Elam",
@@ -702,7 +746,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 1,
    "ts": 1794983268,
    "photo": null
@@ -911,7 +955,7 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Battery",
    "more": 13,
    "ts": 1794974269,
    "photo": null
@@ -1002,7 +1046,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794968852,
-   "photo": null
+   "photo": "photos/MKE_CONN_DOMINIQUE_641210.jpg"
   },
   {
    "key": "MKE_CRAWFORD_TEMETRIA_648364",
@@ -1024,7 +1068,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794968848,
-   "photo": null
+   "photo": "photos/MKE_CARPENTER_BENJAMIN_2018886.jpg"
   },
   {
    "key": "MAR_JAMES_GERALD_2026-11-17",
@@ -1112,7 +1156,7 @@
    "charge": "Homicide by Negligent Operation/Vehicle",
    "more": 0,
    "ts": 1794961671,
-   "photo": null
+   "photo": "photos/MKE_ASHLEY_JOHN_641271.jpg"
   },
   {
    "key": "MKE_BELLAMY_SAMOTRIA_646683",
@@ -4721,28 +4765,6 @@
    "more": 1,
    "ts": 1794737810,
    "photo": null
-  },
-  {
-   "key": "KEN_JUAREZGALINDO_FROILAN_2026-00006318",
-   "name": "Froilan Juarez-Galindo",
-   "age": "53",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Unsafe Lane Deviation",
-   "more": 3,
-   "ts": 1794736445,
-   "photo": null
-  },
-  {
-   "key": "KEN_GONZALEZLOPEZ_CARLOS_2026-00006317",
-   "name": "Carlos Daniel Gonzalez-Lopez",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Open Intoxicants in Mv-Driver",
-   "more": 3,
-   "ts": 1794736409,
-   "photo": "photos/KEN_GONZALEZLOPEZ_CARLOS_2026-00006317.jpg"
   }
  ]
 }
