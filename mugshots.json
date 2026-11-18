@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T13:49:31+00:00",
+ "updated": "2026-11-18T14:08:26+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_EDDIE_236612",
+   "name": "Eddie Junior Smith",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795010277,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEASLEY_PHILIP_409395",
+   "name": "Philip Beasley",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795010274,
+   "photo": null
+  },
   {
    "key": "RC_MILLARD_TAYLOR_120011076380937",
    "name": "Taylor James Millard",
@@ -40,8 +62,8 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent-Cocaine (>5-15g)",
+   "more": 13,
    "ts": 1795006653,
    "photo": null
   },
@@ -95,8 +117,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
    "ts": 1794999369,
    "photo": "photos/KEN_MARBAN_JOSE_2026-00006382.jpg"
   },
@@ -253,28 +275,6 @@
    "more": 0,
    "ts": 1794992219,
    "photo": null
-  },
-  {
-   "key": "RC_BARRY_JARRIEL_120011076377127",
-   "name": "Jarriel Dashawn Barry",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794991675,
-   "photo": "photos/RC_BARRY_JARRIEL_120011076377127.jpg"
-  },
-  {
-   "key": "RC_TURNER_LEKECHA_120011076377202",
-   "name": "Lekecha Marie Turner",
-   "age": "46",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1794991671,
-   "photo": "photos/RC_TURNER_LEKECHA_120011076377202.jpg"
   },
   {
    "key": "PRIDGEON_JUSTIN_2026-11-18",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SMITH_EDDIE_236612",
+   "name": "Eddie Junior Smith",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795010277,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEASLEY_PHILIP_409395",
+   "name": "Philip Beasley",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795010274,
+   "photo": null
+  },
+  {
    "key": "RC_MILLARD_TAYLOR_120011076380937",
    "name": "Taylor James Millard",
    "age": "32",
@@ -570,8 +592,8 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent-Cocaine (>5-15g)",
+   "more": 13,
    "ts": 1795006653,
    "photo": null
   },
@@ -625,8 +647,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
    "ts": 1794999369,
    "photo": "photos/KEN_MARBAN_JOSE_2026-00006382.jpg"
   },
@@ -903,7 +925,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794983266,
-   "photo": null
+   "photo": "photos/MKE_WATKINS_JOAVON_648370.jpg"
   },
   {
    "key": "MKE_ROBINSON_NYASIAH_648371",
@@ -4765,17 +4787,6 @@
    "more": 3,
    "ts": 1794752877,
    "photo": "photos/MKE_TURNER_KENNETH_648316.jpg"
-  },
-  {
-   "key": "MKE_HARRISDIAZ_IMMANUEL_648314",
-   "name": "Immanuel Harris-Diaz",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794751048,
-   "photo": "photos/MKE_HARRISDIAZ_IMMANUEL_648314.jpg"
   }
  ]
 }
