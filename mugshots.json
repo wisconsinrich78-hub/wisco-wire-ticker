@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T17:36:58+00:00",
+ "updated": "2026-11-18T17:49:34+00:00",
  "items": [
+  {
+   "key": "RC_ENCINOJIMENEZ_ISAUL_120011076391691",
+   "name": "Isaul Encino-Jimenez",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (2nd W/In 3 Yrs)",
+   "more": 0,
+   "ts": 1795024079,
+   "photo": null
+  },
   {
    "key": "MKE_GIBSON_MICHAEL_396566",
    "name": "Michael Marquise Gibson",
@@ -219,17 +230,6 @@
    "charge": "",
    "more": 0,
    "ts": 1795013234,
-   "photo": null
-  },
-  {
-   "key": "MKE_GARCIA_CARLOS_304607",
-   "name": "Carlos Alberto Garcia",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795012051,
    "photo": null
   },
   {
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ENCINOJIMENEZ_ISAUL_120011076391691",
+   "name": "Isaul Encino-Jimenez",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid License (2nd W/In 3 Yrs)",
+   "more": 0,
+   "ts": 1795024079,
+   "photo": null
+  },
   {
    "key": "MKE_GIBSON_MICHAEL_396566",
    "name": "Michael Marquise Gibson",
@@ -4853,17 +4864,6 @@
    "more": 0,
    "ts": 1794767452,
    "photo": "photos/TISCHER_ROBERT_2026-11-15.jpg"
-  },
-  {
-   "key": "RC_WALKER_KAHARION_120011076294055",
-   "name": "Kaharion R Walker",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1794764897,
-   "photo": "photos/RC_WALKER_KAHARION_120011076294055.jpg"
   }
  ]
 }
