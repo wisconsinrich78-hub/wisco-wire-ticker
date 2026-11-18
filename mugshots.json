@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T11:29:34+00:00",
+ "updated": "2026-11-18T11:49:30+00:00",
  "items": [
+  {
+   "key": "RC_WASHINGTON_KYANN_120011076379398",
+   "name": "Kyann Katherine Washington",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Enforce The Duty Of Child Support Or Maintenance",
+   "more": 0,
+   "ts": 1795002470,
+   "photo": null
+  },
   {
    "key": "MKE_COOPER_ERIC_297360",
    "name": "Eric Antonio Cooper",
@@ -299,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "MKE_MOFFET_ANIYA_648369",
-   "name": "Aniya N Moffet",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794983268,
-   "photo": null
-  },
-  {
    "key": "MAR_REED_DOUGLASS_2026-11-17_1235912",
    "name": "Douglass Stafford Reed",
    "age": "55",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WASHINGTON_KYANN_120011076379398",
+   "name": "Kyann Katherine Washington",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Enforce The Duty Of Child Support Or Maintenance",
+   "more": 0,
+   "ts": 1795002470,
+   "photo": null
+  },
   {
    "key": "MKE_COOPER_ERIC_297360",
    "name": "Eric Antonio Cooper",
