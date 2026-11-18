@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-18T03:49:31+00:00",
+ "updated": "2026-11-18T04:07:45+00:00",
  "items": [
+  {
+   "key": "KEN_TIDWELL_JUSTIN_2026-00006377",
+   "name": "Justin Warren Tidwell",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 2,
+   "ts": 1794974310,
+   "photo": "photos/KEN_TIDWELL_JUSTIN_2026-00006377.jpg"
+  },
+  {
+   "key": "MKE_ANAYA_DANIEL_288321",
+   "name": "Daniel Jesus Anaya",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 13,
+   "ts": 1794974269,
+   "photo": null
+  },
+  {
+   "key": "MKE_BLANKS_SHANNON_613007",
+   "name": "Shannon Tremaine Blanks",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794974267,
+   "photo": null
+  },
+  {
+   "key": "MAR_LAMPKIN_ADAM_2026-11-17",
+   "name": "Adam John Lampkin",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession of Methamphetamine",
+   "more": 2,
+   "ts": 1794974048,
+   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-17.jpg"
+  },
+  {
+   "key": "MAR_NASS_ABRIELLE_2026-11-17",
+   "name": "Abrielle Kaye Nass",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1794974006,
+   "photo": "photos/MAR_NASS_ABRIELLE_2026-11-17.jpg"
+  },
   {
    "key": "MKE_BOOSE_GREGORY_375984",
    "name": "Gregory L Boose",
@@ -29,8 +84,8 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
    "ts": 1794968856,
    "photo": null
   },
@@ -106,7 +161,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "charge": "Operate Firearm While Intoxicated",
    "more": 5,
    "ts": 1794963456,
    "photo": null
@@ -167,28 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BELLAMY_SAMOTRIA_646683",
-   "name": "Samotria Shauna Bellamy",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794961668,
-   "photo": null
-  },
-  {
-   "key": "MKE_FIREHAMMER_ZACHARY_2056678",
-   "name": "Zachary R Firehammer",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794961666,
-   "photo": "photos/MKE_FIREHAMMER_ZACHARY_2056678.jpg"
-  },
-  {
    "key": "DOU_LUCKEY_BRENDEN_2026-11-17",
    "name": "Brenden R Luckey",
    "age": "24",
@@ -220,17 +253,6 @@
    "more": 1,
    "ts": 1794960212,
    "photo": null
-  },
-  {
-   "key": "KEN_FARRIS_DARRIN_2026-00006376",
-   "name": "Darrin Mikal Farris",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794959662,
-   "photo": "photos/KEN_FARRIS_DARRIN_2026-00006376.jpg"
   },
   {
    "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
@@ -398,28 +420,6 @@
    "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17_880804.jpg"
   },
   {
-   "key": "MAR_CLARK_CORA_2026-11-17_10286001",
-   "name": "Cora Lee Clark",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794930929,
-   "photo": "photos/MAR_CLARK_CORA_2026-11-17_10286001.jpg"
-  },
-  {
-   "key": "MAR_LUTHER_ISAAC_2026-11-17",
-   "name": "Isaac Robert Luther",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794930866,
-   "photo": "photos/MAR_LUTHER_ISAAC_2026-11-17.jpg"
-  },
-  {
    "key": "TREM_HEMBD_ALLY_4143",
    "name": "Ally Marjorie Hembd",
    "age": "25",
@@ -532,6 +532,61 @@
  ],
  "all_items": [
   {
+   "key": "KEN_TIDWELL_JUSTIN_2026-00006377",
+   "name": "Justin Warren Tidwell",
+   "age": "48",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 2,
+   "ts": 1794974310,
+   "photo": "photos/KEN_TIDWELL_JUSTIN_2026-00006377.jpg"
+  },
+  {
+   "key": "MKE_ANAYA_DANIEL_288321",
+   "name": "Daniel Jesus Anaya",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 13,
+   "ts": 1794974269,
+   "photo": null
+  },
+  {
+   "key": "MKE_BLANKS_SHANNON_613007",
+   "name": "Shannon Tremaine Blanks",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794974267,
+   "photo": null
+  },
+  {
+   "key": "MAR_LAMPKIN_ADAM_2026-11-17",
+   "name": "Adam John Lampkin",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Possession of Methamphetamine",
+   "more": 2,
+   "ts": 1794974048,
+   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-17.jpg"
+  },
+  {
+   "key": "MAR_NASS_ABRIELLE_2026-11-17",
+   "name": "Abrielle Kaye Nass",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Warrant Other Jurisdiction",
+   "more": 0,
+   "ts": 1794974006,
+   "photo": "photos/MAR_NASS_ABRIELLE_2026-11-17.jpg"
+  },
+  {
    "key": "MKE_BOOSE_GREGORY_375984",
    "name": "Gregory L Boose",
    "age": "41",
@@ -559,8 +614,8 @@
    "age": "39",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
    "ts": 1794968856,
    "photo": null
   },
@@ -636,7 +691,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "charge": "Operate Firearm While Intoxicated",
    "more": 5,
    "ts": 1794963456,
    "photo": null
@@ -845,10 +900,10 @@
    "age": "52",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 3,
    "ts": 1794957962,
-   "photo": null
+   "photo": "photos/KEN_VALOTTA_MARK_2026-00006372.jpg"
   },
   {
    "key": "KEN_SEAY_DERRICK_2026-00006371",
@@ -867,7 +922,7 @@
    "age": "49",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1794957812,
    "photo": "photos/KEN_RUSH_LENNARD_2026-00006373.jpg"
@@ -878,8 +933,8 @@
    "age": "39",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 2,
    "ts": 1794957728,
    "photo": "photos/KEN_PRATHER_FRED_2026-00006375.jpg"
   },
@@ -900,7 +955,7 @@
    "age": "23",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Carrying Concealed Weapon",
    "more": 0,
    "ts": 1794957446,
    "photo": "photos/KEN_HARRELL_RASHEED_2026-00006374.jpg"
@@ -914,7 +969,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 1,
    "ts": 1794956364,
-   "photo": null
+   "photo": "photos/MKE_CARTER_KENNETH_376407.jpg"
   },
   {
    "key": "MKE_ABILES_ISRAEL_604334",
@@ -4644,28 +4699,6 @@
    "more": 4,
    "ts": 1794716211,
    "photo": "photos/DOU_BECKER_ADAM_2026-11-14.jpg"
-  },
-  {
-   "key": "HOWE_MELINDA_2026-11-14",
-   "name": "Melinda S Howe",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess W/ Intent-\u2026",
-   "more": 4,
-   "ts": 1794715031,
-   "photo": null
-  },
-  {
-   "key": "HOWE_MELINDA_2026-11-14_PHOTO_UPDATE",
-   "name": "Melinda S Howe",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess W/ Intent-\u2026",
-   "more": 4,
-   "ts": 1794715031,
-   "photo": "photos/HOWE_MELINDA_2026-11-14_PHOTO_UPDATE.jpg"
   }
  ]
 }
