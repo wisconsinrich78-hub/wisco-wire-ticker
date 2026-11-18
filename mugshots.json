@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-18T17:49:34+00:00",
+ "updated": "2026-11-18T18:08:06+00:00",
  "items": [
+  {
+   "key": "KEN_RODRIGUEZ_JUAN_2026-00006383",
+   "name": "Juan Noel Rodriguez",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Endangering Safety",
+   "more": 0,
+   "ts": 1795024644,
+   "photo": "photos/KEN_RODRIGUEZ_JUAN_2026-00006383.jpg"
+  },
+  {
+   "key": "KEN_APKARIAN_QUENTIN_2026-00006384",
+   "name": "Quentin Anthony Apkarian",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Federal Agency Hold",
+   "more": 0,
+   "ts": 1795024558,
+   "photo": "photos/KEN_APKARIAN_QUENTIN_2026-00006384.jpg"
+  },
+  {
+   "key": "MAR_LORBECKE_GAVIN_2026-11-17_1280714",
+   "name": "Gavin Lee Lorbecke",
+   "age": "25",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795024482,
+   "photo": "photos/MAR_LORBECKE_GAVIN_2026-11-17_1280714.jpg"
+  },
+  {
+   "key": "MAR_MILLER_THOMAS_2026-11-18",
+   "name": "Thomas Miller",
+   "age": "43",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ Ad Prosequendum",
+   "more": 0,
+   "ts": 1795024432,
+   "photo": "photos/MAR_MILLER_THOMAS_2026-11-18.jpg"
+  },
   {
    "key": "RC_ENCINOJIMENEZ_ISAUL_120011076391691",
    "name": "Isaul Encino-Jimenez",
@@ -198,28 +242,6 @@
    "more": 0,
    "ts": 1795013617,
    "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18.jpg"
-  },
-  {
-   "key": "RC_STRONG_DAMARIO_120011076382186",
-   "name": "Damario Deshawn Strong",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795013291,
-   "photo": "photos/RC_STRONG_DAMARIO_120011076382186.jpg"
-  },
-  {
-   "key": "RC_JONES_MARQUIS_120011076384483",
-   "name": "Marquis D Jones",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795013287,
-   "photo": "photos/RC_JONES_MARQUIS_120011076384483.jpg"
   },
   {
    "key": "SUHR_ALYSHA_2026-11-18",
@@ -506,31 +528,53 @@
    "more": 6,
    "ts": 1794956184,
    "photo": "photos/MAR_WILLIAMS_DILLON_2026-11-17.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "KEN_RODRIGUEZ_JUAN_2026-00006383",
+   "name": "Juan Noel Rodriguez",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "1st Degree Reckless Endangering Safety",
+   "more": 0,
+   "ts": 1795024644,
+   "photo": "photos/KEN_RODRIGUEZ_JUAN_2026-00006383.jpg"
   },
   {
-   "key": "MAR_STANDS_SHANICE_2026-11-17",
-   "name": "Shanice Ann Stands",
-   "age": "34",
+   "key": "KEN_APKARIAN_QUENTIN_2026-00006384",
+   "name": "Quentin Anthony Apkarian",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Federal Agency Hold",
+   "more": 0,
+   "ts": 1795024558,
+   "photo": "photos/KEN_APKARIAN_QUENTIN_2026-00006384.jpg"
+  },
+  {
+   "key": "MAR_LORBECKE_GAVIN_2026-11-17_1280714",
+   "name": "Gavin Lee Lorbecke",
+   "age": "25",
    "county": "Marathon County",
    "region": "northwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1794956124,
-   "photo": "photos/MAR_STANDS_SHANICE_2026-11-17.jpg"
+   "ts": 1795024482,
+   "photo": "photos/MAR_LORBECKE_GAVIN_2026-11-17_1280714.jpg"
   },
   {
-   "key": "DOU_RHODES_BILLY_2026-11-17",
-   "name": "Billy J Rhodes",
-   "age": "34",
-   "county": "Douglas County",
+   "key": "MAR_MILLER_THOMAS_2026-11-18",
+   "name": "Thomas Miller",
+   "age": "43",
+   "county": "Marathon County",
    "region": "northwest",
-   "charge": "Probation/Parole Violation",
+   "charge": "Writ Ad Prosequendum",
    "more": 0,
-   "ts": 1794950320,
-   "photo": "photos/DOU_RHODES_BILLY_2026-11-17.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795024432,
+   "photo": "photos/MAR_MILLER_THOMAS_2026-11-18.jpg"
+  },
   {
    "key": "RC_ENCINOJIMENEZ_ISAUL_120011076391691",
    "name": "Isaul Encino-Jimenez",
