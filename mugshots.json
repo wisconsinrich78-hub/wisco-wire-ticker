@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-18T07:49:38+00:00",
+ "updated": "2026-11-18T08:36:46+00:00",
  "items": [
+  {
+   "key": "MKE_ROSS_OMAR_534576",
+   "name": "Omar Antoine Ross",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794990472,
+   "photo": null
+  },
+  {
+   "key": "PRIDGEON_JUSTIN_2026-11-18",
+   "name": "Justin R Pridgeon",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794990429,
+   "photo": "photos/PRIDGEON_JUSTIN_2026-11-18.jpg"
+  },
+  {
+   "key": "LANGEN_ALEXIS_2026-11-18",
+   "name": "Alexis L Langen",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794988946,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOUNDS_BENNIE_201227",
+   "name": "Bennie D Bounds",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794988664,
+   "photo": null
+  },
+  {
+   "key": "KEN_GODEC_JOSEPH_2026-00006381",
+   "name": "Joseph Peter Godec",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794988559,
+   "photo": "photos/KEN_GODEC_JOSEPH_2026-00006381.jpg"
+  },
   {
    "key": "FUNMAKER_DIXON_2026-11-18",
    "name": "Dixon Harry Funmaker",
@@ -167,17 +222,6 @@
    "photo": null
   },
   {
-   "key": "KEN_BATES_JOHN_2026-00006378",
-   "name": "John L Bates",
-   "age": "73",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Failure of Operator to Notify Police of Accident",
-   "more": 3,
-   "ts": 1794977641,
-   "photo": null
-  },
-  {
    "key": "MAR_REED_DOUGLASS_2026-11-17",
    "name": "Douglass Stafford Reed",
    "age": "55",
@@ -187,17 +231,6 @@
    "more": 0,
    "ts": 1794977610,
    "photo": "photos/MAR_REED_DOUGLASS_2026-11-17.jpg"
-  },
-  {
-   "key": "RC_PETERSON_MARCUS_120011076374725",
-   "name": "Marcus Valdemar Peterson",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Throwing or Discharging Bodily Fluids at Public Safety Worker or\u2026",
-   "more": 5,
-   "ts": 1794977279,
-   "photo": null
   },
   {
    "key": "SCHUELKE_SHANTAE_2026-11-17",
@@ -220,17 +253,6 @@
    "more": 0,
    "ts": 1794975399,
    "photo": null
-  },
-  {
-   "key": "KEN_TIDWELL_JUSTIN_2026-00006377",
-   "name": "Justin Warren Tidwell",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794974310,
-   "photo": "photos/KEN_TIDWELL_JUSTIN_2026-00006377.jpg"
   },
   {
    "key": "MAR_LAMPKIN_ADAM_2026-11-17",
@@ -506,31 +528,64 @@
    "more": 2,
    "ts": 1794896819,
    "photo": null
-  },
-  {
-   "key": "FDL_JACKSON_RYAN_2026-11-16",
-   "name": "Ryan Jerold Jackson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794892584,
-   "photo": "photos/FDL_JACKSON_RYAN_2026-11-16.jpg"
-  },
-  {
-   "key": "REDMOND_LEE_2026-11-16",
-   "name": "Lee H Redmond",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794890826,
-   "photo": "photos/REDMOND_LEE_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ROSS_OMAR_534576",
+   "name": "Omar Antoine Ross",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1794990472,
+   "photo": null
+  },
+  {
+   "key": "PRIDGEON_JUSTIN_2026-11-18",
+   "name": "Justin R Pridgeon",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1794990429,
+   "photo": "photos/PRIDGEON_JUSTIN_2026-11-18.jpg"
+  },
+  {
+   "key": "LANGEN_ALEXIS_2026-11-18",
+   "name": "Alexis L Langen",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794988946,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOUNDS_BENNIE_201227",
+   "name": "Bennie D Bounds",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794988664,
+   "photo": null
+  },
+  {
+   "key": "KEN_GODEC_JOSEPH_2026-00006381",
+   "name": "Joseph Peter Godec",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794988559,
+   "photo": "photos/KEN_GODEC_JOSEPH_2026-00006381.jpg"
+  },
   {
    "key": "FUNMAKER_DIXON_2026-11-18",
    "name": "Dixon Harry Funmaker",
@@ -837,7 +892,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 5,
    "ts": 1794968856,
-   "photo": null
+   "photo": "photos/MKE_ALICEA_AMALKY_344497.jpg"
   },
   {
    "key": "MKE_WILKINS_STACY_600401",
@@ -848,7 +903,7 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 2,
    "ts": 1794968855,
-   "photo": null
+   "photo": "photos/MKE_WILKINS_STACY_600401.jpg"
   },
   {
    "key": "MKE_CONN_DOMINIQUE_641210",
@@ -914,7 +969,7 @@
    "charge": "Operate Firearm While Intoxicated",
    "more": 5,
    "ts": 1794963456,
-   "photo": null
+   "photo": "photos/MKE_THOMAS_KASIB_360313.jpg"
   },
   {
    "key": "MKE_NORWOOD_RAYSHAWN_616780",
@@ -925,7 +980,7 @@
    "charge": "Charges Pending",
    "more": 16,
    "ts": 1794963454,
-   "photo": null
+   "photo": "photos/MKE_NORWOOD_RAYSHAWN_616780.jpg"
   },
   {
    "key": "MKE_DRYDEN_VIRGIL_644331",
@@ -936,7 +991,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1794963452,
-   "photo": null
+   "photo": "photos/MKE_DRYDEN_VIRGIL_644331.jpg"
   },
   {
    "key": "MKE_HAYNES_DARIUS_645534",
@@ -980,7 +1035,7 @@
    "charge": "Charges Pending",
    "more": 8,
    "ts": 1794961668,
-   "photo": null
+   "photo": "photos/MKE_BELLAMY_SAMOTRIA_646683.jpg"
   },
   {
    "key": "MKE_FIREHAMMER_ZACHARY_2056678",
@@ -1211,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794956352,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_BREANNA_624210.jpg"
   },
   {
    "key": "MKE_CASTON_JACK_648361",
@@ -4655,39 +4710,6 @@
    "more": 0,
    "ts": 1794732424,
    "photo": null
-  },
-  {
-   "key": "MKE_CLARKE_CALVIN_179346",
-   "name": "Calvin Sylvester Clarke",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794731247,
-   "photo": "photos/MKE_CLARKE_CALVIN_179346.jpg"
-  },
-  {
-   "key": "MKE_HANDY_JAYLEN_515880",
-   "name": "Jaylen Handy",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794729468,
-   "photo": "photos/MKE_HANDY_JAYLEN_515880.jpg"
-  },
-  {
-   "key": "MKE_SANCHEZ_ANTHONY_648312",
-   "name": "Anthony John Sanchez",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794729464,
-   "photo": "photos/MKE_SANCHEZ_ANTHONY_648312.jpg"
   }
  ]
 }
