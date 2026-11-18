@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T20:00:51+00:00",
+ "updated": "2026-11-18T20:18:38+00:00",
  "items": [
+  {
+   "key": "FDL_ROBINS_CANDYCE_2026-11-18",
+   "name": "Candyce Risetta Robins",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795032992,
+   "photo": "photos/FDL_ROBINS_CANDYCE_2026-11-18.jpg"
+  },
+  {
+   "key": "FDL_MISTERS_JOSHUA_2026-11-18",
+   "name": "Joshua Glenn Misters",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 1,
+   "ts": 1795032983,
+   "photo": null
+  },
   {
    "key": "MKE_FLAKES_ANTONIO_341562",
    "name": "Antonio Preston Flakes",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794960963,
    "photo": "photos/FDL_BREIDENBACH_DIANA_2026-11-17.jpg"
-  },
-  {
-   "key": "THRUNE_KORTO_2026-11-17",
-   "name": "Korto B Thrune",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1794960212,
-   "photo": null
-  },
-  {
-   "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
-   "name": "Raul Raul Portillo-Castaneda",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bodily Harm or Threat to Employee of Health Care Facility",
-   "more": 3,
-   "ts": 1794956243,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_ROBINS_CANDYCE_2026-11-18",
+   "name": "Candyce Risetta Robins",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795032992,
+   "photo": "photos/FDL_ROBINS_CANDYCE_2026-11-18.jpg"
+  },
+  {
+   "key": "FDL_MISTERS_JOSHUA_2026-11-18",
+   "name": "Joshua Glenn Misters",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 1,
+   "ts": 1795032983,
+   "photo": null
+  },
   {
    "key": "MKE_FLAKES_ANTONIO_341562",
    "name": "Antonio Preston Flakes",
@@ -4919,17 +4941,6 @@
    "more": 0,
    "ts": 1794775699,
    "photo": "photos/RC_PATTERSON_LUTHER_120011076297178.jpg"
-  },
-  {
-   "key": "FDL_LOPEZLOPEZ_HECTOR_2026-11-15",
-   "name": "Hector Lopez Lopez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794773784,
-   "photo": "photos/FDL_LOPEZLOPEZ_HECTOR_2026-11-15.jpg"
   }
  ]
 }
