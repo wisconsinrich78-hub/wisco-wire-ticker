@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-18T01:49:37+00:00",
+ "updated": "2026-11-18T02:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_ALICEA_AMALKY_344497",
+   "name": "Amalky Cannauis Alicea",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794968856,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILKINS_STACY_600401",
+   "name": "Stacy Lamar Wilkins",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 2,
+   "ts": 1794968855,
+   "photo": null
+  },
+  {
+   "key": "MKE_CONN_DOMINIQUE_641210",
+   "name": "Dominique Natrell Conn",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794968852,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRAWFORD_TEMETRIA_648364",
+   "name": "Temetria Deshay Crawford",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794968850,
+   "photo": "photos/MKE_CRAWFORD_TEMETRIA_648364.jpg"
+  },
+  {
+   "key": "MKE_CARPENTER_BENJAMIN_2018886",
+   "name": "Benjamin Angus Carpenter",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794968848,
+   "photo": null
+  },
+  {
+   "key": "MAR_JAMES_GERALD_2026-11-17",
+   "name": "Gerald Dwayne James",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 4th",
+   "more": 2,
+   "ts": 1794966802,
+   "photo": "photos/MAR_JAMES_GERALD_2026-11-17.jpg"
+  },
   {
    "key": "CARTER_PRINCE_2026-11-17",
    "name": "Prince A Carter",
@@ -30,7 +96,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 6,
+   "more": 16,
    "ts": 1794963454,
    "photo": null
   },
@@ -165,61 +231,6 @@
    "more": 0,
    "ts": 1794959307,
    "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
-  },
-  {
-   "key": "RC_KAULAITY_DYLAN_120011076366250",
-   "name": "Dylan Sean Kaulaity",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794959303,
-   "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
-  },
-  {
-   "key": "RC_STROUD_GIOVANNI_120011076369470",
-   "name": "Giovanni F l Stroud",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794959299,
-   "photo": "photos/RC_STROUD_GIOVANNI_120011076369470.jpg"
-  },
-  {
-   "key": "MKE_DOE_CHRISTOPHER_278162",
-   "name": "Christopher David Doe",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794958124,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARSON_DEMONTE_648362",
-   "name": "Demonte M Carson",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794958117,
-   "photo": null
-  },
-  {
-   "key": "MKE_LAJOICE_CHARLES_648363",
-   "name": "Charles Lajoice",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1794958111,
-   "photo": null
   },
   {
    "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
@@ -409,17 +420,6 @@
    "photo": "photos/MAR_LUTHER_ISAAC_2026-11-17.jpg"
   },
   {
-   "key": "MAR_VANOOYEN_BRAYDEN_2026-11-17",
-   "name": "Brayden Michael Vanooyen",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794930817,
-   "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17.jpg"
-  },
-  {
    "key": "TREM_HEMBD_ALLY_4143",
    "name": "Ally Marjorie Hembd",
    "age": "25",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "MKE_ALICEA_AMALKY_344497",
+   "name": "Amalky Cannauis Alicea",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794968856,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILKINS_STACY_600401",
+   "name": "Stacy Lamar Wilkins",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 2,
+   "ts": 1794968855,
+   "photo": null
+  },
+  {
+   "key": "MKE_CONN_DOMINIQUE_641210",
+   "name": "Dominique Natrell Conn",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794968852,
+   "photo": null
+  },
+  {
+   "key": "MKE_CRAWFORD_TEMETRIA_648364",
+   "name": "Temetria Deshay Crawford",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794968850,
+   "photo": "photos/MKE_CRAWFORD_TEMETRIA_648364.jpg"
+  },
+  {
+   "key": "MKE_CARPENTER_BENJAMIN_2018886",
+   "name": "Benjamin Angus Carpenter",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794968848,
+   "photo": null
+  },
+  {
+   "key": "MAR_JAMES_GERALD_2026-11-17",
+   "name": "Gerald Dwayne James",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 4th",
+   "more": 2,
+   "ts": 1794966802,
+   "photo": "photos/MAR_JAMES_GERALD_2026-11-17.jpg"
+  },
+  {
    "key": "CARTER_PRINCE_2026-11-17",
    "name": "Prince A Carter",
    "age": "32",
@@ -560,7 +626,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 6,
+   "more": 16,
    "ts": 1794963454,
    "photo": null
   },
@@ -837,7 +903,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794956361,
-   "photo": null
+   "photo": "photos/MKE_ABILES_ISRAEL_604334.jpg"
   },
   {
    "key": "MKE_DAVIS_BREANNA_624210",
@@ -4611,50 +4677,6 @@
    "more": 0,
    "ts": 1794713257,
    "photo": "photos/MKE_ROBINSON_SARA_2031153.jpg"
-  },
-  {
-   "key": "MKE_SEVERICHEVARGAS_ANGEL_648308",
-   "name": "Angel E Severiche Vargas",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794709678,
-   "photo": "photos/MKE_SEVERICHEVARGAS_ANGEL_648308.jpg"
-  },
-  {
-   "key": "DOU_LIVINGSTON_MICHAEL_2026-11-14",
-   "name": "Michael T Livingston",
-   "age": "57",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794709019,
-   "photo": "photos/DOU_LIVINGSTON_MICHAEL_2026-11-14.jpg"
-  },
-  {
-   "key": "MKE_MCELROY_CHEVELLE_635024",
-   "name": "Chevelle A McElroy",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794707881,
-   "photo": "photos/MKE_MCELROY_CHEVELLE_635024.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_LILLYANNA_648307",
-   "name": "Lillyanna M Williams",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Runaway",
-   "more": 3,
-   "ts": 1794707877,
-   "photo": "photos/MKE_WILLIAMS_LILLYANNA_648307.jpg"
   }
  ]
 }
