@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T04:07:45+00:00",
+ "updated": "2026-11-18T04:36:36+00:00",
  "items": [
+  {
+   "key": "SCHUELKE_SHANTAE_2026-11-17",
+   "name": "Shantae L Schuelke",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794975853,
+   "photo": null
+  },
+  {
+   "key": "FDL_PEREZGAMEZ_ELVIS_2026-11-17",
+   "name": "Elvis Ramon Perezgamez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "TRANSPORT - WARRANT (x0)",
+   "more": 0,
+   "ts": 1794975399,
+   "photo": null
+  },
   {
    "key": "KEN_TIDWELL_JUSTIN_2026-00006377",
    "name": "Justin Warren Tidwell",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794885698,
    "photo": "photos/HOU_GAVIN_DEANJOSEPH_6331.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "SCHUELKE_SHANTAE_2026-11-17",
+   "name": "Shantae L Schuelke",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1794975853,
+   "photo": null
   },
   {
-   "key": "FDL_MOSS_CRAIG_2026-11-16",
-   "name": "Craig R Moss",
+   "key": "FDL_PEREZGAMEZ_ELVIS_2026-11-17",
+   "name": "Elvis Ramon Perezgamez",
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
    "charge": "TRANSPORT - WARRANT (x0)",
-   "more": 1,
-   "ts": 1794874603,
+   "more": 0,
+   "ts": 1794975399,
    "photo": null
   },
-  {
-   "key": "RICE_CRYSTAL_2026-11-16",
-   "name": "Crystal M Rice",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794872839,
-   "photo": null
-  }
- ],
- "all_items": [
   {
    "key": "KEN_TIDWELL_JUSTIN_2026-00006377",
    "name": "Justin Warren Tidwell",
@@ -4688,17 +4710,6 @@
    "more": 0,
    "ts": 1794718629,
    "photo": "photos/KEN_JOHN_JASON_2026-00006311.jpg"
-  },
-  {
-   "key": "DOU_BECKER_ADAM_2026-11-14",
-   "name": "Adam J Becker",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 4,
-   "ts": 1794716211,
-   "photo": "photos/DOU_BECKER_ADAM_2026-11-14.jpg"
   }
  ]
 }
