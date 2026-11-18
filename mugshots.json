@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T14:08:26+00:00",
+ "updated": "2026-11-18T14:43:07+00:00",
  "items": [
+  {
+   "key": "MKE_GARCIA_CARLOS_304607",
+   "name": "Carlos Alberto Garcia",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795012051,
+   "photo": null
+  },
   {
    "key": "MKE_SMITH_EDDIE_236612",
    "name": "Eddie Junior Smith",
@@ -21,7 +32,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795010274,
-   "photo": null
+   "photo": "photos/MKE_BEASLEY_PHILIP_409395.jpg"
   },
   {
    "key": "RC_MILLARD_TAYLOR_120011076380937",
@@ -62,7 +73,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>5-15g)",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 13,
    "ts": 1795006653,
    "photo": null
@@ -230,18 +241,7 @@
    "charge": "Charges Pending",
    "more": 9,
    "ts": 1794994055,
-   "photo": null
-  },
-  {
-   "key": "MKE_ERBY_AMARI_648372",
-   "name": "Amari Erby",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1794994054,
-   "photo": null
+   "photo": "photos/MKE_QUEZAIRE_DALONTE_535990.jpg"
   },
   {
    "key": "FDL_KEEZER_ALLISSON_2026-11-18",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_GARCIA_CARLOS_304607",
+   "name": "Carlos Alberto Garcia",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795012051,
+   "photo": null
+  },
+  {
    "key": "MKE_SMITH_EDDIE_236612",
    "name": "Eddie Junior Smith",
    "age": "58",
@@ -551,7 +562,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795010274,
-   "photo": null
+   "photo": "photos/MKE_BEASLEY_PHILIP_409395.jpg"
   },
   {
    "key": "RC_MILLARD_TAYLOR_120011076380937",
@@ -592,7 +603,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>5-15g)",
+   "charge": "1st-Degree Recklessly Endangering Safety",
    "more": 13,
    "ts": 1795006653,
    "photo": null
@@ -760,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 9,
    "ts": 1794994055,
-   "photo": null
+   "photo": "photos/MKE_QUEZAIRE_DALONTE_535990.jpg"
   },
   {
    "key": "MKE_ERBY_AMARI_648372",
@@ -837,7 +848,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794990472,
-   "photo": null
+   "photo": "photos/MKE_ROSS_OMAR_534576.jpg"
   },
   {
    "key": "PRIDGEON_JUSTIN_2026-11-18",
@@ -870,7 +881,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794988664,
-   "photo": null
+   "photo": "photos/MKE_BOUNDS_BENNIE_201227.jpg"
   },
   {
    "key": "KEN_GODEC_JOSEPH_2026-00006381",
@@ -4754,39 +4765,6 @@
    "more": 0,
    "ts": 1794754401,
    "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_SUTTLE_TEAIRRY_397976",
-   "name": "Teairry Desmond Suttle",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794752883,
-   "photo": "photos/MKE_SUTTLE_TEAIRRY_397976.jpg"
-  },
-  {
-   "key": "MKE_MCLAURIN_FREDDIE_648315",
-   "name": "Freddie Terrell Mclaurin",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Refusing a Global Positioning System Tracking Device",
-   "more": 0,
-   "ts": 1794752879,
-   "photo": "photos/MKE_MCLAURIN_FREDDIE_648315.jpg"
-  },
-  {
-   "key": "MKE_TURNER_KENNETH_648316",
-   "name": "Kenneth Turner",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794752877,
-   "photo": "photos/MKE_TURNER_KENNETH_648316.jpg"
   }
  ]
 }
