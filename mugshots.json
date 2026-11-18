@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-18T05:49:32+00:00",
+ "updated": "2026-11-18T06:39:56+00:00",
  "items": [
+  {
+   "key": "MKE_EARL_JAYVIONA_627889",
+   "name": "Jayviona Denise Earl",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794983270,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOFFET_ANIYA_648369",
+   "name": "Aniya N Moffet",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 1,
+   "ts": 1794983268,
+   "photo": null
+  },
+  {
+   "key": "MKE_WATKINS_JOAVON_648370",
+   "name": "Joavon J Watkins",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794983266,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_NYASIAH_648371",
+   "name": "Nyasiah M J Robinson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794983264,
+   "photo": null
+  },
+  {
+   "key": "KEN_ROEDIGER_JESSICA_2026-00006379",
+   "name": "Jessica Oneil Roediger",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 2,
+   "ts": 1794981389,
+   "photo": "photos/KEN_ROEDIGER_JESSICA_2026-00006379.jpg"
+  },
+  {
+   "key": "MAR_REED_DOUGLASS_2026-11-17_1235912",
+   "name": "Douglass Stafford Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794981205,
+   "photo": "photos/MAR_REED_DOUGLASS_2026-11-17_1235912.jpg"
+  },
   {
    "key": "RC_CHRISTOPHER_BRIAN_120011076374835",
    "name": "Brian Lester Christopher",
@@ -156,28 +222,6 @@
    "photo": "photos/KEN_TIDWELL_JUSTIN_2026-00006377.jpg"
   },
   {
-   "key": "MKE_ANAYA_DANIEL_288321",
-   "name": "Daniel Jesus Anaya",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 13,
-   "ts": 1794974269,
-   "photo": null
-  },
-  {
-   "key": "MKE_BLANKS_SHANNON_613007",
-   "name": "Shannon Tremaine Blanks",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794974267,
-   "photo": null
-  },
-  {
    "key": "MAR_LAMPKIN_ADAM_2026-11-17",
    "name": "Adam John Lampkin",
    "age": "28",
@@ -198,39 +242,6 @@
    "more": 0,
    "ts": 1794974006,
    "photo": "photos/MAR_NASS_ABRIELLE_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_BOOSE_GREGORY_375984",
-   "name": "Gregory L Boose",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
-   "more": 0,
-   "ts": 1794972476,
-   "photo": null
-  },
-  {
-   "key": "MKE_HERRERAZEPEDA_JOSE_637532",
-   "name": "Jose A Herrera-Zepeda",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (2nd)",
-   "more": 3,
-   "ts": 1794972472,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALICEA_AMALKY_344497",
-   "name": "Amalky Cannauis Alicea",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 5,
-   "ts": 1794968856,
-   "photo": null
   },
   {
    "key": "MAR_JAMES_GERALD_2026-11-17",
@@ -431,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "MAR_NEWCOMER_SCOT_2026-11-17",
-   "name": "Scot Thomas Newcomer",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794934444,
-   "photo": "photos/MAR_NEWCOMER_SCOT_2026-11-17.jpg"
-  },
-  {
    "key": "TREM_HEMBD_ALLY_4143",
    "name": "Ally Marjorie Hembd",
    "age": "25",
@@ -531,6 +531,72 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_EARL_JAYVIONA_627889",
+   "name": "Jayviona Denise Earl",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794983270,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOFFET_ANIYA_648369",
+   "name": "Aniya N Moffet",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 1,
+   "ts": 1794983268,
+   "photo": null
+  },
+  {
+   "key": "MKE_WATKINS_JOAVON_648370",
+   "name": "Joavon J Watkins",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1794983266,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_NYASIAH_648371",
+   "name": "Nyasiah M J Robinson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1794983264,
+   "photo": null
+  },
+  {
+   "key": "KEN_ROEDIGER_JESSICA_2026-00006379",
+   "name": "Jessica Oneil Roediger",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 2,
+   "ts": 1794981389,
+   "photo": "photos/KEN_ROEDIGER_JESSICA_2026-00006379.jpg"
+  },
+  {
+   "key": "MAR_REED_DOUGLASS_2026-11-17_1235912",
+   "name": "Douglass Stafford Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794981205,
+   "photo": "photos/MAR_REED_DOUGLASS_2026-11-17_1235912.jpg"
+  },
   {
    "key": "RC_CHRISTOPHER_BRIAN_120011076374835",
    "name": "Brian Lester Christopher",
@@ -834,7 +900,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "charge": "Operate Firearm While Intoxicated",
    "more": 5,
    "ts": 1794963456,
    "photo": null
@@ -955,7 +1021,7 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1794959662,
    "photo": "photos/KEN_FARRIS_DARRIN_2026-00006376.jpg"
@@ -1200,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794952738,
-   "photo": null
+   "photo": "photos/MKE_MORRIS_AMBER_612906.jpg"
   },
   {
    "key": "DOU_RHODES_BILLY_2026-11-17",
@@ -1299,7 +1365,7 @@
    "charge": "Battery",
    "more": 0,
    "ts": 1794947335,
-   "photo": null
+   "photo": "photos/MKE_HENDERSONBELL_TANEA_648359.jpg"
   },
   {
    "key": "KEN_HARRIS_ANTHONY_2026-00006362",
@@ -4677,50 +4743,6 @@
    "more": 3,
    "ts": 1794725298,
    "photo": "photos/RC_ROBINSON_LAVELLE_120011076286171.jpg"
-  },
-  {
-   "key": "MKE_MYERS_JOSEPH_2009652",
-   "name": "Joseph William Myers",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794724057,
-   "photo": "photos/MKE_MYERS_JOSEPH_2009652.jpg"
-  },
-  {
-   "key": "KLEIN_CHANCEY_2026-11-15",
-   "name": "Chancey L Klein",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Cause Injury/Operate While Under Influence 1st",
-   "more": 0,
-   "ts": 1794724023,
-   "photo": null
-  },
-  {
-   "key": "KEN_HILL_TYREN_2026-00006314",
-   "name": "Tyren Rc Hill",
-   "age": "19",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 4,
-   "ts": 1794722030,
-   "photo": "photos/KEN_HILL_TYREN_2026-00006314.jpg"
-  },
-  {
-   "key": "MAR_REINKE_MIRANDA_2026-11-14",
-   "name": "Miranda Elizabeth Reinke",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 2,
-   "ts": 1794722022,
-   "photo": null
   }
  ]
 }
