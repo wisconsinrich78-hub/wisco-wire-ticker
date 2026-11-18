@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T08:49:41+00:00",
+ "updated": "2026-11-18T08:58:48+00:00",
  "items": [
+  {
+   "key": "DOBRUNZ_ZOE_2026-11-18",
+   "name": "Zoe A Dobrunz",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794992219,
+   "photo": null
+  },
   {
    "key": "RC_BARRY_JARRIEL_120011076377127",
    "name": "Jarriel Dashawn Barry",
@@ -73,7 +84,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt of Court - Disobey Order",
    "more": 0,
    "ts": 1794988559,
    "photo": "photos/KEN_GODEC_JOSEPH_2026-00006381.jpg"
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1794898027,
    "photo": null
-  },
-  {
-   "key": "BRANDT_DEREK_2026-11-16",
-   "name": "Derek G Brandt",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1794896819,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "DOBRUNZ_ZOE_2026-11-18",
+   "name": "Zoe A Dobrunz",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794992219,
+   "photo": null
+  },
   {
    "key": "RC_BARRY_JARRIEL_120011076377127",
    "name": "Jarriel Dashawn Barry",
@@ -603,7 +614,7 @@
    "age": "30",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Contempt of Court - Disobey Order",
    "more": 0,
    "ts": 1794988559,
    "photo": "photos/KEN_GODEC_JOSEPH_2026-00006381.jpg"
@@ -4698,17 +4709,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794734825,
-   "photo": null
-  },
-  {
-   "key": "KEN_LOPEZ_CHRISTOPHER_2026-00006316",
-   "name": "Christopher Lopez",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Unreasonable and Imprudent Speed",
-   "more": 2,
-   "ts": 1794732805,
    "photo": null
   }
  ]
