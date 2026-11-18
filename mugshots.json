@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T06:49:32+00:00",
+ "updated": "2026-11-18T07:39:21+00:00",
  "items": [
+  {
+   "key": "FUNMAKER_DIXON_2026-11-18",
+   "name": "Dixon Harry Funmaker",
+   "age": "54",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794986521,
+   "photo": null
+  },
   {
    "key": "MKE_EARL_JAYVIONA_627889",
    "name": "Jayviona Denise Earl",
@@ -128,8 +139,8 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1794979659,
    "photo": null
   },
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1794890826,
    "photo": "photos/REDMOND_LEE_2026-11-16.jpg"
-  },
-  {
-   "key": "HOU_GAVIN_DEANJOSEPH_6331",
-   "name": "Dean Joseph Gavin",
-   "age": "57",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Possess child sexual abuse material; Register (Sentenced)",
-   "more": 0,
-   "ts": 1794885698,
-   "photo": "photos/HOU_GAVIN_DEANJOSEPH_6331.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FUNMAKER_DIXON_2026-11-18",
+   "name": "Dixon Harry Funmaker",
+   "age": "54",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794986521,
+   "photo": null
+  },
   {
    "key": "MKE_EARL_JAYVIONA_627889",
    "name": "Jayviona Denise Earl",
@@ -658,8 +669,8 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1794979659,
    "photo": null
   },
@@ -1090,7 +1101,7 @@
    "charge": "",
    "more": 0,
    "ts": 1794958117,
-   "photo": null
+   "photo": "photos/MKE_CARSON_DEMONTE_648362.jpg"
   },
   {
    "key": "MKE_LAJOICE_CHARLES_648363",
@@ -1211,7 +1222,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794956348,
-   "photo": null
+   "photo": "photos/MKE_CASTON_JACK_648361.jpg"
   },
   {
    "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
@@ -4699,39 +4710,6 @@
    "more": 0,
    "ts": 1794728825,
    "photo": null
-  },
-  {
-   "key": "OLSON_JACOB_2026-11-15",
-   "name": "Jacob C Olson",
-   "age": "36",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794727618,
-   "photo": null
-  },
-  {
-   "key": "FDL_NEWELL_DEVON_2026-11-15",
-   "name": "Devon Deshon Newell",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794726994,
-   "photo": "photos/FDL_NEWELL_DEVON_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_HOUSTON_LAMARC_412278",
-   "name": "Lamarc A Houston",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794725854,
-   "photo": "photos/MKE_HOUSTON_LAMARC_412278.jpg"
   }
  ]
 }
