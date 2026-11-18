@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-18T20:36:33+00:00",
+ "updated": "2026-11-18T20:49:36+00:00",
  "items": [
+  {
+   "key": "RC_COPELAND_MILES_120011076397338",
+   "name": "Miles E Copeland",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795034881,
+   "photo": null
+  },
+  {
+   "key": "RC_SOTERAS_NICHOLAS_120011076397469",
+   "name": "Nicholas G Soteras",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795034879,
+   "photo": "photos/RC_SOTERAS_NICHOLAS_120011076397469.jpg"
+  },
+  {
+   "key": "POTARACKE_CODY_2026-11-18",
+   "name": "Cody J Potaracke",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operate Comm Veh W/O License-Wi Resident",
+   "more": 0,
+   "ts": 1795034829,
+   "photo": null
+  },
   {
    "key": "MKE_MENDEZ_ROBERTO_286728",
    "name": "Roberto David Mendez",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1795022202,
    "photo": "photos/FDL_SAVAGE_DESTINY_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_SANDERS_DERRICK_374247",
-   "name": "Derrick Gerard Sanders",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1795021065,
-   "photo": null
-  },
-  {
-   "key": "MKE_LAYNE_JAVIONTAE_615294",
-   "name": "Javiontae Tronquil Layne",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 14,
-   "ts": 1795021064,
-   "photo": "photos/MKE_LAYNE_JAVIONTAE_615294.jpg"
   },
   {
    "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
@@ -517,20 +528,42 @@
    "more": 9,
    "ts": 1794961005,
    "photo": "photos/DOU_LUCKEY_BRENDEN_2026-11-17.jpg"
-  },
-  {
-   "key": "FDL_BREIDENBACH_DIANA_2026-11-17",
-   "name": "Diana Carol Breidenbach",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Theft - Movable Property (> $2500 - $5000)",
-   "more": 0,
-   "ts": 1794960963,
-   "photo": "photos/FDL_BREIDENBACH_DIANA_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_COPELAND_MILES_120011076397338",
+   "name": "Miles E Copeland",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795034881,
+   "photo": null
+  },
+  {
+   "key": "RC_SOTERAS_NICHOLAS_120011076397469",
+   "name": "Nicholas G Soteras",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795034879,
+   "photo": "photos/RC_SOTERAS_NICHOLAS_120011076397469.jpg"
+  },
+  {
+   "key": "POTARACKE_CODY_2026-11-18",
+   "name": "Cody J Potaracke",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operate Comm Veh W/O License-Wi Resident",
+   "more": 0,
+   "ts": 1795034829,
+   "photo": null
+  },
   {
    "key": "MKE_MENDEZ_ROBERTO_286728",
    "name": "Roberto David Mendez",
@@ -4930,28 +4963,6 @@
    "more": 2,
    "ts": 1794776029,
    "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-15.jpg"
-  },
-  {
-   "key": "RC_GRAY_DWAYNE_120011076297110",
-   "name": "Dwayne E Gray",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 3,
-   "ts": 1794775702,
-   "photo": "photos/RC_GRAY_DWAYNE_120011076297110.jpg"
-  },
-  {
-   "key": "RC_PATTERSON_LUTHER_120011076297178",
-   "name": "Luther Patterson",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794775699,
-   "photo": "photos/RC_PATTERSON_LUTHER_120011076297178.jpg"
   }
  ]
 }
