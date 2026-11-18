@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T20:18:38+00:00",
+ "updated": "2026-11-18T20:36:33+00:00",
  "items": [
+  {
+   "key": "MKE_MENDEZ_ROBERTO_286728",
+   "name": "Roberto David Mendez",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 7,
+   "ts": 1795033665,
+   "photo": null
+  },
   {
    "key": "FDL_ROBINS_CANDYCE_2026-11-18",
    "name": "Candyce Risetta Robins",
@@ -29,8 +40,8 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Habitual Criminality",
+   "more": 2,
    "ts": 1795031858,
    "photo": null
   },
@@ -40,7 +51,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd Degree Sexual Assault of Child",
+   "charge": "3rd Degree Sexual Assault",
    "more": 2,
    "ts": 1795031856,
    "photo": null
@@ -62,7 +73,7 @@
    "age": "38",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Trespass-Buildings/Premises",
    "more": 2,
    "ts": 1795028281,
    "photo": null
@@ -183,7 +194,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Disorderly Conduct",
    "more": 21,
    "ts": 1795022871,
    "photo": null
@@ -231,17 +242,6 @@
    "more": 14,
    "ts": 1795021064,
    "photo": "photos/MKE_LAYNE_JAVIONTAE_615294.jpg"
-  },
-  {
-   "key": "MKE_LEE_ARACHEL_619442",
-   "name": "Arachel Lee",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795021062,
-   "photo": null
   },
   {
    "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_MENDEZ_ROBERTO_286728",
+   "name": "Roberto David Mendez",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 7,
+   "ts": 1795033665,
+   "photo": null
+  },
+  {
    "key": "FDL_ROBINS_CANDYCE_2026-11-18",
    "name": "Candyce Risetta Robins",
    "age": "",
@@ -559,8 +570,8 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Habitual Criminality",
+   "more": 2,
    "ts": 1795031858,
    "photo": null
   },
@@ -570,7 +581,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd Degree Sexual Assault of Child",
+   "charge": "3rd Degree Sexual Assault",
    "more": 2,
    "ts": 1795031856,
    "photo": null
@@ -592,7 +603,7 @@
    "age": "38",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Trespass-Buildings/Premises",
    "more": 2,
    "ts": 1795028281,
    "photo": null
@@ -713,7 +724,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Disorderly Conduct",
    "more": 21,
    "ts": 1795022871,
    "photo": null
@@ -848,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795017472,
-   "photo": null
+   "photo": "photos/MKE_MURRELL_KSHAWN_2067842.jpg"
   },
   {
    "key": "RC_LOPEZHERNANDEZ_FAVIAN_120011076384586",
