@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-18T08:58:48+00:00",
+ "updated": "2026-11-18T09:36:48+00:00",
  "items": [
+  {
+   "key": "MKE_QUEZAIRE_DALONTE_535990",
+   "name": "Dalonte Lamar Quezaire",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 9,
+   "ts": 1794994055,
+   "photo": null
+  },
+  {
+   "key": "MKE_ERBY_AMARI_648372",
+   "name": "Amari Erby",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1794994054,
+   "photo": null
+  },
+  {
+   "key": "FDL_KEEZER_ALLISSON_2026-11-18",
+   "name": "Allisson Shayne Keezer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Felony Bail Jumping",
+   "more": 2,
+   "ts": 1794993386,
+   "photo": null
+  },
+  {
+   "key": "FDL_ANTONE_ALEXANDER_2026-11-18",
+   "name": "Alexander James Antone",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 0,
+   "ts": 1794993365,
+   "photo": "photos/FDL_ANTONE_ALEXANDER_2026-11-18.jpg"
+  },
   {
    "key": "DOBRUNZ_ZOE_2026-11-18",
    "name": "Zoe A Dobrunz",
@@ -117,7 +161,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "charge": "Charges Pending",
    "more": 1,
    "ts": 1794983268,
    "photo": null
@@ -208,28 +252,6 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794979665,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUGHES_LAQUAN_648367",
-   "name": "Laquan Donnell Hughes",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794979662,
-   "photo": null
-  },
-  {
-   "key": "MKE_TORRES_AMANI_648368",
-   "name": "Amani L Torres",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794979659,
    "photo": null
   },
   {
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794912425,
    "photo": "photos/TREM_FORT_SHAWN_4278.jpg"
-  },
-  {
-   "key": "REYES_ROBERTO_2026-11-17",
-   "name": "Roberto C Reyes",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence (2nd)",
-   "more": 0,
-   "ts": 1794907621,
-   "photo": null
-  },
-  {
-   "key": "BRAUDT_DEREK_2026-11-16",
-   "name": "Derek G Braudt",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1794898027,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_QUEZAIRE_DALONTE_535990",
+   "name": "Dalonte Lamar Quezaire",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 9,
+   "ts": 1794994055,
+   "photo": null
+  },
+  {
+   "key": "MKE_ERBY_AMARI_648372",
+   "name": "Amari Erby",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1794994054,
+   "photo": null
+  },
+  {
+   "key": "FDL_KEEZER_ALLISSON_2026-11-18",
+   "name": "Allisson Shayne Keezer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Felony Bail Jumping",
+   "more": 2,
+   "ts": 1794993386,
+   "photo": null
+  },
+  {
+   "key": "FDL_ANTONE_ALEXANDER_2026-11-18",
+   "name": "Alexander James Antone",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 0,
+   "ts": 1794993365,
+   "photo": "photos/FDL_ANTONE_ALEXANDER_2026-11-18.jpg"
+  },
   {
    "key": "DOBRUNZ_ZOE_2026-11-18",
    "name": "Zoe A Dobrunz",
@@ -647,7 +691,7 @@
    "age": "19",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "charge": "Charges Pending",
    "more": 1,
    "ts": 1794983268,
    "photo": null
@@ -856,7 +900,7 @@
    "age": "42",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Battery",
+   "charge": "Domestic Abuse Surcharges",
    "more": 13,
    "ts": 1794974269,
    "photo": null
@@ -914,7 +958,7 @@
    "charge": "Operate with Restricted Controlled Substance (2nd)",
    "more": 3,
    "ts": 1794972472,
-   "photo": null
+   "photo": "photos/MKE_HERRERAZEPEDA_JOSE_637532.jpg"
   },
   {
    "key": "MKE_ALICEA_AMALKY_344497",
@@ -1178,7 +1222,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1794958124,
-   "photo": null
+   "photo": "photos/MKE_DOE_CHRISTOPHER_278162.jpg"
   },
   {
    "key": "MKE_CARSON_DEMONTE_648362",
@@ -1200,7 +1244,7 @@
    "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1794958111,
-   "photo": null
+   "photo": "photos/MKE_LAJOICE_CHARLES_648363.jpg"
   },
   {
    "key": "KEN_VALOTTA_MARK_2026-00006372",
@@ -4688,28 +4732,6 @@
    "more": 3,
    "ts": 1794736409,
    "photo": "photos/KEN_GONZALEZLOPEZ_CARLOS_2026-00006317.jpg"
-  },
-  {
-   "key": "MKE_NEAL_GALATIA_638111",
-   "name": "Galatia Micole Neal",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794734862,
-   "photo": "photos/MKE_NEAL_GALATIA_638111.jpg"
-  },
-  {
-   "key": "SUMMERLIN_JONATHAN_2026-11-15",
-   "name": "Jonathan Davidbailey Summerlin",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794734825,
-   "photo": null
   }
  ]
 }
