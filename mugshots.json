@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T02:49:30+00:00",
+ "updated": "2026-11-18T03:31:57+00:00",
  "items": [
+  {
+   "key": "MKE_BOOSE_GREGORY_375984",
+   "name": "Gregory L Boose",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "more": 0,
+   "ts": 1794972476,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERRERAZEPEDA_JOSE_637532",
+   "name": "Jose A Herrera-Zepeda",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate with Restricted Controlled Substance (2nd)",
+   "more": 3,
+   "ts": 1794972472,
+   "photo": null
+  },
   {
    "key": "MKE_ALICEA_AMALKY_344497",
    "name": "Amalky Cannauis Alicea",
@@ -51,7 +73,7 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1794968848,
    "photo": null
@@ -84,8 +106,8 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "more": 5,
    "ts": 1794963456,
    "photo": null
   },
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1794959662,
    "photo": "photos/KEN_FARRIS_DARRIN_2026-00006376.jpg"
-  },
-  {
-   "key": "RC_NELSON_MELINDA_120011076365672",
-   "name": "Melinda Kaye Nelson",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 16,
-   "ts": 1794959310,
-   "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
-  },
-  {
-   "key": "RC_TUTTLE_CHRISTOPHER_120011076366118",
-   "name": "Christopher Michael Tuttle",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794959307,
-   "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
   },
   {
    "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_BOOSE_GREGORY_375984",
+   "name": "Gregory L Boose",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "more": 0,
+   "ts": 1794972476,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERRERAZEPEDA_JOSE_637532",
+   "name": "Jose A Herrera-Zepeda",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate with Restricted Controlled Substance (2nd)",
+   "more": 3,
+   "ts": 1794972472,
+   "photo": null
+  },
+  {
    "key": "MKE_ALICEA_AMALKY_344497",
    "name": "Amalky Cannauis Alicea",
    "age": "39",
@@ -581,7 +603,7 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1794968848,
    "photo": null
@@ -614,8 +636,8 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "more": 5,
    "ts": 1794963456,
    "photo": null
   },
@@ -969,7 +991,7 @@
    "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 2,
    "ts": 1794952743,
-   "photo": null
+   "photo": "photos/MKE_PRICE_WILLIE_290929.jpg"
   },
   {
    "key": "MKE_MORRIS_AMBER_612906",
@@ -4655,28 +4677,6 @@
    "more": 0,
    "ts": 1794714488,
    "photo": "photos/RC_BARBER_SHERMAN_120011076283520.jpg"
-  },
-  {
-   "key": "MKE_SMITH_ANTJUAN_415735",
-   "name": "Antjuan D Smith",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794713259,
-   "photo": "photos/MKE_SMITH_ANTJUAN_415735.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_SARA_2031153",
-   "name": "Sara Lyn Robinson",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794713257,
-   "photo": "photos/MKE_ROBINSON_SARA_2031153.jpg"
   }
  ]
 }
