@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T18:49:31+00:00",
+ "updated": "2026-11-18T19:06:57+00:00",
  "items": [
+  {
+   "key": "MKE_LITTLE_ASHLEY_378878",
+   "name": "Ashley Chante Little",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795028281,
+   "photo": null
+  },
+  {
+   "key": "KEN_SPOHN_RONNIE_2026-00006385",
+   "name": "Ronnie Jay Spohn",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 4,
+   "ts": 1795028027,
+   "photo": "photos/KEN_SPOHN_RONNIE_2026-00006385.jpg"
+  },
   {
    "key": "RC_LAWS_DASHAWN_120011076393980",
    "name": "Dashawn Levi Laws",
@@ -106,7 +128,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Charges Pending",
    "more": 21,
    "ts": 1795022871,
    "photo": null
@@ -209,28 +231,6 @@
    "more": 1,
    "ts": 1795017479,
    "photo": null
-  },
-  {
-   "key": "MKE_FLEMING_MATTHEW_642233",
-   "name": "Matthew Curtis Fleming",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795017477,
-   "photo": "photos/MKE_FLEMING_MATTHEW_642233.jpg"
-  },
-  {
-   "key": "MKE_MARTINSANCHEZ_SAUL_648375",
-   "name": "Saul Martin Sanchez",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 0,
-   "ts": 1795017475,
-   "photo": "photos/MKE_MARTINSANCHEZ_SAUL_648375.jpg"
   },
   {
    "key": "FDL_DROSSART_DANIELLE_2026-11-18",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_LITTLE_ASHLEY_378878",
+   "name": "Ashley Chante Little",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795028281,
+   "photo": null
+  },
+  {
+   "key": "KEN_SPOHN_RONNIE_2026-00006385",
+   "name": "Ronnie Jay Spohn",
+   "age": "58",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 4,
+   "ts": 1795028027,
+   "photo": "photos/KEN_SPOHN_RONNIE_2026-00006385.jpg"
+  },
+  {
    "key": "RC_LAWS_DASHAWN_120011076393980",
    "name": "Dashawn Levi Laws",
    "age": "23",
@@ -636,7 +658,7 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Charges Pending",
    "more": 21,
    "ts": 1795022871,
    "photo": null
@@ -958,7 +980,7 @@
    "charge": "Receiving or Concealing Stolen Property (<=$2500)",
    "more": 4,
    "ts": 1795001252,
-   "photo": null
+   "photo": "photos/MKE_HURST_TONI_343826.jpg"
   },
   {
    "key": "ROCHESTER_JONTAVIUS_2026-11-18",
@@ -1101,7 +1123,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 0,
    "ts": 1794994054,
-   "photo": null
+   "photo": "photos/MKE_ERBY_AMARI_648372.jpg"
   },
   {
    "key": "FDL_KEEZER_ALLISSON_2026-11-18",
@@ -4908,28 +4930,6 @@
    "more": 3,
    "ts": 1794770165,
    "photo": "photos/FDL_AMONS_ELIJAH_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_JONES_SHANTIA_539864",
-   "name": "Shantia Nicole Jones",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794769081,
-   "photo": "photos/MKE_JONES_SHANTIA_539864.jpg"
-  },
-  {
-   "key": "MKE_SYKES_SAVION_648320",
-   "name": "Savion Sykes",
-   "age": "16",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794769079,
-   "photo": "photos/MKE_SYKES_SAVION_648320.jpg"
   }
  ]
 }
