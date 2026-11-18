@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-18T14:43:07+00:00",
+ "updated": "2026-11-18T14:49:28+00:00",
  "items": [
+  {
+   "key": "RC_STRONG_DAMARIO_120011076382186",
+   "name": "Damario Deshawn Strong",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795013291,
+   "photo": "photos/RC_STRONG_DAMARIO_120011076382186.jpg"
+  },
+  {
+   "key": "RC_JONES_MARQUIS_120011076384483",
+   "name": "Marquis D Jones",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795013287,
+   "photo": "photos/RC_JONES_MARQUIS_120011076384483.jpg"
+  },
+  {
+   "key": "SUHR_ALYSHA_2026-11-18",
+   "name": "Alysha Kay Suhr",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795013234,
+   "photo": null
+  },
   {
    "key": "MKE_GARCIA_CARLOS_304607",
    "name": "Carlos Alberto Garcia",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1794995648,
    "photo": "photos/MAR_HER_LUE_2026-11-18.jpg"
-  },
-  {
-   "key": "RC_ELAM_CAMRON_120011076377876",
-   "name": "Camron J Elam",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1794995269,
-   "photo": "photos/RC_ELAM_CAMRON_120011076377876.jpg"
-  },
-  {
-   "key": "MKE_QUEZAIRE_DALONTE_535990",
-   "name": "Dalonte Lamar Quezaire",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1794994055,
-   "photo": "photos/MKE_QUEZAIRE_DALONTE_535990.jpg"
   },
   {
    "key": "FDL_KEEZER_ALLISSON_2026-11-18",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794943640,
    "photo": null
-  },
-  {
-   "key": "MAR_KIEFER_TRISTON_2026-11-17_5250709",
-   "name": "Triston Scott Kiefer",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 2,
-   "ts": 1794941654,
-   "photo": "photos/MAR_KIEFER_TRISTON_2026-11-17_5250709.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_STRONG_DAMARIO_120011076382186",
+   "name": "Damario Deshawn Strong",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795013291,
+   "photo": "photos/RC_STRONG_DAMARIO_120011076382186.jpg"
+  },
+  {
+   "key": "RC_JONES_MARQUIS_120011076384483",
+   "name": "Marquis D Jones",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795013287,
+   "photo": "photos/RC_JONES_MARQUIS_120011076384483.jpg"
+  },
+  {
+   "key": "SUHR_ALYSHA_2026-11-18",
+   "name": "Alysha Kay Suhr",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795013234,
+   "photo": null
+  },
   {
    "key": "MKE_GARCIA_CARLOS_304607",
    "name": "Carlos Alberto Garcia",
