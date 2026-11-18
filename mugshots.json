@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T08:36:46+00:00",
+ "updated": "2026-11-18T08:49:41+00:00",
  "items": [
+  {
+   "key": "RC_BARRY_JARRIEL_120011076377127",
+   "name": "Jarriel Dashawn Barry",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794991675,
+   "photo": "photos/RC_BARRY_JARRIEL_120011076377127.jpg"
+  },
+  {
+   "key": "RC_TURNER_LEKECHA_120011076377202",
+   "name": "Lekecha Marie Turner",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 0,
+   "ts": 1794991671,
+   "photo": "photos/RC_TURNER_LEKECHA_120011076377202.jpg"
+  },
   {
    "key": "MKE_ROSS_OMAR_534576",
    "name": "Omar Antoine Ross",
@@ -197,28 +219,6 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1794979659,
-   "photo": null
-  },
-  {
-   "key": "MKE_WARD_ORVELLE_2043618",
-   "name": "Orvelle Lee Ward",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Take and Drive Vehicle w/o Consent",
-   "more": 1,
-   "ts": 1794979658,
-   "photo": null
-  },
-  {
-   "key": "MKE_AYALA_MANUEL_217182",
-   "name": "Manuel Ayala",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794977862,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BARRY_JARRIEL_120011076377127",
+   "name": "Jarriel Dashawn Barry",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1794991675,
+   "photo": "photos/RC_BARRY_JARRIEL_120011076377127.jpg"
+  },
+  {
+   "key": "RC_TURNER_LEKECHA_120011076377202",
+   "name": "Lekecha Marie Turner",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 0,
+   "ts": 1794991671,
+   "photo": "photos/RC_TURNER_LEKECHA_120011076377202.jpg"
+  },
   {
    "key": "MKE_ROSS_OMAR_534576",
    "name": "Omar Antoine Ross",
@@ -4687,28 +4709,6 @@
    "charge": "Unreasonable and Imprudent Speed",
    "more": 2,
    "ts": 1794732805,
-   "photo": null
-  },
-  {
-   "key": "RC_STARKS_JARVIS_120011076287841",
-   "name": "Jarvis Starks",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession or Attempted Possession of a Controlled Substances within\u2026",
-   "more": 3,
-   "ts": 1794732496,
-   "photo": "photos/RC_STARKS_JARVIS_120011076287841.jpg"
-  },
-  {
-   "key": "SCHULZE_JASON_2026-11-15",
-   "name": "Jason Lewis Schulze",
-   "age": "27",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence (2nd)",
-   "more": 0,
-   "ts": 1794732424,
    "photo": null
   }
  ]
