@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-18T04:49:29+00:00",
+ "updated": "2026-11-18T05:05:14+00:00",
  "items": [
+  {
+   "key": "MKE_AYALA_MANUEL_217182",
+   "name": "Manuel Ayala",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794977862,
+   "photo": null
+  },
+  {
+   "key": "KEN_BATES_JOHN_2026-00006378",
+   "name": "John L Bates",
+   "age": "73",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Failure of Operator to Notify Police of Accident",
+   "more": 3,
+   "ts": 1794977641,
+   "photo": null
+  },
+  {
+   "key": "MAR_REED_DOUGLASS_2026-11-17",
+   "name": "Douglass Stafford Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794977610,
+   "photo": "photos/MAR_REED_DOUGLASS_2026-11-17.jpg"
+  },
   {
    "key": "RC_PETERSON_MARCUS_120011076374725",
    "name": "Marcus Valdemar Peterson",
@@ -194,7 +227,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate Firearm While Intoxicated",
+   "charge": "Endanger Safety/Use/Dangerous Weapon",
    "more": 5,
    "ts": 1794963456,
    "photo": null
@@ -219,28 +252,6 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1794963452,
-   "photo": null
-  },
-  {
-   "key": "MKE_HAYNES_DARIUS_645534",
-   "name": "Darius Luvelle Haynes",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 0,
-   "ts": 1794963451,
-   "photo": null
-  },
-  {
-   "key": "MKE_PURDY_KENOSHA_632650",
-   "name": "Kenosha Gabriella Purdy",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 0,
-   "ts": 1794961672,
    "photo": null
   },
   {
@@ -431,17 +442,6 @@
    "photo": "photos/MAR_NEWCOMER_SCOT_2026-11-17.jpg"
   },
   {
-   "key": "MAR_VANOOYEN_BRAYDEN_2026-11-17_880804",
-   "name": "Brayden Michael Vanooyen",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794934406,
-   "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17_880804.jpg"
-  },
-  {
    "key": "TREM_HEMBD_ALLY_4143",
    "name": "Ally Marjorie Hembd",
    "age": "25",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_AYALA_MANUEL_217182",
+   "name": "Manuel Ayala",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1794977862,
+   "photo": null
+  },
+  {
+   "key": "KEN_BATES_JOHN_2026-00006378",
+   "name": "John L Bates",
+   "age": "73",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Failure of Operator to Notify Police of Accident",
+   "more": 3,
+   "ts": 1794977641,
+   "photo": null
+  },
+  {
+   "key": "MAR_REED_DOUGLASS_2026-11-17",
+   "name": "Douglass Stafford Reed",
+   "age": "55",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794977610,
+   "photo": "photos/MAR_REED_DOUGLASS_2026-11-17.jpg"
+  },
   {
    "key": "RC_PETERSON_MARCUS_120011076374725",
    "name": "Marcus Valdemar Peterson",
@@ -724,7 +757,7 @@
    "age": "44",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate Firearm While Intoxicated",
+   "charge": "Endanger Safety/Use/Dangerous Weapon",
    "more": 5,
    "ts": 1794963456,
    "photo": null
@@ -760,7 +793,7 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 0,
    "ts": 1794963451,
-   "photo": null
+   "photo": "photos/MKE_HAYNES_DARIUS_645534.jpg"
   },
   {
    "key": "MKE_PURDY_KENOSHA_632650",
@@ -4644,83 +4677,6 @@
    "more": 2,
    "ts": 1794720445,
    "photo": "photos/MKE_ARAUZPONCE_LUIS_648311.jpg"
-  },
-  {
-   "key": "KEN_TOMASZEWSKI_JASON_2026-00006313",
-   "name": "Jason Adam Tomaszewski",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794718922,
-   "photo": "photos/KEN_TOMASZEWSKI_JASON_2026-00006313.jpg"
-  },
-  {
-   "key": "KEN_QUIRINO_FRED_2026-00006310",
-   "name": "Fred Joseph Quirino",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Non-Registration of Vehicle",
-   "more": 5,
-   "ts": 1794718825,
-   "photo": "photos/KEN_QUIRINO_FRED_2026-00006310.jpg"
-  },
-  {
-   "key": "KEN_PESDAN_KARAH_2026-00006304",
-   "name": "Karah Jean Pesdan",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794718756,
-   "photo": "photos/KEN_PESDAN_KARAH_2026-00006304.jpg"
-  },
-  {
-   "key": "KEN_NELSON_CIELO_2026-00006312",
-   "name": "Cielo Jeremiah Nelson",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate After Rev/Susp of Registration",
-   "more": 4,
-   "ts": 1794718691,
-   "photo": "photos/KEN_NELSON_CIELO_2026-00006312.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_TIERRA_604920",
-   "name": "TIERRA Layton WILLIAMS",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794718657,
-   "photo": "photos/MKE_WILLIAMS_TIERRA_604920.jpg"
-  },
-  {
-   "key": "MKE_REZAHERNANDEZ_CITALITH_648309",
-   "name": "Citalith Reza-Hernandez",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794718655,
-   "photo": "photos/MKE_REZAHERNANDEZ_CITALITH_648309.jpg"
-  },
-  {
-   "key": "KEN_JOHN_JASON_2026-00006311",
-   "name": "Jason Martin John",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 0,
-   "ts": 1794718629,
-   "photo": "photos/KEN_JOHN_JASON_2026-00006311.jpg"
   }
  ]
 }
