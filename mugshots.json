@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T22:58:59+00:00",
+ "updated": "2026-11-18T23:49:30+00:00",
  "items": [
+  {
+   "key": "FDL_JEFFREY_MYRON_2026-11-18",
+   "name": "Myron Devon Jeffrey",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Receive Stolen Property - $2,500-$5,000",
+   "more": 0,
+   "ts": 1795043785,
+   "photo": "photos/FDL_JEFFREY_MYRON_2026-11-18.jpg"
+  },
+  {
+   "key": "FDL_BLOCK_KHYRE_2026-11-18",
+   "name": "Khyre Gerrard Block",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Receive Stolen Property - $2,500-$5,000",
+   "more": 0,
+   "ts": 1795043767,
+   "photo": "photos/FDL_BLOCK_KHYRE_2026-11-18.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_ELIJAH_619165",
    "name": "Elijah Lorenzo Williams",
@@ -304,7 +326,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd Degree Sexual Assault of Child",
+   "charge": "3rd Degree Sexual Assault",
    "more": 2,
    "ts": 1795031856,
    "photo": null
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794990429,
    "photo": "photos/PRIDGEON_JUSTIN_2026-11-18.jpg"
-  },
-  {
-   "key": "LANGEN_ALEXIS_2026-11-18",
-   "name": "Alexis L Langen",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1794988946,
-   "photo": null
-  },
-  {
-   "key": "FUNMAKER_DIXON_2026-11-18",
-   "name": "Dixon Harry Funmaker",
-   "age": "54",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794986521,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_JEFFREY_MYRON_2026-11-18",
+   "name": "Myron Devon Jeffrey",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Receive Stolen Property - $2,500-$5,000",
+   "more": 0,
+   "ts": 1795043785,
+   "photo": "photos/FDL_JEFFREY_MYRON_2026-11-18.jpg"
+  },
+  {
+   "key": "FDL_BLOCK_KHYRE_2026-11-18",
+   "name": "Khyre Gerrard Block",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Receive Stolen Property - $2,500-$5,000",
+   "more": 0,
+   "ts": 1795043767,
+   "photo": "photos/FDL_BLOCK_KHYRE_2026-11-18.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_ELIJAH_619165",
    "name": "Elijah Lorenzo Williams",
@@ -834,7 +856,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd Degree Sexual Assault of Child",
+   "charge": "3rd Degree Sexual Assault",
    "more": 2,
    "ts": 1795031856,
    "photo": null
@@ -1211,7 +1233,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795010277,
-   "photo": null
+   "photo": "photos/MKE_SMITH_EDDIE_236612.jpg"
   },
   {
    "key": "MKE_BEASLEY_PHILIP_409395",
@@ -5084,17 +5106,6 @@
    "more": 3,
    "ts": 1794786952,
    "photo": "photos/KEN_HOGREVE_KENNETH_2026-00006325.jpg"
-  },
-  {
-   "key": "RC_FREEMAN_RICHARD_120011076300176",
-   "name": "Richard Freeman",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 1,
-   "ts": 1794786489,
-   "photo": null
   }
  ]
 }
