@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-18T16:22:47+00:00",
+ "updated": "2026-11-18T17:12:56+00:00",
  "items": [
+  {
+   "key": "MKE_SANDERS_DERRICK_374247",
+   "name": "Derrick Gerard Sanders",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1795021065,
+   "photo": null
+  },
+  {
+   "key": "MKE_LAYNE_JAVIONTAE_615294",
+   "name": "Javiontae Tronquil Layne",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 14,
+   "ts": 1795021064,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_ARACHEL_619442",
+   "name": "Arachel Lee",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795021062,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSS_DAMAR_648376",
+   "name": "Damar R Ross",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795021059,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_JAMES_648377",
+   "name": "James Lewis",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795021057,
+   "photo": null
+  },
   {
    "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
    "name": "Christopher Darnell Jones",
@@ -18,8 +73,8 @@
    "age": "43",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1795017479,
    "photo": null
   },
@@ -165,61 +220,6 @@
    "more": 0,
    "ts": 1795010274,
    "photo": "photos/MKE_BEASLEY_PHILIP_409395.jpg"
-  },
-  {
-   "key": "RC_MILLARD_TAYLOR_120011076380937",
-   "name": "Taylor James Millard",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine (2nd and subsequent)",
-   "more": 7,
-   "ts": 1795009687,
-   "photo": "photos/RC_MILLARD_TAYLOR_120011076380937.jpg"
-  },
-  {
-   "key": "RC_WILDER_KEITH_120011076381910",
-   "name": "Keith Patrick Wilder",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795009684,
-   "photo": null
-  },
-  {
-   "key": "RC_COVELLI_RYAN_120011076381932",
-   "name": "Ryan Covelli",
-   "age": "51",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795009682,
-   "photo": "photos/RC_COVELLI_RYAN_120011076381932.jpg"
-  },
-  {
-   "key": "MKE_JEFFERSON_TYRELL_2056964",
-   "name": "Tyrell Liace Jefferson",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
-   "more": 13,
-   "ts": 1795006653,
-   "photo": null
-  },
-  {
-   "key": "RC_WASHINGTON_KYANN_120011076379398",
-   "name": "Kyann Katherine Washington",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Enforce The Duty Of Child Support Or Maintenance",
-   "more": 0,
-   "ts": 1795002470,
-   "photo": null
   },
   {
    "key": "ROCHESTER_JONTAVIUS_2026-11-18",
@@ -532,6 +532,61 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SANDERS_DERRICK_374247",
+   "name": "Derrick Gerard Sanders",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1795021065,
+   "photo": null
+  },
+  {
+   "key": "MKE_LAYNE_JAVIONTAE_615294",
+   "name": "Javiontae Tronquil Layne",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 14,
+   "ts": 1795021064,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_ARACHEL_619442",
+   "name": "Arachel Lee",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795021062,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSS_DAMAR_648376",
+   "name": "Damar R Ross",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795021059,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_JAMES_648377",
+   "name": "James Lewis",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795021057,
+   "photo": null
+  },
+  {
    "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
    "name": "Christopher Darnell Jones",
    "age": "",
@@ -548,8 +603,8 @@
    "age": "43",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1795017479,
    "photo": null
   },
@@ -735,7 +790,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd/Sub. Drug Offense-Class C/D Felony",
+   "charge": "Possess w/Intent-Cocaine (>15-40g)",
    "more": 13,
    "ts": 1795006653,
    "photo": null
@@ -4776,28 +4831,6 @@
    "more": 0,
    "ts": 1794764897,
    "photo": "photos/RC_WALKER_KAHARION_120011076294055.jpg"
-  },
-  {
-   "key": "MKE_KYLES_DENISE_361889",
-   "name": "Denise Lashun Kyles",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794761865,
-   "photo": "photos/MKE_KYLES_DENISE_361889.jpg"
-  },
-  {
-   "key": "MAR_JOHNSON_BRIAN_2026-11-15_641803",
-   "name": "Brian David Johnson",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794761598,
-   "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15_641803.jpg"
   }
  ]
 }
