@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T23:49:35+00:00",
+ "updated": "2026-11-18T00:13:59+00:00",
  "items": [
+  {
+   "key": "THRUNE_KORTO_2026-11-17",
+   "name": "Korto B Thrune",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794960212,
+   "photo": null
+  },
+  {
+   "key": "KEN_FARRIS_DARRIN_2026-00006376",
+   "name": "Darrin Mikal Farris",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959662,
+   "photo": "photos/KEN_FARRIS_DARRIN_2026-00006376.jpg"
+  },
   {
    "key": "RC_NELSON_MELINDA_120011076365672",
    "name": "Melinda Kaye Nelson",
@@ -73,7 +95,7 @@
    "age": "60",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1794958111,
    "photo": null
@@ -95,7 +117,7 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1794957882,
    "photo": "photos/KEN_SEAY_DERRICK_2026-00006371.jpg"
@@ -164,17 +186,6 @@
    "charge": "",
    "more": 0,
    "ts": 1794956361,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_BREANNA_624210",
-   "name": "Breanna Jamila Davis",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794956352,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 4,
    "ts": 1794869235,
    "photo": "photos/LANG_CHRISTOPHER_2026-11-16.jpg"
-  },
-  {
-   "key": "TZOMPAXTLESALAS_JOSE_2026-11-16",
-   "name": "Jose Fray Tzompaxtle Salas",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Revoked",
-   "more": 0,
-   "ts": 1794864427,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "THRUNE_KORTO_2026-11-17",
+   "name": "Korto B Thrune",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1794960212,
+   "photo": null
+  },
+  {
+   "key": "KEN_FARRIS_DARRIN_2026-00006376",
+   "name": "Darrin Mikal Farris",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794959662,
+   "photo": "photos/KEN_FARRIS_DARRIN_2026-00006376.jpg"
+  },
   {
    "key": "RC_NELSON_MELINDA_120011076365672",
    "name": "Melinda Kaye Nelson",
@@ -603,7 +625,7 @@
    "age": "60",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1794958111,
    "photo": null
@@ -625,7 +647,7 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1794957882,
    "photo": "photos/KEN_SEAY_DERRICK_2026-00006371.jpg"
