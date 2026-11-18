@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-18T22:04:50+00:00",
+ "updated": "2026-11-18T22:49:27+00:00",
  "items": [
+  {
+   "key": "WILSON_ANTHONY_2026-11-18",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1795042029,
+   "photo": "photos/WILSON_ANTHONY_2026-11-18.jpg"
+  },
+  {
+   "key": "FDL_HARRISON_ZAELYN_2026-11-18_26SO2959",
+   "name": "Zaelyn Christyna Harrison",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Receive Stolen Property - $2,500-$5,000",
+   "more": 0,
+   "ts": 1795040397,
+   "photo": null
+  },
+  {
+   "key": "DOU_ZAKOVEC_ROBERT_2026-11-18",
+   "name": "Robert J Zakovec",
+   "age": "47",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1795040302,
+   "photo": "photos/DOU_ZAKOVEC_ROBERT_2026-11-18.jpg"
+  },
+  {
+   "key": "FDL_HARRISON_ZAELYN_2026-11-18",
+   "name": "Zaelyn Christyna Harrison",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Receive Stolen Property - $2,500-$5,000",
+   "more": 0,
+   "ts": 1795040228,
+   "photo": null
+  },
   {
    "key": "KEN_KUROWSKI_PAULINA_2026-00006387",
    "name": "Paulina Marie Kurowski",
@@ -484,53 +528,53 @@
    "more": 0,
    "ts": 1794981205,
    "photo": "photos/MAR_REED_DOUGLASS_2026-11-17_1235912.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAR_REED_DOUGLASS_2026-11-17",
-   "name": "Douglass Stafford Reed",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794977610,
-   "photo": "photos/MAR_REED_DOUGLASS_2026-11-17.jpg"
-  },
-  {
-   "key": "SCHUELKE_SHANTAE_2026-11-17",
-   "name": "Shantae L Schuelke",
-   "age": "35",
+   "key": "WILSON_ANTHONY_2026-11-18",
+   "name": "Anthony D Wilson",
+   "age": "58",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "Bail Jumping-Misdemeanor",
    "more": 2,
-   "ts": 1794975853,
-   "photo": null
+   "ts": 1795042029,
+   "photo": "photos/WILSON_ANTHONY_2026-11-18.jpg"
   },
   {
-   "key": "FDL_PEREZGAMEZ_ELVIS_2026-11-17",
-   "name": "Elvis Ramon Perezgamez",
+   "key": "FDL_HARRISON_ZAELYN_2026-11-18_26SO2959",
+   "name": "Zaelyn Christyna Harrison",
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
-   "charge": "TRANSPORT - WARRANT (x0)",
+   "charge": "Receive Stolen Property - $2,500-$5,000",
    "more": 0,
-   "ts": 1794975399,
+   "ts": 1795040397,
    "photo": null
   },
   {
-   "key": "MAR_LAMPKIN_ADAM_2026-11-17",
-   "name": "Adam John Lampkin",
-   "age": "28",
-   "county": "Marathon County",
+   "key": "DOU_ZAKOVEC_ROBERT_2026-11-18",
+   "name": "Robert J Zakovec",
+   "age": "47",
+   "county": "Douglas County",
    "region": "northwest",
-   "charge": "Possession of Methamphetamine",
-   "more": 2,
-   "ts": 1794974048,
-   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-17.jpg"
-  }
- ],
- "all_items": [
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1795040302,
+   "photo": "photos/DOU_ZAKOVEC_ROBERT_2026-11-18.jpg"
+  },
+  {
+   "key": "FDL_HARRISON_ZAELYN_2026-11-18",
+   "name": "Zaelyn Christyna Harrison",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Receive Stolen Property - $2,500-$5,000",
+   "more": 0,
+   "ts": 1795040228,
+   "photo": null
+  },
   {
    "key": "KEN_KUROWSKI_PAULINA_2026-00006387",
    "name": "Paulina Marie Kurowski",
