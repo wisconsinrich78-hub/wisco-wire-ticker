@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T12:37:42+00:00",
+ "updated": "2026-11-18T13:13:48+00:00",
  "items": [
+  {
+   "key": "MKE_JEFFERSON_TYRELL_2056964",
+   "name": "Tyrell Liace Jefferson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795006653,
+   "photo": null
+  },
   {
    "key": "RC_WASHINGTON_KYANN_120011076379398",
    "name": "Kyann Katherine Washington",
@@ -299,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "MKE_EARL_JAYVIONA_627889",
-   "name": "Jayviona Denise Earl",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794983270,
-   "photo": "photos/MKE_EARL_JAYVIONA_627889.jpg"
-  },
-  {
    "key": "MAR_REED_DOUGLASS_2026-11-17_1235912",
    "name": "Douglass Stafford Reed",
    "age": "55",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JEFFERSON_TYRELL_2056964",
+   "name": "Tyrell Liace Jefferson",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795006653,
+   "photo": null
+  },
   {
    "key": "RC_WASHINGTON_KYANN_120011076379398",
    "name": "Kyann Katherine Washington",
@@ -848,7 +859,7 @@
    "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 1,
    "ts": 1794983268,
-   "photo": null
+   "photo": "photos/MKE_MOFFET_ANIYA_648369.jpg"
   },
   {
    "key": "MKE_WATKINS_JOAVON_648370",
@@ -870,7 +881,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1794983264,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_NYASIAH_648371.jpg"
   },
   {
    "key": "KEN_ROEDIGER_JESSICA_2026-00006379",
@@ -4732,17 +4743,6 @@
    "more": 3,
    "ts": 1794751048,
    "photo": "photos/MKE_HARRISDIAZ_IMMANUEL_648314.jpg"
-  },
-  {
-   "key": "MKE_MARTINEZPEREZ_ELIEZER_525871",
-   "name": "Eliezer Martinez-Perez",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794747446,
-   "photo": "photos/MKE_MARTINEZPEREZ_ELIEZER_525871.jpg"
   }
  ]
 }
