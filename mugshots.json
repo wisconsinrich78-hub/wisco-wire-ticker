@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T14:49:28+00:00",
+ "updated": "2026-11-18T15:08:50+00:00",
  "items": [
+  {
+   "key": "KEN_POFAHL_ELIZABETH_2026-00006352",
+   "name": "Elizabeth Christine Pofahl",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795013755,
+   "photo": "photos/KEN_POFAHL_ELIZABETH_2026-00006352.jpg"
+  },
+  {
+   "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18",
+   "name": "Alexandro Del Valle Rivera",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1795013617,
+   "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18.jpg"
+  },
   {
    "key": "RC_STRONG_DAMARIO_120011076382186",
    "name": "Damario Deshawn Strong",
@@ -230,17 +252,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1794995854,
-   "photo": null
-  },
-  {
-   "key": "MKE_PORTER_PAUL_2053176",
-   "name": "Paul J Porter",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794995852,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1794945347,
    "photo": "photos/MAR_JAMES_ALIYA_2026-11-17.jpg"
-  },
-  {
-   "key": "KRANAU_SUSAN_2026-11-17",
-   "name": "Susan C Kranau",
-   "age": "65",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 0,
-   "ts": 1794943640,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_POFAHL_ELIZABETH_2026-00006352",
+   "name": "Elizabeth Christine Pofahl",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795013755,
+   "photo": "photos/KEN_POFAHL_ELIZABETH_2026-00006352.jpg"
+  },
+  {
+   "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18",
+   "name": "Alexandro Del Valle Rivera",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 0,
+   "ts": 1795013617,
+   "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18.jpg"
+  },
   {
    "key": "RC_STRONG_DAMARIO_120011076382186",
    "name": "Damario Deshawn Strong",
@@ -4776,28 +4798,6 @@
    "more": 1,
    "ts": 1794755798,
    "photo": "photos/FDL_TOWNER_NICOLE_2026-11-15.jpg"
-  },
-  {
-   "key": "KEN_CIBRARIO_BRYON_2026-00006320",
-   "name": "Bryon Paul Cibrario",
-   "age": "51",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1794754423,
-   "photo": "photos/KEN_CIBRARIO_BRYON_2026-00006320.jpg"
-  },
-  {
-   "key": "MAR_JOHNSON_BRIAN_2026-11-15",
-   "name": "Brian David Johnson",
-   "age": "58",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794754401,
-   "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15.jpg"
   }
  ]
 }
