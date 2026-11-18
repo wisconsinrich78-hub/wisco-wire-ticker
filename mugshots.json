@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-18T10:18:18+00:00",
+ "updated": "2026-11-18T10:49:25+00:00",
  "items": [
+  {
+   "key": "TREM_ROGERS_ORION_4049",
+   "name": "Orion Christopher Rogers",
+   "age": "31",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794998842,
+   "photo": "photos/TREM_ROGERS_ORION_4049.jpg"
+  },
+  {
+   "key": "TREM_DAY_SETH_5572",
+   "name": "Seth Hansford Day",
+   "age": "25",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Mayhem",
+   "more": 2,
+   "ts": 1794998840,
+   "photo": "photos/TREM_DAY_SETH_5572.jpg"
+  },
+  {
+   "key": "ATHA_DAVION_2026-11-18",
+   "name": "Davion M Atha",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794998603,
+   "photo": null
+  },
   {
    "key": "FDL_WILLIAMS_ULON_2026-11-18",
    "name": "Ulon Donavan Williams",
@@ -495,42 +528,42 @@
    "more": 1,
    "ts": 1794940023,
    "photo": null
-  },
-  {
-   "key": "DOU_SCHELINDER_JESSICA_2026-11-17",
-   "name": "Jessica L Schelinder",
-   "age": "52",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 0,
-   "ts": 1794939443,
-   "photo": "photos/DOU_SCHELINDER_JESSICA_2026-11-17.jpg"
-  },
-  {
-   "key": "FDL_DAY_HAILEY_2026-11-17",
-   "name": "Hailey Elizabeth Day",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Detainer",
-   "more": 0,
-   "ts": 1794935783,
-   "photo": null
-  },
-  {
-   "key": "TREM_HEMBD_ALLY_4143",
-   "name": "Ally Marjorie Hembd",
-   "age": "25",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794912427,
-   "photo": "photos/TREM_HEMBD_ALLY_4143.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "TREM_ROGERS_ORION_4049",
+   "name": "Orion Christopher Rogers",
+   "age": "31",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794998842,
+   "photo": "photos/TREM_ROGERS_ORION_4049.jpg"
+  },
+  {
+   "key": "TREM_DAY_SETH_5572",
+   "name": "Seth Hansford Day",
+   "age": "25",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Mayhem",
+   "more": 2,
+   "ts": 1794998840,
+   "photo": "photos/TREM_DAY_SETH_5572.jpg"
+  },
+  {
+   "key": "ATHA_DAVION_2026-11-18",
+   "name": "Davion M Atha",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794998603,
+   "photo": null
+  },
   {
    "key": "FDL_WILLIAMS_ULON_2026-11-18",
    "name": "Ulon Donavan Williams",
@@ -4731,39 +4764,6 @@
    "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1794740217,
-   "photo": null
-  },
-  {
-   "key": "TREM_SEIDEL_BRADLEY_6216",
-   "name": "Bradley James Seidel",
-   "age": "36",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 5,
-   "ts": 1794739629,
-   "photo": "photos/TREM_SEIDEL_BRADLEY_6216.jpg"
-  },
-  {
-   "key": "TREM_LORENZOCORONADO_ERIKA_6217",
-   "name": "Erika Cristina Lorenzo Coronado",
-   "age": "27",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794739628,
-   "photo": "photos/TREM_LORENZOCORONADO_ERIKA_6217.jpg"
-  },
-  {
-   "key": "COLE_RIANA_2026-11-15",
-   "name": "Riana B Cole",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 2,
-   "ts": 1794739624,
    "photo": null
   }
  ]
