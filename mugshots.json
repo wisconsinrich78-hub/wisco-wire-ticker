@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-18T15:49:29+00:00",
+ "updated": "2026-11-18T16:22:47+00:00",
  "items": [
+  {
+   "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
+   "name": "Christopher Darnell Jones",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 4,
+   "ts": 1795018577,
+   "photo": "photos/FDL_JONES_CHRISTOPHER_2026-11-18.jpg"
+  },
+  {
+   "key": "MKE_HOLLOWAY_REGINALD_298093",
+   "name": "Reginald Jermaine Holloway",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795017479,
+   "photo": null
+  },
+  {
+   "key": "MKE_FLEMING_MATTHEW_642233",
+   "name": "Matthew Curtis Fleming",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795017477,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTINSANCHEZ_SAUL_648375",
+   "name": "Saul Martin Sanchez",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1795017475,
+   "photo": null
+  },
+  {
+   "key": "MKE_MURRELL_KSHAWN_2067842",
+   "name": "Kshawn Scott Murrell",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795017472,
+   "photo": null
+  },
   {
    "key": "RC_LOPEZHERNANDEZ_FAVIAN_120011076384586",
    "name": "Favian Lopez Hernandez",
@@ -167,28 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_COOPER_ERIC_297360",
-   "name": "Eric Antonio Cooper",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1795001254,
-   "photo": null
-  },
-  {
-   "key": "MKE_HURST_TONI_343826",
-   "name": "Toni Tomara Hurst",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Receiving or Concealing Stolen Property (<=$2500)",
-   "more": 4,
-   "ts": 1795001252,
-   "photo": null
-  },
-  {
    "key": "ROCHESTER_JONTAVIUS_2026-11-18",
    "name": "Jon Tavius E Rochester",
    "age": "22",
@@ -198,17 +231,6 @@
    "more": 6,
    "ts": 1795000732,
    "photo": null
-  },
-  {
-   "key": "KEN_MARBAN_JOSE_2026-00006382",
-   "name": "Jose F Marban",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 2,
-   "ts": 1794999369,
-   "photo": "photos/KEN_MARBAN_JOSE_2026-00006382.jpg"
   },
   {
    "key": "TREM_ROGERS_ORION_4049",
@@ -253,17 +275,6 @@
    "more": 2,
    "ts": 1794997000,
    "photo": "photos/FDL_WILLIAMS_ULON_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_WILSONTREVINO_LAQUANDA_648373",
-   "name": "Laquanda Marie Wilson-Trevino",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794995856,
-   "photo": "photos/MKE_WILSONTREVINO_LAQUANDA_648373.jpg"
   },
   {
    "key": "MAR_HER_LUE_2026-11-18",
@@ -517,20 +528,64 @@
    "more": 2,
    "ts": 1794948931,
    "photo": "photos/MAR_TZINZUN_RICARDO_2026-11-15.jpg"
-  },
-  {
-   "key": "MAR_JAMES_ALIYA_2026-11-17_10370502",
-   "name": "Aliya Mae James",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of THC",
-   "more": 1,
-   "ts": 1794948886,
-   "photo": "photos/MAR_JAMES_ALIYA_2026-11-17_10370502.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
+   "name": "Christopher Darnell Jones",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 4,
+   "ts": 1795018577,
+   "photo": "photos/FDL_JONES_CHRISTOPHER_2026-11-18.jpg"
+  },
+  {
+   "key": "MKE_HOLLOWAY_REGINALD_298093",
+   "name": "Reginald Jermaine Holloway",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795017479,
+   "photo": null
+  },
+  {
+   "key": "MKE_FLEMING_MATTHEW_642233",
+   "name": "Matthew Curtis Fleming",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795017477,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTINSANCHEZ_SAUL_648375",
+   "name": "Saul Martin Sanchez",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1795017475,
+   "photo": null
+  },
+  {
+   "key": "MKE_MURRELL_KSHAWN_2067842",
+   "name": "Kshawn Scott Murrell",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795017472,
+   "photo": null
+  },
   {
    "key": "RC_LOPEZHERNANDEZ_FAVIAN_120011076384586",
    "name": "Favian Lopez Hernandez",
@@ -4743,39 +4798,6 @@
    "more": 0,
    "ts": 1794761598,
    "photo": "photos/MAR_JOHNSON_BRIAN_2026-11-15_641803.jpg"
-  },
-  {
-   "key": "MKE_CARTER_FREDDIE_621937",
-   "name": "Freddie Lee Carter",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794758287,
-   "photo": "photos/MKE_CARTER_FREDDIE_621937.jpg"
-  },
-  {
-   "key": "MKE_PEREZFELICIANO_ANGEL_648319",
-   "name": "Angel Perez-Feliciano",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794758285,
-   "photo": "photos/MKE_PEREZFELICIANO_ANGEL_648319.jpg"
-  },
-  {
-   "key": "MAR_DUNCAN_TIMOTHY_2026-11-15_6094713",
-   "name": "Timothy Allen Duncan",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794758034,
-   "photo": "photos/MAR_DUNCAN_TIMOTHY_2026-11-15_6094713.jpg"
   }
  ]
 }
