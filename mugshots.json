@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T07:00:58+00:00",
+ "updated": "2026-11-19T07:35:47+00:00",
  "items": [
+  {
+   "key": "FDL_TOELLNER_HEATHER_2026-11-19",
+   "name": "Heather Grace Toellner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 0,
+   "ts": 1795072596,
+   "photo": "photos/FDL_TOELLNER_HEATHER_2026-11-19.jpg"
+  },
   {
    "key": "MKE_FULLER_PAMELA_648387",
    "name": "Pamela Joanny Fuller",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795013234,
    "photo": null
-  },
-  {
-   "key": "ROCHESTER_JONTAVIUS_2026-11-18",
-   "name": "Jon Tavius E Rochester",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 6,
-   "ts": 1795000732,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_TOELLNER_HEATHER_2026-11-19",
+   "name": "Heather Grace Toellner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Misdemeanor Bail Jumping",
+   "more": 0,
+   "ts": 1795072596,
+   "photo": "photos/FDL_TOELLNER_HEATHER_2026-11-19.jpg"
+  },
   {
    "key": "MKE_FULLER_PAMELA_648387",
    "name": "Pamela Joanny Fuller",
@@ -5227,17 +5238,6 @@
    "more": 0,
    "ts": 1794815295,
    "photo": "photos/RC_JOHNSON_MYKQUEON_120011076308114.jpg"
-  },
-  {
-   "key": "FDL_BANDS_TONEEKA_2026-11-16",
-   "name": "Toneeka Nicole Bands",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "FAILURE TO APPEAR / WARRANTS (x3)",
-   "more": 0,
-   "ts": 1794813360,
-   "photo": "photos/FDL_BANDS_TONEEKA_2026-11-16.jpg"
   }
  ]
 }
