@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-19T22:49:28+00:00",
+ "updated": "2026-11-19T23:49:34+00:00",
  "items": [
+  {
+   "key": "AUSTIN_ANDREW_2026-11-19",
+   "name": "Andrew S Austin",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold for Drug Court",
+   "more": 0,
+   "ts": 1795131208,
+   "photo": null
+  },
+  {
+   "key": "MKE_SAULSBERRY_OKURIAN_628856",
+   "name": "Okurian D Saulsberry",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1795130864,
+   "photo": null
+  },
+  {
+   "key": "MKE_MONCADA_MEYLING_648399",
+   "name": "Meyling Moncada",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795130862,
+   "photo": null
+  },
+  {
+   "key": "FDL_BLANSETTE_DANIEL_2026-11-19",
+   "name": "Daniel A Blansette",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795130161,
+   "photo": "photos/FDL_BLANSETTE_DANIEL_2026-11-19.jpg"
+  },
+  {
+   "key": "MKE_SWORSKE_SHAWN_638741",
+   "name": "Shawn Michael Sworske",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "more": 1,
+   "ts": 1795129059,
+   "photo": null
+  },
   {
    "key": "RC_GREER_QUEMONT_120011076436608",
    "name": "Quemont Greer",
@@ -19,7 +74,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 5,
+   "more": 8,
    "ts": 1795125452,
    "photo": null
   },
@@ -189,17 +244,6 @@
    "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19_2535004.jpg"
   },
   {
-   "key": "KEN_PICOU_JUSTIN_2026-00006407",
-   "name": "Justin Ryan Picou",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795118044,
-   "photo": "photos/KEN_PICOU_JUSTIN_2026-00006407.jpg"
-  },
-  {
    "key": "MAR_SLOWIKOWSKI_MATTHEW_2026-11-19",
    "name": "Matthew Michael Slowikowski",
    "age": "34",
@@ -209,28 +253,6 @@
    "more": 1,
    "ts": 1795118014,
    "photo": "photos/MAR_SLOWIKOWSKI_MATTHEW_2026-11-19.jpg"
-  },
-  {
-   "key": "RC_KORTH_GJUAN_120011076427197",
-   "name": "Gjuan Korth",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1795117681,
-   "photo": null
-  },
-  {
-   "key": "RC_WILLAMS_SHAQUILLE_120011076427384",
-   "name": "Shaquille Willams",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1795117679,
-   "photo": null
   },
   {
    "key": "FDL_HAYS_SAMANTHA_2026-11-19",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1795040397,
    "photo": null
-  },
-  {
-   "key": "FDL_HARRISON_ZAELYN_2026-11-18",
-   "name": "Zaelyn Christyna Harrison",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Receive Stolen Property - $2,500-$5,000",
-   "more": 0,
-   "ts": 1795040228,
-   "photo": null
-  },
-  {
-   "key": "FDL_FISHERKRAHN_NANETTE_2026-11-18",
-   "name": "Nanette Marie Fisher-Krahn",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "OWI - 4th Offense",
-   "more": 0,
-   "ts": 1795036576,
-   "photo": "photos/FDL_FISHERKRAHN_NANETTE_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "AUSTIN_ANDREW_2026-11-19",
+   "name": "Andrew S Austin",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold for Drug Court",
+   "more": 0,
+   "ts": 1795131208,
+   "photo": null
+  },
+  {
+   "key": "MKE_SAULSBERRY_OKURIAN_628856",
+   "name": "Okurian D Saulsberry",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1795130864,
+   "photo": null
+  },
+  {
+   "key": "MKE_MONCADA_MEYLING_648399",
+   "name": "Meyling Moncada",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795130862,
+   "photo": null
+  },
+  {
+   "key": "FDL_BLANSETTE_DANIEL_2026-11-19",
+   "name": "Daniel A Blansette",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795130161,
+   "photo": "photos/FDL_BLANSETTE_DANIEL_2026-11-19.jpg"
+  },
+  {
+   "key": "MKE_SWORSKE_SHAWN_638741",
+   "name": "Shawn Michael Sworske",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "more": 1,
+   "ts": 1795129059,
+   "photo": null
+  },
   {
    "key": "RC_GREER_QUEMONT_120011076436608",
    "name": "Quemont Greer",
@@ -549,7 +604,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 5,
+   "more": 8,
    "ts": 1795125452,
    "photo": null
   },
@@ -5051,94 +5106,6 @@
    "more": 1,
    "ts": 1794874603,
    "photo": null
-  },
-  {
-   "key": "RICE_CRYSTAL_2026-11-16",
-   "name": "Crystal M Rice",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794872839,
-   "photo": null
-  },
-  {
-   "key": "MKE_SMITH_ANDRE_299315",
-   "name": "Andre Maurice Smith",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1794871702,
-   "photo": "photos/MKE_SMITH_ANDRE_299315.jpg"
-  },
-  {
-   "key": "MKE_WACHOWIAK_SCOTT_400145",
-   "name": "Scott Jacob Wachowiak",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1794871698,
-   "photo": "photos/MKE_WACHOWIAK_SCOTT_400145.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_CAMREN_401600",
-   "name": "Camren L Davis",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 12,
-   "ts": 1794871694,
-   "photo": "photos/MKE_DAVIS_CAMREN_401600.jpg"
-  },
-  {
-   "key": "MKE_MARTINEZ_SAMUEL_648343",
-   "name": "Samuel Elijah Martinez",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794871691,
-   "photo": "photos/MKE_MARTINEZ_SAMUEL_648343.jpg"
-  },
-  {
-   "key": "DOU_METERAUD_AMANDA_2026-11-16",
-   "name": "Amanda D Meteraud",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Bail Jumping",
-   "more": 4,
-   "ts": 1794871250,
-   "photo": "photos/DOU_METERAUD_AMANDA_2026-11-16.jpg"
-  },
-  {
-   "key": "FDL_STOFFEL_JAI_2026-11-16",
-   "name": "Jai Jacob Stoffel",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Knowingly Violate a Domestic Abuse Injunction",
-   "more": 2,
-   "ts": 1794871022,
-   "photo": "photos/FDL_STOFFEL_JAI_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_BECKER_ROBERT_618876",
-   "name": "Robert Anthony Becker",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Suspended",
-   "more": 5,
-   "ts": 1794869863,
-   "photo": "photos/MKE_BECKER_ROBERT_618876.jpg"
   }
  ]
 }
