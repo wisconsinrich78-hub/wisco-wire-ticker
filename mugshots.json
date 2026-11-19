@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T22:36:30+00:00",
+ "updated": "2026-11-19T22:49:28+00:00",
  "items": [
+  {
+   "key": "RC_GREER_QUEMONT_120011076436608",
+   "name": "Quemont Greer",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795128470,
+   "photo": null
+  },
   {
    "key": "MKE_STONE_JAMARI_604258",
    "name": "Jamari Lashod Stone",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1795117679,
    "photo": null
-  },
-  {
-   "key": "KEN_SAMONIG_JASON_2026-00006403",
-   "name": "Jason Alan Samonig",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 2,
-   "ts": 1795117346,
-   "photo": "photos/KEN_SAMONIG_JASON_2026-00006403.jpg"
   },
   {
    "key": "FDL_HAYS_SAMANTHA_2026-11-19",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GREER_QUEMONT_120011076436608",
+   "name": "Quemont Greer",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795128470,
+   "photo": null
+  },
   {
    "key": "MKE_STONE_JAMARI_604258",
    "name": "Jamari Lashod Stone",
@@ -5128,28 +5139,6 @@
    "more": 5,
    "ts": 1794869863,
    "photo": "photos/MKE_BECKER_ROBERT_618876.jpg"
-  },
-  {
-   "key": "RC_ROBINSON_ROBERT_120011076335086",
-   "name": "Robert Ivan Robinson",
-   "age": "69",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794869307,
-   "photo": "photos/RC_ROBINSON_ROBERT_120011076335086.jpg"
-  },
-  {
-   "key": "LANG_CHRISTOPHER_2026-11-16",
-   "name": "Christopher D Lang",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 4,
-   "ts": 1794869235,
-   "photo": "photos/LANG_CHRISTOPHER_2026-11-16.jpg"
   }
  ]
 }
