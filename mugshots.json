@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-19T10:58:08+00:00",
+ "updated": "2026-11-19T11:37:18+00:00",
  "items": [
+  {
+   "key": "MKE_PENDELTON_MARQUIS_527036",
+   "name": "Marquis Pendelton",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 4,
+   "ts": 1795087648,
+   "photo": null
+  },
+  {
+   "key": "MKE_RECINOS_MARTHA_648392",
+   "name": "Martha Recinos",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795087646,
+   "photo": null
+  },
+  {
+   "key": "MKE_EVANS_MARLON_648393",
+   "name": "Marlon C Evans",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 1,
+   "ts": 1795087644,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAYTON_TROY_648394",
+   "name": "Troy William Dayton",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795087643,
+   "photo": null
+  },
   {
    "key": "MKE_WOODSON_DWAYNE_609555",
    "name": "Dwayne Woodson",
@@ -165,50 +209,6 @@
    "more": 4,
    "ts": 1795071446,
    "photo": null
-  },
-  {
-   "key": "MKE_HAMDAN_HAMDAN_648386",
-   "name": "Hamdan Hamdan",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795069659,
-   "photo": null
-  },
-  {
-   "key": "KEN_STONER_WILLIAM_2026-00006396",
-   "name": "WILLIAM MARK Second STONER",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "OWI (1st W/Passenger <16 Years Old)",
-   "more": 1,
-   "ts": 1795068404,
-   "photo": "photos/KEN_STONER_WILLIAM_2026-00006396.jpg"
-  },
-  {
-   "key": "KEN_MATHIS_TERRENCE_2026-00006393",
-   "name": "TERRENCE VAUGHN Junior MATHIS",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "1st Deg. Child Sex Assault-Sex Cont W/Person Under Age of 13",
-   "more": 4,
-   "ts": 1795068331,
-   "photo": "photos/KEN_MATHIS_TERRENCE_2026-00006393.jpg"
-  },
-  {
-   "key": "KEN_KNAPP_KRISAN_2026-00006394",
-   "name": "Krisan Marjorie Knapp",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1795068254,
-   "photo": "photos/KEN_KNAPP_KRISAN_2026-00006394.jpg"
   },
   {
    "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_PENDELTON_MARQUIS_527036",
+   "name": "Marquis Pendelton",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 4,
+   "ts": 1795087648,
+   "photo": null
+  },
+  {
+   "key": "MKE_RECINOS_MARTHA_648392",
+   "name": "Martha Recinos",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795087646,
+   "photo": null
+  },
+  {
+   "key": "MKE_EVANS_MARLON_648393",
+   "name": "Marlon C Evans",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "more": 1,
+   "ts": 1795087644,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAYTON_TROY_648394",
+   "name": "Troy William Dayton",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795087643,
+   "photo": null
+  },
   {
    "key": "MKE_WOODSON_DWAYNE_609555",
    "name": "Dwayne Woodson",
@@ -1024,7 +1068,7 @@
    "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 20,
    "ts": 1795055265,
-   "photo": null
+   "photo": "photos/MKE_HALL_DERRICK_539131.jpg"
   },
   {
    "key": "MKE_THUNDERCLOUD_ROGER_641499",
@@ -1134,7 +1178,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795049862,
-   "photo": null
+   "photo": "photos/MKE_TOLBERT_BRANDON_601689.jpg"
   },
   {
    "key": "MKE_SANDOVAL_JONATHAN_624072",
@@ -1145,7 +1189,7 @@
    "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 0,
    "ts": 1795049860,
-   "photo": null
+   "photo": "photos/MKE_SANDOVAL_JONATHAN_624072.jpg"
   },
   {
    "key": "MKE_TROTTER_SHAQUILLE_629290",
@@ -5238,17 +5282,6 @@
    "more": 1,
    "ts": 1794832058,
    "photo": "photos/MKE_SPIKES_SHAKIRA_648332.jpg"
-  },
-  {
-   "key": "MKE_RIDLEY_BRIAN_648331",
-   "name": "Brian A Ridley",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794828454,
-   "photo": "photos/MKE_RIDLEY_BRIAN_648331.jpg"
   }
  ]
 }
