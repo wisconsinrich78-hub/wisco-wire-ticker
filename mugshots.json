@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T02:10:45+00:00",
+ "updated": "2026-11-19T02:37:23+00:00",
  "items": [
+  {
+   "key": "MKE_LAERIANORIOS_VICTOR_342528",
+   "name": "Victor Manuel Laeriano-rios",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795055267,
+   "photo": null
+  },
+  {
+   "key": "MKE_HALL_DERRICK_539131",
+   "name": "Derrick E Hall",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "more": 20,
+   "ts": 1795055265,
+   "photo": null
+  },
+  {
+   "key": "MKE_THUNDERCLOUD_ROGER_641499",
+   "name": "Roger A Thundercloud",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1795055263,
+   "photo": null
+  },
   {
    "key": "MKE_NEWSON_NICHOLAS_510905",
    "name": "Nicholas N Newson",
@@ -18,8 +51,8 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Battery",
+   "more": 2,
    "ts": 1795053447,
    "photo": null
   },
@@ -153,7 +186,7 @@
    "charge": "Habitual Criminality",
    "more": 1,
    "ts": 1795048068,
-   "photo": null
+   "photo": "photos/MKE_MALONE_TRAYVIONTAE_601647.jpg"
   },
   {
    "key": "MKE_GRADY_JOHNNY_639363",
@@ -167,17 +200,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SAMUEL_MARINO_648383",
-   "name": "Marino Samuel",
-   "age": "63",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Forgery",
-   "more": 1,
-   "ts": 1795048064,
-   "photo": "photos/MKE_SAMUEL_MARINO_648383.jpg"
-  },
-  {
    "key": "DOU_MCMILLIAN_DWIGHT_2026-11-18",
    "name": "Dwight R Mcmillian",
    "age": "55",
@@ -186,17 +208,6 @@
    "charge": "Housed for Other Agency",
    "more": 0,
    "ts": 1795047531,
-   "photo": null
-  },
-  {
-   "key": "KEN_BREWER_KAYELA_2026-00006391",
-   "name": "Kayela R Brewer",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 1,
-   "ts": 1795046212,
    "photo": null
   },
   {
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1795043767,
    "photo": "photos/FDL_BLOCK_KHYRE_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_ELIJAH_619165",
-   "name": "Elijah Lorenzo Williams",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795042655,
-   "photo": null
   },
   {
    "key": "MAR_HOLSTERGARDNER_SHANE_2026-11-18",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_LAERIANORIOS_VICTOR_342528",
+   "name": "Victor Manuel Laeriano-rios",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795055267,
+   "photo": null
+  },
+  {
+   "key": "MKE_HALL_DERRICK_539131",
+   "name": "Derrick E Hall",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "more": 20,
+   "ts": 1795055265,
+   "photo": null
+  },
+  {
+   "key": "MKE_THUNDERCLOUD_ROGER_641499",
+   "name": "Roger A Thundercloud",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1795055263,
+   "photo": null
+  },
+  {
    "key": "MKE_NEWSON_NICHOLAS_510905",
    "name": "Nicholas N Newson",
    "age": "30",
@@ -548,8 +581,8 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Battery",
+   "more": 2,
    "ts": 1795053447,
    "photo": null
   },
@@ -683,7 +716,7 @@
    "charge": "Habitual Criminality",
    "more": 1,
    "ts": 1795048068,
-   "photo": null
+   "photo": "photos/MKE_MALONE_TRAYVIONTAE_601647.jpg"
   },
   {
    "key": "MKE_GRADY_JOHNNY_639363",
@@ -1024,7 +1057,7 @@
    "charge": "Resisting or Obstructing an Officer",
    "more": 7,
    "ts": 1795033665,
-   "photo": null
+   "photo": "photos/MKE_MENDEZ_ROBERTO_286728.jpg"
   },
   {
    "key": "FDL_ROBINS_CANDYCE_2026-11-18",
@@ -1057,7 +1090,7 @@
    "charge": "Habitual Criminality",
    "more": 2,
    "ts": 1795031858,
-   "photo": null
+   "photo": "photos/MKE_FLAKES_ANTONIO_341562.jpg"
   },
   {
    "key": "MKE_ESQUIVELCASTRO_HENRY_616977",
@@ -5238,28 +5271,6 @@
    "more": 2,
    "ts": 1794797614,
    "photo": null
-  },
-  {
-   "key": "MKE_BYRD_WILLIEDEE_627128",
-   "name": "Willie Dee W Byrd",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794796142,
-   "photo": "photos/MKE_BYRD_WILLIEDEE_627128.jpg"
-  },
-  {
-   "key": "MKE_DEIBERT_KYLE_2029323",
-   "name": "Kyle Alexander Deibert",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794796135,
-   "photo": "photos/MKE_DEIBERT_KYLE_2029323.jpg"
   }
  ]
 }
