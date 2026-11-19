@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T12:49:25+00:00",
+ "updated": "2026-11-19T13:02:11+00:00",
  "items": [
+  {
+   "key": "MKE_HAMPTON_MARQUES_624907",
+   "name": "Marques Hampton",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795093051,
+   "photo": null
+  },
   {
    "key": "RC_NEAL_BRANDON_120011076413831",
    "name": "Brandon Deontae Neal",
@@ -84,7 +95,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Carry Concealed Weapon",
+   "charge": "Charges Pending",
    "more": 5,
    "ts": 1795085851,
    "photo": null
@@ -187,17 +198,6 @@
    "more": 0,
    "ts": 1795075043,
    "photo": null
-  },
-  {
-   "key": "RC_TOTES_DAVID_120011076410933",
-   "name": "David Kevin Totes",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795074464,
-   "photo": "photos/RC_TOTES_DAVID_120011076410933.jpg"
   },
   {
    "key": "FDL_TOELLNER_HEATHER_2026-11-19",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HAMPTON_MARQUES_624907",
+   "name": "Marques Hampton",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795093051,
+   "photo": null
+  },
+  {
    "key": "RC_NEAL_BRANDON_120011076413831",
    "name": "Brandon Deontae Neal",
    "age": "33",
@@ -614,7 +625,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Carry Concealed Weapon",
+   "charge": "Charges Pending",
    "more": 5,
    "ts": 1795085851,
    "photo": null
@@ -5249,61 +5260,6 @@
    "more": 0,
    "ts": 1794834957,
    "photo": "photos/FDL_AVILARIOS_ANUBIS_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_VALADEZ_MARK_354630",
-   "name": "Mark Valadez",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794833848,
-   "photo": "photos/MKE_VALADEZ_MARK_354630.jpg"
-  },
-  {
-   "key": "MKE_SINGLETON_MICHAEL_648333",
-   "name": "Michael Stephen Singleton",
-   "age": "77",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794833847,
-   "photo": "photos/MKE_SINGLETON_MICHAEL_648333.jpg"
-  },
-  {
-   "key": "MKE_JAHFAR_ABDULMALIK_648334",
-   "name": "Abdul Malik Bin Jahfar",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794833845,
-   "photo": "photos/MKE_JAHFAR_ABDULMALIK_648334.jpg"
-  },
-  {
-   "key": "KEN_CLEMONS_JACOB_2026-00006331",
-   "name": "Jacob Jon Clemons",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794833708,
-   "photo": "photos/KEN_CLEMONS_JACOB_2026-00006331.jpg"
-  },
-  {
-   "key": "MAR_YOUNG_PORSCHA_2026-11-16",
-   "name": "Porscha Rae Young",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794833606,
-   "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16.jpg"
   }
  ]
 }
