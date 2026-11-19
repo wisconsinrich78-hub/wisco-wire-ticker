@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T18:09:00+00:00",
+ "updated": "2026-11-19T18:39:33+00:00",
  "items": [
+  {
+   "key": "MKE_NEWMAN_MICHAEL_600688",
+   "name": "Michael Christopher Newman",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795112863,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLINCYBUTLER_AJONTAE_635375",
+   "name": "Ajontae Clincy-Butler",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1795112862,
+   "photo": null
+  },
+  {
+   "key": "DOU_OMARY_RHONDA_2026-11-19",
+   "name": "Rhonda B Omary",
+   "age": "30",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Cont Subst/Possess Synthetics",
+   "more": 2,
+   "ts": 1795112219,
+   "photo": "photos/DOU_OMARY_RHONDA_2026-11-19.jpg"
+  },
   {
    "key": "MAR_THAO_JAMES_2026-11-19",
    "name": "James Alie Thao",
@@ -219,28 +252,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795093051,
-   "photo": null
-  },
-  {
-   "key": "RC_NEAL_BRANDON_120011076413831",
-   "name": "Brandon Deontae Neal",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795092471,
-   "photo": "photos/RC_NEAL_BRANDON_120011076413831.jpg"
-  },
-  {
-   "key": "MKE_ROJAS_EDDY_531983",
-   "name": "Eddy Martin Rojas",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795091253,
    "photo": null
   },
   {
@@ -497,17 +508,6 @@
    "photo": "photos/MAR_CAUTHEN_TRISHA_2026-11-18.jpg"
   },
   {
-   "key": "MAR_BRUNKER_ANGELA_2026-11-18",
-   "name": "Angela Marie Brunker",
-   "age": "51",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795038840,
-   "photo": "photos/MAR_BRUNKER_ANGELA_2026-11-18.jpg"
-  },
-  {
    "key": "FDL_FISHERKRAHN_NANETTE_2026-11-18",
    "name": "Nanette Marie Fisher-Krahn",
    "age": "",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_NEWMAN_MICHAEL_600688",
+   "name": "Michael Christopher Newman",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795112863,
+   "photo": null
+  },
+  {
+   "key": "MKE_CLINCYBUTLER_AJONTAE_635375",
+   "name": "Ajontae Clincy-Butler",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 0,
+   "ts": 1795112862,
+   "photo": null
+  },
+  {
+   "key": "DOU_OMARY_RHONDA_2026-11-19",
+   "name": "Rhonda B Omary",
+   "age": "30",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Cont Subst/Possess Synthetics",
+   "more": 2,
+   "ts": 1795112219,
+   "photo": "photos/DOU_OMARY_RHONDA_2026-11-19.jpg"
+  },
   {
    "key": "MAR_THAO_JAMES_2026-11-19",
    "name": "James Alie Thao",
@@ -815,7 +848,7 @@
    "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
    "more": 1,
    "ts": 1795087644,
-   "photo": null
+   "photo": "photos/MKE_EVANS_MARLON_648393.jpg"
   },
   {
    "key": "MKE_DAYTON_TROY_648394",
@@ -5040,50 +5073,6 @@
    "more": 0,
    "ts": 1794854880,
    "photo": null
-  },
-  {
-   "key": "MKE_RULLANLOPEZ_JEFFREY_414111",
-   "name": "Jeffrey Oneil Rullan-Lopez",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Assessments (TRO/IN JCT)",
-   "more": 14,
-   "ts": 1794853667,
-   "photo": "photos/MKE_RULLANLOPEZ_JEFFREY_414111.jpg"
-  },
-  {
-   "key": "MKE_OFFICE_TRAVION_623855",
-   "name": "Travion Elijah Office",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794853665,
-   "photo": "photos/MKE_OFFICE_TRAVION_623855.jpg"
-  },
-  {
-   "key": "MKE_WOJNAROWICZ_VINCENT_648336",
-   "name": "Vincent James Wojnarowicz",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (2nd w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794853664,
-   "photo": "photos/MKE_WOJNAROWICZ_VINCENT_648336.jpg"
-  },
-  {
-   "key": "FDL_PIRTLE_MARCUS_2026-11-16",
-   "name": "Marcus Lakeith Pirtle",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794852987,
-   "photo": "photos/FDL_PIRTLE_MARCUS_2026-11-16.jpg"
   }
  ]
 }
