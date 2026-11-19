@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-19T00:49:32+00:00",
+ "updated": "2026-11-19T01:07:11+00:00",
  "items": [
+  {
+   "key": "MKE_ROSS_OMAR_265283",
+   "name": "Omar Antoine Ross",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795049865,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_TYRONE_379072",
+   "name": "Tyrone Smith",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795049864,
+   "photo": null
+  },
+  {
+   "key": "MKE_TOLBERT_BRANDON_601689",
+   "name": "Brandon Anthony Tolbert",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795049862,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANDOVAL_JONATHAN_624072",
+   "name": "Jonathan Sandoval",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795049860,
+   "photo": null
+  },
+  {
+   "key": "MKE_TROTTER_SHAQUILLE_629290",
+   "name": "Shaquille O Trotter",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 1,
+   "ts": 1795049858,
+   "photo": null
+  },
   {
    "key": "RC_KUEFFLER_JOSHUA_120011076404621",
    "name": "Joshua Ryan Kueffler",
@@ -51,8 +106,8 @@
    "age": "63",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Forgery",
+   "more": 1,
    "ts": 1795048064,
    "photo": null
   },
@@ -222,39 +277,6 @@
    "photo": "photos/KEN_BOLTON_KURTIS_2026-00006388.jpg"
   },
   {
-   "key": "MKE_SANCHEZ_DAVID_516063",
-   "name": "David J Sanchez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795039079,
-   "photo": null
-  },
-  {
-   "key": "MKE_CEBALLOSMALDONADO_KEVIN_648381",
-   "name": "Kevin Ceballos Maldonado",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795039077,
-   "photo": null
-  },
-  {
-   "key": "KEN_ARMSTRONG_ARTAVIA_2026-00006389",
-   "name": "Artavia Armstrong",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1795039051,
-   "photo": "photos/KEN_ARMSTRONG_ARTAVIA_2026-00006389.jpg"
-  },
-  {
    "key": "MAR_MILLER_THOMAS_2026-11-18_16353702",
    "name": "Thomas Miller",
    "age": "43",
@@ -286,28 +308,6 @@
    "more": 0,
    "ts": 1795038840,
    "photo": "photos/MAR_BRUNKER_ANGELA_2026-11-18.jpg"
-  },
-  {
-   "key": "RC_PIMENTELMACEDONIO_ERIK_120011076399754",
-   "name": "Erik Pimentel-Macedonio",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795038485,
-   "photo": "photos/RC_PIMENTELMACEDONIO_ERIK_120011076399754.jpg"
-  },
-  {
-   "key": "MKE_EDWARDS_IESHA_354776",
-   "name": "Iesha Wynette Edwards",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795037269,
-   "photo": null
   },
   {
    "key": "FDL_FISHERKRAHN_NANETTE_2026-11-18",
@@ -532,6 +532,61 @@
  ],
  "all_items": [
   {
+   "key": "MKE_ROSS_OMAR_265283",
+   "name": "Omar Antoine Ross",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795049865,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_TYRONE_379072",
+   "name": "Tyrone Smith",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795049864,
+   "photo": null
+  },
+  {
+   "key": "MKE_TOLBERT_BRANDON_601689",
+   "name": "Brandon Anthony Tolbert",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795049862,
+   "photo": null
+  },
+  {
+   "key": "MKE_SANDOVAL_JONATHAN_624072",
+   "name": "Jonathan Sandoval",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795049860,
+   "photo": null
+  },
+  {
+   "key": "MKE_TROTTER_SHAQUILLE_629290",
+   "name": "Shaquille O Trotter",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "more": 1,
+   "ts": 1795049858,
+   "photo": null
+  },
+  {
    "key": "RC_KUEFFLER_JOSHUA_120011076404621",
    "name": "Joshua Ryan Kueffler",
    "age": "33",
@@ -581,8 +636,8 @@
    "age": "63",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Forgery",
+   "more": 1,
    "ts": 1795048064,
    "photo": null
   },
@@ -1002,7 +1057,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795026474,
-   "photo": null
+   "photo": "photos/MKE_TIMONEDA_JONATHAN_628351.jpg"
   },
   {
    "key": "MKE_HOLMES_LATOSHA_648379",
@@ -1013,7 +1068,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795026472,
-   "photo": null
+   "photo": "photos/MKE_HOLMES_LATOSHA_648379.jpg"
   },
   {
    "key": "FDL_PICKART_NICHOLE_2026-11-18",
@@ -1101,7 +1156,7 @@
    "charge": "Intimidate Victim/Domestic Abuse Crime",
    "more": 6,
    "ts": 1795022869,
-   "photo": null
+   "photo": "photos/MKE_RAMSEY_CARLOS_648378.jpg"
   },
   {
    "key": "FDL_SAVAGE_DESTINY_2026-11-18",
@@ -5150,17 +5205,6 @@
    "more": 3,
    "ts": 1794793694,
    "photo": null
-  },
-  {
-   "key": "MKE_CASAREZ_DESIRAE_510524",
-   "name": "Desirae J Casarez",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794790654,
-   "photo": "photos/MKE_CASAREZ_DESIRAE_510524.jpg"
   }
  ]
 }
