@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T10:49:28+00:00",
+ "updated": "2026-11-19T10:58:08+00:00",
  "items": [
+  {
+   "key": "MKE_WOODSON_DWAYNE_609555",
+   "name": "Dwayne Woodson",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795085851,
+   "photo": null
+  },
+  {
+   "key": "MKE_PERRY_JUANIA_648391",
+   "name": "Juania Micole Perry",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795085850,
+   "photo": null
+  },
   {
    "key": "TREM_THOMPSON_JARROD_4677",
    "name": "Jarrod Paul Thompson",
@@ -187,28 +209,6 @@
    "more": 1,
    "ts": 1795068254,
    "photo": "photos/KEN_KNAPP_KRISAN_2026-00006394.jpg"
-  },
-  {
-   "key": "KEN_KILLIPS_DASHANIQUE_2026-00006395",
-   "name": "Dashanique Aleshae Killips",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795068176,
-   "photo": "photos/KEN_KILLIPS_DASHANIQUE_2026-00006395.jpg"
-  },
-  {
-   "key": "KEN_KIDD_CALVIN_2026-00006392",
-   "name": "Calvin Kidd",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 1,
-   "ts": 1795068098,
-   "photo": "photos/KEN_KIDD_CALVIN_2026-00006392.jpg"
   },
   {
    "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WOODSON_DWAYNE_609555",
+   "name": "Dwayne Woodson",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795085851,
+   "photo": null
+  },
+  {
+   "key": "MKE_PERRY_JUANIA_648391",
+   "name": "Juania Micole Perry",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795085850,
+   "photo": null
+  },
   {
    "key": "TREM_THOMPSON_JARROD_4677",
    "name": "Jarrod Paul Thompson",
@@ -5227,17 +5249,6 @@
    "more": 1,
    "ts": 1794828454,
    "photo": "photos/MKE_RIDLEY_BRIAN_648331.jpg"
-  },
-  {
-   "key": "MKE_NOVY_LYLE_648330",
-   "name": "Lyle S Novy",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794826648,
-   "photo": "photos/MKE_NOVY_LYLE_648330.jpg"
   }
  ]
 }
