@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T01:07:11+00:00",
+ "updated": "2026-11-19T01:40:14+00:00",
  "items": [
+  {
+   "key": "DOU_CENTORCELLI_MATTHEW_2026-11-18",
+   "name": "Matthew Centorcelli",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Housed for Other Agency",
+   "more": 0,
+   "ts": 1795051021,
+   "photo": "photos/DOU_CENTORCELLI_MATTHEW_2026-11-18.jpg"
+  },
   {
    "key": "MKE_ROSS_OMAR_265283",
    "name": "Omar Antoine Ross",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1794993386,
    "photo": null
-  },
-  {
-   "key": "FDL_ANTONE_ALEXANDER_2026-11-18",
-   "name": "Alexander James Antone",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 0,
-   "ts": 1794993365,
-   "photo": "photos/FDL_ANTONE_ALEXANDER_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_CENTORCELLI_MATTHEW_2026-11-18",
+   "name": "Matthew Centorcelli",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Housed for Other Agency",
+   "more": 0,
+   "ts": 1795051021,
+   "photo": "photos/DOU_CENTORCELLI_MATTHEW_2026-11-18.jpg"
+  },
   {
    "key": "MKE_ROSS_OMAR_265283",
    "name": "Omar Antoine Ross",
