@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-19T18:49:31+00:00",
+ "updated": "2026-11-19T19:08:42+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_TYVON_541431",
+   "name": "Tyvon Deshawn Williams",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795114693,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHABBOUTH_IHEB_648396",
+   "name": "Iheb Chabbouth",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795114690,
+   "photo": null
+  },
+  {
+   "key": "MKE_QUINONES_TYLER_2053823",
+   "name": "Tyler Jake Quinones",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795114687,
+   "photo": null
+  },
+  {
+   "key": "MAR_WARD_VILAS_2026-11-19",
+   "name": "Vilas William Ward",
+   "age": "56",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Stalking",
+   "more": 1,
+   "ts": 1795114472,
+   "photo": "photos/MAR_WARD_VILAS_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_MOCK_ANDREW_2026-11-19",
+   "name": "Andrew Neal Mock",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Violate Order/Contempt of Court",
+   "more": 0,
+   "ts": 1795114440,
+   "photo": "photos/MAR_MOCK_ANDREW_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_CANTRELL_DAVID_2026-11-19",
+   "name": "David Lee Cantrell",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 3rd",
+   "more": 0,
+   "ts": 1795114406,
+   "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19.jpg"
+  },
   {
    "key": "RC_LOPEZJUAREZ_JESUS_120011076425832",
    "name": "Jesus Anthony Lopez Juarez",
@@ -87,7 +153,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1795112862,
-   "photo": null
+   "photo": "photos/MKE_CLINCYBUTLER_AJONTAE_635375.jpg"
   },
   {
    "key": "DOU_OMARY_RHONDA_2026-11-19",
@@ -200,28 +266,6 @@
    "photo": null
   },
   {
-   "key": "RC_PORTER_TOBARUS_120011076418679",
-   "name": "Tobarus Deon Porter",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795103278,
-   "photo": "photos/RC_PORTER_TOBARUS_120011076418679.jpg"
-  },
-  {
-   "key": "RC_ARIZMENDIFUENTES_MIGUEL_120011076420018",
-   "name": "Miguel Angel Arizmendi Fuentes",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795103275,
-   "photo": "photos/RC_ARIZMENDIFUENTES_MIGUEL_120011076420018.jpg"
-  },
-  {
    "key": "APARICIOZARAGOZA_LAURO_2026-11-19",
    "name": "Lauro Zaragoza Aparicio Zaragoza",
    "age": "46",
@@ -230,17 +274,6 @@
    "charge": "Operating While Revoked",
    "more": 0,
    "ts": 1795103228,
-   "photo": null
-  },
-  {
-   "key": "MKE_TAYLOR_WHITNEY_296946",
-   "name": "Whitney Jasmine Taylor",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795102070,
    "photo": null
   },
   {
@@ -464,17 +497,6 @@
    "photo": null
   },
   {
-   "key": "DOU_ZAKOVEC_ROBERT_2026-11-18",
-   "name": "Robert J Zakovec",
-   "age": "47",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 0,
-   "ts": 1795040302,
-   "photo": "photos/DOU_ZAKOVEC_ROBERT_2026-11-18.jpg"
-  },
-  {
    "key": "FDL_HARRISON_ZAELYN_2026-11-18",
    "name": "Zaelyn Christyna Harrison",
    "age": "",
@@ -484,28 +506,6 @@
    "more": 0,
    "ts": 1795040228,
    "photo": null
-  },
-  {
-   "key": "MAR_MILLER_THOMAS_2026-11-18_16353702",
-   "name": "Thomas Miller",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1795038978,
-   "photo": "photos/MAR_MILLER_THOMAS_2026-11-18_16353702.jpg"
-  },
-  {
-   "key": "MAR_CAUTHEN_TRISHA_2026-11-18",
-   "name": "Trisha Lynn Cauthen",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795038893,
-   "photo": "photos/MAR_CAUTHEN_TRISHA_2026-11-18.jpg"
   },
   {
    "key": "FDL_FISHERKRAHN_NANETTE_2026-11-18",
@@ -531,6 +531,72 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_TYVON_541431",
+   "name": "Tyvon Deshawn Williams",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795114693,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHABBOUTH_IHEB_648396",
+   "name": "Iheb Chabbouth",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795114690,
+   "photo": null
+  },
+  {
+   "key": "MKE_QUINONES_TYLER_2053823",
+   "name": "Tyler Jake Quinones",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795114687,
+   "photo": null
+  },
+  {
+   "key": "MAR_WARD_VILAS_2026-11-19",
+   "name": "Vilas William Ward",
+   "age": "56",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Stalking",
+   "more": 1,
+   "ts": 1795114472,
+   "photo": "photos/MAR_WARD_VILAS_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_MOCK_ANDREW_2026-11-19",
+   "name": "Andrew Neal Mock",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Violate Order/Contempt of Court",
+   "more": 0,
+   "ts": 1795114440,
+   "photo": "photos/MAR_MOCK_ANDREW_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_CANTRELL_DAVID_2026-11-19",
+   "name": "David Lee Cantrell",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 3rd",
+   "more": 0,
+   "ts": 1795114406,
+   "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19.jpg"
+  },
   {
    "key": "RC_LOPEZJUAREZ_JESUS_120011076425832",
    "name": "Jesus Anthony Lopez Juarez",
@@ -617,7 +683,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 0,
    "ts": 1795112862,
-   "photo": null
+   "photo": "photos/MKE_CLINCYBUTLER_AJONTAE_635375.jpg"
   },
   {
    "key": "DOU_OMARY_RHONDA_2026-11-19",
@@ -771,7 +837,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795102070,
-   "photo": null
+   "photo": "photos/MKE_TAYLOR_WHITNEY_296946.jpg"
   },
   {
    "key": "MKE_LOVE_QUENTIN_393459",
@@ -848,7 +914,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795093051,
-   "photo": null
+   "photo": "photos/MKE_HAMPTON_MARQUES_624907.jpg"
   },
   {
    "key": "RC_NEAL_BRANDON_120011076413831",
@@ -870,7 +936,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795091253,
-   "photo": null
+   "photo": "photos/MKE_ROJAS_EDDY_531983.jpg"
   },
   {
    "key": "MKE_FERGUSON_AMORE_645926",
@@ -878,7 +944,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Bail Jumping-Felony",
    "more": 3,
    "ts": 1795091251,
    "photo": null
@@ -889,7 +955,7 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Bail Jumping-Felony",
    "more": 4,
    "ts": 1795087648,
    "photo": null
@@ -1035,7 +1101,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795075043,
-   "photo": null
+   "photo": "photos/MKE_HUGHES_CHANCEY_648390.jpg"
   },
   {
    "key": "RC_TOTES_DAVID_120011076410933",
@@ -5084,50 +5150,6 @@
    "more": 0,
    "ts": 1794857223,
    "photo": null
-  },
-  {
-   "key": "MKE_HUIZAR_VICTOR_648337",
-   "name": "Victor Manuel Huizar",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794855493,
-   "photo": "photos/MKE_HUIZAR_VICTOR_648337.jpg"
-  },
-  {
-   "key": "MAR_PERRY_KIEUTA_2026-11-15_17106702",
-   "name": "Kieuta Zarere Perry",
-   "age": "29",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1st-Degree Recklessly Endangering Safety",
-   "more": 5,
-   "ts": 1794855306,
-   "photo": "photos/MAR_PERRY_KIEUTA_2026-11-15_17106702.jpg"
-  },
-  {
-   "key": "RC_LEWIS_CHRISTINA_120011076325961",
-   "name": "Christina J Lewis",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Methamphetamine",
-   "more": 3,
-   "ts": 1794855035,
-   "photo": null
-  },
-  {
-   "key": "RC_CENTELLDUNK_ADRIC_120011076326106",
-   "name": "Adric Centell-dunk",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794855032,
-   "photo": "photos/RC_CENTELLDUNK_ADRIC_120011076326106.jpg"
   }
  ]
 }
