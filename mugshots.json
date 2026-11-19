@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T00:37:22+00:00",
+ "updated": "2026-11-19T00:49:32+00:00",
  "items": [
+  {
+   "key": "RC_KUEFFLER_JOSHUA_120011076404621",
+   "name": "Joshua Ryan Kueffler",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "OWI (5th or 6th)",
+   "more": 0,
+   "ts": 1795049288,
+   "photo": "photos/RC_KUEFFLER_JOSHUA_120011076404621.jpg"
+  },
   {
    "key": "MKE_CHALMERS_CURTIS_326316",
    "name": "Curtis Lidell Chalmers",
@@ -299,17 +310,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BRASHAW_EMMA_648380",
-   "name": "Emma Marie Brashaw",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795037265,
-   "photo": null
-  },
-  {
    "key": "FDL_FISHERKRAHN_NANETTE_2026-11-18",
    "name": "Nanette Marie Fisher-Krahn",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KUEFFLER_JOSHUA_120011076404621",
+   "name": "Joshua Ryan Kueffler",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "OWI (5th or 6th)",
+   "more": 0,
+   "ts": 1795049288,
+   "photo": "photos/RC_KUEFFLER_JOSHUA_120011076404621.jpg"
+  },
   {
    "key": "MKE_CHALMERS_CURTIS_326316",
    "name": "Curtis Lidell Chalmers",
