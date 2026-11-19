@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:49:24+00:00",
+ "updated": "2026-11-19T10:36:22+00:00",
  "items": [
   {
    "key": "MKE_COOPER_DENESHA_604204",
@@ -51,7 +51,7 @@
    "age": "43",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1795075045,
    "photo": null
@@ -109,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795071448,
-   "photo": null
+   "photo": "photos/MKE_CALDWELL_CHARLES_648388.jpg"
   },
   {
    "key": "MKE_MARTIN_ALAYSHIANNA_648389",
@@ -581,7 +581,7 @@
    "age": "43",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Charges Pending",
    "more": 0,
    "ts": 1795075045,
    "photo": null
@@ -639,7 +639,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795071448,
-   "photo": null
+   "photo": "photos/MKE_CALDWELL_CHARLES_648388.jpg"
   },
   {
    "key": "MKE_MARTIN_ALAYSHIANNA_648389",
@@ -859,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 15,
    "ts": 1795060654,
-   "photo": null
+   "photo": "photos/MKE_HILSON_LAKEVONTAY_638658.jpg"
   },
   {
    "key": "MKE_PRICE_TYQUAWN_648385",
@@ -991,7 +991,7 @@
    "charge": "OWI (4th)",
    "more": 0,
    "ts": 1795055263,
-   "photo": null
+   "photo": "photos/MKE_THUNDERCLOUD_ROGER_641499.jpg"
   },
   {
    "key": "MKE_NEWSON_NICHOLAS_510905",
@@ -1002,7 +1002,7 @@
    "charge": "Failure to Support",
    "more": 0,
    "ts": 1795053448,
-   "photo": null
+   "photo": "photos/MKE_NEWSON_NICHOLAS_510905.jpg"
   },
   {
    "key": "MKE_TATE_RYLEN_633621",
@@ -1013,7 +1013,7 @@
    "charge": "Battery",
    "more": 2,
    "ts": 1795053447,
-   "photo": null
+   "photo": "photos/MKE_TATE_RYLEN_633621.jpg"
   },
   {
    "key": "MAR_RHODE_JOSHUA_2026-11-18",
@@ -1068,7 +1068,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795049865,
-   "photo": null
+   "photo": "photos/MKE_ROSS_OMAR_265283.jpg"
   },
   {
    "key": "MKE_SMITH_TYRONE_379072",
@@ -5216,17 +5216,6 @@
    "more": 1,
    "ts": 1794826648,
    "photo": "photos/MKE_NOVY_LYLE_648330.jpg"
-  },
-  {
-   "key": "MKE_EVANS_DANTE_388406",
-   "name": "Dante D Evans",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794823056,
-   "photo": "photos/MKE_EVANS_DANTE_388406.jpg"
   }
  ]
 }
