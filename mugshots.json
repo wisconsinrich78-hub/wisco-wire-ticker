@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T17:11:56+00:00",
+ "updated": "2026-11-19T17:37:24+00:00",
  "items": [
+  {
+   "key": "BENKA_EDWARD_2026-11-19",
+   "name": "Edward J Benka",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795109223,
+   "photo": null
+  },
+  {
+   "key": "BALDWIN_CHRISTOPHER_2026-11-19",
+   "name": "Christopher N Baldwin",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795109222,
+   "photo": null
+  },
   {
    "key": "RC_GONZALEZ_MARCOS_120011076420180",
    "name": "Marcos E Gonzalez",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795032992,
    "photo": "photos/FDL_ROBINS_CANDYCE_2026-11-18.jpg"
-  },
-  {
-   "key": "FDL_MISTERS_JOSHUA_2026-11-18",
-   "name": "Joshua Glenn Misters",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 1,
-   "ts": 1795032983,
-   "photo": null
-  },
-  {
-   "key": "FDL_PICKART_NICHOLE_2026-11-18",
-   "name": "Nichole Ann Pickart",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795025797,
-   "photo": "photos/FDL_PICKART_NICHOLE_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "BENKA_EDWARD_2026-11-19",
+   "name": "Edward J Benka",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795109223,
+   "photo": null
+  },
+  {
+   "key": "BALDWIN_CHRISTOPHER_2026-11-19",
+   "name": "Christopher N Baldwin",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795109222,
+   "photo": null
+  },
   {
    "key": "RC_GONZALEZ_MARCOS_120011076420180",
    "name": "Marcos E Gonzalez",
@@ -793,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795087643,
-   "photo": null
+   "photo": "photos/MKE_DAYTON_TROY_648394.jpg"
   },
   {
    "key": "MKE_WOODSON_DWAYNE_609555",
@@ -815,7 +837,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795085850,
-   "photo": null
+   "photo": "photos/MKE_PERRY_JUANIA_648391.jpg"
   },
   {
    "key": "TREM_THOMPSON_JARROD_4677",
@@ -870,7 +892,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795076844,
-   "photo": null
+   "photo": "photos/MKE_BALBOA_FELICIANO_397213.jpg"
   },
   {
    "key": "MKE_FERRIS_MARY_637367",
@@ -892,7 +914,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795075045,
-   "photo": null
+   "photo": "photos/MKE_HATTEN_NICHOLAS_291450.jpg"
   },
   {
    "key": "MKE_HUGHES_CHANCEY_648390",
@@ -5139,39 +5161,6 @@
    "more": 1,
    "ts": 1794851241,
    "photo": "photos/DRIVER_DARIUS_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_RODRIGUEZ_ANGELA_608824",
-   "name": "Angela Guadalupe Rodriguez",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Throw/Discharge Bodily Fluid at Public Safety Worker or Prosecutor",
-   "more": 1,
-   "ts": 1794850070,
-   "photo": "photos/MKE_RODRIGUEZ_ANGELA_608824.jpg"
-  },
-  {
-   "key": "MKE_WARD_TYRUS_610869",
-   "name": "Tyrus Anthony Ward",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794850068,
-   "photo": "photos/MKE_WARD_TYRUS_610869.jpg"
-  },
-  {
-   "key": "FDL_KNAPP_CALLIE_2026-11-16",
-   "name": "Callie Jo Knapp",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession of THC - 2nd and Subsequent",
-   "more": 1,
-   "ts": 1794849380,
-   "photo": "photos/FDL_KNAPP_CALLIE_2026-11-16.jpg"
   }
  ]
 }
