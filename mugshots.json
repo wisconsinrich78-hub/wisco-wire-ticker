@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T17:49:26+00:00",
+ "updated": "2026-11-19T18:09:00+00:00",
  "items": [
+  {
+   "key": "MAR_THAO_JAMES_2026-11-19",
+   "name": "James Alie Thao",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt/Ct-Limitation on Imprisonment",
+   "more": 0,
+   "ts": 1795110812,
+   "photo": "photos/MAR_THAO_JAMES_2026-11-19.jpg"
+  },
   {
    "key": "BENKA_EDWARD_2026-11-19",
    "name": "Edward J Benka",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795034829,
    "photo": null
-  },
-  {
-   "key": "FDL_ROBINS_CANDYCE_2026-11-18",
-   "name": "Candyce Risetta Robins",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795032992,
-   "photo": "photos/FDL_ROBINS_CANDYCE_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_THAO_JAMES_2026-11-19",
+   "name": "James Alie Thao",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt/Ct-Limitation on Imprisonment",
+   "more": 0,
+   "ts": 1795110812,
+   "photo": "photos/MAR_THAO_JAMES_2026-11-19.jpg"
+  },
   {
    "key": "BENKA_EDWARD_2026-11-19",
    "name": "Edward J Benka",
@@ -768,7 +779,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 3,
    "ts": 1795091251,
    "photo": null
@@ -779,7 +790,7 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Disorderly Conduct",
    "more": 4,
    "ts": 1795087648,
    "photo": null
@@ -5073,61 +5084,6 @@
    "more": 1,
    "ts": 1794852987,
    "photo": "photos/FDL_PIRTLE_MARCUS_2026-11-16.jpg"
-  },
-  {
-   "key": "KEN_HIGGINBOTTOM_OSCAR_2026-00006336",
-   "name": "Oscar Oneal Higginbottom",
-   "age": "54",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794851791,
-   "photo": "photos/KEN_HIGGINBOTTOM_OSCAR_2026-00006336.jpg"
-  },
-  {
-   "key": "KEN_HERNANDEZ_KALUSHA_2026-00006337",
-   "name": "Kalusha Omar Hernandez",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794851719,
-   "photo": "photos/KEN_HERNANDEZ_KALUSHA_2026-00006337.jpg"
-  },
-  {
-   "key": "MAR_ZYDZIK_ANTHONY_2026-11-16",
-   "name": "Anthony Lee Zydzik",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794851673,
-   "photo": "photos/MAR_ZYDZIK_ANTHONY_2026-11-16.jpg"
-  },
-  {
-   "key": "KEN_ARROYO_VICTOR_2026-00006338",
-   "name": "VICTOR MANUEL Junior ARROYO",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794851643,
-   "photo": "photos/KEN_ARROYO_VICTOR_2026-00006338.jpg"
-  },
-  {
-   "key": "MAR_HATLEBACK_KEEGAN_2026-11-16",
-   "name": "Keegan Mark Hatleback",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794851635,
-   "photo": "photos/MAR_HATLEBACK_KEEGAN_2026-11-16.jpg"
   }
  ]
 }
