@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T08:37:07+00:00",
+ "updated": "2026-11-19T09:36:36+00:00",
  "items": [
+  {
+   "key": "MKE_COOPER_DENESHA_604204",
+   "name": "Denesha S Cooper",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795080447,
+   "photo": null
+  },
   {
    "key": "MKE_CLINCY_TIMOTHY_371969",
    "name": "Timothy Ramon Clincy",
@@ -176,17 +187,6 @@
    "more": 1,
    "ts": 1795068098,
    "photo": "photos/KEN_KIDD_CALVIN_2026-00006392.jpg"
-  },
-  {
-   "key": "KEN_HILL_SHERMAN_2026-00006398",
-   "name": "Sherman Tm Hill",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Misd",
-   "more": 2,
-   "ts": 1795068021,
-   "photo": "photos/KEN_HILL_SHERMAN_2026-00006398.jpg"
   },
   {
    "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_COOPER_DENESHA_604204",
+   "name": "Denesha S Cooper",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795080447,
+   "photo": null
+  },
+  {
    "key": "MKE_CLINCY_TIMOTHY_371969",
    "name": "Timothy Ramon Clincy",
    "age": "44",
@@ -771,7 +782,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1795066063,
-   "photo": null
+   "photo": "photos/MKE_BROWN_DARNELL_340917.jpg"
   },
   {
    "key": "MKE_TAYLOR_CURTIS_341691",
@@ -966,7 +977,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 20,
    "ts": 1795055265,
    "photo": null
@@ -5227,17 +5238,6 @@
    "more": 0,
    "ts": 1794822501,
    "photo": "photos/RC_GREEN_JAMES_120011076310065.jpg"
-  },
-  {
-   "key": "MAR_THUNDERCLOUD_ROGER_2026-11-16",
-   "name": "Roger Alan Thundercloud",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1794819263,
-   "photo": "photos/MAR_THUNDERCLOUD_ROGER_2026-11-16.jpg"
   }
  ]
 }
