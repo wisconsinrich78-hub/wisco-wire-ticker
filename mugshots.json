@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T06:49:29+00:00",
+ "updated": "2026-11-19T07:00:58+00:00",
  "items": [
+  {
+   "key": "MKE_FULLER_PAMELA_648387",
+   "name": "Pamela Joanny Fuller",
+   "age": "61",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795071449,
+   "photo": null
+  },
+  {
+   "key": "MKE_CALDWELL_CHARLES_648388",
+   "name": "Charles R Caldwell",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795071448,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTIN_ALAYSHIANNA_648389",
+   "name": "Alayshianna Martin",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795071446,
+   "photo": null
+  },
   {
    "key": "MKE_HAMDAN_HAMDAN_648386",
    "name": "Hamdan Hamdan",
@@ -175,39 +208,6 @@
    "charge": "Criminal Damage to Property",
    "more": 0,
    "ts": 1795065387,
-   "photo": null
-  },
-  {
-   "key": "MKE_SHERROD_MARVIN_360371",
-   "name": "Marvin A Sherrod",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795064259,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARTAGENA_MICHAEL_411250",
-   "name": "Michael Angelo Cartagena",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795060656,
-   "photo": null
-  },
-  {
-   "key": "MKE_HILSON_LAKEVONTAY_638658",
-   "name": "Lakevontay Leprentis Hilson",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 15,
-   "ts": 1795060654,
    "photo": null
   },
   {
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_FULLER_PAMELA_648387",
+   "name": "Pamela Joanny Fuller",
+   "age": "61",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795071449,
+   "photo": null
+  },
+  {
+   "key": "MKE_CALDWELL_CHARLES_648388",
+   "name": "Charles R Caldwell",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795071448,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTIN_ALAYSHIANNA_648389",
+   "name": "Alayshianna Martin",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795071446,
+   "photo": null
+  },
   {
    "key": "MKE_HAMDAN_HAMDAN_648386",
    "name": "Hamdan Hamdan",
@@ -1233,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795039077,
-   "photo": null
+   "photo": "photos/MKE_CEBALLOSMALDONADO_KEVIN_648381.jpg"
   },
   {
    "key": "KEN_ARMSTRONG_ARTAVIA_2026-00006389",
@@ -5205,39 +5238,6 @@
    "more": 0,
    "ts": 1794813360,
    "photo": "photos/FDL_BANDS_TONEEKA_2026-11-16.jpg"
-  },
-  {
-   "key": "KEN_JELKS_LATRICE_2026-00006329",
-   "name": "Latrice Roche Jelks",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Conceal (<=$500)",
-   "more": 2,
-   "ts": 1794812371,
-   "photo": "photos/KEN_JELKS_LATRICE_2026-00006329.jpg"
-  },
-  {
-   "key": "MKE_SEGARRAFLORES_FREDDIE_626639",
-   "name": "Freddie Segarra- Flores",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794812251,
-   "photo": "photos/MKE_SEGARRAFLORES_FREDDIE_626639.jpg"
-  },
-  {
-   "key": "MAR_URBAN_ADAM_2026-11-15_15582501",
-   "name": "Adam John Urban",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794812063,
-   "photo": "photos/MAR_URBAN_ADAM_2026-11-15_15582501.jpg"
   }
  ]
 }
