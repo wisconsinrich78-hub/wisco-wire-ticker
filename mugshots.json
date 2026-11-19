@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T07:35:47+00:00",
+ "updated": "2026-11-19T07:49:30+00:00",
  "items": [
+  {
+   "key": "RC_TOTES_DAVID_120011076410933",
+   "name": "David Kevin Totes",
+   "age": "57",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795074464,
+   "photo": "photos/RC_TOTES_DAVID_120011076410933.jpg"
+  },
   {
    "key": "FDL_TOELLNER_HEATHER_2026-11-19",
    "name": "Heather Grace Toellner",
@@ -197,17 +208,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795066059,
-   "photo": null
-  },
-  {
-   "key": "MKE_EICHELBERGER_BRIAN_538741",
-   "name": "Brian Eichelberger",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795066057,
    "photo": null
   },
   {
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_TOTES_DAVID_120011076410933",
+   "name": "David Kevin Totes",
+   "age": "57",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795074464,
+   "photo": "photos/RC_TOTES_DAVID_120011076410933.jpg"
+  },
   {
    "key": "FDL_TOELLNER_HEATHER_2026-11-19",
    "name": "Heather Grace Toellner",
@@ -5227,17 +5238,6 @@
    "more": 0,
    "ts": 1794815822,
    "photo": "photos/KEN_HAYGOOD_SHAKEIA_2026-00006330.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_MYKQUEON_120011076308114",
-   "name": "Mykqueon M Johnson",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794815295,
-   "photo": "photos/RC_JOHNSON_MYKQUEON_120011076308114.jpg"
   }
  ]
 }
