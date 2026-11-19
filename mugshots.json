@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-19T19:08:42+00:00",
+ "updated": "2026-11-19T19:38:24+00:00",
  "items": [
+  {
+   "key": "KEN_DEBARTELO_JEREMY_2026-00006401",
+   "name": "Jeremy Dean Debartelo",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795117067,
+   "photo": "photos/KEN_DEBARTELO_JEREMY_2026-00006401.jpg"
+  },
+  {
+   "key": "KEN_COVELLI_RYAN_2026-00006402",
+   "name": "Ryan Arthur Covelli",
+   "age": "51",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Sex Offender-Fail/Update Information (Fel)",
+   "more": 1,
+   "ts": 1795116943,
+   "photo": "photos/KEN_COVELLI_RYAN_2026-00006402.jpg"
+  },
+  {
+   "key": "KEN_CICCHINI_STEPHEN_2026-00006405",
+   "name": "Stephen Joseph Cicchini",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 1,
+   "ts": 1795116877,
+   "photo": "photos/KEN_CICCHINI_STEPHEN_2026-00006405.jpg"
+  },
+  {
+   "key": "KEN_BROWN_TREMELL_2026-00006404",
+   "name": "Tremell Brown",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1795116813,
+   "photo": "photos/KEN_BROWN_TREMELL_2026-00006404.jpg"
+  },
+  {
+   "key": "FDL_HAYS_SAMANTHA_2026-11-19",
+   "name": "Samantha Lynn Hays",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795115774,
+   "photo": "photos/FDL_HAYS_SAMANTHA_2026-11-19.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_TYVON_541431",
    "name": "Tyvon Deshawn Williams",
@@ -211,28 +266,6 @@
    "photo": "photos/RC_GONZALEZ_MARCOS_120011076420180.jpg"
   },
   {
-   "key": "RC_GAZDECKI_GREGORY_120011076420375",
-   "name": "Gregory Michael Gazdecki",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence (3rd)",
-   "more": 0,
-   "ts": 1795106876,
-   "photo": "photos/RC_GAZDECKI_GREGORY_120011076420375.jpg"
-  },
-  {
-   "key": "RC_MARCOTTE_PETER_120011076422799",
-   "name": "Peter M Marcotte",
-   "age": "61",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795106873,
-   "photo": "photos/RC_MARCOTTE_PETER_120011076422799.jpg"
-  },
-  {
    "key": "LASTER_BOOKER_2026-11-19",
    "name": "Booker T Laster",
    "age": "50",
@@ -241,28 +274,6 @@
    "charge": "",
    "more": 0,
    "ts": 1795104376,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVIS_BRITTANY_515908",
-   "name": "Brittany D Davis",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1795103856,
-   "photo": null
-  },
-  {
-   "key": "MKE_BURTON_BARBARA_648395",
-   "name": "Barbara Schenelle Burton",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795103854,
    "photo": null
   },
   {
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1795036576,
    "photo": "photos/FDL_FISHERKRAHN_NANETTE_2026-11-18.jpg"
-  },
-  {
-   "key": "POTARACKE_CODY_2026-11-18",
-   "name": "Cody J Potaracke",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operate Comm Veh W/O License-Wi Resident",
-   "more": 0,
-   "ts": 1795034829,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_DEBARTELO_JEREMY_2026-00006401",
+   "name": "Jeremy Dean Debartelo",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795117067,
+   "photo": "photos/KEN_DEBARTELO_JEREMY_2026-00006401.jpg"
+  },
+  {
+   "key": "KEN_COVELLI_RYAN_2026-00006402",
+   "name": "Ryan Arthur Covelli",
+   "age": "51",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Sex Offender-Fail/Update Information (Fel)",
+   "more": 1,
+   "ts": 1795116943,
+   "photo": "photos/KEN_COVELLI_RYAN_2026-00006402.jpg"
+  },
+  {
+   "key": "KEN_CICCHINI_STEPHEN_2026-00006405",
+   "name": "Stephen Joseph Cicchini",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 1,
+   "ts": 1795116877,
+   "photo": "photos/KEN_CICCHINI_STEPHEN_2026-00006405.jpg"
+  },
+  {
+   "key": "KEN_BROWN_TREMELL_2026-00006404",
+   "name": "Tremell Brown",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1795116813,
+   "photo": "photos/KEN_BROWN_TREMELL_2026-00006404.jpg"
+  },
+  {
+   "key": "FDL_HAYS_SAMANTHA_2026-11-19",
+   "name": "Samantha Lynn Hays",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795115774,
+   "photo": "photos/FDL_HAYS_SAMANTHA_2026-11-19.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_TYVON_541431",
    "name": "Tyvon Deshawn Williams",
@@ -958,7 +1013,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 4,
    "ts": 1795087648,
-   "photo": null
+   "photo": "photos/MKE_PENDELTON_MARQUIS_527036.jpg"
   },
   {
    "key": "MKE_RECINOS_MARTHA_648392",
@@ -5138,17 +5193,6 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1794858438,
-   "photo": null
-  },
-  {
-   "key": "STETTER_BRONWYN_2026-11-16",
-   "name": "Bronwyn Rachel Stetter",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 0,
-   "ts": 1794857223,
    "photo": null
   }
  ]
