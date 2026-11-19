@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:49:29+00:00",
+ "updated": "2026-11-19T17:11:56+00:00",
  "items": [
   {
    "key": "RC_GONZALEZ_MARCOS_120011076420180",
@@ -746,7 +746,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Bail Jumping-Felony",
    "more": 3,
    "ts": 1795091251,
    "photo": null
@@ -757,7 +757,7 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Bail Jumping-Felony",
    "more": 4,
    "ts": 1795087648,
    "photo": null
@@ -801,10 +801,10 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Carry Concealed Weapon",
    "more": 5,
    "ts": 1795085851,
-   "photo": null
+   "photo": "photos/MKE_WOODSON_DWAYNE_609555.jpg"
   },
   {
    "key": "MKE_PERRY_JUANIA_648391",
@@ -1123,7 +1123,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795066057,
-   "photo": null
+   "photo": "photos/MKE_EICHELBERGER_BRIAN_538741.jpg"
   },
   {
    "key": "FDL_MCCABE_ZACHARY_2026-11-18",
@@ -5172,28 +5172,6 @@
    "more": 1,
    "ts": 1794849380,
    "photo": "photos/FDL_KNAPP_CALLIE_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_FINLEY_JAMARION_619834",
-   "name": "Jamarion Douglas Finley",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 8,
-   "ts": 1794848305,
-   "photo": "photos/MKE_FINLEY_JAMARION_619834.jpg"
-  },
-  {
-   "key": "MKE_DELGADOBANKS_JAHSIER_640764",
-   "name": "Jahsier A Delgado-Banks",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 5,
-   "ts": 1794848302,
-   "photo": "photos/MKE_DELGADOBANKS_JAHSIER_640764.jpg"
   }
  ]
 }
