@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-19T03:46:21+00:00",
+ "updated": "2026-11-19T04:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_CARTAGENA_MICHAEL_411250",
+   "name": "Michael Angelo Cartagena",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795060656,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILSON_LAKEVONTAY_638658",
+   "name": "Lakevontay Leprentis Hilson",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 14,
+   "ts": 1795060654,
+   "photo": null
+  },
+  {
+   "key": "MKE_PRICE_TYQUAWN_648385",
+   "name": "Tyquawn T Price",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795060652,
+   "photo": null
+  },
+  {
+   "key": "MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807",
+   "name": "Shane Western Holster-Gardner",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 1,
+   "ts": 1795060423,
+   "photo": "photos/MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807.jpg"
+  },
   {
    "key": "MKE_WHETZEL_JACOB_388493",
    "name": "Jacob Robert Whetzel",
@@ -29,7 +73,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Habitual Criminality",
    "more": 8,
    "ts": 1795058862,
    "photo": null
@@ -95,7 +139,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
    "more": 20,
    "ts": 1795055265,
    "photo": null
@@ -197,40 +241,7 @@
    "charge": "Charges Pending",
    "more": 7,
    "ts": 1795049864,
-   "photo": null
-  },
-  {
-   "key": "MKE_TOLBERT_BRANDON_601689",
-   "name": "Brandon Anthony Tolbert",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795049862,
-   "photo": null
-  },
-  {
-   "key": "MKE_SANDOVAL_JONATHAN_624072",
-   "name": "Jonathan Sandoval",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1795049860,
-   "photo": null
-  },
-  {
-   "key": "MKE_TROTTER_SHAQUILLE_629290",
-   "name": "Shaquille O Trotter",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 1,
-   "ts": 1795049858,
-   "photo": "photos/MKE_TROTTER_SHAQUILLE_629290.jpg"
+   "photo": "photos/MKE_SMITH_TYRONE_379072.jpg"
   },
   {
    "key": "DOU_MCMILLIAN_DWIGHT_2026-11-18",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1794998842,
    "photo": "photos/TREM_ROGERS_ORION_4049.jpg"
-  },
-  {
-   "key": "TREM_DAY_SETH_5572",
-   "name": "Seth Hansford Day",
-   "age": "25",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Mayhem",
-   "more": 2,
-   "ts": 1794998840,
-   "photo": "photos/TREM_DAY_SETH_5572.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CARTAGENA_MICHAEL_411250",
+   "name": "Michael Angelo Cartagena",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795060656,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILSON_LAKEVONTAY_638658",
+   "name": "Lakevontay Leprentis Hilson",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 14,
+   "ts": 1795060654,
+   "photo": null
+  },
+  {
+   "key": "MKE_PRICE_TYQUAWN_648385",
+   "name": "Tyquawn T Price",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795060652,
+   "photo": null
+  },
+  {
+   "key": "MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807",
+   "name": "Shane Western Holster-Gardner",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Intentionally Take",
+   "more": 1,
+   "ts": 1795060423,
+   "photo": "photos/MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807.jpg"
+  },
   {
    "key": "MKE_WHETZEL_JACOB_388493",
    "name": "Jacob Robert Whetzel",
@@ -559,7 +603,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Habitual Criminality",
    "more": 8,
    "ts": 1795058862,
    "photo": null
@@ -625,7 +669,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "charge": "Possess w/Intent-Cocaine (>1-5g)",
    "more": 20,
    "ts": 1795055265,
    "photo": null
@@ -727,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 7,
    "ts": 1795049864,
-   "photo": null
+   "photo": "photos/MKE_SMITH_TYRONE_379072.jpg"
   },
   {
    "key": "MKE_TOLBERT_BRANDON_601689",
@@ -991,7 +1035,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795039079,
-   "photo": null
+   "photo": "photos/MKE_SANCHEZ_DAVID_516063.jpg"
   },
   {
    "key": "MKE_CEBALLOSMALDONADO_KEVIN_648381",
@@ -5194,72 +5238,6 @@
    "more": 2,
    "ts": 1794804799,
    "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-15_547918.jpg"
-  },
-  {
-   "key": "RC_SHELBY_BOBBY_120011076305417",
-   "name": "Bobby Jeval Shelby",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794804495,
-   "photo": "photos/RC_SHELBY_BOBBY_120011076305417.jpg"
-  },
-  {
-   "key": "DOU_HOVDE_RACHEL_2026-11-15",
-   "name": "Rachel E Hovde",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "OWI Alcohol or Drugs",
-   "more": 0,
-   "ts": 1794803324,
-   "photo": "photos/DOU_HOVDE_RACHEL_2026-11-15.jpg"
-  },
-  {
-   "key": "FDL_HUTH_RACHEAL_2026-11-15",
-   "name": "Racheal Louise Huth",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1794802579,
-   "photo": "photos/FDL_HUTH_RACHEAL_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_WILKINS_DAVION_607593",
-   "name": "Davion Demetri Wilkins",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794801467,
-   "photo": "photos/MKE_WILKINS_DAVION_607593.jpg"
-  },
-  {
-   "key": "MKE_GREEN_NASIR_648325",
-   "name": "Nasir El-farad Green",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794801465,
-   "photo": "photos/MKE_GREEN_NASIR_648325.jpg"
-  },
-  {
-   "key": "KEN_FALCONE_JOSEPH_2026-00006328",
-   "name": "Joseph Anthony Falcone",
-   "age": "21",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Non-Registration of Vehicle",
-   "more": 2,
-   "ts": 1794801176,
-   "photo": null
   }
  ]
 }
