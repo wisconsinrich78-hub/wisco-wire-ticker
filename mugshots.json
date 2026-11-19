@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T12:36:42+00:00",
+ "updated": "2026-11-19T12:49:25+00:00",
  "items": [
+  {
+   "key": "RC_NEAL_BRANDON_120011076413831",
+   "name": "Brandon Deontae Neal",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795092471,
+   "photo": "photos/RC_NEAL_BRANDON_120011076413831.jpg"
+  },
   {
    "key": "MKE_ROJAS_EDDY_531983",
    "name": "Eddy Martin Rojas",
@@ -198,17 +209,6 @@
    "more": 0,
    "ts": 1795072596,
    "photo": "photos/FDL_TOELLNER_HEATHER_2026-11-19.jpg"
-  },
-  {
-   "key": "MKE_FULLER_PAMELA_648387",
-   "name": "Pamela Joanny Fuller",
-   "age": "61",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795071449,
-   "photo": "photos/MKE_FULLER_PAMELA_648387.jpg"
   },
   {
    "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_NEAL_BRANDON_120011076413831",
+   "name": "Brandon Deontae Neal",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795092471,
+   "photo": "photos/RC_NEAL_BRANDON_120011076413831.jpg"
+  },
   {
    "key": "MKE_ROJAS_EDDY_531983",
    "name": "Eddy Martin Rojas",
