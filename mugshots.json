@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-19T05:49:29+00:00",
+ "updated": "2026-11-19T06:11:12+00:00",
  "items": [
+  {
+   "key": "KEN_STONER_WILLIAM_2026-00006396",
+   "name": "WILLIAM MARK Second STONER",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "OWI (1st W/Passenger <16 Years Old)",
+   "more": 1,
+   "ts": 1795068404,
+   "photo": "photos/KEN_STONER_WILLIAM_2026-00006396.jpg"
+  },
+  {
+   "key": "KEN_MATHIS_TERRENCE_2026-00006393",
+   "name": "TERRENCE VAUGHN Junior MATHIS",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "1st Deg. Child Sex Assault-Sex Cont W/Person Under Age of 13",
+   "more": 4,
+   "ts": 1795068331,
+   "photo": "photos/KEN_MATHIS_TERRENCE_2026-00006393.jpg"
+  },
+  {
+   "key": "KEN_KNAPP_KRISAN_2026-00006394",
+   "name": "Krisan Marjorie Knapp",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1795068254,
+   "photo": "photos/KEN_KNAPP_KRISAN_2026-00006394.jpg"
+  },
+  {
+   "key": "KEN_KILLIPS_DASHANIQUE_2026-00006395",
+   "name": "Dashanique Aleshae Killips",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795068176,
+   "photo": "photos/KEN_KILLIPS_DASHANIQUE_2026-00006395.jpg"
+  },
+  {
+   "key": "KEN_KIDD_CALVIN_2026-00006392",
+   "name": "Calvin Kidd",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 1,
+   "ts": 1795068098,
+   "photo": "photos/KEN_KIDD_CALVIN_2026-00006392.jpg"
+  },
+  {
+   "key": "KEN_HILL_SHERMAN_2026-00006398",
+   "name": "Sherman Tm Hill",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795068021,
+   "photo": "photos/KEN_HILL_SHERMAN_2026-00006398.jpg"
+  },
+  {
+   "key": "KEN_BRAND_CRAIG_2026-00006397",
+   "name": "Craig Allen Brand",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Carrying a Concealed Knife",
+   "more": 2,
+   "ts": 1795067947,
+   "photo": "photos/KEN_BRAND_CRAIG_2026-00006397.jpg"
+  },
+  {
+   "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
+   "name": "Alex Ray Floyd",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795067656,
+   "photo": "photos/MAR_FLOYD_ALEX_2026-11-18_15151905.jpg"
+  },
+  {
+   "key": "MAR_MCDUFFY_DION_2026-11-18",
+   "name": "Dion Dwight Mcduffy",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage to Property",
+   "more": 5,
+   "ts": 1795067611,
+   "photo": "photos/MAR_MCDUFFY_DION_2026-11-18.jpg"
+  },
   {
    "key": "MKE_LECHUGA_FERNANDO_294142",
    "name": "Fernando Lechuga",
@@ -123,50 +222,6 @@
    "photo": "photos/MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807.jpg"
   },
   {
-   "key": "MKE_WHETZEL_JACOB_388493",
-   "name": "Jacob Robert Whetzel",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 1,
-   "ts": 1795058866,
-   "photo": null
-  },
-  {
-   "key": "MKE_WARD_QUINTON_602077",
-   "name": "Quinton Dalon Ward",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 4,
-   "ts": 1795058864,
-   "photo": "photos/MKE_WARD_QUINTON_602077.jpg"
-  },
-  {
-   "key": "MKE_DUNBAR_DETERRION_602398",
-   "name": "Deterrion A Dunbar",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 8,
-   "ts": 1795058862,
-   "photo": null
-  },
-  {
-   "key": "MKE_BRADLEY_LANAIJHA_648384",
-   "name": "Lanaijha Yvonne Bradley",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 0,
-   "ts": 1795058860,
-   "photo": null
-  },
-  {
    "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18_16926802",
    "name": "Alexandro Del Valle Rivera",
    "age": "46",
@@ -198,39 +253,6 @@
    "more": 1,
    "ts": 1795056798,
    "photo": "photos/MAR_RHODE_JOSHUA_2026-11-18_3122804.jpg"
-  },
-  {
-   "key": "MKE_LAERIANORIOS_VICTOR_342528",
-   "name": "Victor Manuel Laeriano-rios",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795055267,
-   "photo": null
-  },
-  {
-   "key": "MKE_HALL_DERRICK_539131",
-   "name": "Derrick E Hall",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
-   "more": 20,
-   "ts": 1795055265,
-   "photo": null
-  },
-  {
-   "key": "MKE_THUNDERCLOUD_ROGER_641499",
-   "name": "Roger A Thundercloud",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1795055263,
-   "photo": null
   },
   {
    "key": "MAR_RHODE_JOSHUA_2026-11-18",
@@ -453,17 +475,6 @@
    "photo": "photos/MAR_LORBECKE_GAVIN_2026-11-17_1280714.jpg"
   },
   {
-   "key": "MAR_MILLER_THOMAS_2026-11-18",
-   "name": "Thomas Miller",
-   "age": "43",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1795024432,
-   "photo": "photos/MAR_MILLER_THOMAS_2026-11-18.jpg"
-  },
-  {
    "key": "FDL_SAVAGE_DESTINY_2026-11-18",
    "name": "Destiny Joy Savage",
    "age": "",
@@ -497,17 +508,6 @@
    "photo": "photos/FDL_DROSSART_DANIELLE_2026-11-18.jpg"
   },
   {
-   "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18",
-   "name": "Alexandro Del Valle Rivera",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1795013617,
-   "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18.jpg"
-  },
-  {
    "key": "SUHR_ALYSHA_2026-11-18",
    "name": "Alysha Kay Suhr",
    "age": "44",
@@ -531,6 +531,105 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_STONER_WILLIAM_2026-00006396",
+   "name": "WILLIAM MARK Second STONER",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "OWI (1st W/Passenger <16 Years Old)",
+   "more": 1,
+   "ts": 1795068404,
+   "photo": "photos/KEN_STONER_WILLIAM_2026-00006396.jpg"
+  },
+  {
+   "key": "KEN_MATHIS_TERRENCE_2026-00006393",
+   "name": "TERRENCE VAUGHN Junior MATHIS",
+   "age": "39",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "1st Deg. Child Sex Assault-Sex Cont W/Person Under Age of 13",
+   "more": 4,
+   "ts": 1795068331,
+   "photo": "photos/KEN_MATHIS_TERRENCE_2026-00006393.jpg"
+  },
+  {
+   "key": "KEN_KNAPP_KRISAN_2026-00006394",
+   "name": "Krisan Marjorie Knapp",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1795068254,
+   "photo": "photos/KEN_KNAPP_KRISAN_2026-00006394.jpg"
+  },
+  {
+   "key": "KEN_KILLIPS_DASHANIQUE_2026-00006395",
+   "name": "Dashanique Aleshae Killips",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795068176,
+   "photo": "photos/KEN_KILLIPS_DASHANIQUE_2026-00006395.jpg"
+  },
+  {
+   "key": "KEN_KIDD_CALVIN_2026-00006392",
+   "name": "Calvin Kidd",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 1,
+   "ts": 1795068098,
+   "photo": "photos/KEN_KIDD_CALVIN_2026-00006392.jpg"
+  },
+  {
+   "key": "KEN_HILL_SHERMAN_2026-00006398",
+   "name": "Sherman Tm Hill",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795068021,
+   "photo": "photos/KEN_HILL_SHERMAN_2026-00006398.jpg"
+  },
+  {
+   "key": "KEN_BRAND_CRAIG_2026-00006397",
+   "name": "Craig Allen Brand",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Carrying a Concealed Knife",
+   "more": 2,
+   "ts": 1795067947,
+   "photo": "photos/KEN_BRAND_CRAIG_2026-00006397.jpg"
+  },
+  {
+   "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
+   "name": "Alex Ray Floyd",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795067656,
+   "photo": "photos/MAR_FLOYD_ALEX_2026-11-18_15151905.jpg"
+  },
+  {
+   "key": "MAR_MCDUFFY_DION_2026-11-18",
+   "name": "Dion Dwight Mcduffy",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Criminal Damage to Property",
+   "more": 5,
+   "ts": 1795067611,
+   "photo": "photos/MAR_MCDUFFY_DION_2026-11-18.jpg"
+  },
   {
    "key": "MKE_LECHUGA_FERNANDO_294142",
    "name": "Fernando Lechuga",
@@ -5150,39 +5249,6 @@
    "more": 1,
    "ts": 1794810058,
    "photo": "photos/DOU_OTTERINO_VINCENT_2026-11-15.jpg"
-  },
-  {
-   "key": "MAR_DEBROUX_BRADY_2026-11-15",
-   "name": "Brady Andrew Debroux",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1794808475,
-   "photo": "photos/MAR_DEBROUX_BRADY_2026-11-15.jpg"
-  },
-  {
-   "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15",
-   "name": "Samuel Antonio-Toribio",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 3rd",
-   "more": 1,
-   "ts": 1794808437,
-   "photo": "photos/MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15.jpg"
-  },
-  {
-   "key": "MAR_MCKINNEY_FAYE_2026-11-15",
-   "name": "Faye Mckinney",
-   "age": "18",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794808402,
-   "photo": "photos/MAR_MCKINNEY_FAYE_2026-11-15.jpg"
   }
  ]
 }
