@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T13:49:26+00:00",
+ "updated": "2026-11-19T14:19:46+00:00",
  "items": [
+  {
+   "key": "FDL_CHRISTL_RICHARD_2026-11-19",
+   "name": "Richard Lee Christl",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795097767,
+   "photo": "photos/FDL_CHRISTL_RICHARD_2026-11-19.jpg"
+  },
+  {
+   "key": "RC_SOBBE_AUSTIN_120011076415065",
+   "name": "Austin James Sobbe",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly House",
+   "more": 0,
+   "ts": 1795097580,
+   "photo": "photos/RC_SOBBE_AUSTIN_120011076415065.jpg"
+  },
   {
    "key": "MKE_HAMPTON_MARQUES_624907",
    "name": "Marques Hampton",
@@ -186,17 +208,6 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795075045,
-   "photo": null
-  },
-  {
-   "key": "MKE_HUGHES_CHANCEY_648390",
-   "name": "Chancey Hughes",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795075043,
    "photo": null
   },
   {
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795022202,
    "photo": "photos/FDL_SAVAGE_DESTINY_2026-11-18.jpg"
-  },
-  {
-   "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
-   "name": "Christopher Darnell Jones",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 4,
-   "ts": 1795018577,
-   "photo": "photos/FDL_JONES_CHRISTOPHER_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_CHRISTL_RICHARD_2026-11-19",
+   "name": "Richard Lee Christl",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795097767,
+   "photo": "photos/FDL_CHRISTL_RICHARD_2026-11-19.jpg"
+  },
+  {
+   "key": "RC_SOBBE_AUSTIN_120011076415065",
+   "name": "Austin James Sobbe",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly House",
+   "more": 0,
+   "ts": 1795097580,
+   "photo": "photos/RC_SOBBE_AUSTIN_120011076415065.jpg"
+  },
   {
    "key": "MKE_HAMPTON_MARQUES_624907",
    "name": "Marques Hampton",
@@ -5172,72 +5194,6 @@
    "more": 0,
    "ts": 1794839253,
    "photo": "photos/MKE_TARLETON_TERRANCE_2066800.jpg"
-  },
-  {
-   "key": "MKE_CORNELIUS_ARMONO_346151",
-   "name": "Armono Macato Cornelius",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 5,
-   "ts": 1794837459,
-   "photo": "photos/MKE_CORNELIUS_ARMONO_346151.jpg"
-  },
-  {
-   "key": "MKE_UNDERWOOD_TYRIQUE_602587",
-   "name": "Tyrique Javon Underwood",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 2-5 Yrs)",
-   "more": 3,
-   "ts": 1794837456,
-   "photo": "photos/MKE_UNDERWOOD_TYRIQUE_602587.jpg"
-  },
-  {
-   "key": "MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203",
-   "name": "Samuel Antonio-Toribio",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 3rd",
-   "more": 1,
-   "ts": 1794837301,
-   "photo": "photos/MAR_ANTONIOTORIBIO_SAMUEL_2026-11-15_11207203.jpg"
-  },
-  {
-   "key": "KEN_BROWN_GARY_2026-00006332",
-   "name": "Gary Lee Brown",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 5,
-   "ts": 1794837273,
-   "photo": "photos/KEN_BROWN_GARY_2026-00006332.jpg"
-  },
-  {
-   "key": "MAR_TZINTZUN_RICARDO_2026-11-15_8146101",
-   "name": "Ricardo Ramon Tzintzun",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 2,
-   "ts": 1794837263,
-   "photo": null
-  },
-  {
-   "key": "MAR_YOUNG_PORSCHA_2026-11-16_225317",
-   "name": "Porscha Rae Young",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794837224,
-   "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16_225317.jpg"
   }
  ]
 }
