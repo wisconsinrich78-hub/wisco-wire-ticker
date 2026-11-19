@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:37:24+00:00",
+ "updated": "2026-11-19T17:49:26+00:00",
  "items": [
   {
    "key": "BENKA_EDWARD_2026-11-19",
@@ -40,7 +40,7 @@
    "age": "55",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under the Influence (3rd)",
    "more": 0,
    "ts": 1795106876,
    "photo": "photos/RC_GAZDECKI_GREGORY_120011076420375.jpg"
@@ -570,7 +570,7 @@
    "age": "55",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under the Influence (3rd)",
    "more": 0,
    "ts": 1795106876,
    "photo": "photos/RC_GAZDECKI_GREGORY_120011076420375.jpg"
@@ -5128,39 +5128,6 @@
    "more": 0,
    "ts": 1794851635,
    "photo": "photos/MAR_HATLEBACK_KEEGAN_2026-11-16.jpg"
-  },
-  {
-   "key": "RC_COX_JAVION_120011076321502",
-   "name": "Javion M Cox",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794851321,
-   "photo": "photos/RC_COX_JAVION_120011076321502.jpg"
-  },
-  {
-   "key": "RC_BROWN_NIKENDRA_120011076323046",
-   "name": "Nikendra Lynn Brown",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794851318,
-   "photo": "photos/RC_BROWN_NIKENDRA_120011076323046.jpg"
-  },
-  {
-   "key": "DRIVER_DARIUS_2026-11-16",
-   "name": "Darius D Driver",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794851241,
-   "photo": "photos/DRIVER_DARIUS_2026-11-16.jpg"
   }
  ]
 }
