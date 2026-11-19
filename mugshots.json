@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-19T07:49:30+00:00",
+ "updated": "2026-11-19T08:37:07+00:00",
  "items": [
+  {
+   "key": "MKE_CLINCY_TIMOTHY_371969",
+   "name": "Timothy Ramon Clincy",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 1,
+   "ts": 1795076845,
+   "photo": null
+  },
+  {
+   "key": "MKE_BALBOA_FELICIANO_397213",
+   "name": "Feliciano Brandon Balboa",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795076844,
+   "photo": null
+  },
+  {
+   "key": "MKE_FERRIS_MARY_637367",
+   "name": "Mary Hannah Ferris",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795076842,
+   "photo": null
+  },
+  {
+   "key": "MKE_HATTEN_NICHOLAS_291450",
+   "name": "Nicholas Terrell Hatten",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795075045,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUGHES_CHANCEY_648390",
+   "name": "Chancey Hughes",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795075043,
+   "photo": null
+  },
   {
    "key": "RC_TOTES_DAVID_120011076410933",
    "name": "David Kevin Totes",
@@ -51,8 +106,8 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1795071446,
    "photo": null
   },
@@ -62,8 +117,8 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1795069659,
    "photo": null
   },
@@ -128,21 +183,10 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Probation and Parole - Misd",
+   "more": 2,
    "ts": 1795068021,
    "photo": "photos/KEN_HILL_SHERMAN_2026-00006398.jpg"
-  },
-  {
-   "key": "KEN_BRAND_CRAIG_2026-00006397",
-   "name": "Craig Allen Brand",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Carrying a Concealed Knife",
-   "more": 2,
-   "ts": 1795067947,
-   "photo": "photos/KEN_BRAND_CRAIG_2026-00006397.jpg"
   },
   {
    "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
@@ -165,50 +209,6 @@
    "more": 5,
    "ts": 1795067611,
    "photo": "photos/MAR_MCDUFFY_DION_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_LECHUGA_FERNANDO_294142",
-   "name": "Fernando Lechuga",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795066064,
-   "photo": null
-  },
-  {
-   "key": "MKE_BROWN_DARNELL_340917",
-   "name": "Darnell Maurice Brown",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795066063,
-   "photo": null
-  },
-  {
-   "key": "MKE_TAYLOR_CURTIS_341691",
-   "name": "Curtis Roy Taylor",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795066061,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILBURN_WINSTON_370153",
-   "name": "Winston James Wilburn",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795066059,
-   "photo": null
   },
   {
    "key": "FDL_MCCABE_ZACHARY_2026-11-18",
@@ -532,6 +532,61 @@
  ],
  "all_items": [
   {
+   "key": "MKE_CLINCY_TIMOTHY_371969",
+   "name": "Timothy Ramon Clincy",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 1,
+   "ts": 1795076845,
+   "photo": null
+  },
+  {
+   "key": "MKE_BALBOA_FELICIANO_397213",
+   "name": "Feliciano Brandon Balboa",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795076844,
+   "photo": null
+  },
+  {
+   "key": "MKE_FERRIS_MARY_637367",
+   "name": "Mary Hannah Ferris",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795076842,
+   "photo": null
+  },
+  {
+   "key": "MKE_HATTEN_NICHOLAS_291450",
+   "name": "Nicholas Terrell Hatten",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795075045,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUGHES_CHANCEY_648390",
+   "name": "Chancey Hughes",
+   "age": "56",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795075043,
+   "photo": null
+  },
+  {
    "key": "RC_TOTES_DAVID_120011076410933",
    "name": "David Kevin Totes",
    "age": "57",
@@ -581,8 +636,8 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1795071446,
    "photo": null
   },
@@ -592,8 +647,8 @@
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1795069659,
    "photo": null
   },
@@ -658,8 +713,8 @@
    "age": "33",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Probation and Parole - Misd",
+   "more": 2,
    "ts": 1795068021,
    "photo": "photos/KEN_HILL_SHERMAN_2026-00006398.jpg"
   },
@@ -1167,7 +1222,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795042655,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ELIJAH_619165.jpg"
   },
   {
    "key": "MKE_WILLINGHAM_UMAR_648382",
@@ -1178,7 +1233,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795042653,
-   "photo": null
+   "photo": "photos/MKE_WILLINGHAM_UMAR_648382.jpg"
   },
   {
    "key": "MAR_HOLSTERGARDNER_SHANE_2026-11-18",
@@ -1354,7 +1409,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795037269,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_IESHA_354776.jpg"
   },
   {
    "key": "MKE_BRASHAW_EMMA_648380",
@@ -5183,61 +5238,6 @@
    "more": 0,
    "ts": 1794819263,
    "photo": "photos/MAR_THUNDERCLOUD_ROGER_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_GEE_TERRELL_282725",
-   "name": "Terrell Lorenzo Gee",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1794817650,
-   "photo": "photos/MKE_GEE_TERRELL_282725.jpg"
-  },
-  {
-   "key": "MKE_JONES_COREY_292035",
-   "name": "Corey D Jones",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794817649,
-   "photo": "photos/MKE_JONES_COREY_292035.jpg"
-  },
-  {
-   "key": "SERVAIS_BRENNA_2026-11-16",
-   "name": "Brenna N Servais",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794816407,
-   "photo": null
-  },
-  {
-   "key": "MKE_SHELTON_NATISHA_611535",
-   "name": "Natisha C Shelton",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794815855,
-   "photo": "photos/MKE_SHELTON_NATISHA_611535.jpg"
-  },
-  {
-   "key": "KEN_HAYGOOD_SHAKEIA_2026-00006330",
-   "name": "Shakeia Latorra Haygood",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out of County",
-   "more": 0,
-   "ts": 1794815822,
-   "photo": "photos/KEN_HAYGOOD_SHAKEIA_2026-00006330.jpg"
   }
  ]
 }
