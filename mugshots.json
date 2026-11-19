@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T15:49:28+00:00",
+ "updated": "2026-11-19T16:17:33+00:00",
  "items": [
+  {
+   "key": "LASTER_BOOKER_2026-11-19",
+   "name": "Booker T Laster",
+   "age": "50",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795104376,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_BRITTANY_515908",
+   "name": "Brittany D Davis",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1795103856,
+   "photo": null
+  },
+  {
+   "key": "MKE_BURTON_BARBARA_648395",
+   "name": "Barbara Schenelle Burton",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795103854,
+   "photo": null
+  },
   {
    "key": "RC_PORTER_TOBARUS_120011076418679",
    "name": "Tobarus Deon Porter",
@@ -62,8 +95,8 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st\u2026",
+   "more": 1,
    "ts": 1795102066,
    "photo": null
   },
@@ -87,7 +120,7 @@
    "charge": "OWI (1st)",
    "more": 2,
    "ts": 1795098456,
-   "photo": null
+   "photo": "photos/MKE_WILLIS_AARON_2061725.jpg"
   },
   {
    "key": "FDL_CHRISTL_RICHARD_2026-11-19",
@@ -150,7 +183,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 3,
    "ts": 1795091251,
    "photo": null
@@ -161,7 +194,7 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Disorderly Conduct",
    "more": 4,
    "ts": 1795087648,
    "photo": null
@@ -175,28 +208,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795087646,
-   "photo": null
-  },
-  {
-   "key": "MKE_EVANS_MARLON_648393",
-   "name": "Marlon C Evans",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 1,
-   "ts": 1795087644,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAYTON_TROY_648394",
-   "name": "Troy William Dayton",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795087643,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795025797,
    "photo": "photos/FDL_PICKART_NICHOLE_2026-11-18.jpg"
-  },
-  {
-   "key": "MAR_LORBECKE_GAVIN_2026-11-17_1280714",
-   "name": "Gavin Lee Lorbecke",
-   "age": "25",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795024482,
-   "photo": "photos/MAR_LORBECKE_GAVIN_2026-11-17_1280714.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "LASTER_BOOKER_2026-11-19",
+   "name": "Booker T Laster",
+   "age": "50",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795104376,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_BRITTANY_515908",
+   "name": "Brittany D Davis",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1795103856,
+   "photo": null
+  },
+  {
+   "key": "MKE_BURTON_BARBARA_648395",
+   "name": "Barbara Schenelle Burton",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795103854,
+   "photo": null
+  },
   {
    "key": "RC_PORTER_TOBARUS_120011076418679",
    "name": "Tobarus Deon Porter",
@@ -592,8 +625,8 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st\u2026",
+   "more": 1,
    "ts": 1795102066,
    "photo": null
   },
@@ -617,7 +650,7 @@
    "charge": "OWI (1st)",
    "more": 2,
    "ts": 1795098456,
-   "photo": null
+   "photo": "photos/MKE_WILLIS_AARON_2061725.jpg"
   },
   {
    "key": "FDL_CHRISTL_RICHARD_2026-11-19",
@@ -680,7 +713,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 3,
    "ts": 1795091251,
    "photo": null
@@ -691,7 +724,7 @@
    "age": "35",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Disorderly Conduct",
    "more": 4,
    "ts": 1795087648,
    "photo": null
@@ -782,7 +815,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795080447,
-   "photo": null
+   "photo": "photos/MKE_COOPER_DENESHA_604204.jpg"
   },
   {
    "key": "MKE_CLINCY_TIMOTHY_371969",
@@ -815,7 +848,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795076842,
-   "photo": null
+   "photo": "photos/MKE_FERRIS_MARY_637367.jpg"
   },
   {
    "key": "MKE_HATTEN_NICHOLAS_291450",
@@ -903,7 +936,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795069659,
-   "photo": null
+   "photo": "photos/MKE_HAMDAN_HAMDAN_648386.jpg"
   },
   {
    "key": "KEN_STONER_WILLIAM_2026-00006396",
@@ -1013,7 +1046,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795066064,
-   "photo": null
+   "photo": "photos/MKE_LECHUGA_FERNANDO_294142.jpg"
   },
   {
    "key": "MKE_BROWN_DARNELL_340917",
@@ -5139,28 +5172,6 @@
    "more": 0,
    "ts": 1794846426,
    "photo": null
-  },
-  {
-   "key": "MKE_MIX_GREGORY_640739",
-   "name": "Gregory K Mix",
-   "age": "69",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794844671,
-   "photo": "photos/MKE_MIX_GREGORY_640739.jpg"
-  },
-  {
-   "key": "KEN_JOHNSON_MYKQUEON_2026-00006333",
-   "name": "Mykqueon Mikai Johnson",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 0,
-   "ts": 1794844437,
-   "photo": "photos/KEN_JOHNSON_MYKQUEON_2026-00006333.jpg"
   }
  ]
 }
