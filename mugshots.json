@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-19T19:38:24+00:00",
+ "updated": "2026-11-19T19:49:28+00:00",
  "items": [
+  {
+   "key": "RC_KORTH_GJUAN_120011076427197",
+   "name": "Gjuan Korth",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795117681,
+   "photo": null
+  },
+  {
+   "key": "RC_WILLAMS_SHAQUILLE_120011076427384",
+   "name": "Shaquille Willams",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795117679,
+   "photo": null
+  },
+  {
+   "key": "KEN_SAMONIG_JASON_2026-00006403",
+   "name": "Jason Alan Samonig",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 2,
+   "ts": 1795117346,
+   "photo": "photos/KEN_SAMONIG_JASON_2026-00006403.jpg"
+  },
+  {
+   "key": "KEN_RICHARD_DAMISO_2026-00006399",
+   "name": "Damiso Ajau Richard",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 6,
+   "ts": 1795117275,
+   "photo": "photos/KEN_RICHARD_DAMISO_2026-00006399.jpg"
+  },
+  {
+   "key": "KEN_MILLS_KEITH_2026-00006406",
+   "name": "KEITH ALLEN Junior MILLS",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795117209,
+   "photo": "photos/KEN_MILLS_KEITH_2026-00006406.jpg"
+  },
+  {
+   "key": "KEN_HAMPTON_JAMES_2026-00006400",
+   "name": "James Michael Hampton",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Failure of Operator to Notify Police of Accident",
+   "more": 3,
+   "ts": 1795117137,
+   "photo": "photos/KEN_HAMPTON_JAMES_2026-00006400.jpg"
+  },
   {
    "key": "KEN_DEBARTELO_JEREMY_2026-00006401",
    "name": "Jeremy Dean Debartelo",
@@ -128,8 +194,8 @@
    "age": "21",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
+   "more": 2,
    "ts": 1795114097,
    "photo": null
   },
@@ -154,61 +220,6 @@
    "more": 0,
    "ts": 1795114090,
    "photo": null
-  },
-  {
-   "key": "RC_BEARD_JOSEPH_120011076427254",
-   "name": "Joseph Beard",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114088,
-   "photo": null
-  },
-  {
-   "key": "RC_WILLAMS_SHAKQUIIE_120011076427384",
-   "name": "Shakquiie Willams",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114085,
-   "photo": null
-  },
-  {
-   "key": "RC_MAHAN_AMANII_120011076427488",
-   "name": "Amanii Mahan",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114081,
-   "photo": null
-  },
-  {
-   "key": "MKE_NEWMAN_MICHAEL_600688",
-   "name": "Michael Christopher Newman",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795112863,
-   "photo": null
-  },
-  {
-   "key": "MKE_CLINCYBUTLER_AJONTAE_635375",
-   "name": "Ajontae Clincy-Butler",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1795112862,
-   "photo": "photos/MKE_CLINCYBUTLER_AJONTAE_635375.jpg"
   },
   {
    "key": "DOU_OMARY_RHONDA_2026-11-19",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1795109222,
    "photo": null
-  },
-  {
-   "key": "RC_GONZALEZ_MARCOS_120011076420180",
-   "name": "Marcos E Gonzalez",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating Without a License - 3rd or Subsequent Offense within 3 Years",
-   "more": 0,
-   "ts": 1795106878,
-   "photo": "photos/RC_GONZALEZ_MARCOS_120011076420180.jpg"
   },
   {
    "key": "LASTER_BOOKER_2026-11-19",
@@ -532,6 +532,72 @@
  ],
  "all_items": [
   {
+   "key": "RC_KORTH_GJUAN_120011076427197",
+   "name": "Gjuan Korth",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795117681,
+   "photo": null
+  },
+  {
+   "key": "RC_WILLAMS_SHAQUILLE_120011076427384",
+   "name": "Shaquille Willams",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795117679,
+   "photo": null
+  },
+  {
+   "key": "KEN_SAMONIG_JASON_2026-00006403",
+   "name": "Jason Alan Samonig",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 2,
+   "ts": 1795117346,
+   "photo": "photos/KEN_SAMONIG_JASON_2026-00006403.jpg"
+  },
+  {
+   "key": "KEN_RICHARD_DAMISO_2026-00006399",
+   "name": "Damiso Ajau Richard",
+   "age": "45",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 6,
+   "ts": 1795117275,
+   "photo": "photos/KEN_RICHARD_DAMISO_2026-00006399.jpg"
+  },
+  {
+   "key": "KEN_MILLS_KEITH_2026-00006406",
+   "name": "KEITH ALLEN Junior MILLS",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795117209,
+   "photo": "photos/KEN_MILLS_KEITH_2026-00006406.jpg"
+  },
+  {
+   "key": "KEN_HAMPTON_JAMES_2026-00006400",
+   "name": "James Michael Hampton",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Failure of Operator to Notify Police of Accident",
+   "more": 3,
+   "ts": 1795117137,
+   "photo": "photos/KEN_HAMPTON_JAMES_2026-00006400.jpg"
+  },
+  {
    "key": "KEN_DEBARTELO_JEREMY_2026-00006401",
    "name": "Jeremy Dean Debartelo",
    "age": "47",
@@ -658,8 +724,8 @@
    "age": "21",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
+   "more": 2,
    "ts": 1795114097,
    "photo": null
   },
@@ -915,17 +981,6 @@
    "more": 1,
    "ts": 1795102066,
    "photo": null
-  },
-  {
-   "key": "KEN_HAMPTON_JAMES_2026-00006400",
-   "name": "James Michael Hampton",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Failure of Operator to Notify Police of Accident",
-   "more": 3,
-   "ts": 1795100260,
-   "photo": "photos/KEN_HAMPTON_JAMES_2026-00006400.jpg"
   },
   {
    "key": "MKE_WILLIS_AARON_2061725",
@@ -5183,17 +5238,6 @@
    "more": 1,
    "ts": 1794859080,
    "photo": "photos/MKE_WILLIAMS_ROYSHAWN_648338.jpg"
-  },
-  {
-   "key": "KOWALKE_CHAD_2026-11-16",
-   "name": "Chad A Kowalke",
-   "age": "51",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794858438,
-   "photo": null
   }
  ]
 }
