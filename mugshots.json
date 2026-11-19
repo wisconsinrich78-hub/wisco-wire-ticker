@@ -1,14 +1,91 @@
 {
- "updated": "2026-11-19T04:49:27+00:00",
+ "updated": "2026-11-19T05:36:00+00:00",
  "items": [
+  {
+   "key": "MKE_LECHUGA_FERNANDO_294142",
+   "name": "Fernando Lechuga",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795066064,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_DARNELL_340917",
+   "name": "Darnell Maurice Brown",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795066063,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_CURTIS_341691",
+   "name": "Curtis Roy Taylor",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795066061,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILBURN_WINSTON_370153",
+   "name": "Winston James Wilburn",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795066059,
+   "photo": null
+  },
+  {
+   "key": "MKE_EICHELBERGER_BRIAN_538741",
+   "name": "Brian Eichelberger",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795066057,
+   "photo": null
+  },
+  {
+   "key": "FDL_MCCABE_ZACHARY_2026-11-18",
+   "name": "Zachary Lawrence Mccabe",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Criminal Damage to Property",
+   "more": 0,
+   "ts": 1795065387,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHERROD_MARVIN_360371",
+   "name": "Marvin A Sherrod",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795064259,
+   "photo": null
+  },
   {
    "key": "MKE_CARTAGENA_MICHAEL_411250",
    "name": "Michael Angelo Cartagena",
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1795060656,
    "photo": null
   },
@@ -19,7 +96,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 14,
+   "more": 15,
    "ts": 1795060654,
    "photo": null
   },
@@ -65,7 +142,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 4,
    "ts": 1795058864,
-   "photo": null
+   "photo": "photos/MKE_WARD_QUINTON_602077.jpg"
   },
   {
    "key": "MKE_DUNBAR_DETERRION_602398",
@@ -156,28 +233,6 @@
    "photo": null
   },
   {
-   "key": "MKE_NEWSON_NICHOLAS_510905",
-   "name": "Nicholas N Newson",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 0,
-   "ts": 1795053448,
-   "photo": null
-  },
-  {
-   "key": "MKE_TATE_RYLEN_633621",
-   "name": "Rylen Nayir Tate",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1795053447,
-   "photo": null
-  },
-  {
    "key": "MAR_RHODE_JOSHUA_2026-11-18",
    "name": "Joshua Bruce Rhode",
    "age": "44",
@@ -189,28 +244,6 @@
    "photo": "photos/MAR_RHODE_JOSHUA_2026-11-18.jpg"
   },
   {
-   "key": "RC_ZWAGA_ANGELO_120011076405020",
-   "name": "Angelo Scott Zwaga",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating a Motor Vehicle Without Motor Vehicle Liability Insurance",
-   "more": 2,
-   "ts": 1795052889,
-   "photo": "photos/RC_ZWAGA_ANGELO_120011076405020.jpg"
-  },
-  {
-   "key": "RC_BROWN_ANDREW_120011076405081",
-   "name": "Andrew Jonathan Brown",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795052886,
-   "photo": "photos/RC_BROWN_ANDREW_120011076405081.jpg"
-  },
-  {
    "key": "DOU_CENTORCELLI_MATTHEW_2026-11-18",
    "name": "Matthew Centorcelli",
    "age": "41",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1795051021,
    "photo": "photos/DOU_CENTORCELLI_MATTHEW_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_ROSS_OMAR_265283",
-   "name": "Omar Antoine Ross",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795049865,
-   "photo": null
-  },
-  {
-   "key": "MKE_SMITH_TYRONE_379072",
-   "name": "Tyrone Smith",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1795049864,
-   "photo": "photos/MKE_SMITH_TYRONE_379072.jpg"
   },
   {
    "key": "DOU_MCMILLIAN_DWIGHT_2026-11-18",
@@ -517,28 +528,94 @@
    "more": 6,
    "ts": 1795000732,
    "photo": null
-  },
-  {
-   "key": "TREM_ROGERS_ORION_4049",
-   "name": "Orion Christopher Rogers",
-   "age": "31",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794998842,
-   "photo": "photos/TREM_ROGERS_ORION_4049.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LECHUGA_FERNANDO_294142",
+   "name": "Fernando Lechuga",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795066064,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_DARNELL_340917",
+   "name": "Darnell Maurice Brown",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795066063,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_CURTIS_341691",
+   "name": "Curtis Roy Taylor",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795066061,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILBURN_WINSTON_370153",
+   "name": "Winston James Wilburn",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795066059,
+   "photo": null
+  },
+  {
+   "key": "MKE_EICHELBERGER_BRIAN_538741",
+   "name": "Brian Eichelberger",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795066057,
+   "photo": null
+  },
+  {
+   "key": "FDL_MCCABE_ZACHARY_2026-11-18",
+   "name": "Zachary Lawrence Mccabe",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Criminal Damage to Property",
+   "more": 0,
+   "ts": 1795065387,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHERROD_MARVIN_360371",
+   "name": "Marvin A Sherrod",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795064259,
+   "photo": null
+  },
   {
    "key": "MKE_CARTAGENA_MICHAEL_411250",
    "name": "Michael Angelo Cartagena",
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1795060656,
    "photo": null
   },
@@ -549,7 +626,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 14,
+   "more": 15,
    "ts": 1795060654,
    "photo": null
   },
@@ -595,7 +672,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 4,
    "ts": 1795058864,
-   "photo": null
+   "photo": "photos/MKE_WARD_QUINTON_602077.jpg"
   },
   {
    "key": "MKE_DUNBAR_DETERRION_602398",
@@ -5139,105 +5216,6 @@
    "more": 0,
    "ts": 1794808120,
    "photo": null
-  },
-  {
-   "key": "MKE_GARCIA_ROBERTO_287287",
-   "name": "Roberto Garcia",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1794806869,
-   "photo": "photos/MKE_GARCIA_ROBERTO_287287.jpg"
-  },
-  {
-   "key": "MKE_PECI_KRISTIAN_634341",
-   "name": "Kristian Peci",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794806867,
-   "photo": "photos/MKE_PECI_KRISTIAN_634341.jpg"
-  },
-  {
-   "key": "MKE_SACKMANN_SAMANTHA_644138",
-   "name": "Samantha Marie Sackmann",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Lewd, Lascivious Behavior-In Public",
-   "more": 0,
-   "ts": 1794806865,
-   "photo": "photos/MKE_SACKMANN_SAMANTHA_644138.jpg"
-  },
-  {
-   "key": "MKE_HICKEY_NATHAN_648327",
-   "name": "Nathan Hickey",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794806863,
-   "photo": "photos/MKE_HICKEY_NATHAN_648327.jpg"
-  },
-  {
-   "key": "MKE_ECHEVARRIARIVERA_ELIEZER_648328",
-   "name": "Eliezer Echevarria Rivera",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794806861,
-   "photo": "photos/MKE_ECHEVARRIARIVERA_ELIEZER_648328.jpg"
-  },
-  {
-   "key": "FDL_CARRASCOGARCIA_LESTHER_2026-11-15",
-   "name": "Lesther Josue Carrasco Garcia",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1794806177,
-   "photo": "photos/FDL_CARRASCOGARCIA_LESTHER_2026-11-15.jpg"
-  },
-  {
-   "key": "MKE_MAYABOTERO_ESTEBAN_648326",
-   "name": "Esteban Maya Botero",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794805059,
-   "photo": "photos/MKE_MAYABOTERO_ESTEBAN_648326.jpg"
-  },
-  {
-   "key": "MAR_URBAN_ADAM_2026-11-15",
-   "name": "Adam John Urban",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794804840,
-   "photo": null
-  },
-  {
-   "key": "MAR_GOSCH_TAMMIE_2026-11-15_547918",
-   "name": "Tammie Annette Gosch",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Knowingly Violate Domestic Abuse Order (Da Repeater)",
-   "more": 2,
-   "ts": 1794804799,
-   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-15_547918.jpg"
   }
  ]
 }
