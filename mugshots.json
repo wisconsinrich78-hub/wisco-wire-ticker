@@ -1,13 +1,68 @@
 {
- "updated": "2026-11-19T21:49:25+00:00",
+ "updated": "2026-11-19T22:06:46+00:00",
  "items": [
+  {
+   "key": "MKE_STONE_JAMARI_604258",
+   "name": "Jamari Lashod Stone",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 5,
+   "ts": 1795125452,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEFFERSON_KEMONTE_631560",
+   "name": "Kemonte Dewayne Jefferson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 3,
+   "ts": 1795125449,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTI_SEMAJ_634416",
+   "name": "Semaj Latrell Marti",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 5,
+   "ts": 1795125448,
+   "photo": null
+  },
+  {
+   "key": "KEN_KENYON_KARINA_2026-00006410",
+   "name": "Karina Roque Kenyon",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795125300,
+   "photo": "photos/KEN_KENYON_KARINA_2026-00006410.jpg"
+  },
+  {
+   "key": "MAR_KOHN_STACIE_2026-11-19",
+   "name": "Stacie Jean Kohn",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked",
+   "more": 1,
+   "ts": 1795125201,
+   "photo": "photos/MAR_KOHN_STACIE_2026-11-19.jpg"
+  },
   {
    "key": "KEN_CHILDERS_SHANE_2026-00006408",
    "name": "Shane Marcus Childers",
    "age": "42",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1795121826,
    "photo": "photos/KEN_CHILDERS_SHANE_2026-00006408.jpg"
@@ -176,50 +231,6 @@
    "more": 2,
    "ts": 1795117346,
    "photo": "photos/KEN_SAMONIG_JASON_2026-00006403.jpg"
-  },
-  {
-   "key": "KEN_RICHARD_DAMISO_2026-00006399",
-   "name": "Damiso Ajau Richard",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 6,
-   "ts": 1795117275,
-   "photo": "photos/KEN_RICHARD_DAMISO_2026-00006399.jpg"
-  },
-  {
-   "key": "KEN_MILLS_KEITH_2026-00006406",
-   "name": "KEITH ALLEN Junior MILLS",
-   "age": "34",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Theft-Written Lease >$10000-$100000",
-   "more": 0,
-   "ts": 1795117209,
-   "photo": "photos/KEN_MILLS_KEITH_2026-00006406.jpg"
-  },
-  {
-   "key": "KEN_HAMPTON_JAMES_2026-00006400",
-   "name": "James Michael Hampton",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Failure of Operator to Notify Police of Accident",
-   "more": 3,
-   "ts": 1795117137,
-   "photo": "photos/KEN_HAMPTON_JAMES_2026-00006400.jpg"
-  },
-  {
-   "key": "KEN_DEBARTELO_JEREMY_2026-00006401",
-   "name": "Jeremy Dean Debartelo",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795117067,
-   "photo": "photos/KEN_DEBARTELO_JEREMY_2026-00006401.jpg"
   },
   {
    "key": "FDL_HAYS_SAMANTHA_2026-11-19",
@@ -453,17 +464,6 @@
    "photo": "photos/MAR_RHODE_JOSHUA_2026-11-18_3122804.jpg"
   },
   {
-   "key": "MAR_RHODE_JOSHUA_2026-11-18",
-   "name": "Joshua Bruce Rhode",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795053235,
-   "photo": "photos/MAR_RHODE_JOSHUA_2026-11-18.jpg"
-  },
-  {
    "key": "FDL_JEFFREY_MYRON_2026-11-18",
    "name": "Myron Devon Jeffrey",
    "age": "",
@@ -532,12 +532,67 @@
  ],
  "all_items": [
   {
+   "key": "MKE_STONE_JAMARI_604258",
+   "name": "Jamari Lashod Stone",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 5,
+   "ts": 1795125452,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEFFERSON_KEMONTE_631560",
+   "name": "Kemonte Dewayne Jefferson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 3,
+   "ts": 1795125449,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTI_SEMAJ_634416",
+   "name": "Semaj Latrell Marti",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 5,
+   "ts": 1795125448,
+   "photo": null
+  },
+  {
+   "key": "KEN_KENYON_KARINA_2026-00006410",
+   "name": "Karina Roque Kenyon",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795125300,
+   "photo": "photos/KEN_KENYON_KARINA_2026-00006410.jpg"
+  },
+  {
+   "key": "MAR_KOHN_STACIE_2026-11-19",
+   "name": "Stacie Jean Kohn",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Revoked",
+   "more": 1,
+   "ts": 1795125201,
+   "photo": "photos/MAR_KOHN_STACIE_2026-11-19.jpg"
+  },
+  {
    "key": "KEN_CHILDERS_SHANE_2026-00006408",
    "name": "Shane Marcus Childers",
    "age": "42",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1795121826,
    "photo": "photos/KEN_CHILDERS_SHANE_2026-00006408.jpg"
@@ -1197,7 +1252,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
+   "charge": "Bail Jumping-Felony",
    "more": 3,
    "ts": 1795091251,
    "photo": null
@@ -5106,50 +5161,6 @@
    "more": 2,
    "ts": 1794867660,
    "photo": "photos/DOU_SANDERS_JON_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_JANIYAH_648341",
-   "name": "Janiyah M Johnson",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1794866309,
-   "photo": "photos/MKE_JOHNSON_JANIYAH_648341.jpg"
-  },
-  {
-   "key": "MKE_SPEARMAN_WALTER_648342",
-   "name": "Walter Jacquez Spearman",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794866304,
-   "photo": "photos/MKE_SPEARMAN_WALTER_648342.jpg"
-  },
-  {
-   "key": "MKE_BEAULIEU_JACOB_2051597",
-   "name": "Jacob R Beaulieu",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794866298,
-   "photo": "photos/MKE_BEAULIEU_JACOB_2051597.jpg"
-  },
-  {
-   "key": "MAR_DIGANGI_BENJAMIN_2026-11-16",
-   "name": "Benjamin Lawrence Digangi",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794866032,
-   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16.jpg"
   }
  ]
 }
