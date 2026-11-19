@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T06:11:12+00:00",
+ "updated": "2026-11-19T06:37:22+00:00",
  "items": [
+  {
+   "key": "MKE_HAMDAN_HAMDAN_648386",
+   "name": "Hamdan Hamdan",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795069659,
+   "photo": null
+  },
   {
    "key": "KEN_STONER_WILLIAM_2026-00006396",
    "name": "WILLIAM MARK Second STONER",
@@ -197,17 +208,6 @@
    "charge": "Charges Pending",
    "more": 15,
    "ts": 1795060654,
-   "photo": null
-  },
-  {
-   "key": "MKE_PRICE_TYQUAWN_648385",
-   "name": "Tyquawn T Price",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795060652,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HAMDAN_HAMDAN_648386",
+   "name": "Hamdan Hamdan",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795069659,
+   "photo": null
+  },
+  {
    "key": "KEN_STONER_WILLIAM_2026-00006396",
    "name": "WILLIAM MARK Second STONER",
    "age": "41",
@@ -760,7 +771,7 @@
    "charge": "Party to a Crime",
    "more": 1,
    "ts": 1795058866,
-   "photo": null
+   "photo": "photos/MKE_WHETZEL_JACOB_388493.jpg"
   },
   {
    "key": "MKE_WARD_QUINTON_602077",
@@ -782,7 +793,7 @@
    "charge": "Habitual Criminality",
    "more": 8,
    "ts": 1795058862,
-   "photo": null
+   "photo": "photos/MKE_DUNBAR_DETERRION_602398.jpg"
   },
   {
    "key": "MKE_BRADLEY_LANAIJHA_648384",
@@ -1299,7 +1310,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795037265,
-   "photo": null
+   "photo": "photos/MKE_BRASHAW_EMMA_648380.jpg"
   },
   {
    "key": "FDL_FISHERKRAHN_NANETTE_2026-11-18",
@@ -5238,17 +5249,6 @@
    "more": 1,
    "ts": 1794811710,
    "photo": null
-  },
-  {
-   "key": "DOU_OTTERINO_VINCENT_2026-11-15",
-   "name": "Vincent A Otterino",
-   "age": "38",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794810058,
-   "photo": "photos/DOU_OTTERINO_VINCENT_2026-11-15.jpg"
   }
  ]
 }
