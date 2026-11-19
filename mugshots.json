@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-18T23:49:30+00:00",
+ "updated": "2026-11-19T00:37:22+00:00",
  "items": [
+  {
+   "key": "MKE_CHALMERS_CURTIS_326316",
+   "name": "Curtis Lidell Chalmers",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1795048070,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALONE_TRAYVIONTAE_601647",
+   "name": "Trayviontae T Malone",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1795048068,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRADY_JOHNNY_639363",
+   "name": "Johnny Donnell Grady",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 1,
+   "ts": 1795048066,
+   "photo": null
+  },
+  {
+   "key": "MKE_SAMUEL_MARINO_648383",
+   "name": "Marino Samuel",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795048064,
+   "photo": null
+  },
+  {
+   "key": "DOU_MCMILLIAN_DWIGHT_2026-11-18",
+   "name": "Dwight R Mcmillian",
+   "age": "55",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Housed for Other Agency",
+   "more": 0,
+   "ts": 1795047531,
+   "photo": null
+  },
+  {
+   "key": "KEN_BREWER_KAYELA_2026-00006391",
+   "name": "Kayela R Brewer",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 1,
+   "ts": 1795046212,
+   "photo": null
+  },
+  {
+   "key": "MAR_FLOYD_ALEX_2026-11-18",
+   "name": "Alex Ray Floyd",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795046023,
+   "photo": "photos/MAR_FLOYD_ALEX_2026-11-18.jpg"
+  },
   {
    "key": "FDL_JEFFREY_MYRON_2026-11-18",
    "name": "Myron Devon Jeffrey",
@@ -244,28 +321,6 @@
    "photo": "photos/FDL_FISHERKRAHN_NANETTE_2026-11-18.jpg"
   },
   {
-   "key": "RC_COPELAND_MILES_120011076397338",
-   "name": "Miles E Copeland",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795034881,
-   "photo": null
-  },
-  {
-   "key": "RC_SOTERAS_NICHOLAS_120011076397469",
-   "name": "Nicholas G Soteras",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795034879,
-   "photo": "photos/RC_SOTERAS_NICHOLAS_120011076397469.jpg"
-  },
-  {
    "key": "POTARACKE_CODY_2026-11-18",
    "name": "Cody J Potaracke",
    "age": "29",
@@ -274,17 +329,6 @@
    "charge": "Operate Comm Veh W/O License-Wi Resident",
    "more": 0,
    "ts": 1795034829,
-   "photo": null
-  },
-  {
-   "key": "MKE_MENDEZ_ROBERTO_286728",
-   "name": "Roberto David Mendez",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 7,
-   "ts": 1795033665,
    "photo": null
   },
   {
@@ -307,28 +351,6 @@
    "charge": "Transport - Warrant",
    "more": 1,
    "ts": 1795032983,
-   "photo": null
-  },
-  {
-   "key": "MKE_FLAKES_ANTONIO_341562",
-   "name": "Antonio Preston Flakes",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 2,
-   "ts": 1795031858,
-   "photo": null
-  },
-  {
-   "key": "MKE_ESQUIVELCASTRO_HENRY_616977",
-   "name": "Henry M Esquivel-Castro",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "3rd Degree Sexual Assault",
-   "more": 2,
-   "ts": 1795031856,
    "photo": null
   },
   {
@@ -506,31 +528,86 @@
    "more": 0,
    "ts": 1794993365,
    "photo": "photos/FDL_ANTONE_ALEXANDER_2026-11-18.jpg"
-  },
-  {
-   "key": "DOBRUNZ_ZOE_2026-11-18",
-   "name": "Zoe A Dobrunz",
-   "age": "26",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794992219,
-   "photo": null
-  },
-  {
-   "key": "PRIDGEON_JUSTIN_2026-11-18",
-   "name": "Justin R Pridgeon",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1794990429,
-   "photo": "photos/PRIDGEON_JUSTIN_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CHALMERS_CURTIS_326316",
+   "name": "Curtis Lidell Chalmers",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1795048070,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALONE_TRAYVIONTAE_601647",
+   "name": "Trayviontae T Malone",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 1,
+   "ts": 1795048068,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRADY_JOHNNY_639363",
+   "name": "Johnny Donnell Grady",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 1,
+   "ts": 1795048066,
+   "photo": null
+  },
+  {
+   "key": "MKE_SAMUEL_MARINO_648383",
+   "name": "Marino Samuel",
+   "age": "63",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795048064,
+   "photo": null
+  },
+  {
+   "key": "DOU_MCMILLIAN_DWIGHT_2026-11-18",
+   "name": "Dwight R Mcmillian",
+   "age": "55",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Housed for Other Agency",
+   "more": 0,
+   "ts": 1795047531,
+   "photo": null
+  },
+  {
+   "key": "KEN_BREWER_KAYELA_2026-00006391",
+   "name": "Kayela R Brewer",
+   "age": "34",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 1,
+   "ts": 1795046212,
+   "photo": null
+  },
+  {
+   "key": "MAR_FLOYD_ALEX_2026-11-18",
+   "name": "Alex Ray Floyd",
+   "age": "38",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795046023,
+   "photo": "photos/MAR_FLOYD_ALEX_2026-11-18.jpg"
+  },
   {
    "key": "FDL_JEFFREY_MYRON_2026-11-18",
    "name": "Myron Devon Jeffrey",
@@ -856,7 +933,7 @@
    "age": "48",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "3rd Degree Sexual Assault",
+   "charge": "2nd Degree Sexual Assault of Child",
    "more": 2,
    "ts": 1795031856,
    "photo": null
@@ -881,7 +958,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795028281,
-   "photo": null
+   "photo": "photos/MKE_LITTLE_ASHLEY_378878.jpg"
   },
   {
    "key": "KEN_SPOHN_RONNIE_2026-00006385",
@@ -1002,7 +1079,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 21,
    "ts": 1795022871,
-   "photo": null
+   "photo": "photos/MKE_GIBSON_MICHAEL_396566.jpg"
   },
   {
    "key": "MKE_RAMSEY_CARLOS_648378",
@@ -1035,7 +1112,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1795021065,
-   "photo": null
+   "photo": "photos/MKE_SANDERS_DERRICK_374247.jpg"
   },
   {
    "key": "MKE_LAYNE_JAVIONTAE_615294",
@@ -1068,7 +1145,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795021059,
-   "photo": null
+   "photo": "photos/MKE_ROSS_DAMAR_648376.jpg"
   },
   {
    "key": "MKE_LEWIS_JAMES_648377",
@@ -1079,7 +1156,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795021057,
-   "photo": null
+   "photo": "photos/MKE_LEWIS_JAMES_648377.jpg"
   },
   {
    "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
@@ -5073,39 +5150,6 @@
    "more": 0,
    "ts": 1794790654,
    "photo": "photos/MKE_CASAREZ_DESIRAE_510524.jpg"
-  },
-  {
-   "key": "MKE_RODRIGUEZ_ELIBERTO_328151",
-   "name": "Eliberto Rodriguez",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794788853,
-   "photo": "photos/MKE_RODRIGUEZ_ELIBERTO_328151.jpg"
-  },
-  {
-   "key": "MKE_RUSH_TRESHAWN_648324",
-   "name": "Treshawn Jaquan Rush",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794788851,
-   "photo": "photos/MKE_RUSH_TRESHAWN_648324.jpg"
-  },
-  {
-   "key": "KEN_HOGREVE_KENNETH_2026-00006325",
-   "name": "Kenneth John Hogreve",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1794786952,
-   "photo": "photos/KEN_HOGREVE_KENNETH_2026-00006325.jpg"
   }
  ]
 }
