@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T14:19:46+00:00",
+ "updated": "2026-11-19T14:49:26+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIS_AARON_2061725",
+   "name": "Aaron C Willis",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st)",
+   "more": 2,
+   "ts": 1795098456,
+   "photo": null
+  },
   {
    "key": "FDL_CHRISTL_RICHARD_2026-11-19",
    "name": "Richard Lee Christl",
@@ -95,7 +106,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "charge": "Operating w/ PAC-Passenger < 16 Yrs, PAC>=0.15 (1st)",
    "more": 1,
    "ts": 1795087644,
    "photo": null
@@ -117,7 +128,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Carry Concealed Weapon",
    "more": 5,
    "ts": 1795085851,
    "photo": null
@@ -197,17 +208,6 @@
    "charge": "",
    "more": 0,
    "ts": 1795076842,
-   "photo": null
-  },
-  {
-   "key": "MKE_HATTEN_NICHOLAS_291450",
-   "name": "Nicholas Terrell Hatten",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795075045,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_WILLIS_AARON_2061725",
+   "name": "Aaron C Willis",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (1st)",
+   "more": 2,
+   "ts": 1795098456,
+   "photo": null
+  },
+  {
    "key": "FDL_CHRISTL_RICHARD_2026-11-19",
    "name": "Richard Lee Christl",
    "age": "",
@@ -625,7 +636,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
+   "charge": "Operating w/ PAC-Passenger < 16 Yrs, PAC>=0.15 (1st)",
    "more": 1,
    "ts": 1795087644,
    "photo": null
@@ -647,7 +658,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Carry Concealed Weapon",
    "more": 5,
    "ts": 1795085851,
    "photo": null
@@ -991,7 +1002,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795064259,
-   "photo": null
+   "photo": "photos/MKE_SHERROD_MARVIN_360371.jpg"
   },
   {
    "key": "MKE_CARTAGENA_MICHAEL_411250",
@@ -1024,7 +1035,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795060652,
-   "photo": null
+   "photo": "photos/MKE_PRICE_TYQUAWN_648385.jpg"
   },
   {
    "key": "MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807",
@@ -5139,61 +5150,6 @@
    "more": 5,
    "ts": 1794841332,
    "photo": "photos/MKE_THOMAS_COURTNIE_648322.jpg"
-  },
-  {
-   "key": "RC_BELL_MICHAEL_120011076314334",
-   "name": "Michael Terrell Bell",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Forfeiture)",
-   "more": 0,
-   "ts": 1794840507,
-   "photo": "photos/RC_BELL_MICHAEL_120011076314334.jpg"
-  },
-  {
-   "key": "MKE_DIAZ_MIGUEL_613333",
-   "name": "Miguel Angel Diaz",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Take/Drive Veh. w/o Consent-Abandon Veh",
-   "more": 1,
-   "ts": 1794839258,
-   "photo": "photos/MKE_DIAZ_MIGUEL_613333.jpg"
-  },
-  {
-   "key": "MKE_ILER_ADRIAN_629546",
-   "name": "Adrian Romel Iler",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1794839256,
-   "photo": "photos/MKE_ILER_ADRIAN_629546.jpg"
-  },
-  {
-   "key": "MKE_GONZALEZ_JONATHAN_648335",
-   "name": "Jonathan Josue Gonzalez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794839255,
-   "photo": "photos/MKE_GONZALEZ_JONATHAN_648335.jpg"
-  },
-  {
-   "key": "MKE_TARLETON_TERRANCE_2066800",
-   "name": "Terrance T Tarleton",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1794839253,
-   "photo": "photos/MKE_TARLETON_TERRANCE_2066800.jpg"
   }
  ]
 }
