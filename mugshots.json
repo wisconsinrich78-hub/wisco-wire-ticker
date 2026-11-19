@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-19T19:49:28+00:00",
+ "updated": "2026-11-19T20:42:51+00:00",
  "items": [
+  {
+   "key": "MKE_GREER_QUEMONT_648398",
+   "name": "Quemont Greer",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795120067,
+   "photo": "photos/MKE_GREER_QUEMONT_648398.jpg"
+  },
+  {
+   "key": "MKE_VELAZQUEZMEDINA_JOSE_639024",
+   "name": "Jose Velazquez-Medina",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Soliciting a Child for Prostitution",
+   "more": 0,
+   "ts": 1795118262,
+   "photo": null
+  },
+  {
+   "key": "MKE_WRIGHT_ASTAJAH_648397",
+   "name": "Astajah D Wright",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795118260,
+   "photo": null
+  },
+  {
+   "key": "MAR_FRALEY_DARREN_2026-11-19",
+   "name": "Darren L Fraley",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795118096,
+   "photo": "photos/MAR_FRALEY_DARREN_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_CANTRELL_DAVID_2026-11-19_2535004",
+   "name": "David Lee Cantrell",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 3rd",
+   "more": 0,
+   "ts": 1795118053,
+   "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19_2535004.jpg"
+  },
+  {
+   "key": "KEN_PICOU_JUSTIN_2026-00006407",
+   "name": "Justin Ryan Picou",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795118044,
+   "photo": "photos/KEN_PICOU_JUSTIN_2026-00006407.jpg"
+  },
+  {
+   "key": "MAR_SLOWIKOWSKI_MATTHEW_2026-11-19",
+   "name": "Matthew Michael Slowikowski",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Alter Price",
+   "more": 1,
+   "ts": 1795118014,
+   "photo": "photos/MAR_SLOWIKOWSKI_MATTHEW_2026-11-19.jpg"
+  },
   {
    "key": "RC_KORTH_GJUAN_120011076427197",
    "name": "Gjuan Korth",
@@ -145,17 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_QUINONES_TYLER_2053823",
-   "name": "Tyler Jake Quinones",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1795114687,
-   "photo": null
-  },
-  {
    "key": "MAR_WARD_VILAS_2026-11-19",
    "name": "Vilas William Ward",
    "age": "56",
@@ -187,39 +253,6 @@
    "more": 0,
    "ts": 1795114406,
    "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19.jpg"
-  },
-  {
-   "key": "RC_LOPEZJUAREZ_JESUS_120011076425832",
-   "name": "Jesus Anthony Lopez Juarez",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
-   "more": 2,
-   "ts": 1795114097,
-   "photo": null
-  },
-  {
-   "key": "RC_WILLIAMS_JAMES_120011076425946",
-   "name": "James D Williams",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114094,
-   "photo": "photos/RC_WILLIAMS_JAMES_120011076425946.jpg"
-  },
-  {
-   "key": "RC_HORTH_GJUAN_120011076427197",
-   "name": "Gjuan Horth",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114090,
-   "photo": null
   },
   {
    "key": "DOU_OMARY_RHONDA_2026-11-19",
@@ -431,28 +464,6 @@
    "photo": "photos/DOU_CENTORCELLI_MATTHEW_2026-11-18.jpg"
   },
   {
-   "key": "DOU_MCMILLIAN_DWIGHT_2026-11-18",
-   "name": "Dwight R Mcmillian",
-   "age": "55",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Housed for Other Agency",
-   "more": 0,
-   "ts": 1795047531,
-   "photo": null
-  },
-  {
-   "key": "MAR_FLOYD_ALEX_2026-11-18",
-   "name": "Alex Ray Floyd",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795046023,
-   "photo": "photos/MAR_FLOYD_ALEX_2026-11-18.jpg"
-  },
-  {
    "key": "FDL_JEFFREY_MYRON_2026-11-18",
    "name": "Myron Devon Jeffrey",
    "age": "",
@@ -473,17 +484,6 @@
    "more": 0,
    "ts": 1795043767,
    "photo": "photos/FDL_BLOCK_KHYRE_2026-11-18.jpg"
-  },
-  {
-   "key": "MAR_HOLSTERGARDNER_SHANE_2026-11-18",
-   "name": "Shane Western Holster-Gardner",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 1,
-   "ts": 1795042402,
-   "photo": "photos/MAR_HOLSTERGARDNER_SHANE_2026-11-18.jpg"
   },
   {
    "key": "WILSON_ANTHONY_2026-11-18",
@@ -531,6 +531,83 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_GREER_QUEMONT_648398",
+   "name": "Quemont Greer",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795120067,
+   "photo": "photos/MKE_GREER_QUEMONT_648398.jpg"
+  },
+  {
+   "key": "MKE_VELAZQUEZMEDINA_JOSE_639024",
+   "name": "Jose Velazquez-Medina",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Soliciting a Child for Prostitution",
+   "more": 0,
+   "ts": 1795118262,
+   "photo": null
+  },
+  {
+   "key": "MKE_WRIGHT_ASTAJAH_648397",
+   "name": "Astajah D Wright",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795118260,
+   "photo": null
+  },
+  {
+   "key": "MAR_FRALEY_DARREN_2026-11-19",
+   "name": "Darren L Fraley",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795118096,
+   "photo": "photos/MAR_FRALEY_DARREN_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_CANTRELL_DAVID_2026-11-19_2535004",
+   "name": "David Lee Cantrell",
+   "age": "52",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 3rd",
+   "more": 0,
+   "ts": 1795118053,
+   "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19_2535004.jpg"
+  },
+  {
+   "key": "KEN_PICOU_JUSTIN_2026-00006407",
+   "name": "Justin Ryan Picou",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795118044,
+   "photo": "photos/KEN_PICOU_JUSTIN_2026-00006407.jpg"
+  },
+  {
+   "key": "MAR_SLOWIKOWSKI_MATTHEW_2026-11-19",
+   "name": "Matthew Michael Slowikowski",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Retail Theft-Alter Price",
+   "more": 1,
+   "ts": 1795118014,
+   "photo": "photos/MAR_SLOWIKOWSKI_MATTHEW_2026-11-19.jpg"
+  },
   {
    "key": "RC_KORTH_GJUAN_120011076427197",
    "name": "Gjuan Korth",
@@ -5139,105 +5216,6 @@
    "more": 0,
    "ts": 1794862108,
    "photo": "photos/RC_GARCIALOPEZ_CRUZ_120011076331265.jpg"
-  },
-  {
-   "key": "MKE_SMITH_JARED_364168",
-   "name": "Jared J Smith",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794860859,
-   "photo": "photos/MKE_SMITH_JARED_364168.jpg"
-  },
-  {
-   "key": "MKE_GREEN_ANTHONY_648339",
-   "name": "Anthony M Green",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794860856,
-   "photo": "photos/MKE_GREEN_ANTHONY_648339.jpg"
-  },
-  {
-   "key": "KEN_TURNER_JAMIE_2026-00006341",
-   "name": "Jamie Lynn Turner",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794860830,
-   "photo": "photos/KEN_TURNER_JAMIE_2026-00006341.jpg"
-  },
-  {
-   "key": "KEN_ROGERS_CONNOR_2026-00006339",
-   "name": "Connor Elizabeth Rogers",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794860759,
-   "photo": "photos/KEN_ROGERS_CONNOR_2026-00006339.jpg"
-  },
-  {
-   "key": "KEN_PEREZHOYOS_JOSE_2026-00006344",
-   "name": "Jose Angel Perez Hoyos",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Federal Agency Hold",
-   "more": 0,
-   "ts": 1794860683,
-   "photo": null
-  },
-  {
-   "key": "KEN_OLIVER_KEVANTAE_2026-00006343",
-   "name": "Kevantae Jordan Oliver",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794860647,
-   "photo": "photos/KEN_OLIVER_KEVANTAE_2026-00006343.jpg"
-  },
-  {
-   "key": "MKE_BLACKMORE_MARIANNA_272840",
-   "name": "Marianna Blackmore",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794859088,
-   "photo": "photos/MKE_BLACKMORE_MARIANNA_272840.jpg"
-  },
-  {
-   "key": "MKE_NOLANNOVAK_ESSENCE_641388",
-   "name": "Essence K Nolan Novak",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 0,
-   "ts": 1794859082,
-   "photo": "photos/MKE_NOLANNOVAK_ESSENCE_641388.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_ROYSHAWN_648338",
-   "name": "Royshawn Alanzo Williams",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794859080,
-   "photo": "photos/MKE_WILLIAMS_ROYSHAWN_648338.jpg"
   }
  ]
 }
