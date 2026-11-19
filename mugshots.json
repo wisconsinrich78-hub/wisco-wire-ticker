@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-19T20:42:51+00:00",
+ "updated": "2026-11-19T20:49:29+00:00",
  "items": [
+  {
+   "key": "RC_ESTRADA_JUAN_120011076431539",
+   "name": "Juan Marcos Estrada",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121289,
+   "photo": "photos/RC_ESTRADA_JUAN_120011076431539.jpg"
+  },
+  {
+   "key": "RC_LONDRE_SHAWN_120011076431598",
+   "name": "Shawn Edward Londre",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121286,
+   "photo": "photos/RC_LONDRE_SHAWN_120011076431598.jpg"
+  },
+  {
+   "key": "RC_PRUSINSKI_RONALD_120011076431620",
+   "name": "Ronald George Prusinski",
+   "age": "75",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121283,
+   "photo": null
+  },
+  {
+   "key": "RC_KNOTEK_MICHAEL_120011076432125",
+   "name": "Michael J Knotek",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121280,
+   "photo": "photos/RC_KNOTEK_MICHAEL_120011076432125.jpg"
+  },
   {
    "key": "MKE_GREER_QUEMONT_648398",
    "name": "Quemont Greer",
@@ -84,7 +128,7 @@
    "age": "24",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Department Of Corrections Hold",
    "more": 0,
    "ts": 1795117681,
    "photo": null
@@ -95,7 +139,7 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Department Of Corrections Hold",
    "more": 0,
    "ts": 1795117679,
    "photo": null
@@ -167,28 +211,6 @@
    "photo": "photos/KEN_COVELLI_RYAN_2026-00006402.jpg"
   },
   {
-   "key": "KEN_CICCHINI_STEPHEN_2026-00006405",
-   "name": "Stephen Joseph Cicchini",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine/Coca",
-   "more": 1,
-   "ts": 1795116877,
-   "photo": "photos/KEN_CICCHINI_STEPHEN_2026-00006405.jpg"
-  },
-  {
-   "key": "KEN_BROWN_TREMELL_2026-00006404",
-   "name": "Tremell Brown",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1795116813,
-   "photo": "photos/KEN_BROWN_TREMELL_2026-00006404.jpg"
-  },
-  {
    "key": "FDL_HAYS_SAMANTHA_2026-11-19",
    "name": "Samantha Lynn Hays",
    "age": "",
@@ -198,28 +220,6 @@
    "more": 0,
    "ts": 1795115774,
    "photo": "photos/FDL_HAYS_SAMANTHA_2026-11-19.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_TYVON_541431",
-   "name": "Tyvon Deshawn Williams",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114693,
-   "photo": null
-  },
-  {
-   "key": "MKE_CHABBOUTH_IHEB_648396",
-   "name": "Iheb Chabbouth",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795114690,
-   "photo": null
   },
   {
    "key": "MAR_WARD_VILAS_2026-11-19",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "RC_ESTRADA_JUAN_120011076431539",
+   "name": "Juan Marcos Estrada",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121289,
+   "photo": "photos/RC_ESTRADA_JUAN_120011076431539.jpg"
+  },
+  {
+   "key": "RC_LONDRE_SHAWN_120011076431598",
+   "name": "Shawn Edward Londre",
+   "age": "52",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121286,
+   "photo": "photos/RC_LONDRE_SHAWN_120011076431598.jpg"
+  },
+  {
+   "key": "RC_PRUSINSKI_RONALD_120011076431620",
+   "name": "Ronald George Prusinski",
+   "age": "75",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121283,
+   "photo": null
+  },
+  {
+   "key": "RC_KNOTEK_MICHAEL_120011076432125",
+   "name": "Michael J Knotek",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121280,
+   "photo": "photos/RC_KNOTEK_MICHAEL_120011076432125.jpg"
+  },
+  {
    "key": "MKE_GREER_QUEMONT_648398",
    "name": "Quemont Greer",
    "age": "45",
@@ -614,7 +658,7 @@
    "age": "24",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Department Of Corrections Hold",
    "more": 0,
    "ts": 1795117681,
    "photo": null
@@ -625,7 +669,7 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Department Of Corrections Hold",
    "more": 0,
    "ts": 1795117679,
    "photo": null
@@ -5205,17 +5249,6 @@
    "more": 4,
    "ts": 1794862418,
    "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-16.jpg"
-  },
-  {
-   "key": "RC_GARCIALOPEZ_CRUZ_120011076331265",
-   "name": "Cruz Garcialopez",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794862108,
-   "photo": "photos/RC_GARCIALOPEZ_CRUZ_120011076331265.jpg"
   }
  ]
 }
