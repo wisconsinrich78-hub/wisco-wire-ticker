@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T20:49:29+00:00",
+ "updated": "2026-11-19T21:13:48+00:00",
  "items": [
+  {
+   "key": "KEN_CHILDERS_SHANE_2026-00006408",
+   "name": "Shane Marcus Childers",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121826,
+   "photo": "photos/KEN_CHILDERS_SHANE_2026-00006408.jpg"
+  },
+  {
+   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-19",
+   "name": "Shawneen Marie Hulstrom",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795121607,
+   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-19.jpg"
+  },
   {
    "key": "RC_ESTRADA_JUAN_120011076431539",
    "name": "Juan Marcos Estrada",
@@ -172,7 +194,7 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Theft-Written Lease >$10000-$100000",
    "more": 0,
    "ts": 1795117209,
    "photo": "photos/KEN_MILLS_KEITH_2026-00006406.jpg"
@@ -198,17 +220,6 @@
    "more": 0,
    "ts": 1795117067,
    "photo": "photos/KEN_DEBARTELO_JEREMY_2026-00006401.jpg"
-  },
-  {
-   "key": "KEN_COVELLI_RYAN_2026-00006402",
-   "name": "Ryan Arthur Covelli",
-   "age": "51",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Sex Offender-Fail/Update Information (Fel)",
-   "more": 1,
-   "ts": 1795116943,
-   "photo": "photos/KEN_COVELLI_RYAN_2026-00006402.jpg"
   },
   {
    "key": "FDL_HAYS_SAMANTHA_2026-11-19",
@@ -453,17 +464,6 @@
    "photo": "photos/MAR_RHODE_JOSHUA_2026-11-18.jpg"
   },
   {
-   "key": "DOU_CENTORCELLI_MATTHEW_2026-11-18",
-   "name": "Matthew Centorcelli",
-   "age": "41",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Housed for Other Agency",
-   "more": 0,
-   "ts": 1795051021,
-   "photo": "photos/DOU_CENTORCELLI_MATTHEW_2026-11-18.jpg"
-  },
-  {
    "key": "FDL_JEFFREY_MYRON_2026-11-18",
    "name": "Myron Devon Jeffrey",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_CHILDERS_SHANE_2026-00006408",
+   "name": "Shane Marcus Childers",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795121826,
+   "photo": "photos/KEN_CHILDERS_SHANE_2026-00006408.jpg"
+  },
+  {
+   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-19",
+   "name": "Shawneen Marie Hulstrom",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795121607,
+   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-19.jpg"
+  },
   {
    "key": "RC_ESTRADA_JUAN_120011076431539",
    "name": "Juan Marcos Estrada",
@@ -702,7 +724,7 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Theft-Written Lease >$10000-$100000",
    "more": 0,
    "ts": 1795117209,
    "photo": "photos/KEN_MILLS_KEITH_2026-00006406.jpg"
@@ -5205,50 +5227,6 @@
    "more": 0,
    "ts": 1794863778,
    "photo": "photos/FDL_FRENCH_JOSEF_2026-11-16.jpg"
-  },
-  {
-   "key": "MAR_STANKE_JONATHON_2026-11-16",
-   "name": "Jonathon Michael Stanke",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794862488,
-   "photo": "photos/MAR_STANKE_JONATHON_2026-11-16.jpg"
-  },
-  {
-   "key": "KEN_JACKSON_MELVIN_2026-00006345",
-   "name": "Melvin Eugene Jackson",
-   "age": "59",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Warrant Other Agency - Out of County",
-   "more": 2,
-   "ts": 1794862457,
-   "photo": "photos/KEN_JACKSON_MELVIN_2026-00006345.jpg"
-  },
-  {
-   "key": "MAR_GOSCH_TAMMIE_2026-11-16",
-   "name": "Tammie Annette Gosch",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Knowingly Violate Domestic Abuse Order (Da Repeater)",
-   "more": 5,
-   "ts": 1794862451,
-   "photo": "photos/MAR_GOSCH_TAMMIE_2026-11-16.jpg"
-  },
-  {
-   "key": "MAR_BLOCK_WILLIAM_2026-11-16",
-   "name": "William Douglas Block",
-   "age": "50",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 4,
-   "ts": 1794862418,
-   "photo": "photos/MAR_BLOCK_WILLIAM_2026-11-16.jpg"
   }
  ]
 }
