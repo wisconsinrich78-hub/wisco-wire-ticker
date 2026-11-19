@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T11:37:18+00:00",
+ "updated": "2026-11-19T12:36:42+00:00",
  "items": [
+  {
+   "key": "MKE_ROJAS_EDDY_531983",
+   "name": "Eddy Martin Rojas",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795091253,
+   "photo": null
+  },
+  {
+   "key": "MKE_FERGUSON_AMORE_645926",
+   "name": "Amore William Ferguson",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1795091251,
+   "photo": null
+  },
   {
    "key": "MKE_PENDELTON_MARQUIS_527036",
    "name": "Marquis Pendelton",
@@ -51,7 +73,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Carry Concealed Weapon",
    "more": 5,
    "ts": 1795085851,
    "photo": null
@@ -186,29 +208,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795071449,
-   "photo": null
-  },
-  {
-   "key": "MKE_CALDWELL_CHARLES_648388",
-   "name": "Charles R Caldwell",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795071448,
-   "photo": "photos/MKE_CALDWELL_CHARLES_648388.jpg"
-  },
-  {
-   "key": "MKE_MARTIN_ALAYSHIANNA_648389",
-   "name": "Alayshianna Martin",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795071446,
-   "photo": null
+   "photo": "photos/MKE_FULLER_PAMELA_648387.jpg"
   },
   {
    "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_ROJAS_EDDY_531983",
+   "name": "Eddy Martin Rojas",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795091253,
+   "photo": null
+  },
+  {
+   "key": "MKE_FERGUSON_AMORE_645926",
+   "name": "Amore William Ferguson",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1795091251,
+   "photo": null
+  },
+  {
    "key": "MKE_PENDELTON_MARQUIS_527036",
    "name": "Marquis Pendelton",
    "age": "35",
@@ -581,7 +603,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Carry Concealed Weapon",
    "more": 5,
    "ts": 1795085851,
    "photo": null
@@ -716,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795071449,
-   "photo": null
+   "photo": "photos/MKE_FULLER_PAMELA_648387.jpg"
   },
   {
    "key": "MKE_CALDWELL_CHARLES_648388",
@@ -1013,7 +1035,7 @@
    "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 0,
    "ts": 1795058860,
-   "photo": null
+   "photo": "photos/MKE_BRADLEY_LANAIJHA_648384.jpg"
   },
   {
    "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18_16926802",
@@ -5271,17 +5293,6 @@
    "more": 0,
    "ts": 1794833606,
    "photo": "photos/MAR_YOUNG_PORSCHA_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_SPIKES_SHAKIRA_648332",
-   "name": "Shakira Lea Spikes",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794832058,
-   "photo": "photos/MKE_SPIKES_SHAKIRA_648332.jpg"
   }
  ]
 }
