@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T15:44:08+00:00",
+ "updated": "2026-11-19T15:49:28+00:00",
  "items": [
+  {
+   "key": "RC_PORTER_TOBARUS_120011076418679",
+   "name": "Tobarus Deon Porter",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795103278,
+   "photo": "photos/RC_PORTER_TOBARUS_120011076418679.jpg"
+  },
+  {
+   "key": "RC_ARIZMENDIFUENTES_MIGUEL_120011076420018",
+   "name": "Miguel Angel Arizmendi Fuentes",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795103275,
+   "photo": "photos/RC_ARIZMENDIFUENTES_MIGUEL_120011076420018.jpg"
+  },
+  {
+   "key": "APARICIOZARAGOZA_LAURO_2026-11-19",
+   "name": "Lauro Zaragoza Aparicio Zaragoza",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1795103228,
+   "photo": null
+  },
   {
    "key": "MKE_TAYLOR_WHITNEY_296946",
    "name": "Whitney Jasmine Taylor",
@@ -164,28 +197,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795087643,
-   "photo": null
-  },
-  {
-   "key": "MKE_WOODSON_DWAYNE_609555",
-   "name": "Dwayne Woodson",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1795085851,
-   "photo": null
-  },
-  {
-   "key": "MKE_PERRY_JUANIA_648391",
-   "name": "Juania Micole Perry",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795085850,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795024482,
    "photo": "photos/MAR_LORBECKE_GAVIN_2026-11-17_1280714.jpg"
-  },
-  {
-   "key": "FDL_SAVAGE_DESTINY_2026-11-18",
-   "name": "Destiny Joy Savage",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795022202,
-   "photo": "photos/FDL_SAVAGE_DESTINY_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PORTER_TOBARUS_120011076418679",
+   "name": "Tobarus Deon Porter",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795103278,
+   "photo": "photos/RC_PORTER_TOBARUS_120011076418679.jpg"
+  },
+  {
+   "key": "RC_ARIZMENDIFUENTES_MIGUEL_120011076420018",
+   "name": "Miguel Angel Arizmendi Fuentes",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795103275,
+   "photo": "photos/RC_ARIZMENDIFUENTES_MIGUEL_120011076420018.jpg"
+  },
+  {
+   "key": "APARICIOZARAGOZA_LAURO_2026-11-19",
+   "name": "Lauro Zaragoza Aparicio Zaragoza",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 0,
+   "ts": 1795103228,
+   "photo": null
+  },
   {
    "key": "MKE_TAYLOR_WHITNEY_296946",
    "name": "Whitney Jasmine Taylor",
@@ -5128,50 +5161,6 @@
    "more": 0,
    "ts": 1794844437,
    "photo": "photos/KEN_JOHNSON_MYKQUEON_2026-00006333.jpg"
-  },
-  {
-   "key": "RC_CRAION_KIRBY_120011076302732",
-   "name": "Kirby Craion",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Lewd, Lascivious Behavior-Exposure",
-   "more": 3,
-   "ts": 1794844101,
-   "photo": null
-  },
-  {
-   "key": "RC_SANDERS_CHARLES_120011076317965",
-   "name": "Charles A Sanders",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794844098,
-   "photo": "photos/RC_SANDERS_CHARLES_120011076317965.jpg"
-  },
-  {
-   "key": "RC_GARCIA_BENJAMIN_120011076318392",
-   "name": "Benjamin Lucas Garcia",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Enforce The Duty Of Child Support Or Maintenance",
-   "more": 0,
-   "ts": 1794844095,
-   "photo": "photos/RC_GARCIA_BENJAMIN_120011076318392.jpg"
-  },
-  {
-   "key": "RC_RABIN_DAVID_120011076318718",
-   "name": "David Rabin",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794844093,
-   "photo": null
   }
  ]
 }
