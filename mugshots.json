@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T01:40:14+00:00",
+ "updated": "2026-11-19T01:49:31+00:00",
  "items": [
+  {
+   "key": "RC_ZWAGA_ANGELO_120011076405020",
+   "name": "Angelo Scott Zwaga",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating a Motor Vehicle Without Motor Vehicle Liability Insurance",
+   "more": 2,
+   "ts": 1795052889,
+   "photo": "photos/RC_ZWAGA_ANGELO_120011076405020.jpg"
+  },
+  {
+   "key": "RC_BROWN_ANDREW_120011076405081",
+   "name": "Andrew Jonathan Brown",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795052886,
+   "photo": "photos/RC_BROWN_ANDREW_120011076405081.jpg"
+  },
   {
    "key": "DOU_CENTORCELLI_MATTHEW_2026-11-18",
    "name": "Matthew Centorcelli",
@@ -266,28 +288,6 @@
    "photo": "photos/KEN_KUROWSKI_PAULINA_2026-00006387.jpg"
   },
   {
-   "key": "KEN_DANIEL_ANTONIO_2026-00006390",
-   "name": "ANTONIO DEVON Senior DANIEL",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1795039208,
-   "photo": "photos/KEN_DANIEL_ANTONIO_2026-00006390.jpg"
-  },
-  {
-   "key": "KEN_BOLTON_KURTIS_2026-00006388",
-   "name": "Kurtis Bolton",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 7,
-   "ts": 1795039128,
-   "photo": "photos/KEN_BOLTON_KURTIS_2026-00006388.jpg"
-  },
-  {
    "key": "MAR_MILLER_THOMAS_2026-11-18_16353702",
    "name": "Thomas Miller",
    "age": "43",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ZWAGA_ANGELO_120011076405020",
+   "name": "Angelo Scott Zwaga",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Operating a Motor Vehicle Without Motor Vehicle Liability Insurance",
+   "more": 2,
+   "ts": 1795052889,
+   "photo": "photos/RC_ZWAGA_ANGELO_120011076405020.jpg"
+  },
+  {
+   "key": "RC_BROWN_ANDREW_120011076405081",
+   "name": "Andrew Jonathan Brown",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795052886,
+   "photo": "photos/RC_BROWN_ANDREW_120011076405081.jpg"
+  },
   {
    "key": "DOU_CENTORCELLI_MATTHEW_2026-11-18",
    "name": "Matthew Centorcelli",
@@ -5205,17 +5227,6 @@
    "more": 0,
    "ts": 1794796135,
    "photo": "photos/MKE_DEIBERT_KYLE_2029323.jpg"
-  },
-  {
-   "key": "RC_KIRBY_CRAION_120011076302732",
-   "name": "Craion Kirby",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Lewd, Lascivious Behavior-Exposure",
-   "more": 3,
-   "ts": 1794793694,
-   "photo": null
   }
  ]
 }
