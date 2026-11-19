@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-19T03:03:31+00:00",
+ "updated": "2026-11-19T03:46:21+00:00",
  "items": [
+  {
+   "key": "MKE_WHETZEL_JACOB_388493",
+   "name": "Jacob Robert Whetzel",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 1,
+   "ts": 1795058866,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_QUINTON_602077",
+   "name": "Quinton Dalon Ward",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 4,
+   "ts": 1795058864,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNBAR_DETERRION_602398",
+   "name": "Deterrion A Dunbar",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 8,
+   "ts": 1795058862,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRADLEY_LANAIJHA_648384",
+   "name": "Lanaijha Yvonne Bradley",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1795058860,
+   "photo": null
+  },
   {
    "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18_16926802",
    "name": "Alexandro Del Valle Rivera",
@@ -10,7 +54,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 3,
    "ts": 1795057163,
-   "photo": null
+   "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18_16926802.jpg"
   },
   {
    "key": "MAR_CAUTHEN_TRISHA_2026-11-18_8460013",
@@ -21,7 +65,7 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1795056838,
-   "photo": null
+   "photo": "photos/MAR_CAUTHEN_TRISHA_2026-11-18_8460013.jpg"
   },
   {
    "key": "MAR_RHODE_JOSHUA_2026-11-18_3122804",
@@ -51,7 +95,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 20,
    "ts": 1795055265,
    "photo": null
@@ -186,51 +230,7 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 1,
    "ts": 1795049858,
-   "photo": null
-  },
-  {
-   "key": "RC_KUEFFLER_JOSHUA_120011076404621",
-   "name": "Joshua Ryan Kueffler",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "OWI (5th or 6th)",
-   "more": 0,
-   "ts": 1795049288,
-   "photo": "photos/RC_KUEFFLER_JOSHUA_120011076404621.jpg"
-  },
-  {
-   "key": "MKE_CHALMERS_CURTIS_326316",
-   "name": "Curtis Lidell Chalmers",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1795048070,
-   "photo": null
-  },
-  {
-   "key": "MKE_MALONE_TRAYVIONTAE_601647",
-   "name": "Trayviontae T Malone",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 1,
-   "ts": 1795048068,
-   "photo": "photos/MKE_MALONE_TRAYVIONTAE_601647.jpg"
-  },
-  {
-   "key": "MKE_GRADY_JOHNNY_639363",
-   "name": "Johnny Donnell Grady",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 1,
-   "ts": 1795048066,
-   "photo": null
+   "photo": "photos/MKE_TROTTER_SHAQUILLE_629290.jpg"
   },
   {
    "key": "DOU_MCMILLIAN_DWIGHT_2026-11-18",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_WHETZEL_JACOB_388493",
+   "name": "Jacob Robert Whetzel",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Party to a Crime",
+   "more": 1,
+   "ts": 1795058866,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_QUINTON_602077",
+   "name": "Quinton Dalon Ward",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 4,
+   "ts": 1795058864,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNBAR_DETERRION_602398",
+   "name": "Deterrion A Dunbar",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 8,
+   "ts": 1795058862,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRADLEY_LANAIJHA_648384",
+   "name": "Lanaijha Yvonne Bradley",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1795058860,
+   "photo": null
+  },
+  {
    "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18_16926802",
    "name": "Alexandro Del Valle Rivera",
    "age": "46",
@@ -540,7 +584,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 3,
    "ts": 1795057163,
-   "photo": null
+   "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18_16926802.jpg"
   },
   {
    "key": "MAR_CAUTHEN_TRISHA_2026-11-18_8460013",
@@ -551,7 +595,7 @@
    "charge": "Probation Violation",
    "more": 0,
    "ts": 1795056838,
-   "photo": null
+   "photo": "photos/MAR_CAUTHEN_TRISHA_2026-11-18_8460013.jpg"
   },
   {
    "key": "MAR_RHODE_JOSHUA_2026-11-18_3122804",
@@ -581,7 +625,7 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 20,
    "ts": 1795055265,
    "photo": null
@@ -716,7 +760,7 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 1,
    "ts": 1795049858,
-   "photo": null
+   "photo": "photos/MKE_TROTTER_SHAQUILLE_629290.jpg"
   },
   {
    "key": "RC_KUEFFLER_JOSHUA_120011076404621",
@@ -738,7 +782,7 @@
    "charge": "Habitual Criminality",
    "more": 1,
    "ts": 1795048070,
-   "photo": null
+   "photo": "photos/MKE_CHALMERS_CURTIS_326316.jpg"
   },
   {
    "key": "MKE_MALONE_TRAYVIONTAE_601647",
@@ -760,7 +804,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 1,
    "ts": 1795048066,
-   "photo": null
+   "photo": "photos/MKE_GRADY_JOHNNY_639363.jpg"
   },
   {
    "key": "MKE_SAMUEL_MARINO_648383",
@@ -5216,39 +5260,6 @@
    "more": 2,
    "ts": 1794801176,
    "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_EDDIE_212605",
-   "name": "Eddie James Williams",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794799668,
-   "photo": "photos/MKE_WILLIAMS_EDDIE_212605.jpg"
-  },
-  {
-   "key": "MKE_DOTTS_LADETRA_400376",
-   "name": "Ladetra D Dotts",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794799666,
-   "photo": "photos/MKE_DOTTS_LADETRA_400376.jpg"
-  },
-  {
-   "key": "FDL_DUFNER_STEPHANIE_2026-11-15",
-   "name": "Stephanie Marie Dufner",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794798983,
-   "photo": "photos/FDL_DUFNER_STEPHANIE_2026-11-15.jpg"
   }
  ]
 }
