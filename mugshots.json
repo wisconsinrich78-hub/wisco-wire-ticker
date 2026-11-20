@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T16:33:30+00:00",
+ "updated": "2026-11-20T16:49:25+00:00",
  "items": [
+  {
+   "key": "RC_OTTO_ERIC_120011076457085",
+   "name": "Eric George Otto",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795193270,
+   "photo": "photos/RC_OTTO_ERIC_120011076457085.jpg"
+  },
+  {
+   "key": "LINDSAY_THOMAS_2026-11-20",
+   "name": "Thomas L Lindsay",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1795193228,
+   "photo": null
+  },
   {
    "key": "FDL_SUTTLE_ISIAH_2026-11-20",
    "name": "Isiah Rahim Suttle",
@@ -51,7 +73,7 @@
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Theft-Movable Property<=$2500",
    "more": 0,
    "ts": 1795189674,
    "photo": "photos/RC_DELGADO_JETZARY_120011076454504.jpg"
@@ -62,7 +84,7 @@
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795189671,
    "photo": null
@@ -73,7 +95,7 @@
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
    "more": 0,
    "ts": 1795189669,
    "photo": null
@@ -187,17 +209,6 @@
    "more": 0,
    "ts": 1795177653,
    "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_LASHYNETT_621374",
-   "name": "Lashynett Yasmina Jackson",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795177651,
-   "photo": "photos/MKE_JACKSON_LASHYNETT_621374.jpg"
   },
   {
    "key": "FDL_LIMONES_JORGE_2026-11-20",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795118096,
    "photo": "photos/MAR_FRALEY_DARREN_2026-11-19.jpg"
-  },
-  {
-   "key": "MAR_CANTRELL_DAVID_2026-11-19_2535004",
-   "name": "David Lee Cantrell",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 3rd",
-   "more": 0,
-   "ts": 1795118053,
-   "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19_2535004.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_OTTO_ERIC_120011076457085",
+   "name": "Eric George Otto",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795193270,
+   "photo": "photos/RC_OTTO_ERIC_120011076457085.jpg"
+  },
+  {
+   "key": "LINDSAY_THOMAS_2026-11-20",
+   "name": "Thomas L Lindsay",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1795193228,
+   "photo": null
+  },
   {
    "key": "FDL_SUTTLE_ISIAH_2026-11-20",
    "name": "Isiah Rahim Suttle",
@@ -581,7 +603,7 @@
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Theft-Movable Property<=$2500",
    "more": 0,
    "ts": 1795189674,
    "photo": "photos/RC_DELGADO_JETZARY_120011076454504.jpg"
@@ -592,7 +614,7 @@
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795189671,
    "photo": null
@@ -603,7 +625,7 @@
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
    "more": 0,
    "ts": 1795189669,
    "photo": null
