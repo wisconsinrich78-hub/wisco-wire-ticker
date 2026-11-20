@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T10:49:27+00:00",
+ "updated": "2026-11-20T10:59:45+00:00",
  "items": [
+  {
+   "key": "MKE_ROBINSON_CYNTHIA_240674",
+   "name": "Cynthia Marie Robinson",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795172279,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEWART_RALPH_303906",
+   "name": "Ralph Solomon Stewart",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795172278,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCARTHUR_STEPHON_392447",
+   "name": "Stephon L Mcarthur",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795172276,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_EUGENE_404815",
+   "name": "Eugene Davante Ward",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795172274,
+   "photo": null
+  },
+  {
+   "key": "MKE_CUNNINGHAM_GARRETT_648415",
+   "name": "Garrett Cunningham",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795172273,
+   "photo": null
+  },
   {
    "key": "TREM_MISCH_DAVID_1857",
    "name": "David Charles Misch",
@@ -231,61 +286,6 @@
    "more": 0,
    "ts": 1795157849,
    "photo": "photos/MKE_EDWARDS_NATHAN_636440.jpg"
-  },
-  {
-   "key": "RC_GONZALEZCHAVEZ_MACROANTONIO_120011076444975",
-   "name": "Macroantonio Gonzalez Chavez",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795157272,
-   "photo": null
-  },
-  {
-   "key": "MKE_GARCIASANTIESTEBAN_LUIS_195339",
-   "name": "Luis Garcia-Santiesteban",
-   "age": "78",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
-   "more": 2,
-   "ts": 1795156049,
-   "photo": "photos/MKE_GARCIASANTIESTEBAN_LUIS_195339.jpg"
-  },
-  {
-   "key": "MKE_GILMORE_CHERRY_628903",
-   "name": "Cherry Gilmore",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795156047,
-   "photo": "photos/MKE_GILMORE_CHERRY_628903.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_SIDNEY_222686",
-   "name": "Sidney Nmn Jackson",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795152454,
-   "photo": "photos/MKE_JACKSON_SIDNEY_222686.jpg"
-  },
-  {
-   "key": "MKE_PEREADELACRUZ_JOSE_648410",
-   "name": "Jose Enrique Perea De La Cruz",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795152452,
-   "photo": "photos/MKE_PEREADELACRUZ_JOSE_648410.jpg"
   },
   {
    "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ROBINSON_CYNTHIA_240674",
+   "name": "Cynthia Marie Robinson",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795172279,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEWART_RALPH_303906",
+   "name": "Ralph Solomon Stewart",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795172278,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCARTHUR_STEPHON_392447",
+   "name": "Stephon L Mcarthur",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795172276,
+   "photo": null
+  },
+  {
+   "key": "MKE_WARD_EUGENE_404815",
+   "name": "Eugene Davante Ward",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795172274,
+   "photo": null
+  },
+  {
+   "key": "MKE_CUNNINGHAM_GARRETT_648415",
+   "name": "Garrett Cunningham",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795172273,
+   "photo": null
+  },
   {
    "key": "TREM_MISCH_DAVID_1857",
    "name": "David Charles Misch",
@@ -1024,7 +1079,7 @@
    "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 4,
    "ts": 1795141682,
-   "photo": null
+   "photo": "photos/MKE_GATSONSTAPLES_CAMRON_640416.jpg"
   },
   {
    "key": "MKE_CHESIRE_JOHN_648405",
@@ -1310,7 +1365,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1795130864,
-   "photo": null
+   "photo": "photos/MKE_SAULSBERRY_OKURIAN_628856.jpg"
   },
   {
    "key": "MKE_MONCADA_MEYLING_648399",
@@ -1343,7 +1398,7 @@
    "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
    "more": 1,
    "ts": 1795129059,
-   "photo": null
+   "photo": "photos/MKE_SWORSKE_SHAWN_638741.jpg"
   },
   {
    "key": "RC_GREER_QUEMONT_120011076436608",
@@ -5282,50 +5337,6 @@
    "more": 0,
    "ts": 1794916389,
    "photo": "photos/MAR_MARUSKA_JOSHUA_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_BONILLA_MARVIN_350410",
-   "name": "Marvin John Bonilla",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1794913050,
-   "photo": "photos/MKE_BONILLA_MARVIN_350410.jpg"
-  },
-  {
-   "key": "MKE_SCHMIDT_HARRISON_642092",
-   "name": "Harrison William Schmidt",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794913049,
-   "photo": "photos/MKE_SCHMIDT_HARRISON_642092.jpg"
-  },
-  {
-   "key": "MKE_SCHMIDT_AMBER_648352",
-   "name": "Amber Kelly Schmidt",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794913047,
-   "photo": "photos/MKE_SCHMIDT_AMBER_648352.jpg"
-  },
-  {
-   "key": "MAR_HOOVER_TYLYN_2026-11-16_33803",
-   "name": "Tylyn D Hoover",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794912791,
-   "photo": "photos/MAR_HOOVER_TYLYN_2026-11-16_33803.jpg"
   }
  ]
 }
