@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T00:10:40+00:00",
+ "updated": "2026-11-20T00:44:36+00:00",
  "items": [
+  {
+   "key": "BALLWEG_HELEN_2026-11-19",
+   "name": "Helen J Ballweg",
+   "age": "63",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 0,
+   "ts": 1795134856,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTIN_MARTELL_359233",
+   "name": "Martell P Martin",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
+   "more": 1,
+   "ts": 1795134458,
+   "photo": null
+  },
+  {
+   "key": "MKE_HONZIK_DANIEL_624054",
+   "name": "Daniel W Honzik",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Child Pornography",
+   "more": 3,
+   "ts": 1795134456,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELACRUZREYES_MARGARITO_643865",
+   "name": "Margarito Delacruz-Reyes",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795134454,
+   "photo": null
+  },
+  {
+   "key": "MKE_KEMP_JERRELL_648400",
+   "name": "Jerrell Kemp",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 12,
+   "ts": 1795134452,
+   "photo": null
+  },
   {
    "key": "KEN_UPSHAW_MICHAEL_2026-00006411",
    "name": "Michael Karl Upshaw",
@@ -150,7 +205,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "charge": "Party to a Crime",
    "more": 8,
    "ts": 1795125452,
    "photo": null
@@ -200,17 +255,6 @@
    "photo": "photos/MAR_KOHN_STACIE_2026-11-19.jpg"
   },
   {
-   "key": "KEN_CHILDERS_SHANE_2026-00006408",
-   "name": "Shane Marcus Childers",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795121826,
-   "photo": "photos/KEN_CHILDERS_SHANE_2026-00006408.jpg"
-  },
-  {
    "key": "MAR_HULSTROM_SHAWNEEN_2026-11-19",
    "name": "Shawneen Marie Hulstrom",
    "age": "48",
@@ -220,39 +264,6 @@
    "more": 0,
    "ts": 1795121607,
    "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-19.jpg"
-  },
-  {
-   "key": "RC_ESTRADA_JUAN_120011076431539",
-   "name": "Juan Marcos Estrada",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795121289,
-   "photo": "photos/RC_ESTRADA_JUAN_120011076431539.jpg"
-  },
-  {
-   "key": "RC_LONDRE_SHAWN_120011076431598",
-   "name": "Shawn Edward Londre",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795121286,
-   "photo": "photos/RC_LONDRE_SHAWN_120011076431598.jpg"
-  },
-  {
-   "key": "RC_PRUSINSKI_RONALD_120011076431620",
-   "name": "Ronald George Prusinski",
-   "age": "75",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795121283,
-   "photo": null
   },
   {
    "key": "MAR_FRALEY_DARREN_2026-11-19",
@@ -517,20 +528,64 @@
    "more": 2,
    "ts": 1795042029,
    "photo": "photos/WILSON_ANTHONY_2026-11-18.jpg"
-  },
-  {
-   "key": "FDL_HARRISON_ZAELYN_2026-11-18_26SO2959",
-   "name": "Zaelyn Christyna Harrison",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Receive Stolen Property - $2,500-$5,000",
-   "more": 0,
-   "ts": 1795040397,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "BALLWEG_HELEN_2026-11-19",
+   "name": "Helen J Ballweg",
+   "age": "63",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 0,
+   "ts": 1795134856,
+   "photo": null
+  },
+  {
+   "key": "MKE_MARTIN_MARTELL_359233",
+   "name": "Martell P Martin",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
+   "more": 1,
+   "ts": 1795134458,
+   "photo": null
+  },
+  {
+   "key": "MKE_HONZIK_DANIEL_624054",
+   "name": "Daniel W Honzik",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Child Pornography",
+   "more": 3,
+   "ts": 1795134456,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELACRUZREYES_MARGARITO_643865",
+   "name": "Margarito Delacruz-Reyes",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795134454,
+   "photo": null
+  },
+  {
+   "key": "MKE_KEMP_JERRELL_648400",
+   "name": "Jerrell Kemp",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 12,
+   "ts": 1795134452,
+   "photo": null
+  },
   {
    "key": "KEN_UPSHAW_MICHAEL_2026-00006411",
    "name": "Michael Karl Upshaw",
@@ -680,7 +735,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "charge": "Party to a Crime",
    "more": 8,
    "ts": 1795125452,
    "photo": null
@@ -1255,7 +1310,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795103854,
-   "photo": null
+   "photo": "photos/MKE_BURTON_BARBARA_648395.jpg"
   },
   {
    "key": "RC_PORTER_TOBARUS_120011076418679",
@@ -1321,7 +1376,7 @@
    "charge": "Repeated Sexual Assault of Same Child (At Least 3 Violations of 1st\u2026",
    "more": 1,
    "ts": 1795102066,
-   "photo": null
+   "photo": "photos/MKE_GONZALEZ_GEOVANNI_615188.jpg"
   },
   {
    "key": "MKE_WILLIS_AARON_2061725",
@@ -1398,7 +1453,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 3,
    "ts": 1795091251,
-   "photo": null
+   "photo": "photos/MKE_FERGUSON_AMORE_645926.jpg"
   },
   {
    "key": "MKE_PENDELTON_MARQUIS_527036",
@@ -5150,39 +5205,6 @@
    "more": 2,
    "ts": 1794876486,
    "photo": "photos/RC_WILLIAMS_JOEY_120011076337186.jpg"
-  },
-  {
-   "key": "MKE_JONES_TERRELL_261900",
-   "name": "Terrell Demound Jones",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1794875269,
-   "photo": "photos/MKE_JONES_TERRELL_261900.jpg"
-  },
-  {
-   "key": "MKE_BUTCHER_DONTRAIL_393551",
-   "name": "Dontrail Jamual Butcher",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794875267,
-   "photo": "photos/MKE_BUTCHER_DONTRAIL_393551.jpg"
-  },
-  {
-   "key": "FDL_MOSS_CRAIG_2026-11-16",
-   "name": "Craig R Moss",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "TRANSPORT - WARRANT (x0)",
-   "more": 1,
-   "ts": 1794874603,
-   "photo": null
   }
  ]
 }
