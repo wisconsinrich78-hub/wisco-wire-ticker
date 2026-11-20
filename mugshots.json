@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T09:35:11+00:00",
+ "updated": "2026-11-20T09:49:26+00:00",
  "items": [
+  {
+   "key": "RC_MCKINNEY_JERMAINE_120011076447942",
+   "name": "Jermaine Lee Mckinney",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795168076,
+   "photo": "photos/RC_MCKINNEY_JERMAINE_120011076447942.jpg"
+  },
   {
    "key": "MKE_HAYWOOD_CYNTHIA_648413",
    "name": "Cynthia M Haywood",
@@ -277,17 +288,6 @@
    "photo": "photos/FDL_SULLIVAN_ROGER_2026-11-19.jpg"
   },
   {
-   "key": "MKE_KING_BYRON_257861",
-   "name": "Byron Durnell King",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795147052,
-   "photo": "photos/MKE_KING_BYRON_257861.jpg"
-  },
-  {
    "key": "MAR_KLOTH_GARY_2026-11-19",
    "name": "Gary L Kloth",
    "age": "74",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MCKINNEY_JERMAINE_120011076447942",
+   "name": "Jermaine Lee Mckinney",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795168076,
+   "photo": "photos/RC_MCKINNEY_JERMAINE_120011076447942.jpg"
+  },
   {
    "key": "MKE_HAYWOOD_CYNTHIA_648413",
    "name": "Cynthia M Haywood",
