@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T16:49:25+00:00",
+ "updated": "2026-11-20T16:58:35+00:00",
  "items": [
+  {
+   "key": "MKE_NELSON_SYNCERE_642978",
+   "name": "Syncere EddieKashawn Nelson",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795193862,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWISMCCALL_CORTEZ_648420",
+   "name": "Cortez R Lewis McCall",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 1,
+   "ts": 1795193861,
+   "photo": null
+  },
   {
    "key": "RC_OTTO_ERIC_120011076457085",
    "name": "Eric George Otto",
@@ -187,28 +209,6 @@
    "more": 2,
    "ts": 1795179456,
    "photo": "photos/MKE_WARD_DEMARIO_502023.jpg"
-  },
-  {
-   "key": "MKE_FOSTER_DEWAYNE_2067764",
-   "name": "Dewayne D Foster",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/ Intent-THC (>200-1000g)",
-   "more": 2,
-   "ts": 1795179454,
-   "photo": "photos/MKE_FOSTER_DEWAYNE_2067764.jpg"
-  },
-  {
-   "key": "MKE_SMITH_JERELLE_505620",
-   "name": "Jerelle Lamonte Smith",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795177653,
-   "photo": null
   },
   {
    "key": "FDL_LIMONES_JORGE_2026-11-20",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_NELSON_SYNCERE_642978",
+   "name": "Syncere EddieKashawn Nelson",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795193862,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWISMCCALL_CORTEZ_648420",
+   "name": "Cortez R Lewis McCall",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 1,
+   "ts": 1795193861,
+   "photo": null
+  },
   {
    "key": "RC_OTTO_ERIC_120011076457085",
    "name": "Eric George Otto",
@@ -5326,61 +5348,6 @@
    "more": 0,
    "ts": 1794935783,
    "photo": null
-  },
-  {
-   "key": "MKE_REYNOLDS_ROBERT_626266",
-   "name": "Robert P Reynolds",
-   "age": "77",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Child Pornography",
-   "more": 1,
-   "ts": 1794934672,
-   "photo": "photos/MKE_REYNOLDS_ROBERT_626266.jpg"
-  },
-  {
-   "key": "MKE_VARELAESPINOZA_EDDYS_646856",
-   "name": "Eddys Francisco Varela-Espinoza",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 1,
-   "ts": 1794934670,
-   "photo": "photos/MKE_VARELAESPINOZA_EDDYS_646856.jpg"
-  },
-  {
-   "key": "KEN_WASHINGTON_RICHARD_2026-00006360",
-   "name": "Richard Dewayne Washington",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Marijuana (THC)",
-   "more": 3,
-   "ts": 1794934455,
-   "photo": "photos/KEN_WASHINGTON_RICHARD_2026-00006360.jpg"
-  },
-  {
-   "key": "MAR_NEWCOMER_SCOT_2026-11-17",
-   "name": "Scot Thomas Newcomer",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ Ad Prosequendum",
-   "more": 0,
-   "ts": 1794934444,
-   "photo": "photos/MAR_NEWCOMER_SCOT_2026-11-17.jpg"
-  },
-  {
-   "key": "MAR_VANOOYEN_BRAYDEN_2026-11-17_880804",
-   "name": "Brayden Michael Vanooyen",
-   "age": "24",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1794934406,
-   "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17_880804.jpg"
   }
  ]
 }
