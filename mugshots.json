@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T06:56:16+00:00",
+ "updated": "2026-11-20T07:49:29+00:00",
  "items": [
+  {
+   "key": "RC_MCREE_MAXI_120011076446222",
+   "name": "Maxi N Mcree",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795160895,
+   "photo": "photos/RC_MCREE_MAXI_120011076446222.jpg"
+  },
+  {
+   "key": "RC_BRUNSON_PATRICK_120011076446256",
+   "name": "Patrick L Brunson",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795160892,
+   "photo": "photos/RC_BRUNSON_PATRICK_120011076446256.jpg"
+  },
+  {
+   "key": "FDL_CORNELL_JAMES_2026-11-20",
+   "name": "James Michael Cornell",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795158965,
+   "photo": "photos/FDL_CORNELL_JAMES_2026-11-20.jpg"
+  },
+  {
+   "key": "MKE_QUARLES_DIKITA_633657",
+   "name": "Dikita Quarles",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795157850,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_NATHAN_636440",
+   "name": "Nathan Loren Edwards",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795157849,
+   "photo": null
+  },
   {
    "key": "RC_GONZALEZCHAVEZ_MACROANTONIO_120011076444975",
    "name": "Macroantonio Gonzalez Chavez",
@@ -18,7 +73,7 @@
    "age": "78",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Muni. Retail Theft-Intent. Conceal",
+   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
    "more": 2,
    "ts": 1795156049,
    "photo": null
@@ -220,50 +275,6 @@
    "more": 0,
    "ts": 1795142983,
    "photo": "photos/RC_WILLIAMS_SHAQUILLE_120011076427384.jpg"
-  },
-  {
-   "key": "RC_AYERS_MICHAEL_120011076440064",
-   "name": "Michael Ayers",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795142980,
-   "photo": "photos/RC_AYERS_MICHAEL_120011076440064.jpg"
-  },
-  {
-   "key": "RC_CALHOUN_DENISE_120011076440419",
-   "name": "Denise Irene Calhoun",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 1,
-   "ts": 1795142978,
-   "photo": null
-  },
-  {
-   "key": "RC_MUSCHLEWSKI_FIONA_120011076440830",
-   "name": "Fiona Snow Muschlewski",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1795142975,
-   "photo": null
-  },
-  {
-   "key": "MKE_GATSONSTAPLES_CAMRON_640416",
-   "name": "Camron Gatson Staples",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 4,
-   "ts": 1795141682,
-   "photo": null
   },
   {
    "key": "FDL_VANDEBERG_CASSANDRA_2026-11-19",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1795097767,
    "photo": "photos/FDL_CHRISTL_RICHARD_2026-11-19.jpg"
-  },
-  {
-   "key": "TREM_THOMPSON_JARROD_4677",
-   "name": "Jarrod Paul Thompson",
-   "age": "45",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 0,
-   "ts": 1795085234,
-   "photo": "photos/TREM_THOMPSON_JARROD_4677.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MCREE_MAXI_120011076446222",
+   "name": "Maxi N Mcree",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795160895,
+   "photo": "photos/RC_MCREE_MAXI_120011076446222.jpg"
+  },
+  {
+   "key": "RC_BRUNSON_PATRICK_120011076446256",
+   "name": "Patrick L Brunson",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795160892,
+   "photo": "photos/RC_BRUNSON_PATRICK_120011076446256.jpg"
+  },
+  {
+   "key": "FDL_CORNELL_JAMES_2026-11-20",
+   "name": "James Michael Cornell",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795158965,
+   "photo": "photos/FDL_CORNELL_JAMES_2026-11-20.jpg"
+  },
+  {
+   "key": "MKE_QUARLES_DIKITA_633657",
+   "name": "Dikita Quarles",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795157850,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_NATHAN_636440",
+   "name": "Nathan Loren Edwards",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795157849,
+   "photo": null
+  },
   {
    "key": "RC_GONZALEZCHAVEZ_MACROANTONIO_120011076444975",
    "name": "Macroantonio Gonzalez Chavez",
@@ -548,7 +603,7 @@
    "age": "78",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Muni. Retail Theft-Intent. Conceal",
+   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
    "more": 2,
    "ts": 1795156049,
    "photo": null
@@ -1090,7 +1145,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795130862,
-   "photo": null
+   "photo": "photos/MKE_MONCADA_MEYLING_648399.jpg"
   },
   {
    "key": "FDL_BLANSETTE_DANIEL_2026-11-19",
@@ -5227,72 +5282,6 @@
    "more": 1,
    "ts": 1794902092,
    "photo": "photos/KEN_GUNTERMOORE_KARA_2026-00006351.jpg"
-  },
-  {
-   "key": "RC_POLLARD_PORTIA_120011076345552",
-   "name": "Portia Marie Pollard",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Electric Weapon",
-   "more": 1,
-   "ts": 1794901735,
-   "photo": null
-  },
-  {
-   "key": "RC_CANADY_QUMAIRE_120011076345722",
-   "name": "Qumaire J Canady",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of a Firearm by a Felon",
-   "more": 0,
-   "ts": 1794901732,
-   "photo": "photos/RC_CANADY_QUMAIRE_120011076345722.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_KOLAIND_120011076346130",
-   "name": "Kolaind Brazil Williams",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794901726,
-   "photo": "photos/RC_WILLIAMS_KOLAIND_120011076346130.jpg"
-  },
-  {
-   "key": "MKE_PEREZTERON_MIGUEL_384647",
-   "name": "Miguel A Perez-teron",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794898653,
-   "photo": "photos/MKE_PEREZTERON_MIGUEL_384647.jpg"
-  },
-  {
-   "key": "MKE_LOPEZ_JESUS_611918",
-   "name": "Jesus Alexis Lopez",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 5,
-   "ts": 1794898651,
-   "photo": "photos/MKE_LOPEZ_JESUS_611918.jpg"
-  },
-  {
-   "key": "MKE_WARD_IYANNA_648350",
-   "name": "Iyanna Tremay Ward",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794898650,
-   "photo": "photos/MKE_WARD_IYANNA_648350.jpg"
   }
  ]
 }
