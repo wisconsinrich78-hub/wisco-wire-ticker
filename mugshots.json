@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:49:28+00:00",
+ "updated": "2026-11-20T20:10:48+00:00",
  "items": [
+  {
+   "key": "MKE_OKEEFE_TIMOTHY_648426",
+   "name": "Timothy M OKeefe",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "more": 3,
+   "ts": 1795204663,
+   "photo": null
+  },
   {
    "key": "RC_MROCH_AMANDA_120011076464338",
    "name": "Amanda Lynn Mroch",
@@ -32,7 +43,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 1,
    "ts": 1795201069,
-   "photo": null
+   "photo": "photos/MKE_LEE_TRISTAN_641480.jpg"
   },
   {
    "key": "MKE_DUNCAN_ROBERT_648424",
@@ -51,8 +62,8 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1795201065,
    "photo": null
   },
@@ -109,7 +120,7 @@
    "charge": "Burglary-Building or Dwelling",
    "more": 3,
    "ts": 1795199251,
-   "photo": null
+   "photo": "photos/MKE_JAW_EH_616308.jpg"
   },
   {
    "key": "MKE_GIL_YORI_648423",
@@ -208,17 +219,6 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795195647,
-   "photo": null
-  },
-  {
-   "key": "MKE_MOORE_ASHANTI_648422",
-   "name": "Ashanti N Moore",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795195646,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_OKEEFE_TIMOTHY_648426",
+   "name": "Timothy M OKeefe",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "more": 3,
+   "ts": 1795204663,
+   "photo": null
+  },
+  {
    "key": "RC_MROCH_AMANDA_120011076464338",
    "name": "Amanda Lynn Mroch",
    "age": "36",
@@ -562,7 +573,7 @@
    "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 1,
    "ts": 1795201069,
-   "photo": null
+   "photo": "photos/MKE_LEE_TRISTAN_641480.jpg"
   },
   {
    "key": "MKE_DUNCAN_ROBERT_648424",
@@ -581,8 +592,8 @@
    "age": "21",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1795201065,
    "photo": null
   },
@@ -639,7 +650,7 @@
    "charge": "Burglary-Building or Dwelling",
    "more": 3,
    "ts": 1795199251,
-   "photo": null
+   "photo": "photos/MKE_JAW_EH_616308.jpg"
   },
   {
    "key": "MKE_GIL_YORI_648423",
@@ -837,7 +848,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1795190262,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_JEREMIAH_625732.jpg"
   },
   {
    "key": "RC_DELGADO_JETZARY_120011076454504",
@@ -980,7 +991,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795177653,
-   "photo": null
+   "photo": "photos/MKE_SMITH_JERELLE_505620.jpg"
   },
   {
    "key": "MKE_JACKSON_LASHYNETT_621374",
@@ -5282,83 +5293,6 @@
    "more": 0,
    "ts": 1794947335,
    "photo": "photos/MKE_HENDERSONBELL_TANEA_648359.jpg"
-  },
-  {
-   "key": "KEN_HARRIS_ANTHONY_2026-00006362",
-   "name": "ANTHONY LEE Second HARRIS",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794945906,
-   "photo": "photos/KEN_HARRIS_ANTHONY_2026-00006362.jpg"
-  },
-  {
-   "key": "KEN_CLARK_KATELYNN_2026-00006363",
-   "name": "Katelynn Cole Clark",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794945821,
-   "photo": "photos/KEN_CLARK_KATELYNN_2026-00006363.jpg"
-  },
-  {
-   "key": "KEN_CARDENAS_MELISSA_2026-00006364",
-   "name": "Melissa Roxanne Cardenas",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794945740,
-   "photo": "photos/KEN_CARDENAS_MELISSA_2026-00006364.jpg"
-  },
-  {
-   "key": "MKE_JEFF_DEVONTE_401702",
-   "name": "Devonte Lee Jeff",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Stalking",
-   "more": 13,
-   "ts": 1794945548,
-   "photo": "photos/MKE_JEFF_DEVONTE_401702.jpg"
-  },
-  {
-   "key": "MKE_RUCKER_TAQUAYLA_604835",
-   "name": "Taquayla Rucker",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794945537,
-   "photo": "photos/MKE_RUCKER_TAQUAYLA_604835.jpg"
-  },
-  {
-   "key": "MKE_MUNIZ_KEVIN_616911",
-   "name": "Kevin Junique Muniz",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 1,
-   "ts": 1794945533,
-   "photo": "photos/MKE_MUNIZ_KEVIN_616911.jpg"
-  },
-  {
-   "key": "MAR_JAMES_ALIYA_2026-11-17",
-   "name": "Aliya Mae James",
-   "age": "20",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of THC",
-   "more": 1,
-   "ts": 1794945347,
-   "photo": "photos/MAR_JAMES_ALIYA_2026-11-17.jpg"
   }
  ]
 }
