@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-20T21:49:29+00:00",
+ "updated": "2026-11-20T22:04:50+00:00",
  "items": [
+  {
+   "key": "MKE_MCELROY_DARIUS_535609",
+   "name": "Darius Jaquan Mcelroy",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795211859,
+   "photo": null
+  },
+  {
+   "key": "MKE_CATHEY_KASHWON_613645",
+   "name": "Kashwon Connel Cathey",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795211857,
+   "photo": null
+  },
+  {
+   "key": "MKE_KUKLINSKI_KIMBERLY_637487",
+   "name": "Kimberly Therese Kuklinski",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1795211855,
+   "photo": null
+  },
+  {
+   "key": "MKE_ERICKSON_JUSTIN_643367",
+   "name": "Justin D Erickson",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 4,
+   "ts": 1795211854,
+   "photo": null
+  },
   {
    "key": "HOU_ENGELHART_ANNABELLESUE_6335",
    "name": "Annabelle Sue Engelhart",
@@ -40,8 +84,8 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
    "ts": 1795210058,
    "photo": null
   },
@@ -128,7 +172,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1795204663,
    "photo": null
@@ -165,50 +209,6 @@
    "more": 1,
    "ts": 1795201069,
    "photo": "photos/MKE_LEE_TRISTAN_641480.jpg"
-  },
-  {
-   "key": "MKE_DUNCAN_ROBERT_648424",
-   "name": "Robert Duncan",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1795201067,
-   "photo": null
-  },
-  {
-   "key": "MKE_CASTRILLONMUJICA_GABRIEL_648425",
-   "name": "Gabriel O Castrillon-Mujica",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795201065,
-   "photo": null
-  },
-  {
-   "key": "RC_CRUZ_EDWIN_120011076462448",
-   "name": "Edwin E Cruz",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence (2nd)",
-   "more": 0,
-   "ts": 1795200483,
-   "photo": "photos/RC_CRUZ_EDWIN_120011076462448.jpg"
-  },
-  {
-   "key": "RC_CARTER_DOMINIC_120011076462544",
-   "name": "Dominic Derick Carter",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795200480,
-   "photo": "photos/RC_CARTER_DOMINIC_120011076462544.jpg"
   },
   {
    "key": "BRITTON_CHERYL_2026-11-20",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_MCELROY_DARIUS_535609",
+   "name": "Darius Jaquan Mcelroy",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795211859,
+   "photo": null
+  },
+  {
+   "key": "MKE_CATHEY_KASHWON_613645",
+   "name": "Kashwon Connel Cathey",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795211857,
+   "photo": null
+  },
+  {
+   "key": "MKE_KUKLINSKI_KIMBERLY_637487",
+   "name": "Kimberly Therese Kuklinski",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 3,
+   "ts": 1795211855,
+   "photo": null
+  },
+  {
+   "key": "MKE_ERICKSON_JUSTIN_643367",
+   "name": "Justin D Erickson",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 4,
+   "ts": 1795211854,
+   "photo": null
+  },
+  {
    "key": "HOU_ENGELHART_ANNABELLESUE_6335",
    "name": "Annabelle Sue Engelhart",
    "age": "18",
@@ -570,8 +614,8 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
    "ts": 1795210058,
    "photo": null
   },
@@ -658,7 +702,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1795204663,
    "photo": null
@@ -859,7 +903,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795195649,
-   "photo": null
+   "photo": "photos/MKE_SINIARD_NICHOLAS_527701.jpg"
   },
   {
    "key": "MKE_LEWIS_JAMAL_648421",
@@ -5293,28 +5337,6 @@
    "more": 0,
    "ts": 1794956124,
    "photo": "photos/MAR_STANDS_SHANICE_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_PRICE_WILLIE_290929",
-   "name": "Willie Darnel Price",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 2,
-   "ts": 1794952743,
-   "photo": "photos/MKE_PRICE_WILLIE_290929.jpg"
-  },
-  {
-   "key": "MKE_MORRIS_AMBER_612906",
-   "name": "Amber M Morris",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794952738,
-   "photo": "photos/MKE_MORRIS_AMBER_612906.jpg"
   }
  ]
 }
