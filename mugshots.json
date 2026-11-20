@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:08:30+00:00",
+ "updated": "2026-11-20T23:40:35+00:00",
  "items": [
   {
    "key": "MKE_SPEARS_ANDRE_295029",
@@ -7,7 +7,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 2,
    "ts": 1795215456,
    "photo": null
@@ -29,7 +29,7 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Operate with Restricted Controlled Substance (2nd)",
    "more": 3,
    "ts": 1795215452,
    "photo": null
@@ -62,7 +62,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent/Deliver Narcotics",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 2,
    "ts": 1795211859,
    "photo": null
@@ -537,7 +537,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 2,
    "ts": 1795215456,
    "photo": null
@@ -559,7 +559,7 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Operate with Restricted Controlled Substance (2nd)",
    "more": 3,
    "ts": 1795215452,
    "photo": null
@@ -592,7 +592,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent/Deliver Narcotics",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 2,
    "ts": 1795211859,
    "photo": null
@@ -1002,7 +1002,7 @@
    "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 1,
    "ts": 1795193861,
-   "photo": null
+   "photo": "photos/MKE_LEWISMCCALL_CORTEZ_648420.jpg"
   },
   {
    "key": "RC_OTTO_ERIC_120011076457085",
@@ -5216,105 +5216,6 @@
    "more": 6,
    "ts": 1794959299,
    "photo": "photos/RC_STROUD_GIOVANNI_120011076369470.jpg"
-  },
-  {
-   "key": "MKE_DOE_CHRISTOPHER_278162",
-   "name": "Christopher David Doe",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794958124,
-   "photo": "photos/MKE_DOE_CHRISTOPHER_278162.jpg"
-  },
-  {
-   "key": "MKE_CARSON_DEMONTE_648362",
-   "name": "Demonte M Carson",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794958117,
-   "photo": "photos/MKE_CARSON_DEMONTE_648362.jpg"
-  },
-  {
-   "key": "MKE_LAJOICE_CHARLES_648363",
-   "name": "Charles Lajoice",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1794958111,
-   "photo": "photos/MKE_LAJOICE_CHARLES_648363.jpg"
-  },
-  {
-   "key": "KEN_VALOTTA_MARK_2026-00006372",
-   "name": "Mark Valotta",
-   "age": "52",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 3,
-   "ts": 1794957962,
-   "photo": "photos/KEN_VALOTTA_MARK_2026-00006372.jpg"
-  },
-  {
-   "key": "KEN_SEAY_DERRICK_2026-00006371",
-   "name": "Derrick Lashawn Seay",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794957882,
-   "photo": "photos/KEN_SEAY_DERRICK_2026-00006371.jpg"
-  },
-  {
-   "key": "KEN_RUSH_LENNARD_2026-00006373",
-   "name": "Lennard Lee Rush",
-   "age": "49",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1794957812,
-   "photo": "photos/KEN_RUSH_LENNARD_2026-00006373.jpg"
-  },
-  {
-   "key": "KEN_PRATHER_FRED_2026-00006375",
-   "name": "FRED HENRY Fourth PRATHER",
-   "age": "39",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 2,
-   "ts": 1794957728,
-   "photo": "photos/KEN_PRATHER_FRED_2026-00006375.jpg"
-  },
-  {
-   "key": "KEN_PEASE_JAMES_2026-00006370",
-   "name": "James Cliford Pease",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property - Special Facts",
-   "more": 0,
-   "ts": 1794957651,
-   "photo": "photos/KEN_PEASE_JAMES_2026-00006370.jpg"
-  },
-  {
-   "key": "KEN_HARRELL_RASHEED_2026-00006374",
-   "name": "RASHEED UJIMA Junior HARRELL",
-   "age": "23",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Carrying Concealed Weapon",
-   "more": 0,
-   "ts": 1794957446,
-   "photo": "photos/KEN_HARRELL_RASHEED_2026-00006374.jpg"
   }
  ]
 }
