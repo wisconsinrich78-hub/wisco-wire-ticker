@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T05:18:51+00:00",
+ "updated": "2026-11-20T05:41:43+00:00",
  "items": [
+  {
+   "key": "MKE_JACKSON_SIDNEY_222686",
+   "name": "Sidney Nmn Jackson",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795152454,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREADELACRUZ_JOSE_648410",
+   "name": "Jose Enrique Perea De La Cruz",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795152452,
+   "photo": null
+  },
+  {
+   "key": "MKE_COULTER_ANDRE_648411",
+   "name": "Andre' Alexander Coulter",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795152450,
+   "photo": null
+  },
   {
    "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
    "name": "Kimberly Anne Stevens",
@@ -230,39 +263,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795141671,
-   "photo": null
-  },
-  {
-   "key": "MKE_ZERA_MARK_407104",
-   "name": "Mark J Zera",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 0,
-   "ts": 1795139871,
-   "photo": null
-  },
-  {
-   "key": "MKE_KENYON_CARI_623919",
-   "name": "Cari A Kenyon",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1795139869,
-   "photo": null
-  },
-  {
-   "key": "MKE_VALENCIAMONROY_JOSE_648404",
-   "name": "Jose David Valencia Monroy",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795139867,
    "photo": null
   },
   {
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_JACKSON_SIDNEY_222686",
+   "name": "Sidney Nmn Jackson",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795152454,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEREADELACRUZ_JOSE_648410",
+   "name": "Jose Enrique Perea De La Cruz",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795152452,
+   "photo": null
+  },
+  {
+   "key": "MKE_COULTER_ANDRE_648411",
+   "name": "Andre' Alexander Coulter",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795152450,
+   "photo": null
+  },
+  {
    "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
    "name": "Kimberly Anne Stevens",
    "age": "",
@@ -793,7 +826,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795139867,
-   "photo": null
+   "photo": "photos/MKE_VALENCIAMONROY_JOSE_648404.jpg"
   },
   {
    "key": "RC_MARTIN_TRAVEON_120011076438493",
@@ -5260,39 +5293,6 @@
    "more": 2,
    "ts": 1794896819,
    "photo": null
-  },
-  {
-   "key": "MKE_LEE_MONTE_399446",
-   "name": "Monte Solomon Lee",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794893271,
-   "photo": "photos/MKE_LEE_MONTE_399446.jpg"
-  },
-  {
-   "key": "MKE_WALKER_SHANTAJA_648348",
-   "name": "Shantaja Nicollae Walker",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794893269,
-   "photo": "photos/MKE_WALKER_SHANTAJA_648348.jpg"
-  },
-  {
-   "key": "MKE_JONES_ANTONIO_648349",
-   "name": "Antonio Deangelo Jones",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794893266,
-   "photo": "photos/MKE_JONES_ANTONIO_648349.jpg"
   }
  ]
 }
