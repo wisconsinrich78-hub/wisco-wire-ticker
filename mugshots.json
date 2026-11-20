@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-19T23:49:34+00:00",
+ "updated": "2026-11-20T00:10:40+00:00",
  "items": [
+  {
+   "key": "KEN_UPSHAW_MICHAEL_2026-00006411",
+   "name": "Michael Karl Upshaw",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Retail Theft-Intentionally Take (>$500-$5000) Ptac",
+   "more": 0,
+   "ts": 1795133100,
+   "photo": null
+  },
+  {
+   "key": "KEN_TAYLOR_SCOTT_2026-00006413",
+   "name": "Scott Lawrence Taylor",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795133062,
+   "photo": "photos/KEN_TAYLOR_SCOTT_2026-00006413.jpg"
+  },
+  {
+   "key": "KEN_SANDOVALCAREY_VALERIE_2026-00006409",
+   "name": "Valerie Ann Sandoval-Carey",
+   "age": "56",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795132983,
+   "photo": "photos/KEN_SANDOVALCAREY_VALERIE_2026-00006409.jpg"
+  },
+  {
+   "key": "KEN_NAVARRO_PERFECTO_2026-00006412",
+   "name": "PERFECTO Junior NAVARRO",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795132906,
+   "photo": "photos/KEN_NAVARRO_PERFECTO_2026-00006412.jpg"
+  },
+  {
+   "key": "MAR_FRALEY_DARREN_2026-11-19_15992803",
+   "name": "Darren L Fraley",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795132567,
+   "photo": "photos/MAR_FRALEY_DARREN_2026-11-19_15992803.jpg"
+  },
+  {
+   "key": "MAR_MOCK_ANDREW_2026-11-19_4934907",
+   "name": "Andrew Neal Mock",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Violate Order/Contempt of Court",
+   "more": 0,
+   "ts": 1795132530,
+   "photo": "photos/MAR_MOCK_ANDREW_2026-11-19_4934907.jpg"
+  },
+  {
+   "key": "MAR_THAO_JAMES_2026-11-19_828125",
+   "name": "James Alie Thao",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt/Ct-Limitation on Imprisonment",
+   "more": 0,
+   "ts": 1795132492,
+   "photo": "photos/MAR_THAO_JAMES_2026-11-19_828125.jpg"
+  },
   {
    "key": "AUSTIN_ANDREW_2026-11-19",
    "name": "Andrew S Austin",
@@ -106,7 +183,7 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Cause Injury/Operating-Control Substance (2+)",
    "more": 0,
    "ts": 1795125300,
    "photo": "photos/KEN_KENYON_KARINA_2026-00006410.jpg"
@@ -175,50 +252,6 @@
    "charge": "",
    "more": 0,
    "ts": 1795121283,
-   "photo": null
-  },
-  {
-   "key": "RC_KNOTEK_MICHAEL_120011076432125",
-   "name": "Michael J Knotek",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795121280,
-   "photo": "photos/RC_KNOTEK_MICHAEL_120011076432125.jpg"
-  },
-  {
-   "key": "MKE_GREER_QUEMONT_648398",
-   "name": "Quemont Greer",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795120067,
-   "photo": "photos/MKE_GREER_QUEMONT_648398.jpg"
-  },
-  {
-   "key": "MKE_VELAZQUEZMEDINA_JOSE_639024",
-   "name": "Jose Velazquez-Medina",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Soliciting a Child for Prostitution",
-   "more": 0,
-   "ts": 1795118262,
-   "photo": null
-  },
-  {
-   "key": "MKE_WRIGHT_ASTAJAH_648397",
-   "name": "Astajah D Wright",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795118260,
    "photo": null
   },
   {
@@ -453,39 +486,6 @@
    "photo": "photos/MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807.jpg"
   },
   {
-   "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18_16926802",
-   "name": "Alexandro Del Valle Rivera",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 3,
-   "ts": 1795057163,
-   "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18_16926802.jpg"
-  },
-  {
-   "key": "MAR_CAUTHEN_TRISHA_2026-11-18_8460013",
-   "name": "Trisha Lynn Cauthen",
-   "age": "40",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795056838,
-   "photo": "photos/MAR_CAUTHEN_TRISHA_2026-11-18_8460013.jpg"
-  },
-  {
-   "key": "MAR_RHODE_JOSHUA_2026-11-18_3122804",
-   "name": "Joshua Bruce Rhode",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795056798,
-   "photo": "photos/MAR_RHODE_JOSHUA_2026-11-18_3122804.jpg"
-  },
-  {
    "key": "FDL_JEFFREY_MYRON_2026-11-18",
    "name": "Myron Devon Jeffrey",
    "age": "",
@@ -531,6 +531,83 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_UPSHAW_MICHAEL_2026-00006411",
+   "name": "Michael Karl Upshaw",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Retail Theft-Intentionally Take (>$500-$5000) Ptac",
+   "more": 0,
+   "ts": 1795133100,
+   "photo": null
+  },
+  {
+   "key": "KEN_TAYLOR_SCOTT_2026-00006413",
+   "name": "Scott Lawrence Taylor",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795133062,
+   "photo": "photos/KEN_TAYLOR_SCOTT_2026-00006413.jpg"
+  },
+  {
+   "key": "KEN_SANDOVALCAREY_VALERIE_2026-00006409",
+   "name": "Valerie Ann Sandoval-Carey",
+   "age": "56",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795132983,
+   "photo": "photos/KEN_SANDOVALCAREY_VALERIE_2026-00006409.jpg"
+  },
+  {
+   "key": "KEN_NAVARRO_PERFECTO_2026-00006412",
+   "name": "PERFECTO Junior NAVARRO",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795132906,
+   "photo": "photos/KEN_NAVARRO_PERFECTO_2026-00006412.jpg"
+  },
+  {
+   "key": "MAR_FRALEY_DARREN_2026-11-19_15992803",
+   "name": "Darren L Fraley",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795132567,
+   "photo": "photos/MAR_FRALEY_DARREN_2026-11-19_15992803.jpg"
+  },
+  {
+   "key": "MAR_MOCK_ANDREW_2026-11-19_4934907",
+   "name": "Andrew Neal Mock",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Violate Order/Contempt of Court",
+   "more": 0,
+   "ts": 1795132530,
+   "photo": "photos/MAR_MOCK_ANDREW_2026-11-19_4934907.jpg"
+  },
+  {
+   "key": "MAR_THAO_JAMES_2026-11-19_828125",
+   "name": "James Alie Thao",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Contempt/Ct-Limitation on Imprisonment",
+   "more": 0,
+   "ts": 1795132492,
+   "photo": "photos/MAR_THAO_JAMES_2026-11-19_828125.jpg"
+  },
   {
    "key": "AUSTIN_ANDREW_2026-11-19",
    "name": "Andrew S Austin",
@@ -636,7 +713,7 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Cause Injury/Operating-Control Substance (2+)",
    "more": 0,
    "ts": 1795125300,
    "photo": "photos/KEN_KENYON_KARINA_2026-00006410.jpg"
@@ -779,8 +856,8 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Entry Into Locked Vehicle Ptac",
+   "more": 1,
    "ts": 1795118044,
    "photo": "photos/KEN_PICOU_JUSTIN_2026-00006407.jpg"
   },
