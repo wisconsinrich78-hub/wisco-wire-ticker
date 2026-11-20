@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-20T18:49:26+00:00",
+ "updated": "2026-11-20T18:59:39+00:00",
  "items": [
+  {
+   "key": "MKE_MATAYA_SARAH_521927",
+   "name": "Sarah Marie Mataya",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Amphetamine (>50g)",
+   "more": 0,
+   "ts": 1795201071,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_TRISTAN_641480",
+   "name": "Tristan Chaleng Lee",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 1,
+   "ts": 1795201069,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNCAN_ROBERT_648424",
+   "name": "Robert Duncan",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1795201067,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTRILLONMUJICA_GABRIEL_648425",
+   "name": "Gabriel O Castrillon-Mujica",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795201065,
+   "photo": null
+  },
   {
    "key": "RC_CRUZ_EDWIN_120011076462448",
    "name": "Edwin E Cruz",
@@ -41,7 +85,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Theft-Movable Property fr. Person/Corpse",
-   "more": 2,
+   "more": 3,
    "ts": 1795199254,
    "photo": null
   },
@@ -178,28 +222,6 @@
    "photo": "photos/MKE_NELSON_SYNCERE_642978.jpg"
   },
   {
-   "key": "MKE_LEWISMCCALL_CORTEZ_648420",
-   "name": "Cortez R Lewis McCall",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 1,
-   "ts": 1795193861,
-   "photo": null
-  },
-  {
-   "key": "RC_OTTO_ERIC_120011076457085",
-   "name": "Eric George Otto",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795193270,
-   "photo": "photos/RC_OTTO_ERIC_120011076457085.jpg"
-  },
-  {
    "key": "LINDSAY_THOMAS_2026-11-20",
    "name": "Thomas L Lindsay",
    "age": "47",
@@ -231,28 +253,6 @@
    "more": 0,
    "ts": 1795191380,
    "photo": "photos/FDL_LAMOREAUX_ZANE_2026-11-20.jpg"
-  },
-  {
-   "key": "MKE_LEE_TERRY_276076",
-   "name": "Terry Jermaine Lee",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795190265,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_JEREMIAH_625732",
-   "name": "Jeremiah Zaire Jackson",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1795190262,
-   "photo": null
   },
   {
    "key": "FDL_LIMONES_JORGE_2026-11-20",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_MATAYA_SARAH_521927",
+   "name": "Sarah Marie Mataya",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-Amphetamine (>50g)",
+   "more": 0,
+   "ts": 1795201071,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_TRISTAN_641480",
+   "name": "Tristan Chaleng Lee",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Vehicle Operator Flee/Elude Officer",
+   "more": 1,
+   "ts": 1795201069,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUNCAN_ROBERT_648424",
+   "name": "Robert Duncan",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1795201067,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTRILLONMUJICA_GABRIEL_648425",
+   "name": "Gabriel O Castrillon-Mujica",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795201065,
+   "photo": null
+  },
+  {
    "key": "RC_CRUZ_EDWIN_120011076462448",
    "name": "Edwin E Cruz",
    "age": "35",
@@ -571,7 +615,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Theft-Movable Property fr. Person/Corpse",
-   "more": 2,
+   "more": 3,
    "ts": 1795199254,
    "photo": null
   },
@@ -4926,8 +4970,8 @@
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Battery by Prisoners",
+   "more": 6,
    "ts": 1794959299,
    "photo": "photos/RC_STROUD_GIOVANNI_120011076369470.jpg"
   },
@@ -5337,50 +5381,6 @@
    "more": 0,
    "ts": 1794943640,
    "photo": null
-  },
-  {
-   "key": "MKE_CLOYD_YAREE_402391",
-   "name": "Yaree L Cloyd",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
-   "more": 2,
-   "ts": 1794941888,
-   "photo": "photos/MKE_CLOYD_YAREE_402391.jpg"
-  },
-  {
-   "key": "MKE_TRUSSELL_JACQUISE_637425",
-   "name": "Jacquise Lavern Trussell",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794941885,
-   "photo": "photos/MKE_TRUSSELL_JACQUISE_637425.jpg"
-  },
-  {
-   "key": "MKE_OCAMPOGUTIERREZ_JOEZEN_648291",
-   "name": "Joezen Ocampo-Gutierrez",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Attempt",
-   "more": 9,
-   "ts": 1794941882,
-   "photo": "photos/MKE_OCAMPOGUTIERREZ_JOEZEN_648291.jpg"
-  },
-  {
-   "key": "MAR_KIEFER_TRISTON_2026-11-17_5250709",
-   "name": "Triston Scott Kiefer",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 2,
-   "ts": 1794941654,
-   "photo": "photos/MAR_KIEFER_TRISTON_2026-11-17_5250709.jpg"
   }
  ]
 }
