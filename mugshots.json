@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T03:49:27+00:00",
+ "updated": "2026-11-20T04:30:45+00:00",
  "items": [
+  {
+   "key": "FDL_SULLIVAN_ROGER_2026-11-19",
+   "name": "Roger Donald Sullivan",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795148202,
+   "photo": "photos/FDL_SULLIVAN_ROGER_2026-11-19.jpg"
+  },
+  {
+   "key": "MKE_KING_BYRON_257861",
+   "name": "Byron Durnell King",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795147052,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIAS_STEPHANIE_648409",
+   "name": "Stephanie Pias",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Methamphetamine",
+   "more": 0,
+   "ts": 1795147051,
+   "photo": null
+  },
   {
    "key": "MKE_PIGGEE_KEVIN_648408",
    "name": "Kevin L Piggee",
@@ -189,17 +222,6 @@
    "photo": "photos/RC_MARTIN_TRAVEON_120011076438493.jpg"
   },
   {
-   "key": "RC_WILLIAMS_HALEY_120011076439200",
-   "name": "Haley Jade Williams",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 2,
-   "ts": 1795139284,
-   "photo": "photos/RC_WILLIAMS_HALEY_120011076439200.jpg"
-  },
-  {
    "key": "FDL_VANDEBERG_CASSANDRA_2026-11-19",
    "name": "Cassandra L Vande Berg",
    "age": "",
@@ -208,17 +230,6 @@
    "charge": "Possession of Cocaine (2nd and Subsequent Offense)",
    "more": 1,
    "ts": 1795137416,
-   "photo": null
-  },
-  {
-   "key": "MKE_LOURY_FREQUON_648401",
-   "name": "Frequon C Loury",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1795136256,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795043785,
    "photo": "photos/FDL_JEFFREY_MYRON_2026-11-18.jpg"
-  },
-  {
-   "key": "FDL_BLOCK_KHYRE_2026-11-18",
-   "name": "Khyre Gerrard Block",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Receive Stolen Property - $2,500-$5,000",
-   "more": 0,
-   "ts": 1795043767,
-   "photo": "photos/FDL_BLOCK_KHYRE_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_SULLIVAN_ROGER_2026-11-19",
+   "name": "Roger Donald Sullivan",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795148202,
+   "photo": "photos/FDL_SULLIVAN_ROGER_2026-11-19.jpg"
+  },
+  {
+   "key": "MKE_KING_BYRON_257861",
+   "name": "Byron Durnell King",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795147052,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIAS_STEPHANIE_648409",
+   "name": "Stephanie Pias",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Methamphetamine",
+   "more": 0,
+   "ts": 1795147051,
+   "photo": null
+  },
   {
    "key": "MKE_PIGGEE_KEVIN_648408",
    "name": "Kevin L Piggee",
@@ -804,7 +837,7 @@
    "charge": "Possession of Child Pornography",
    "more": 3,
    "ts": 1795134456,
-   "photo": null
+   "photo": "photos/MKE_HONZIK_DANIEL_624054.jpg"
   },
   {
    "key": "MKE_DELACRUZREYES_MARGARITO_643865",
@@ -5260,39 +5293,6 @@
    "more": 1,
    "ts": 1794890826,
    "photo": "photos/REDMOND_LEE_2026-11-16.jpg"
-  },
-  {
-   "key": "DOU_NELSON_NATALIE_2026-11-16",
-   "name": "Natalie A Nelson",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 0,
-   "ts": 1794889022,
-   "photo": "photos/DOU_NELSON_NATALIE_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_HUARACHAORTIZ_SANTIAGO_648345",
-   "name": "Santiago Sipriano Huaracha-Ortiz",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1794887878,
-   "photo": "photos/MKE_HUARACHAORTIZ_SANTIAGO_648345.jpg"
-  },
-  {
-   "key": "MKE_CANNONPETERSON_RENA_648346",
-   "name": "Rena Nicole Cannon Peterson",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794887876,
-   "photo": "photos/MKE_CANNONPETERSON_RENA_648346.jpg"
   }
  ]
 }
