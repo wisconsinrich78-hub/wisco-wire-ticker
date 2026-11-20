@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T10:02:02+00:00",
+ "updated": "2026-11-20T10:49:27+00:00",
  "items": [
+  {
+   "key": "TREM_MISCH_DAVID_1857",
+   "name": "David Charles Misch",
+   "age": "54",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795171641,
+   "photo": "photos/TREM_MISCH_DAVID_1857.jpg"
+  },
+  {
+   "key": "TREM_LEWANDOWSKI_JOSHUA_2453",
+   "name": "Joshua Mark Lewandowski",
+   "age": "41",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 2,
+   "ts": 1795171639,
+   "photo": "photos/TREM_LEWANDOWSKI_JOSHUA_2453.jpg"
+  },
+  {
+   "key": "TREM_SHEFFIELD_JOSHUA_4295",
+   "name": "Joshua Tyler Sheffield",
+   "age": "35",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795171637,
+   "photo": "photos/TREM_SHEFFIELD_JOSHUA_4295.jpg"
+  },
+  {
+   "key": "TREM_JANSSEN_JENNA_5821",
+   "name": "Jenna Lorene Janssen",
+   "age": "19",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1795171635,
+   "photo": "photos/TREM_JANSSEN_JENNA_5821.jpg"
+  },
+  {
+   "key": "TREM_CASTRO_KARITZA_6219",
+   "name": "Karitza Castro",
+   "age": "29",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Child Abuse - Intentionally Cause Harm",
+   "more": 0,
+   "ts": 1795171633,
+   "photo": "photos/TREM_CASTRO_KARITZA_6219.jpg"
+  },
   {
    "key": "MKE_RODRIGUEZ_RAMON_294229",
    "name": "Ramon Ben Rodriguez",
@@ -29,8 +84,8 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Criminal Damage To Property",
+   "more": 7,
    "ts": 1795168076,
    "photo": "photos/RC_MCKINNEY_JERMAINE_120011076447942.jpg"
   },
@@ -473,64 +528,64 @@
    "more": 1,
    "ts": 1795114472,
    "photo": "photos/MAR_WARD_VILAS_2026-11-19.jpg"
-  },
-  {
-   "key": "MAR_MOCK_ANDREW_2026-11-19",
-   "name": "Andrew Neal Mock",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Violate Order/Contempt of Court",
-   "more": 0,
-   "ts": 1795114440,
-   "photo": "photos/MAR_MOCK_ANDREW_2026-11-19.jpg"
-  },
-  {
-   "key": "MAR_CANTRELL_DAVID_2026-11-19",
-   "name": "David Lee Cantrell",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 3rd",
-   "more": 0,
-   "ts": 1795114406,
-   "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19.jpg"
-  },
-  {
-   "key": "DOU_OMARY_RHONDA_2026-11-19",
-   "name": "Rhonda B Omary",
-   "age": "30",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Cont Subst/Possess Synthetics",
-   "more": 2,
-   "ts": 1795112219,
-   "photo": "photos/DOU_OMARY_RHONDA_2026-11-19.jpg"
-  },
-  {
-   "key": "BENKA_EDWARD_2026-11-19",
-   "name": "Edward J Benka",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795109223,
-   "photo": null
-  },
-  {
-   "key": "BALDWIN_CHRISTOPHER_2026-11-19",
-   "name": "Christopher N Baldwin",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795109222,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "TREM_MISCH_DAVID_1857",
+   "name": "David Charles Misch",
+   "age": "54",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795171641,
+   "photo": "photos/TREM_MISCH_DAVID_1857.jpg"
+  },
+  {
+   "key": "TREM_LEWANDOWSKI_JOSHUA_2453",
+   "name": "Joshua Mark Lewandowski",
+   "age": "41",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 2,
+   "ts": 1795171639,
+   "photo": "photos/TREM_LEWANDOWSKI_JOSHUA_2453.jpg"
+  },
+  {
+   "key": "TREM_SHEFFIELD_JOSHUA_4295",
+   "name": "Joshua Tyler Sheffield",
+   "age": "35",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795171637,
+   "photo": "photos/TREM_SHEFFIELD_JOSHUA_4295.jpg"
+  },
+  {
+   "key": "TREM_JANSSEN_JENNA_5821",
+   "name": "Jenna Lorene Janssen",
+   "age": "19",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1795171635,
+   "photo": "photos/TREM_JANSSEN_JENNA_5821.jpg"
+  },
+  {
+   "key": "TREM_CASTRO_KARITZA_6219",
+   "name": "Karitza Castro",
+   "age": "29",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Child Abuse - Intentionally Cause Harm",
+   "more": 0,
+   "ts": 1795171633,
+   "photo": "photos/TREM_CASTRO_KARITZA_6219.jpg"
+  },
   {
    "key": "MKE_RODRIGUEZ_RAMON_294229",
    "name": "Ramon Ben Rodriguez",
@@ -559,8 +614,8 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Criminal Damage To Property",
+   "more": 7,
    "ts": 1795168076,
    "photo": "photos/RC_MCKINNEY_JERMAINE_120011076447942.jpg"
   },
@@ -5271,28 +5326,6 @@
    "more": 0,
    "ts": 1794912791,
    "photo": "photos/MAR_HOOVER_TYLYN_2026-11-16_33803.jpg"
-  },
-  {
-   "key": "TREM_HEMBD_ALLY_4143",
-   "name": "Ally Marjorie Hembd",
-   "age": "25",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794912427,
-   "photo": "photos/TREM_HEMBD_ALLY_4143.jpg"
-  },
-  {
-   "key": "TREM_FORT_SHAWN_4278",
-   "name": "Shawn Michael Fort",
-   "age": "35",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Failure to Appear Warrant",
-   "more": 0,
-   "ts": 1794912425,
-   "photo": "photos/TREM_FORT_SHAWN_4278.jpg"
   }
  ]
 }
