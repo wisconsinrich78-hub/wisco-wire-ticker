@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T23:40:35+00:00",
+ "updated": "2026-11-20T23:49:24+00:00",
  "items": [
+  {
+   "key": "MURPHY_ANTHONY_2026-11-20",
+   "name": "Anthony Murphy",
+   "age": "62",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795218431,
+   "photo": null
+  },
   {
    "key": "MKE_SPEARS_ANDRE_295029",
    "name": "Andre Antonio Spears",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1795137416,
    "photo": null
-  },
-  {
-   "key": "BALLWEG_HELEN_2026-11-19",
-   "name": "Helen J Ballweg",
-   "age": "63",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 0,
-   "ts": 1795134856,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MURPHY_ANTHONY_2026-11-20",
+   "name": "Anthony Murphy",
+   "age": "62",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795218431,
+   "photo": null
+  },
   {
    "key": "MKE_SPEARS_ANDRE_295029",
    "name": "Andre Antonio Spears",
@@ -4354,7 +4365,7 @@
    "age": "48",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795009684,
    "photo": null
@@ -5172,50 +5183,6 @@
    "more": 0,
    "ts": 1794959662,
    "photo": "photos/KEN_FARRIS_DARRIN_2026-00006376.jpg"
-  },
-  {
-   "key": "RC_NELSON_MELINDA_120011076365672",
-   "name": "Melinda Kaye Nelson",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 16,
-   "ts": 1794959310,
-   "photo": "photos/RC_NELSON_MELINDA_120011076365672.jpg"
-  },
-  {
-   "key": "RC_TUTTLE_CHRISTOPHER_120011076366118",
-   "name": "Christopher Michael Tuttle",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794959307,
-   "photo": "photos/RC_TUTTLE_CHRISTOPHER_120011076366118.jpg"
-  },
-  {
-   "key": "RC_KAULAITY_DYLAN_120011076366250",
-   "name": "Dylan Sean Kaulaity",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794959303,
-   "photo": "photos/RC_KAULAITY_DYLAN_120011076366250.jpg"
-  },
-  {
-   "key": "RC_STROUD_GIOVANNI_120011076369470",
-   "name": "Giovanni F l Stroud",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Battery by Prisoners",
-   "more": 6,
-   "ts": 1794959299,
-   "photo": "photos/RC_STROUD_GIOVANNI_120011076369470.jpg"
   }
  ]
 }
