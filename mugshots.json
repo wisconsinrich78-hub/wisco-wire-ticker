@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:59:45+00:00",
+ "updated": "2026-11-20T15:36:09+00:00",
  "items": [
   {
    "key": "RC_MACHADO_CRESENCIO_120011076453075",
@@ -18,8 +18,8 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1795184853,
    "photo": null
   },
@@ -32,7 +32,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795184851,
-   "photo": null
+   "photo": "photos/MKE_FARQUHARSON_JASMINE_601895.jpg"
   },
   {
    "key": "MKE_RODGERS_DEANDRE_400939",
@@ -54,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795183061,
-   "photo": null
+   "photo": "photos/MKE_WEBER_LEO_648418.jpg"
   },
   {
    "key": "MKE_MCELROY_LUCIANN_648419",
@@ -120,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795177651,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_LASHYNETT_621374.jpg"
   },
   {
    "key": "MKE_JOHNSON_JACOBI_648417",
@@ -548,8 +548,8 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1795184853,
    "photo": null
   },
@@ -562,7 +562,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795184851,
-   "photo": null
+   "photo": "photos/MKE_FARQUHARSON_JASMINE_601895.jpg"
   },
   {
    "key": "MKE_RODGERS_DEANDRE_400939",
@@ -584,7 +584,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795183061,
-   "photo": null
+   "photo": "photos/MKE_WEBER_LEO_648418.jpg"
   },
   {
    "key": "MKE_MCELROY_LUCIANN_648419",
@@ -650,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795177651,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_LASHYNETT_621374.jpg"
   },
   {
    "key": "MKE_JOHNSON_JACOBI_648417",
@@ -804,7 +804,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795168651,
-   "photo": null
+   "photo": "photos/MKE_RODRIGUEZ_RAMON_294229.jpg"
   },
   {
    "key": "MKE_CUNNINGHAM_BARRETT_648415",
@@ -5337,50 +5337,6 @@
    "more": 1,
    "ts": 1794930534,
    "photo": "photos/RC_GRESHAM_LAKIYA_120011076354283.jpg"
-  },
-  {
-   "key": "MKE_MAEBANE_KENNETH_343835",
-   "name": "Kenneth John Maebane",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794929483,
-   "photo": "photos/MKE_MAEBANE_KENNETH_343835.jpg"
-  },
-  {
-   "key": "MKE_CRUZ_NICASIO_389024",
-   "name": "Nicasio N Cruz",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 11,
-   "ts": 1794929482,
-   "photo": "photos/MKE_CRUZ_NICASIO_389024.jpg"
-  },
-  {
-   "key": "MKE_GENTRY_LEVI_648354",
-   "name": "Levi Gentry",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794929480,
-   "photo": "photos/MKE_GENTRY_LEVI_648354.jpg"
-  },
-  {
-   "key": "MKE_JONES_ANTONYUN_648355",
-   "name": "Antonyun J Jones",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794929477,
-   "photo": "photos/MKE_JONES_ANTONYUN_648355.jpg"
   }
  ]
 }
