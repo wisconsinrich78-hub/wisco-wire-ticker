@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T04:30:45+00:00",
+ "updated": "2026-11-20T04:49:28+00:00",
  "items": [
+  {
+   "key": "RC_ESTRADA_JUAN_120011076442986",
+   "name": "Juan Marcos Estrada",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795150079,
+   "photo": "photos/RC_ESTRADA_JUAN_120011076442986.jpg"
+  },
+  {
+   "key": "KRENN_JEREMY_2026-11-19",
+   "name": "Jeremy M Krenn",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1795149823,
+   "photo": null
+  },
+  {
+   "key": "GRESS_CHRISTOPHER_2026-11-19",
+   "name": "Christopher Ml Gress",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 3,
+   "ts": 1795149821,
+   "photo": null
+  },
   {
    "key": "FDL_SULLIVAN_ROGER_2026-11-19",
    "name": "Roger Donald Sullivan",
@@ -128,8 +161,8 @@
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1795142975,
    "photo": null
   },
@@ -209,17 +242,6 @@
    "more": 0,
    "ts": 1795139867,
    "photo": null
-  },
-  {
-   "key": "RC_MARTIN_TRAVEON_120011076438493",
-   "name": "Traveon Marshaun Martin",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795139287,
-   "photo": "photos/RC_MARTIN_TRAVEON_120011076438493.jpg"
   },
   {
    "key": "FDL_VANDEBERG_CASSANDRA_2026-11-19",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1795072596,
    "photo": "photos/FDL_TOELLNER_HEATHER_2026-11-19.jpg"
-  },
-  {
-   "key": "FDL_MCCABE_ZACHARY_2026-11-18",
-   "name": "Zachary Lawrence Mccabe",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Criminal Damage to Property",
-   "more": 0,
-   "ts": 1795065387,
-   "photo": null
-  },
-  {
-   "key": "FDL_JEFFREY_MYRON_2026-11-18",
-   "name": "Myron Devon Jeffrey",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Receive Stolen Property - $2,500-$5,000",
-   "more": 0,
-   "ts": 1795043785,
-   "photo": "photos/FDL_JEFFREY_MYRON_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ESTRADA_JUAN_120011076442986",
+   "name": "Juan Marcos Estrada",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795150079,
+   "photo": "photos/RC_ESTRADA_JUAN_120011076442986.jpg"
+  },
+  {
+   "key": "KRENN_JEREMY_2026-11-19",
+   "name": "Jeremy M Krenn",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1795149823,
+   "photo": null
+  },
+  {
+   "key": "GRESS_CHRISTOPHER_2026-11-19",
+   "name": "Christopher Ml Gress",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 3,
+   "ts": 1795149821,
+   "photo": null
+  },
   {
    "key": "FDL_SULLIVAN_ROGER_2026-11-19",
    "name": "Roger Donald Sullivan",
@@ -658,8 +691,8 @@
    "age": "23",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1795142975,
    "photo": null
   },
@@ -5282,17 +5315,6 @@
    "more": 0,
    "ts": 1794891199,
    "photo": "photos/MAR_HOOVER_TYLYN_2026-11-16.jpg"
-  },
-  {
-   "key": "REDMOND_LEE_2026-11-16",
-   "name": "Lee H Redmond",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794890826,
-   "photo": "photos/REDMOND_LEE_2026-11-16.jpg"
   }
  ]
 }
