@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-20T01:49:36+00:00",
+ "updated": "2026-11-20T02:47:57+00:00",
  "items": [
+  {
+   "key": "MKE_GATSONSTAPLES_CAMRON_640416",
+   "name": "Camron Gatson Staples",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 4,
+   "ts": 1795141682,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHESIRE_JOHN_648405",
+   "name": "John C Chesire",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795141678,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROMEO_MAKYI_648406",
+   "name": "MaKyi T Romeo",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1795141674,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALEXANDRE_ENOCK_648407",
+   "name": "Enock Philip Alexandre",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795141671,
+   "photo": null
+  },
+  {
+   "key": "MKE_ZERA_MARK_407104",
+   "name": "Mark J Zera",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 0,
+   "ts": 1795139871,
+   "photo": null
+  },
+  {
+   "key": "MKE_KENYON_CARI_623919",
+   "name": "Cari A Kenyon",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1795139869,
+   "photo": null
+  },
+  {
+   "key": "MKE_VALENCIAMONROY_JOSE_648404",
+   "name": "Jose David Valencia Monroy",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795139867,
+   "photo": null
+  },
   {
    "key": "RC_MARTIN_TRAVEON_120011076438493",
    "name": "Traveon Marshaun Martin",
@@ -109,7 +186,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795134454,
-   "photo": null
+   "photo": "photos/MKE_DELACRUZREYES_MARGARITO_643865.jpg"
   },
   {
    "key": "MKE_KEMP_JERRELL_648400",
@@ -121,50 +198,6 @@
    "more": 12,
    "ts": 1795134452,
    "photo": null
-  },
-  {
-   "key": "KEN_UPSHAW_MICHAEL_2026-00006411",
-   "name": "Michael Karl Upshaw",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Take (>$500-$5000) Ptac",
-   "more": 0,
-   "ts": 1795133100,
-   "photo": null
-  },
-  {
-   "key": "KEN_TAYLOR_SCOTT_2026-00006413",
-   "name": "Scott Lawrence Taylor",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795133062,
-   "photo": "photos/KEN_TAYLOR_SCOTT_2026-00006413.jpg"
-  },
-  {
-   "key": "KEN_SANDOVALCAREY_VALERIE_2026-00006409",
-   "name": "Valerie Ann Sandoval-Carey",
-   "age": "56",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795132983,
-   "photo": "photos/KEN_SANDOVALCAREY_VALERIE_2026-00006409.jpg"
-  },
-  {
-   "key": "KEN_NAVARRO_PERFECTO_2026-00006412",
-   "name": "PERFECTO Junior NAVARRO",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795132906,
-   "photo": "photos/KEN_NAVARRO_PERFECTO_2026-00006412.jpg"
   },
   {
    "key": "MAR_FRALEY_DARREN_2026-11-19_15992803",
@@ -211,28 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_SAULSBERRY_OKURIAN_628856",
-   "name": "Okurian D Saulsberry",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1795130864,
-   "photo": null
-  },
-  {
-   "key": "MKE_MONCADA_MEYLING_648399",
-   "name": "Meyling Moncada",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795130862,
-   "photo": null
-  },
-  {
    "key": "FDL_BLANSETTE_DANIEL_2026-11-19",
    "name": "Daniel A Blansette",
    "age": "",
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1795130161,
    "photo": "photos/FDL_BLANSETTE_DANIEL_2026-11-19.jpg"
-  },
-  {
-   "key": "MKE_SWORSKE_SHAWN_638741",
-   "name": "Shawn Michael Sworske",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
-   "more": 1,
-   "ts": 1795129059,
-   "photo": null
   },
   {
    "key": "MAR_KOHN_STACIE_2026-11-19",
@@ -532,6 +532,83 @@
  ],
  "all_items": [
   {
+   "key": "MKE_GATSONSTAPLES_CAMRON_640416",
+   "name": "Camron Gatson Staples",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 4,
+   "ts": 1795141682,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHESIRE_JOHN_648405",
+   "name": "John C Chesire",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795141678,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROMEO_MAKYI_648406",
+   "name": "MaKyi T Romeo",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1795141674,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALEXANDRE_ENOCK_648407",
+   "name": "Enock Philip Alexandre",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795141671,
+   "photo": null
+  },
+  {
+   "key": "MKE_ZERA_MARK_407104",
+   "name": "Mark J Zera",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 0,
+   "ts": 1795139871,
+   "photo": null
+  },
+  {
+   "key": "MKE_KENYON_CARI_623919",
+   "name": "Cari A Kenyon",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1795139869,
+   "photo": null
+  },
+  {
+   "key": "MKE_VALENCIAMONROY_JOSE_648404",
+   "name": "Jose David Valencia Monroy",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795139867,
+   "photo": null
+  },
+  {
    "key": "RC_MARTIN_TRAVEON_120011076438493",
    "name": "Traveon Marshaun Martin",
    "age": "35",
@@ -639,7 +716,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795134454,
-   "photo": null
+   "photo": "photos/MKE_DELACRUZREYES_MARGARITO_643865.jpg"
   },
   {
    "key": "MKE_KEMP_JERRELL_648400",
@@ -5194,39 +5271,6 @@
    "more": 1,
    "ts": 1794883691,
    "photo": "photos/RC_PIGGEE_GKARR_120011076339868.jpg"
-  },
-  {
-   "key": "MKE_SMITH_ALESHA_515875",
-   "name": "Alesha Marie Smith",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794882459,
-   "photo": "photos/MKE_SMITH_ALESHA_515875.jpg"
-  },
-  {
-   "key": "MKE_PIPPINS_DEVON_630968",
-   "name": "Devon A Pippins",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 4,
-   "ts": 1794880659,
-   "photo": "photos/MKE_PIPPINS_DEVON_630968.jpg"
-  },
-  {
-   "key": "MKE_SHAW_JEREMIAH_648344",
-   "name": "Jeremiah Shaw",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794880658,
-   "photo": "photos/MKE_SHAW_JEREMIAH_648344.jpg"
   }
  ]
 }
