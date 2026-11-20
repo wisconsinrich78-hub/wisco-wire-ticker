@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T22:04:50+00:00",
+ "updated": "2026-11-20T22:34:34+00:00",
  "items": [
+  {
+   "key": "GOSA_DARRELL_2026-11-20",
+   "name": "Darrell L Gosa",
+   "age": "61",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 3,
+   "ts": 1795213622,
+   "photo": null
+  },
   {
    "key": "MKE_MCELROY_DARIUS_535609",
    "name": "Darius Jaquan Mcelroy",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795134856,
    "photo": null
-  },
-  {
-   "key": "MAR_FRALEY_DARREN_2026-11-19_15992803",
-   "name": "Darren L Fraley",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795132567,
-   "photo": "photos/MAR_FRALEY_DARREN_2026-11-19_15992803.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "GOSA_DARRELL_2026-11-20",
+   "name": "Darrell L Gosa",
+   "age": "61",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Lacrosse County Arrest/Bench Warrant",
+   "more": 3,
+   "ts": 1795213622,
+   "photo": null
+  },
   {
    "key": "MKE_MCELROY_DARIUS_535609",
    "name": "Darius Jaquan Mcelroy",
