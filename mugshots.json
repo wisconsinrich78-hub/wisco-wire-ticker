@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T06:37:38+00:00",
+ "updated": "2026-11-20T06:49:26+00:00",
  "items": [
+  {
+   "key": "RC_GONZALEZCHAVEZ_MACROANTONIO_120011076444975",
+   "name": "Macroantonio Gonzalez Chavez",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795157272,
+   "photo": null
+  },
   {
    "key": "MKE_GARCIASANTIESTEBAN_LUIS_195339",
    "name": "Luis Garcia-Santiesteban",
@@ -252,17 +263,6 @@
    "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 4,
    "ts": 1795141682,
-   "photo": null
-  },
-  {
-   "key": "MKE_CHESIRE_JOHN_648405",
-   "name": "John C Chesire",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795141678,
    "photo": null
   },
   {
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GONZALEZCHAVEZ_MACROANTONIO_120011076444975",
+   "name": "Macroantonio Gonzalez Chavez",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795157272,
+   "photo": null
+  },
   {
    "key": "MKE_GARCIASANTIESTEBAN_LUIS_195339",
    "name": "Luis Garcia-Santiesteban",
@@ -5293,17 +5304,6 @@
    "more": 2,
    "ts": 1794898478,
    "photo": "photos/KEN_GARCIA_ARNOLD_2026-00006350.jpg"
-  },
-  {
-   "key": "BRAUDT_DEREK_2026-11-16",
-   "name": "Derek G Braudt",
-   "age": "21",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 2,
-   "ts": 1794898027,
-   "photo": null
   }
  ]
 }
