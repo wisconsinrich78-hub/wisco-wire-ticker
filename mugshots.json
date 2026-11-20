@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T13:49:26+00:00",
+ "updated": "2026-11-20T13:58:41+00:00",
  "items": [
+  {
+   "key": "MKE_RODGERS_DEANDRE_400939",
+   "name": "Deandre Davon Rodgers",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795183063,
+   "photo": null
+  },
+  {
+   "key": "MKE_WEBER_LEO_648418",
+   "name": "Leo Weber",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795183061,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCELROY_LUCIANN_648419",
+   "name": "Luciann Renee McElroy",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795183058,
+   "photo": null
+  },
   {
    "key": "MKE_JOHNSON_ANTONIO_355794",
    "name": "Antonio Q Johnson",
@@ -208,39 +241,6 @@
    "charge": "",
    "more": 0,
    "ts": 1795168651,
-   "photo": null
-  },
-  {
-   "key": "MKE_CUNNINGHAM_BARRETT_648415",
-   "name": "Barrett Cunningham",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795168650,
-   "photo": null
-  },
-  {
-   "key": "RC_MCKINNEY_JERMAINE_120011076447942",
-   "name": "Jermaine Lee Mckinney",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 7,
-   "ts": 1795168076,
-   "photo": "photos/RC_MCKINNEY_JERMAINE_120011076447942.jpg"
-  },
-  {
-   "key": "MKE_HAYWOOD_CYNTHIA_648413",
-   "name": "Cynthia M Haywood",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795166874,
    "photo": null
   },
   {
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_RODGERS_DEANDRE_400939",
+   "name": "Deandre Davon Rodgers",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795183063,
+   "photo": null
+  },
+  {
+   "key": "MKE_WEBER_LEO_648418",
+   "name": "Leo Weber",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795183061,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCELROY_LUCIANN_648419",
+   "name": "Luciann Renee McElroy",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795183058,
+   "photo": null
+  },
+  {
    "key": "MKE_JOHNSON_ANTONIO_355794",
    "name": "Antonio Q Johnson",
    "age": "37",
@@ -782,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795166872,
-   "photo": null
+   "photo": "photos/MKE_PALMER_TONY_648414.jpg"
   },
   {
    "key": "GRIFFIN_GARY_2026-11-20",
@@ -5326,17 +5359,6 @@
    "more": 0,
    "ts": 1794927205,
    "photo": "photos/MAR_CLARK_CORA_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_CUNNINGHAM_KAMYA_640395",
-   "name": "Kamya Lashawn Cunningham",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse-Inflict Pain/Injury/Illness",
-   "more": 5,
-   "ts": 1794923853,
-   "photo": "photos/MKE_CUNNINGHAM_KAMYA_640395.jpg"
   }
  ]
 }
