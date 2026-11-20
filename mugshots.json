@@ -1,13 +1,35 @@
 {
- "updated": "2026-11-20T13:58:41+00:00",
+ "updated": "2026-11-20T14:36:56+00:00",
  "items": [
+  {
+   "key": "MKE_WILSON_ROVONTE_543038",
+   "name": "Rovonte Marcel Wilson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795184853,
+   "photo": null
+  },
+  {
+   "key": "MKE_FARQUHARSON_JASMINE_601895",
+   "name": "Jasmine Aisha Farquharson",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795184851,
+   "photo": null
+  },
   {
    "key": "MKE_RODGERS_DEANDRE_400939",
    "name": "Deandre Davon Rodgers",
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Carry Concealed Weapon",
    "more": 0,
    "ts": 1795183063,
    "photo": null
@@ -32,7 +54,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795183058,
-   "photo": null
+   "photo": "photos/MKE_MCELROY_LUCIANN_648419.jpg"
   },
   {
    "key": "MKE_JOHNSON_ANTONIO_355794",
@@ -109,7 +131,7 @@
    "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 0,
    "ts": 1795174047,
-   "photo": null
+   "photo": "photos/MKE_MARTINEZMARTINEZ_BRIAN_642981.jpg"
   },
   {
    "key": "FDL_LIMONES_JORGE_2026-11-20",
@@ -131,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795172279,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_CYNTHIA_240674.jpg"
   },
   {
    "key": "MKE_STEWART_RALPH_303906",
@@ -142,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795172278,
-   "photo": null
+   "photo": "photos/MKE_STEWART_RALPH_303906.jpg"
   },
   {
    "key": "MKE_MCARTHUR_STEPHON_392447",
@@ -165,17 +187,6 @@
    "more": 1,
    "ts": 1795172274,
    "photo": null
-  },
-  {
-   "key": "MKE_CUNNINGHAM_GARRETT_648415",
-   "name": "Garrett Cunningham",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795172273,
-   "photo": "photos/MKE_CUNNINGHAM_GARRETT_648415.jpg"
   },
   {
    "key": "TREM_MISCH_DAVID_1857",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1795171633,
    "photo": "photos/TREM_CASTRO_KARITZA_6219.jpg"
-  },
-  {
-   "key": "MKE_RODRIGUEZ_RAMON_294229",
-   "name": "Ramon Ben Rodriguez",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795168651,
-   "photo": null
   },
   {
    "key": "GRIFFIN_GARY_2026-11-20",
@@ -532,12 +532,34 @@
  ],
  "all_items": [
   {
+   "key": "MKE_WILSON_ROVONTE_543038",
+   "name": "Rovonte Marcel Wilson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795184853,
+   "photo": null
+  },
+  {
+   "key": "MKE_FARQUHARSON_JASMINE_601895",
+   "name": "Jasmine Aisha Farquharson",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795184851,
+   "photo": null
+  },
+  {
    "key": "MKE_RODGERS_DEANDRE_400939",
    "name": "Deandre Davon Rodgers",
    "age": "34",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Carry Concealed Weapon",
    "more": 0,
    "ts": 1795183063,
    "photo": null
@@ -562,7 +584,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795183058,
-   "photo": null
+   "photo": "photos/MKE_MCELROY_LUCIANN_648419.jpg"
   },
   {
    "key": "MKE_JOHNSON_ANTONIO_355794",
@@ -639,7 +661,7 @@
    "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 0,
    "ts": 1795174047,
-   "photo": null
+   "photo": "photos/MKE_MARTINEZMARTINEZ_BRIAN_642981.jpg"
   },
   {
    "key": "FDL_LIMONES_JORGE_2026-11-20",
@@ -661,7 +683,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795172279,
-   "photo": null
+   "photo": "photos/MKE_ROBINSON_CYNTHIA_240674.jpg"
   },
   {
    "key": "MKE_STEWART_RALPH_303906",
@@ -672,7 +694,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795172278,
-   "photo": null
+   "photo": "photos/MKE_STEWART_RALPH_303906.jpg"
   },
   {
    "key": "MKE_MCARTHUR_STEPHON_392447",
@@ -804,7 +826,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795166874,
-   "photo": null
+   "photo": "photos/MKE_HAYWOOD_CYNTHIA_648413.jpg"
   },
   {
    "key": "MKE_PALMER_TONY_648414",
