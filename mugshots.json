@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-20T21:00:19+00:00",
+ "updated": "2026-11-20T21:42:48+00:00",
  "items": [
+  {
+   "key": "MKE_HARVEY_SHAUMBAY_288359",
+   "name": "Shaumbay Deshawn Harvey",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 3,
+   "ts": 1795210062,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHANKS_ARTIEAS_358604",
+   "name": "Artieas Yenom Shanks",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795210060,
+   "photo": null
+  },
+  {
+   "key": "MKE_DANZY_ARIANA_627426",
+   "name": "Ariana Nicole Danzy",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795210058,
+   "photo": null
+  },
+  {
+   "key": "MKE_SKERVEN_TRAVIS_648427",
+   "name": "Travis James Skerven",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795210057,
+   "photo": null
+  },
   {
    "key": "RC_MCRAE_BRANDON_120011076465974",
    "name": "Brandon Deshawn Mcrae",
@@ -73,7 +117,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
    "more": 3,
    "ts": 1795204663,
    "photo": null
@@ -154,50 +198,6 @@
    "more": 0,
    "ts": 1795200480,
    "photo": "photos/RC_CARTER_DOMINIC_120011076462544.jpg"
-  },
-  {
-   "key": "RC_KAUZRICH_JESSICA_120011076463458",
-   "name": "Jessica Lynn Kauzrich",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Fail/cause Child To Attend School",
-   "more": 1,
-   "ts": 1795200476,
-   "photo": "photos/RC_KAUZRICH_JESSICA_120011076463458.jpg"
-  },
-  {
-   "key": "MKE_MCNEALEY_CHASTON_390679",
-   "name": "Chaston Kevon Mcnealey",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property fr. Person/Corpse",
-   "more": 3,
-   "ts": 1795199254,
-   "photo": null
-  },
-  {
-   "key": "MKE_JAW_EH_616308",
-   "name": "Eh Pu Jaw",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 3,
-   "ts": 1795199251,
-   "photo": "photos/MKE_JAW_EH_616308.jpg"
-  },
-  {
-   "key": "MKE_GIL_YORI_648423",
-   "name": "Yori Gil",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795199249,
-   "photo": "photos/MKE_GIL_YORI_648423.jpg"
   },
   {
    "key": "BRITTON_CHERYL_2026-11-20",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HARVEY_SHAUMBAY_288359",
+   "name": "Shaumbay Deshawn Harvey",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 3,
+   "ts": 1795210062,
+   "photo": null
+  },
+  {
+   "key": "MKE_SHANKS_ARTIEAS_358604",
+   "name": "Artieas Yenom Shanks",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795210060,
+   "photo": null
+  },
+  {
+   "key": "MKE_DANZY_ARIANA_627426",
+   "name": "Ariana Nicole Danzy",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795210058,
+   "photo": null
+  },
+  {
+   "key": "MKE_SKERVEN_TRAVIS_648427",
+   "name": "Travis James Skerven",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795210057,
+   "photo": null
+  },
+  {
    "key": "RC_MCRAE_BRANDON_120011076465974",
    "name": "Brandon Deshawn Mcrae",
    "age": "32",
@@ -603,7 +647,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
    "more": 3,
    "ts": 1795204663,
    "photo": null
@@ -5260,50 +5304,6 @@
    "more": 2,
    "ts": 1794952738,
    "photo": "photos/MKE_MORRIS_AMBER_612906.jpg"
-  },
-  {
-   "key": "DOU_RHODES_BILLY_2026-11-17",
-   "name": "Billy J Rhodes",
-   "age": "34",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 0,
-   "ts": 1794950320,
-   "photo": "photos/DOU_RHODES_BILLY_2026-11-17.jpg"
-  },
-  {
-   "key": "KEN_TAYLOR_DESHAWN_2026-00006365",
-   "name": "Deshawn Treveon Taylor",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1794949506,
-   "photo": "photos/KEN_TAYLOR_DESHAWN_2026-00006365.jpg"
-  },
-  {
-   "key": "KEN_MCGEE_PAMELA_2026-00006368",
-   "name": "Pamela Denise Mcgee",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1794949422,
-   "photo": "photos/KEN_MCGEE_PAMELA_2026-00006368.jpg"
-  },
-  {
-   "key": "KEN_KELSCH_LAURIE_2026-00006367",
-   "name": "Laurie Diane Kelsch",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1794949306,
-   "photo": "photos/KEN_KELSCH_LAURIE_2026-00006367.jpg"
   }
  ]
 }
