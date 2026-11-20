@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T09:01:20+00:00",
+ "updated": "2026-11-20T09:35:11+00:00",
  "items": [
+  {
+   "key": "MKE_HAYWOOD_CYNTHIA_648413",
+   "name": "Cynthia M Haywood",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795166874,
+   "photo": null
+  },
+  {
+   "key": "MKE_PALMER_TONY_648414",
+   "name": "Tony L Palmer",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795166872,
+   "photo": null
+  },
+  {
+   "key": "GRIFFIN_GARY_2026-11-20",
+   "name": "Gary M Griffin",
+   "age": "63",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Trespass to Medical Facility",
+   "more": 3,
+   "ts": 1795166820,
+   "photo": null
+  },
+  {
+   "key": "DOU_BENEDICT_SUMMER_2026-11-20",
+   "name": "Summer A Benedict",
+   "age": "20",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "OWI Alcohol or Drugs",
+   "more": 0,
+   "ts": 1795166240,
+   "photo": "photos/DOU_BENEDICT_SUMMER_2026-11-20.jpg"
+  },
+  {
+   "key": "FDL_OCLAIRE_SARAH_2026-11-20",
+   "name": "Sarah Lynn Oclaire",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Resisting or Obstructing Officer",
+   "more": 0,
+   "ts": 1795166186,
+   "photo": "photos/FDL_OCLAIRE_SARAH_2026-11-20.jpg"
+  },
   {
    "key": "RC_GONZALEZCHAVEZ_MARCO_120011076444975",
    "name": "Marco Antonio Gonzalez Chavez",
@@ -87,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795157849,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_NATHAN_636440.jpg"
   },
   {
    "key": "RC_GONZALEZCHAVEZ_MACROANTONIO_120011076444975",
@@ -109,7 +164,7 @@
    "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
    "more": 2,
    "ts": 1795156049,
-   "photo": null
+   "photo": "photos/MKE_GARCIASANTIESTEBAN_LUIS_195339.jpg"
   },
   {
    "key": "MKE_GILMORE_CHERRY_628903",
@@ -142,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795152452,
-   "photo": null
+   "photo": "photos/MKE_PEREADELACRUZ_JOSE_648410.jpg"
   },
   {
    "key": "MKE_COULTER_ANDRE_648411",
@@ -231,28 +286,6 @@
    "more": 0,
    "ts": 1795147052,
    "photo": "photos/MKE_KING_BYRON_257861.jpg"
-  },
-  {
-   "key": "MKE_PIAS_STEPHANIE_648409",
-   "name": "Stephanie Pias",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 0,
-   "ts": 1795147051,
-   "photo": null
-  },
-  {
-   "key": "MKE_PIGGEE_KEVIN_648408",
-   "name": "Kevin L Piggee",
-   "age": "16",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795145270,
-   "photo": "photos/MKE_PIGGEE_KEVIN_648408.jpg"
   },
   {
    "key": "MAR_KLOTH_GARY_2026-11-19",
@@ -475,17 +508,6 @@
    "photo": "photos/DOU_OMARY_RHONDA_2026-11-19.jpg"
   },
   {
-   "key": "MAR_THAO_JAMES_2026-11-19",
-   "name": "James Alie Thao",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Contempt/Ct-Limitation on Imprisonment",
-   "more": 0,
-   "ts": 1795110812,
-   "photo": "photos/MAR_THAO_JAMES_2026-11-19.jpg"
-  },
-  {
    "key": "BENKA_EDWARD_2026-11-19",
    "name": "Edward J Benka",
    "age": "37",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1795109222,
    "photo": null
-  },
-  {
-   "key": "LASTER_BOOKER_2026-11-19",
-   "name": "Booker T Laster",
-   "age": "50",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795104376,
-   "photo": null
-  },
-  {
-   "key": "APARICIOZARAGOZA_LAURO_2026-11-19",
-   "name": "Lauro Zaragoza Aparicio Zaragoza",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Revoked",
-   "more": 0,
-   "ts": 1795103228,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HAYWOOD_CYNTHIA_648413",
+   "name": "Cynthia M Haywood",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795166874,
+   "photo": null
+  },
+  {
+   "key": "MKE_PALMER_TONY_648414",
+   "name": "Tony L Palmer",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795166872,
+   "photo": null
+  },
+  {
+   "key": "GRIFFIN_GARY_2026-11-20",
+   "name": "Gary M Griffin",
+   "age": "63",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Trespass to Medical Facility",
+   "more": 3,
+   "ts": 1795166820,
+   "photo": null
+  },
+  {
+   "key": "DOU_BENEDICT_SUMMER_2026-11-20",
+   "name": "Summer A Benedict",
+   "age": "20",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "OWI Alcohol or Drugs",
+   "more": 0,
+   "ts": 1795166240,
+   "photo": "photos/DOU_BENEDICT_SUMMER_2026-11-20.jpg"
+  },
+  {
+   "key": "FDL_OCLAIRE_SARAH_2026-11-20",
+   "name": "Sarah Lynn Oclaire",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Resisting or Obstructing Officer",
+   "more": 0,
+   "ts": 1795166186,
+   "photo": "photos/FDL_OCLAIRE_SARAH_2026-11-20.jpg"
+  },
   {
    "key": "RC_GONZALEZCHAVEZ_MARCO_120011076444975",
    "name": "Marco Antonio Gonzalez Chavez",
@@ -617,7 +672,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795157849,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_NATHAN_636440.jpg"
   },
   {
    "key": "RC_GONZALEZCHAVEZ_MACROANTONIO_120011076444975",
@@ -639,7 +694,7 @@
    "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
    "more": 2,
    "ts": 1795156049,
-   "photo": null
+   "photo": "photos/MKE_GARCIASANTIESTEBAN_LUIS_195339.jpg"
   },
   {
    "key": "MKE_GILMORE_CHERRY_628903",
@@ -672,7 +727,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795152452,
-   "photo": null
+   "photo": "photos/MKE_PEREADELACRUZ_JOSE_648410.jpg"
   },
   {
    "key": "MKE_COULTER_ANDRE_648411",
@@ -771,7 +826,7 @@
    "charge": "Possession of Methamphetamine",
    "more": 0,
    "ts": 1795147051,
-   "photo": null
+   "photo": "photos/MKE_PIAS_STEPHANIE_648409.jpg"
   },
   {
    "key": "MKE_PIGGEE_KEVIN_648408",
@@ -892,7 +947,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795141678,
-   "photo": null
+   "photo": "photos/MKE_CHESIRE_JOHN_648405.jpg"
   },
   {
    "key": "MKE_ROMEO_MAKYI_648406",
@@ -5216,28 +5271,6 @@
    "more": 1,
    "ts": 1794909458,
    "photo": "photos/MKE_TATUM_SEAN_635809.jpg"
-  },
-  {
-   "key": "MKE_BERRY_JEREMY_2038909",
-   "name": "Jeremy L Berry",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794907655,
-   "photo": "photos/MKE_BERRY_JEREMY_2038909.jpg"
-  },
-  {
-   "key": "REYES_ROBERTO_2026-11-17",
-   "name": "Roberto C Reyes",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence (2nd)",
-   "more": 0,
-   "ts": 1794907621,
-   "photo": null
   }
  ]
 }
