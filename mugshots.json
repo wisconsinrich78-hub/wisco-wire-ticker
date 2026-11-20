@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T18:35:56+00:00",
+ "updated": "2026-11-20T18:49:26+00:00",
  "items": [
+  {
+   "key": "RC_CRUZ_EDWIN_120011076462448",
+   "name": "Edwin E Cruz",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795200483,
+   "photo": "photos/RC_CRUZ_EDWIN_120011076462448.jpg"
+  },
+  {
+   "key": "RC_CARTER_DOMINIC_120011076462544",
+   "name": "Dominic Derick Carter",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795200480,
+   "photo": "photos/RC_CARTER_DOMINIC_120011076462544.jpg"
+  },
+  {
+   "key": "RC_KAUZRICH_JESSICA_120011076463458",
+   "name": "Jessica Lynn Kauzrich",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Fail/cause Child To Attend School",
+   "more": 1,
+   "ts": 1795200476,
+   "photo": "photos/RC_KAUZRICH_JESSICA_120011076463458.jpg"
+  },
   {
    "key": "MKE_MCNEALEY_CHASTON_390679",
    "name": "Chaston Kevon Mcnealey",
@@ -219,39 +252,6 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1795190262,
-   "photo": null
-  },
-  {
-   "key": "RC_DELGADO_JETZARY_120011076454504",
-   "name": "Jetzary I Delgado",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property<=$2500",
-   "more": 0,
-   "ts": 1795189674,
-   "photo": "photos/RC_DELGADO_JETZARY_120011076454504.jpg"
-  },
-  {
-   "key": "RC_JEPSON_SOPHIA_120011076455004",
-   "name": "Sophia Siffra Jepson",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795189671,
-   "photo": null
-  },
-  {
-   "key": "RC_DAVIS_LANIYA_120011076455159",
-   "name": "Laniya Lullen Davis",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1795189669,
    "photo": null
   },
   {
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_CRUZ_EDWIN_120011076462448",
+   "name": "Edwin E Cruz",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795200483,
+   "photo": "photos/RC_CRUZ_EDWIN_120011076462448.jpg"
+  },
+  {
+   "key": "RC_CARTER_DOMINIC_120011076462544",
+   "name": "Dominic Derick Carter",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795200480,
+   "photo": "photos/RC_CARTER_DOMINIC_120011076462544.jpg"
+  },
+  {
+   "key": "RC_KAUZRICH_JESSICA_120011076463458",
+   "name": "Jessica Lynn Kauzrich",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Fail/cause Child To Attend School",
+   "more": 1,
+   "ts": 1795200476,
+   "photo": "photos/RC_KAUZRICH_JESSICA_120011076463458.jpg"
+  },
   {
    "key": "MKE_MCNEALEY_CHASTON_390679",
    "name": "Chaston Kevon Mcnealey",
@@ -5348,28 +5381,6 @@
    "more": 2,
    "ts": 1794941654,
    "photo": "photos/MAR_KIEFER_TRISTON_2026-11-17_5250709.jpg"
-  },
-  {
-   "key": "RC_BOYLE_CASEY_120011076358570",
-   "name": "Casey M Boyle",
-   "age": "28",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794941276,
-   "photo": "photos/RC_BOYLE_CASEY_120011076358570.jpg"
-  },
-  {
-   "key": "RC_FORD_STEVEN_120011076360375",
-   "name": "Steven Lavell Ford",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794941273,
-   "photo": null
   }
  ]
 }
