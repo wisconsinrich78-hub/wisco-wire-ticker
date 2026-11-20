@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T16:58:35+00:00",
+ "updated": "2026-11-20T17:40:46+00:00",
  "items": [
+  {
+   "key": "MKE_SINIARD_NICHOLAS_527701",
+   "name": "Nicholas Ryan Siniard",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795195649,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_JAMAL_648421",
+   "name": "Jamal J Lewis",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795195647,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_ASHANTI_648422",
+   "name": "Ashanti N Moore",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795195646,
+   "photo": null
+  },
   {
    "key": "MKE_NELSON_SYNCERE_642978",
    "name": "Syncere EddieKashawn Nelson",
@@ -10,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795193862,
-   "photo": null
+   "photo": "photos/MKE_NELSON_SYNCERE_642978.jpg"
   },
   {
    "key": "MKE_LEWISMCCALL_CORTEZ_648420",
@@ -142,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795184853,
-   "photo": null
+   "photo": "photos/MKE_WILSON_ROVONTE_543038.jpg"
   },
   {
    "key": "MKE_FARQUHARSON_JASMINE_601895",
@@ -164,7 +197,7 @@
    "charge": "Carry Concealed Weapon",
    "more": 0,
    "ts": 1795183063,
-   "photo": null
+   "photo": "photos/MKE_RODGERS_DEANDRE_400939.jpg"
   },
   {
    "key": "MKE_WEBER_LEO_648418",
@@ -176,39 +209,6 @@
    "more": 1,
    "ts": 1795183061,
    "photo": "photos/MKE_WEBER_LEO_648418.jpg"
-  },
-  {
-   "key": "MKE_MCELROY_LUCIANN_648419",
-   "name": "Luciann Renee McElroy",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795183058,
-   "photo": "photos/MKE_MCELROY_LUCIANN_648419.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_ANTONIO_355794",
-   "name": "Antonio Q Johnson",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1795179458,
-   "photo": "photos/MKE_JOHNSON_ANTONIO_355794.jpg"
-  },
-  {
-   "key": "MKE_WARD_DEMARIO_502023",
-   "name": "Demario A Ward",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Conspiracy",
-   "more": 2,
-   "ts": 1795179456,
-   "photo": "photos/MKE_WARD_DEMARIO_502023.jpg"
   },
   {
    "key": "FDL_LIMONES_JORGE_2026-11-20",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SINIARD_NICHOLAS_527701",
+   "name": "Nicholas Ryan Siniard",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795195649,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEWIS_JAMAL_648421",
+   "name": "Jamal J Lewis",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795195647,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOORE_ASHANTI_648422",
+   "name": "Ashanti N Moore",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795195646,
+   "photo": null
+  },
+  {
    "key": "MKE_NELSON_SYNCERE_642978",
    "name": "Syncere EddieKashawn Nelson",
    "age": "22",
@@ -540,7 +573,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795193862,
-   "photo": null
+   "photo": "photos/MKE_NELSON_SYNCERE_642978.jpg"
   },
   {
    "key": "MKE_LEWISMCCALL_CORTEZ_648420",
@@ -672,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795184853,
-   "photo": null
+   "photo": "photos/MKE_WILSON_ROVONTE_543038.jpg"
   },
   {
    "key": "MKE_FARQUHARSON_JASMINE_601895",
@@ -694,7 +727,7 @@
    "charge": "Carry Concealed Weapon",
    "more": 0,
    "ts": 1795183063,
-   "photo": null
+   "photo": "photos/MKE_RODGERS_DEANDRE_400939.jpg"
   },
   {
    "key": "MKE_WEBER_LEO_648418",
@@ -5315,39 +5348,6 @@
    "more": 3,
    "ts": 1794938030,
    "photo": "photos/MAR_TROSKOSKI_RYAN_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_MCCLOUD_JERMAINE_637081",
-   "name": "Jermaine Jemel McCloud",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794936469,
-   "photo": "photos/MKE_MCCLOUD_JERMAINE_637081.jpg"
-  },
-  {
-   "key": "MKE_NESS_MYCHALA_648357",
-   "name": "Mychala Marie Ness",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794936467,
-   "photo": "photos/MKE_NESS_MYCHALA_648357.jpg"
-  },
-  {
-   "key": "FDL_DAY_HAILEY_2026-11-17",
-   "name": "Hailey Elizabeth Day",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Detainer",
-   "more": 0,
-   "ts": 1794935783,
-   "photo": null
   }
  ]
 }
