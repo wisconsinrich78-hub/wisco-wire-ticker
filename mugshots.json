@@ -1,13 +1,46 @@
 {
- "updated": "2026-11-20T15:36:09+00:00",
+ "updated": "2026-11-20T15:49:27+00:00",
  "items": [
+  {
+   "key": "RC_DELGADO_JETZARY_120011076454504",
+   "name": "Jetzary I Delgado",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795189674,
+   "photo": "photos/RC_DELGADO_JETZARY_120011076454504.jpg"
+  },
+  {
+   "key": "RC_JEPSON_SOPHIA_120011076455004",
+   "name": "Sophia Siffra Jepson",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795189671,
+   "photo": null
+  },
+  {
+   "key": "RC_DAVIS_LANIYA_120011076455159",
+   "name": "Laniya Lullen Davis",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795189669,
+   "photo": null
+  },
   {
    "key": "RC_MACHADO_CRESENCIO_120011076453075",
    "name": "Cresencio Aaron Machado",
    "age": "45",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795186070,
    "photo": "photos/RC_MACHADO_CRESENCIO_120011076453075.jpg"
@@ -154,39 +187,6 @@
    "more": 2,
    "ts": 1795173384,
    "photo": "photos/FDL_LIMONES_JORGE_2026-11-20.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_CYNTHIA_240674",
-   "name": "Cynthia Marie Robinson",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795172279,
-   "photo": "photos/MKE_ROBINSON_CYNTHIA_240674.jpg"
-  },
-  {
-   "key": "MKE_STEWART_RALPH_303906",
-   "name": "Ralph Solomon Stewart",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795172278,
-   "photo": "photos/MKE_STEWART_RALPH_303906.jpg"
-  },
-  {
-   "key": "MKE_MCARTHUR_STEPHON_392447",
-   "name": "Stephon L Mcarthur",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795172276,
-   "photo": null
   },
   {
    "key": "TREM_MISCH_DAVID_1857",
@@ -532,12 +532,45 @@
  ],
  "all_items": [
   {
+   "key": "RC_DELGADO_JETZARY_120011076454504",
+   "name": "Jetzary I Delgado",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795189674,
+   "photo": "photos/RC_DELGADO_JETZARY_120011076454504.jpg"
+  },
+  {
+   "key": "RC_JEPSON_SOPHIA_120011076455004",
+   "name": "Sophia Siffra Jepson",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795189671,
+   "photo": null
+  },
+  {
+   "key": "RC_DAVIS_LANIYA_120011076455159",
+   "name": "Laniya Lullen Davis",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795189669,
+   "photo": null
+  },
+  {
    "key": "RC_MACHADO_CRESENCIO_120011076453075",
    "name": "Cresencio Aaron Machado",
    "age": "45",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795186070,
    "photo": "photos/RC_MACHADO_CRESENCIO_120011076453075.jpg"
@@ -5326,17 +5359,6 @@
    "more": 0,
    "ts": 1794930817,
    "photo": "photos/MAR_VANOOYEN_BRAYDEN_2026-11-17.jpg"
-  },
-  {
-   "key": "RC_GRESHAM_LAKIYA_120011076354283",
-   "name": "Lakiya A Gresham",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of Firearm by Felon",
-   "more": 1,
-   "ts": 1794930534,
-   "photo": "photos/RC_GRESHAM_LAKIYA_120011076354283.jpg"
   }
  ]
 }
