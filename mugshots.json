@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T07:58:59+00:00",
+ "updated": "2026-11-20T08:36:59+00:00",
  "items": [
+  {
+   "key": "MKE_LEE_JOVAN_629590",
+   "name": "Jovan Justin Lee",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795163246,
+   "photo": null
+  },
+  {
+   "key": "FDL_LANG_ASHLEY_2026-11-20",
+   "name": "Ashley Therese Lang",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795162588,
+   "photo": null
+  },
   {
    "key": "RC_MCREE_MAXI_120011076446222",
    "name": "Maxi N Mcree",
@@ -73,7 +95,7 @@
    "age": "78",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Muni. Retail Theft-Intent. Conceal",
+   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
    "more": 2,
    "ts": 1795156049,
    "photo": null
@@ -98,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1795152454,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_SIDNEY_222686.jpg"
   },
   {
    "key": "MKE_PEREADELACRUZ_JOSE_648410",
@@ -120,7 +142,7 @@
    "charge": "Charges Pending",
    "more": 10,
    "ts": 1795152450,
-   "photo": null
+   "photo": "photos/MKE_COULTER_ANDRE_648411.jpg"
   },
   {
    "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
@@ -197,7 +219,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795147052,
-   "photo": null
+   "photo": "photos/MKE_KING_BYRON_257861.jpg"
   },
   {
    "key": "MKE_PIAS_STEPHANIE_648409",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1795143206,
    "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-19_91319.jpg"
-  },
-  {
-   "key": "RC_WILLIAMS_SHAQUILLE_120011076427384",
-   "name": "Shaquille Williams",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1795142983,
-   "photo": "photos/RC_WILLIAMS_SHAQUILLE_120011076427384.jpg"
   },
   {
    "key": "FDL_VANDEBERG_CASSANDRA_2026-11-19",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795103228,
    "photo": null
-  },
-  {
-   "key": "FDL_CHRISTL_RICHARD_2026-11-19",
-   "name": "Richard Lee Christl",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795097767,
-   "photo": "photos/FDL_CHRISTL_RICHARD_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_LEE_JOVAN_629590",
+   "name": "Jovan Justin Lee",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795163246,
+   "photo": null
+  },
+  {
+   "key": "FDL_LANG_ASHLEY_2026-11-20",
+   "name": "Ashley Therese Lang",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795162588,
+   "photo": null
+  },
   {
    "key": "RC_MCREE_MAXI_120011076446222",
    "name": "Maxi N Mcree",
@@ -603,7 +625,7 @@
    "age": "78",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Muni. Retail Theft-Intent. Conceal",
+   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
    "more": 2,
    "ts": 1795156049,
    "photo": null
@@ -628,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1795152454,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_SIDNEY_222686.jpg"
   },
   {
    "key": "MKE_PEREADELACRUZ_JOSE_648410",
@@ -650,7 +672,7 @@
    "charge": "Charges Pending",
    "more": 10,
    "ts": 1795152450,
-   "photo": null
+   "photo": "photos/MKE_COULTER_ANDRE_648411.jpg"
   },
   {
    "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
@@ -727,7 +749,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795147052,
-   "photo": null
+   "photo": "photos/MKE_KING_BYRON_257861.jpg"
   },
   {
    "key": "MKE_PIAS_STEPHANIE_648409",
@@ -870,7 +892,7 @@
    "charge": "Resisting or Obstructing an Officer",
    "more": 1,
    "ts": 1795141674,
-   "photo": null
+   "photo": "photos/MKE_ROMEO_MAKYI_648406.jpg"
   },
   {
    "key": "MKE_ALEXANDRE_ENOCK_648407",
@@ -881,7 +903,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795141671,
-   "photo": null
+   "photo": "photos/MKE_ALEXANDRE_ENOCK_648407.jpg"
   },
   {
    "key": "MKE_ZERA_MARK_407104",
@@ -903,7 +925,7 @@
    "charge": "OWI (4th)",
    "more": 0,
    "ts": 1795139869,
-   "photo": null
+   "photo": "photos/MKE_KENYON_CARI_623919.jpg"
   },
   {
    "key": "MKE_VALENCIAMONROY_JOSE_648404",
@@ -958,7 +980,7 @@
    "charge": "Charges Pending",
    "more": 12,
    "ts": 1795136256,
-   "photo": null
+   "photo": "photos/MKE_LOURY_FREQUON_648401.jpg"
   },
   {
    "key": "MKE_LARALANDIN_KEVIN_648402",
@@ -5227,28 +5249,6 @@
    "more": 0,
    "ts": 1794905592,
    "photo": "photos/MAR_LORBECKE_GAVIN_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_MARTIN_RAMONE_370566",
-   "name": "Ramone Tavon Martin",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794904048,
-   "photo": "photos/MKE_MARTIN_RAMONE_370566.jpg"
-  },
-  {
-   "key": "MKE_REED_TIONNE_602855",
-   "name": "Tionne Tyrell Reed",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794904045,
-   "photo": "photos/MKE_REED_TIONNE_602855.jpg"
   }
  ]
 }
