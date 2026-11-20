@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-20T00:49:26+00:00",
+ "updated": "2026-11-20T01:49:36+00:00",
  "items": [
+  {
+   "key": "RC_MARTIN_TRAVEON_120011076438493",
+   "name": "Traveon Marshaun Martin",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795139287,
+   "photo": "photos/RC_MARTIN_TRAVEON_120011076438493.jpg"
+  },
+  {
+   "key": "RC_WILLIAMS_HALEY_120011076439200",
+   "name": "Haley Jade Williams",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795139284,
+   "photo": "photos/RC_WILLIAMS_HALEY_120011076439200.jpg"
+  },
+  {
+   "key": "FDL_VANDEBERG_CASSANDRA_2026-11-19",
+   "name": "Cassandra L Vande Berg",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine (2nd and Subsequent Offense)",
+   "more": 1,
+   "ts": 1795137416,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOURY_FREQUON_648401",
+   "name": "Frequon C Loury",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 12,
+   "ts": 1795136256,
+   "photo": null
+  },
+  {
+   "key": "MKE_LARALANDIN_KEVIN_648402",
+   "name": "Kevin Daniel Lara landin",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1795136253,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAGGETT_TYREICK_648403",
+   "name": "Tyreick Baggett",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 14,
+   "ts": 1795136251,
+   "photo": null
+  },
   {
    "key": "BALLWEG_HELEN_2026-11-19",
    "name": "Helen J Ballweg",
@@ -21,7 +87,7 @@
    "charge": "Use Dangerous Weapon (Misdemeanor)",
    "more": 1,
    "ts": 1795134458,
-   "photo": null
+   "photo": "photos/MKE_MARTIN_MARTELL_359233.jpg"
   },
   {
    "key": "MKE_HONZIK_DANIEL_624054",
@@ -187,61 +253,6 @@
    "more": 1,
    "ts": 1795129059,
    "photo": null
-  },
-  {
-   "key": "RC_GREER_QUEMONT_120011076436608",
-   "name": "Quemont Greer",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795128470,
-   "photo": null
-  },
-  {
-   "key": "MKE_STONE_JAMARI_604258",
-   "name": "Jamari Lashod Stone",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 8,
-   "ts": 1795125452,
-   "photo": null
-  },
-  {
-   "key": "MKE_JEFFERSON_KEMONTE_631560",
-   "name": "Kemonte Dewayne Jefferson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 3,
-   "ts": 1795125449,
-   "photo": null
-  },
-  {
-   "key": "MKE_MARTI_SEMAJ_634416",
-   "name": "Semaj Latrell Marti",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 5,
-   "ts": 1795125448,
-   "photo": null
-  },
-  {
-   "key": "KEN_KENYON_KARINA_2026-00006410",
-   "name": "Karina Roque Kenyon",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Cause Injury/Operating-Control Substance (2+)",
-   "more": 0,
-   "ts": 1795125300,
-   "photo": "photos/KEN_KENYON_KARINA_2026-00006410.jpg"
   },
   {
    "key": "MAR_KOHN_STACIE_2026-11-19",
@@ -517,20 +528,75 @@
    "more": 0,
    "ts": 1795043767,
    "photo": "photos/FDL_BLOCK_KHYRE_2026-11-18.jpg"
-  },
-  {
-   "key": "WILSON_ANTHONY_2026-11-18",
-   "name": "Anthony D Wilson",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1795042029,
-   "photo": "photos/WILSON_ANTHONY_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MARTIN_TRAVEON_120011076438493",
+   "name": "Traveon Marshaun Martin",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795139287,
+   "photo": "photos/RC_MARTIN_TRAVEON_120011076438493.jpg"
+  },
+  {
+   "key": "RC_WILLIAMS_HALEY_120011076439200",
+   "name": "Haley Jade Williams",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795139284,
+   "photo": "photos/RC_WILLIAMS_HALEY_120011076439200.jpg"
+  },
+  {
+   "key": "FDL_VANDEBERG_CASSANDRA_2026-11-19",
+   "name": "Cassandra L Vande Berg",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine (2nd and Subsequent Offense)",
+   "more": 1,
+   "ts": 1795137416,
+   "photo": null
+  },
+  {
+   "key": "MKE_LOURY_FREQUON_648401",
+   "name": "Frequon C Loury",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 12,
+   "ts": 1795136256,
+   "photo": null
+  },
+  {
+   "key": "MKE_LARALANDIN_KEVIN_648402",
+   "name": "Kevin Daniel Lara landin",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 0,
+   "ts": 1795136253,
+   "photo": null
+  },
+  {
+   "key": "MKE_BAGGETT_TYREICK_648403",
+   "name": "Tyreick Baggett",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 14,
+   "ts": 1795136251,
+   "photo": null
+  },
   {
    "key": "BALLWEG_HELEN_2026-11-19",
    "name": "Helen J Ballweg",
@@ -551,7 +617,7 @@
    "charge": "Use Dangerous Weapon (Misdemeanor)",
    "more": 1,
    "ts": 1795134458,
-   "photo": null
+   "photo": "photos/MKE_MARTIN_MARTELL_359233.jpg"
   },
   {
    "key": "MKE_HONZIK_DANIEL_624054",
@@ -735,7 +801,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Party to a Crime",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 8,
    "ts": 1795125452,
    "photo": null
@@ -5161,28 +5227,6 @@
    "more": 1,
    "ts": 1794880658,
    "photo": "photos/MKE_SHAW_JEREMIAH_648344.jpg"
-  },
-  {
-   "key": "MKE_JACOBS_CLANCY_264665",
-   "name": "Clancy Louis Jacobs",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 6,
-   "ts": 1794877075,
-   "photo": "photos/MKE_JACOBS_CLANCY_264665.jpg"
-  },
-  {
-   "key": "MAR_DIGANGI_BENJAMIN_2026-11-16_16954503",
-   "name": "Benjamin Lawrence Digangi",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794876815,
-   "photo": "photos/MAR_DIGANGI_BENJAMIN_2026-11-16_16954503.jpg"
   }
  ]
 }
