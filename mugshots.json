@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T19:41:44+00:00",
+ "updated": "2026-11-20T19:49:28+00:00",
  "items": [
+  {
+   "key": "RC_MROCH_AMANDA_120011076464338",
+   "name": "Amanda Lynn Mroch",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204073,
+   "photo": "photos/RC_MROCH_AMANDA_120011076464338.jpg"
+  },
   {
    "key": "MKE_MATAYA_SARAH_521927",
    "name": "Sarah Marie Mataya",
@@ -51,7 +62,7 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under the Influence (2nd)",
    "more": 0,
    "ts": 1795200483,
    "photo": "photos/RC_CRUZ_EDWIN_120011076462448.jpg"
@@ -209,17 +220,6 @@
    "more": 2,
    "ts": 1795195646,
    "photo": null
-  },
-  {
-   "key": "MKE_NELSON_SYNCERE_642978",
-   "name": "Syncere EddieKashawn Nelson",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795193862,
-   "photo": "photos/MKE_NELSON_SYNCERE_642978.jpg"
   },
   {
    "key": "LINDSAY_THOMAS_2026-11-20",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_MROCH_AMANDA_120011076464338",
+   "name": "Amanda Lynn Mroch",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204073,
+   "photo": "photos/RC_MROCH_AMANDA_120011076464338.jpg"
+  },
+  {
    "key": "MKE_MATAYA_SARAH_521927",
    "name": "Sarah Marie Mataya",
    "age": "46",
@@ -581,7 +592,7 @@
    "age": "35",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under the Influence (2nd)",
    "more": 0,
    "ts": 1795200483,
    "photo": "photos/RC_CRUZ_EDWIN_120011076462448.jpg"
@@ -5348,28 +5359,6 @@
    "more": 1,
    "ts": 1794945347,
    "photo": "photos/MAR_JAMES_ALIYA_2026-11-17.jpg"
-  },
-  {
-   "key": "RC_FLUETTE_JEFFREY_120011076362040",
-   "name": "Jeffrey Kurt Fluette",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 3,
-   "ts": 1794944925,
-   "photo": "photos/RC_FLUETTE_JEFFREY_120011076362040.jpg"
-  },
-  {
-   "key": "RC_GOSSETT_CURTIS_120011076362682",
-   "name": "Curtis James Gossett",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794944922,
-   "photo": "photos/RC_GOSSETT_CURTIS_120011076362682.jpg"
   }
  ]
 }
