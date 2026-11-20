@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-20T02:49:26+00:00",
+ "updated": "2026-11-20T03:16:34+00:00",
  "items": [
+  {
+   "key": "KEN_KUBART_JON_2026-00006415",
+   "name": "Jon G Kubart",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795143399,
+   "photo": null
+  },
+  {
+   "key": "MAR_KLOTH_GARY_2026-11-19",
+   "name": "Gary L Kloth",
+   "age": "74",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1795143291,
+   "photo": "photos/MAR_KLOTH_GARY_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_CHAPMAN_ETHAN_2026-11-19",
+   "name": "Ethan Craig Chapman",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operate/Go Armed W/ Firearm-Intoxicated",
+   "more": 1,
+   "ts": 1795143249,
+   "photo": "photos/MAR_CHAPMAN_ETHAN_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-19_91319",
+   "name": "Shawneen Marie Hulstrom",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795143206,
+   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-19_91319.jpg"
+  },
+  {
+   "key": "RC_WILLIAMS_SHAQUILLE_120011076427384",
+   "name": "Shaquille Williams",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Department Of Corrections Hold",
+   "more": 0,
+   "ts": 1795142983,
+   "photo": "photos/RC_WILLIAMS_SHAQUILLE_120011076427384.jpg"
+  },
+  {
+   "key": "RC_AYERS_MICHAEL_120011076440064",
+   "name": "Michael Ayers",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795142980,
+   "photo": "photos/RC_AYERS_MICHAEL_120011076440064.jpg"
+  },
+  {
+   "key": "RC_CALHOUN_DENISE_120011076440419",
+   "name": "Denise Irene Calhoun",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795142978,
+   "photo": null
+  },
+  {
+   "key": "RC_MUSCHLEWSKI_FIONA_120011076440830",
+   "name": "Fiona Snow Muschlewski",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795142975,
+   "photo": null
+  },
   {
    "key": "MKE_GATSONSTAPLES_CAMRON_640416",
    "name": "Camron Gatson Staples",
@@ -95,8 +183,8 @@
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 2,
    "ts": 1795139284,
    "photo": "photos/RC_WILLIAMS_HALEY_120011076439200.jpg"
   },
@@ -134,17 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_BAGGETT_TYREICK_648403",
-   "name": "Tyreick Baggett",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 14,
-   "ts": 1795136251,
-   "photo": null
-  },
-  {
    "key": "BALLWEG_HELEN_2026-11-19",
    "name": "Helen J Ballweg",
    "age": "63",
@@ -153,50 +230,6 @@
    "charge": "Possess Methamphetamine",
    "more": 0,
    "ts": 1795134856,
-   "photo": null
-  },
-  {
-   "key": "MKE_MARTIN_MARTELL_359233",
-   "name": "Martell P Martin",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 1,
-   "ts": 1795134458,
-   "photo": "photos/MKE_MARTIN_MARTELL_359233.jpg"
-  },
-  {
-   "key": "MKE_HONZIK_DANIEL_624054",
-   "name": "Daniel W Honzik",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Child Pornography",
-   "more": 3,
-   "ts": 1795134456,
-   "photo": null
-  },
-  {
-   "key": "MKE_DELACRUZREYES_MARGARITO_643865",
-   "name": "Margarito Delacruz-Reyes",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795134454,
-   "photo": "photos/MKE_DELACRUZREYES_MARGARITO_643865.jpg"
-  },
-  {
-   "key": "MKE_KEMP_JERRELL_648400",
-   "name": "Jerrell Kemp",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1795134452,
    "photo": null
   },
   {
@@ -464,28 +497,6 @@
    "photo": "photos/FDL_TOELLNER_HEATHER_2026-11-19.jpg"
   },
   {
-   "key": "MAR_FLOYD_ALEX_2026-11-18_15151905",
-   "name": "Alex Ray Floyd",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795067656,
-   "photo": "photos/MAR_FLOYD_ALEX_2026-11-18_15151905.jpg"
-  },
-  {
-   "key": "MAR_MCDUFFY_DION_2026-11-18",
-   "name": "Dion Dwight Mcduffy",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Criminal Damage to Property",
-   "more": 5,
-   "ts": 1795067611,
-   "photo": "photos/MAR_MCDUFFY_DION_2026-11-18.jpg"
-  },
-  {
    "key": "FDL_MCCABE_ZACHARY_2026-11-18",
    "name": "Zachary Lawrence Mccabe",
    "age": "",
@@ -495,17 +506,6 @@
    "more": 0,
    "ts": 1795065387,
    "photo": null
-  },
-  {
-   "key": "MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807",
-   "name": "Shane Western Holster-Gardner",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 1,
-   "ts": 1795060423,
-   "photo": "photos/MAR_HOLSTERGARDNER_SHANE_2026-11-18_1517807.jpg"
   },
   {
    "key": "FDL_JEFFREY_MYRON_2026-11-18",
@@ -531,6 +531,94 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_KUBART_JON_2026-00006415",
+   "name": "Jon G Kubart",
+   "age": "64",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795143399,
+   "photo": null
+  },
+  {
+   "key": "MAR_KLOTH_GARY_2026-11-19",
+   "name": "Gary L Kloth",
+   "age": "74",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1795143291,
+   "photo": "photos/MAR_KLOTH_GARY_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_CHAPMAN_ETHAN_2026-11-19",
+   "name": "Ethan Craig Chapman",
+   "age": "24",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operate/Go Armed W/ Firearm-Intoxicated",
+   "more": 1,
+   "ts": 1795143249,
+   "photo": "photos/MAR_CHAPMAN_ETHAN_2026-11-19.jpg"
+  },
+  {
+   "key": "MAR_HULSTROM_SHAWNEEN_2026-11-19_91319",
+   "name": "Shawneen Marie Hulstrom",
+   "age": "48",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795143206,
+   "photo": "photos/MAR_HULSTROM_SHAWNEEN_2026-11-19_91319.jpg"
+  },
+  {
+   "key": "RC_WILLIAMS_SHAQUILLE_120011076427384",
+   "name": "Shaquille Williams",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Department Of Corrections Hold",
+   "more": 0,
+   "ts": 1795142983,
+   "photo": "photos/RC_WILLIAMS_SHAQUILLE_120011076427384.jpg"
+  },
+  {
+   "key": "RC_AYERS_MICHAEL_120011076440064",
+   "name": "Michael Ayers",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795142980,
+   "photo": "photos/RC_AYERS_MICHAEL_120011076440064.jpg"
+  },
+  {
+   "key": "RC_CALHOUN_DENISE_120011076440419",
+   "name": "Denise Irene Calhoun",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795142978,
+   "photo": null
+  },
+  {
+   "key": "RC_MUSCHLEWSKI_FIONA_120011076440830",
+   "name": "Fiona Snow Muschlewski",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795142975,
+   "photo": null
+  },
   {
    "key": "MKE_GATSONSTAPLES_CAMRON_640416",
    "name": "Camron Gatson Staples",
@@ -625,8 +713,8 @@
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 2,
    "ts": 1795139284,
    "photo": "photos/RC_WILLIAMS_HALEY_120011076439200.jpg"
   },
@@ -746,7 +834,7 @@
    "age": "25",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1795133062,
    "photo": "photos/KEN_TAYLOR_SCOTT_2026-00006413.jpg"
@@ -768,7 +856,7 @@
    "age": "64",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Sex Offender-Fail/Update Information (Fel)",
    "more": 0,
    "ts": 1795132906,
    "photo": "photos/KEN_NAVARRO_PERFECTO_2026-00006412.jpg"
@@ -5227,17 +5315,6 @@
    "more": 0,
    "ts": 1794885698,
    "photo": "photos/HOU_GAVIN_DEANJOSEPH_6331.jpg"
-  },
-  {
-   "key": "KEN_NETTLES_ROBERT_2026-00006346",
-   "name": "Robert Earl Nettles",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1794884043,
-   "photo": "photos/KEN_NETTLES_ROBERT_2026-00006346.jpg"
   }
  ]
 }
