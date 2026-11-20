@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:49:29+00:00",
+ "updated": "2026-11-20T07:58:59+00:00",
  "items": [
   {
    "key": "RC_MCREE_MAXI_120011076446222",
@@ -73,7 +73,7 @@
    "age": "78",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
+   "charge": "County/Muni. Retail Theft-Intent. Conceal",
    "more": 2,
    "ts": 1795156049,
    "photo": null
@@ -603,7 +603,7 @@
    "age": "78",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
+   "charge": "County/Muni. Retail Theft-Intent. Conceal",
    "more": 2,
    "ts": 1795156049,
    "photo": null
@@ -892,7 +892,7 @@
    "charge": "Criminal Damage to Property",
    "more": 0,
    "ts": 1795139871,
-   "photo": null
+   "photo": "photos/MKE_ZERA_MARK_407104.jpg"
   },
   {
    "key": "MKE_KENYON_CARI_623919",
@@ -969,7 +969,7 @@
    "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1795136253,
-   "photo": null
+   "photo": "photos/MKE_LARALANDIN_KEVIN_648402.jpg"
   },
   {
    "key": "MKE_BAGGETT_TYREICK_648403",
@@ -980,7 +980,7 @@
    "charge": "Charges Pending",
    "more": 14,
    "ts": 1795136251,
-   "photo": null
+   "photo": "photos/MKE_BAGGETT_TYREICK_648403.jpg"
   },
   {
    "key": "BALLWEG_HELEN_2026-11-19",
@@ -1035,7 +1035,7 @@
    "charge": "Charges Pending",
    "more": 12,
    "ts": 1795134452,
-   "photo": null
+   "photo": "photos/MKE_KEMP_JERRELL_648400.jpg"
   },
   {
    "key": "KEN_UPSHAW_MICHAEL_2026-00006411",
@@ -5025,7 +5025,7 @@
    "age": "21",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of Firearm by Felon",
    "more": 0,
    "ts": 1794923291,
    "photo": "photos/RC_PATRICK_NASHAWN_120011076351179.jpg"
@@ -5249,39 +5249,6 @@
    "more": 2,
    "ts": 1794904045,
    "photo": "photos/MKE_REED_TIONNE_602855.jpg"
-  },
-  {
-   "key": "MKE_ROMERO_DARRELL_414980",
-   "name": "Darrell M Romero",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 9,
-   "ts": 1794902266,
-   "photo": "photos/MKE_ROMERO_DARRELL_414980.jpg"
-  },
-  {
-   "key": "MKE_AUSTINN_ARIYON_648351",
-   "name": "Ariyon A Austinn",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794902265,
-   "photo": "photos/MKE_AUSTINN_ARIYON_648351.jpg"
-  },
-  {
-   "key": "KEN_GUNTERMOORE_KARA_2026-00006351",
-   "name": "Kara S Gunter-Moore",
-   "age": "51",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Take (<=$500)",
-   "more": 1,
-   "ts": 1794902092,
-   "photo": "photos/KEN_GUNTERMOORE_KARA_2026-00006351.jpg"
   }
  ]
 }
