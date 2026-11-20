@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T12:49:29+00:00",
+ "updated": "2026-11-20T13:11:18+00:00",
  "items": [
+  {
+   "key": "MKE_JOHNSON_ANTONIO_355794",
+   "name": "Antonio Q Johnson",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1795179458,
+   "photo": "photos/MKE_JOHNSON_ANTONIO_355794.jpg"
+  },
+  {
+   "key": "MKE_WARD_DEMARIO_502023",
+   "name": "Demario A Ward",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Conspiracy",
+   "more": 2,
+   "ts": 1795179456,
+   "photo": "photos/MKE_WARD_DEMARIO_502023.jpg"
+  },
+  {
+   "key": "MKE_FOSTER_DEWAYNE_2067764",
+   "name": "Dewayne D Foster",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-THC (>200-1000g)",
+   "more": 2,
+   "ts": 1795179454,
+   "photo": "photos/MKE_FOSTER_DEWAYNE_2067764.jpg"
+  },
   {
    "key": "MKE_SMITH_JERELLE_505620",
    "name": "Jerelle Lamonte Smith",
@@ -18,8 +51,8 @@
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1795177651,
    "photo": null
   },
@@ -211,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_PALMER_TONY_648414",
-   "name": "Tony L Palmer",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795166872,
-   "photo": null
-  },
-  {
    "key": "GRIFFIN_GARY_2026-11-20",
    "name": "Gary M Griffin",
    "age": "63",
@@ -253,28 +275,6 @@
    "more": 0,
    "ts": 1795166186,
    "photo": "photos/FDL_OCLAIRE_SARAH_2026-11-20.jpg"
-  },
-  {
-   "key": "RC_GONZALEZCHAVEZ_MARCO_120011076444975",
-   "name": "Marco Antonio Gonzalez Chavez",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795164479,
-   "photo": "photos/RC_GONZALEZCHAVEZ_MARCO_120011076444975.jpg"
-  },
-  {
-   "key": "MKE_LEE_JOVAN_629590",
-   "name": "Jovan Justin Lee",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795163246,
-   "photo": "photos/MKE_LEE_JOVAN_629590.jpg"
   },
   {
    "key": "FDL_LANG_ASHLEY_2026-11-20",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_JOHNSON_ANTONIO_355794",
+   "name": "Antonio Q Johnson",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1795179458,
+   "photo": "photos/MKE_JOHNSON_ANTONIO_355794.jpg"
+  },
+  {
+   "key": "MKE_WARD_DEMARIO_502023",
+   "name": "Demario A Ward",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Conspiracy",
+   "more": 2,
+   "ts": 1795179456,
+   "photo": "photos/MKE_WARD_DEMARIO_502023.jpg"
+  },
+  {
+   "key": "MKE_FOSTER_DEWAYNE_2067764",
+   "name": "Dewayne D Foster",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-THC (>200-1000g)",
+   "more": 2,
+   "ts": 1795179454,
+   "photo": "photos/MKE_FOSTER_DEWAYNE_2067764.jpg"
+  },
+  {
    "key": "MKE_SMITH_JERELLE_505620",
    "name": "Jerelle Lamonte Smith",
    "age": "32",
@@ -548,8 +581,8 @@
    "age": "23",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 1,
    "ts": 1795177651,
    "photo": null
   },
@@ -5315,28 +5348,6 @@
    "more": 0,
    "ts": 1794923291,
    "photo": "photos/RC_PATRICK_NASHAWN_120011076351179.jpg"
-  },
-  {
-   "key": "MKE_FOX_PRINCE_642004",
-   "name": "Prince J Fox",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794920257,
-   "photo": "photos/MKE_FOX_PRINCE_642004.jpg"
-  },
-  {
-   "key": "MAR_MARUSKA_JOSHUA_2026-11-17_12564307",
-   "name": "Joshua Thomas Maruska",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794919996,
-   "photo": "photos/MAR_MARUSKA_JOSHUA_2026-11-17_12564307.jpg"
   }
  ]
 }
