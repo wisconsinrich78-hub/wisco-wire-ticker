@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T03:16:34+00:00",
+ "updated": "2026-11-20T03:49:27+00:00",
  "items": [
+  {
+   "key": "MKE_PIGGEE_KEVIN_648408",
+   "name": "Kevin L Piggee",
+   "age": "16",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795145270,
+   "photo": null
+  },
   {
    "key": "KEN_KUBART_JON_2026-00006415",
    "name": "Jon G Kubart",
@@ -73,8 +84,8 @@
    "age": "29",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 1,
    "ts": 1795142978,
    "photo": null
   },
@@ -208,17 +219,6 @@
    "charge": "Charges Pending",
    "more": 12,
    "ts": 1795136256,
-   "photo": null
-  },
-  {
-   "key": "MKE_LARALANDIN_KEVIN_648402",
-   "name": "Kevin Daniel Lara landin",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1795136253,
    "photo": null
   },
   {
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_PIGGEE_KEVIN_648408",
+   "name": "Kevin L Piggee",
+   "age": "16",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795145270,
+   "photo": null
+  },
+  {
    "key": "KEN_KUBART_JON_2026-00006415",
    "name": "Jon G Kubart",
    "age": "64",
@@ -603,8 +614,8 @@
    "age": "29",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 1,
    "ts": 1795142978,
    "photo": null
   },
@@ -966,7 +977,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "charge": "Party to a Crime",
    "more": 8,
    "ts": 1795125452,
    "photo": null
@@ -980,7 +991,7 @@
    "charge": "Habitual Criminality",
    "more": 3,
    "ts": 1795125449,
-   "photo": null
+   "photo": "photos/MKE_JEFFERSON_KEMONTE_631560.jpg"
   },
   {
    "key": "MKE_MARTI_SEMAJ_634416",
@@ -1299,7 +1310,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795114690,
-   "photo": null
+   "photo": "photos/MKE_CHABBOUTH_IHEB_648396.jpg"
   },
   {
    "key": "MKE_QUINONES_TYLER_2053823",
@@ -1310,7 +1321,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1795114687,
-   "photo": null
+   "photo": "photos/MKE_QUINONES_TYLER_2053823.jpg"
   },
   {
    "key": "MAR_WARD_VILAS_2026-11-19",
@@ -1420,7 +1431,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795112863,
-   "photo": null
+   "photo": "photos/MKE_NEWMAN_MICHAEL_600688.jpg"
   },
   {
    "key": "MKE_CLINCYBUTLER_AJONTAE_635375",
@@ -1530,7 +1541,7 @@
    "charge": "Charges Pending",
    "more": 6,
    "ts": 1795103856,
-   "photo": null
+   "photo": "photos/MKE_DAVIS_BRITTANY_515908.jpg"
   },
   {
    "key": "MKE_BURTON_BARBARA_648395",
@@ -5282,39 +5293,6 @@
    "more": 1,
    "ts": 1794887876,
    "photo": "photos/MKE_CANNONPETERSON_RENA_648346.jpg"
-  },
-  {
-   "key": "RC_FINCH_COREY_120011076341740",
-   "name": "Corey M Finch",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794887286,
-   "photo": "photos/RC_FINCH_COREY_120011076341740.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_MATTHEW_291666",
-   "name": "Matthew Vonterio Robinson",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1794886053,
-   "photo": "photos/MKE_ROBINSON_MATTHEW_291666.jpg"
-  },
-  {
-   "key": "HOU_GAVIN_DEANJOSEPH_6331",
-   "name": "Dean Joseph Gavin",
-   "age": "57",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Possess child sexual abuse material; Register (Sentenced)",
-   "more": 0,
-   "ts": 1794885698,
-   "photo": "photos/HOU_GAVIN_DEANJOSEPH_6331.jpg"
   }
  ]
 }
