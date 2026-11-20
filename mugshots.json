@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-20T22:34:34+00:00",
+ "updated": "2026-11-20T23:08:30+00:00",
  "items": [
+  {
+   "key": "MKE_SPEARS_ANDRE_295029",
+   "name": "Andre Antonio Spears",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "more": 2,
+   "ts": 1795215456,
+   "photo": null
+  },
+  {
+   "key": "MKE_GLASS_RICKY_523271",
+   "name": "Ricky Glass",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795215454,
+   "photo": null
+  },
+  {
+   "key": "MKE_NAZIRHUSSEIN_MUHAMMAD_637903",
+   "name": "Muhammad Huson Nazir Hussein",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 3,
+   "ts": 1795215452,
+   "photo": null
+  },
+  {
+   "key": "MKE_CALIXTOORTIZ_JAVIER_648428",
+   "name": "Javier Calixto Ortiz",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795215451,
+   "photo": null
+  },
   {
    "key": "GOSA_DARRELL_2026-11-20",
    "name": "Darrell L Gosa",
@@ -18,8 +62,8 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent/Deliver Narcotics",
+   "more": 2,
    "ts": 1795211859,
    "photo": null
   },
@@ -109,7 +153,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795210057,
-   "photo": null
+   "photo": "photos/MKE_SKERVEN_TRAVIS_648427.jpg"
   },
   {
    "key": "RC_MCRAE_BRANDON_120011076465974",
@@ -176,50 +220,6 @@
    "more": 1,
    "ts": 1795205760,
    "photo": "photos/FDL_BAADE_TOBY_2026-11-20.jpg"
-  },
-  {
-   "key": "MKE_OKEEFE_TIMOTHY_648426",
-   "name": "Timothy M OKeefe",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 3,
-   "ts": 1795204663,
-   "photo": null
-  },
-  {
-   "key": "RC_MROCH_AMANDA_120011076464338",
-   "name": "Amanda Lynn Mroch",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 5,
-   "ts": 1795204073,
-   "photo": "photos/RC_MROCH_AMANDA_120011076464338.jpg"
-  },
-  {
-   "key": "MKE_MATAYA_SARAH_521927",
-   "name": "Sarah Marie Mataya",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Amphetamine (>50g)",
-   "more": 0,
-   "ts": 1795201071,
-   "photo": null
-  },
-  {
-   "key": "MKE_LEE_TRISTAN_641480",
-   "name": "Tristan Chaleng Lee",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 1,
-   "ts": 1795201069,
-   "photo": "photos/MKE_LEE_TRISTAN_641480.jpg"
   },
   {
    "key": "BRITTON_CHERYL_2026-11-20",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SPEARS_ANDRE_295029",
+   "name": "Andre Antonio Spears",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "more": 2,
+   "ts": 1795215456,
+   "photo": null
+  },
+  {
+   "key": "MKE_GLASS_RICKY_523271",
+   "name": "Ricky Glass",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795215454,
+   "photo": null
+  },
+  {
+   "key": "MKE_NAZIRHUSSEIN_MUHAMMAD_637903",
+   "name": "Muhammad Huson Nazir Hussein",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 3,
+   "ts": 1795215452,
+   "photo": null
+  },
+  {
+   "key": "MKE_CALIXTOORTIZ_JAVIER_648428",
+   "name": "Javier Calixto Ortiz",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795215451,
+   "photo": null
+  },
+  {
    "key": "GOSA_DARRELL_2026-11-20",
    "name": "Darrell L Gosa",
    "age": "61",
@@ -548,8 +592,8 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess w/Intent/Deliver Narcotics",
+   "more": 2,
    "ts": 1795211859,
    "photo": null
   },
@@ -639,7 +683,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795210057,
-   "photo": null
+   "photo": "photos/MKE_SKERVEN_TRAVIS_648427.jpg"
   },
   {
    "key": "RC_MCRAE_BRANDON_120011076465974",
@@ -815,7 +859,7 @@
    "charge": "Theft-Movable Property fr. Person/Corpse",
    "more": 3,
    "ts": 1795199254,
-   "photo": null
+   "photo": "photos/MKE_MCNEALEY_CHASTON_390679.jpg"
   },
   {
    "key": "MKE_JAW_EH_616308",
@@ -1013,7 +1057,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795190265,
-   "photo": null
+   "photo": "photos/MKE_LEE_TERRY_276076.jpg"
   },
   {
    "key": "MKE_JACKSON_JEREMIAH_625732",
@@ -5271,83 +5315,6 @@
    "more": 0,
    "ts": 1794957446,
    "photo": "photos/KEN_HARRELL_RASHEED_2026-00006374.jpg"
-  },
-  {
-   "key": "MKE_CARTER_KENNETH_376407",
-   "name": "Kenneth Cortez Carter",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1794956364,
-   "photo": "photos/MKE_CARTER_KENNETH_376407.jpg"
-  },
-  {
-   "key": "MKE_ABILES_ISRAEL_604334",
-   "name": "Israel Abiles",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794956361,
-   "photo": "photos/MKE_ABILES_ISRAEL_604334.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_BREANNA_624210",
-   "name": "Breanna Jamila Davis",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794956352,
-   "photo": "photos/MKE_DAVIS_BREANNA_624210.jpg"
-  },
-  {
-   "key": "MKE_CASTON_JACK_648361",
-   "name": "Jack Alan Caston",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794956348,
-   "photo": "photos/MKE_CASTON_JACK_648361.jpg"
-  },
-  {
-   "key": "MAR_PORTILLOCASTANEDA_RAUL_2026-11-17",
-   "name": "Raul Raul Portillo-Castaneda",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bodily Harm or Threat to Employee of Health Care Facility",
-   "more": 3,
-   "ts": 1794956243,
-   "photo": null
-  },
-  {
-   "key": "MAR_WILLIAMS_DILLON_2026-11-17",
-   "name": "Dillon Ray Williams",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 6,
-   "ts": 1794956184,
-   "photo": "photos/MAR_WILLIAMS_DILLON_2026-11-17.jpg"
-  },
-  {
-   "key": "MAR_STANDS_SHANICE_2026-11-17",
-   "name": "Shanice Ann Stands",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794956124,
-   "photo": "photos/MAR_STANDS_SHANICE_2026-11-17.jpg"
   }
  ]
 }
