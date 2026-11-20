@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T04:54:53+00:00",
+ "updated": "2026-11-20T05:18:51+00:00",
  "items": [
+  {
+   "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
+   "name": "Kimberly Anne Stevens",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795151791,
+   "photo": "photos/FDL_STEVENS_KIMBERLY_2026-11-19.jpg"
+  },
+  {
+   "key": "MCKITTRICK_TIFFANY_2026-11-19",
+   "name": "Tiffany J Mckittrick",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1795151441,
+   "photo": null
+  },
   {
    "key": "RC_ESTRADA_JUAN_120011076442986",
    "name": "Juan Marcos Estrada",
@@ -76,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795145270,
-   "photo": null
+   "photo": "photos/MKE_PIGGEE_KEVIN_648408.jpg"
   },
   {
    "key": "KEN_KUBART_JON_2026-00006415",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795085234,
    "photo": "photos/TREM_THOMPSON_JARROD_4677.jpg"
-  },
-  {
-   "key": "TREM_CASELLA_JACOB_5224",
-   "name": "Jacob Wade Casella",
-   "age": "40",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795085232,
-   "photo": "photos/TREM_CASELLA_JACOB_5224.jpg"
-  },
-  {
-   "key": "FDL_TOELLNER_HEATHER_2026-11-19",
-   "name": "Heather Grace Toellner",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Misdemeanor Bail Jumping",
-   "more": 0,
-   "ts": 1795072596,
-   "photo": "photos/FDL_TOELLNER_HEATHER_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
+   "name": "Kimberly Anne Stevens",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795151791,
+   "photo": "photos/FDL_STEVENS_KIMBERLY_2026-11-19.jpg"
+  },
+  {
+   "key": "MCKITTRICK_TIFFANY_2026-11-19",
+   "name": "Tiffany J Mckittrick",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 2,
+   "ts": 1795151441,
+   "photo": null
+  },
   {
    "key": "RC_ESTRADA_JUAN_120011076442986",
    "name": "Juan Marcos Estrada",
@@ -606,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795145270,
-   "photo": null
+   "photo": "photos/MKE_PIGGEE_KEVIN_648408.jpg"
   },
   {
    "key": "KEN_KUBART_JON_2026-00006415",
@@ -1043,10 +1065,10 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Party to a Crime",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
    "more": 8,
    "ts": 1795125452,
-   "photo": null
+   "photo": "photos/MKE_STONE_JAMARI_604258.jpg"
   },
   {
    "key": "MKE_JEFFERSON_KEMONTE_631560",
@@ -1068,7 +1090,7 @@
    "charge": "Habitual Criminality",
    "more": 5,
    "ts": 1795125448,
-   "photo": null
+   "photo": "photos/MKE_MARTI_SEMAJ_634416.jpg"
   },
   {
    "key": "KEN_KENYON_KARINA_2026-00006410",
@@ -5271,28 +5293,6 @@
    "more": 0,
    "ts": 1794893266,
    "photo": "photos/MKE_JONES_ANTONIO_648349.jpg"
-  },
-  {
-   "key": "FDL_JACKSON_RYAN_2026-11-16",
-   "name": "Ryan Jerold Jackson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794892584,
-   "photo": "photos/FDL_JACKSON_RYAN_2026-11-16.jpg"
-  },
-  {
-   "key": "MKE_ELLIS_EMMA_648347",
-   "name": "Emma J Ellis",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Take and Drive Vehicle w/o Consent",
-   "more": 0,
-   "ts": 1794891455,
-   "photo": "photos/MKE_ELLIS_EMMA_648347.jpg"
   }
  ]
 }
