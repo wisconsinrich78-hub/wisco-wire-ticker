@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T08:36:59+00:00",
+ "updated": "2026-11-20T08:49:28+00:00",
  "items": [
+  {
+   "key": "RC_GONZALEZCHAVEZ_MARCO_120011076444975",
+   "name": "Marco Antonio Gonzalez Chavez",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795164479,
+   "photo": "photos/RC_GONZALEZCHAVEZ_MARCO_120011076444975.jpg"
+  },
   {
    "key": "MKE_LEE_JOVAN_629590",
    "name": "Jovan Justin Lee",
@@ -40,8 +51,8 @@
    "age": "48",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Manuf/Deliver Cocaine (>1-5g)",
+   "more": 11,
    "ts": 1795160892,
    "photo": "photos/RC_BRUNSON_PATRICK_120011076446256.jpg"
   },
@@ -242,17 +253,6 @@
    "more": 0,
    "ts": 1795145270,
    "photo": "photos/MKE_PIGGEE_KEVIN_648408.jpg"
-  },
-  {
-   "key": "KEN_KUBART_JON_2026-00006415",
-   "name": "Jon G Kubart",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795143399,
-   "photo": null
   },
   {
    "key": "MAR_KLOTH_GARY_2026-11-19",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_GONZALEZCHAVEZ_MARCO_120011076444975",
+   "name": "Marco Antonio Gonzalez Chavez",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795164479,
+   "photo": "photos/RC_GONZALEZCHAVEZ_MARCO_120011076444975.jpg"
+  },
+  {
    "key": "MKE_LEE_JOVAN_629590",
    "name": "Jovan Justin Lee",
    "age": "27",
@@ -570,8 +581,8 @@
    "age": "48",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Manuf/Deliver Cocaine (>1-5g)",
+   "more": 11,
    "ts": 1795160892,
    "photo": "photos/RC_BRUNSON_PATRICK_120011076446256.jpg"
   },
@@ -4970,8 +4981,8 @@
    "age": "48",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Firearm by Felon",
+   "more": 1,
    "ts": 1794930534,
    "photo": "photos/RC_GRESHAM_LAKIYA_120011076354283.jpg"
   },
