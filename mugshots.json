@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T12:06:34+00:00",
+ "updated": "2026-11-20T12:40:43+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_JERELLE_505620",
+   "name": "Jerelle Lamonte Smith",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795177653,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_LASHYNETT_621374",
+   "name": "Lashynett Yasmina Jackson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795177651,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_JACOBI_648417",
+   "name": "Jacobi Johnson",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1795177649,
+   "photo": null
+  },
   {
    "key": "MKE_MARTINEZMARTINEZ_BRIAN_642981",
    "name": "Brian O Martinez Martinez",
@@ -255,28 +288,6 @@
    "photo": null
   },
   {
-   "key": "RC_MCREE_MAXI_120011076446222",
-   "name": "Maxi N Mcree",
-   "age": "49",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795160895,
-   "photo": "photos/RC_MCREE_MAXI_120011076446222.jpg"
-  },
-  {
-   "key": "RC_BRUNSON_PATRICK_120011076446256",
-   "name": "Patrick L Brunson",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Manuf/Deliver Cocaine (>1-5g)",
-   "more": 11,
-   "ts": 1795160892,
-   "photo": "photos/RC_BRUNSON_PATRICK_120011076446256.jpg"
-  },
-  {
    "key": "FDL_CORNELL_JAMES_2026-11-20",
    "name": "James Michael Cornell",
    "age": "",
@@ -286,17 +297,6 @@
    "more": 0,
    "ts": 1795158965,
    "photo": "photos/FDL_CORNELL_JAMES_2026-11-20.jpg"
-  },
-  {
-   "key": "MKE_QUARLES_DIKITA_633657",
-   "name": "Dikita Quarles",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795157850,
-   "photo": "photos/MKE_QUARLES_DIKITA_633657.jpg"
   },
   {
    "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SMITH_JERELLE_505620",
+   "name": "Jerelle Lamonte Smith",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795177653,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_LASHYNETT_621374",
+   "name": "Lashynett Yasmina Jackson",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795177651,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_JACOBI_648417",
+   "name": "Jacobi Johnson",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1795177649,
+   "photo": null
+  },
   {
    "key": "MKE_MARTINEZMARTINEZ_BRIAN_642981",
    "name": "Brian O Martinez Martinez",
@@ -5315,39 +5348,6 @@
    "more": 0,
    "ts": 1794919689,
    "photo": null
-  },
-  {
-   "key": "MKE_CRUSE_DEMITTRIS_257184",
-   "name": "Demittris L Cruse",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794918453,
-   "photo": "photos/MKE_CRUSE_DEMITTRIS_257184.jpg"
-  },
-  {
-   "key": "MKE_GUTIERREZ_GUADALUPE_288510",
-   "name": "Guadalupe D Gutierrez",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794918451,
-   "photo": "photos/MKE_GUTIERREZ_GUADALUPE_288510.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_SHARONDA_648353",
-   "name": "Sharonda Tamika Johnson",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794918450,
-   "photo": "photos/MKE_JOHNSON_SHARONDA_648353.jpg"
   }
  ]
 }
