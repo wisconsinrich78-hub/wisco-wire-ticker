@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T15:49:34+00:00",
+ "updated": "2026-11-21T16:13:41+00:00",
  "items": [
+  {
+   "key": "KEN_MERCADO_LYNETTE_2026-00006444",
+   "name": "Lynette Jailene Mercado",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795276455,
+   "photo": "photos/KEN_MERCADO_LYNETTE_2026-00006444.jpg"
+  },
   {
    "key": "MKE_WRIGHT_ITALYA_648437",
    "name": "Italya Wright",
@@ -29,7 +40,7 @@
    "age": "44",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1795272897,
    "photo": "photos/KEN_VAZQUEZ_REBECCA_2026-00006443.jpg"
@@ -76,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795271250,
-   "photo": null
+   "photo": "photos/MKE_SMITH_JARAYA_648436.jpg"
   },
   {
    "key": "MKE_LATHON_JEFFERY_648435",
@@ -87,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795269467,
-   "photo": null
+   "photo": "photos/MKE_LATHON_JEFFERY_648435.jpg"
   },
   {
    "key": "MAR_WICK_RYAN_2026-11-21",
@@ -241,7 +252,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795255055,
-   "photo": null
+   "photo": "photos/MKE_MINER_MALIKAH_648433.jpg"
   },
   {
    "key": "RC_OLIVAREZ_DANIEL_120011076479641",
@@ -264,17 +275,6 @@
    "more": 1,
    "ts": 1795249650,
    "photo": "photos/MKE_CALDWELL_TERLAND_287770.jpg"
-  },
-  {
-   "key": "MKE_LEWIS_CHARLES_370791",
-   "name": "Charles Edward Lewis",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795249649,
-   "photo": "photos/MKE_LEWIS_CHARLES_370791.jpg"
   },
   {
    "key": "GADE_LANCE_2026-11-21",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "KEN_MERCADO_LYNETTE_2026-00006444",
+   "name": "Lynette Jailene Mercado",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795276455,
+   "photo": "photos/KEN_MERCADO_LYNETTE_2026-00006444.jpg"
+  },
+  {
    "key": "MKE_WRIGHT_ITALYA_648437",
    "name": "Italya Wright",
    "age": "38",
@@ -559,7 +570,7 @@
    "age": "44",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1795272897,
    "photo": "photos/KEN_VAZQUEZ_REBECCA_2026-00006443.jpg"
@@ -606,7 +617,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795271250,
-   "photo": null
+   "photo": "photos/MKE_SMITH_JARAYA_648436.jpg"
   },
   {
    "key": "MKE_LATHON_JEFFERY_648435",
@@ -617,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795269467,
-   "photo": null
+   "photo": "photos/MKE_LATHON_JEFFERY_648435.jpg"
   },
   {
    "key": "MAR_WICK_RYAN_2026-11-21",
@@ -771,7 +782,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795255055,
-   "photo": null
+   "photo": "photos/MKE_MINER_MALIKAH_648433.jpg"
   },
   {
    "key": "RC_OLIVAREZ_DANIEL_120011076479641",
@@ -911,7 +922,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -5172,50 +5183,6 @@
    "more": 4,
    "ts": 1795018577,
    "photo": "photos/FDL_JONES_CHRISTOPHER_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_HOLLOWAY_REGINALD_298093",
-   "name": "Reginald Jermaine Holloway",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795017479,
-   "photo": "photos/MKE_HOLLOWAY_REGINALD_298093.jpg"
-  },
-  {
-   "key": "MKE_FLEMING_MATTHEW_642233",
-   "name": "Matthew Curtis Fleming",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795017477,
-   "photo": "photos/MKE_FLEMING_MATTHEW_642233.jpg"
-  },
-  {
-   "key": "MKE_MARTINSANCHEZ_SAUL_648375",
-   "name": "Saul Martin Sanchez",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 0,
-   "ts": 1795017475,
-   "photo": "photos/MKE_MARTINSANCHEZ_SAUL_648375.jpg"
-  },
-  {
-   "key": "MKE_MURRELL_KSHAWN_2067842",
-   "name": "Kshawn Scott Murrell",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795017472,
-   "photo": "photos/MKE_MURRELL_KSHAWN_2067842.jpg"
   }
  ]
 }
