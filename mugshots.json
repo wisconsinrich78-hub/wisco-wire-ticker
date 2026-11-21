@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T07:39:08+00:00",
+ "updated": "2026-11-21T07:49:30+00:00",
  "items": [
+  {
+   "key": "RC_PARRA_SAUL_120011076478488",
+   "name": "Saul A Parra",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247286,
+   "photo": null
+  },
+  {
+   "key": "RC_PARRA_SAUL_120011076478498",
+   "name": "Saul A Parra",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247284,
+   "photo": null
+  },
+  {
+   "key": "WILSON_ANTHONY_2026-11-21",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247232,
+   "photo": null
+  },
   {
    "key": "DOU_HARDEE_CLINTON_2026-11-20",
    "name": "Clinton D Hardee",
@@ -277,28 +310,6 @@
    "photo": "photos/DOU_POTTER_GARY_2026-11-20.jpg"
   },
   {
-   "key": "KEN_WOODS_AMIR_2026-00006422",
-   "name": "Amir Naseem Woods",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 1,
-   "ts": 1795223269,
-   "photo": "photos/KEN_WOODS_AMIR_2026-00006422.jpg"
-  },
-  {
-   "key": "KEN_WAGGONER_CHRISTOPHER_2026-00006416",
-   "name": "Christopher Edward Waggoner",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Entry Into Locked Vehicle",
-   "more": 2,
-   "ts": 1795223192,
-   "photo": "photos/KEN_WAGGONER_CHRISTOPHER_2026-00006416.jpg"
-  },
-  {
    "key": "HUBER_DEREK_2026-11-20",
    "name": "Derek E Huber",
    "age": "52",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795191380,
    "photo": "photos/FDL_LAMOREAUX_ZANE_2026-11-20.jpg"
-  },
-  {
-   "key": "FDL_LIMONES_JORGE_2026-11-20",
-   "name": "Jorge Osvaldo Limones",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "OWI - 3rd Offense",
-   "more": 2,
-   "ts": 1795173384,
-   "photo": "photos/FDL_LIMONES_JORGE_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PARRA_SAUL_120011076478488",
+   "name": "Saul A Parra",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247286,
+   "photo": null
+  },
+  {
+   "key": "RC_PARRA_SAUL_120011076478498",
+   "name": "Saul A Parra",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247284,
+   "photo": null
+  },
+  {
+   "key": "WILSON_ANTHONY_2026-11-21",
+   "name": "Anthony D Wilson",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247232,
+   "photo": null
+  },
   {
    "key": "DOU_HARDEE_CLINTON_2026-11-20",
    "name": "Clinton D Hardee",
