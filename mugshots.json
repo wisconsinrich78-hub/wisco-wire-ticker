@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T16:41:10+00:00",
+ "updated": "2026-11-21T16:49:32+00:00",
  "items": [
+  {
+   "key": "RC_HALLOM_VICTORIA_120011076485955",
+   "name": "Victoria Latrice Hallom",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795279712,
+   "photo": "photos/RC_HALLOM_VICTORIA_120011076485955.jpg"
+  },
+  {
+   "key": "RC_SMITH_SHUNYA_120011076486175",
+   "name": "Shunya Immani Smith",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795279708,
+   "photo": null
+  },
   {
    "key": "FDL_SCHROEDER_JOSHUA_2026-11-21",
    "name": "Joshua Aaron Schroeder",
@@ -266,28 +288,6 @@
    "photo": "photos/MKE_MINER_MALIKAH_648433.jpg"
   },
   {
-   "key": "RC_OLIVAREZ_DANIEL_120011076479641",
-   "name": "Daniel Olivarez",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence",
-   "more": 1,
-   "ts": 1795254490,
-   "photo": null
-  },
-  {
-   "key": "MKE_CALDWELL_TERLAND_287770",
-   "name": "Terland Allen Caldwell",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795249650,
-   "photo": "photos/MKE_CALDWELL_TERLAND_287770.jpg"
-  },
-  {
    "key": "GADE_LANCE_2026-11-21",
    "name": "Lance W Gade",
    "age": "31",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_HALLOM_VICTORIA_120011076485955",
+   "name": "Victoria Latrice Hallom",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795279712,
+   "photo": "photos/RC_HALLOM_VICTORIA_120011076485955.jpg"
+  },
+  {
+   "key": "RC_SMITH_SHUNYA_120011076486175",
+   "name": "Shunya Immani Smith",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795279708,
+   "photo": null
+  },
   {
    "key": "FDL_SCHROEDER_JOSHUA_2026-11-21",
    "name": "Joshua Aaron Schroeder",
