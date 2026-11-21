@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T16:49:32+00:00",
+ "updated": "2026-11-21T17:15:21+00:00",
  "items": [
+  {
+   "key": "MKE_CURRIN_LAVELLE_288835",
+   "name": "Lavelle D Currin",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795280268,
+   "photo": null
+  },
   {
    "key": "RC_HALLOM_VICTORIA_120011076485955",
    "name": "Victoria Latrice Hallom",
@@ -40,7 +51,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1795276455,
    "photo": "photos/KEN_MERCADO_LYNETTE_2026-00006444.jpg"
@@ -275,17 +286,6 @@
    "more": 2,
    "ts": 1795255057,
    "photo": "photos/MKE_TOWER_TRENT_538842.jpg"
-  },
-  {
-   "key": "MKE_MINER_MALIKAH_648433",
-   "name": "Malikah T Miner",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795255055,
-   "photo": "photos/MKE_MINER_MALIKAH_648433.jpg"
   },
   {
    "key": "GADE_LANCE_2026-11-21",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_CURRIN_LAVELLE_288835",
+   "name": "Lavelle D Currin",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795280268,
+   "photo": null
+  },
+  {
    "key": "RC_HALLOM_VICTORIA_120011076485955",
    "name": "Victoria Latrice Hallom",
    "age": "23",
@@ -570,7 +581,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "OWI (2nd)",
    "more": 0,
    "ts": 1795276455,
    "photo": "photos/KEN_MERCADO_LYNETTE_2026-00006444.jpg"
@@ -5150,61 +5161,6 @@
    "more": 0,
    "ts": 1795022202,
    "photo": "photos/FDL_SAVAGE_DESTINY_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_SANDERS_DERRICK_374247",
-   "name": "Derrick Gerard Sanders",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1795021065,
-   "photo": "photos/MKE_SANDERS_DERRICK_374247.jpg"
-  },
-  {
-   "key": "MKE_LAYNE_JAVIONTAE_615294",
-   "name": "Javiontae Tronquil Layne",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 14,
-   "ts": 1795021064,
-   "photo": "photos/MKE_LAYNE_JAVIONTAE_615294.jpg"
-  },
-  {
-   "key": "MKE_LEE_ARACHEL_619442",
-   "name": "Arachel Lee",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795021062,
-   "photo": "photos/MKE_LEE_ARACHEL_619442.jpg"
-  },
-  {
-   "key": "MKE_ROSS_DAMAR_648376",
-   "name": "Damar R Ross",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795021059,
-   "photo": "photos/MKE_ROSS_DAMAR_648376.jpg"
-  },
-  {
-   "key": "MKE_LEWIS_JAMES_648377",
-   "name": "James Lewis",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795021057,
-   "photo": "photos/MKE_LEWIS_JAMES_648377.jpg"
   }
  ]
 }
