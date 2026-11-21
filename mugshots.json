@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T06:09:20+00:00",
+ "updated": "2026-11-21T06:40:08+00:00",
  "items": [
+  {
+   "key": "DOU_HARDEE_CLINTON_2026-11-20",
+   "name": "Clinton D Hardee",
+   "age": "33",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 5,
+   "ts": 1795241809,
+   "photo": "photos/DOU_HARDEE_CLINTON_2026-11-20.jpg"
+  },
+  {
+   "key": "FDL_RIVERAALVARADO_ARIEL_2026-11-20",
+   "name": "Ariel Antonio Rivera Alvarado",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795241788,
+   "photo": "photos/FDL_RIVERAALVARADO_ARIEL_2026-11-20.jpg"
+  },
   {
    "key": "STORMAN_ROBERTDANIEL_2026-11-20",
    "name": "Robert Daniel Khashoggi Storman",
@@ -18,7 +40,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -62,7 +84,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 1,
    "ts": 1795237058,
    "photo": null
@@ -506,31 +528,31 @@
    "more": 2,
    "ts": 1795173384,
    "photo": "photos/FDL_LIMONES_JORGE_2026-11-20.jpg"
-  },
-  {
-   "key": "TREM_MISCH_DAVID_1857",
-   "name": "David Charles Misch",
-   "age": "54",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795171641,
-   "photo": "photos/TREM_MISCH_DAVID_1857.jpg"
-  },
-  {
-   "key": "TREM_LEWANDOWSKI_JOSHUA_2453",
-   "name": "Joshua Mark Lewandowski",
-   "age": "41",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 2,
-   "ts": 1795171639,
-   "photo": "photos/TREM_LEWANDOWSKI_JOSHUA_2453.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_HARDEE_CLINTON_2026-11-20",
+   "name": "Clinton D Hardee",
+   "age": "33",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 5,
+   "ts": 1795241809,
+   "photo": "photos/DOU_HARDEE_CLINTON_2026-11-20.jpg"
+  },
+  {
+   "key": "FDL_RIVERAALVARADO_ARIEL_2026-11-20",
+   "name": "Ariel Antonio Rivera Alvarado",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795241788,
+   "photo": "photos/FDL_RIVERAALVARADO_ARIEL_2026-11-20.jpg"
+  },
   {
    "key": "STORMAN_ROBERTDANIEL_2026-11-20",
    "name": "Robert Daniel Khashoggi Storman",
@@ -548,7 +570,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -592,7 +614,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 1,
    "ts": 1795237058,
    "photo": null
@@ -1175,7 +1197,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
    "more": 2,
    "ts": 1795215456,
    "photo": null
@@ -5304,50 +5326,6 @@
    "more": 0,
    "ts": 1794986521,
    "photo": null
-  },
-  {
-   "key": "MKE_EARL_JAYVIONA_627889",
-   "name": "Jayviona Denise Earl",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794983270,
-   "photo": "photos/MKE_EARL_JAYVIONA_627889.jpg"
-  },
-  {
-   "key": "MKE_MOFFET_ANIYA_648369",
-   "name": "Aniya N Moffet",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 1,
-   "ts": 1794983268,
-   "photo": "photos/MKE_MOFFET_ANIYA_648369.jpg"
-  },
-  {
-   "key": "MKE_WATKINS_JOAVON_648370",
-   "name": "Joavon J Watkins",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794983266,
-   "photo": "photos/MKE_WATKINS_JOAVON_648370.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_NYASIAH_648371",
-   "name": "Nyasiah M J Robinson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794983264,
-   "photo": "photos/MKE_ROBINSON_NYASIAH_648371.jpg"
   }
  ]
 }
