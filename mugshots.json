@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:40:59+00:00",
+ "updated": "2026-11-21T15:49:34+00:00",
  "items": [
   {
    "key": "MKE_WRIGHT_ITALYA_648437",
@@ -51,7 +51,7 @@
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under the Influence (2nd)",
    "more": 0,
    "ts": 1795272500,
    "photo": null
@@ -62,8 +62,8 @@
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1795272497,
    "photo": "photos/RC_BRUMFIELD_TARON_120011076484226.jpg"
   },
@@ -581,7 +581,7 @@
    "age": "19",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under the Influence (2nd)",
    "more": 0,
    "ts": 1795272500,
    "photo": null
@@ -592,8 +592,8 @@
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
    "ts": 1795272497,
    "photo": "photos/RC_BRUMFIELD_TARON_120011076484226.jpg"
   },
@@ -5216,17 +5216,6 @@
    "more": 1,
    "ts": 1795017472,
    "photo": "photos/MKE_MURRELL_KSHAWN_2067842.jpg"
-  },
-  {
-   "key": "RC_LOPEZHERNANDEZ_FAVIAN_120011076384586",
-   "name": "Favian Lopez Hernandez",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid License (2nd W/In 3 Yrs)",
-   "more": 1,
-   "ts": 1795016895,
-   "photo": null
   }
  ]
 }
