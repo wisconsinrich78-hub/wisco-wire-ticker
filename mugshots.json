@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:12:45+00:00",
+ "updated": "2026-11-21T09:40:04+00:00",
  "items": [
   {
    "key": "MKE_CALDWELL_TERLAND_287770",
@@ -128,7 +128,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "charge": "Domestic Abuse Surcharges",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -230,7 +230,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795233451,
-   "photo": null
+   "photo": "photos/MKE_NELSON_PHYLONIA_638692.jpg"
   },
   {
    "key": "MAR_KURTH_RYAN_2026-11-20",
@@ -658,7 +658,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "charge": "Domestic Abuse Surcharges",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -760,7 +760,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795233451,
-   "photo": null
+   "photo": "photos/MKE_NELSON_PHYLONIA_638692.jpg"
   },
   {
    "key": "MAR_KURTH_RYAN_2026-11-20",
@@ -815,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795228051,
-   "photo": null
+   "photo": "photos/MKE_LINDSEY_CHASVONNE_407867.jpg"
   },
   {
    "key": "FDL_LOPEZGALICIA_FREDY_2026-11-20",
@@ -5271,50 +5271,6 @@
    "more": 0,
    "ts": 1794995269,
    "photo": "photos/RC_ELAM_CAMRON_120011076377876.jpg"
-  },
-  {
-   "key": "MKE_QUEZAIRE_DALONTE_535990",
-   "name": "Dalonte Lamar Quezaire",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1794994055,
-   "photo": "photos/MKE_QUEZAIRE_DALONTE_535990.jpg"
-  },
-  {
-   "key": "MKE_ERBY_AMARI_648372",
-   "name": "Amari Erby",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1794994054,
-   "photo": "photos/MKE_ERBY_AMARI_648372.jpg"
-  },
-  {
-   "key": "FDL_KEEZER_ALLISSON_2026-11-18",
-   "name": "Allisson Shayne Keezer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping",
-   "more": 2,
-   "ts": 1794993386,
-   "photo": null
-  },
-  {
-   "key": "FDL_ANTONE_ALEXANDER_2026-11-18",
-   "name": "Alexander James Antone",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 0,
-   "ts": 1794993365,
-   "photo": "photos/FDL_ANTONE_ALEXANDER_2026-11-18.jpg"
   }
  ]
 }
