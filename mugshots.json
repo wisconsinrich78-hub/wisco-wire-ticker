@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T01:49:28+00:00",
+ "updated": "2026-11-21T02:01:49+00:00",
  "items": [
+  {
+   "key": "MKE_ELLIS_ANTHONY_1190",
+   "name": "Anthony Ellis",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795226259,
+   "photo": null
+  },
+  {
+   "key": "MKE_KACH_KONSUELLA_406830",
+   "name": "Konsuella Vanessa Kach",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 0,
+   "ts": 1795226258,
+   "photo": null
+  },
   {
    "key": "HOU_HENKE_ELLAROSE_6336",
    "name": "Ella Rose Henke",
@@ -200,17 +222,6 @@
    "photo": "photos/KEN_KING_BYRON_2026-00006429.jpg"
   },
   {
-   "key": "MKE_MCDOUGAL_MARSHALL_648429",
-   "name": "Marshall Isiah McDougal",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795220847,
-   "photo": null
-  },
-  {
    "key": "HUBER_DEREK_2026-11-20",
    "name": "Derek E Huber",
    "age": "52",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1795220822,
    "photo": null
-  },
-  {
-   "key": "KEN_JENKINS_DONTA_2026-00006419",
-   "name": "Donta Letrect Jenkins",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Non-Registration of Vehicle",
-   "more": 5,
-   "ts": 1795219730,
-   "photo": "photos/KEN_JENKINS_DONTA_2026-00006419.jpg"
   },
   {
    "key": "MAR_SHIELDS_DERRICK_2026-11-20",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ELLIS_ANTHONY_1190",
+   "name": "Anthony Ellis",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795226259,
+   "photo": null
+  },
+  {
+   "key": "MKE_KACH_KONSUELLA_406830",
+   "name": "Konsuella Vanessa Kach",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 0,
+   "ts": 1795226258,
+   "photo": null
+  },
   {
    "key": "HOU_HENKE_ELLAROSE_6336",
    "name": "Ella Rose Henke",
@@ -1043,7 +1065,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Battery",
    "more": 3,
    "ts": 1795211855,
    "photo": null
@@ -1054,7 +1076,7 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Habitual Criminality",
+   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
    "more": 4,
    "ts": 1795211854,
    "photo": null
@@ -1186,7 +1208,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1795204663,
    "photo": null
@@ -1233,7 +1255,7 @@
    "charge": "OWI (3rd)",
    "more": 0,
    "ts": 1795201067,
-   "photo": null
+   "photo": "photos/MKE_DUNCAN_ROBERT_648424.jpg"
   },
   {
    "key": "MKE_CASTRILLONMUJICA_GABRIEL_648425",
@@ -1244,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795201065,
-   "photo": null
+   "photo": "photos/MKE_CASTRILLONMUJICA_GABRIEL_648425.jpg"
   },
   {
    "key": "RC_CRUZ_EDWIN_120011076462448",
@@ -5436,17 +5458,6 @@
    "more": 0,
    "ts": 1794968848,
    "photo": "photos/MKE_CARPENTER_BENJAMIN_2018886.jpg"
-  },
-  {
-   "key": "MAR_JAMES_GERALD_2026-11-17",
-   "name": "Gerald Dwayne James",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 4th",
-   "more": 2,
-   "ts": 1794966802,
-   "photo": "photos/MAR_JAMES_GERALD_2026-11-17.jpg"
   }
  ]
 }
