@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T09:49:29+00:00",
+ "updated": "2026-11-21T10:13:37+00:00",
  "items": [
+  {
+   "key": "MKE_TOWER_TRENT_538842",
+   "name": "Trent D Tower",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795255057,
+   "photo": null
+  },
+  {
+   "key": "MKE_MINER_MALIKAH_648433",
+   "name": "Malikah T Miner",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795255055,
+   "photo": null
+  },
   {
    "key": "RC_OLIVAREZ_DANIEL_120011076479641",
    "name": "Daniel Olivarez",
@@ -233,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "MKE_NELSON_PHYLONIA_638692",
-   "name": "Phylonia Z Nelson",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795233451,
-   "photo": "photos/MKE_NELSON_PHYLONIA_638692.jpg"
-  },
-  {
    "key": "MAR_KURTH_RYAN_2026-11-20",
    "name": "Ryan Christopher Kurth",
    "age": "30",
@@ -252,17 +263,6 @@
    "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1795233285,
-   "photo": null
-  },
-  {
-   "key": "MKE_GRANT_AKKELAH_420168",
-   "name": "Akkelah L Grant",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (2nd)",
-   "more": 0,
-   "ts": 1795231662,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_TOWER_TRENT_538842",
+   "name": "Trent D Tower",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795255057,
+   "photo": null
+  },
+  {
+   "key": "MKE_MINER_MALIKAH_648433",
+   "name": "Malikah T Miner",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795255055,
+   "photo": null
+  },
   {
    "key": "RC_OLIVAREZ_DANIEL_120011076479641",
    "name": "Daniel Olivarez",
@@ -5227,50 +5249,6 @@
    "more": 2,
    "ts": 1794997000,
    "photo": "photos/FDL_WILLIAMS_ULON_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_WILSONTREVINO_LAQUANDA_648373",
-   "name": "Laquanda Marie Wilson-Trevino",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794995856,
-   "photo": "photos/MKE_WILSONTREVINO_LAQUANDA_648373.jpg"
-  },
-  {
-   "key": "MKE_MUHAMMAD_MAHDEE_648374",
-   "name": "Mahdee Muhammad",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1794995854,
-   "photo": null
-  },
-  {
-   "key": "MKE_PORTER_PAUL_2053176",
-   "name": "Paul J Porter",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794995852,
-   "photo": "photos/MKE_PORTER_PAUL_2053176.jpg"
-  },
-  {
-   "key": "MAR_HER_LUE_2026-11-18",
-   "name": "Lue Her",
-   "age": "49",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 2nd",
-   "more": 0,
-   "ts": 1794995648,
-   "photo": "photos/MAR_HER_LUE_2026-11-18.jpg"
   }
  ]
 }
