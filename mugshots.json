@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T02:01:49+00:00",
+ "updated": "2026-11-21T02:49:28+00:00",
  "items": [
+  {
+   "key": "RC_MARTINEZ_STEPHANIE_120011076474735",
+   "name": "Stephanie Jo Martinez",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795229287,
+   "photo": null
+  },
+  {
+   "key": "MKE_LINDSEY_CHASVONNE_407867",
+   "name": "Chasvonne Maurice Lindsey",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795228051,
+   "photo": null
+  },
+  {
+   "key": "FDL_LOPEZGALICIA_FREDY_2026-11-20",
+   "name": "Fredy Rolando Lopez Galicia",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795227379,
+   "photo": "photos/FDL_LOPEZGALICIA_FREDY_2026-11-20.jpg"
+  },
   {
    "key": "MKE_ELLIS_ANTHONY_1190",
    "name": "Anthony Ellis",
@@ -175,7 +208,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795222656,
-   "photo": null
+   "photo": "photos/MKE_LAWRENCE_WADE_648430.jpg"
   },
   {
    "key": "MKE_MOORE_RAYMELL_2066303",
@@ -198,28 +231,6 @@
    "more": 1,
    "ts": 1795222623,
    "photo": "photos/KEN_MARTINEZ_JESSE_2026-00006418.jpg"
-  },
-  {
-   "key": "KEN_KUBART_JON_2026-00006415",
-   "name": "Jon Gary Kubart",
-   "age": "64",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Marijuana (THC)",
-   "more": 3,
-   "ts": 1795222544,
-   "photo": "photos/KEN_KUBART_JON_2026-00006415.jpg"
-  },
-  {
-   "key": "KEN_KING_BYRON_2026-00006429",
-   "name": "BYRON DARNELL Junior KING",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 0,
-   "ts": 1795222465,
-   "photo": "photos/KEN_KING_BYRON_2026-00006429.jpg"
   },
   {
    "key": "HUBER_DEREK_2026-11-20",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795166240,
    "photo": "photos/DOU_BENEDICT_SUMMER_2026-11-20.jpg"
-  },
-  {
-   "key": "FDL_OCLAIRE_SARAH_2026-11-20",
-   "name": "Sarah Lynn Oclaire",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Resisting or Obstructing Officer",
-   "more": 0,
-   "ts": 1795166186,
-   "photo": "photos/FDL_OCLAIRE_SARAH_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MARTINEZ_STEPHANIE_120011076474735",
+   "name": "Stephanie Jo Martinez",
+   "age": "39",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795229287,
+   "photo": null
+  },
+  {
+   "key": "MKE_LINDSEY_CHASVONNE_407867",
+   "name": "Chasvonne Maurice Lindsey",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795228051,
+   "photo": null
+  },
+  {
+   "key": "FDL_LOPEZGALICIA_FREDY_2026-11-20",
+   "name": "Fredy Rolando Lopez Galicia",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795227379,
+   "photo": "photos/FDL_LOPEZGALICIA_FREDY_2026-11-20.jpg"
+  },
   {
    "key": "MKE_ELLIS_ANTHONY_1190",
    "name": "Anthony Ellis",
@@ -705,7 +738,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795222656,
-   "photo": null
+   "photo": "photos/MKE_LAWRENCE_WADE_648430.jpg"
   },
   {
    "key": "MKE_MOORE_RAYMELL_2066303",
@@ -988,7 +1021,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 2,
    "ts": 1795215456,
    "photo": null
@@ -1010,7 +1043,7 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Possession of Methamphetamine",
    "more": 3,
    "ts": 1795215452,
    "photo": null
@@ -1024,7 +1057,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795215451,
-   "photo": null
+   "photo": "photos/MKE_CALIXTOORTIZ_JAVIER_648428.jpg"
   },
   {
    "key": "GOSA_DARRELL_2026-11-20",
@@ -1076,7 +1109,7 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take >$500 - $5000)",
+   "charge": "Habitual Criminality",
    "more": 4,
    "ts": 1795211854,
    "photo": null
@@ -1101,7 +1134,7 @@
    "charge": "Domestic Abuse Surcharges",
    "more": 3,
    "ts": 1795210062,
-   "photo": null
+   "photo": "photos/MKE_HARVEY_SHAUMBAY_288359.jpg"
   },
   {
    "key": "MKE_SHANKS_ARTIEAS_358604",
@@ -1112,7 +1145,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1795210060,
-   "photo": null
+   "photo": "photos/MKE_SHANKS_ARTIEAS_358604.jpg"
   },
   {
    "key": "MKE_DANZY_ARIANA_627426",
@@ -1178,7 +1211,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795206471,
-   "photo": null
+   "photo": "photos/MKE_FAISON_DONNIE_608967.jpg"
   },
   {
    "key": "DOU_HUGHES_CARLIE_2026-11-20",
@@ -1208,7 +1241,7 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
    "more": 3,
    "ts": 1795204663,
    "photo": null
@@ -1420,7 +1453,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795195647,
-   "photo": null
+   "photo": "photos/MKE_LEWIS_JAMAL_648421.jpg"
   },
   {
    "key": "MKE_MOORE_ASHANTI_648422",
@@ -5403,61 +5436,6 @@
    "more": 3,
    "ts": 1794972472,
    "photo": "photos/MKE_HERRERAZEPEDA_JOSE_637532.jpg"
-  },
-  {
-   "key": "MKE_ALICEA_AMALKY_344497",
-   "name": "Amalky Cannauis Alicea",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 5,
-   "ts": 1794968856,
-   "photo": "photos/MKE_ALICEA_AMALKY_344497.jpg"
-  },
-  {
-   "key": "MKE_WILKINS_STACY_600401",
-   "name": "Stacy Lamar Wilkins",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 2,
-   "ts": 1794968855,
-   "photo": "photos/MKE_WILKINS_STACY_600401.jpg"
-  },
-  {
-   "key": "MKE_CONN_DOMINIQUE_641210",
-   "name": "Dominique Natrell Conn",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794968852,
-   "photo": "photos/MKE_CONN_DOMINIQUE_641210.jpg"
-  },
-  {
-   "key": "MKE_CRAWFORD_TEMETRIA_648364",
-   "name": "Temetria Deshay Crawford",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794968850,
-   "photo": "photos/MKE_CRAWFORD_TEMETRIA_648364.jpg"
-  },
-  {
-   "key": "MKE_CARPENTER_BENJAMIN_2018886",
-   "name": "Benjamin Angus Carpenter",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794968848,
-   "photo": "photos/MKE_CARPENTER_BENJAMIN_2018886.jpg"
   }
  ]
 }
