@@ -1,14 +1,25 @@
 {
- "updated": "2026-11-21T22:49:28+00:00",
+ "updated": "2026-11-21T22:59:49+00:00",
  "items": [
+  {
+   "key": "MKE_WATSON_DAEJON_607219",
+   "name": "Daejon P Watson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property <=$2500",
+   "more": 2,
+   "ts": 1795301855,
+   "photo": null
+  },
   {
    "key": "MKE_MATTHEWS_DESHON_298399",
    "name": "Deshon Contrel Matthews",
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Second/Subsequent Drug Offense",
-   "more": 16,
+   "charge": "Charges Pending",
+   "more": 18,
    "ts": 1795298256,
    "photo": null
   },
@@ -109,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795287457,
-   "photo": null
+   "photo": "photos/MKE_SEE_AE_616601.jpg"
   },
   {
    "key": "MAR_BETTS_EMILY_2026-11-21",
@@ -153,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795285657,
-   "photo": null
+   "photo": "photos/MKE_TURNER_MICHAEL_639514.jpg"
   },
   {
    "key": "HOU_CAGLE_KEVINCHARLES_6337",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1795272897,
    "photo": "photos/KEN_VAZQUEZ_REBECCA_2026-00006443.jpg"
-  },
-  {
-   "key": "KEN_FICKER_ARIN_2026-00006442",
-   "name": "Arin Joseph Ficker",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1795272824,
-   "photo": "photos/KEN_FICKER_ARIN_2026-00006442.jpg"
   },
   {
    "key": "MAR_WICK_RYAN_2026-11-21",
@@ -532,13 +532,24 @@
  ],
  "all_items": [
   {
+   "key": "MKE_WATSON_DAEJON_607219",
+   "name": "Daejon P Watson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Movable Property <=$2500",
+   "more": 2,
+   "ts": 1795301855,
+   "photo": null
+  },
+  {
    "key": "MKE_MATTHEWS_DESHON_298399",
    "name": "Deshon Contrel Matthews",
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Second/Subsequent Drug Offense",
-   "more": 16,
+   "charge": "Charges Pending",
+   "more": 18,
    "ts": 1795298256,
    "photo": null
   },
@@ -639,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795287457,
-   "photo": null
+   "photo": "photos/MKE_SEE_AE_616601.jpg"
   },
   {
    "key": "MAR_BETTS_EMILY_2026-11-21",
@@ -683,7 +694,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795285657,
-   "photo": null
+   "photo": "photos/MKE_TURNER_MICHAEL_639514.jpg"
   },
   {
    "key": "HOU_CAGLE_KEVINCHARLES_6337",
@@ -4875,39 +4886,6 @@
    "more": 0,
    "ts": 1795043767,
    "photo": "photos/FDL_BLOCK_KHYRE_2026-11-18.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_ELIJAH_619165",
-   "name": "Elijah Lorenzo Williams",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795042655,
-   "photo": "photos/MKE_WILLIAMS_ELIJAH_619165.jpg"
-  },
-  {
-   "key": "MKE_WILLINGHAM_UMAR_648382",
-   "name": "Umar Phillip Willingham",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795042653,
-   "photo": "photos/MKE_WILLINGHAM_UMAR_648382.jpg"
-  },
-  {
-   "key": "MAR_HOLSTERGARDNER_SHANE_2026-11-18",
-   "name": "Shane Western Holster-Gardner",
-   "age": "38",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Retail Theft-Intentionally Take",
-   "more": 1,
-   "ts": 1795042402,
-   "photo": "photos/MAR_HOLSTERGARDNER_SHANE_2026-11-18.jpg"
   }
  ]
 }
