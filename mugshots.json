@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T21:57:23+00:00",
+ "updated": "2026-11-21T21:58:14+00:00",
  "items": [
+  {
+   "key": "MKE_MATTHEWS_DESHON_298399",
+   "name": "Deshon Contrel Matthews",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Second/Subsequent Drug Offense",
+   "more": 16,
+   "ts": 1795298256,
+   "photo": null
+  },
+  {
+   "key": "MKE_HIGGINS_NATASHIA_648440",
+   "name": "Natashia Higgins",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Business Setting >$2500-$5000",
+   "more": 0,
+   "ts": 1795298254,
+   "photo": null
+  },
   {
    "key": "DOU_CROWE_WENDELL_2026-11-21",
    "name": "Wendell J Crowe",
@@ -164,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795282064,
-   "photo": null
+   "photo": "photos/MKE_VARNELL_ROBERT_648438.jpg"
   },
   {
    "key": "MKE_CURRIN_LAVELLE_288835",
@@ -264,28 +286,6 @@
    "more": 0,
    "ts": 1795272824,
    "photo": "photos/KEN_FICKER_ARIN_2026-00006442.jpg"
-  },
-  {
-   "key": "RC_SHERRILL_CHRISTIAN_120011076483742",
-   "name": "Christian Sherrill",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence (2nd)",
-   "more": 0,
-   "ts": 1795272500,
-   "photo": null
-  },
-  {
-   "key": "RC_BRUMFIELD_TARON_120011076484226",
-   "name": "Taron Ralland Brumfield",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1795272497,
-   "photo": "photos/RC_BRUMFIELD_TARON_120011076484226.jpg"
   },
   {
    "key": "MAR_WICK_RYAN_2026-11-21",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_MATTHEWS_DESHON_298399",
+   "name": "Deshon Contrel Matthews",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Second/Subsequent Drug Offense",
+   "more": 16,
+   "ts": 1795298256,
+   "photo": null
+  },
+  {
+   "key": "MKE_HIGGINS_NATASHIA_648440",
+   "name": "Natashia Higgins",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Business Setting >$2500-$5000",
+   "more": 0,
+   "ts": 1795298254,
+   "photo": null
+  },
+  {
    "key": "DOU_CROWE_WENDELL_2026-11-21",
    "name": "Wendell J Crowe",
    "age": "60",
@@ -694,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795282064,
-   "photo": null
+   "photo": "photos/MKE_VARNELL_ROBERT_648438.jpg"
   },
   {
    "key": "MKE_CURRIN_LAVELLE_288835",
@@ -4963,39 +4985,6 @@
    "more": 7,
    "ts": 1795039128,
    "photo": "photos/KEN_BOLTON_KURTIS_2026-00006388.jpg"
-  },
-  {
-   "key": "MKE_SANCHEZ_DAVID_516063",
-   "name": "David J Sanchez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795039079,
-   "photo": "photos/MKE_SANCHEZ_DAVID_516063.jpg"
-  },
-  {
-   "key": "MKE_CEBALLOSMALDONADO_KEVIN_648381",
-   "name": "Kevin Ceballos Maldonado",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795039077,
-   "photo": "photos/MKE_CEBALLOSMALDONADO_KEVIN_648381.jpg"
-  },
-  {
-   "key": "KEN_ARMSTRONG_ARTAVIA_2026-00006389",
-   "name": "Artavia Armstrong",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1795039051,
-   "photo": "photos/KEN_ARMSTRONG_ARTAVIA_2026-00006389.jpg"
   }
  ]
 }
