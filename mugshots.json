@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T01:11:26+00:00",
+ "updated": "2026-11-21T01:37:08+00:00",
  "items": [
+  {
+   "key": "TRALMER_MACEY_2026-11-20",
+   "name": "Macey M Tralmer",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1795224432,
+   "photo": null
+  },
+  {
+   "key": "DOU_POTTER_GARY_2026-11-20",
+   "name": "Gary L Potter",
+   "age": "66",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795223817,
+   "photo": "photos/DOU_POTTER_GARY_2026-11-20.jpg"
+  },
   {
    "key": "KEN_WOODS_AMIR_2026-00006422",
    "name": "Amir Naseem Woods",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795162588,
    "photo": null
-  },
-  {
-   "key": "FDL_CORNELL_JAMES_2026-11-20",
-   "name": "James Michael Cornell",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795158965,
-   "photo": "photos/FDL_CORNELL_JAMES_2026-11-20.jpg"
-  },
-  {
-   "key": "FDL_STEVENS_KIMBERLY_2026-11-19",
-   "name": "Kimberly Anne Stevens",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795151791,
-   "photo": "photos/FDL_STEVENS_KIMBERLY_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "TRALMER_MACEY_2026-11-20",
+   "name": "Macey M Tralmer",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 1,
+   "ts": 1795224432,
+   "photo": null
+  },
+  {
+   "key": "DOU_POTTER_GARY_2026-11-20",
+   "name": "Gary L Potter",
+   "age": "66",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795223817,
+   "photo": "photos/DOU_POTTER_GARY_2026-11-20.jpg"
+  },
   {
    "key": "KEN_WOODS_AMIR_2026-00006422",
    "name": "Amir Naseem Woods",
@@ -5403,17 +5425,6 @@
    "more": 2,
    "ts": 1794966802,
    "photo": "photos/MAR_JAMES_GERALD_2026-11-17.jpg"
-  },
-  {
-   "key": "CARTER_PRINCE_2026-11-17",
-   "name": "Prince A Carter",
-   "age": "32",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794965224,
-   "photo": "photos/CARTER_PRINCE_2026-11-17.jpg"
   }
  ]
 }
