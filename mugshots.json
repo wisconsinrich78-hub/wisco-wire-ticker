@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T14:39:35+00:00",
+ "updated": "2026-11-21T14:49:29+00:00",
  "items": [
+  {
+   "key": "RC_SHERRILL_CHRISTIAN_120011076483742",
+   "name": "Christian Sherrill",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795272500,
+   "photo": null
+  },
+  {
+   "key": "RC_BRUMFIELD_TARON_120011076484226",
+   "name": "Taron Ralland Brumfield",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795272497,
+   "photo": "photos/RC_BRUMFIELD_TARON_120011076484226.jpg"
+  },
   {
    "key": "MKE_SMITH_JARAYA_648436",
    "name": "Jaraya L Smith",
@@ -255,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "RC_PARRA_SAUL_120011076478498",
-   "name": "Saul A Parra",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795247284,
-   "photo": null
-  },
-  {
    "key": "WILSON_ANTHONY_2026-11-21",
    "name": "Anthony D Wilson",
    "age": "58",
@@ -307,17 +318,6 @@
    "charge": "Out of County Warrant",
    "more": 1,
    "ts": 1795240029,
-   "photo": null
-  },
-  {
-   "key": "MKE_SIMPSON_CEDRIC_324728",
-   "name": "Cedric Demon Simpson",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
-   "more": 22,
-   "ts": 1795238855,
    "photo": null
   },
   {
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_SHERRILL_CHRISTIAN_120011076483742",
+   "name": "Christian Sherrill",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795272500,
+   "photo": null
+  },
+  {
+   "key": "RC_BRUMFIELD_TARON_120011076484226",
+   "name": "Taron Ralland Brumfield",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795272497,
+   "photo": "photos/RC_BRUMFIELD_TARON_120011076484226.jpg"
+  },
   {
    "key": "MKE_SMITH_JARAYA_648436",
    "name": "Jaraya L Smith",
@@ -5194,39 +5216,6 @@
    "more": 0,
    "ts": 1795013617,
    "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18.jpg"
-  },
-  {
-   "key": "RC_STRONG_DAMARIO_120011076382186",
-   "name": "Damario Deshawn Strong",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 9,
-   "ts": 1795013291,
-   "photo": "photos/RC_STRONG_DAMARIO_120011076382186.jpg"
-  },
-  {
-   "key": "RC_JONES_MARQUIS_120011076384483",
-   "name": "Marquis D Jones",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of a Firearm by a Felon",
-   "more": 1,
-   "ts": 1795013287,
-   "photo": "photos/RC_JONES_MARQUIS_120011076384483.jpg"
-  },
-  {
-   "key": "SUHR_ALYSHA_2026-11-18",
-   "name": "Alysha Kay Suhr",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795013234,
-   "photo": null
   }
  ]
 }
