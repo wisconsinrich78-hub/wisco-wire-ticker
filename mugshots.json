@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T07:49:30+00:00",
+ "updated": "2026-11-21T08:03:41+00:00",
  "items": [
+  {
+   "key": "MKE_TREINEN_ANDREW_331894",
+   "name": "Andrew Treinen",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247853,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_MICHAEL_2064423",
+   "name": "Michael Dion Allen",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247851,
+   "photo": null
+  },
   {
    "key": "RC_PARRA_SAUL_120011076478488",
    "name": "Saul A Parra",
@@ -73,7 +95,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
+   "charge": "Domestic Abuse Surcharges",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -117,7 +139,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
    "more": 1,
    "ts": 1795237058,
    "photo": null
@@ -242,28 +264,6 @@
    "more": 0,
    "ts": 1795227379,
    "photo": "photos/FDL_LOPEZGALICIA_FREDY_2026-11-20.jpg"
-  },
-  {
-   "key": "MKE_ELLIS_ANTHONY_1190",
-   "name": "Anthony Ellis",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795226259,
-   "photo": null
-  },
-  {
-   "key": "MKE_KACH_KONSUELLA_406830",
-   "name": "Konsuella Vanessa Kach",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Cocaine/Coca",
-   "more": 0,
-   "ts": 1795226258,
-   "photo": null
   },
   {
    "key": "HOU_HENKE_ELLAROSE_6336",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_TREINEN_ANDREW_331894",
+   "name": "Andrew Treinen",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247853,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_MICHAEL_2064423",
+   "name": "Michael Dion Allen",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795247851,
+   "photo": null
+  },
+  {
    "key": "RC_PARRA_SAUL_120011076478488",
    "name": "Saul A Parra",
    "age": "36",
@@ -603,7 +625,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Dom Abuse Surcharge/10 Years",
+   "charge": "Domestic Abuse Surcharges",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -647,7 +669,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
    "more": 1,
    "ts": 1795237058,
    "photo": null
@@ -936,7 +958,7 @@
    "charge": "Armed Robbery with Threat of Force",
    "more": 1,
    "ts": 1795222658,
-   "photo": null
+   "photo": "photos/MKE_CAMACHOVELAZQUEZ_IVAN_643765.jpg"
   },
   {
    "key": "MKE_LAWRENCE_WADE_648430",
@@ -1002,7 +1024,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795220847,
-   "photo": null
+   "photo": "photos/MKE_MCDOUGAL_MARSHALL_648429.jpg"
   },
   {
    "key": "HUBER_DEREK_2026-11-20",
@@ -1244,7 +1266,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795215454,
-   "photo": null
+   "photo": "photos/MKE_GLASS_RICKY_523271.jpg"
   },
   {
    "key": "MKE_NAZIRHUSSEIN_MUHAMMAD_637903",
@@ -1255,7 +1277,7 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1795215452,
-   "photo": null
+   "photo": "photos/MKE_NAZIRHUSSEIN_MUHAMMAD_637903.jpg"
   },
   {
    "key": "MKE_CALIXTOORTIZ_JAVIER_648428",
@@ -5315,39 +5337,6 @@
    "more": 0,
    "ts": 1794990429,
    "photo": "photos/PRIDGEON_JUSTIN_2026-11-18.jpg"
-  },
-  {
-   "key": "LANGEN_ALEXIS_2026-11-18",
-   "name": "Alexis L Langen",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1794988946,
-   "photo": null
-  },
-  {
-   "key": "MKE_BOUNDS_BENNIE_201227",
-   "name": "Bennie D Bounds",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794988664,
-   "photo": "photos/MKE_BOUNDS_BENNIE_201227.jpg"
-  },
-  {
-   "key": "KEN_GODEC_JOSEPH_2026-00006381",
-   "name": "Joseph Peter Godec",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 0,
-   "ts": 1794988559,
-   "photo": "photos/KEN_GODEC_JOSEPH_2026-00006381.jpg"
   }
  ]
 }
