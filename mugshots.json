@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T14:49:29+00:00",
+ "updated": "2026-11-21T15:22:45+00:00",
  "items": [
+  {
+   "key": "FDL_VIERAHERNANDEZ_MARIO_2026-11-21",
+   "name": "Mario Alexis Viera Hernandez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Operate W/O Valid Licnse (2nd Offense W/In 3 Years)",
+   "more": 0,
+   "ts": 1795274218,
+   "photo": "photos/FDL_VIERAHERNANDEZ_MARIO_2026-11-21.jpg"
+  },
+  {
+   "key": "KEN_VAZQUEZ_REBECCA_2026-00006443",
+   "name": "Rebecca Alina Vazquez",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795272897,
+   "photo": "photos/KEN_VAZQUEZ_REBECCA_2026-00006443.jpg"
+  },
+  {
+   "key": "KEN_FICKER_ARIN_2026-00006442",
+   "name": "Arin Joseph Ficker",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1795272824,
+   "photo": "photos/KEN_FICKER_ARIN_2026-00006442.jpg"
+  },
   {
    "key": "RC_SHERRILL_CHRISTIAN_120011076483742",
    "name": "Christian Sherrill",
@@ -255,28 +288,6 @@
    "photo": "photos/MKE_TREINEN_ANDREW_331894.jpg"
   },
   {
-   "key": "MKE_ALLEN_MICHAEL_2064423",
-   "name": "Michael Dion Allen",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795247851,
-   "photo": "photos/MKE_ALLEN_MICHAEL_2064423.jpg"
-  },
-  {
-   "key": "RC_PARRA_SAUL_120011076478488",
-   "name": "Saul A Parra",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795247286,
-   "photo": null
-  },
-  {
    "key": "WILSON_ANTHONY_2026-11-21",
    "name": "Anthony D Wilson",
    "age": "58",
@@ -517,20 +528,42 @@
    "more": 3,
    "ts": 1795213622,
    "photo": null
-  },
-  {
-   "key": "HOU_ENGELHART_ANNABELLESUE_6335",
-   "name": "Annabelle Sue Engelhart",
-   "age": "18",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Traffic - DWI - Operate Motor Vehicle Under I (1-Court Pending)",
-   "more": 1,
-   "ts": 1795211237,
-   "photo": "photos/HOU_ENGELHART_ANNABELLESUE_6335.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_VIERAHERNANDEZ_MARIO_2026-11-21",
+   "name": "Mario Alexis Viera Hernandez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Operate W/O Valid Licnse (2nd Offense W/In 3 Years)",
+   "more": 0,
+   "ts": 1795274218,
+   "photo": "photos/FDL_VIERAHERNANDEZ_MARIO_2026-11-21.jpg"
+  },
+  {
+   "key": "KEN_VAZQUEZ_REBECCA_2026-00006443",
+   "name": "Rebecca Alina Vazquez",
+   "age": "44",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795272897,
+   "photo": "photos/KEN_VAZQUEZ_REBECCA_2026-00006443.jpg"
+  },
+  {
+   "key": "KEN_FICKER_ARIN_2026-00006442",
+   "name": "Arin Joseph Ficker",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "OWI (2nd)",
+   "more": 0,
+   "ts": 1795272824,
+   "photo": "photos/KEN_FICKER_ARIN_2026-00006442.jpg"
+  },
   {
    "key": "RC_SHERRILL_CHRISTIAN_120011076483742",
    "name": "Christian Sherrill",
@@ -5183,39 +5216,6 @@
    "more": 1,
    "ts": 1795016895,
    "photo": null
-  },
-  {
-   "key": "FDL_DROSSART_DANIELLE_2026-11-18",
-   "name": "Danielle M Drossart",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795014994,
-   "photo": "photos/FDL_DROSSART_DANIELLE_2026-11-18.jpg"
-  },
-  {
-   "key": "KEN_POFAHL_ELIZABETH_2026-00006352",
-   "name": "Elizabeth Christine Pofahl",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795013755,
-   "photo": "photos/KEN_POFAHL_ELIZABETH_2026-00006352.jpg"
-  },
-  {
-   "key": "MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18",
-   "name": "Alexandro Del Valle Rivera",
-   "age": "46",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1795013617,
-   "photo": "photos/MAR_DELVALLERIVERA_ALEXANDRO_2026-11-18.jpg"
   }
  ]
 }
