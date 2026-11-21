@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T10:39:03+00:00",
+ "updated": "2026-11-21T10:49:26+00:00",
  "items": [
+  {
+   "key": "RC_CRUZ_MICHAEL_120011076480849",
+   "name": "Michael Adolph Cruz",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Identity Theft - Avoidance",
+   "more": 9,
+   "ts": 1795258074,
+   "photo": "photos/RC_CRUZ_MICHAEL_120011076480849.jpg"
+  },
+  {
+   "key": "TREM_RUVALCABA_JOSE_6220",
+   "name": "Jose Miguel Ruvalcaba",
+   "age": "41",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Vehicle Operator Flee/Elude Traffic Officer",
+   "more": 1,
+   "ts": 1795258027,
+   "photo": "photos/TREM_RUVALCABA_JOSE_6220.jpg"
+  },
   {
    "key": "HANSON_MARLON_2026-11-21",
    "name": "Marlon J Hanson",
@@ -40,8 +62,8 @@
    "age": "29",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Under the Influence",
+   "more": 1,
    "ts": 1795254490,
    "photo": null
   },
@@ -253,17 +275,6 @@
    "more": 0,
    "ts": 1795236484,
    "photo": "photos/RC_GRIFFEY_BRAXXTON_120011076476952.jpg"
-  },
-  {
-   "key": "MKE_PETERS_KOVAN_508075",
-   "name": "Kovan Lonte Peters",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795233453,
-   "photo": null
   },
   {
    "key": "MAR_KURTH_RYAN_2026-11-20",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1795198570,
    "photo": "photos/FDL_FUNK_MARK_2026-11-20.jpg"
-  },
-  {
-   "key": "LINDSAY_THOMAS_2026-11-20",
-   "name": "Thomas L Lindsay",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1795193228,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_CRUZ_MICHAEL_120011076480849",
+   "name": "Michael Adolph Cruz",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Identity Theft - Avoidance",
+   "more": 9,
+   "ts": 1795258074,
+   "photo": "photos/RC_CRUZ_MICHAEL_120011076480849.jpg"
+  },
+  {
+   "key": "TREM_RUVALCABA_JOSE_6220",
+   "name": "Jose Miguel Ruvalcaba",
+   "age": "41",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Vehicle Operator Flee/Elude Traffic Officer",
+   "more": 1,
+   "ts": 1795258027,
+   "photo": "photos/TREM_RUVALCABA_JOSE_6220.jpg"
+  },
   {
    "key": "HANSON_MARLON_2026-11-21",
    "name": "Marlon J Hanson",
@@ -570,8 +592,8 @@
    "age": "29",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Under the Influence",
+   "more": 1,
    "ts": 1795254490,
    "photo": null
   },
@@ -5216,39 +5238,6 @@
    "more": 2,
    "ts": 1794999369,
    "photo": "photos/KEN_MARBAN_JOSE_2026-00006382.jpg"
-  },
-  {
-   "key": "TREM_ROGERS_ORION_4049",
-   "name": "Orion Christopher Rogers",
-   "age": "31",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794998842,
-   "photo": "photos/TREM_ROGERS_ORION_4049.jpg"
-  },
-  {
-   "key": "TREM_DAY_SETH_5572",
-   "name": "Seth Hansford Day",
-   "age": "25",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Mayhem",
-   "more": 2,
-   "ts": 1794998840,
-   "photo": "photos/TREM_DAY_SETH_5572.jpg"
-  },
-  {
-   "key": "ATHA_DAVION_2026-11-18",
-   "name": "Davion M Atha",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794998603,
-   "photo": null
   }
  ]
 }
