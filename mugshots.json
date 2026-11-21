@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T18:49:31+00:00",
+ "updated": "2026-11-21T19:02:12+00:00",
  "items": [
+  {
+   "key": "MKE_SEE_AE_616601",
+   "name": "Ae Be See",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795287457,
+   "photo": null
+  },
+  {
+   "key": "MAR_BETTS_EMILY_2026-11-21",
+   "name": "Emily Helen Rose Betts",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795287203,
+   "photo": null
+  },
   {
    "key": "RC_DAWSON_BRANDON_120011076488092",
    "name": "Brandon Lemor Dawson",
@@ -54,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795282067,
-   "photo": null
+   "photo": "photos/MKE_BERNARD_DAVIAN_624593.jpg"
   },
   {
    "key": "MKE_VARNELL_ROBERT_648438",
@@ -220,17 +242,6 @@
    "more": 2,
    "ts": 1795265672,
    "photo": null
-  },
-  {
-   "key": "KEN_WHITE_GERALD_2026-00006440",
-   "name": "GERALD LINSEY Junior WHITE",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violation of a Child Abuse Restraining Order or Injuction",
-   "more": 0,
-   "ts": 1795265665,
-   "photo": "photos/KEN_WHITE_GERALD_2026-00006440.jpg"
   },
   {
    "key": "MAR_KING_DESTINY_2026-11-21",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1795219141,
    "photo": "photos/MAR_RICKETT_CHARLES_2026-11-20.jpg"
-  },
-  {
-   "key": "MAR_SMITH_KYLE_2026-11-20",
-   "name": "Kyle Alan Smith",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 3rd",
-   "more": 0,
-   "ts": 1795219102,
-   "photo": "photos/MAR_SMITH_KYLE_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SEE_AE_616601",
+   "name": "Ae Be See",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795287457,
+   "photo": null
+  },
+  {
+   "key": "MAR_BETTS_EMILY_2026-11-21",
+   "name": "Emily Helen Rose Betts",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795287203,
+   "photo": null
+  },
   {
    "key": "RC_DAWSON_BRANDON_120011076488092",
    "name": "Brandon Lemor Dawson",
@@ -584,7 +606,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795282067,
-   "photo": null
+   "photo": "photos/MKE_BERNARD_DAVIAN_624593.jpg"
   },
   {
    "key": "MKE_VARNELL_ROBERT_648438",
@@ -5073,28 +5095,6 @@
    "more": 0,
    "ts": 1795031855,
    "photo": "photos/MKE_HARRIS_IRIANA_624278.jpg"
-  },
-  {
-   "key": "MKE_LITTLE_ASHLEY_378878",
-   "name": "Ashley Chante Little",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795028281,
-   "photo": "photos/MKE_LITTLE_ASHLEY_378878.jpg"
-  },
-  {
-   "key": "KEN_SPOHN_RONNIE_2026-00006385",
-   "name": "Ronnie Jay Spohn",
-   "age": "58",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 4,
-   "ts": 1795028027,
-   "photo": "photos/KEN_SPOHN_RONNIE_2026-00006385.jpg"
   }
  ]
 }
