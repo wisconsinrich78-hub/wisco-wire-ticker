@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T10:57:03+00:00",
+ "updated": "2026-11-21T11:39:31+00:00",
  "items": [
+  {
+   "key": "MKE_RAYMOND_WEYLAND_648434",
+   "name": "Weyland Raymond",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795260450,
+   "photo": null
+  },
+  {
+   "key": "FDL_CONNELLYLOPEZ_SENORA_2026-11-21",
+   "name": "Senora Marie Connelly-Lopez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795259763,
+   "photo": "photos/FDL_CONNELLYLOPEZ_SENORA_2026-11-21.jpg"
+  },
   {
    "key": "RC_CRUZ_MICHAEL_120011076480849",
    "name": "Michael Adolph Cruz",
@@ -76,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795249650,
-   "photo": null
+   "photo": "photos/MKE_CALDWELL_TERLAND_287770.jpg"
   },
   {
    "key": "MKE_LEWIS_CHARLES_370791",
@@ -194,7 +216,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -219,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795238851,
-   "photo": null
+   "photo": "photos/MKE_TAYLOR_TAMIA_648432.jpg"
   },
   {
    "key": "GREENGRASS_JACKSON_2026-11-20",
@@ -238,7 +260,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
    "more": 1,
    "ts": 1795237058,
    "photo": null
@@ -252,7 +274,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1795237056,
-   "photo": null
+   "photo": "photos/MKE_BROWN_ANTONIO_263819.jpg"
   },
   {
    "key": "MAR_KURTH_RYAN_2026-11-20_297201",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1795236878,
    "photo": "photos/MAR_KURTH_RYAN_2026-11-20_297201.jpg"
-  },
-  {
-   "key": "RC_GRIFFEY_BRAXXTON_120011076476952",
-   "name": "Braxxton A Griffey",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795236484,
-   "photo": "photos/RC_GRIFFEY_BRAXXTON_120011076476952.jpg"
   },
   {
    "key": "MAR_KURTH_RYAN_2026-11-20",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1795199220,
    "photo": null
-  },
-  {
-   "key": "FDL_FUNK_MARK_2026-11-20",
-   "name": "Mark A Funk",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "OWI - 3rd Offense",
-   "more": 1,
-   "ts": 1795198570,
-   "photo": "photos/FDL_FUNK_MARK_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_RAYMOND_WEYLAND_648434",
+   "name": "Weyland Raymond",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795260450,
+   "photo": null
+  },
+  {
+   "key": "FDL_CONNELLYLOPEZ_SENORA_2026-11-21",
+   "name": "Senora Marie Connelly-Lopez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795259763,
+   "photo": "photos/FDL_CONNELLYLOPEZ_SENORA_2026-11-21.jpg"
+  },
   {
    "key": "RC_CRUZ_MICHAEL_120011076480849",
    "name": "Michael Adolph Cruz",
@@ -606,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795249650,
-   "photo": null
+   "photo": "photos/MKE_CALDWELL_TERLAND_287770.jpg"
   },
   {
    "key": "MKE_LEWIS_CHARLES_370791",
@@ -724,7 +746,7 @@
    "age": "49",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 22,
    "ts": 1795238855,
    "photo": null
@@ -749,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795238851,
-   "photo": null
+   "photo": "photos/MKE_TAYLOR_TAMIA_648432.jpg"
   },
   {
    "key": "GREENGRASS_JACKSON_2026-11-20",
@@ -768,7 +790,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
    "more": 1,
    "ts": 1795237058,
    "photo": null
@@ -782,7 +804,7 @@
    "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 0,
    "ts": 1795237056,
-   "photo": null
+   "photo": "photos/MKE_BROWN_ANTONIO_263819.jpg"
   },
   {
    "key": "MAR_KURTH_RYAN_2026-11-20_297201",
@@ -815,7 +837,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795233453,
-   "photo": null
+   "photo": "photos/MKE_PETERS_KOVAN_508075.jpg"
   },
   {
    "key": "MKE_NELSON_PHYLONIA_638692",
@@ -848,7 +870,7 @@
    "charge": "Operate with Restricted Controlled Substance (2nd)",
    "more": 0,
    "ts": 1795231662,
-   "photo": null
+   "photo": "photos/MKE_GRANT_AKKELAH_420168.jpg"
   },
   {
    "key": "KEN_JAKLIN_ANTHONY_2026-00006438",
@@ -5193,39 +5215,6 @@
    "charge": "Enforce The Duty Of Child Support Or Maintenance",
    "more": 0,
    "ts": 1795002470,
-   "photo": null
-  },
-  {
-   "key": "MKE_COOPER_ERIC_297360",
-   "name": "Eric Antonio Cooper",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1795001254,
-   "photo": "photos/MKE_COOPER_ERIC_297360.jpg"
-  },
-  {
-   "key": "MKE_HURST_TONI_343826",
-   "name": "Toni Tomara Hurst",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Receiving or Concealing Stolen Property (<=$2500)",
-   "more": 4,
-   "ts": 1795001252,
-   "photo": "photos/MKE_HURST_TONI_343826.jpg"
-  },
-  {
-   "key": "ROCHESTER_JONTAVIUS_2026-11-18",
-   "name": "Jon Tavius E Rochester",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 6,
-   "ts": 1795000732,
    "photo": null
   }
  ]
