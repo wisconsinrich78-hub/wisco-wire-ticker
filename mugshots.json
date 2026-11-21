@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T16:13:41+00:00",
+ "updated": "2026-11-21T16:41:10+00:00",
  "items": [
+  {
+   "key": "FDL_SCHROEDER_JOSHUA_2026-11-21",
+   "name": "Joshua Aaron Schroeder",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Carry Concealed Knife",
+   "more": 1,
+   "ts": 1795277799,
+   "photo": "photos/FDL_SCHROEDER_JOSHUA_2026-11-21.jpg"
+  },
   {
    "key": "KEN_MERCADO_LYNETTE_2026-00006444",
    "name": "Lynette Jailene Mercado",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1795218431,
    "photo": null
-  },
-  {
-   "key": "GOSA_DARRELL_2026-11-20",
-   "name": "Darrell L Gosa",
-   "age": "61",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse County Arrest/Bench Warrant",
-   "more": 3,
-   "ts": 1795213622,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_SCHROEDER_JOSHUA_2026-11-21",
+   "name": "Joshua Aaron Schroeder",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Carry Concealed Knife",
+   "more": 1,
+   "ts": 1795277799,
+   "photo": "photos/FDL_SCHROEDER_JOSHUA_2026-11-21.jpg"
+  },
   {
    "key": "KEN_MERCADO_LYNETTE_2026-00006444",
    "name": "Lynette Jailene Mercado",
@@ -5172,17 +5183,6 @@
    "more": 1,
    "ts": 1795021057,
    "photo": "photos/MKE_LEWIS_JAMES_648377.jpg"
-  },
-  {
-   "key": "FDL_JONES_CHRISTOPHER_2026-11-18",
-   "name": "Christopher Darnell Jones",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 4,
-   "ts": 1795018577,
-   "photo": "photos/FDL_JONES_CHRISTOPHER_2026-11-18.jpg"
   }
  ]
 }
