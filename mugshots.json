@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T01:37:08+00:00",
+ "updated": "2026-11-21T01:49:28+00:00",
  "items": [
+  {
+   "key": "HOU_HENKE_ELLAROSE_6336",
+   "name": "Ella Rose Henke",
+   "age": "19",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic - DWI - Operate Motor Vehicle Under I (1-Court Pending)",
+   "more": 1,
+   "ts": 1795225630,
+   "photo": "photos/HOU_HENKE_ELLAROSE_6336.jpg"
+  },
+  {
+   "key": "TOMLINSON_MICHAELA_2026-11-20",
+   "name": "Michaela L Tomlinson",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795225626,
+   "photo": null
+  },
   {
    "key": "TRALMER_MACEY_2026-11-20",
    "name": "Macey M Tralmer",
@@ -486,17 +508,6 @@
    "photo": "photos/TREM_CASTRO_KARITZA_6219.jpg"
   },
   {
-   "key": "GRIFFIN_GARY_2026-11-20",
-   "name": "Gary M Griffin",
-   "age": "63",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Trespass to Medical Facility",
-   "more": 3,
-   "ts": 1795166820,
-   "photo": null
-  },
-  {
    "key": "DOU_BENEDICT_SUMMER_2026-11-20",
    "name": "Summer A Benedict",
    "age": "20",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795166186,
    "photo": "photos/FDL_OCLAIRE_SARAH_2026-11-20.jpg"
-  },
-  {
-   "key": "FDL_LANG_ASHLEY_2026-11-20",
-   "name": "Ashley Therese Lang",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795162588,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "HOU_HENKE_ELLAROSE_6336",
+   "name": "Ella Rose Henke",
+   "age": "19",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Traffic - DWI - Operate Motor Vehicle Under I (1-Court Pending)",
+   "more": 1,
+   "ts": 1795225630,
+   "photo": "photos/HOU_HENKE_ELLAROSE_6336.jpg"
+  },
+  {
+   "key": "TOMLINSON_MICHAELA_2026-11-20",
+   "name": "Michaela L Tomlinson",
+   "age": "38",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795225626,
+   "photo": null
+  },
   {
    "key": "TRALMER_MACEY_2026-11-20",
    "name": "Macey M Tralmer",
@@ -4629,8 +4651,8 @@
    "age": "24",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operate W/O Valid License (2nd W/In 3 Yrs)",
+   "more": 1,
    "ts": 1795016895,
    "photo": null
   },
@@ -4673,8 +4695,8 @@
    "age": "41",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 9,
    "ts": 1795013291,
    "photo": "photos/RC_STRONG_DAMARIO_120011076382186.jpg"
   },
