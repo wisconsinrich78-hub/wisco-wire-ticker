@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-21T04:56:39+00:00",
+ "updated": "2026-11-21T05:37:42+00:00",
  "items": [
+  {
+   "key": "MKE_SIMPSON_CEDRIC_324728",
+   "name": "Cedric Demon Simpson",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 22,
+   "ts": 1795238855,
+   "photo": null
+  },
+  {
+   "key": "MKE_PENA_EUNICE_648431",
+   "name": "Eunice A Pena",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795238853,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_TAMIA_648432",
+   "name": "Tamia M Taylor",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795238851,
+   "photo": null
+  },
+  {
+   "key": "GREENGRASS_JACKSON_2026-11-20",
+   "name": "Jackson Avery Greengrass",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795238823,
+   "photo": null
+  },
+  {
+   "key": "MKE_COFFIN_LISA_230654",
+   "name": "Lisa Mcrae Coffin",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "more": 1,
+   "ts": 1795237058,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_ANTONIO_263819",
+   "name": "Antonio D Brown",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1795237056,
+   "photo": null
+  },
+  {
+   "key": "MAR_KURTH_RYAN_2026-11-20_297201",
+   "name": "Ryan Christopher Kurth",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795236878,
+   "photo": "photos/MAR_KURTH_RYAN_2026-11-20_297201.jpg"
+  },
   {
    "key": "RC_GRIFFEY_BRAXXTON_120011076476952",
    "name": "Braxxton A Griffey",
@@ -187,61 +264,6 @@
    "more": 2,
    "ts": 1795223192,
    "photo": "photos/KEN_WAGGONER_CHRISTOPHER_2026-00006416.jpg"
-  },
-  {
-   "key": "KEN_TUCKER_SHAWN_2026-00006426",
-   "name": "Shawn Karese Tucker",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 2,
-   "ts": 1795223110,
-   "photo": "photos/KEN_TUCKER_SHAWN_2026-00006426.jpg"
-  },
-  {
-   "key": "KEN_SCHUMAN_SEAN_2026-00006427",
-   "name": "Sean Paul Schuman",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Cause Injury/Operate While Under Influence 1st",
-   "more": 1,
-   "ts": 1795223032,
-   "photo": "photos/KEN_SCHUMAN_SEAN_2026-00006427.jpg"
-  },
-  {
-   "key": "KEN_OLRICH_JASON_2026-00006432",
-   "name": "Jason Allen Olrich",
-   "age": "44",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 1,
-   "ts": 1795222951,
-   "photo": "photos/KEN_OLRICH_JASON_2026-00006432.jpg"
-  },
-  {
-   "key": "KEN_MOORETRULL_KAMAURI_2026-00006435",
-   "name": "Kamauri Kentrull Moore-Trull",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1795222870,
-   "photo": "photos/KEN_MOORETRULL_KAMAURI_2026-00006435.jpg"
-  },
-  {
-   "key": "KEN_MENDOZACASTILLO_LEAH_2026-00006417",
-   "name": "Leah Teresitarose Mendoza-Castillo",
-   "age": "28",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Misd",
-   "more": 0,
-   "ts": 1795222786,
-   "photo": "photos/KEN_MENDOZACASTILLO_LEAH_2026-00006417.jpg"
   },
   {
    "key": "HUBER_DEREK_2026-11-20",
@@ -506,31 +528,86 @@
    "more": 0,
    "ts": 1795171637,
    "photo": "photos/TREM_SHEFFIELD_JOSHUA_4295.jpg"
-  },
-  {
-   "key": "TREM_JANSSEN_JENNA_5821",
-   "name": "Jenna Lorene Janssen",
-   "age": "19",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1795171635,
-   "photo": "photos/TREM_JANSSEN_JENNA_5821.jpg"
-  },
-  {
-   "key": "TREM_CASTRO_KARITZA_6219",
-   "name": "Karitza Castro",
-   "age": "29",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Child Abuse - Intentionally Cause Harm",
-   "more": 0,
-   "ts": 1795171633,
-   "photo": "photos/TREM_CASTRO_KARITZA_6219.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SIMPSON_CEDRIC_324728",
+   "name": "Cedric Demon Simpson",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 22,
+   "ts": 1795238855,
+   "photo": null
+  },
+  {
+   "key": "MKE_PENA_EUNICE_648431",
+   "name": "Eunice A Pena",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795238853,
+   "photo": null
+  },
+  {
+   "key": "MKE_TAYLOR_TAMIA_648432",
+   "name": "Tamia M Taylor",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795238851,
+   "photo": null
+  },
+  {
+   "key": "GREENGRASS_JACKSON_2026-11-20",
+   "name": "Jackson Avery Greengrass",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795238823,
+   "photo": null
+  },
+  {
+   "key": "MKE_COFFIN_LISA_230654",
+   "name": "Lisa Mcrae Coffin",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "more": 1,
+   "ts": 1795237058,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_ANTONIO_263819",
+   "name": "Antonio D Brown",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "more": 0,
+   "ts": 1795237056,
+   "photo": null
+  },
+  {
+   "key": "MAR_KURTH_RYAN_2026-11-20_297201",
+   "name": "Ryan Christopher Kurth",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795236878,
+   "photo": "photos/MAR_KURTH_RYAN_2026-11-20_297201.jpg"
+  },
   {
    "key": "RC_GRIFFEY_BRAXXTON_120011076476952",
    "name": "Braxxton A Griffey",
@@ -1087,7 +1164,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 2,
    "ts": 1795215456,
    "photo": null
@@ -1142,7 +1219,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Possess w/Intent/Deliver Narcotics",
    "more": 2,
    "ts": 1795211859,
    "photo": null
@@ -5293,83 +5370,6 @@
    "more": 1,
    "ts": 1794980888,
    "photo": "photos/RC_CHRISTOPHER_BRIAN_120011076374835.jpg"
-  },
-  {
-   "key": "MKE_WILBRANDT_YVONNE_322868",
-   "name": "Yvonne Theresa Wilbrandt",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1794979671,
-   "photo": "photos/MKE_WILBRANDT_YVONNE_322868.jpg"
-  },
-  {
-   "key": "MKE_BALDWIN_EMILY_648365",
-   "name": "Emily L Baldwin",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794979668,
-   "photo": "photos/MKE_BALDWIN_EMILY_648365.jpg"
-  },
-  {
-   "key": "MKE_WALKER_JOHNNAE_648366",
-   "name": "Johnnae Marie Walker",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794979665,
-   "photo": "photos/MKE_WALKER_JOHNNAE_648366.jpg"
-  },
-  {
-   "key": "MKE_HUGHES_LAQUAN_648367",
-   "name": "Laquan Donnell Hughes",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1794979662,
-   "photo": "photos/MKE_HUGHES_LAQUAN_648367.jpg"
-  },
-  {
-   "key": "MKE_TORRES_AMANI_648368",
-   "name": "Amani L Torres",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1794979659,
-   "photo": "photos/MKE_TORRES_AMANI_648368.jpg"
-  },
-  {
-   "key": "MKE_WARD_ORVELLE_2043618",
-   "name": "Orvelle Lee Ward",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Take and Drive Vehicle w/o Consent",
-   "more": 1,
-   "ts": 1794979658,
-   "photo": "photos/MKE_WARD_ORVELLE_2043618.jpg"
-  },
-  {
-   "key": "MKE_AYALA_MANUEL_217182",
-   "name": "Manuel Ayala",
-   "age": "56",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794977862,
-   "photo": "photos/MKE_AYALA_MANUEL_217182.jpg"
   }
  ]
 }
