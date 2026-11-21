@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T20:00:31+00:00",
+ "updated": "2026-11-21T20:39:00+00:00",
  "items": [
+  {
+   "key": "DOU_GREER_MATTHEW_2026-11-21",
+   "name": "Matthew J Greer",
+   "age": "48",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1795292634,
+   "photo": "photos/DOU_GREER_MATTHEW_2026-11-21.jpg"
+  },
+  {
+   "key": "FDL_DOMMISSE_CARRESSA_2026-11-21",
+   "name": "Carressa Rose Dommisse",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795292175,
+   "photo": "photos/FDL_DOMMISSE_CARRESSA_2026-11-21.jpg"
+  },
+  {
+   "key": "FDL_ALVAREZSOSTENES_SALOMON_2026-11-21",
+   "name": "Salomon Alvarez Sostenes",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Operate W/O Valid Licnse (2nd Offense W/In 3 Years)",
+   "more": 0,
+   "ts": 1795292163,
+   "photo": null
+  },
   {
    "key": "MKE_MCNUTT_JAMES_521107",
    "name": "James Nicholas McNutt",
@@ -18,8 +51,8 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 11,
    "ts": 1795291057,
    "photo": null
   },
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1795219293,
    "photo": "photos/MAR_SHIELDS_DERRICK_2026-11-20.jpg"
-  },
-  {
-   "key": "MAR_TRAVIS_EVAN_2026-11-20",
-   "name": "Evan Favor Travis",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795219256,
-   "photo": "photos/MAR_TRAVIS_EVAN_2026-11-20.jpg"
-  },
-  {
-   "key": "MAR_HESLIP_STEVEN_2026-11-20",
-   "name": "Steven Allen Heslip",
-   "age": "55",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795219216,
-   "photo": "photos/MAR_HESLIP_STEVEN_2026-11-20.jpg"
-  },
-  {
-   "key": "MAR_STIEBER_KORD_2026-11-20",
-   "name": "Kord Joseph Stieber",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 0,
-   "ts": 1795219179,
-   "photo": "photos/MAR_STIEBER_KORD_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_GREER_MATTHEW_2026-11-21",
+   "name": "Matthew J Greer",
+   "age": "48",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1795292634,
+   "photo": "photos/DOU_GREER_MATTHEW_2026-11-21.jpg"
+  },
+  {
+   "key": "FDL_DOMMISSE_CARRESSA_2026-11-21",
+   "name": "Carressa Rose Dommisse",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795292175,
+   "photo": "photos/FDL_DOMMISSE_CARRESSA_2026-11-21.jpg"
+  },
+  {
+   "key": "FDL_ALVAREZSOSTENES_SALOMON_2026-11-21",
+   "name": "Salomon Alvarez Sostenes",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Operate W/O Valid Licnse (2nd Offense W/In 3 Years)",
+   "more": 0,
+   "ts": 1795292163,
+   "photo": null
+  },
   {
    "key": "MKE_MCNUTT_JAMES_521107",
    "name": "James Nicholas McNutt",
@@ -548,8 +581,8 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 11,
    "ts": 1795291057,
    "photo": null
   },
@@ -5061,39 +5094,6 @@
    "charge": "Operate Comm Veh W/O License-Wi Resident",
    "more": 0,
    "ts": 1795034829,
-   "photo": null
-  },
-  {
-   "key": "MKE_MENDEZ_ROBERTO_286728",
-   "name": "Roberto David Mendez",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 7,
-   "ts": 1795033665,
-   "photo": "photos/MKE_MENDEZ_ROBERTO_286728.jpg"
-  },
-  {
-   "key": "FDL_ROBINS_CANDYCE_2026-11-18",
-   "name": "Candyce Risetta Robins",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795032992,
-   "photo": "photos/FDL_ROBINS_CANDYCE_2026-11-18.jpg"
-  },
-  {
-   "key": "FDL_MISTERS_JOSHUA_2026-11-18",
-   "name": "Joshua Glenn Misters",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 1,
-   "ts": 1795032983,
    "photo": null
   }
  ]
