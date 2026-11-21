@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T03:31:20+00:00",
+ "updated": "2026-11-21T04:04:22+00:00",
  "items": [
+  {
+   "key": "MKE_PETERS_KOVAN_508075",
+   "name": "Kovan Lonte Peters",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795233453,
+   "photo": null
+  },
+  {
+   "key": "MKE_NELSON_PHYLONIA_638692",
+   "name": "Phylonia Z Nelson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795233451,
+   "photo": null
+  },
+  {
+   "key": "MAR_KURTH_RYAN_2026-11-20",
+   "name": "Ryan Christopher Kurth",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795233285,
+   "photo": null
+  },
   {
    "key": "MKE_GRANT_AKKELAH_420168",
    "name": "Akkelah L Grant",
@@ -209,28 +242,6 @@
    "more": 2,
    "ts": 1795222704,
    "photo": "photos/KEN_MCBEE_AMANDA_2026-00006439.jpg"
-  },
-  {
-   "key": "MKE_CAMACHOVELAZQUEZ_IVAN_643765",
-   "name": "Ivan Camacho-Velazquez",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Armed Robbery with Threat of Force",
-   "more": 1,
-   "ts": 1795222658,
-   "photo": null
-  },
-  {
-   "key": "MKE_LAWRENCE_WADE_648430",
-   "name": "Wade Edward Lawrence",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795222656,
-   "photo": "photos/MKE_LAWRENCE_WADE_648430.jpg"
   },
   {
    "key": "HUBER_DEREK_2026-11-20",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795171633,
    "photo": "photos/TREM_CASTRO_KARITZA_6219.jpg"
-  },
-  {
-   "key": "DOU_BENEDICT_SUMMER_2026-11-20",
-   "name": "Summer A Benedict",
-   "age": "20",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "OWI Alcohol or Drugs",
-   "more": 0,
-   "ts": 1795166240,
-   "photo": "photos/DOU_BENEDICT_SUMMER_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_PETERS_KOVAN_508075",
+   "name": "Kovan Lonte Peters",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795233453,
+   "photo": null
+  },
+  {
+   "key": "MKE_NELSON_PHYLONIA_638692",
+   "name": "Phylonia Z Nelson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795233451,
+   "photo": null
+  },
+  {
+   "key": "MAR_KURTH_RYAN_2026-11-20",
+   "name": "Ryan Christopher Kurth",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795233285,
+   "photo": null
+  },
   {
    "key": "MKE_GRANT_AKKELAH_420168",
    "name": "Akkelah L Grant",
@@ -1175,10 +1208,10 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
+   "charge": "Bail Jumping-Felony",
    "more": 1,
    "ts": 1795210058,
-   "photo": null
+   "photo": "photos/MKE_DANZY_ARIANA_627426.jpg"
   },
   {
    "key": "MKE_SKERVEN_TRAVIS_648427",
@@ -1288,7 +1321,7 @@
    "charge": "Possess w/Intent-Amphetamine (>50g)",
    "more": 0,
    "ts": 1795201071,
-   "photo": null
+   "photo": "photos/MKE_MATAYA_SARAH_521927.jpg"
   },
   {
    "key": "MKE_LEE_TRISTAN_641480",
@@ -1486,7 +1519,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795195646,
-   "photo": null
+   "photo": "photos/MKE_MOORE_ASHANTI_648422.jpg"
   },
   {
    "key": "MKE_NELSON_SYNCERE_642978",
@@ -5381,61 +5414,6 @@
    "more": 0,
    "ts": 1794975399,
    "photo": null
-  },
-  {
-   "key": "KEN_TIDWELL_JUSTIN_2026-00006377",
-   "name": "Justin Warren Tidwell",
-   "age": "48",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 2,
-   "ts": 1794974310,
-   "photo": "photos/KEN_TIDWELL_JUSTIN_2026-00006377.jpg"
-  },
-  {
-   "key": "MKE_ANAYA_DANIEL_288321",
-   "name": "Daniel Jesus Anaya",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 13,
-   "ts": 1794974269,
-   "photo": "photos/MKE_ANAYA_DANIEL_288321.jpg"
-  },
-  {
-   "key": "MKE_BLANKS_SHANNON_613007",
-   "name": "Shannon Tremaine Blanks",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1794974267,
-   "photo": "photos/MKE_BLANKS_SHANNON_613007.jpg"
-  },
-  {
-   "key": "MAR_LAMPKIN_ADAM_2026-11-17",
-   "name": "Adam John Lampkin",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of Methamphetamine",
-   "more": 2,
-   "ts": 1794974048,
-   "photo": "photos/MAR_LAMPKIN_ADAM_2026-11-17.jpg"
-  },
-  {
-   "key": "MAR_NASS_ABRIELLE_2026-11-17",
-   "name": "Abrielle Kaye Nass",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 0,
-   "ts": 1794974006,
-   "photo": "photos/MAR_NASS_ABRIELLE_2026-11-17.jpg"
   }
  ]
 }
