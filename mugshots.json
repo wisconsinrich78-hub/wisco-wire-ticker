@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T09:40:04+00:00",
+ "updated": "2026-11-21T09:49:29+00:00",
  "items": [
+  {
+   "key": "RC_OLIVAREZ_DANIEL_120011076479641",
+   "name": "Daniel Olivarez",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795254490,
+   "photo": null
+  },
   {
    "key": "MKE_CALDWELL_TERLAND_287770",
    "name": "Terland Allen Caldwell",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1795231662,
    "photo": null
-  },
-  {
-   "key": "KEN_JAKLIN_ANTHONY_2026-00006438",
-   "name": "Anthony Ramon Jaklin",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795229707,
-   "photo": "photos/KEN_JAKLIN_ANTHONY_2026-00006438.jpg"
   },
   {
    "key": "FDL_LOPEZGALICIA_FREDY_2026-11-20",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_OLIVAREZ_DANIEL_120011076479641",
+   "name": "Daniel Olivarez",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795254490,
+   "photo": null
+  },
   {
    "key": "MKE_CALDWELL_TERLAND_287770",
    "name": "Terland Allen Caldwell",
@@ -5260,17 +5271,6 @@
    "more": 0,
    "ts": 1794995648,
    "photo": "photos/MAR_HER_LUE_2026-11-18.jpg"
-  },
-  {
-   "key": "RC_ELAM_CAMRON_120011076377876",
-   "name": "Camron J Elam",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1794995269,
-   "photo": "photos/RC_ELAM_CAMRON_120011076377876.jpg"
   }
  ]
 }
