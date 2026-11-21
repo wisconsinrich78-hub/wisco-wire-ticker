@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T02:49:28+00:00",
+ "updated": "2026-11-21T03:31:20+00:00",
  "items": [
+  {
+   "key": "MKE_GRANT_AKKELAH_420168",
+   "name": "Akkelah L Grant",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate with Restricted Controlled Substance (2nd)",
+   "more": 0,
+   "ts": 1795231662,
+   "photo": null
+  },
+  {
+   "key": "KEN_JAKLIN_ANTHONY_2026-00006438",
+   "name": "Anthony Ramon Jaklin",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795229707,
+   "photo": "photos/KEN_JAKLIN_ANTHONY_2026-00006438.jpg"
+  },
   {
    "key": "RC_MARTINEZ_STEPHANIE_120011076474735",
    "name": "Stephanie Jo Martinez",
@@ -183,8 +205,8 @@
    "age": "38",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Marijuana (THC)",
+   "more": 2,
    "ts": 1795222704,
    "photo": "photos/KEN_MCBEE_AMANDA_2026-00006439.jpg"
   },
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1795222656,
    "photo": "photos/MKE_LAWRENCE_WADE_648430.jpg"
-  },
-  {
-   "key": "MKE_MOORE_RAYMELL_2066303",
-   "name": "Raymell C Moore",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1795222654,
-   "photo": null
-  },
-  {
-   "key": "KEN_MARTINEZ_JESSE_2026-00006418",
-   "name": "Jesse Hernandez Martinez",
-   "age": "43",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1795222623,
-   "photo": "photos/KEN_MARTINEZ_JESSE_2026-00006418.jpg"
   },
   {
    "key": "HUBER_DEREK_2026-11-20",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_GRANT_AKKELAH_420168",
+   "name": "Akkelah L Grant",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate with Restricted Controlled Substance (2nd)",
+   "more": 0,
+   "ts": 1795231662,
+   "photo": null
+  },
+  {
+   "key": "KEN_JAKLIN_ANTHONY_2026-00006438",
+   "name": "Anthony Ramon Jaklin",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795229707,
+   "photo": "photos/KEN_JAKLIN_ANTHONY_2026-00006438.jpg"
+  },
+  {
    "key": "RC_MARTINEZ_STEPHANIE_120011076474735",
    "name": "Stephanie Jo Martinez",
    "age": "39",
@@ -713,8 +735,8 @@
    "age": "38",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession of Marijuana (THC)",
+   "more": 2,
    "ts": 1795222704,
    "photo": "photos/KEN_MCBEE_AMANDA_2026-00006439.jpg"
   },
@@ -1021,7 +1043,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
+   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
    "more": 2,
    "ts": 1795215456,
    "photo": null
@@ -1043,7 +1065,7 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possession of Methamphetamine",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1795215452,
    "photo": null
@@ -1076,7 +1098,7 @@
    "age": "29",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent/Deliver Narcotics",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 2,
    "ts": 1795211859,
    "photo": null
@@ -1090,7 +1112,7 @@
    "charge": "Failure to Support",
    "more": 1,
    "ts": 1795211857,
-   "photo": null
+   "photo": "photos/MKE_CATHEY_KASHWON_613645.jpg"
   },
   {
    "key": "MKE_KUKLINSKI_KIMBERLY_637487",
@@ -1101,7 +1123,7 @@
    "charge": "Battery",
    "more": 3,
    "ts": 1795211855,
-   "photo": null
+   "photo": "photos/MKE_KUKLINSKI_KIMBERLY_637487.jpg"
   },
   {
    "key": "MKE_ERICKSON_JUSTIN_643367",
@@ -1153,7 +1175,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 1,
    "ts": 1795210058,
    "photo": null
@@ -1241,10 +1263,10 @@
    "age": "52",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Ignition Interlock Device Tampering/Failure to Install/Violate Court\u2026",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1795204663,
-   "photo": null
+   "photo": "photos/MKE_OKEEFE_TIMOTHY_648426.jpg"
   },
   {
    "key": "RC_MROCH_AMANDA_120011076464338",
@@ -5414,28 +5436,6 @@
    "more": 0,
    "ts": 1794974006,
    "photo": "photos/MAR_NASS_ABRIELLE_2026-11-17.jpg"
-  },
-  {
-   "key": "MKE_BOOSE_GREGORY_375984",
-   "name": "Gregory L Boose",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>1-5g)",
-   "more": 0,
-   "ts": 1794972476,
-   "photo": "photos/MKE_BOOSE_GREGORY_375984.jpg"
-  },
-  {
-   "key": "MKE_HERRERAZEPEDA_JOSE_637532",
-   "name": "Jose A Herrera-Zepeda",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (2nd)",
-   "more": 3,
-   "ts": 1794972472,
-   "photo": "photos/MKE_HERRERAZEPEDA_JOSE_637532.jpg"
   }
  ]
 }
