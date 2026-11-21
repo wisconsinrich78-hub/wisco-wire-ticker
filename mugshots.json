@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T00:08:16+00:00",
+ "updated": "2026-11-21T00:38:39+00:00",
  "items": [
+  {
+   "key": "MKE_MCDOUGAL_MARSHALL_648429",
+   "name": "Marshall Isiah McDougal",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795220847,
+   "photo": null
+  },
+  {
+   "key": "HUBER_DEREK_2026-11-20",
+   "name": "Derek E Huber",
+   "age": "52",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795220822,
+   "photo": null
+  },
+  {
+   "key": "KEN_JENKINS_DONTA_2026-00006419",
+   "name": "Donta Letrect Jenkins",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Non-Registration of Vehicle",
+   "more": 5,
+   "ts": 1795219730,
+   "photo": "photos/KEN_JENKINS_DONTA_2026-00006419.jpg"
+  },
   {
    "key": "KEN_FUDE_WILLIAM_2026-00006420",
    "name": "William Martin Fude",
@@ -227,7 +260,7 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (2nd)",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1795215452,
    "photo": null
@@ -252,28 +285,6 @@
    "charge": "Lacrosse County Arrest/Bench Warrant",
    "more": 3,
    "ts": 1795213622,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCELROY_DARIUS_535609",
-   "name": "Darius Jaquan Mcelroy",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 2,
-   "ts": 1795211859,
-   "photo": null
-  },
-  {
-   "key": "MKE_CATHEY_KASHWON_613645",
-   "name": "Kashwon Connel Cathey",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 1,
-   "ts": 1795211857,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795151791,
    "photo": "photos/FDL_STEVENS_KIMBERLY_2026-11-19.jpg"
-  },
-  {
-   "key": "MCKITTRICK_TIFFANY_2026-11-19",
-   "name": "Tiffany J Mckittrick",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 2,
-   "ts": 1795151441,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_MCDOUGAL_MARSHALL_648429",
+   "name": "Marshall Isiah McDougal",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795220847,
+   "photo": null
+  },
+  {
+   "key": "HUBER_DEREK_2026-11-20",
+   "name": "Derek E Huber",
+   "age": "52",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795220822,
+   "photo": null
+  },
+  {
+   "key": "KEN_JENKINS_DONTA_2026-00006419",
+   "name": "Donta Letrect Jenkins",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Non-Registration of Vehicle",
+   "more": 5,
+   "ts": 1795219730,
+   "photo": "photos/KEN_JENKINS_DONTA_2026-00006419.jpg"
+  },
   {
    "key": "KEN_FUDE_WILLIAM_2026-00006420",
    "name": "William Martin Fude",
@@ -757,7 +790,7 @@
    "age": "45",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (2nd)",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 3,
    "ts": 1795215452,
    "photo": null
@@ -867,7 +900,7 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 1,
    "ts": 1795210058,
    "photo": null
@@ -5282,72 +5315,6 @@
    "more": 0,
    "ts": 1794963451,
    "photo": "photos/MKE_HAYNES_DARIUS_645534.jpg"
-  },
-  {
-   "key": "MKE_PURDY_KENOSHA_632650",
-   "name": "Kenosha Gabriella Purdy",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 0,
-   "ts": 1794961672,
-   "photo": "photos/MKE_PURDY_KENOSHA_632650.jpg"
-  },
-  {
-   "key": "MKE_ASHLEY_JOHN_641271",
-   "name": "John Jahrell Ashley",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Homicide by Negligent Operation/Vehicle",
-   "more": 0,
-   "ts": 1794961671,
-   "photo": "photos/MKE_ASHLEY_JOHN_641271.jpg"
-  },
-  {
-   "key": "MKE_BELLAMY_SAMOTRIA_646683",
-   "name": "Samotria Shauna Bellamy",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1794961668,
-   "photo": "photos/MKE_BELLAMY_SAMOTRIA_646683.jpg"
-  },
-  {
-   "key": "MKE_FIREHAMMER_ZACHARY_2056678",
-   "name": "Zachary R Firehammer",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (1st w/ Passenger < 16 Yrs Old)",
-   "more": 0,
-   "ts": 1794961666,
-   "photo": "photos/MKE_FIREHAMMER_ZACHARY_2056678.jpg"
-  },
-  {
-   "key": "DOU_LUCKEY_BRENDEN_2026-11-17",
-   "name": "Brenden R Luckey",
-   "age": "24",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Destruction/Damage/Vandalism",
-   "more": 9,
-   "ts": 1794961005,
-   "photo": "photos/DOU_LUCKEY_BRENDEN_2026-11-17.jpg"
-  },
-  {
-   "key": "FDL_BREIDENBACH_DIANA_2026-11-17",
-   "name": "Diana Carol Breidenbach",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Theft - Movable Property (> $2500 - $5000)",
-   "more": 0,
-   "ts": 1794960963,
-   "photo": "photos/FDL_BREIDENBACH_DIANA_2026-11-17.jpg"
   }
  ]
 }
