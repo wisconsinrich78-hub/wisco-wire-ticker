@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T04:32:02+00:00",
+ "updated": "2026-11-21T04:49:29+00:00",
  "items": [
+  {
+   "key": "RC_GRIFFEY_BRAXXTON_120011076476952",
+   "name": "Braxxton A Griffey",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795236484,
+   "photo": "photos/RC_GRIFFEY_BRAXXTON_120011076476952.jpg"
+  },
   {
    "key": "MKE_PETERS_KOVAN_508075",
    "name": "Kovan Lonte Peters",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1795222786,
    "photo": "photos/KEN_MENDOZACASTILLO_LEAH_2026-00006417.jpg"
-  },
-  {
-   "key": "KEN_MCBEE_AMANDA_2026-00006439",
-   "name": "Amanda Megan Mcbee",
-   "age": "38",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Marijuana (THC)",
-   "more": 2,
-   "ts": 1795222704,
-   "photo": "photos/KEN_MCBEE_AMANDA_2026-00006439.jpg"
   },
   {
    "key": "HUBER_DEREK_2026-11-20",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GRIFFEY_BRAXXTON_120011076476952",
+   "name": "Braxxton A Griffey",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795236484,
+   "photo": "photos/RC_GRIFFEY_BRAXXTON_120011076476952.jpg"
+  },
   {
    "key": "MKE_PETERS_KOVAN_508075",
    "name": "Kovan Lonte Peters",
@@ -5381,17 +5392,6 @@
    "more": 0,
    "ts": 1794977610,
    "photo": "photos/MAR_REED_DOUGLASS_2026-11-17.jpg"
-  },
-  {
-   "key": "RC_PETERSON_MARCUS_120011076374725",
-   "name": "Marcus Valdemar Peterson",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Throwing or Discharging Bodily Fluids at Public Safety Worker or\u2026",
-   "more": 5,
-   "ts": 1794977279,
-   "photo": null
   }
  ]
 }
