@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T18:04:20+00:00",
+ "updated": "2026-11-22T18:44:39+00:00",
  "items": [
+  {
+   "key": "MKE_ROGERS_ALVERIA_307404",
+   "name": "Alveria Rogers",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795372049,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARMSTRONG_DEMETRIUS_360474",
+   "name": "Demetrius Jermaine Armstrong",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 0,
+   "ts": 1795372047,
+   "photo": null
+  },
+  {
+   "key": "MKE_MHANDO_MUYA_648450",
+   "name": "Muya M Mhando",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1795372046,
+   "photo": null
+  },
+  {
+   "key": "DOU_WESTENDORF_JORDAN_2026-11-22",
+   "name": "Jordan A Westendorf",
+   "age": "31",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1795371412,
+   "photo": "photos/DOU_WESTENDORF_JORDAN_2026-11-22.jpg"
+  },
   {
    "key": "MAR_STINSON_MONTRELL_2026-11-21_20218",
    "name": "Montrell Lorenzo Stinson",
@@ -10,7 +54,7 @@
    "charge": "Possess Drug Paraphernalia",
    "more": 1,
    "ts": 1795370091,
-   "photo": null
+   "photo": "photos/MAR_STINSON_MONTRELL_2026-11-21_20218.jpg"
   },
   {
    "key": "MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22",
@@ -231,39 +275,6 @@
    "more": 0,
    "ts": 1795363194,
    "photo": "photos/MKE_HORTMAN_AJAYAH_307861.jpg"
-  },
-  {
-   "key": "MKE_BRUCE_KARMELLO_643451",
-   "name": "Karmello Lamont Bruce",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795363192,
-   "photo": "photos/MKE_BRUCE_KARMELLO_643451.jpg"
-  },
-  {
-   "key": "MKE_PEOT_ANDREW_648448",
-   "name": "Andrew Peot",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795363191,
-   "photo": "photos/MKE_PEOT_ANDREW_648448.jpg"
-  },
-  {
-   "key": "MKE_MCDONALD_SHERRICE_648447",
-   "name": "Sherrice R McDonald",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795341454,
-   "photo": "photos/MKE_MCDONALD_SHERRICE_648447.jpg"
   },
   {
    "key": "HAHN_EMILY_2026-11-22",
@@ -517,20 +528,53 @@
    "more": 1,
    "ts": 1795283243,
    "photo": "photos/HOU_CAGLE_KEVINCHARLES_6337.jpg"
-  },
-  {
-   "key": "FDL_SCHROEDER_JOSHUA_2026-11-21",
-   "name": "Joshua Aaron Schroeder",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Carry Concealed Knife",
-   "more": 1,
-   "ts": 1795277799,
-   "photo": "photos/FDL_SCHROEDER_JOSHUA_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ROGERS_ALVERIA_307404",
+   "name": "Alveria Rogers",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795372049,
+   "photo": null
+  },
+  {
+   "key": "MKE_ARMSTRONG_DEMETRIUS_360474",
+   "name": "Demetrius Jermaine Armstrong",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Child Abuse-Intentionally Cause Harm",
+   "more": 0,
+   "ts": 1795372047,
+   "photo": null
+  },
+  {
+   "key": "MKE_MHANDO_MUYA_648450",
+   "name": "Muya M Mhando",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1795372046,
+   "photo": null
+  },
+  {
+   "key": "DOU_WESTENDORF_JORDAN_2026-11-22",
+   "name": "Jordan A Westendorf",
+   "age": "31",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1795371412,
+   "photo": "photos/DOU_WESTENDORF_JORDAN_2026-11-22.jpg"
+  },
   {
    "key": "MAR_STINSON_MONTRELL_2026-11-21_20218",
    "name": "Montrell Lorenzo Stinson",
@@ -540,7 +584,7 @@
    "charge": "Possess Drug Paraphernalia",
    "more": 1,
    "ts": 1795370091,
-   "photo": null
+   "photo": "photos/MAR_STINSON_MONTRELL_2026-11-21_20218.jpg"
   },
   {
    "key": "MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22",
@@ -4545,39 +4589,6 @@
    "more": 0,
    "ts": 1795114081,
    "photo": null
-  },
-  {
-   "key": "MKE_NEWMAN_MICHAEL_600688",
-   "name": "Michael Christopher Newman",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795112863,
-   "photo": "photos/MKE_NEWMAN_MICHAEL_600688.jpg"
-  },
-  {
-   "key": "MKE_CLINCYBUTLER_AJONTAE_635375",
-   "name": "Ajontae Clincy-Butler",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1795112862,
-   "photo": "photos/MKE_CLINCYBUTLER_AJONTAE_635375.jpg"
-  },
-  {
-   "key": "DOU_OMARY_RHONDA_2026-11-19",
-   "name": "Rhonda B Omary",
-   "age": "30",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Cont Subst/Possess Synthetics",
-   "more": 2,
-   "ts": 1795112219,
-   "photo": "photos/DOU_OMARY_RHONDA_2026-11-19.jpg"
   }
  ]
 }
