@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22T06:49:29+00:00",
+ "updated": "2026-11-22T07:06:09+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_TERRANCE_379109",
+   "name": "Terrance T Williams",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795330657,
+   "photo": null
+  },
+  {
+   "key": "MKE_MURSAL_YUSUT_648445",
+   "name": "Yusut Mursal",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795330655,
+   "photo": null
+  },
   {
    "key": "RC_MATHEWS_MARSHAUN_120011076496759",
    "name": "Marshaun Arron Mathews",
@@ -277,28 +299,6 @@
    "photo": "photos/MKE_HIGGINS_NATASHJA_648440.jpg"
   },
   {
-   "key": "MKE_GARCIAGAMBOA_JACINTO_648441",
-   "name": "Jacinto Garcia Gamboa",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795307264,
-   "photo": "photos/MKE_GARCIAGAMBOA_JACINTO_648441.jpg"
-  },
-  {
-   "key": "MKE_DUPRIESTWILLIAMS_LATASHA_648442",
-   "name": "Latasha R Dupriest Williams",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1795307263,
-   "photo": "photos/MKE_DUPRIESTWILLIAMS_LATASHA_648442.jpg"
-  },
-  {
    "key": "FDL_BUSHNELL_THOMAS_2026-11-21",
    "name": "Thomas M Bushnell",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_TERRANCE_379109",
+   "name": "Terrance T Williams",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795330657,
+   "photo": null
+  },
+  {
+   "key": "MKE_MURSAL_YUSUT_648445",
+   "name": "Yusut Mursal",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795330655,
+   "photo": null
+  },
   {
    "key": "RC_MATHEWS_MARSHAUN_120011076496759",
    "name": "Marshaun Arron Mathews",
@@ -4600,39 +4622,6 @@
    "more": 0,
    "ts": 1795072596,
    "photo": "photos/FDL_TOELLNER_HEATHER_2026-11-19.jpg"
-  },
-  {
-   "key": "MKE_FULLER_PAMELA_648387",
-   "name": "Pamela Joanny Fuller",
-   "age": "61",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795071449,
-   "photo": "photos/MKE_FULLER_PAMELA_648387.jpg"
-  },
-  {
-   "key": "MKE_CALDWELL_CHARLES_648388",
-   "name": "Charles R Caldwell",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795071448,
-   "photo": "photos/MKE_CALDWELL_CHARLES_648388.jpg"
-  },
-  {
-   "key": "MKE_MARTIN_ALAYSHIANNA_648389",
-   "name": "Alayshianna Martin",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795071446,
-   "photo": "photos/MKE_MARTIN_ALAYSHIANNA_648389.jpg"
   }
  ]
 }
