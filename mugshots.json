@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T22:39:12+00:00",
+ "updated": "2026-11-22T22:49:29+00:00",
  "items": [
+  {
+   "key": "RC_DEMBOWSKI_MICHAEL_120011076513240",
+   "name": "Michael Allen Dembowski",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 1,
+   "ts": 1795387669,
+   "photo": "photos/RC_DEMBOWSKI_MICHAEL_120011076513240.jpg"
+  },
   {
    "key": "DOU_GOODIEL_RANDY_2026-11-22",
    "name": "Randy L Goodiel",
@@ -288,17 +299,6 @@
    "photo": "photos/RC_REAM_CHANTELL_120011076508664.jpg"
   },
   {
-   "key": "MKE_ROGERS_ALVERIA_307404",
-   "name": "Alveria Rogers",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795372049,
-   "photo": "photos/MKE_ROGERS_ALVERIA_307404.jpg"
-  },
-  {
    "key": "DOU_WESTENDORF_JORDAN_2026-11-22",
    "name": "Jordan A Westendorf",
    "age": "31",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DEMBOWSKI_MICHAEL_120011076513240",
+   "name": "Michael Allen Dembowski",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 1,
+   "ts": 1795387669,
+   "photo": "photos/RC_DEMBOWSKI_MICHAEL_120011076513240.jpg"
+  },
   {
    "key": "DOU_GOODIEL_RANDY_2026-11-22",
    "name": "Randy L Goodiel",
@@ -4413,17 +4424,6 @@
    "more": 1,
    "ts": 1795129059,
    "photo": "photos/MKE_SWORSKE_SHAWN_638741.jpg"
-  },
-  {
-   "key": "RC_GREER_QUEMONT_120011076436608",
-   "name": "Quemont Greer",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795128470,
-   "photo": null
   }
  ]
 }
