@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-22T22:59:24+00:00",
+ "updated": "2026-11-22T23:41:10+00:00",
  "items": [
+  {
+   "key": "MKE_SCHROEDER_JAMON_353042",
+   "name": "Jamon C Schroeder",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Child Sex Assault - Contact/Intercourse w/ Person under\u2026",
+   "more": 0,
+   "ts": 1795390058,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_ROBERT_504365",
+   "name": "Robert C Brown",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795390055,
+   "photo": null
+  },
+  {
+   "key": "MKE_PACHECOROMAN_VICTOR_648456",
+   "name": "Victor M Pacheco Roman",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1795390053,
+   "photo": null
+  },
+  {
+   "key": "FDL_SPARKS_RACHEL_2026-11-22",
+   "name": "Rachel Catherine Sparks",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795389399,
+   "photo": "photos/FDL_SPARKS_RACHEL_2026-11-22.jpg"
+  },
+  {
+   "key": "FDL_CARTER_BRET_2026-11-22",
+   "name": "Bret James Carter",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 3,
+   "ts": 1795389367,
+   "photo": "photos/FDL_CARTER_BRET_2026-11-22.jpg"
+  },
   {
    "key": "MKE_FLAKES_CLAUDIA_411799",
    "name": "Claudia J Flakes",
@@ -186,7 +241,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795377456,
-   "photo": null
+   "photo": "photos/MKE_CASTROMONTANEZ_JAIRO_648453.jpg"
   },
   {
    "key": "MKE_GARCIAHERNANDEZ_ENRIQUE_648454",
@@ -255,17 +310,6 @@
    "photo": "photos/MKE_FAJARDOMARTINEZ_RAUL_399586.jpg"
   },
   {
-   "key": "MKE_CHEELY_CHARIANNA_648451",
-   "name": "Charianna N Cheely",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795373856,
-   "photo": "photos/MKE_CHEELY_CHARIANNA_648451.jpg"
-  },
-  {
    "key": "MAR_MCDUFFY_DION_2026-11-22",
    "name": "Dion Dwight Mcduffy",
    "age": "31",
@@ -275,28 +319,6 @@
    "more": 9,
    "ts": 1795373604,
    "photo": "photos/MAR_MCDUFFY_DION_2026-11-22.jpg"
-  },
-  {
-   "key": "RC_FOX_MORGAN_120011076508542",
-   "name": "Morgan Lee Fox",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795373295,
-   "photo": "photos/RC_FOX_MORGAN_120011076508542.jpg"
-  },
-  {
-   "key": "RC_FITZGIBBONS_RICHARD_120011076508564",
-   "name": "Richard M Fitzgibbons",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795373292,
-   "photo": "photos/RC_FITZGIBBONS_RICHARD_120011076508564.jpg"
   },
   {
    "key": "DOU_WESTENDORF_JORDAN_2026-11-22",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1795318022,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "PANIAGUA_ALEXANDER_2026-11-21",
-   "name": "Alexander Adolfo Paniagua",
-   "age": "27",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Revoked",
-   "more": 1,
-   "ts": 1795318021,
+   "key": "MKE_SCHROEDER_JAMON_353042",
+   "name": "Jamon C Schroeder",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Child Sex Assault - Contact/Intercourse w/ Person under\u2026",
+   "more": 0,
+   "ts": 1795390058,
    "photo": null
   },
   {
-   "key": "FDL_BUSHNELL_THOMAS_2026-11-21",
-   "name": "Thomas M Bushnell",
+   "key": "MKE_BROWN_ROBERT_504365",
+   "name": "Robert C Brown",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795390055,
+   "photo": null
+  },
+  {
+   "key": "MKE_PACHECOROMAN_VICTOR_648456",
+   "name": "Victor M Pacheco Roman",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1795390053,
+   "photo": null
+  },
+  {
+   "key": "FDL_SPARKS_RACHEL_2026-11-22",
+   "name": "Rachel Catherine Sparks",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795389399,
+   "photo": "photos/FDL_SPARKS_RACHEL_2026-11-22.jpg"
+  },
+  {
+   "key": "FDL_CARTER_BRET_2026-11-22",
+   "name": "Bret James Carter",
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
    "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795302965,
-   "photo": null
-  }
- ],
- "all_items": [
+   "more": 3,
+   "ts": 1795389367,
+   "photo": "photos/FDL_CARTER_BRET_2026-11-22.jpg"
+  },
   {
    "key": "MKE_FLAKES_CLAUDIA_411799",
    "name": "Claudia J Flakes",
@@ -716,7 +771,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795377456,
-   "photo": null
+   "photo": "photos/MKE_CASTROMONTANEZ_JAIRO_648453.jpg"
   },
   {
    "key": "MKE_GARCIAHERNANDEZ_ENRIQUE_648454",
@@ -4391,50 +4446,6 @@
    "more": 0,
    "ts": 1795132492,
    "photo": "photos/MAR_THAO_JAMES_2026-11-19_828125.jpg"
-  },
-  {
-   "key": "AUSTIN_ANDREW_2026-11-19",
-   "name": "Andrew S Austin",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold for Drug Court",
-   "more": 0,
-   "ts": 1795131208,
-   "photo": null
-  },
-  {
-   "key": "MKE_SAULSBERRY_OKURIAN_628856",
-   "name": "Okurian D Saulsberry",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possession of Firearm - Convicted Felon in this State",
-   "more": 0,
-   "ts": 1795130864,
-   "photo": "photos/MKE_SAULSBERRY_OKURIAN_628856.jpg"
-  },
-  {
-   "key": "MKE_MONCADA_MEYLING_648399",
-   "name": "Meyling Moncada",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795130862,
-   "photo": "photos/MKE_MONCADA_MEYLING_648399.jpg"
-  },
-  {
-   "key": "FDL_BLANSETTE_DANIEL_2026-11-19",
-   "name": "Daniel A Blansette",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795130161,
-   "photo": "photos/FDL_BLANSETTE_DANIEL_2026-11-19.jpg"
   }
  ]
 }
