@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T06:36:52+00:00",
+ "updated": "2026-11-22T06:49:29+00:00",
  "items": [
+  {
+   "key": "RC_MATHEWS_MARSHAUN_120011076496759",
+   "name": "Marshaun Arron Mathews",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1795330076,
+   "photo": "photos/RC_MATHEWS_MARSHAUN_120011076496759.jpg"
+  },
   {
    "key": "MAR_JAMA_MAHAD_2026-11-21_15857907",
    "name": "Mahad Abdiresaq Jama",
@@ -288,17 +299,6 @@
    "photo": "photos/MKE_DUPRIESTWILLIAMS_LATASHA_648442.jpg"
   },
   {
-   "key": "MKE_SCHARPF_RONALD_646734",
-   "name": "Ronald A Scharpf",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795303657,
-   "photo": "photos/MKE_SCHARPF_RONALD_646734.jpg"
-  },
-  {
    "key": "FDL_BUSHNELL_THOMAS_2026-11-21",
    "name": "Thomas M Bushnell",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MATHEWS_MARSHAUN_120011076496759",
+   "name": "Marshaun Arron Mathews",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 1,
+   "ts": 1795330076,
+   "photo": "photos/RC_MATHEWS_MARSHAUN_120011076496759.jpg"
+  },
   {
    "key": "MAR_JAMA_MAHAD_2026-11-21_15857907",
    "name": "Mahad Abdiresaq Jama",
