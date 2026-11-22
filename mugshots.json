@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:40:28+00:00",
+ "updated": "2026-11-22T19:49:28+00:00",
  "items": [
   {
    "key": "SCHOENMANN_TREVOR_2026-11-22",
@@ -95,7 +95,7 @@
    "age": "58",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Criminal Trespass to Dwelling",
    "more": 0,
    "ts": 1795373289,
    "photo": "photos/RC_MARTZ_BILLY_120011076508579.jpg"
@@ -625,7 +625,7 @@
    "age": "58",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Criminal Trespass to Dwelling",
    "more": 0,
    "ts": 1795373289,
    "photo": "photos/RC_MARTZ_BILLY_120011076508579.jpg"
@@ -4446,50 +4446,6 @@
    "more": 1,
    "ts": 1795118014,
    "photo": "photos/MAR_SLOWIKOWSKI_MATTHEW_2026-11-19.jpg"
-  },
-  {
-   "key": "RC_KORTH_GJUAN_120011076427197",
-   "name": "Gjuan Korth",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1795117681,
-   "photo": null
-  },
-  {
-   "key": "RC_WILLAMS_SHAQUILLE_120011076427384",
-   "name": "Shaquille Willams",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1795117679,
-   "photo": null
-  },
-  {
-   "key": "KEN_SAMONIG_JASON_2026-00006403",
-   "name": "Jason Alan Samonig",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 2,
-   "ts": 1795117346,
-   "photo": "photos/KEN_SAMONIG_JASON_2026-00006403.jpg"
-  },
-  {
-   "key": "KEN_RICHARD_DAMISO_2026-00006399",
-   "name": "Damiso Ajau Richard",
-   "age": "45",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 6,
-   "ts": 1795117275,
-   "photo": "photos/KEN_RICHARD_DAMISO_2026-00006399.jpg"
   }
  ]
 }
