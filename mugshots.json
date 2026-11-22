@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T00:02:04+00:00",
+ "updated": "2026-11-22T00:36:52+00:00",
  "items": [
+  {
+   "key": "MKE_SHACKELFORD_ASHLEY_632383",
+   "name": "Ashley Shantell Shackelford",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795307269,
+   "photo": null
+  },
+  {
+   "key": "MKE_HIGGINS_NATASHJA_648440",
+   "name": "Natashja Higgins",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Business Setting >$2500-$5000",
+   "more": 0,
+   "ts": 1795307267,
+   "photo": "photos/MKE_HIGGINS_NATASHJA_648440.jpg"
+  },
+  {
+   "key": "MKE_GARCIAGAMBOA_JACINTO_648441",
+   "name": "Jacinto Garcia Gamboa",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795307264,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUPRIESTWILLIAMS_LATASHA_648442",
+   "name": "Latasha R Dupriest Williams",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795307263,
+   "photo": null
+  },
   {
    "key": "MKE_SCHARPF_RONALD_646734",
    "name": "Ronald A Scharpf",
@@ -40,7 +84,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Second/Subsequent Drug Offense",
+   "charge": "Charges Pending",
    "more": 18,
    "ts": 1795298256,
    "photo": null
@@ -233,28 +277,6 @@
    "photo": null
   },
   {
-   "key": "RC_HALLOM_VICTORIA_120011076485955",
-   "name": "Victoria Latrice Hallom",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795279712,
-   "photo": "photos/RC_HALLOM_VICTORIA_120011076485955.jpg"
-  },
-  {
-   "key": "RC_SMITH_SHUNYA_120011076486175",
-   "name": "Shunya Immani Smith",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795279708,
-   "photo": "photos/RC_SMITH_SHUNYA_120011076486175.jpg"
-  },
-  {
    "key": "FDL_SCHROEDER_JOSHUA_2026-11-21",
    "name": "Joshua Aaron Schroeder",
    "age": "",
@@ -264,28 +286,6 @@
    "more": 1,
    "ts": 1795277799,
    "photo": "photos/FDL_SCHROEDER_JOSHUA_2026-11-21.jpg"
-  },
-  {
-   "key": "KEN_MERCADO_LYNETTE_2026-00006444",
-   "name": "Lynette Jailene Mercado",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "OWI (2nd)",
-   "more": 0,
-   "ts": 1795276455,
-   "photo": "photos/KEN_MERCADO_LYNETTE_2026-00006444.jpg"
-  },
-  {
-   "key": "MKE_WRIGHT_ITALYA_648437",
-   "name": "Italya Wright",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795274853,
-   "photo": "photos/MKE_WRIGHT_ITALYA_648437.jpg"
   },
   {
    "key": "FDL_VIERAHERNANDEZ_MARIO_2026-11-21",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SHACKELFORD_ASHLEY_632383",
+   "name": "Ashley Shantell Shackelford",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795307269,
+   "photo": null
+  },
+  {
+   "key": "MKE_HIGGINS_NATASHJA_648440",
+   "name": "Natashja Higgins",
+   "age": "42",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Theft-Business Setting >$2500-$5000",
+   "more": 0,
+   "ts": 1795307267,
+   "photo": "photos/MKE_HIGGINS_NATASHJA_648440.jpg"
+  },
+  {
+   "key": "MKE_GARCIAGAMBOA_JACINTO_648441",
+   "name": "Jacinto Garcia Gamboa",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795307264,
+   "photo": null
+  },
+  {
+   "key": "MKE_DUPRIESTWILLIAMS_LATASHA_648442",
+   "name": "Latasha R Dupriest Williams",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795307263,
+   "photo": null
+  },
+  {
    "key": "MKE_SCHARPF_RONALD_646734",
    "name": "Ronald A Scharpf",
    "age": "19",
@@ -570,7 +614,7 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Second/Subsequent Drug Offense",
+   "charge": "Charges Pending",
    "more": 18,
    "ts": 1795298256,
    "photo": null
