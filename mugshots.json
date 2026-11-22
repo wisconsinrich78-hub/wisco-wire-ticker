@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-22T08:38:00+00:00",
+ "updated": "2026-11-22T08:49:31+00:00",
  "items": [
+  {
+   "key": "RC_BLOCK_FORREST_120011076498405",
+   "name": "Forrest G Block",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795337274,
+   "photo": "photos/RC_BLOCK_FORREST_120011076498405.jpg"
+  },
+  {
+   "key": "RC_RODRIGUEZ_JESUS_120011076498757",
+   "name": "Jesus R Rodriguez",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795337272,
+   "photo": null
+  },
+  {
+   "key": "MUNYON_MIRIAH_2026-11-22",
+   "name": "Miriah Ann Munyon",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1795337224,
+   "photo": null
+  },
   {
    "key": "MKE_GERARD_DARRIEN_648446",
    "name": "Darrien Jon Gerard",
@@ -277,28 +310,6 @@
    "photo": "photos/MKE_TREADWAY_DARONTE_505776.jpg"
   },
   {
-   "key": "MKE_CERTION_AMIR_645888",
-   "name": "Amir T Certion",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carry Concealed Weapon",
-   "more": 1,
-   "ts": 1795314453,
-   "photo": "photos/MKE_CERTION_AMIR_645888.jpg"
-  },
-  {
-   "key": "MKE_LEONARD_KALEYAMARIE_648443",
-   "name": "Kaleya Marie Neveah Leonard",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795312652,
-   "photo": "photos/MKE_LEONARD_KALEYAMARIE_648443.jpg"
-  },
-  {
    "key": "FDL_BUSHNELL_THOMAS_2026-11-21",
    "name": "Thomas M Bushnell",
    "age": "",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795249622,
    "photo": null
-  },
-  {
-   "key": "WILSON_ANTHONY_2026-11-21",
-   "name": "Anthony D Wilson",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795247232,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BLOCK_FORREST_120011076498405",
+   "name": "Forrest G Block",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795337274,
+   "photo": "photos/RC_BLOCK_FORREST_120011076498405.jpg"
+  },
+  {
+   "key": "RC_RODRIGUEZ_JESUS_120011076498757",
+   "name": "Jesus R Rodriguez",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795337272,
+   "photo": null
+  },
+  {
+   "key": "MUNYON_MIRIAH_2026-11-22",
+   "name": "Miriah Ann Munyon",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1795337224,
+   "photo": null
+  },
   {
    "key": "MKE_GERARD_DARRIEN_648446",
    "name": "Darrien Jon Gerard",
@@ -4365,8 +4398,8 @@
    "age": "38",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "OWI Cause Injury (2+)",
+   "more": 3,
    "ts": 1795103275,
    "photo": "photos/RC_ARIZMENDIFUENTES_MIGUEL_120011076420018.jpg"
   },
