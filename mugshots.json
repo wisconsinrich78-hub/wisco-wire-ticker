@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22T02:57:55+00:00",
+ "updated": "2026-11-22T03:35:39+00:00",
  "items": [
+  {
+   "key": "WOJCEHOWICZ_KIRSTEN_2026-11-21",
+   "name": "Kirsten R Wojcehowicz",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft <$500",
+   "more": 0,
+   "ts": 1795318022,
+   "photo": null
+  },
+  {
+   "key": "PANIAGUA_ALEXANDER_2026-11-21",
+   "name": "Alexander Adolfo Paniagua",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 1,
+   "ts": 1795318021,
+   "photo": null
+  },
   {
    "key": "KEN_WHITE_GERALD_2026-00006450",
    "name": "GERALD LINSEY Junior WHITE",
@@ -76,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1795312652,
-   "photo": null
+   "photo": "photos/MKE_LEONARD_KALEYAMARIE_648443.jpg"
   },
   {
    "key": "RC_MOORE_DAVONTAY_120011076493067",
@@ -142,7 +164,7 @@
    "charge": "Charges Pending",
    "more": 9,
    "ts": 1795307263,
-   "photo": null
+   "photo": "photos/MKE_DUPRIESTWILLIAMS_LATASHA_648442.jpg"
   },
   {
    "key": "MKE_SCHARPF_RONALD_646734",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795225626,
    "photo": null
-  },
-  {
-   "key": "TRALMER_MACEY_2026-11-20",
-   "name": "Macey M Tralmer",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1795224432,
-   "photo": null
-  },
-  {
-   "key": "DOU_POTTER_GARY_2026-11-20",
-   "name": "Gary L Potter",
-   "age": "66",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795223817,
-   "photo": "photos/DOU_POTTER_GARY_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "WOJCEHOWICZ_KIRSTEN_2026-11-21",
+   "name": "Kirsten R Wojcehowicz",
+   "age": "35",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Retail Theft <$500",
+   "more": 0,
+   "ts": 1795318022,
+   "photo": null
+  },
+  {
+   "key": "PANIAGUA_ALEXANDER_2026-11-21",
+   "name": "Alexander Adolfo Paniagua",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked",
+   "more": 1,
+   "ts": 1795318021,
+   "photo": null
+  },
   {
    "key": "KEN_WHITE_GERALD_2026-00006450",
    "name": "GERALD LINSEY Junior WHITE",
@@ -606,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1795312652,
-   "photo": null
+   "photo": "photos/MKE_LEONARD_KALEYAMARIE_648443.jpg"
   },
   {
    "key": "RC_MOORE_DAVONTAY_120011076493067",
@@ -672,7 +694,7 @@
    "charge": "Charges Pending",
    "more": 9,
    "ts": 1795307263,
-   "photo": null
+   "photo": "photos/MKE_DUPRIESTWILLIAMS_LATASHA_648442.jpg"
   },
   {
    "key": "MKE_SCHARPF_RONALD_646734",
