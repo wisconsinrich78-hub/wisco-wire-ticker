@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T21:49:28+00:00",
+ "updated": "2026-11-22T22:00:02+00:00",
  "items": [
+  {
+   "key": "MKE_FIELDS_XAVIER_416285",
+   "name": "Xavier Davon Fields",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795384652,
+   "photo": null
+  },
+  {
+   "key": "MAR_KIBLER_MALIEK_2026-11-21_14015720",
+   "name": "Maliek Jackson Kibler",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure to Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1795384479,
+   "photo": "photos/MAR_KIBLER_MALIEK_2026-11-21_14015720.jpg"
+  },
+  {
+   "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
+   "name": "Carla Jean Sims",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 6th",
+   "more": 1,
+   "ts": 1795384441,
+   "photo": null
+  },
+  {
+   "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22_17138501",
+   "name": "Miguel Angel Blandino Castillo",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 1st",
+   "more": 1,
+   "ts": 1795384402,
+   "photo": "photos/MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22_17138501.jpg"
+  },
   {
    "key": "LEMKE_DAVID_2026-11-22",
    "name": "David S Lemke",
@@ -244,17 +288,6 @@
    "photo": "photos/MKE_ROGERS_ALVERIA_307404.jpg"
   },
   {
-   "key": "MKE_ARMSTRONG_DEMETRIUS_360474",
-   "name": "Demetrius Jermaine Armstrong",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Child Abuse-Intentionally Cause Harm",
-   "more": 0,
-   "ts": 1795372047,
-   "photo": "photos/MKE_ARMSTRONG_DEMETRIUS_360474.jpg"
-  },
-  {
    "key": "DOU_WESTENDORF_JORDAN_2026-11-22",
    "name": "Jordan A Westendorf",
    "age": "31",
@@ -464,28 +497,6 @@
    "photo": "photos/MAR_SIMS_CARLA_2026-11-21.jpg"
   },
   {
-   "key": "MAR_FOCHS_BENJAMIN_2026-11-21",
-   "name": "Benjamin Joseph Fochs",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of Methamphetamine",
-   "more": 2,
-   "ts": 1795319637,
-   "photo": "photos/MAR_FOCHS_BENJAMIN_2026-11-21.jpg"
-  },
-  {
-   "key": "MAR_STINSON_MONTRELL_2026-11-21",
-   "name": "Montrell Lorenzo Stinson",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 1,
-   "ts": 1795319602,
-   "photo": "photos/MAR_STINSON_MONTRELL_2026-11-21.jpg"
-  },
-  {
    "key": "WOJCEHOWICZ_KIRSTEN_2026-11-21",
    "name": "Kirsten R Wojcehowicz",
    "age": "35",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1795302965,
    "photo": null
-  },
-  {
-   "key": "DOU_CROWE_WENDELL_2026-11-21",
-   "name": "Wendell J Crowe",
-   "age": "60",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Theft, Property, Shoplifting",
-   "more": 0,
-   "ts": 1795295809,
-   "photo": "photos/DOU_CROWE_WENDELL_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_FIELDS_XAVIER_416285",
+   "name": "Xavier Davon Fields",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795384652,
+   "photo": null
+  },
+  {
+   "key": "MAR_KIBLER_MALIEK_2026-11-21_14015720",
+   "name": "Maliek Jackson Kibler",
+   "age": "28",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure to Appear Warrant - Misdemeanor",
+   "more": 0,
+   "ts": 1795384479,
+   "photo": "photos/MAR_KIBLER_MALIEK_2026-11-21_14015720.jpg"
+  },
+  {
+   "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
+   "name": "Carla Jean Sims",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 6th",
+   "more": 1,
+   "ts": 1795384441,
+   "photo": null
+  },
+  {
+   "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22_17138501",
+   "name": "Miguel Angel Blandino Castillo",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 1st",
+   "more": 1,
+   "ts": 1795384402,
+   "photo": "photos/MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22_17138501.jpg"
+  },
   {
    "key": "LEMKE_DAVID_2026-11-22",
    "name": "David S Lemke",
@@ -4369,61 +4413,6 @@
    "more": 0,
    "ts": 1795128470,
    "photo": null
-  },
-  {
-   "key": "MKE_STONE_JAMARI_604258",
-   "name": "Jamari Lashod Stone",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 8,
-   "ts": 1795125452,
-   "photo": "photos/MKE_STONE_JAMARI_604258.jpg"
-  },
-  {
-   "key": "MKE_JEFFERSON_KEMONTE_631560",
-   "name": "Kemonte Dewayne Jefferson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 3,
-   "ts": 1795125449,
-   "photo": "photos/MKE_JEFFERSON_KEMONTE_631560.jpg"
-  },
-  {
-   "key": "MKE_MARTI_SEMAJ_634416",
-   "name": "Semaj Latrell Marti",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 5,
-   "ts": 1795125448,
-   "photo": "photos/MKE_MARTI_SEMAJ_634416.jpg"
-  },
-  {
-   "key": "KEN_KENYON_KARINA_2026-00006410",
-   "name": "Karina Roque Kenyon",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Cause Injury/Operating-Control Substance (2+)",
-   "more": 0,
-   "ts": 1795125300,
-   "photo": "photos/KEN_KENYON_KARINA_2026-00006410.jpg"
-  },
-  {
-   "key": "MAR_KOHN_STACIE_2026-11-19",
-   "name": "Stacie Jean Kohn",
-   "age": "23",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Revoked",
-   "more": 1,
-   "ts": 1795125201,
-   "photo": "photos/MAR_KOHN_STACIE_2026-11-19.jpg"
   }
  ]
 }
