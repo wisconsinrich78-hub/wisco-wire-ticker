@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22T22:49:29+00:00",
+ "updated": "2026-11-22T22:59:24+00:00",
  "items": [
+  {
+   "key": "MKE_FLAKES_CLAUDIA_411799",
+   "name": "Claudia J Flakes",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795388263,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_TERREANINA_626881",
+   "name": "Terreanina T Jones",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795388259,
+   "photo": null
+  },
   {
    "key": "RC_DEMBOWSKI_MICHAEL_120011076513240",
    "name": "Michael Allen Dembowski",
@@ -277,28 +299,6 @@
    "photo": "photos/RC_FITZGIBBONS_RICHARD_120011076508564.jpg"
   },
   {
-   "key": "RC_MARTZ_BILLY_120011076508579",
-   "name": "Billy Wayne Martz",
-   "age": "58",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 0,
-   "ts": 1795373289,
-   "photo": "photos/RC_MARTZ_BILLY_120011076508579.jpg"
-  },
-  {
-   "key": "RC_REAM_CHANTELL_120011076508664",
-   "name": "Chantell Patricia Ream",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 0,
-   "ts": 1795373286,
-   "photo": "photos/RC_REAM_CHANTELL_120011076508664.jpg"
-  },
-  {
    "key": "DOU_WESTENDORF_JORDAN_2026-11-22",
    "name": "Jordan A Westendorf",
    "age": "31",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_FLAKES_CLAUDIA_411799",
+   "name": "Claudia J Flakes",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795388263,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_TERREANINA_626881",
+   "name": "Terreanina T Jones",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795388259,
+   "photo": null
+  },
   {
    "key": "RC_DEMBOWSKI_MICHAEL_120011076513240",
    "name": "Michael Allen Dembowski",
@@ -4413,17 +4435,6 @@
    "more": 0,
    "ts": 1795130161,
    "photo": "photos/FDL_BLANSETTE_DANIEL_2026-11-19.jpg"
-  },
-  {
-   "key": "MKE_SWORSKE_SHAWN_638741",
-   "name": "Shawn Michael Sworske",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
-   "more": 1,
-   "ts": 1795129059,
-   "photo": "photos/MKE_SWORSKE_SHAWN_638741.jpg"
   }
  ]
 }
