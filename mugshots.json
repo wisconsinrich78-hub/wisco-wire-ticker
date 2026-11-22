@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22T23:41:10+00:00",
+ "updated": "2026-11-22T23:49:25+00:00",
  "items": [
+  {
+   "key": "RC_RILEY_CAREY_120011076514319",
+   "name": "Carey Riley",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795391278,
+   "photo": "photos/RC_RILEY_CAREY_120011076514319.jpg"
+  },
+  {
+   "key": "RC_ESPADASCRAMER_NANCY_120011076514461",
+   "name": "Nancy Gloria Espadas-Cramer",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Misdemeanor Battery",
+   "more": 0,
+   "ts": 1795391275,
+   "photo": null
+  },
   {
    "key": "MKE_SCHROEDER_JAMON_353042",
    "name": "Jamon C Schroeder",
@@ -288,28 +310,6 @@
    "photo": "photos/FDL_TURNER_GRAHAM_2026-11-22.jpg"
   },
   {
-   "key": "MKE_RANDOLPH_JACQUES_397325",
-   "name": "Jacques Ferrod. Randolph",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795373860,
-   "photo": "photos/MKE_RANDOLPH_JACQUES_397325.jpg"
-  },
-  {
-   "key": "MKE_FAJARDOMARTINEZ_RAUL_399586",
-   "name": "Raul Edurardo Fajardo-martinez",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795373857,
-   "photo": "photos/MKE_FAJARDOMARTINEZ_RAUL_399586.jpg"
-  },
-  {
    "key": "MAR_MCDUFFY_DION_2026-11-22",
    "name": "Dion Dwight Mcduffy",
    "age": "31",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_RILEY_CAREY_120011076514319",
+   "name": "Carey Riley",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795391278,
+   "photo": "photos/RC_RILEY_CAREY_120011076514319.jpg"
+  },
+  {
+   "key": "RC_ESPADASCRAMER_NANCY_120011076514461",
+   "name": "Nancy Gloria Espadas-Cramer",
+   "age": "42",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Misdemeanor Battery",
+   "more": 0,
+   "ts": 1795391275,
+   "photo": null
+  },
   {
    "key": "MKE_SCHROEDER_JAMON_353042",
    "name": "Jamon C Schroeder",
