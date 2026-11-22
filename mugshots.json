@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-22T02:49:34+00:00",
+ "updated": "2026-11-22T02:57:55+00:00",
  "items": [
+  {
+   "key": "KEN_WHITE_GERALD_2026-00006450",
+   "name": "GERALD LINSEY Junior WHITE",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violation of a Child Abuse Restraining Order or Injuction",
+   "more": 0,
+   "ts": 1795316256,
+   "photo": "photos/KEN_WHITE_GERALD_2026-00006450.jpg"
+  },
+  {
+   "key": "KEN_HARPE_CHARLES_2026-00006451",
+   "name": "Charles Robert Harpe",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Tire Tread Detpth",
+   "more": 1,
+   "ts": 1795316186,
+   "photo": "photos/KEN_HARPE_CHARLES_2026-00006451.jpg"
+  },
+  {
+   "key": "KEN_GARRETT_ERIC_2026-00006449",
+   "name": "Eric Lamar Garrett",
+   "age": "69",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1795316115,
+   "photo": "photos/KEN_GARRETT_ERIC_2026-00006449.jpg"
+  },
   {
    "key": "RC_DAVIS_BRITTANY_120011076493899",
    "name": "Brittany Elaine Davis",
@@ -156,17 +189,6 @@
    "photo": "photos/MKE_MATTHEWS_DESHON_298399.jpg"
   },
   {
-   "key": "MKE_HIGGINS_NATASHIA_648440",
-   "name": "Natashia Higgins",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Business Setting >$2500-$5000",
-   "more": 0,
-   "ts": 1795298254,
-   "photo": null
-  },
-  {
    "key": "DOU_CROWE_WENDELL_2026-11-21",
    "name": "Wendell J Crowe",
    "age": "60",
@@ -209,28 +231,6 @@
    "more": 0,
    "ts": 1795292163,
    "photo": null
-  },
-  {
-   "key": "MKE_MCNUTT_JAMES_521107",
-   "name": "James Nicholas McNutt",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795291059,
-   "photo": "photos/MKE_MCNUTT_JAMES_521107.jpg"
-  },
-  {
-   "key": "MKE_MEYER_WILLIAM_648439",
-   "name": "William L Meyer",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 11,
-   "ts": 1795291057,
-   "photo": "photos/MKE_MEYER_WILLIAM_648439.jpg"
   },
   {
    "key": "BENJAMIN_DOMINIC_2026-11-21",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_WHITE_GERALD_2026-00006450",
+   "name": "GERALD LINSEY Junior WHITE",
+   "age": "24",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Violation of a Child Abuse Restraining Order or Injuction",
+   "more": 0,
+   "ts": 1795316256,
+   "photo": "photos/KEN_WHITE_GERALD_2026-00006450.jpg"
+  },
+  {
+   "key": "KEN_HARPE_CHARLES_2026-00006451",
+   "name": "Charles Robert Harpe",
+   "age": "37",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Tire Tread Detpth",
+   "more": 1,
+   "ts": 1795316186,
+   "photo": "photos/KEN_HARPE_CHARLES_2026-00006451.jpg"
+  },
+  {
+   "key": "KEN_GARRETT_ERIC_2026-00006449",
+   "name": "Eric Lamar Garrett",
+   "age": "69",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
+   "ts": 1795316115,
+   "photo": "photos/KEN_GARRETT_ERIC_2026-00006449.jpg"
+  },
   {
    "key": "RC_DAVIS_BRITTANY_120011076493899",
    "name": "Brittany Elaine Davis",
