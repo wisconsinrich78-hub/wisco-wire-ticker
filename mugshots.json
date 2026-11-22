@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T00:58:20+00:00",
+ "updated": "2026-11-22T01:49:31+00:00",
  "items": [
+  {
+   "key": "RC_MOORE_DAVONTAY_120011076493067",
+   "name": "Davontay J Moore",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795312076,
+   "photo": "photos/RC_MOORE_DAVONTAY_120011076493067.jpg"
+  },
   {
    "key": "RC_MILLER_CARLY_120011076492690",
    "name": "Carly A Miller",
@@ -266,17 +277,6 @@
    "photo": "photos/MKE_BERNARD_DAVIAN_624593.jpg"
   },
   {
-   "key": "MKE_VARNELL_ROBERT_648438",
-   "name": "Robert Earl Varnell",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795282064,
-   "photo": "photos/MKE_VARNELL_ROBERT_648438.jpg"
-  },
-  {
    "key": "FDL_SCHROEDER_JOSHUA_2026-11-21",
    "name": "Joshua Aaron Schroeder",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MOORE_DAVONTAY_120011076493067",
+   "name": "Davontay J Moore",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795312076,
+   "photo": "photos/RC_MOORE_DAVONTAY_120011076493067.jpg"
+  },
   {
    "key": "RC_MILLER_CARLY_120011076492690",
    "name": "Carly A Miller",
