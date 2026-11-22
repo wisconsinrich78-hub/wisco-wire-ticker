@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-22T15:57:47+00:00",
+ "updated": "2026-11-22T16:36:45+00:00",
  "items": [
+  {
+   "key": "FUNMAKER_DIXON_2026-11-22",
+   "name": "Dixon Harry Funmaker",
+   "age": "54",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1795364821,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_LOVELL_258554",
+   "name": "Lovell Alexander Harris",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 1,
+   "ts": 1795363196,
+   "photo": "photos/MKE_HARRIS_LOVELL_258554.jpg"
+  },
+  {
+   "key": "MKE_HORTMAN_AJAYAH_307861",
+   "name": "Ajayah M Hortman",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795363194,
+   "photo": "photos/MKE_HORTMAN_AJAYAH_307861.jpg"
+  },
+  {
+   "key": "MKE_BRUCE_KARMELLO_643451",
+   "name": "Karmello Lamont Bruce",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795363192,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEOT_ANDREW_648448",
+   "name": "Andrew Peot",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795363191,
+   "photo": "photos/MKE_PEOT_ANDREW_648448.jpg"
+  },
   {
    "key": "MKE_MCDONALD_SHERRICE_648447",
    "name": "Sherrice R McDonald",
@@ -10,7 +65,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795341454,
-   "photo": null
+   "photo": "photos/MKE_MCDONALD_SHERRICE_648447.jpg"
   },
   {
    "key": "MKE_PEREZ_DUSTIN_404614",
@@ -21,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795339654,
-   "photo": null
+   "photo": "photos/MKE_PEREZ_DUSTIN_404614.jpg"
   },
   {
    "key": "HAHN_EMILY_2026-11-22",
@@ -87,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795336049,
-   "photo": null
+   "photo": "photos/MKE_GERARD_DARRIEN_648446.jpg"
   },
   {
    "key": "MKE_MIKE_LARON_375325",
@@ -98,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795334266,
-   "photo": null
+   "photo": "photos/MKE_MIKE_LARON_375325.jpg"
   },
   {
    "key": "MKE_WILLIAMS_TERANCE_379109",
@@ -106,10 +161,10 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Charges Pending",
    "more": 1,
    "ts": 1795334264,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_TERANCE_379109.jpg"
   },
   {
    "key": "RC_WOODSVAUGHN_JUSTIN_120011076497710",
@@ -222,17 +277,6 @@
    "photo": "photos/MKE_SAMPLE_VANESSA_363201.jpg"
   },
   {
-   "key": "MKE_HUTTON_SYLUS_648444",
-   "name": "Sylus Hutton",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795319856,
-   "photo": "photos/MKE_HUTTON_SYLUS_648444.jpg"
-  },
-  {
    "key": "MAR_JAMA_MAHAD_2026-11-21",
    "name": "Mahad Abdiresaq Jama",
    "age": "38",
@@ -297,39 +341,6 @@
    "more": 1,
    "ts": 1795318021,
    "photo": null
-  },
-  {
-   "key": "KEN_WHITE_GERALD_2026-00006450",
-   "name": "GERALD LINSEY Junior WHITE",
-   "age": "24",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Violation of a Child Abuse Restraining Order or Injuction",
-   "more": 0,
-   "ts": 1795316256,
-   "photo": "photos/KEN_WHITE_GERALD_2026-00006450.jpg"
-  },
-  {
-   "key": "KEN_HARPE_CHARLES_2026-00006451",
-   "name": "Charles Robert Harpe",
-   "age": "37",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Tire Tread Detpth",
-   "more": 1,
-   "ts": 1795316186,
-   "photo": "photos/KEN_HARPE_CHARLES_2026-00006451.jpg"
-  },
-  {
-   "key": "KEN_GARRETT_ERIC_2026-00006449",
-   "name": "Eric Lamar Garrett",
-   "age": "69",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 1,
-   "ts": 1795316115,
-   "photo": "photos/KEN_GARRETT_ERIC_2026-00006449.jpg"
   },
   {
    "key": "FDL_BUSHNELL_THOMAS_2026-11-21",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1795259763,
    "photo": "photos/FDL_CONNELLYLOPEZ_SENORA_2026-11-21.jpg"
-  },
-  {
-   "key": "TREM_RUVALCABA_JOSE_6220",
-   "name": "Jose Miguel Ruvalcaba",
-   "age": "41",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Vehicle Operator Flee/Elude Traffic Officer",
-   "more": 1,
-   "ts": 1795258027,
-   "photo": "photos/TREM_RUVALCABA_JOSE_6220.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FUNMAKER_DIXON_2026-11-22",
+   "name": "Dixon Harry Funmaker",
+   "age": "54",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1795364821,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARRIS_LOVELL_258554",
+   "name": "Lovell Alexander Harris",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 1,
+   "ts": 1795363196,
+   "photo": "photos/MKE_HARRIS_LOVELL_258554.jpg"
+  },
+  {
+   "key": "MKE_HORTMAN_AJAYAH_307861",
+   "name": "Ajayah M Hortman",
+   "age": "52",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795363194,
+   "photo": "photos/MKE_HORTMAN_AJAYAH_307861.jpg"
+  },
+  {
+   "key": "MKE_BRUCE_KARMELLO_643451",
+   "name": "Karmello Lamont Bruce",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795363192,
+   "photo": null
+  },
+  {
+   "key": "MKE_PEOT_ANDREW_648448",
+   "name": "Andrew Peot",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795363191,
+   "photo": "photos/MKE_PEOT_ANDREW_648448.jpg"
+  },
   {
    "key": "MKE_MCDONALD_SHERRICE_648447",
    "name": "Sherrice R McDonald",
@@ -540,7 +595,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795341454,
-   "photo": null
+   "photo": "photos/MKE_MCDONALD_SHERRICE_648447.jpg"
   },
   {
    "key": "MKE_PEREZ_DUSTIN_404614",
@@ -551,7 +606,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795339654,
-   "photo": null
+   "photo": "photos/MKE_PEREZ_DUSTIN_404614.jpg"
   },
   {
    "key": "HAHN_EMILY_2026-11-22",
@@ -617,7 +672,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795336049,
-   "photo": null
+   "photo": "photos/MKE_GERARD_DARRIEN_648446.jpg"
   },
   {
    "key": "MKE_MIKE_LARON_375325",
@@ -628,7 +683,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795334266,
-   "photo": null
+   "photo": "photos/MKE_MIKE_LARON_375325.jpg"
   },
   {
    "key": "MKE_WILLIAMS_TERANCE_379109",
@@ -636,10 +691,10 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Failure to Support",
+   "charge": "Charges Pending",
    "more": 1,
    "ts": 1795334264,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_TERANCE_379109.jpg"
   },
   {
    "key": "RC_WOODSVAUGHN_JUSTIN_120011076497710",
@@ -4391,17 +4446,6 @@
    "more": 0,
    "ts": 1795106873,
    "photo": "photos/RC_MARCOTTE_PETER_120011076422799.jpg"
-  },
-  {
-   "key": "LASTER_BOOKER_2026-11-19",
-   "name": "Booker T Laster",
-   "age": "50",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795104376,
-   "photo": null
   }
  ]
 }
