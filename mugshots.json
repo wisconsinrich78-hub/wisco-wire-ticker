@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T00:36:52+00:00",
+ "updated": "2026-11-22T00:49:30+00:00",
  "items": [
+  {
+   "key": "RC_MILLER_CARLY_120011076492690",
+   "name": "Carly A Miller",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795308474,
+   "photo": "photos/RC_MILLER_CARLY_120011076492690.jpg"
+  },
   {
    "key": "MKE_SHACKELFORD_ASHLEY_632383",
    "name": "Ashley Shantell Shackelford",
@@ -266,17 +277,6 @@
    "photo": "photos/MKE_VARNELL_ROBERT_648438.jpg"
   },
   {
-   "key": "MKE_CURRIN_LAVELLE_288835",
-   "name": "Lavelle D Currin",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795280268,
-   "photo": null
-  },
-  {
    "key": "FDL_SCHROEDER_JOSHUA_2026-11-21",
    "name": "Joshua Aaron Schroeder",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MILLER_CARLY_120011076492690",
+   "name": "Carly A Miller",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795308474,
+   "photo": "photos/RC_MILLER_CARLY_120011076492690.jpg"
+  },
   {
    "key": "MKE_SHACKELFORD_ASHLEY_632383",
    "name": "Ashley Shantell Shackelford",
