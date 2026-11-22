@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T18:44:39+00:00",
+ "updated": "2026-11-22T18:49:27+00:00",
  "items": [
+  {
+   "key": "RC_FOX_MORGAN_120011076508542",
+   "name": "Morgan Lee Fox",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795373295,
+   "photo": "photos/RC_FOX_MORGAN_120011076508542.jpg"
+  },
+  {
+   "key": "RC_FITZGIBBONS_RICHARD_120011076508564",
+   "name": "Richard M Fitzgibbons",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795373292,
+   "photo": "photos/RC_FITZGIBBONS_RICHARD_120011076508564.jpg"
+  },
+  {
+   "key": "RC_MARTZ_BILLY_120011076508579",
+   "name": "Billy Wayne Martz",
+   "age": "58",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795373289,
+   "photo": "photos/RC_MARTZ_BILLY_120011076508579.jpg"
+  },
+  {
+   "key": "RC_REAM_CHANTELL_120011076508664",
+   "name": "Chantell Patricia Ream",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 0,
+   "ts": 1795373286,
+   "photo": "photos/RC_REAM_CHANTELL_120011076508664.jpg"
+  },
   {
    "key": "MKE_ROGERS_ALVERIA_307404",
    "name": "Alveria Rogers",
@@ -200,28 +244,6 @@
    "photo": "photos/RC_FULCE_DESMOND_120011076501091.jpg"
   },
   {
-   "key": "RC_MARTINEZ_ALICIA_120011076504190",
-   "name": "Alicia Rae Martinez",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Hit and Run-Involve Injury",
-   "more": 0,
-   "ts": 1795366091,
-   "photo": "photos/RC_MARTINEZ_ALICIA_120011076504190.jpg"
-  },
-  {
-   "key": "RC_KING_CAMARION_120011076505451",
-   "name": "Camarion D King",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 0,
-   "ts": 1795366088,
-   "photo": "photos/RC_KING_CAMARION_120011076505451.jpg"
-  },
-  {
    "key": "TREM_HIBBARD_ANGELA_2414",
    "name": "Angela Marie Hibbard",
    "age": "41",
@@ -253,28 +275,6 @@
    "more": 0,
    "ts": 1795364821,
    "photo": null
-  },
-  {
-   "key": "MKE_HARRIS_LOVELL_258554",
-   "name": "Lovell Alexander Harris",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 1,
-   "ts": 1795363196,
-   "photo": "photos/MKE_HARRIS_LOVELL_258554.jpg"
-  },
-  {
-   "key": "MKE_HORTMAN_AJAYAH_307861",
-   "name": "Ajayah M Hortman",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795363194,
-   "photo": "photos/MKE_HORTMAN_AJAYAH_307861.jpg"
   },
   {
    "key": "HAHN_EMILY_2026-11-22",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FOX_MORGAN_120011076508542",
+   "name": "Morgan Lee Fox",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795373295,
+   "photo": "photos/RC_FOX_MORGAN_120011076508542.jpg"
+  },
+  {
+   "key": "RC_FITZGIBBONS_RICHARD_120011076508564",
+   "name": "Richard M Fitzgibbons",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795373292,
+   "photo": "photos/RC_FITZGIBBONS_RICHARD_120011076508564.jpg"
+  },
+  {
+   "key": "RC_MARTZ_BILLY_120011076508579",
+   "name": "Billy Wayne Martz",
+   "age": "58",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795373289,
+   "photo": "photos/RC_MARTZ_BILLY_120011076508579.jpg"
+  },
+  {
+   "key": "RC_REAM_CHANTELL_120011076508664",
+   "name": "Chantell Patricia Ream",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 0,
+   "ts": 1795373286,
+   "photo": "photos/RC_REAM_CHANTELL_120011076508664.jpg"
+  },
   {
    "key": "MKE_ROGERS_ALVERIA_307404",
    "name": "Alveria Rogers",
@@ -4523,72 +4567,6 @@
    "more": 0,
    "ts": 1795114406,
    "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19.jpg"
-  },
-  {
-   "key": "RC_LOPEZJUAREZ_JESUS_120011076425832",
-   "name": "Jesus Anthony Lopez Juarez",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
-   "more": 2,
-   "ts": 1795114097,
-   "photo": null
-  },
-  {
-   "key": "RC_WILLIAMS_JAMES_120011076425946",
-   "name": "James D Williams",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114094,
-   "photo": "photos/RC_WILLIAMS_JAMES_120011076425946.jpg"
-  },
-  {
-   "key": "RC_HORTH_GJUAN_120011076427197",
-   "name": "Gjuan Horth",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114090,
-   "photo": null
-  },
-  {
-   "key": "RC_BEARD_JOSEPH_120011076427254",
-   "name": "Joseph Beard",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1795114088,
-   "photo": null
-  },
-  {
-   "key": "RC_WILLAMS_SHAKQUIIE_120011076427384",
-   "name": "Shakquiie Willams",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114085,
-   "photo": null
-  },
-  {
-   "key": "RC_MAHAN_AMANII_120011076427488",
-   "name": "Amanii Mahan",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Department Of Corrections Hold",
-   "more": 0,
-   "ts": 1795114081,
-   "photo": null
   }
  ]
 }
