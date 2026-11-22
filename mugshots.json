@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-22T16:36:45+00:00",
+ "updated": "2026-11-22T16:49:28+00:00",
  "items": [
+  {
+   "key": "RC_RAMIREZMARTINEZ_BRIAN_120011076500957",
+   "name": "Brian M Ramirez-Martinez",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Criminal Damage To Property",
+   "more": 0,
+   "ts": 1795366096,
+   "photo": "photos/RC_RAMIREZMARTINEZ_BRIAN_120011076500957.jpg"
+  },
+  {
+   "key": "RC_FULCE_DESMOND_120011076501091",
+   "name": "Desmond Marqui Fulce",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 6,
+   "ts": 1795366093,
+   "photo": "photos/RC_FULCE_DESMOND_120011076501091.jpg"
+  },
+  {
+   "key": "RC_MARTINEZ_ALICIA_120011076504190",
+   "name": "Alicia Rae Martinez",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Hit and Run-Involve Injury",
+   "more": 0,
+   "ts": 1795366091,
+   "photo": "photos/RC_MARTINEZ_ALICIA_120011076504190.jpg"
+  },
+  {
+   "key": "RC_KING_CAMARION_120011076505451",
+   "name": "Camarion D King",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Misdemeanor Battery",
+   "more": 0,
+   "ts": 1795366088,
+   "photo": "photos/RC_KING_CAMARION_120011076505451.jpg"
+  },
+  {
+   "key": "TREM_HIBBARD_ANGELA_2414",
+   "name": "Angela Marie Hibbard",
+   "age": "41",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia-Methamphet.",
+   "more": 1,
+   "ts": 1795366034,
+   "photo": "photos/TREM_HIBBARD_ANGELA_2414.jpg"
+  },
+  {
+   "key": "TREM_SAMPLES_CHARLES_6221",
+   "name": "Charles Edward Samples",
+   "age": "56",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia-Methamphet.",
+   "more": 0,
+   "ts": 1795366032,
+   "photo": "photos/TREM_SAMPLES_CHARLES_6221.jpg"
+  },
   {
    "key": "FUNMAKER_DIXON_2026-11-22",
    "name": "Dixon Harry Funmaker",
@@ -178,39 +244,6 @@
    "photo": "photos/RC_WOODSVAUGHN_JUSTIN_120011076497710.jpg"
   },
   {
-   "key": "MKE_WILLIAMS_TERRANCE_379109",
-   "name": "Terrance T Williams",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 1,
-   "ts": 1795330657,
-   "photo": null
-  },
-  {
-   "key": "MKE_MURSAL_YUSUT_648445",
-   "name": "Yusut Mursal",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795330655,
-   "photo": "photos/MKE_MURSAL_YUSUT_648445.jpg"
-  },
-  {
-   "key": "RC_MATHEWS_MARSHAUN_120011076496759",
-   "name": "Marshaun Arron Mathews",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1795330076,
-   "photo": "photos/RC_MATHEWS_MARSHAUN_120011076496759.jpg"
-  },
-  {
    "key": "MAR_JAMA_MAHAD_2026-11-21_15857907",
    "name": "Mahad Abdiresaq Jama",
    "age": "38",
@@ -264,17 +297,6 @@
    "more": 0,
    "ts": 1795324583,
    "photo": "photos/FDL_LUND_RICHARD_2026-11-21.jpg"
-  },
-  {
-   "key": "MKE_SAMPLE_VANESSA_363201",
-   "name": "Vanessa Sample",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795323460,
-   "photo": "photos/MKE_SAMPLE_VANESSA_363201.jpg"
   },
   {
    "key": "MAR_JAMA_MAHAD_2026-11-21",
@@ -506,31 +528,75 @@
    "more": 0,
    "ts": 1795263384,
    "photo": "photos/FDL_ROEHL_ZACKARY_2026-11-21.jpg"
-  },
-  {
-   "key": "FDL_CONHARTOWSKI_ARTHUR_2026-11-21",
-   "name": "Arthur Joseph Conhartowski",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "OWI - 3rd Offense",
-   "more": 0,
-   "ts": 1795263361,
-   "photo": null
-  },
-  {
-   "key": "FDL_CONNELLYLOPEZ_SENORA_2026-11-21",
-   "name": "Senora Marie Connelly-Lopez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795259763,
-   "photo": "photos/FDL_CONNELLYLOPEZ_SENORA_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_RAMIREZMARTINEZ_BRIAN_120011076500957",
+   "name": "Brian M Ramirez-Martinez",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Criminal Damage To Property",
+   "more": 0,
+   "ts": 1795366096,
+   "photo": "photos/RC_RAMIREZMARTINEZ_BRIAN_120011076500957.jpg"
+  },
+  {
+   "key": "RC_FULCE_DESMOND_120011076501091",
+   "name": "Desmond Marqui Fulce",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 6,
+   "ts": 1795366093,
+   "photo": "photos/RC_FULCE_DESMOND_120011076501091.jpg"
+  },
+  {
+   "key": "RC_MARTINEZ_ALICIA_120011076504190",
+   "name": "Alicia Rae Martinez",
+   "age": "21",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Hit and Run-Involve Injury",
+   "more": 0,
+   "ts": 1795366091,
+   "photo": "photos/RC_MARTINEZ_ALICIA_120011076504190.jpg"
+  },
+  {
+   "key": "RC_KING_CAMARION_120011076505451",
+   "name": "Camarion D King",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Misdemeanor Battery",
+   "more": 0,
+   "ts": 1795366088,
+   "photo": "photos/RC_KING_CAMARION_120011076505451.jpg"
+  },
+  {
+   "key": "TREM_HIBBARD_ANGELA_2414",
+   "name": "Angela Marie Hibbard",
+   "age": "41",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia-Methamphet.",
+   "more": 1,
+   "ts": 1795366034,
+   "photo": "photos/TREM_HIBBARD_ANGELA_2414.jpg"
+  },
+  {
+   "key": "TREM_SAMPLES_CHARLES_6221",
+   "name": "Charles Edward Samples",
+   "age": "56",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Possess Drug Paraphernalia-Methamphet.",
+   "more": 0,
+   "ts": 1795366032,
+   "photo": "photos/TREM_SAMPLES_CHARLES_6221.jpg"
+  },
   {
    "key": "FUNMAKER_DIXON_2026-11-22",
    "name": "Dixon Harry Funmaker",
@@ -4321,7 +4387,7 @@
    "age": "31",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Department Of Corrections Hold",
    "more": 0,
    "ts": 1795114088,
    "photo": null
@@ -4413,39 +4479,6 @@
    "more": 0,
    "ts": 1795109222,
    "photo": null
-  },
-  {
-   "key": "RC_GONZALEZ_MARCOS_120011076420180",
-   "name": "Marcos E Gonzalez",
-   "age": "52",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating Without a License - 3rd or Subsequent Offense within 3 Years",
-   "more": 0,
-   "ts": 1795106878,
-   "photo": "photos/RC_GONZALEZ_MARCOS_120011076420180.jpg"
-  },
-  {
-   "key": "RC_GAZDECKI_GREGORY_120011076420375",
-   "name": "Gregory Michael Gazdecki",
-   "age": "55",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence (3rd)",
-   "more": 0,
-   "ts": 1795106876,
-   "photo": "photos/RC_GAZDECKI_GREGORY_120011076420375.jpg"
-  },
-  {
-   "key": "RC_MARCOTTE_PETER_120011076422799",
-   "name": "Peter M Marcotte",
-   "age": "61",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence (3rd)",
-   "more": 0,
-   "ts": 1795106873,
-   "photo": "photos/RC_MARCOTTE_PETER_120011076422799.jpg"
   }
  ]
 }
