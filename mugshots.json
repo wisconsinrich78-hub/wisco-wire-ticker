@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22T05:36:03+00:00",
+ "updated": "2026-11-22T05:49:32+00:00",
  "items": [
+  {
+   "key": "MADISON_STEPHANIE_2026-11-21",
+   "name": "Stephanie K Madison",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795326428,
+   "photo": null
+  },
+  {
+   "key": "MASSIE_MATTHEW_2026-11-21",
+   "name": "Matthew J Massie",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795326428,
+   "photo": null
+  },
   {
    "key": "FDL_MARRO_MATTHEW_2026-11-21",
    "name": "Matthew Edward Marro",
@@ -506,31 +528,31 @@
    "more": 5,
    "ts": 1795241809,
    "photo": "photos/DOU_HARDEE_CLINTON_2026-11-20.jpg"
-  },
-  {
-   "key": "FDL_RIVERAALVARADO_ARIEL_2026-11-20",
-   "name": "Ariel Antonio Rivera Alvarado",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795241788,
-   "photo": "photos/FDL_RIVERAALVARADO_ARIEL_2026-11-20.jpg"
-  },
-  {
-   "key": "STORMAN_ROBERTDANIEL_2026-11-20",
-   "name": "Robert Daniel Khashoggi Storman",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Out of County Warrant",
-   "more": 1,
-   "ts": 1795240029,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MADISON_STEPHANIE_2026-11-21",
+   "name": "Stephanie K Madison",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795326428,
+   "photo": null
+  },
+  {
+   "key": "MASSIE_MATTHEW_2026-11-21",
+   "name": "Matthew J Massie",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795326428,
+   "photo": null
+  },
   {
    "key": "FDL_MARRO_MATTHEW_2026-11-21",
    "name": "Matthew Edward Marro",
