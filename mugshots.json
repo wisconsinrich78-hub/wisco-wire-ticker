@@ -1,14 +1,80 @@
 {
- "updated": "2026-11-22T16:58:59+00:00",
+ "updated": "2026-11-22T17:49:28+00:00",
  "items": [
+  {
+   "key": "KEN_SERRANOTRUJILLO_JESUS_2026-00006453",
+   "name": "Jesus David Serrano-Trujillo",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid D/L",
+   "more": 3,
+   "ts": 1795367278,
+   "photo": "photos/KEN_SERRANOTRUJILLO_JESUS_2026-00006453.jpg"
+  },
+  {
+   "key": "KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006455",
+   "name": "Maikoh Jose Martinez-Martinez",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct (Elder Person Victim)",
+   "more": 1,
+   "ts": 1795367200,
+   "photo": "photos/KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006455.jpg"
+  },
+  {
+   "key": "KEN_KRATOVIL_MAKAYLIN_2026-00006454",
+   "name": "Makaylin Nicole Kratovil",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Causing Bodily Harm by Reckless Driving",
+   "more": 2,
+   "ts": 1795367118,
+   "photo": "photos/KEN_KRATOVIL_MAKAYLIN_2026-00006454.jpg"
+  },
+  {
+   "key": "KEN_HARRIS_DORIAN_2026-00006457",
+   "name": "Dorian Lamont Harris",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Retail Theft-Intentionally Take (<=$500)",
+   "more": 3,
+   "ts": 1795367045,
+   "photo": "photos/KEN_HARRIS_DORIAN_2026-00006457.jpg"
+  },
+  {
+   "key": "KEN_GARCIA_MIGUEL_2026-00006452",
+   "name": "Miguel Angel Garcia",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 0,
+   "ts": 1795366931,
+   "photo": "photos/KEN_GARCIA_MIGUEL_2026-00006452.jpg"
+  },
+  {
+   "key": "KEN_FORD_TREMAR_2026-00006458",
+   "name": "Tremar Latwoine Ford",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795366862,
+   "photo": "photos/KEN_FORD_TREMAR_2026-00006458.jpg"
+  },
   {
    "key": "MKE_SOTO_JONATHAN_648449",
    "name": "Jonathan Soto",
    "age": "38",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1795366654,
    "photo": null
   },
@@ -167,17 +233,6 @@
    "photo": "photos/MKE_MCDONALD_SHERRICE_648447.jpg"
   },
   {
-   "key": "MKE_PEREZ_DUSTIN_404614",
-   "name": "Dustin G Perez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795339654,
-   "photo": "photos/MKE_PEREZ_DUSTIN_404614.jpg"
-  },
-  {
    "key": "HAHN_EMILY_2026-11-22",
    "name": "Emily N Hahn",
    "age": "22",
@@ -200,28 +255,6 @@
    "photo": "photos/DOU_BROWN_JEREMY_2026-11-22.jpg"
   },
   {
-   "key": "RC_BLOCK_FORREST_120011076498405",
-   "name": "Forrest G Block",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Terrorist Threats",
-   "more": 1,
-   "ts": 1795337274,
-   "photo": "photos/RC_BLOCK_FORREST_120011076498405.jpg"
-  },
-  {
-   "key": "RC_RODRIGUEZ_JESUS_120011076498757",
-   "name": "Jesus R Rodriguez",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence",
-   "more": 1,
-   "ts": 1795337272,
-   "photo": null
-  },
-  {
    "key": "MUNYON_MIRIAH_2026-11-22",
    "name": "Miriah Ann Munyon",
    "age": "35",
@@ -231,39 +264,6 @@
    "more": 0,
    "ts": 1795337224,
    "photo": null
-  },
-  {
-   "key": "MKE_GERARD_DARRIEN_648446",
-   "name": "Darrien Jon Gerard",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795336049,
-   "photo": "photos/MKE_GERARD_DARRIEN_648446.jpg"
-  },
-  {
-   "key": "MKE_MIKE_LARON_375325",
-   "name": "Laron Nmi Mike",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795334266,
-   "photo": "photos/MKE_MIKE_LARON_375325.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_TERANCE_379109",
-   "name": "Terance T Williams",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795334264,
-   "photo": "photos/MKE_WILLIAMS_TERANCE_379109.jpg"
   },
   {
    "key": "MAR_JAMA_MAHAD_2026-11-21_15857907",
@@ -532,13 +532,79 @@
  ],
  "all_items": [
   {
+   "key": "KEN_SERRANOTRUJILLO_JESUS_2026-00006453",
+   "name": "Jesus David Serrano-Trujillo",
+   "age": "26",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid D/L",
+   "more": 3,
+   "ts": 1795367278,
+   "photo": "photos/KEN_SERRANOTRUJILLO_JESUS_2026-00006453.jpg"
+  },
+  {
+   "key": "KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006455",
+   "name": "Maikoh Jose Martinez-Martinez",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct (Elder Person Victim)",
+   "more": 1,
+   "ts": 1795367200,
+   "photo": "photos/KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006455.jpg"
+  },
+  {
+   "key": "KEN_KRATOVIL_MAKAYLIN_2026-00006454",
+   "name": "Makaylin Nicole Kratovil",
+   "age": "18",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Causing Bodily Harm by Reckless Driving",
+   "more": 2,
+   "ts": 1795367118,
+   "photo": "photos/KEN_KRATOVIL_MAKAYLIN_2026-00006454.jpg"
+  },
+  {
+   "key": "KEN_HARRIS_DORIAN_2026-00006457",
+   "name": "Dorian Lamont Harris",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Retail Theft-Intentionally Take (<=$500)",
+   "more": 3,
+   "ts": 1795367045,
+   "photo": "photos/KEN_HARRIS_DORIAN_2026-00006457.jpg"
+  },
+  {
+   "key": "KEN_GARCIA_MIGUEL_2026-00006452",
+   "name": "Miguel Angel Garcia",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Contempt of Court - Disobey Order",
+   "more": 0,
+   "ts": 1795366931,
+   "photo": "photos/KEN_GARCIA_MIGUEL_2026-00006452.jpg"
+  },
+  {
+   "key": "KEN_FORD_TREMAR_2026-00006458",
+   "name": "Tremar Latwoine Ford",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795366862,
+   "photo": "photos/KEN_FORD_TREMAR_2026-00006458.jpg"
+  },
+  {
    "key": "MKE_SOTO_JONATHAN_648449",
    "name": "Jonathan Soto",
    "age": "38",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 3,
    "ts": 1795366654,
    "photo": null
   },
@@ -3144,8 +3210,8 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
+   "charge": "Domestic Abuse Surcharges",
+   "more": 5,
    "ts": 1795172278,
    "photo": "photos/MKE_STEWART_RALPH_303906.jpg"
   },
@@ -4112,8 +4178,8 @@
    "age": "44",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Criminal Damage To Property",
+   "more": 1,
    "ts": 1795121280,
    "photo": "photos/RC_KNOTEK_MICHAEL_120011076432125.jpg"
   },
@@ -4490,28 +4556,6 @@
    "more": 0,
    "ts": 1795110812,
    "photo": "photos/MAR_THAO_JAMES_2026-11-19.jpg"
-  },
-  {
-   "key": "BENKA_EDWARD_2026-11-19",
-   "name": "Edward J Benka",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795109223,
-   "photo": null
-  },
-  {
-   "key": "BALDWIN_CHRISTOPHER_2026-11-19",
-   "name": "Christopher N Baldwin",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795109222,
-   "photo": null
   }
  ]
 }
