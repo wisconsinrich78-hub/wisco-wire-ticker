@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22T02:01:15+00:00",
+ "updated": "2026-11-22T02:36:23+00:00",
  "items": [
+  {
+   "key": "MKE_TREADWAY_DARONTE_505776",
+   "name": "Daronte T Treadway",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-THC (<=200 grams)",
+   "more": 4,
+   "ts": 1795314454,
+   "photo": null
+  },
+  {
+   "key": "MKE_CERTION_AMIR_645888",
+   "name": "Amir T Certion",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 1,
+   "ts": 1795314453,
+   "photo": null
+  },
   {
    "key": "MKE_LEONARD_KALEYAMARIE_648443",
    "name": "Kaleya Marie Neveah Leonard",
@@ -43,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795307269,
-   "photo": null
+   "photo": "photos/MKE_SHACKELFORD_ASHLEY_632383.jpg"
   },
   {
    "key": "MKE_HIGGINS_NATASHJA_648440",
@@ -65,7 +87,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795307264,
-   "photo": null
+   "photo": "photos/MKE_GARCIAGAMBOA_JACINTO_648441.jpg"
   },
   {
    "key": "MKE_DUPRIESTWILLIAMS_LATASHA_648442",
@@ -87,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795303657,
-   "photo": null
+   "photo": "photos/MKE_SCHARPF_RONALD_646734.jpg"
   },
   {
    "key": "FDL_BUSHNELL_THOMAS_2026-11-21",
@@ -109,7 +131,7 @@
    "charge": "Theft-Movable Property <=$2500",
    "more": 2,
    "ts": 1795301855,
-   "photo": null
+   "photo": "photos/MKE_WATSON_DAEJON_607219.jpg"
   },
   {
    "key": "MKE_MATTHEWS_DESHON_298399",
@@ -117,10 +139,10 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Second/Subsequent Drug Offense",
+   "charge": "Charges Pending",
    "more": 18,
    "ts": 1795298256,
-   "photo": null
+   "photo": "photos/MKE_MATTHEWS_DESHON_298399.jpg"
   },
   {
    "key": "MKE_HIGGINS_NATASHIA_648440",
@@ -233,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "RC_DAWSON_BRANDON_120011076488092",
-   "name": "Brandon Lemor Dawson",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Intimidate Victim/Threaten Force, etc.",
-   "more": 2,
-   "ts": 1795286894,
-   "photo": "photos/RC_DAWSON_BRANDON_120011076488092.jpg"
-  },
-  {
    "key": "DOU_WILKINS_JAVANNI_2026-11-21",
    "name": "Javanni A Wilkins",
    "age": "22",
@@ -253,17 +264,6 @@
    "more": 1,
    "ts": 1795285841,
    "photo": "photos/DOU_WILKINS_JAVANNI_2026-11-21.jpg"
-  },
-  {
-   "key": "MKE_TURNER_MICHAEL_639514",
-   "name": "Michael Turner",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795285657,
-   "photo": "photos/MKE_TURNER_MICHAEL_639514.jpg"
   },
   {
    "key": "HOU_CAGLE_KEVINCHARLES_6337",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_TREADWAY_DARONTE_505776",
+   "name": "Daronte T Treadway",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/Intent-THC (<=200 grams)",
+   "more": 4,
+   "ts": 1795314454,
+   "photo": null
+  },
+  {
+   "key": "MKE_CERTION_AMIR_645888",
+   "name": "Amir T Certion",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 1,
+   "ts": 1795314453,
+   "photo": null
+  },
+  {
    "key": "MKE_LEONARD_KALEYAMARIE_648443",
    "name": "Kaleya Marie Neveah Leonard",
    "age": "22",
@@ -573,7 +595,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795307269,
-   "photo": null
+   "photo": "photos/MKE_SHACKELFORD_ASHLEY_632383.jpg"
   },
   {
    "key": "MKE_HIGGINS_NATASHJA_648440",
@@ -595,7 +617,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795307264,
-   "photo": null
+   "photo": "photos/MKE_GARCIAGAMBOA_JACINTO_648441.jpg"
   },
   {
    "key": "MKE_DUPRIESTWILLIAMS_LATASHA_648442",
@@ -617,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795303657,
-   "photo": null
+   "photo": "photos/MKE_SCHARPF_RONALD_646734.jpg"
   },
   {
    "key": "FDL_BUSHNELL_THOMAS_2026-11-21",
@@ -639,7 +661,7 @@
    "charge": "Theft-Movable Property <=$2500",
    "more": 2,
    "ts": 1795301855,
-   "photo": null
+   "photo": "photos/MKE_WATSON_DAEJON_607219.jpg"
   },
   {
    "key": "MKE_MATTHEWS_DESHON_298399",
@@ -647,10 +669,10 @@
    "age": "37",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Second/Subsequent Drug Offense",
+   "charge": "Charges Pending",
    "more": 18,
    "ts": 1795298256,
-   "photo": null
+   "photo": "photos/MKE_MATTHEWS_DESHON_298399.jpg"
   },
   {
    "key": "MKE_HIGGINS_NATASHIA_648440",
