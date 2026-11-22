@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T18:49:27+00:00",
+ "updated": "2026-11-22T19:03:50+00:00",
  "items": [
+  {
+   "key": "MKE_RANDOLPH_JACQUES_397325",
+   "name": "Jacques Ferrod. Randolph",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795373860,
+   "photo": null
+  },
+  {
+   "key": "MKE_FAJARDOMARTINEZ_RAUL_399586",
+   "name": "Raul Edurardo Fajardo-martinez",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795373857,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHEELY_CHARIANNA_648451",
+   "name": "Charianna N Cheely",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795373856,
+   "photo": null
+  },
+  {
+   "key": "MAR_MCDUFFY_DION_2026-11-22",
+   "name": "Dion Dwight Mcduffy",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Assault by Prisoners-Confines/Restrains",
+   "more": 9,
+   "ts": 1795373604,
+   "photo": "photos/MAR_MCDUFFY_DION_2026-11-22.jpg"
+  },
   {
    "key": "RC_FOX_MORGAN_120011076508542",
    "name": "Morgan Lee Fox",
@@ -65,7 +109,7 @@
    "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 0,
    "ts": 1795372047,
-   "photo": null
+   "photo": "photos/MKE_ARMSTRONG_DEMETRIUS_360474.jpg"
   },
   {
    "key": "MKE_MHANDO_MUYA_648450",
@@ -189,17 +233,6 @@
    "photo": "photos/KEN_FORD_TREMAR_2026-00006458.jpg"
   },
   {
-   "key": "MKE_SOTO_JONATHAN_648449",
-   "name": "Jonathan Soto",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795366654,
-   "photo": null
-  },
-  {
    "key": "MAR_KIBLER_MALIEK_2026-11-21",
    "name": "Maliek Jackson Kibler",
    "age": "28",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1795366519,
    "photo": "photos/MAR_BESSETTE_AMANDA_2026-11-22.jpg"
-  },
-  {
-   "key": "RC_RAMIREZMARTINEZ_BRIAN_120011076500957",
-   "name": "Brian M Ramirez-Martinez",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 0,
-   "ts": 1795366096,
-   "photo": "photos/RC_RAMIREZMARTINEZ_BRIAN_120011076500957.jpg"
-  },
-  {
-   "key": "RC_FULCE_DESMOND_120011076501091",
-   "name": "Desmond Marqui Fulce",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 6,
-   "ts": 1795366093,
-   "photo": "photos/RC_FULCE_DESMOND_120011076501091.jpg"
   },
   {
    "key": "TREM_HIBBARD_ANGELA_2414",
@@ -508,17 +519,6 @@
    "photo": null
   },
   {
-   "key": "DOU_WILKINS_JAVANNI_2026-11-21",
-   "name": "Javanni A Wilkins",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795285841,
-   "photo": "photos/DOU_WILKINS_JAVANNI_2026-11-21.jpg"
-  },
-  {
    "key": "HOU_CAGLE_KEVINCHARLES_6337",
    "name": "Kevin Charles Cagle",
    "age": "44",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_RANDOLPH_JACQUES_397325",
+   "name": "Jacques Ferrod. Randolph",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795373860,
+   "photo": null
+  },
+  {
+   "key": "MKE_FAJARDOMARTINEZ_RAUL_399586",
+   "name": "Raul Edurardo Fajardo-martinez",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795373857,
+   "photo": null
+  },
+  {
+   "key": "MKE_CHEELY_CHARIANNA_648451",
+   "name": "Charianna N Cheely",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795373856,
+   "photo": null
+  },
+  {
+   "key": "MAR_MCDUFFY_DION_2026-11-22",
+   "name": "Dion Dwight Mcduffy",
+   "age": "31",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Assault by Prisoners-Confines/Restrains",
+   "more": 9,
+   "ts": 1795373604,
+   "photo": "photos/MAR_MCDUFFY_DION_2026-11-22.jpg"
+  },
   {
    "key": "RC_FOX_MORGAN_120011076508542",
    "name": "Morgan Lee Fox",
@@ -595,7 +639,7 @@
    "charge": "Child Abuse-Intentionally Cause Harm",
    "more": 0,
    "ts": 1795372047,
-   "photo": null
+   "photo": "photos/MKE_ARMSTRONG_DEMETRIUS_360474.jpg"
   },
   {
    "key": "MKE_MHANDO_MUYA_648450",
@@ -4501,72 +4545,6 @@
    "more": 0,
    "ts": 1795115774,
    "photo": "photos/FDL_HAYS_SAMANTHA_2026-11-19.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_TYVON_541431",
-   "name": "Tyvon Deshawn Williams",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114693,
-   "photo": "photos/MKE_WILLIAMS_TYVON_541431.jpg"
-  },
-  {
-   "key": "MKE_CHABBOUTH_IHEB_648396",
-   "name": "Iheb Chabbouth",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795114690,
-   "photo": "photos/MKE_CHABBOUTH_IHEB_648396.jpg"
-  },
-  {
-   "key": "MKE_QUINONES_TYLER_2053823",
-   "name": "Tyler Jake Quinones",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1795114687,
-   "photo": "photos/MKE_QUINONES_TYLER_2053823.jpg"
-  },
-  {
-   "key": "MAR_WARD_VILAS_2026-11-19",
-   "name": "Vilas William Ward",
-   "age": "56",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Stalking",
-   "more": 1,
-   "ts": 1795114472,
-   "photo": "photos/MAR_WARD_VILAS_2026-11-19.jpg"
-  },
-  {
-   "key": "MAR_MOCK_ANDREW_2026-11-19",
-   "name": "Andrew Neal Mock",
-   "age": "37",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Violate Order/Contempt of Court",
-   "more": 0,
-   "ts": 1795114440,
-   "photo": "photos/MAR_MOCK_ANDREW_2026-11-19.jpg"
-  },
-  {
-   "key": "MAR_CANTRELL_DAVID_2026-11-19",
-   "name": "David Lee Cantrell",
-   "age": "52",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 3rd",
-   "more": 0,
-   "ts": 1795114406,
-   "photo": "photos/MAR_CANTRELL_DAVID_2026-11-19.jpg"
   }
  ]
 }
