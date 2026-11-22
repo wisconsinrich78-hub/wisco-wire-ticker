@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T21:39:45+00:00",
+ "updated": "2026-11-22T21:49:28+00:00",
  "items": [
+  {
+   "key": "LEMKE_DAVID_2026-11-22",
+   "name": "David S Lemke",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795384027,
+   "photo": null
+  },
   {
    "key": "MKE_CHAMBERS_MYIESHA_384532",
    "name": "Myiesha M Chambers",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795295809,
    "photo": "photos/DOU_CROWE_WENDELL_2026-11-21.jpg"
-  },
-  {
-   "key": "FDL_DOMMISSE_CARRESSA_2026-11-21",
-   "name": "Carressa Rose Dommisse",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795292175,
-   "photo": "photos/FDL_DOMMISSE_CARRESSA_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "LEMKE_DAVID_2026-11-22",
+   "name": "David S Lemke",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795384027,
+   "photo": null
+  },
   {
    "key": "MKE_CHAMBERS_MYIESHA_384532",
    "name": "Myiesha M Chambers",
