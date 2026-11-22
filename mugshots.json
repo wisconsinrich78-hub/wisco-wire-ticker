@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T07:38:04+00:00",
+ "updated": "2026-11-22T07:49:25+00:00",
  "items": [
+  {
+   "key": "RC_WOODSVAUGHN_JUSTIN_120011076497710",
+   "name": "Justin Woods- Vaughn",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795333674,
+   "photo": "photos/RC_WOODSVAUGHN_JUSTIN_120011076497710.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_TERRANCE_379109",
    "name": "Terrance T Williams",
@@ -288,17 +299,6 @@
    "photo": "photos/MKE_SHACKELFORD_ASHLEY_632383.jpg"
   },
   {
-   "key": "MKE_HIGGINS_NATASHJA_648440",
-   "name": "Natashja Higgins",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Business Setting >$2500-$5000",
-   "more": 0,
-   "ts": 1795307267,
-   "photo": "photos/MKE_HIGGINS_NATASHJA_648440.jpg"
-  },
-  {
    "key": "FDL_BUSHNELL_THOMAS_2026-11-21",
    "name": "Thomas M Bushnell",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WOODSVAUGHN_JUSTIN_120011076497710",
+   "name": "Justin Woods- Vaughn",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795333674,
+   "photo": "photos/RC_WOODSVAUGHN_JUSTIN_120011076497710.jpg"
+  },
   {
    "key": "MKE_WILLIAMS_TERRANCE_379109",
    "name": "Terrance T Williams",
@@ -4600,17 +4611,6 @@
    "more": 0,
    "ts": 1795075043,
    "photo": "photos/MKE_HUGHES_CHANCEY_648390.jpg"
-  },
-  {
-   "key": "RC_TOTES_DAVID_120011076410933",
-   "name": "David Kevin Totes",
-   "age": "57",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795074464,
-   "photo": "photos/RC_TOTES_DAVID_120011076410933.jpg"
   }
  ]
 }
