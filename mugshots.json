@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-23T17:08:10+00:00",
+ "updated": "2026-11-23T17:49:29+00:00",
  "items": [
+  {
+   "key": "RC_KRESKEN_KYLE_120011076537912",
+   "name": "Kyle J Kresken",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795456086,
+   "photo": "photos/RC_KRESKEN_KYLE_120011076537912.jpg"
+  },
+  {
+   "key": "RC_ZAMORA_ROMELLO_120011076538159",
+   "name": "Romello C Zamora",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795456083,
+   "photo": null
+  },
+  {
+   "key": "FDL_KIEFNER_ROBIN_2026-11-23",
+   "name": "Robin Lyn Kiefner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795454182,
+   "photo": "photos/FDL_KIEFNER_ROBIN_2026-11-23.jpg"
+  },
+  {
+   "key": "MAR_VALDEZ_MATTHEW_2026-11-23",
+   "name": "Matthew Roland Valdez",
+   "age": "61",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ of Habeas Corpus",
+   "more": 0,
+   "ts": 1795453680,
+   "photo": "photos/MAR_VALDEZ_MATTHEW_2026-11-23.jpg"
+  },
   {
    "key": "KEN_SHOLAR_CHARLES_2026-00006468",
    "name": "Charles Stacey Sholar",
@@ -186,28 +230,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795451256,
-   "photo": null
-  },
-  {
-   "key": "MKE_LAWLERLEONARDELLI_CHRISTOPHER_648461",
-   "name": "Christopher L Lawler Leonardelli",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795451254,
-   "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_ALEXIS_648462",
-   "name": "Alexis M Williams",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1795451253,
    "photo": null
   },
   {
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1795384027,
    "photo": null
-  },
-  {
-   "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22",
-   "name": "Miguel Angel Blandino Castillo",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 1st",
-   "more": 1,
-   "ts": 1795380812,
-   "photo": null
-  },
-  {
-   "key": "FDL_BILLUPS_JOSEPH_2026-11-22",
-   "name": "Joseph David Billups",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795378564,
-   "photo": "photos/FDL_BILLUPS_JOSEPH_2026-11-22.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_KRESKEN_KYLE_120011076537912",
+   "name": "Kyle J Kresken",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795456086,
+   "photo": "photos/RC_KRESKEN_KYLE_120011076537912.jpg"
+  },
+  {
+   "key": "RC_ZAMORA_ROMELLO_120011076538159",
+   "name": "Romello C Zamora",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795456083,
+   "photo": null
+  },
+  {
+   "key": "FDL_KIEFNER_ROBIN_2026-11-23",
+   "name": "Robin Lyn Kiefner",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795454182,
+   "photo": "photos/FDL_KIEFNER_ROBIN_2026-11-23.jpg"
+  },
+  {
+   "key": "MAR_VALDEZ_MATTHEW_2026-11-23",
+   "name": "Matthew Roland Valdez",
+   "age": "61",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ of Habeas Corpus",
+   "more": 0,
+   "ts": 1795453680,
+   "photo": "photos/MAR_VALDEZ_MATTHEW_2026-11-23.jpg"
+  },
   {
    "key": "KEN_SHOLAR_CHARLES_2026-00006468",
    "name": "Charles Stacey Sholar",
@@ -2209,8 +2253,8 @@
    "age": "40",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
+   "charge": "OWI (2nd w/ Passenger < 16 Yrs Old)",
+   "more": 7,
    "ts": 1795323460,
    "photo": "photos/MKE_SAMPLE_VANESSA_363201.jpg"
   },
@@ -4105,61 +4149,6 @@
    "more": 1,
    "ts": 1795198570,
    "photo": "photos/FDL_FUNK_MARK_2026-11-20.jpg"
-  },
-  {
-   "key": "RC_WYSKOCHIL_JODY_120011076459649",
-   "name": "Jody John Wyskochil",
-   "age": "53",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795196889,
-   "photo": "photos/RC_WYSKOCHIL_JODY_120011076459649.jpg"
-  },
-  {
-   "key": "RC_RAKOWSKI_THOMAS_120011076460582",
-   "name": "Thomas Bennedict Rakowski",
-   "age": "66",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795196886,
-   "photo": null
-  },
-  {
-   "key": "MKE_SINIARD_NICHOLAS_527701",
-   "name": "Nicholas Ryan Siniard",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795195649,
-   "photo": "photos/MKE_SINIARD_NICHOLAS_527701.jpg"
-  },
-  {
-   "key": "MKE_LEWIS_JAMAL_648421",
-   "name": "Jamal J Lewis",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795195647,
-   "photo": "photos/MKE_LEWIS_JAMAL_648421.jpg"
-  },
-  {
-   "key": "MKE_MOORE_ASHANTI_648422",
-   "name": "Ashanti N Moore",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795195646,
-   "photo": "photos/MKE_MOORE_ASHANTI_648422.jpg"
   }
  ]
 }
