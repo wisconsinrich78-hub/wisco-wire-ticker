@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-23T21:50:01+00:00",
+ "updated": "2026-11-23T22:02:50+00:00",
  "items": [
+  {
+   "key": "MKE_HAMILTON_GREGORY_285503",
+   "name": "Gregory Antione Hamilton",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Felony Murder-Armed Robbery",
+   "more": 1,
+   "ts": 1795471058,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMPSON_DEREK_299143",
+   "name": "Derek Tyrone Thompson",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 1,
+   "ts": 1795471056,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_MARK_412012",
+   "name": "Mark Carter",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1795471053,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOBLEY_QUAMAINE_626328",
+   "name": "Quamaine J Mobley",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795471051,
+   "photo": null
+  },
+  {
+   "key": "NEISIUS_NOAH_2026-11-23",
+   "name": "Noah A Neisius",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out of County Warrant",
+   "more": 0,
+   "ts": 1795471021,
+   "photo": null
+  },
   {
    "key": "LEMAGNES_LAZARO_2026-11-23",
    "name": "Lazaro J Lemagnes",
@@ -117,7 +172,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property (Over $2500)",
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
    "more": 13,
    "ts": 1795460259,
    "photo": null
@@ -200,28 +255,6 @@
    "photo": "photos/MAR_ZIEGEL_ALLAN_2026-11-23_1774513.jpg"
   },
   {
-   "key": "RC_KRESKEN_KYLE_120011076537912",
-   "name": "Kyle J Kresken",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 3,
-   "ts": 1795456086,
-   "photo": "photos/RC_KRESKEN_KYLE_120011076537912.jpg"
-  },
-  {
-   "key": "RC_ZAMORA_ROMELLO_120011076538159",
-   "name": "Romello C Zamora",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795456083,
-   "photo": null
-  },
-  {
    "key": "FDL_KIEFNER_ROBIN_2026-11-23",
    "name": "Robin Lyn Kiefner",
    "age": "",
@@ -242,28 +275,6 @@
    "more": 0,
    "ts": 1795453680,
    "photo": "photos/MAR_VALDEZ_MATTHEW_2026-11-23.jpg"
-  },
-  {
-   "key": "KEN_SHOLAR_CHARLES_2026-00006468",
-   "name": "Charles Stacey Sholar",
-   "age": "61",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795453511,
-   "photo": "photos/KEN_SHOLAR_CHARLES_2026-00006468.jpg"
-  },
-  {
-   "key": "KEN_SAMONIG_JASON_2026-00006471",
-   "name": "Jason Alan Samonig",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 2,
-   "ts": 1795453423,
-   "photo": "photos/KEN_SAMONIG_JASON_2026-00006471.jpg"
   },
   {
    "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
@@ -517,20 +528,64 @@
    "more": 2,
    "ts": 1795391822,
    "photo": null
-  },
-  {
-   "key": "MAR_WAYMIRE_TAYLOR_2026-11-22",
-   "name": "Taylor Terese Waymire",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795391615,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HAMILTON_GREGORY_285503",
+   "name": "Gregory Antione Hamilton",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Felony Murder-Armed Robbery",
+   "more": 1,
+   "ts": 1795471058,
+   "photo": null
+  },
+  {
+   "key": "MKE_THOMPSON_DEREK_299143",
+   "name": "Derek Tyrone Thompson",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 1,
+   "ts": 1795471056,
+   "photo": null
+  },
+  {
+   "key": "MKE_CARTER_MARK_412012",
+   "name": "Mark Carter",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (4th)",
+   "more": 0,
+   "ts": 1795471053,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOBLEY_QUAMAINE_626328",
+   "name": "Quamaine J Mobley",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795471051,
+   "photo": null
+  },
+  {
+   "key": "NEISIUS_NOAH_2026-11-23",
+   "name": "Noah A Neisius",
+   "age": "31",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Out of County Warrant",
+   "more": 0,
+   "ts": 1795471021,
+   "photo": null
+  },
   {
    "key": "LEMAGNES_LAZARO_2026-11-23",
    "name": "Lazaro J Lemagnes",
@@ -647,7 +702,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property (Over $2500)",
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
    "more": 13,
    "ts": 1795460259,
    "photo": null
@@ -1681,8 +1736,8 @@
    "age": "36",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 2,
    "ts": 1795384652,
    "photo": "photos/MKE_FIELDS_XAVIER_416285.jpg"
   },
@@ -4006,50 +4061,6 @@
    "more": 3,
    "ts": 1795213622,
    "photo": null
-  },
-  {
-   "key": "MKE_MCELROY_DARIUS_535609",
-   "name": "Darius Jaquan Mcelroy",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 2,
-   "ts": 1795211859,
-   "photo": "photos/MKE_MCELROY_DARIUS_535609.jpg"
-  },
-  {
-   "key": "MKE_CATHEY_KASHWON_613645",
-   "name": "Kashwon Connel Cathey",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 1,
-   "ts": 1795211857,
-   "photo": "photos/MKE_CATHEY_KASHWON_613645.jpg"
-  },
-  {
-   "key": "MKE_KUKLINSKI_KIMBERLY_637487",
-   "name": "Kimberly Therese Kuklinski",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 3,
-   "ts": 1795211855,
-   "photo": "photos/MKE_KUKLINSKI_KIMBERLY_637487.jpg"
-  },
-  {
-   "key": "MKE_ERICKSON_JUSTIN_643367",
-   "name": "Justin D Erickson",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 4,
-   "ts": 1795211854,
-   "photo": "photos/MKE_ERICKSON_JUSTIN_643367.jpg"
   }
  ]
 }
