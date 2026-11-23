@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-23T23:02:22+00:00",
+ "updated": "2026-11-23T23:42:59+00:00",
  "items": [
+  {
+   "key": "MKE_GALINDO_MARIO_289212",
+   "name": "Mario Albert Galindo",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 2,
+   "ts": 1795476508,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCOTT_KELLY_310010",
+   "name": "Kelly Scott",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 7,
+   "ts": 1795476506,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEPHENS_IDYANNA_620628",
+   "name": "Idyanna Monae Stephens",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1795476503,
+   "photo": null
+  },
+  {
+   "key": "MKE_RODRIGUEZ_MARIA_648470",
+   "name": "Maria Nathalin Rodriguez",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795476502,
+   "photo": null
+  },
   {
    "key": "MKE_KLECKLEY_ROMAINE_371977",
    "name": "Romaine Orlando Kleckley",
@@ -211,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "RC_PRINCIPATOSCHULTZ_CHRISTINA_120011076544416",
-   "name": "Christina Principato-Schultz",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795466879,
-   "photo": "photos/RC_PRINCIPATOSCHULTZ_CHRISTINA_120011076544416.jpg"
-  },
-  {
    "key": "DOU_PETERSON_ERIC_2026-11-23",
    "name": "Eric S Peterson",
    "age": "52",
@@ -233,28 +266,6 @@
    "photo": "photos/DOU_PETERSON_ERIC_2026-11-23.jpg"
   },
   {
-   "key": "MKE_NEAL_BOBBY_221332",
-   "name": "Bobby Terrence Neal",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 8,
-   "ts": 1795463856,
-   "photo": null
-  },
-  {
-   "key": "MKE_JETERS_LANDON_648468",
-   "name": "Landon Jeters",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795463855,
-   "photo": null
-  },
-  {
    "key": "MAR_VALDEZ_MATTHEW_2026-11-23_339625",
    "name": "Matthew Roland Valdez",
    "age": "61",
@@ -264,17 +275,6 @@
    "more": 0,
    "ts": 1795463622,
    "photo": "photos/MAR_VALDEZ_MATTHEW_2026-11-23_339625.jpg"
-  },
-  {
-   "key": "RC_MORROW_GIOVANNI_120011076542598",
-   "name": "Giovanni Morrow",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795463291,
-   "photo": "photos/RC_MORROW_GIOVANNI_120011076542598.jpg"
   },
   {
    "key": "FDL_HENK_CHEYENNE_2026-11-23",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_GALINDO_MARIO_289212",
+   "name": "Mario Albert Galindo",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "OWI (3rd)",
+   "more": 2,
+   "ts": 1795476508,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCOTT_KELLY_310010",
+   "name": "Kelly Scott",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 7,
+   "ts": 1795476506,
+   "photo": null
+  },
+  {
+   "key": "MKE_STEPHENS_IDYANNA_620628",
+   "name": "Idyanna Monae Stephens",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
+   "more": 0,
+   "ts": 1795476503,
+   "photo": null
+  },
+  {
+   "key": "MKE_RODRIGUEZ_MARIA_648470",
+   "name": "Maria Nathalin Rodriguez",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795476502,
+   "photo": null
+  },
   {
    "key": "MKE_KLECKLEY_ROMAINE_371977",
    "name": "Romaine Orlando Kleckley",
@@ -834,10 +878,10 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Party to a Crime",
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
    "more": 13,
    "ts": 1795460259,
-   "photo": null
+   "photo": "photos/MKE_HARDIMAN_DONALD_616985.jpg"
   },
   {
    "key": "MKE_JEFFERSON_KAVION_648467",
@@ -878,10 +922,10 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Bail Jumping-Felony",
+   "charge": "Possess w/ Intent-Amphetamine (>10-50g)",
    "more": 15,
    "ts": 1795458478,
-   "photo": null
+   "photo": "photos/MKE_REYESGONZALEZ_LUIS_642969.jpg"
   },
   {
    "key": "MKE_PARRA_SAUL_646524",
