@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-23T18:05:08+00:00",
+ "updated": "2026-11-23T18:43:56+00:00",
  "items": [
+  {
+   "key": "MKE_REYESGONZALEZ_LUIS_642969",
+   "name": "Luis I Reyes Gonzalez",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-Amphetamine (>10-50g)",
+   "more": 15,
+   "ts": 1795458478,
+   "photo": null
+  },
+  {
+   "key": "MKE_PARRA_SAUL_646524",
+   "name": "Saul A Parra",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 1,
+   "ts": 1795458476,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCRAE_BRANDON_648466",
+   "name": "Brandon Deshawn McRae",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 1,
+   "ts": 1795458474,
+   "photo": null
+  },
   {
    "key": "MAR_ZIEGEL_ALLAN_2026-11-23_1774513",
    "name": "Allan Keith Ziegel",
@@ -209,39 +242,6 @@
    "more": 4,
    "ts": 1795451261,
    "photo": "photos/MKE_JACKSON_DEANGELO_520947.jpg"
-  },
-  {
-   "key": "MKE_DISON_KENISHA_604098",
-   "name": "Kenisha Kayla Dison",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property <=$2500",
-   "more": 0,
-   "ts": 1795451259,
-   "photo": "photos/MKE_DISON_KENISHA_604098.jpg"
-  },
-  {
-   "key": "MKE_GARCIAPIOQUNITO_ABRAHAM_611282",
-   "name": "Abraham Garcia-Pioqunito",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795451258,
-   "photo": "photos/MKE_GARCIAPIOQUNITO_ABRAHAM_611282.jpg"
-  },
-  {
-   "key": "MKE_PARHAM_DAMON_633220",
-   "name": "Damon M Parham",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795451256,
-   "photo": null
   },
   {
    "key": "DOU_NGUYEN_HOANG_2026-11-23",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_REYESGONZALEZ_LUIS_642969",
+   "name": "Luis I Reyes Gonzalez",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess w/ Intent-Amphetamine (>10-50g)",
+   "more": 15,
+   "ts": 1795458478,
+   "photo": null
+  },
+  {
+   "key": "MKE_PARRA_SAUL_646524",
+   "name": "Saul A Parra",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
+   "more": 1,
+   "ts": 1795458476,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCRAE_BRANDON_648466",
+   "name": "Brandon Deshawn McRae",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 1,
+   "ts": 1795458474,
+   "photo": null
+  },
+  {
    "key": "MAR_ZIEGEL_ALLAN_2026-11-23_1774513",
    "name": "Allan Keith Ziegel",
    "age": "44",
@@ -804,7 +837,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795451251,
-   "photo": null
+   "photo": "photos/MKE_NABORS_CORIANNA_648463.jpg"
   },
   {
    "key": "DOU_NGUYEN_HOANG_2026-11-23",
@@ -4083,83 +4116,6 @@
    "more": 1,
    "ts": 1795200476,
    "photo": "photos/RC_KAUZRICH_JESSICA_120011076463458.jpg"
-  },
-  {
-   "key": "MKE_MCNEALEY_CHASTON_390679",
-   "name": "Chaston Kevon Mcnealey",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Movable Property fr. Person/Corpse",
-   "more": 3,
-   "ts": 1795199254,
-   "photo": "photos/MKE_MCNEALEY_CHASTON_390679.jpg"
-  },
-  {
-   "key": "MKE_JAW_EH_616308",
-   "name": "Eh Pu Jaw",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 3,
-   "ts": 1795199251,
-   "photo": "photos/MKE_JAW_EH_616308.jpg"
-  },
-  {
-   "key": "MKE_GIL_YORI_648423",
-   "name": "Yori Gil",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795199249,
-   "photo": "photos/MKE_GIL_YORI_648423.jpg"
-  },
-  {
-   "key": "BRITTON_CHERYL_2026-11-20",
-   "name": "Cheryl L Britton",
-   "age": "76",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lacrosse Municipal Warrant",
-   "more": 0,
-   "ts": 1795199222,
-   "photo": null
-  },
-  {
-   "key": "WILSON_ANTHONY_2026-11-20",
-   "name": "Anthony D Wilson",
-   "age": "58",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1795199221,
-   "photo": "photos/WILSON_ANTHONY_2026-11-20.jpg"
-  },
-  {
-   "key": "MAISH_AMBER_2026-11-20",
-   "name": "Amber M Maish",
-   "age": "38",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1795199220,
-   "photo": null
-  },
-  {
-   "key": "FDL_FUNK_MARK_2026-11-20",
-   "name": "Mark A Funk",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "OWI - 3rd Offense",
-   "more": 1,
-   "ts": 1795198570,
-   "photo": "photos/FDL_FUNK_MARK_2026-11-20.jpg"
   }
  ]
 }
