@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T09:49:29+00:00",
+ "updated": "2026-11-23T10:00:33+00:00",
  "items": [
+  {
+   "key": "MKE_HOLLOWAY_CHARLES_275144",
+   "name": "Charles Alfred Holloway",
+   "age": "71",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795427850,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_KIARA_614127",
+   "name": "Kiara Renee Jackson",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795427849,
+   "photo": null
+  },
   {
    "key": "MATTESON_RICHARD_2026-11-23",
    "name": "Richard A Matteson",
@@ -231,28 +253,6 @@
    "more": 2,
    "ts": 1795406252,
    "photo": "photos/MKE_JACKSON_TREVON_404007.jpg"
-  },
-  {
-   "key": "RC_OTTO_ERIC_120011076519501",
-   "name": "Eric George Otto",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-felony",
-   "more": 0,
-   "ts": 1795405682,
-   "photo": "photos/RC_OTTO_ERIC_120011076519501.jpg"
-  },
-  {
-   "key": "RC_CASTILLO_NOEL_120011076520308",
-   "name": "Noel A Castillo",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 0,
-   "ts": 1795405679,
-   "photo": "photos/RC_CASTILLO_NOEL_120011076520308.jpg"
   },
   {
    "key": "TOMPKINS_JOHN_2026-11-22",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HOLLOWAY_CHARLES_275144",
+   "name": "Charles Alfred Holloway",
+   "age": "71",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795427850,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_KIARA_614127",
+   "name": "Kiara Renee Jackson",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795427849,
+   "photo": null
+  },
   {
    "key": "MATTESON_RICHARD_2026-11-23",
    "name": "Richard A Matteson",
@@ -4281,28 +4303,6 @@
    "more": 0,
    "ts": 1795171633,
    "photo": "photos/TREM_CASTRO_KARITZA_6219.jpg"
-  },
-  {
-   "key": "MKE_RODRIGUEZ_RAMON_294229",
-   "name": "Ramon Ben Rodriguez",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795168651,
-   "photo": "photos/MKE_RODRIGUEZ_RAMON_294229.jpg"
-  },
-  {
-   "key": "MKE_CUNNINGHAM_BARRETT_648415",
-   "name": "Barrett Cunningham",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795168650,
-   "photo": null
   }
  ]
 }
