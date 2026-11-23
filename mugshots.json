@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-23T16:49:27+00:00",
+ "updated": "2026-11-23T17:08:10+00:00",
  "items": [
+  {
+   "key": "KEN_SHOLAR_CHARLES_2026-00006468",
+   "name": "Charles Stacey Sholar",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795453511,
+   "photo": "photos/KEN_SHOLAR_CHARLES_2026-00006468.jpg"
+  },
+  {
+   "key": "KEN_SAMONIG_JASON_2026-00006471",
+   "name": "Jason Alan Samonig",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 2,
+   "ts": 1795453423,
+   "photo": "photos/KEN_SAMONIG_JASON_2026-00006471.jpg"
+  },
+  {
+   "key": "KEN_ROBERTSON_BRANDAN_2026-00006469",
+   "name": "Brandan Lee Robertson",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Due to Alc/Cont Subst/Refusal)",
+   "more": 0,
+   "ts": 1795453347,
+   "photo": "photos/KEN_ROBERTSON_BRANDAN_2026-00006469.jpg"
+  },
+  {
+   "key": "KEN_RAMIREZ_ANTHONY_2026-00006467",
+   "name": "Anthony Hugo Ramirez",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Oper W/O Required Lamp Lighted",
+   "more": 3,
+   "ts": 1795453195,
+   "photo": null
+  },
+  {
+   "key": "MKE_COMMODORE_JAYDEN_648464",
+   "name": "Jayden Commodore",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795453067,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALDONADO_LEO_648465",
+   "name": "Leo A Maldonado",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "more": 0,
+   "ts": 1795453064,
+   "photo": null
+  },
+  {
+   "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
+   "name": "Carla J Sims",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 6th",
+   "more": 1,
+   "ts": 1795452907,
+   "photo": "photos/MAR_SIMS_CARLA_2026-11-21_1232805.jpg"
+  },
+  {
+   "key": "MAR_ZIEGEL_ALLAN_2026-11-23",
+   "name": "Allan Keith Ziegel",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ of Habeas Corpus",
+   "more": 0,
+   "ts": 1795452864,
+   "photo": "photos/MAR_ZIEGEL_ALLAN_2026-11-23.jpg"
+  },
+  {
+   "key": "MAR_KREFT_JARED_2026-11-23",
+   "name": "Jared Matthew Kreft",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795452811,
+   "photo": "photos/MAR_KREFT_JARED_2026-11-23.jpg"
+  },
   {
    "key": "RC_COMPTON_DANIEL_120011076528603",
    "name": "Daniel Stewart Compton",
@@ -112,17 +211,6 @@
    "photo": null
   },
   {
-   "key": "MKE_NABORS_CORIANNA_648463",
-   "name": "Corianna Nabors",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795451251,
-   "photo": null
-  },
-  {
    "key": "DOU_NGUYEN_HOANG_2026-11-23",
    "name": "Hoang N Nguyen",
    "age": "55",
@@ -156,28 +244,6 @@
    "photo": "photos/FDL_BUBB_SIERRA_2026-11-23.jpg"
   },
   {
-   "key": "MKE_HOLLOWAY_CHARLES_275144",
-   "name": "Charles Alfred Holloway",
-   "age": "71",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795427850,
-   "photo": "photos/MKE_HOLLOWAY_CHARLES_275144.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_KIARA_614127",
-   "name": "Kiara Renee Jackson",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795427849,
-   "photo": "photos/MKE_JACKSON_KIARA_614127.jpg"
-  },
-  {
    "key": "MATTESON_RICHARD_2026-11-23",
    "name": "Richard A Matteson",
    "age": "40",
@@ -187,39 +253,6 @@
    "more": 0,
    "ts": 1795427228,
    "photo": null
-  },
-  {
-   "key": "MKE_JONES_DAMONTAE_612229",
-   "name": "Damontae Ellis Jones",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795426084,
-   "photo": "photos/MKE_JONES_DAMONTAE_612229.jpg"
-  },
-  {
-   "key": "MKE_HUMPHREY_BRIAN_635764",
-   "name": "Brian Keith Humphrey",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795426082,
-   "photo": "photos/MKE_HUMPHREY_BRIAN_635764.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_ALBERT_648460",
-   "name": "Albert Lee Davis",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795426081,
-   "photo": "photos/MKE_DAVIS_ALBERT_648460.jpg"
   },
   {
    "key": "FDL_BENZINE_TYLER_2026-11-23",
@@ -453,17 +486,6 @@
    "photo": "photos/MAR_KIBLER_MALIEK_2026-11-21_14015720.jpg"
   },
   {
-   "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
-   "name": "Carla Jean Sims",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 6th",
-   "more": 1,
-   "ts": 1795384441,
-   "photo": "photos/MAR_SIMS_CARLA_2026-11-21_1232805.jpg"
-  },
-  {
    "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22_17138501",
    "name": "Miguel Angel Blandino Castillo",
    "age": "35",
@@ -506,31 +528,108 @@
    "more": 0,
    "ts": 1795378564,
    "photo": "photos/FDL_BILLUPS_JOSEPH_2026-11-22.jpg"
-  },
-  {
-   "key": "MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22_17138201",
-   "name": "Holman Ramirez-Rodriguez",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 1,
-   "ts": 1795377200,
-   "photo": "photos/MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22_17138201.jpg"
-  },
-  {
-   "key": "SCHOENMANN_TREVOR_2026-11-22",
-   "name": "Trevor J Schoenmann",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 5,
-   "ts": 1795375623,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_SHOLAR_CHARLES_2026-00006468",
+   "name": "Charles Stacey Sholar",
+   "age": "61",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795453511,
+   "photo": "photos/KEN_SHOLAR_CHARLES_2026-00006468.jpg"
+  },
+  {
+   "key": "KEN_SAMONIG_JASON_2026-00006471",
+   "name": "Jason Alan Samonig",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 2,
+   "ts": 1795453423,
+   "photo": "photos/KEN_SAMONIG_JASON_2026-00006471.jpg"
+  },
+  {
+   "key": "KEN_ROBERTSON_BRANDAN_2026-00006469",
+   "name": "Brandan Lee Robertson",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Due to Alc/Cont Subst/Refusal)",
+   "more": 0,
+   "ts": 1795453347,
+   "photo": "photos/KEN_ROBERTSON_BRANDAN_2026-00006469.jpg"
+  },
+  {
+   "key": "KEN_RAMIREZ_ANTHONY_2026-00006467",
+   "name": "Anthony Hugo Ramirez",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Oper W/O Required Lamp Lighted",
+   "more": 3,
+   "ts": 1795453195,
+   "photo": null
+  },
+  {
+   "key": "MKE_COMMODORE_JAYDEN_648464",
+   "name": "Jayden Commodore",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795453067,
+   "photo": null
+  },
+  {
+   "key": "MKE_MALDONADO_LEO_648465",
+   "name": "Leo A Maldonado",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Endanger Safety/Use/Dangerous Weapon",
+   "more": 0,
+   "ts": 1795453064,
+   "photo": null
+  },
+  {
+   "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
+   "name": "Carla J Sims",
+   "age": "57",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 6th",
+   "more": 1,
+   "ts": 1795452907,
+   "photo": "photos/MAR_SIMS_CARLA_2026-11-21_1232805.jpg"
+  },
+  {
+   "key": "MAR_ZIEGEL_ALLAN_2026-11-23",
+   "name": "Allan Keith Ziegel",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ of Habeas Corpus",
+   "more": 0,
+   "ts": 1795452864,
+   "photo": "photos/MAR_ZIEGEL_ALLAN_2026-11-23.jpg"
+  },
+  {
+   "key": "MAR_KREFT_JARED_2026-11-23",
+   "name": "Jared Matthew Kreft",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795452811,
+   "photo": "photos/MAR_KREFT_JARED_2026-11-23.jpg"
+  },
   {
    "key": "RC_COMPTON_DANIEL_120011076528603",
    "name": "Daniel Stewart Compton",
@@ -1355,17 +1454,6 @@
    "more": 0,
    "ts": 1795384479,
    "photo": "photos/MAR_KIBLER_MALIEK_2026-11-21_14015720.jpg"
-  },
-  {
-   "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
-   "name": "Carla Jean Sims",
-   "age": "57",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 6th",
-   "more": 1,
-   "ts": 1795384441,
-   "photo": "photos/MAR_SIMS_CARLA_2026-11-21_1232805.jpg"
   },
   {
    "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22_17138501",
@@ -4072,28 +4160,6 @@
    "more": 2,
    "ts": 1795195646,
    "photo": "photos/MKE_MOORE_ASHANTI_648422.jpg"
-  },
-  {
-   "key": "MKE_NELSON_SYNCERE_642978",
-   "name": "Syncere EddieKashawn Nelson",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795193862,
-   "photo": "photos/MKE_NELSON_SYNCERE_642978.jpg"
-  },
-  {
-   "key": "MKE_LEWISMCCALL_CORTEZ_648420",
-   "name": "Cortez R Lewis McCall",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 1,
-   "ts": 1795193861,
-   "photo": "photos/MKE_LEWISMCCALL_CORTEZ_648420.jpg"
   }
  ]
 }
