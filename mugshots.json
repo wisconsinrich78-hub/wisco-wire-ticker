@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-23T00:01:54+00:00",
+ "updated": "2026-11-23T00:42:42+00:00",
  "items": [
+  {
+   "key": "MKE_EVANS_EUNICH_648457",
+   "name": "Eunich Abxrias Evans",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Child Sexual Assault - Intercourse with Person under 12",
+   "more": 0,
+   "ts": 1795393653,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELGADO_ANTONIO_2066580",
+   "name": "Antonio Delgado",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795393651,
+   "photo": null
+  },
+  {
+   "key": "FDL_PICADO_FREDDY_2026-11-22",
+   "name": "Freddy Picado",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct Intoxicated",
+   "more": 2,
+   "ts": 1795392988,
+   "photo": null
+  },
   {
    "key": "KEN_SANCHEZPEREZ_JUAN_2026-00006461",
    "name": "Juan Sanchez-Perez",
@@ -153,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795388263,
-   "photo": null
+   "photo": "photos/MKE_FLAKES_CLAUDIA_411799.jpg"
   },
   {
    "key": "MKE_JONES_TERREANINA_626881",
@@ -252,18 +285,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795382851,
-   "photo": null
-  },
-  {
-   "key": "MKE_WEIMARCARDENAS_NORVIN_648455",
-   "name": "Norvin Enrique Weimar Cardenas",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795382849,
-   "photo": null
+   "photo": "photos/MKE_CHAMBERS_MYIESHA_384532.jpg"
   },
   {
    "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22",
@@ -274,17 +296,6 @@
    "charge": "Operating While Under the Influence 1st",
    "more": 1,
    "ts": 1795380812,
-   "photo": null
-  },
-  {
-   "key": "MKE_GOLDMAN_SHELDON_310283",
-   "name": "Sheldon Jevon Goldman",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795379252,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1795324584,
    "photo": "photos/FDL_MARRO_MATTHEW_2026-11-21.jpg"
-  },
-  {
-   "key": "FDL_LUND_RICHARD_2026-11-21",
-   "name": "Richard Lee Lund",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795324583,
-   "photo": "photos/FDL_LUND_RICHARD_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_EVANS_EUNICH_648457",
+   "name": "Eunich Abxrias Evans",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st Degree Child Sexual Assault - Intercourse with Person under 12",
+   "more": 0,
+   "ts": 1795393653,
+   "photo": null
+  },
+  {
+   "key": "MKE_DELGADO_ANTONIO_2066580",
+   "name": "Antonio Delgado",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795393651,
+   "photo": null
+  },
+  {
+   "key": "FDL_PICADO_FREDDY_2026-11-22",
+   "name": "Freddy Picado",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct Intoxicated",
+   "more": 2,
+   "ts": 1795392988,
+   "photo": null
+  },
   {
    "key": "KEN_SANCHEZPEREZ_JUAN_2026-00006461",
    "name": "Juan Sanchez-Perez",
@@ -683,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795388263,
-   "photo": null
+   "photo": "photos/MKE_FLAKES_CLAUDIA_411799.jpg"
   },
   {
    "key": "MKE_JONES_TERREANINA_626881",
@@ -782,7 +815,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795382851,
-   "photo": null
+   "photo": "photos/MKE_CHAMBERS_MYIESHA_384532.jpg"
   },
   {
    "key": "MKE_WEIMARCARDENAS_NORVIN_648455",
@@ -793,7 +826,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795382849,
-   "photo": null
+   "photo": "photos/MKE_WEIMARCARDENAS_NORVIN_648455.jpg"
   },
   {
    "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22",
@@ -867,10 +900,10 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Battery",
    "more": 5,
    "ts": 1795377454,
-   "photo": null
+   "photo": "photos/MKE_GARCIAHERNANDEZ_ENRIQUE_648454.jpg"
   },
   {
    "key": "MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22_17138201",
