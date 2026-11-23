@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T16:42:57+00:00",
+ "updated": "2026-11-23T16:49:27+00:00",
  "items": [
+  {
+   "key": "RC_COMPTON_DANIEL_120011076528603",
+   "name": "Daniel Stewart Compton",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions\u2026",
+   "more": 6,
+   "ts": 1795452488,
+   "photo": "photos/RC_COMPTON_DANIEL_120011076528603.jpg"
+  },
+  {
+   "key": "RC_MAZUREK_SUNNY_120011076535988",
+   "name": "Sunny Scott Mazurek",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795452485,
+   "photo": "photos/RC_MAZUREK_SUNNY_120011076535988.jpg"
+  },
   {
    "key": "MKE_BLAIN_CORNELIUS_197853",
    "name": "Cornelius Lamar Blain",
@@ -220,28 +242,6 @@
    "more": 0,
    "ts": 1795423627,
    "photo": null
-  },
-  {
-   "key": "RC_BELL_RAIFORD_120011076523681",
-   "name": "Raiford Edward Bell",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795420077,
-   "photo": null
-  },
-  {
-   "key": "KEN_WILLIAMS_BRIANA_2026-00006466",
-   "name": "Briana Lashay Williams",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Theft-False Representation<$2500",
-   "more": 1,
-   "ts": 1795417174,
-   "photo": "photos/KEN_WILLIAMS_BRIANA_2026-00006466.jpg"
   },
   {
    "key": "FDL_HARALSON_GIOVANNIE_2026-11-22",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_COMPTON_DANIEL_120011076528603",
+   "name": "Daniel Stewart Compton",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions\u2026",
+   "more": 6,
+   "ts": 1795452488,
+   "photo": "photos/RC_COMPTON_DANIEL_120011076528603.jpg"
+  },
+  {
+   "key": "RC_MAZUREK_SUNNY_120011076535988",
+   "name": "Sunny Scott Mazurek",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795452485,
+   "photo": "photos/RC_MAZUREK_SUNNY_120011076535988.jpg"
+  },
   {
    "key": "MKE_BLAIN_CORNELIUS_197853",
    "name": "Cornelius Lamar Blain",
@@ -4072,28 +4094,6 @@
    "more": 1,
    "ts": 1795193861,
    "photo": "photos/MKE_LEWISMCCALL_CORTEZ_648420.jpg"
-  },
-  {
-   "key": "RC_OTTO_ERIC_120011076457085",
-   "name": "Eric George Otto",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795193270,
-   "photo": "photos/RC_OTTO_ERIC_120011076457085.jpg"
-  },
-  {
-   "key": "LINDSAY_THOMAS_2026-11-20",
-   "name": "Thomas L Lindsay",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1795193228,
-   "photo": null
   }
  ]
 }
