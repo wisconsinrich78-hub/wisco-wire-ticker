@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T20:38:10+00:00",
+ "updated": "2026-11-23T20:49:27+00:00",
  "items": [
+  {
+   "key": "RC_PRINCIPATOSCHULTZ_CHRISTINA_120011076544416",
+   "name": "Christina Principato-Schultz",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795466879,
+   "photo": "photos/RC_PRINCIPATOSCHULTZ_CHRISTINA_120011076544416.jpg"
+  },
   {
    "key": "DOU_PETERSON_ERIC_2026-11-23",
    "name": "Eric S Peterson",
@@ -231,17 +242,6 @@
    "more": 2,
    "ts": 1795453423,
    "photo": "photos/KEN_SAMONIG_JASON_2026-00006471.jpg"
-  },
-  {
-   "key": "KEN_ROBERTSON_BRANDAN_2026-00006469",
-   "name": "Brandan Lee Robertson",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Due to Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1795453347,
-   "photo": "photos/KEN_ROBERTSON_BRANDAN_2026-00006469.jpg"
   },
   {
    "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PRINCIPATOSCHULTZ_CHRISTINA_120011076544416",
+   "name": "Christina Principato-Schultz",
+   "age": "37",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795466879,
+   "photo": "photos/RC_PRINCIPATOSCHULTZ_CHRISTINA_120011076544416.jpg"
+  },
   {
    "key": "DOU_PETERSON_ERIC_2026-11-23",
    "name": "Eric S Peterson",
@@ -4072,39 +4083,6 @@
    "more": 0,
    "ts": 1795210057,
    "photo": "photos/MKE_SKERVEN_TRAVIS_648427.jpg"
-  },
-  {
-   "key": "RC_MCRAE_BRANDON_120011076465974",
-   "name": "Brandon Deshawn Mcrae",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795207675,
-   "photo": "photos/RC_MCRAE_BRANDON_120011076465974.jpg"
-  },
-  {
-   "key": "RC_SNOW_JEONTAE_120011076466340",
-   "name": "Jeontae Elijah Snow",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795207672,
-   "photo": "photos/RC_SNOW_JEONTAE_120011076466340.jpg"
-  },
-  {
-   "key": "RC_HAMILTON_ANTHONY_120011076466960",
-   "name": "Anthony Alvegas Hamilton",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795207670,
-   "photo": "photos/RC_HAMILTON_ANTHONY_120011076466960.jpg"
   }
  ]
 }
