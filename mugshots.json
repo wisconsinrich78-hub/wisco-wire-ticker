@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-23T08:49:27+00:00",
+ "updated": "2026-11-23T09:49:29+00:00",
  "items": [
+  {
+   "key": "MATTESON_RICHARD_2026-11-23",
+   "name": "Richard A Matteson",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795427228,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_DAMONTAE_612229",
+   "name": "Damontae Ellis Jones",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795426084,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUMPHREY_BRIAN_635764",
+   "name": "Brian Keith Humphrey",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795426082,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_ALBERT_648460",
+   "name": "Albert Lee Davis",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795426081,
+   "photo": "photos/MKE_DAVIS_ALBERT_648460.jpg"
+  },
+  {
+   "key": "FDL_BENZINE_TYLER_2026-11-23",
+   "name": "Tyler Scott Benzine",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Felony Bail Jumping",
+   "more": 0,
+   "ts": 1795425365,
+   "photo": "photos/FDL_BENZINE_TYLER_2026-11-23.jpg"
+  },
   {
    "key": "MALLETTE_CHRISTOPHER_2026-11-23",
    "name": "Christopher A Mallette",
@@ -209,39 +264,6 @@
    "more": 0,
    "ts": 1795405629,
    "photo": null
-  },
-  {
-   "key": "MKE_GOLPEMAZABA_ELIAS_534750",
-   "name": "Elias Golpe-Mazaba",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795404454,
-   "photo": "photos/MKE_GOLPEMAZABA_ELIAS_534750.jpg"
-  },
-  {
-   "key": "MKE_BURKS_JAQUIA_608817",
-   "name": "Jaquia K Burks",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
-   "more": 1,
-   "ts": 1795404452,
-   "photo": "photos/MKE_BURKS_JAQUIA_608817.jpg"
-  },
-  {
-   "key": "MKE_ROGERS_JAHIEL_645382",
-   "name": "Jahiel I Rogers",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 10,
-   "ts": 1795404450,
-   "photo": "photos/MKE_ROGERS_JAHIEL_645382.jpg"
   },
   {
    "key": "VOVES_ELIZABETH_2026-11-22",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1795371412,
    "photo": "photos/DOU_WESTENDORF_JORDAN_2026-11-22.jpg"
-  },
-  {
-   "key": "MAR_STINSON_MONTRELL_2026-11-21_20218",
-   "name": "Montrell Lorenzo Stinson",
-   "age": "36",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 1,
-   "ts": 1795370091,
-   "photo": "photos/MAR_STINSON_MONTRELL_2026-11-21_20218.jpg"
-  },
-  {
-   "key": "MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22",
-   "name": "Holman Ramirez-Rodriguez",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 1,
-   "ts": 1795370048,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MATTESON_RICHARD_2026-11-23",
+   "name": "Richard A Matteson",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795427228,
+   "photo": null
+  },
+  {
+   "key": "MKE_JONES_DAMONTAE_612229",
+   "name": "Damontae Ellis Jones",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795426084,
+   "photo": null
+  },
+  {
+   "key": "MKE_HUMPHREY_BRIAN_635764",
+   "name": "Brian Keith Humphrey",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795426082,
+   "photo": null
+  },
+  {
+   "key": "MKE_DAVIS_ALBERT_648460",
+   "name": "Albert Lee Davis",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795426081,
+   "photo": "photos/MKE_DAVIS_ALBERT_648460.jpg"
+  },
+  {
+   "key": "FDL_BENZINE_TYLER_2026-11-23",
+   "name": "Tyler Scott Benzine",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Felony Bail Jumping",
+   "more": 0,
+   "ts": 1795425365,
+   "photo": "photos/FDL_BENZINE_TYLER_2026-11-23.jpg"
+  },
   {
    "key": "MALLETTE_CHRISTOPHER_2026-11-23",
    "name": "Christopher A Mallette",
@@ -4248,72 +4303,6 @@
    "more": 0,
    "ts": 1795168650,
    "photo": null
-  },
-  {
-   "key": "RC_MCKINNEY_JERMAINE_120011076447942",
-   "name": "Jermaine Lee Mckinney",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 7,
-   "ts": 1795168076,
-   "photo": "photos/RC_MCKINNEY_JERMAINE_120011076447942.jpg"
-  },
-  {
-   "key": "MKE_HAYWOOD_CYNTHIA_648413",
-   "name": "Cynthia M Haywood",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795166874,
-   "photo": "photos/MKE_HAYWOOD_CYNTHIA_648413.jpg"
-  },
-  {
-   "key": "MKE_PALMER_TONY_648414",
-   "name": "Tony L Palmer",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795166872,
-   "photo": "photos/MKE_PALMER_TONY_648414.jpg"
-  },
-  {
-   "key": "GRIFFIN_GARY_2026-11-20",
-   "name": "Gary M Griffin",
-   "age": "63",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Trespass to Medical Facility",
-   "more": 3,
-   "ts": 1795166820,
-   "photo": null
-  },
-  {
-   "key": "DOU_BENEDICT_SUMMER_2026-11-20",
-   "name": "Summer A Benedict",
-   "age": "20",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "OWI Alcohol or Drugs",
-   "more": 0,
-   "ts": 1795166240,
-   "photo": "photos/DOU_BENEDICT_SUMMER_2026-11-20.jpg"
-  },
-  {
-   "key": "FDL_OCLAIRE_SARAH_2026-11-20",
-   "name": "Sarah Lynn Oclaire",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Resisting or Obstructing Officer",
-   "more": 0,
-   "ts": 1795166186,
-   "photo": "photos/FDL_OCLAIRE_SARAH_2026-11-20.jpg"
   }
  ]
 }
