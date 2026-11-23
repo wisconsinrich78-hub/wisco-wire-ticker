@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T18:43:56+00:00",
+ "updated": "2026-11-23T18:49:29+00:00",
  "items": [
+  {
+   "key": "RC_LUNT_SCOTTIE_120011076540089",
+   "name": "Scottie Ray Lunt",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795459684,
+   "photo": "photos/RC_LUNT_SCOTTIE_120011076540089.jpg"
+  },
   {
    "key": "MKE_REYESGONZALEZ_LUIS_642969",
    "name": "Luis I Reyes Gonzalez",
@@ -51,8 +62,8 @@
    "age": "31",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
    "ts": 1795456086,
    "photo": "photos/RC_KRESKEN_KYLE_120011076537912.jpg"
   },
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1795451263,
    "photo": "photos/MKE_NOHELTY_SHAWN_334511.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_DEANGELO_520947",
-   "name": "Deangelo Montreal Jackson",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795451261,
-   "photo": "photos/MKE_JACKSON_DEANGELO_520947.jpg"
   },
   {
    "key": "DOU_NGUYEN_HOANG_2026-11-23",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_LUNT_SCOTTIE_120011076540089",
+   "name": "Scottie Ray Lunt",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795459684,
+   "photo": "photos/RC_LUNT_SCOTTIE_120011076540089.jpg"
+  },
+  {
    "key": "MKE_REYESGONZALEZ_LUIS_642969",
    "name": "Luis I Reyes Gonzalez",
    "age": "32",
@@ -581,8 +592,8 @@
    "age": "31",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 3,
    "ts": 1795456086,
    "photo": "photos/RC_KRESKEN_KYLE_120011076537912.jpg"
   },
@@ -4083,39 +4094,6 @@
    "more": 1,
    "ts": 1795201065,
    "photo": "photos/MKE_CASTRILLONMUJICA_GABRIEL_648425.jpg"
-  },
-  {
-   "key": "RC_CRUZ_EDWIN_120011076462448",
-   "name": "Edwin E Cruz",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence (2nd)",
-   "more": 0,
-   "ts": 1795200483,
-   "photo": "photos/RC_CRUZ_EDWIN_120011076462448.jpg"
-  },
-  {
-   "key": "RC_CARTER_DOMINIC_120011076462544",
-   "name": "Dominic Derick Carter",
-   "age": "37",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795200480,
-   "photo": "photos/RC_CARTER_DOMINIC_120011076462544.jpg"
-  },
-  {
-   "key": "RC_KAUZRICH_JESSICA_120011076463458",
-   "name": "Jessica Lynn Kauzrich",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Fail/cause Child To Attend School",
-   "more": 1,
-   "ts": 1795200476,
-   "photo": "photos/RC_KAUZRICH_JESSICA_120011076463458.jpg"
   }
  ]
 }
