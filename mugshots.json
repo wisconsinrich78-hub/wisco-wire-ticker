@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-23T18:49:29+00:00",
+ "updated": "2026-11-23T19:07:12+00:00",
  "items": [
+  {
+   "key": "MKE_BEECHER_DANA_606226",
+   "name": "Dana M Beecher",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run",
+   "more": 2,
+   "ts": 1795460261,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARDIMAN_DONALD_616985",
+   "name": "Donald Derese Hardiman",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
+   "more": 13,
+   "ts": 1795460259,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEFFERSON_KAVION_648467",
+   "name": "Kavion Lyndell Jefferson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 2,
+   "ts": 1795460257,
+   "photo": null
+  },
+  {
+   "key": "KEN_MORGAN_JORDAN_2026-00006472",
+   "name": "Jordan Adriana Morgan",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Harassment- Attempt Physical Contact",
+   "more": 0,
+   "ts": 1795460068,
+   "photo": "photos/KEN_MORGAN_JORDAN_2026-00006472.jpg"
+  },
   {
    "key": "RC_LUNT_SCOTTIE_120011076540089",
    "name": "Scottie Ray Lunt",
@@ -153,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795453067,
-   "photo": null
+   "photo": "photos/MKE_COMMODORE_JAYDEN_648464.jpg"
   },
   {
    "key": "MKE_MALDONADO_LEO_648465",
@@ -198,50 +242,6 @@
    "more": 1,
    "ts": 1795452811,
    "photo": "photos/MAR_KREFT_JARED_2026-11-23.jpg"
-  },
-  {
-   "key": "RC_COMPTON_DANIEL_120011076528603",
-   "name": "Daniel Stewart Compton",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Contempt Of Court - Child Support Commitment & Other Sanctions\u2026",
-   "more": 6,
-   "ts": 1795452488,
-   "photo": "photos/RC_COMPTON_DANIEL_120011076528603.jpg"
-  },
-  {
-   "key": "RC_MAZUREK_SUNNY_120011076535988",
-   "name": "Sunny Scott Mazurek",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795452485,
-   "photo": "photos/RC_MAZUREK_SUNNY_120011076535988.jpg"
-  },
-  {
-   "key": "MKE_BLAIN_CORNELIUS_197853",
-   "name": "Cornelius Lamar Blain",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795451265,
-   "photo": "photos/MKE_BLAIN_CORNELIUS_197853.jpg"
-  },
-  {
-   "key": "MKE_NOHELTY_SHAWN_334511",
-   "name": "Shawn Michael Nohelty",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795451263,
-   "photo": "photos/MKE_NOHELTY_SHAWN_334511.jpg"
   },
   {
    "key": "DOU_NGUYEN_HOANG_2026-11-23",
@@ -532,6 +532,50 @@
  ],
  "all_items": [
   {
+   "key": "MKE_BEECHER_DANA_606226",
+   "name": "Dana M Beecher",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Hit and Run",
+   "more": 2,
+   "ts": 1795460261,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARDIMAN_DONALD_616985",
+   "name": "Donald Derese Hardiman",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
+   "more": 13,
+   "ts": 1795460259,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEFFERSON_KAVION_648467",
+   "name": "Kavion Lyndell Jefferson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Damage to Property",
+   "more": 2,
+   "ts": 1795460257,
+   "photo": null
+  },
+  {
+   "key": "KEN_MORGAN_JORDAN_2026-00006472",
+   "name": "Jordan Adriana Morgan",
+   "age": "36",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Harassment- Attempt Physical Contact",
+   "more": 0,
+   "ts": 1795460068,
+   "photo": "photos/KEN_MORGAN_JORDAN_2026-00006472.jpg"
+  },
+  {
    "key": "RC_LUNT_SCOTTIE_120011076540089",
    "name": "Scottie Ray Lunt",
    "age": "54",
@@ -683,7 +727,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795453067,
-   "photo": null
+   "photo": "photos/MKE_COMMODORE_JAYDEN_648464.jpg"
   },
   {
    "key": "MKE_MALDONADO_LEO_648465",
@@ -826,7 +870,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795451254,
-   "photo": null
+   "photo": "photos/MKE_LAWLERLEONARDELLI_CHRISTOPHER_648461.jpg"
   },
   {
    "key": "MKE_WILLIAMS_ALEXIS_648462",
@@ -837,7 +881,7 @@
    "charge": "Charges Pending",
    "more": 7,
    "ts": 1795451253,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ALEXIS_648462.jpg"
   },
   {
    "key": "MKE_NABORS_CORIANNA_648463",
@@ -4050,50 +4094,6 @@
    "more": 5,
    "ts": 1795204073,
    "photo": "photos/RC_MROCH_AMANDA_120011076464338.jpg"
-  },
-  {
-   "key": "MKE_MATAYA_SARAH_521927",
-   "name": "Sarah Marie Mataya",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Possess w/Intent-Amphetamine (>50g)",
-   "more": 0,
-   "ts": 1795201071,
-   "photo": "photos/MKE_MATAYA_SARAH_521927.jpg"
-  },
-  {
-   "key": "MKE_LEE_TRISTAN_641480",
-   "name": "Tristan Chaleng Lee",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 1,
-   "ts": 1795201069,
-   "photo": "photos/MKE_LEE_TRISTAN_641480.jpg"
-  },
-  {
-   "key": "MKE_DUNCAN_ROBERT_648424",
-   "name": "Robert Duncan",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (3rd)",
-   "more": 0,
-   "ts": 1795201067,
-   "photo": "photos/MKE_DUNCAN_ROBERT_648424.jpg"
-  },
-  {
-   "key": "MKE_CASTRILLONMUJICA_GABRIEL_648425",
-   "name": "Gabriel O Castrillon-Mujica",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795201065,
-   "photo": "photos/MKE_CASTRILLONMUJICA_GABRIEL_648425.jpg"
   }
  ]
 }
