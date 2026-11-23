@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-23T22:49:25+00:00",
+ "updated": "2026-11-23T23:02:22+00:00",
  "items": [
+  {
+   "key": "MKE_KLECKLEY_ROMAINE_371977",
+   "name": "Romaine Orlando Kleckley",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795474652,
+   "photo": null
+  },
+  {
+   "key": "MKE_SABATAARZABAL_JULIANGREGORIO_648469",
+   "name": "Julian Gregorio D Sabata Arzabal",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474651,
+   "photo": null
+  },
+  {
+   "key": "KEN_MILLER_KENTRELL_2026-00006474",
+   "name": "Kentrell Leonte Miller",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 3,
+   "ts": 1795474569,
+   "photo": "photos/KEN_MILLER_KENTRELL_2026-00006474.jpg"
+  },
+  {
+   "key": "KEN_HILLIARD_MICHELLE_2026-00006475",
+   "name": "Michelle L Hilliard",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474502,
+   "photo": "photos/KEN_HILLIARD_MICHELLE_2026-00006475.jpg"
+  },
+  {
+   "key": "KEN_ACOSTAGOMEZ_ARTURO_2026-00006473",
+   "name": "Arturo Acosta-Gomez",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Extradition",
+   "more": 0,
+   "ts": 1795474396,
+   "photo": "photos/KEN_ACOSTAGOMEZ_ARTURO_2026-00006473.jpg"
+  },
+  {
+   "key": "MAR_LUEDKE_CONNOR_2026-11-23",
+   "name": "Connor Norman Luedke",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795474389,
+   "photo": "photos/MAR_LUEDKE_CONNOR_2026-11-23.jpg"
+  },
   {
    "key": "RC_TOLEFREE_STEPHEN_120011076547462",
    "name": "Stephen S Tolefree",
@@ -220,61 +286,6 @@
    "more": 0,
    "ts": 1795461388,
    "photo": "photos/FDL_HENK_CHEYENNE_2026-11-23.jpg"
-  },
-  {
-   "key": "MKE_BEECHER_DANA_606226",
-   "name": "Dana M Beecher",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run",
-   "more": 2,
-   "ts": 1795460261,
-   "photo": null
-  },
-  {
-   "key": "MKE_HARDIMAN_DONALD_616985",
-   "name": "Donald Derese Hardiman",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 13,
-   "ts": 1795460259,
-   "photo": null
-  },
-  {
-   "key": "MKE_JEFFERSON_KAVION_648467",
-   "name": "Kavion Lyndell Jefferson",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 2,
-   "ts": 1795460257,
-   "photo": null
-  },
-  {
-   "key": "KEN_MORGAN_JORDAN_2026-00006472",
-   "name": "Jordan Adriana Morgan",
-   "age": "36",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Harassment- Attempt Physical Contact",
-   "more": 0,
-   "ts": 1795460068,
-   "photo": "photos/KEN_MORGAN_JORDAN_2026-00006472.jpg"
-  },
-  {
-   "key": "RC_LUNT_SCOTTIE_120011076540089",
-   "name": "Scottie Ray Lunt",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Credit Card - Fraudulent Use (> $10,000)",
-   "more": 1,
-   "ts": 1795459684,
-   "photo": "photos/RC_LUNT_SCOTTIE_120011076540089.jpg"
   },
   {
    "key": "MAR_ZIEGEL_ALLAN_2026-11-23_1774513",
@@ -517,20 +528,75 @@
    "more": 0,
    "ts": 1795398429,
    "photo": null
-  },
-  {
-   "key": "NORTON_JAMIE_2026-11-22",
-   "name": "Jamie Lynn Norton",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 2,
-   "ts": 1795397223,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_KLECKLEY_ROMAINE_371977",
+   "name": "Romaine Orlando Kleckley",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795474652,
+   "photo": null
+  },
+  {
+   "key": "MKE_SABATAARZABAL_JULIANGREGORIO_648469",
+   "name": "Julian Gregorio D Sabata Arzabal",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474651,
+   "photo": null
+  },
+  {
+   "key": "KEN_MILLER_KENTRELL_2026-00006474",
+   "name": "Kentrell Leonte Miller",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 3,
+   "ts": 1795474569,
+   "photo": "photos/KEN_MILLER_KENTRELL_2026-00006474.jpg"
+  },
+  {
+   "key": "KEN_HILLIARD_MICHELLE_2026-00006475",
+   "name": "Michelle L Hilliard",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474502,
+   "photo": "photos/KEN_HILLIARD_MICHELLE_2026-00006475.jpg"
+  },
+  {
+   "key": "KEN_ACOSTAGOMEZ_ARTURO_2026-00006473",
+   "name": "Arturo Acosta-Gomez",
+   "age": "47",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Extradition",
+   "more": 0,
+   "ts": 1795474396,
+   "photo": "photos/KEN_ACOSTAGOMEZ_ARTURO_2026-00006473.jpg"
+  },
+  {
+   "key": "MAR_LUEDKE_CONNOR_2026-11-23",
+   "name": "Connor Norman Luedke",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795474389,
+   "photo": "photos/MAR_LUEDKE_CONNOR_2026-11-23.jpg"
+  },
   {
    "key": "RC_TOLEFREE_STEPHEN_120011076547462",
    "name": "Stephen S Tolefree",
@@ -4072,50 +4138,6 @@
    "more": 1,
    "ts": 1795218431,
    "photo": null
-  },
-  {
-   "key": "MKE_SPEARS_ANDRE_295029",
-   "name": "Andre Antonio Spears",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operator Flee/Elude Officer-Bodily Harm or Property Damage",
-   "more": 2,
-   "ts": 1795215456,
-   "photo": "photos/MKE_SPEARS_ANDRE_295029.jpg"
-  },
-  {
-   "key": "MKE_GLASS_RICKY_523271",
-   "name": "Ricky Glass",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795215454,
-   "photo": "photos/MKE_GLASS_RICKY_523271.jpg"
-  },
-  {
-   "key": "MKE_NAZIRHUSSEIN_MUHAMMAD_637903",
-   "name": "Muhammad Huson Nazir Hussein",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 3,
-   "ts": 1795215452,
-   "photo": "photos/MKE_NAZIRHUSSEIN_MUHAMMAD_637903.jpg"
-  },
-  {
-   "key": "MKE_CALIXTOORTIZ_JAVIER_648428",
-   "name": "Javier Calixto Ortiz",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795215451,
-   "photo": "photos/MKE_CALIXTOORTIZ_JAVIER_648428.jpg"
   }
  ]
 }
