@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T01:43:37+00:00",
+ "updated": "2026-11-23T01:49:33+00:00",
  "items": [
+  {
+   "key": "RC_TAYLOR_BRANDON_120011076517051",
+   "name": "Brandon T Taylor",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795398483,
+   "photo": "photos/RC_TAYLOR_BRANDON_120011076517051.jpg"
+  },
+  {
+   "key": "ZIMMERMAN_BETTY_2026-11-22",
+   "name": "Betty J Zimmerman",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1795398429,
+   "photo": null
+  },
   {
    "key": "NORTON_JAMIE_2026-11-22",
    "name": "Jamie Lynn Norton",
@@ -299,17 +321,6 @@
    "photo": null
   },
   {
-   "key": "MKE_CHAMBERS_MYIESHA_384532",
-   "name": "Myiesha M Chambers",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795382851,
-   "photo": "photos/MKE_CHAMBERS_MYIESHA_384532.jpg"
-  },
-  {
    "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22",
    "name": "Miguel Angel Blandino Castillo",
    "age": "35",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1795326793,
    "photo": "photos/MAR_JAMA_MAHAD_2026-11-21_15857907.jpg"
-  },
-  {
-   "key": "MADISON_STEPHANIE_2026-11-21",
-   "name": "Stephanie K Madison",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795326428,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_TAYLOR_BRANDON_120011076517051",
+   "name": "Brandon T Taylor",
+   "age": "27",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795398483,
+   "photo": "photos/RC_TAYLOR_BRANDON_120011076517051.jpg"
+  },
+  {
+   "key": "ZIMMERMAN_BETTY_2026-11-22",
+   "name": "Betty J Zimmerman",
+   "age": "58",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 0,
+   "ts": 1795398429,
+   "photo": null
+  },
   {
    "key": "NORTON_JAMIE_2026-11-22",
    "name": "Jamie Lynn Norton",
