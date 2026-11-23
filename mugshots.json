@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-23T22:37:09+00:00",
+ "updated": "2026-11-23T22:49:25+00:00",
  "items": [
+  {
+   "key": "RC_TOLEFREE_STEPHEN_120011076547462",
+   "name": "Stephen S Tolefree",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795474082,
+   "photo": "photos/RC_TOLEFREE_STEPHEN_120011076547462.jpg"
+  },
+  {
+   "key": "RC_COTTON_GREGORY_120011076547605",
+   "name": "Gregory Bernard Cotton",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474079,
+   "photo": "photos/RC_COTTON_GREGORY_120011076547605.jpg"
+  },
+  {
+   "key": "RC_DELUNA_JUAN_120011076547804",
+   "name": "Juan Deluna",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474077,
+   "photo": "photos/RC_DELUNA_JUAN_120011076547804.jpg"
+  },
   {
    "key": "LOPER_MACKENZIE_2026-11-23",
    "name": "Mackenzie William Loper",
@@ -242,39 +275,6 @@
    "more": 1,
    "ts": 1795459684,
    "photo": "photos/RC_LUNT_SCOTTIE_120011076540089.jpg"
-  },
-  {
-   "key": "MKE_REYESGONZALEZ_LUIS_642969",
-   "name": "Luis I Reyes Gonzalez",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 15,
-   "ts": 1795458478,
-   "photo": null
-  },
-  {
-   "key": "MKE_PARRA_SAUL_646524",
-   "name": "Saul A Parra",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Felony 5+ Yrs)",
-   "more": 1,
-   "ts": 1795458476,
-   "photo": "photos/MKE_PARRA_SAUL_646524.jpg"
-  },
-  {
-   "key": "MKE_MCRAE_BRANDON_648466",
-   "name": "Brandon Deshawn McRae",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 1,
-   "ts": 1795458474,
-   "photo": "photos/MKE_MCRAE_BRANDON_648466.jpg"
   },
   {
    "key": "MAR_ZIEGEL_ALLAN_2026-11-23_1774513",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_TOLEFREE_STEPHEN_120011076547462",
+   "name": "Stephen S Tolefree",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795474082,
+   "photo": "photos/RC_TOLEFREE_STEPHEN_120011076547462.jpg"
+  },
+  {
+   "key": "RC_COTTON_GREGORY_120011076547605",
+   "name": "Gregory Bernard Cotton",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474079,
+   "photo": "photos/RC_COTTON_GREGORY_120011076547605.jpg"
+  },
+  {
+   "key": "RC_DELUNA_JUAN_120011076547804",
+   "name": "Juan Deluna",
+   "age": "23",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474077,
+   "photo": "photos/RC_DELUNA_JUAN_120011076547804.jpg"
+  },
   {
    "key": "LOPER_MACKENZIE_2026-11-23",
    "name": "Mackenzie William Loper",
