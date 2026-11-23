@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T03:49:30+00:00",
+ "updated": "2026-11-23T04:02:48+00:00",
  "items": [
+  {
+   "key": "MKE_LANGE_CODY_403486",
+   "name": "Cody Alexander Lange",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795406254,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_TREVON_404007",
+   "name": "Trevon LeeDemorio Jackson",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795406252,
+   "photo": null
+  },
   {
    "key": "RC_OTTO_ERIC_120011076519501",
    "name": "Eric George Otto",
@@ -51,7 +73,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 1,
    "ts": 1795404452,
    "photo": null
@@ -62,8 +84,8 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 10,
    "ts": 1795404450,
    "photo": null
   },
@@ -274,28 +296,6 @@
    "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1795391615,
-   "photo": null
-  },
-  {
-   "key": "RC_RILEY_CAREY_120011076514319",
-   "name": "Carey Riley",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795391278,
-   "photo": "photos/RC_RILEY_CAREY_120011076514319.jpg"
-  },
-  {
-   "key": "RC_ESPADASCRAMER_NANCY_120011076514461",
-   "name": "Nancy Gloria Espadas-Cramer",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 0,
-   "ts": 1795391275,
    "photo": null
   },
   {
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_LANGE_CODY_403486",
+   "name": "Cody Alexander Lange",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795406254,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_TREVON_404007",
+   "name": "Trevon LeeDemorio Jackson",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795406252,
+   "photo": null
+  },
+  {
    "key": "RC_OTTO_ERIC_120011076519501",
    "name": "Eric George Otto",
    "age": "25",
@@ -581,7 +603,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 1,
    "ts": 1795404452,
    "photo": null
@@ -592,8 +614,8 @@
    "age": "20",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 10,
    "ts": 1795404450,
    "photo": null
   },
