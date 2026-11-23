@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T08:40:00+00:00",
+ "updated": "2026-11-23T08:49:27+00:00",
  "items": [
+  {
+   "key": "MALLETTE_CHRISTOPHER_2026-11-23",
+   "name": "Christopher A Mallette",
+   "age": "60",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795423627,
+   "photo": null
+  },
   {
    "key": "RC_BELL_RAIFORD_120011076523681",
    "name": "Raiford Edward Bell",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1795370048,
    "photo": null
-  },
-  {
-   "key": "MAR_BESSETTE_AMANDA_2026-11-22_1300006",
-   "name": "Amanda Jean Bessette",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1795370005,
-   "photo": "photos/MAR_BESSETTE_AMANDA_2026-11-22_1300006.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MALLETTE_CHRISTOPHER_2026-11-23",
+   "name": "Christopher A Mallette",
+   "age": "60",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795423627,
+   "photo": null
+  },
   {
    "key": "RC_BELL_RAIFORD_120011076523681",
    "name": "Raiford Edward Bell",
@@ -4303,17 +4314,6 @@
    "more": 0,
    "ts": 1795166186,
    "photo": "photos/FDL_OCLAIRE_SARAH_2026-11-20.jpg"
-  },
-  {
-   "key": "RC_GONZALEZCHAVEZ_MARCO_120011076444975",
-   "name": "Marco Antonio Gonzalez Chavez",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795164479,
-   "photo": "photos/RC_GONZALEZCHAVEZ_MARCO_120011076444975.jpg"
   }
  ]
 }
