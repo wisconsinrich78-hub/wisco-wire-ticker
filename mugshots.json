@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:02:48+00:00",
+ "updated": "2026-11-23T04:49:30+00:00",
  "items": [
   {
    "key": "MKE_LANGE_CODY_403486",
@@ -7,8 +7,8 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1795406254,
    "photo": null
   },
@@ -40,7 +40,7 @@
    "age": "31",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Criminal Damage To Property",
    "more": 0,
    "ts": 1795405679,
    "photo": "photos/RC_CASTILLO_NOEL_120011076520308.jpg"
@@ -73,7 +73,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 1,
    "ts": 1795404452,
    "photo": null
@@ -537,8 +537,8 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 4,
    "ts": 1795406254,
    "photo": null
   },
@@ -570,7 +570,7 @@
    "age": "31",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Criminal Damage To Property",
    "more": 0,
    "ts": 1795405679,
    "photo": "photos/RC_CASTILLO_NOEL_120011076520308.jpg"
@@ -603,7 +603,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "charge": "Vehicle Operator Flee/Elude Officer",
    "more": 1,
    "ts": 1795404452,
    "photo": null
