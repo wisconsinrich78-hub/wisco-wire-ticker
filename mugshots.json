@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T20:02:08+00:00",
+ "updated": "2026-11-23T20:38:10+00:00",
  "items": [
+  {
+   "key": "DOU_PETERSON_ERIC_2026-11-23",
+   "name": "Eric S Peterson",
+   "age": "52",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Housed for Other Agency",
+   "more": 0,
+   "ts": 1795465009,
+   "photo": "photos/DOU_PETERSON_ERIC_2026-11-23.jpg"
+  },
   {
    "key": "MKE_NEAL_BOBBY_221332",
    "name": "Bobby Terrence Neal",
@@ -73,7 +84,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Party to a Crime",
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
    "more": 13,
    "ts": 1795460259,
    "photo": null
@@ -84,7 +95,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Domestic Abuse Surcharges",
    "more": 2,
    "ts": 1795460257,
    "photo": null
@@ -517,20 +528,20 @@
    "more": 3,
    "ts": 1795389367,
    "photo": "photos/FDL_CARTER_BRET_2026-11-22.jpg"
-  },
-  {
-   "key": "DOU_GOODIEL_RANDY_2026-11-22",
-   "name": "Randy L Goodiel",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1795385808,
-   "photo": "photos/DOU_GOODIEL_RANDY_2026-11-22.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_PETERSON_ERIC_2026-11-23",
+   "name": "Eric S Peterson",
+   "age": "52",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Housed for Other Agency",
+   "more": 0,
+   "ts": 1795465009,
+   "photo": "photos/DOU_PETERSON_ERIC_2026-11-23.jpg"
+  },
   {
    "key": "MKE_NEAL_BOBBY_221332",
    "name": "Bobby Terrence Neal",
@@ -603,7 +614,7 @@
    "age": "24",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Party to a Crime",
+   "charge": "Possession of Firearm - Adjudicated Delinquent",
    "more": 13,
    "ts": 1795460259,
    "photo": null
@@ -614,7 +625,7 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Domestic Abuse Surcharges",
    "more": 2,
    "ts": 1795460257,
    "photo": null
@@ -4094,39 +4105,6 @@
    "more": 0,
    "ts": 1795207670,
    "photo": "photos/RC_HAMILTON_ANTHONY_120011076466960.jpg"
-  },
-  {
-   "key": "MKE_FAISON_DONNIE_608967",
-   "name": "Donnie Sherrod Faison",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795206471,
-   "photo": "photos/MKE_FAISON_DONNIE_608967.jpg"
-  },
-  {
-   "key": "DOU_HUGHES_CARLIE_2026-11-20",
-   "name": "Carlie J Hughes",
-   "age": "36",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 0,
-   "ts": 1795205815,
-   "photo": "photos/DOU_HUGHES_CARLIE_2026-11-20.jpg"
-  },
-  {
-   "key": "FDL_BAADE_TOBY_2026-11-20",
-   "name": "Toby A Baade",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Misdemeanor Bail Jumping",
-   "more": 1,
-   "ts": 1795205760,
-   "photo": "photos/FDL_BAADE_TOBY_2026-11-20.jpg"
   }
  ]
 }
