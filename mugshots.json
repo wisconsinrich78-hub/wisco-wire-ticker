@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:09:31+00:00",
+ "updated": "2026-11-23T06:37:47+00:00",
  "items": [
   {
    "key": "RC_VANSTRATEN_JACOB_120011076521894",
@@ -172,7 +172,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 1,
    "ts": 1795404452,
    "photo": null
@@ -702,7 +702,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
    "more": 1,
    "ts": 1795404452,
    "photo": null
@@ -4358,28 +4358,6 @@
    "more": 0,
    "ts": 1795157272,
    "photo": null
-  },
-  {
-   "key": "MKE_GARCIASANTIESTEBAN_LUIS_195339",
-   "name": "Luis Garcia-Santiesteban",
-   "age": "78",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "County/Municipality - Receiving or Concealing Stolen Property\u2026",
-   "more": 2,
-   "ts": 1795156049,
-   "photo": "photos/MKE_GARCIASANTIESTEBAN_LUIS_195339.jpg"
-  },
-  {
-   "key": "MKE_GILMORE_CHERRY_628903",
-   "name": "Cherry Gilmore",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795156047,
-   "photo": "photos/MKE_GILMORE_CHERRY_628903.jpg"
   }
  ]
 }
