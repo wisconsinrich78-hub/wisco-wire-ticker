@@ -1,14 +1,25 @@
 {
- "updated": "2026-11-23T06:37:47+00:00",
+ "updated": "2026-11-23T06:49:25+00:00",
  "items": [
+  {
+   "key": "RC_JUTLEY_HARINDER_120011076523106",
+   "name": "Harinder S Jutley",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795416480,
+   "photo": "photos/RC_JUTLEY_HARINDER_120011076523106.jpg"
+  },
   {
    "key": "RC_VANSTRATEN_JACOB_120011076521894",
    "name": "Jacob Joseph Vanstraten",
    "age": "47",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
    "ts": 1795412883,
    "photo": "photos/RC_VANSTRATEN_JACOB_120011076521894.jpg"
   },
@@ -299,17 +310,6 @@
    "photo": "photos/FDL_MACKEY_JASIAH_2026-11-22.jpg"
   },
   {
-   "key": "MKE_EVANS_EUNICH_648457",
-   "name": "Eunich Abxrias Evans",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Child Sexual Assault - Intercourse with Person under 12",
-   "more": 0,
-   "ts": 1795393653,
-   "photo": "photos/MKE_EVANS_EUNICH_648457.jpg"
-  },
-  {
    "key": "FDL_PICADO_FREDDY_2026-11-22",
    "name": "Freddy Picado",
    "age": "",
@@ -532,13 +532,24 @@
  ],
  "all_items": [
   {
+   "key": "RC_JUTLEY_HARINDER_120011076523106",
+   "name": "Harinder S Jutley",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795416480,
+   "photo": "photos/RC_JUTLEY_HARINDER_120011076523106.jpg"
+  },
+  {
    "key": "RC_VANSTRATEN_JACOB_120011076521894",
    "name": "Jacob Joseph Vanstraten",
    "age": "47",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 2,
    "ts": 1795412883,
    "photo": "photos/RC_VANSTRATEN_JACOB_120011076521894.jpg"
   },
@@ -4347,17 +4358,6 @@
    "more": 3,
    "ts": 1795157849,
    "photo": "photos/MKE_EDWARDS_NATHAN_636440.jpg"
-  },
-  {
-   "key": "RC_GONZALEZCHAVEZ_MACROANTONIO_120011076444975",
-   "name": "Macroantonio Gonzalez Chavez",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795157272,
-   "photo": null
   }
  ]
 }
