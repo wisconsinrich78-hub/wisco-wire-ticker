@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T19:40:54+00:00",
+ "updated": "2026-11-23T19:49:26+00:00",
  "items": [
+  {
+   "key": "RC_MORROW_GIOVANNI_120011076542598",
+   "name": "Giovanni Morrow",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795463291,
+   "photo": "photos/RC_MORROW_GIOVANNI_120011076542598.jpg"
+  },
   {
    "key": "FDL_HENK_CHEYENNE_2026-11-23",
    "name": "Cheyenne E Henk",
@@ -62,8 +73,8 @@
    "age": "54",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Credit Card - Fraudulent Use (> $10,000)",
+   "more": 1,
    "ts": 1795459684,
    "photo": "photos/RC_LUNT_SCOTTIE_120011076540089.jpg"
   },
@@ -209,17 +220,6 @@
    "more": 1,
    "ts": 1795453067,
    "photo": "photos/MKE_COMMODORE_JAYDEN_648464.jpg"
-  },
-  {
-   "key": "MKE_MALDONADO_LEO_648465",
-   "name": "Leo A Maldonado",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Endanger Safety/Use/Dangerous Weapon",
-   "more": 0,
-   "ts": 1795453064,
-   "photo": null
   },
   {
    "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_MORROW_GIOVANNI_120011076542598",
+   "name": "Giovanni Morrow",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795463291,
+   "photo": "photos/RC_MORROW_GIOVANNI_120011076542598.jpg"
+  },
+  {
    "key": "FDL_HENK_CHEYENNE_2026-11-23",
    "name": "Cheyenne E Henk",
    "age": "",
@@ -592,8 +603,8 @@
    "age": "54",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Credit Card - Fraudulent Use (> $10,000)",
+   "more": 1,
    "ts": 1795459684,
    "photo": "photos/RC_LUNT_SCOTTIE_120011076540089.jpg"
   },
@@ -4094,17 +4105,6 @@
    "more": 3,
    "ts": 1795204663,
    "photo": "photos/MKE_OKEEFE_TIMOTHY_648426.jpg"
-  },
-  {
-   "key": "RC_MROCH_AMANDA_120011076464338",
-   "name": "Amanda Lynn Mroch",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 5,
-   "ts": 1795204073,
-   "photo": "photos/RC_MROCH_AMANDA_120011076464338.jpg"
   }
  ]
 }
