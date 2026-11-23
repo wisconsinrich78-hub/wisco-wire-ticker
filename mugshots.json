@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T21:00:41+00:00",
+ "updated": "2026-11-23T21:40:02+00:00",
  "items": [
+  {
+   "key": "LEMAGNES_LAZARO_2026-11-23",
+   "name": "Lazaro J Lemagnes",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 2,
+   "ts": 1795469223,
+   "photo": null
+  },
+  {
+   "key": "SPARKLES_COBY_2026-11-23",
+   "name": "Coby S Sparkles",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "La Crosse County Child Support W/C",
+   "more": 0,
+   "ts": 1795469222,
+   "photo": null
+  },
   {
    "key": "RC_PRINCIPATOSCHULTZ_CHRISTINA_120011076544416",
    "name": "Christina Principato-Schultz",
@@ -506,31 +528,31 @@
    "more": 1,
    "ts": 1795391615,
    "photo": null
-  },
-  {
-   "key": "FDL_SPARKS_RACHEL_2026-11-22",
-   "name": "Rachel Catherine Sparks",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795389399,
-   "photo": "photos/FDL_SPARKS_RACHEL_2026-11-22.jpg"
-  },
-  {
-   "key": "FDL_CARTER_BRET_2026-11-22",
-   "name": "Bret James Carter",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 3,
-   "ts": 1795389367,
-   "photo": "photos/FDL_CARTER_BRET_2026-11-22.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "LEMAGNES_LAZARO_2026-11-23",
+   "name": "Lazaro J Lemagnes",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possess Methamphetamine",
+   "more": 2,
+   "ts": 1795469223,
+   "photo": null
+  },
+  {
+   "key": "SPARKLES_COBY_2026-11-23",
+   "name": "Coby S Sparkles",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "La Crosse County Child Support W/C",
+   "more": 0,
+   "ts": 1795469222,
+   "photo": null
+  },
   {
    "key": "RC_PRINCIPATOSCHULTZ_CHRISTINA_120011076544416",
    "name": "Christina Principato-Schultz",
@@ -4039,50 +4061,6 @@
    "more": 1,
    "ts": 1795211237,
    "photo": "photos/HOU_ENGELHART_ANNABELLESUE_6335.jpg"
-  },
-  {
-   "key": "MKE_HARVEY_SHAUMBAY_288359",
-   "name": "Shaumbay Deshawn Harvey",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
-   "more": 3,
-   "ts": 1795210062,
-   "photo": "photos/MKE_HARVEY_SHAUMBAY_288359.jpg"
-  },
-  {
-   "key": "MKE_SHANKS_ARTIEAS_358604",
-   "name": "Artieas Yenom Shanks",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1795210060,
-   "photo": "photos/MKE_SHANKS_ARTIEAS_358604.jpg"
-  },
-  {
-   "key": "MKE_DANZY_ARIANA_627426",
-   "name": "Ariana Nicole Danzy",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1795210058,
-   "photo": "photos/MKE_DANZY_ARIANA_627426.jpg"
-  },
-  {
-   "key": "MKE_SKERVEN_TRAVIS_648427",
-   "name": "Travis James Skerven",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795210057,
-   "photo": "photos/MKE_SKERVEN_TRAVIS_648427.jpg"
   }
  ]
 }
