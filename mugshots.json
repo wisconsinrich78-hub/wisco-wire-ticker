@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T23:42:59+00:00",
+ "updated": "2026-11-23T23:49:25+00:00",
  "items": [
+  {
+   "key": "RC_SCHUTTERS_TIFFANY_120011076549883",
+   "name": "Tiffany D Schutters",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795477691,
+   "photo": "photos/RC_SCHUTTERS_TIFFANY_120011076549883.jpg"
+  },
+  {
+   "key": "RC_HEINTZ_JOSHUA_120011076550704",
+   "name": "Joshua Allen Heintz",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795477687,
+   "photo": "photos/RC_HEINTZ_JOSHUA_120011076550704.jpg"
+  },
   {
    "key": "MKE_GALINDO_MARIO_289212",
    "name": "Mario Albert Galindo",
@@ -128,7 +150,7 @@
    "age": "38",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Substantial Battery",
    "more": 0,
    "ts": 1795474079,
    "photo": "photos/RC_COTTON_GREGORY_120011076547605.jpg"
@@ -197,28 +219,6 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 1,
    "ts": 1795471056,
-   "photo": null
-  },
-  {
-   "key": "MKE_CARTER_MARK_412012",
-   "name": "Mark Carter",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1795471053,
-   "photo": null
-  },
-  {
-   "key": "MKE_MOBLEY_QUAMAINE_626328",
-   "name": "Quamaine J Mobley",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795471051,
    "photo": null
   },
   {
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "RC_SCHUTTERS_TIFFANY_120011076549883",
+   "name": "Tiffany D Schutters",
+   "age": "38",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795477691,
+   "photo": "photos/RC_SCHUTTERS_TIFFANY_120011076549883.jpg"
+  },
+  {
+   "key": "RC_HEINTZ_JOSHUA_120011076550704",
+   "name": "Joshua Allen Heintz",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795477687,
+   "photo": "photos/RC_HEINTZ_JOSHUA_120011076550704.jpg"
+  },
+  {
    "key": "MKE_GALINDO_MARIO_289212",
    "name": "Mario Albert Galindo",
    "age": "45",
@@ -658,7 +680,7 @@
    "age": "38",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Substantial Battery",
    "more": 0,
    "ts": 1795474079,
    "photo": "photos/RC_COTTON_GREGORY_120011076547605.jpg"
@@ -4171,17 +4193,6 @@
    "more": 0,
    "ts": 1795218941,
    "photo": "photos/KEN_ALDAOUD_ABDULJABBAR_2026-00006431.jpg"
-  },
-  {
-   "key": "MURPHY_ANTHONY_2026-11-20",
-   "name": "Anthony Murphy",
-   "age": "62",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795218431,
-   "photo": null
   }
  ]
 }
