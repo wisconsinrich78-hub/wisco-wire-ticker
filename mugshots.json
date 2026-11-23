@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-23T19:49:26+00:00",
+ "updated": "2026-11-23T20:02:08+00:00",
  "items": [
+  {
+   "key": "MKE_NEAL_BOBBY_221332",
+   "name": "Bobby Terrence Neal",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 8,
+   "ts": 1795463856,
+   "photo": null
+  },
+  {
+   "key": "MKE_JETERS_LANDON_648468",
+   "name": "Landon Jeters",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795463855,
+   "photo": null
+  },
+  {
+   "key": "MAR_VALDEZ_MATTHEW_2026-11-23_339625",
+   "name": "Matthew Roland Valdez",
+   "age": "61",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ of Habeas Corpus",
+   "more": 0,
+   "ts": 1795463622,
+   "photo": "photos/MAR_VALDEZ_MATTHEW_2026-11-23_339625.jpg"
+  },
   {
    "key": "RC_MORROW_GIOVANNI_120011076542598",
    "name": "Giovanni Morrow",
@@ -198,28 +231,6 @@
    "more": 0,
    "ts": 1795453347,
    "photo": "photos/KEN_ROBERTSON_BRANDAN_2026-00006469.jpg"
-  },
-  {
-   "key": "KEN_RAMIREZ_ANTHONY_2026-00006467",
-   "name": "Anthony Hugo Ramirez",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Oper W/O Required Lamp Lighted",
-   "more": 3,
-   "ts": 1795453195,
-   "photo": null
-  },
-  {
-   "key": "MKE_COMMODORE_JAYDEN_648464",
-   "name": "Jayden Commodore",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795453067,
-   "photo": "photos/MKE_COMMODORE_JAYDEN_648464.jpg"
   },
   {
    "key": "MAR_SIMS_CARLA_2026-11-21_1232805",
@@ -517,20 +528,42 @@
    "more": 3,
    "ts": 1795385808,
    "photo": "photos/DOU_GOODIEL_RANDY_2026-11-22.jpg"
-  },
-  {
-   "key": "MAR_KIBLER_MALIEK_2026-11-21_14015720",
-   "name": "Maliek Jackson Kibler",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1795384479,
-   "photo": "photos/MAR_KIBLER_MALIEK_2026-11-21_14015720.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_NEAL_BOBBY_221332",
+   "name": "Bobby Terrence Neal",
+   "age": "58",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Surcharges",
+   "more": 8,
+   "ts": 1795463856,
+   "photo": null
+  },
+  {
+   "key": "MKE_JETERS_LANDON_648468",
+   "name": "Landon Jeters",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795463855,
+   "photo": null
+  },
+  {
+   "key": "MAR_VALDEZ_MATTHEW_2026-11-23_339625",
+   "name": "Matthew Roland Valdez",
+   "age": "61",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Writ of Habeas Corpus",
+   "more": 0,
+   "ts": 1795463622,
+   "photo": "photos/MAR_VALDEZ_MATTHEW_2026-11-23_339625.jpg"
+  },
   {
    "key": "RC_MORROW_GIOVANNI_120011076542598",
    "name": "Giovanni Morrow",
@@ -4094,17 +4127,6 @@
    "more": 1,
    "ts": 1795205760,
    "photo": "photos/FDL_BAADE_TOBY_2026-11-20.jpg"
-  },
-  {
-   "key": "MKE_OKEEFE_TIMOTHY_648426",
-   "name": "Timothy M OKeefe",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 3,
-   "ts": 1795204663,
-   "photo": "photos/MKE_OKEEFE_TIMOTHY_648426.jpg"
   }
  ]
 }
