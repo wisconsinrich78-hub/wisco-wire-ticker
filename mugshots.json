@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T18:44:42+00:00",
+ "updated": "2026-11-24T18:49:30+00:00",
  "items": [
+  {
+   "key": "RC_COPELAND_CHRISTOPHER_120011076576321",
+   "name": "Christopher Copeland",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795546122,
+   "photo": "photos/RC_COPELAND_CHRISTOPHER_120011076576321.jpg"
+  },
+  {
+   "key": "RC_WALLER_LEE_120011076576861",
+   "name": "Lee Arthur Waller",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795546118,
+   "photo": "photos/RC_WALLER_LEE_120011076576861.jpg"
+  },
+  {
+   "key": "RC_SCHMITZ_EUGENE_120011076576973",
+   "name": "Eugene A Schmitz",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795546114,
+   "photo": "photos/RC_SCHMITZ_EUGENE_120011076576973.jpg"
+  },
   {
    "key": "MKE_JORDAN_AARON_229020",
    "name": "Aaron Lee Jordan",
@@ -10,7 +43,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795545492,
-   "photo": null
+   "photo": "photos/MKE_JORDAN_AARON_229020.jpg"
   },
   {
    "key": "MKE_MEINECKE_BRIAN_2057679",
@@ -209,39 +242,6 @@
    "more": 0,
    "ts": 1795538938,
    "photo": "photos/RC_ROBINSON_AMARIA_120011076570179.jpg"
-  },
-  {
-   "key": "RC_OCCLESHAW_JUSTIN_120011076570260",
-   "name": "Justin William Occleshaw",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795538934,
-   "photo": null
-  },
-  {
-   "key": "RC_OCCLESHAW_JUSTIN_120011076570324",
-   "name": "Justin William Occleshaw",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795538931,
-   "photo": null
-  },
-  {
-   "key": "RC_OCCLESHAW_JUSTIN_120011076570331",
-   "name": "Justin William Occleshaw",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795538928,
-   "photo": null
   },
   {
    "key": "BACKSTROM_RUSSELL_2026-11-24",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "RC_COPELAND_CHRISTOPHER_120011076576321",
+   "name": "Christopher Copeland",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795546122,
+   "photo": "photos/RC_COPELAND_CHRISTOPHER_120011076576321.jpg"
+  },
+  {
+   "key": "RC_WALLER_LEE_120011076576861",
+   "name": "Lee Arthur Waller",
+   "age": "48",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795546118,
+   "photo": "photos/RC_WALLER_LEE_120011076576861.jpg"
+  },
+  {
+   "key": "RC_SCHMITZ_EUGENE_120011076576973",
+   "name": "Eugene A Schmitz",
+   "age": "56",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795546114,
+   "photo": "photos/RC_SCHMITZ_EUGENE_120011076576973.jpg"
+  },
+  {
    "key": "MKE_JORDAN_AARON_229020",
    "name": "Aaron Lee Jordan",
    "age": "57",
@@ -540,7 +573,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795545492,
-   "photo": null
+   "photo": "photos/MKE_JORDAN_AARON_229020.jpg"
   },
   {
    "key": "MKE_MEINECKE_BRIAN_2057679",
@@ -826,7 +859,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795537674,
-   "photo": null
+   "photo": "photos/MKE_HANDRICKOBERLE_SEAN_289846.jpg"
   },
   {
    "key": "MKE_JACKSON_JOSAIR_339667",
@@ -3984,17 +4017,6 @@
    "more": 0,
    "ts": 1795287203,
    "photo": null
-  },
-  {
-   "key": "RC_DAWSON_BRANDON_120011076488092",
-   "name": "Brandon Lemor Dawson",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Intimidate Victim/Threaten Force, etc.",
-   "more": 2,
-   "ts": 1795286894,
-   "photo": "photos/RC_DAWSON_BRANDON_120011076488092.jpg"
   }
  ]
 }
