@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T19:09:50+00:00",
+ "updated": "2026-11-24T19:31:42+00:00",
  "items": [
+  {
+   "key": "STIKA_DYLAN_2026-11-24",
+   "name": "Dylan E Stika",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795548201,
+   "photo": null
+  },
   {
    "key": "MKE_MITCHELL_DARNELL_295993",
    "name": "Darnell R Mitchell",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1795472206,
    "photo": "photos/DOU_MCCUNE_ANTWONETTE_2026-11-23.jpg"
-  },
-  {
-   "key": "FDL_DOTSON_DRAKHAR_2026-11-23",
-   "name": "Drakhar Eric Dotson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795472171,
-   "photo": "photos/FDL_DOTSON_DRAKHAR_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "STIKA_DYLAN_2026-11-24",
+   "name": "Dylan E Stika",
+   "age": "34",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795548201,
+   "photo": null
+  },
   {
    "key": "MKE_MITCHELL_DARNELL_295993",
    "name": "Darnell R Mitchell",
@@ -4006,17 +4017,6 @@
    "more": 11,
    "ts": 1795291057,
    "photo": "photos/MKE_MEYER_WILLIAM_648439.jpg"
-  },
-  {
-   "key": "BENJAMIN_DOMINIC_2026-11-21",
-   "name": "Dominic E Benjamin",
-   "age": "26",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795289223,
-   "photo": null
   }
  ]
 }
