@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T03:03:29+00:00",
+ "updated": "2026-11-24T03:49:27+00:00",
  "items": [
+  {
+   "key": "DAVIS_BRIAN_2026-11-23",
+   "name": "Brian D Davis",
+   "age": "65",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Stalking",
+   "more": 0,
+   "ts": 1795490823,
+   "photo": null
+  },
+  {
+   "key": "BENOIT_DAMON_2026-11-23",
+   "name": "Damon P Benoit",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795490822,
+   "photo": null
+  },
+  {
+   "key": "FDL_SPRINGER_JESSE_2026-11-23",
+   "name": "Jesse Benjamin Springer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1795490211,
+   "photo": "photos/FDL_SPRINGER_JESSE_2026-11-23.jpg"
+  },
   {
    "key": "KEN_WELLS_CORY_2026-00006477",
    "name": "Cory Ray Wells",
@@ -495,42 +528,42 @@
    "more": 3,
    "ts": 1795410969,
    "photo": null
-  },
-  {
-   "key": "MAR_RAMIREZ_HAILEY_2026-11-22",
-   "name": "Hailey L Ramirez",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795409644,
-   "photo": null
-  },
-  {
-   "key": "MAR_POPP_DYLAN_2026-11-22",
-   "name": "Dylan Mark Popp",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Possession of Cocaine/Coca - 2nd",
-   "more": 3,
-   "ts": 1795409605,
-   "photo": "photos/MAR_POPP_DYLAN_2026-11-22.jpg"
-  },
-  {
-   "key": "TOMPKINS_JOHN_2026-11-22",
-   "name": "John Reed Tompkins",
-   "age": "71",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence",
-   "more": 0,
-   "ts": 1795405629,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "DAVIS_BRIAN_2026-11-23",
+   "name": "Brian D Davis",
+   "age": "65",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Stalking",
+   "more": 0,
+   "ts": 1795490823,
+   "photo": null
+  },
+  {
+   "key": "BENOIT_DAMON_2026-11-23",
+   "name": "Damon P Benoit",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795490822,
+   "photo": null
+  },
+  {
+   "key": "FDL_SPRINGER_JESSE_2026-11-23",
+   "name": "Jesse Benjamin Springer",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Writ",
+   "more": 0,
+   "ts": 1795490211,
+   "photo": "photos/FDL_SPRINGER_JESSE_2026-11-23.jpg"
+  },
   {
    "key": "KEN_WELLS_CORY_2026-00006477",
    "name": "Cory Ray Wells",
