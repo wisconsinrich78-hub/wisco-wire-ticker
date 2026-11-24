@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-24T17:49:33+00:00",
+ "updated": "2026-11-24T18:44:42+00:00",
  "items": [
+  {
+   "key": "MKE_JORDAN_AARON_229020",
+   "name": "Aaron Lee Jordan",
+   "age": "57",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795545492,
+   "photo": null
+  },
+  {
+   "key": "MKE_MEINECKE_BRIAN_2057679",
+   "name": "Brian Richard Meinecke",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795545490,
+   "photo": null
+  },
+  {
+   "key": "VANDERSCHAAF_RYAN_2026-11-24",
+   "name": "Ryan Joseph Vanderschaaf",
+   "age": "43",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795544607,
+   "photo": null
+  },
+  {
+   "key": "DOU_WICKLUND_APRIL_2026-11-24",
+   "name": "April M Wicklund",
+   "age": "42",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Warrant",
+   "more": 0,
+   "ts": 1795544268,
+   "photo": "photos/DOU_WICKLUND_APRIL_2026-11-24.jpg"
+  },
+  {
+   "key": "FDL_JASSEREXQUIEL_LIRA_2026-11-24",
+   "name": "Lira Pance Jasser Exquiel",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795544205,
+   "photo": "photos/FDL_JASSEREXQUIEL_LIRA_2026-11-24.jpg"
+  },
+  {
+   "key": "KEN_MAZUREK_RICHARD_2026-00006487",
+   "name": "RICHARD JOSEPH Junior MAZUREK",
+   "age": "66",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1795543072,
+   "photo": "photos/KEN_MAZUREK_RICHARD_2026-00006487.jpg"
+  },
+  {
+   "key": "MAR_VANG_JIMMIE_2026-11-24",
+   "name": "Jimmie Van Kai Vang",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1st Degree Child Sex Assault - Contact/Intercourse W/ Person",
+   "more": 1,
+   "ts": 1795542892,
+   "photo": "photos/MAR_VANG_JIMMIE_2026-11-24.jpg"
+  },
+  {
+   "key": "MAR_CURTINWEBER_NATASHA_2026-11-24",
+   "name": "Natasha Diann Curtin-Weber",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795542819,
+   "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24.jpg"
+  },
   {
    "key": "MKE_CARPIOCERVERA_LUIS_644949",
    "name": "Luis E Carpio Cervera",
@@ -156,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "RC_OCCLESHAW_JUSTIN_120011076570337",
-   "name": "Justin William Occleshaw",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795538925,
-   "photo": null
-  },
-  {
    "key": "BACKSTROM_RUSSELL_2026-11-24",
    "name": "Russell S Backstrom",
    "age": "64",
@@ -176,28 +253,6 @@
    "more": 1,
    "ts": 1795538837,
    "photo": null
-  },
-  {
-   "key": "MKE_MCMANUS_GARY_176511",
-   "name": "Gary David Mcmanus",
-   "age": "67",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795537679,
-   "photo": "photos/MKE_MCMANUS_GARY_176511.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_ARTHUR_226429",
-   "name": "Arthur Lee Davis",
-   "age": "71",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795537676,
-   "photo": "photos/MKE_DAVIS_ARTHUR_226429.jpg"
   },
   {
    "key": "FDL_EVANS_KEVION_2026-11-24",
@@ -473,64 +528,97 @@
    "more": 0,
    "ts": 1795471021,
    "photo": null
-  },
-  {
-   "key": "LEMAGNES_LAZARO_2026-11-23",
-   "name": "Lazaro J Lemagnes",
-   "age": "42",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Possess Methamphetamine",
-   "more": 2,
-   "ts": 1795469223,
-   "photo": null
-  },
-  {
-   "key": "SPARKLES_COBY_2026-11-23",
-   "name": "Coby S Sparkles",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "La Crosse County Child Support W/C",
-   "more": 0,
-   "ts": 1795469222,
-   "photo": null
-  },
-  {
-   "key": "DOU_PETERSON_ERIC_2026-11-23",
-   "name": "Eric S Peterson",
-   "age": "52",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Housed for Other Agency",
-   "more": 0,
-   "ts": 1795465009,
-   "photo": "photos/DOU_PETERSON_ERIC_2026-11-23.jpg"
-  },
-  {
-   "key": "MAR_VALDEZ_MATTHEW_2026-11-23_339625",
-   "name": "Matthew Roland Valdez",
-   "age": "61",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ of Habeas Corpus",
-   "more": 0,
-   "ts": 1795463622,
-   "photo": "photos/MAR_VALDEZ_MATTHEW_2026-11-23_339625.jpg"
-  },
-  {
-   "key": "FDL_HENK_CHEYENNE_2026-11-23",
-   "name": "Cheyenne E Henk",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Take and Drive Vehicle Without Owner'S Consent",
-   "more": 0,
-   "ts": 1795461388,
-   "photo": "photos/FDL_HENK_CHEYENNE_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_JORDAN_AARON_229020",
+   "name": "Aaron Lee Jordan",
+   "age": "57",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795545492,
+   "photo": null
+  },
+  {
+   "key": "MKE_MEINECKE_BRIAN_2057679",
+   "name": "Brian Richard Meinecke",
+   "age": "45",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795545490,
+   "photo": null
+  },
+  {
+   "key": "VANDERSCHAAF_RYAN_2026-11-24",
+   "name": "Ryan Joseph Vanderschaaf",
+   "age": "43",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795544607,
+   "photo": null
+  },
+  {
+   "key": "DOU_WICKLUND_APRIL_2026-11-24",
+   "name": "April M Wicklund",
+   "age": "42",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Warrant",
+   "more": 0,
+   "ts": 1795544268,
+   "photo": "photos/DOU_WICKLUND_APRIL_2026-11-24.jpg"
+  },
+  {
+   "key": "FDL_JASSEREXQUIEL_LIRA_2026-11-24",
+   "name": "Lira Pance Jasser Exquiel",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795544205,
+   "photo": "photos/FDL_JASSEREXQUIEL_LIRA_2026-11-24.jpg"
+  },
+  {
+   "key": "KEN_MAZUREK_RICHARD_2026-00006487",
+   "name": "RICHARD JOSEPH Junior MAZUREK",
+   "age": "66",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Return on Writ",
+   "more": 0,
+   "ts": 1795543072,
+   "photo": "photos/KEN_MAZUREK_RICHARD_2026-00006487.jpg"
+  },
+  {
+   "key": "MAR_VANG_JIMMIE_2026-11-24",
+   "name": "Jimmie Van Kai Vang",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1st Degree Child Sex Assault - Contact/Intercourse W/ Person",
+   "more": 1,
+   "ts": 1795542892,
+   "photo": "photos/MAR_VANG_JIMMIE_2026-11-24.jpg"
+  },
+  {
+   "key": "MAR_CURTINWEBER_NATASHA_2026-11-24",
+   "name": "Natasha Diann Curtin-Weber",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795542819,
+   "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24.jpg"
+  },
   {
    "key": "MKE_CARPIOCERVERA_LUIS_644949",
    "name": "Luis E Carpio Cervera",
@@ -771,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 7,
    "ts": 1795537668,
-   "photo": null
+   "photo": "photos/MKE_CURRY_JULIA_381921.jpg"
   },
   {
    "key": "MKE_SMITH_TYRISHA_601061",
@@ -3907,28 +3995,6 @@
    "more": 2,
    "ts": 1795286894,
    "photo": "photos/RC_DAWSON_BRANDON_120011076488092.jpg"
-  },
-  {
-   "key": "DOU_WILKINS_JAVANNI_2026-11-21",
-   "name": "Javanni A Wilkins",
-   "age": "22",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795285841,
-   "photo": "photos/DOU_WILKINS_JAVANNI_2026-11-21.jpg"
-  },
-  {
-   "key": "MKE_TURNER_MICHAEL_639514",
-   "name": "Michael Turner",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795285657,
-   "photo": "photos/MKE_TURNER_MICHAEL_639514.jpg"
   }
  ]
 }
