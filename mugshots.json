@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T06:49:33+00:00",
+ "updated": "2026-11-24T07:45:34+00:00",
  "items": [
+  {
+   "key": "MKE_DICKERSON_SIDNEY_380422",
+   "name": "Sidney Deangelo Dickerson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795503473,
+   "photo": null
+  },
   {
    "key": "FDL_WILSON_JAYDAN_2026-11-23",
    "name": "Jaydan Marquis Wilson",
@@ -95,7 +106,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse-Act to Create Fear",
+   "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1795492659,
    "photo": null
@@ -296,7 +307,7 @@
    "charge": "Entry into/onto Bldg/Constuct.Site/Room",
    "more": 1,
    "ts": 1795481874,
-   "photo": null
+   "photo": "photos/MKE_DANIELS_KENNETH_648472.jpg"
   },
   {
    "key": "RC_PERRI_JENNIFER_120011076551561",
@@ -308,17 +319,6 @@
    "more": 0,
    "ts": 1795481302,
    "photo": "photos/RC_PERRI_JENNIFER_120011076551561.jpg"
-  },
-  {
-   "key": "RC_SERRANO_ESTEVAN_120011076551658",
-   "name": "Estevan Luis Serrano",
-   "age": "29",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795481299,
-   "photo": null
   },
   {
    "key": "LINDSAY_THOMAS_2026-11-23",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_DICKERSON_SIDNEY_380422",
+   "name": "Sidney Deangelo Dickerson",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795503473,
+   "photo": null
+  },
+  {
    "key": "FDL_WILSON_JAYDAN_2026-11-23",
    "name": "Jaydan Marquis Wilson",
    "age": "",
@@ -625,7 +636,7 @@
    "age": "47",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse-Act to Create Fear",
+   "charge": "Disorderly Conduct",
    "more": 1,
    "ts": 1795492659,
    "photo": null
@@ -826,7 +837,7 @@
    "charge": "Entry into/onto Bldg/Constuct.Site/Room",
    "more": 1,
    "ts": 1795481874,
-   "photo": null
+   "photo": "photos/MKE_DANIELS_KENNETH_648472.jpg"
   },
   {
    "key": "RC_PERRI_JENNIFER_120011076551561",
@@ -903,7 +914,7 @@
    "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
    "more": 2,
    "ts": 1795480073,
-   "photo": null
+   "photo": "photos/MKE_MOSLEY_SAMANTHA_610765.jpg"
   },
   {
    "key": "MKE_RISER_DAYZHUN_646049",
@@ -914,7 +925,7 @@
    "charge": "Carry Concealed Weapon",
    "more": 0,
    "ts": 1795480069,
-   "photo": null
+   "photo": "photos/MKE_RISER_DAYZHUN_646049.jpg"
   },
   {
    "key": "MKE_SMITH_JAIVON_648471",
@@ -988,10 +999,10 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Disorderly Conduct",
    "more": 7,
    "ts": 1795476506,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_KELLY_310010.jpg"
   },
   {
    "key": "MKE_STEPHENS_IDYANNA_620628",
@@ -1189,7 +1200,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795471051,
-   "photo": null
+   "photo": "photos/MKE_MOBLEY_QUAMAINE_626328.jpg"
   },
   {
    "key": "NEISIUS_NOAH_2026-11-23",
