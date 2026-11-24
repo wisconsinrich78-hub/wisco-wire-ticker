@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-24T20:49:27+00:00",
+ "updated": "2026-11-24T21:15:04+00:00",
  "items": [
+  {
+   "key": "MAR_VANG_JIMMIE_2026-11-24_7922303",
+   "name": "Jimmie Van Kai Vang",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1st Degree Child Sex Assault - Contact/Intercourse W/ Person",
+   "more": 1,
+   "ts": 1795553647,
+   "photo": "photos/MAR_VANG_JIMMIE_2026-11-24_7922303.jpg"
+  },
+  {
+   "key": "MAR_CURTINWEBER_NATASHA_2026-11-24_5258415",
+   "name": "Natasha Diann Curtin-Weber",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795553607,
+   "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24_5258415.jpg"
+  },
   {
    "key": "RC_MACK_STEVEN_120011076579826",
    "name": "Steven Mack",
@@ -95,8 +117,8 @@
    "age": "38",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Short-Barreled Shotgun/Rifle",
+   "more": 1,
    "ts": 1795550025,
    "photo": "photos/KEN_YOUNG_ROBERT_2026-00006488.jpg"
   },
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795490211,
    "photo": "photos/FDL_SPRINGER_JESSE_2026-11-23.jpg"
-  },
-  {
-   "key": "MAR_CREED_DRAVEN_2026-11-23_1385810",
-   "name": "Draven Zaine Creed",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795488798,
-   "photo": "photos/MAR_CREED_DRAVEN_2026-11-23_1385810.jpg"
-  },
-  {
-   "key": "MAR_CREED_DRAVEN_2026-11-23",
-   "name": "Draven Zaine Creed",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795485216,
-   "photo": "photos/MAR_CREED_DRAVEN_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_VANG_JIMMIE_2026-11-24_7922303",
+   "name": "Jimmie Van Kai Vang",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "1st Degree Child Sex Assault - Contact/Intercourse W/ Person",
+   "more": 1,
+   "ts": 1795553647,
+   "photo": "photos/MAR_VANG_JIMMIE_2026-11-24_7922303.jpg"
+  },
+  {
+   "key": "MAR_CURTINWEBER_NATASHA_2026-11-24_5258415",
+   "name": "Natasha Diann Curtin-Weber",
+   "age": "30",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795553607,
+   "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24_5258415.jpg"
+  },
   {
    "key": "RC_MACK_STEVEN_120011076579826",
    "name": "Steven Mack",
@@ -625,8 +647,8 @@
    "age": "38",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Short-Barreled Shotgun/Rifle",
+   "more": 1,
    "ts": 1795550025,
    "photo": "photos/KEN_YOUNG_ROBERT_2026-00006488.jpg"
   },
