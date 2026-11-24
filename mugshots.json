@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T04:49:30+00:00",
+ "updated": "2026-11-24T05:49:33+00:00",
  "items": [
+  {
+   "key": "HOU_MURPHY_KYLERAYMOND_6338",
+   "name": "Kyle Raymond Murphy",
+   "age": "18",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Threats of Violence - Reckless Disregard Risk (1-Court Pending)",
+   "more": 0,
+   "ts": 1795499249,
+   "photo": "photos/HOU_MURPHY_KYLERAYMOND_6338.jpg"
+  },
+  {
+   "key": "MKE_THRASHER_TRAVIS_519902",
+   "name": "Travis T Thrasher",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795498081,
+   "photo": null
+  },
+  {
+   "key": "MKE_SNEADDAVIS_DOROTHY_646761",
+   "name": "Dorothy Faye Snead Davis",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Throw/Discharge Bodily Fluid at Public Safety Worker or Prosecutor",
+   "more": 0,
+   "ts": 1795498078,
+   "photo": null
+  },
   {
    "key": "RC_MORRISON_CLARENCE_120011076558693",
    "name": "Clarence Joseph Morrison",
@@ -266,28 +299,6 @@
    "photo": null
   },
   {
-   "key": "RC_SIMPSON_BRITTANY_120011076552021",
-   "name": "Brittany Marie Simpson",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795481296,
-   "photo": "photos/RC_SIMPSON_BRITTANY_120011076552021.jpg"
-  },
-  {
-   "key": "MKE_NASHKELLY_JARVIS_246884",
-   "name": "Jarvis D Nash-Kelly",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Domestic Abuse Incident",
-   "more": 2,
-   "ts": 1795480080,
-   "photo": "photos/MKE_NASHKELLY_JARVIS_246884.jpg"
-  },
-  {
    "key": "LINDSAY_THOMAS_2026-11-23",
    "name": "Thomas L Lindsay",
    "age": "47",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1795450568,
    "photo": "photos/FDL_BUBB_SIERRA_2026-11-23.jpg"
-  },
-  {
-   "key": "MATTESON_RICHARD_2026-11-23",
-   "name": "Richard A Matteson",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795427228,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "HOU_MURPHY_KYLERAYMOND_6338",
+   "name": "Kyle Raymond Murphy",
+   "age": "18",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Threats of Violence - Reckless Disregard Risk (1-Court Pending)",
+   "more": 0,
+   "ts": 1795499249,
+   "photo": "photos/HOU_MURPHY_KYLERAYMOND_6338.jpg"
+  },
+  {
+   "key": "MKE_THRASHER_TRAVIS_519902",
+   "name": "Travis T Thrasher",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795498081,
+   "photo": null
+  },
+  {
+   "key": "MKE_SNEADDAVIS_DOROTHY_646761",
+   "name": "Dorothy Faye Snead Davis",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Throw/Discharge Bodily Fluid at Public Safety Worker or Prosecutor",
+   "more": 0,
+   "ts": 1795498078,
+   "photo": null
+  },
   {
    "key": "RC_MORRISON_CLARENCE_120011076558693",
    "name": "Clarence Joseph Morrison",
@@ -933,7 +966,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Disorderly Conduct",
    "more": 7,
    "ts": 1795476506,
    "photo": null
