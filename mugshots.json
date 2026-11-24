@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-24T03:49:27+00:00",
+ "updated": "2026-11-24T04:02:21+00:00",
  "items": [
+  {
+   "key": "MKE_ZYLKA_BRANDON_623976",
+   "name": "Brandon Robert Zylka",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795492659,
+   "photo": null
+  },
+  {
+   "key": "MKE_COLLINS_KENNETH_645386",
+   "name": "Kenneth Junior Collins",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795492657,
+   "photo": null
+  },
+  {
+   "key": "MCKEETH_REMINGTON_2026-11-23",
+   "name": "Remington K Mckeeth",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795492622,
+   "photo": null
+  },
+  {
+   "key": "MAR_FERNANDEZ_JESUS_2026-11-23",
+   "name": "Jesus Manuel Fernandez",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 1st",
+   "more": 1,
+   "ts": 1795492393,
+   "photo": "photos/MAR_FERNANDEZ_JESUS_2026-11-23.jpg"
+  },
   {
    "key": "DAVIS_BRIAN_2026-11-23",
    "name": "Brian D Davis",
@@ -51,8 +95,8 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Suspended",
+   "more": 4,
    "ts": 1795488846,
    "photo": "photos/KEN_GROSS_MICHAEL_2026-00006479.jpg"
   },
@@ -219,28 +263,6 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795480078,
-   "photo": null
-  },
-  {
-   "key": "MKE_CROSS_LAPRADA_287376",
-   "name": "Laprada Jermaine Cross",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1795480075,
-   "photo": null
-  },
-  {
-   "key": "MKE_MOSLEY_SAMANTHA_610765",
-   "name": "Samantha R Mosley",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 2,
-   "ts": 1795480073,
    "photo": null
   },
   {
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1795423627,
    "photo": null
-  },
-  {
-   "key": "FDL_HARALSON_GIOVANNIE_2026-11-22",
-   "name": "Giovannie Russell Haralson",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping",
-   "more": 1,
-   "ts": 1795410979,
-   "photo": "photos/FDL_HARALSON_GIOVANNIE_2026-11-22.jpg"
-  },
-  {
-   "key": "FDL_CLEVELAND_CURTIS_2026-11-22",
-   "name": "Curtis David Cleveland",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1795410969,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_ZYLKA_BRANDON_623976",
+   "name": "Brandon Robert Zylka",
+   "age": "47",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795492659,
+   "photo": null
+  },
+  {
+   "key": "MKE_COLLINS_KENNETH_645386",
+   "name": "Kenneth Junior Collins",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795492657,
+   "photo": null
+  },
+  {
+   "key": "MCKEETH_REMINGTON_2026-11-23",
+   "name": "Remington K Mckeeth",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795492622,
+   "photo": null
+  },
+  {
+   "key": "MAR_FERNANDEZ_JESUS_2026-11-23",
+   "name": "Jesus Manuel Fernandez",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 1st",
+   "more": 1,
+   "ts": 1795492393,
+   "photo": "photos/MAR_FERNANDEZ_JESUS_2026-11-23.jpg"
+  },
   {
    "key": "DAVIS_BRIAN_2026-11-23",
    "name": "Brian D Davis",
@@ -581,8 +625,8 @@
    "age": "43",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating While Suspended",
+   "more": 4,
    "ts": 1795488846,
    "photo": "photos/KEN_GROSS_MICHAEL_2026-00006479.jpg"
   },
@@ -856,7 +900,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Criminal Damage to Property",
    "more": 7,
    "ts": 1795476506,
    "photo": null
