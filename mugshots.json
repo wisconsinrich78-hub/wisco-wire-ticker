@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T04:02:21+00:00",
+ "updated": "2026-11-24T04:49:30+00:00",
  "items": [
+  {
+   "key": "RC_MORRISON_CLARENCE_120011076558693",
+   "name": "Clarence Joseph Morrison",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795495707,
+   "photo": null
+  },
+  {
+   "key": "ISBELL_JAMES_2026-11-23",
+   "name": "James E Isbell",
+   "age": "60",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795494419,
+   "photo": null
+  },
+  {
+   "key": "DOU_WHITE_ROBERT_2026-11-23",
+   "name": "Robert A White",
+   "age": "57",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Trespass of Real Property",
+   "more": 1,
+   "ts": 1795493760,
+   "photo": "photos/DOU_WHITE_ROBERT_2026-11-23.jpg"
+  },
   {
    "key": "MKE_ZYLKA_BRANDON_623976",
    "name": "Brandon Robert Zylka",
@@ -249,21 +282,10 @@
    "age": "55",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Domestic Abuse Incident",
    "more": 2,
    "ts": 1795480080,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_STENNEN_252006",
-   "name": "Stennen Norfleet Jackson",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795480078,
-   "photo": null
+   "photo": "photos/MKE_NASHKELLY_JARVIS_246884.jpg"
   },
   {
    "key": "LINDSAY_THOMAS_2026-11-23",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1795427228,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "FDL_BENZINE_TYLER_2026-11-23",
-   "name": "Tyler Scott Benzine",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping",
+   "key": "RC_MORRISON_CLARENCE_120011076558693",
+   "name": "Clarence Joseph Morrison",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
    "more": 0,
-   "ts": 1795425365,
-   "photo": "photos/FDL_BENZINE_TYLER_2026-11-23.jpg"
+   "ts": 1795495707,
+   "photo": null
   },
   {
-   "key": "MALLETTE_CHRISTOPHER_2026-11-23",
-   "name": "Christopher A Mallette",
+   "key": "ISBELL_JAMES_2026-11-23",
+   "name": "James E Isbell",
    "age": "60",
    "county": "La Crosse County",
    "region": "southwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1795423627,
+   "ts": 1795494419,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "DOU_WHITE_ROBERT_2026-11-23",
+   "name": "Robert A White",
+   "age": "57",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Trespass of Real Property",
+   "more": 1,
+   "ts": 1795493760,
+   "photo": "photos/DOU_WHITE_ROBERT_2026-11-23.jpg"
+  },
   {
    "key": "MKE_ZYLKA_BRANDON_623976",
    "name": "Brandon Robert Zylka",
@@ -779,10 +812,10 @@
    "age": "55",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Disorderly Conduct",
+   "charge": "Domestic Abuse Incident",
    "more": 2,
    "ts": 1795480080,
-   "photo": null
+   "photo": "photos/MKE_NASHKELLY_JARVIS_246884.jpg"
   },
   {
    "key": "MKE_JACKSON_STENNEN_252006",
