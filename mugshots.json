@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-24T21:49:34+00:00",
+ "updated": "2026-11-24T22:15:06+00:00",
  "items": [
+  {
+   "key": "MKE_BANKS_JALEN_535935",
+   "name": "Jalen Christopher Banks",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1795557479,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_DOMINIQUE_648479",
+   "name": "Dominique Darnell Robinson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1795557476,
+   "photo": null
+  },
   {
    "key": "RC_ALLEN_MICHAEL_120011076582728",
    "name": "Michael Dion Allen",
@@ -109,7 +131,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795552065,
-   "photo": null
+   "photo": "photos/MKE_CONDESERVERIANO_TERESA_648478.jpg"
   },
   {
    "key": "NOONAN_JOSHUA_2026-11-24",
@@ -264,28 +286,6 @@
    "more": 1,
    "ts": 1795546122,
    "photo": "photos/RC_COPELAND_CHRISTOPHER_120011076576321.jpg"
-  },
-  {
-   "key": "RC_WALLER_LEE_120011076576861",
-   "name": "Lee Arthur Waller",
-   "age": "48",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795546118,
-   "photo": "photos/RC_WALLER_LEE_120011076576861.jpg"
-  },
-  {
-   "key": "RC_SCHMITZ_EUGENE_120011076576973",
-   "name": "Eugene A Schmitz",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795546114,
-   "photo": "photos/RC_SCHMITZ_EUGENE_120011076576973.jpg"
   },
   {
    "key": "VANDERSCHAAF_RYAN_2026-11-24",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_BANKS_JALEN_535935",
+   "name": "Jalen Christopher Banks",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1795557479,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_DOMINIQUE_648479",
+   "name": "Dominique Darnell Robinson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1795557476,
+   "photo": null
+  },
+  {
    "key": "RC_ALLEN_MICHAEL_120011076582728",
    "name": "Michael Dion Allen",
    "age": "31",
@@ -639,7 +661,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795552065,
-   "photo": null
+   "photo": "photos/MKE_CONDESERVERIANO_TERESA_648478.jpg"
   },
   {
    "key": "NOONAN_JOSHUA_2026-11-24",
@@ -914,7 +936,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795541294,
-   "photo": null
+   "photo": "photos/MKE_CARPIOCERVERA_LUIS_644949.jpg"
   },
   {
    "key": "MKE_RANSOM_GAIL_648477",
@@ -958,7 +980,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795539492,
-   "photo": null
+   "photo": "photos/MKE_DODD_EXAVIER_622564.jpg"
   },
   {
    "key": "KEN_WILLIAMS_LARRY_2026-00006486",
@@ -4149,28 +4171,6 @@
    "more": 2,
    "ts": 1795301855,
    "photo": "photos/MKE_WATSON_DAEJON_607219.jpg"
-  },
-  {
-   "key": "MKE_MATTHEWS_DESHON_298399",
-   "name": "Deshon Contrel Matthews",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 18,
-   "ts": 1795298256,
-   "photo": "photos/MKE_MATTHEWS_DESHON_298399.jpg"
-  },
-  {
-   "key": "MKE_HIGGINS_NATASHIA_648440",
-   "name": "Natashia Higgins",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Theft-Business Setting >$2500-$5000",
-   "more": 0,
-   "ts": 1795298254,
-   "photo": null
   }
  ]
 }
