@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-24T19:49:30+00:00",
+ "updated": "2026-11-24T19:55:15+00:00",
  "items": [
+  {
+   "key": "KEN_YOUNG_ROBERT_2026-00006488",
+   "name": "Robert Lane Young",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795550025,
+   "photo": "photos/KEN_YOUNG_ROBERT_2026-00006488.jpg"
+  },
+  {
+   "key": "MAR_FERNANDEZ_JESUS_2026-11-23_12548703",
+   "name": "Jesus Manuel Fernandez",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 1st",
+   "more": 1,
+   "ts": 1795550003,
+   "photo": "photos/MAR_FERNANDEZ_JESUS_2026-11-23_12548703.jpg"
+  },
   {
    "key": "RC_FERRIS_MARY_120011076578634",
    "name": "Mary Hannah Ferris",
@@ -288,17 +310,6 @@
    "photo": "photos/KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006482.jpg"
   },
   {
-   "key": "KEN_GARNER_JERCOVIOUS_2026-00006485",
-   "name": "Jercovious Cortevian Garner",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Strangulation and Suffocation",
-   "more": 0,
-   "ts": 1795539332,
-   "photo": null
-  },
-  {
    "key": "BACKSTROM_RUSSELL_2026-11-24",
    "name": "Russell S Backstrom",
    "age": "64",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1795480025,
    "photo": null
-  },
-  {
-   "key": "MAR_LUEDKE_CONNOR_2026-11-23_1820908",
-   "name": "Connor Norman Luedke",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795478028,
-   "photo": "photos/MAR_LUEDKE_CONNOR_2026-11-23_1820908.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_YOUNG_ROBERT_2026-00006488",
+   "name": "Robert Lane Young",
+   "age": "38",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795550025,
+   "photo": "photos/KEN_YOUNG_ROBERT_2026-00006488.jpg"
+  },
+  {
+   "key": "MAR_FERNANDEZ_JESUS_2026-11-23_12548703",
+   "name": "Jesus Manuel Fernandez",
+   "age": "47",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 1st",
+   "more": 1,
+   "ts": 1795550003,
+   "photo": "photos/MAR_FERNANDEZ_JESUS_2026-11-23_12548703.jpg"
+  },
   {
    "key": "RC_FERRIS_MARY_120011076578634",
    "name": "Mary Hannah Ferris",
