@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-24T17:18:41+00:00",
+ "updated": "2026-11-24T17:46:52+00:00",
  "items": [
+  {
+   "key": "MKE_CARPIOCERVERA_LUIS_644949",
+   "name": "Luis E Carpio Cervera",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795541294,
+   "photo": null
+  },
+  {
+   "key": "MKE_RANSOM_GAIL_648477",
+   "name": "Gail Renee Ransom",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795541291,
+   "photo": null
+  },
   {
    "key": "FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24",
    "name": "Alfredo J Sanchez Gonzalez",
@@ -176,28 +198,6 @@
    "more": 2,
    "ts": 1795537676,
    "photo": "photos/MKE_DAVIS_ARTHUR_226429.jpg"
-  },
-  {
-   "key": "MKE_HANDRICKOBERLE_SEAN_289846",
-   "name": "Sean M Handrick-oberle",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795537674,
-   "photo": null
-  },
-  {
-   "key": "MKE_JACKSON_JOSAIR_339667",
-   "name": "Josair D Jackson",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795537672,
-   "photo": "photos/MKE_JACKSON_JOSAIR_339667.jpg"
   },
   {
    "key": "FDL_EVANS_KEVION_2026-11-24",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_CARPIOCERVERA_LUIS_644949",
+   "name": "Luis E Carpio Cervera",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795541294,
+   "photo": null
+  },
+  {
+   "key": "MKE_RANSOM_GAIL_648477",
+   "name": "Gail Renee Ransom",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795541291,
+   "photo": null
+  },
+  {
    "key": "FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24",
    "name": "Alfredo J Sanchez Gonzalez",
    "age": "",
@@ -793,7 +815,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795537659,
-   "photo": null
+   "photo": "photos/MKE_MORALESRODRIGUEZ_LUIS_648474.jpg"
   },
   {
    "key": "MKE_ESPINOZA_FELIZ_648475",
@@ -3918,28 +3940,6 @@
    "more": 1,
    "ts": 1795283243,
    "photo": "photos/HOU_CAGLE_KEVINCHARLES_6337.jpg"
-  },
-  {
-   "key": "MKE_BERNARD_DAVIAN_624593",
-   "name": "Davian Dejuan Bernard",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795282067,
-   "photo": "photos/MKE_BERNARD_DAVIAN_624593.jpg"
-  },
-  {
-   "key": "MKE_VARNELL_ROBERT_648438",
-   "name": "Robert Earl Varnell",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795282064,
-   "photo": "photos/MKE_VARNELL_ROBERT_648438.jpg"
   }
  ]
 }
