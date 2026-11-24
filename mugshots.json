@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-24T00:01:53+00:00",
+ "updated": "2026-11-24T00:49:29+00:00",
  "items": [
+  {
+   "key": "RC_PERRI_JENNIFER_120011076551561",
+   "name": "Jennifer Dawn Perri",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795481302,
+   "photo": "photos/RC_PERRI_JENNIFER_120011076551561.jpg"
+  },
+  {
+   "key": "RC_SERRANO_ESTEVAN_120011076551658",
+   "name": "Estevan Luis Serrano",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795481299,
+   "photo": null
+  },
+  {
+   "key": "RC_SIMPSON_BRITTANY_120011076552021",
+   "name": "Brittany Marie Simpson",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795481296,
+   "photo": "photos/RC_SIMPSON_BRITTANY_120011076552021.jpg"
+  },
+  {
+   "key": "MKE_NASHKELLY_JARVIS_246884",
+   "name": "Jarvis D Nash-Kelly",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795480080,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_STENNEN_252006",
+   "name": "Stennen Norfleet Jackson",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795480078,
+   "photo": null
+  },
+  {
+   "key": "MKE_CROSS_LAPRADA_287376",
+   "name": "Laprada Jermaine Cross",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1795480075,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOSLEY_SAMANTHA_610765",
+   "name": "Samantha R Mosley",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 2,
+   "ts": 1795480073,
+   "photo": null
+  },
+  {
+   "key": "MKE_RISER_DAYZHUN_646049",
+   "name": "Dayzhun Ahmoniee Riser",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1795480069,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_JAIVON_648471",
+   "name": "Jaivon T Smith",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795480066,
+   "photo": null
+  },
+  {
+   "key": "LINDSAY_THOMAS_2026-11-23",
+   "name": "Thomas L Lindsay",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Theft",
+   "more": 1,
+   "ts": 1795480025,
+   "photo": null
+  },
   {
    "key": "MAR_LUEDKE_CONNOR_2026-11-23_1820908",
    "name": "Connor Norman Luedke",
@@ -29,8 +139,8 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 6,
    "ts": 1795477687,
    "photo": "photos/RC_HEINTZ_JOSHUA_120011076550704.jpg"
   },
@@ -41,7 +151,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "OWI (3rd)",
-   "more": 2,
+   "more": 1,
    "ts": 1795476508,
    "photo": null
   },
@@ -51,7 +161,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Disorderly Conduct",
    "more": 7,
    "ts": 1795476506,
    "photo": null
@@ -87,51 +197,7 @@
    "charge": "Failure to Support",
    "more": 1,
    "ts": 1795474652,
-   "photo": null
-  },
-  {
-   "key": "MKE_SABATAARZABAL_JULIANGREGORIO_648469",
-   "name": "Julian Gregorio D Sabata Arzabal",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795474651,
-   "photo": null
-  },
-  {
-   "key": "KEN_MILLER_KENTRELL_2026-00006474",
-   "name": "Kentrell Leonte Miller",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 3,
-   "ts": 1795474569,
-   "photo": "photos/KEN_MILLER_KENTRELL_2026-00006474.jpg"
-  },
-  {
-   "key": "KEN_HILLIARD_MICHELLE_2026-00006475",
-   "name": "Michelle L Hilliard",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795474502,
-   "photo": "photos/KEN_HILLIARD_MICHELLE_2026-00006475.jpg"
-  },
-  {
-   "key": "KEN_ACOSTAGOMEZ_ARTURO_2026-00006473",
-   "name": "Arturo Acosta-Gomez",
-   "age": "47",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Extradition",
-   "more": 0,
-   "ts": 1795474396,
-   "photo": "photos/KEN_ACOSTAGOMEZ_ARTURO_2026-00006473.jpg"
+   "photo": "photos/MKE_KLECKLEY_ROMAINE_371977.jpg"
   },
   {
    "key": "MAR_LUEDKE_CONNOR_2026-11-23",
@@ -143,39 +209,6 @@
    "more": 0,
    "ts": 1795474389,
    "photo": "photos/MAR_LUEDKE_CONNOR_2026-11-23.jpg"
-  },
-  {
-   "key": "RC_TOLEFREE_STEPHEN_120011076547462",
-   "name": "Stephen S Tolefree",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795474082,
-   "photo": "photos/RC_TOLEFREE_STEPHEN_120011076547462.jpg"
-  },
-  {
-   "key": "RC_COTTON_GREGORY_120011076547605",
-   "name": "Gregory Bernard Cotton",
-   "age": "38",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Substantial Battery",
-   "more": 0,
-   "ts": 1795474079,
-   "photo": "photos/RC_COTTON_GREGORY_120011076547605.jpg"
-  },
-  {
-   "key": "RC_DELUNA_JUAN_120011076547804",
-   "name": "Juan Deluna",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795474077,
-   "photo": "photos/RC_DELUNA_JUAN_120011076547804.jpg"
   },
   {
    "key": "LOPER_MACKENZIE_2026-11-23",
@@ -209,28 +242,6 @@
    "more": 0,
    "ts": 1795472171,
    "photo": "photos/FDL_DOTSON_DRAKHAR_2026-11-23.jpg"
-  },
-  {
-   "key": "MKE_HAMILTON_GREGORY_285503",
-   "name": "Gregory Antione Hamilton",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 1,
-   "ts": 1795471058,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMPSON_DEREK_299143",
-   "name": "Derek Tyrone Thompson",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 1,
-   "ts": 1795471056,
-   "photo": null
   },
   {
    "key": "NEISIUS_NOAH_2026-11-23",
@@ -517,20 +528,119 @@
    "more": 2,
    "ts": 1795400821,
    "photo": null
-  },
-  {
-   "key": "MAR_PENDLEY_JESSICA_2026-11-22",
-   "name": "Jessica Rae Pendley",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1795398798,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PERRI_JENNIFER_120011076551561",
+   "name": "Jennifer Dawn Perri",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795481302,
+   "photo": "photos/RC_PERRI_JENNIFER_120011076551561.jpg"
+  },
+  {
+   "key": "RC_SERRANO_ESTEVAN_120011076551658",
+   "name": "Estevan Luis Serrano",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795481299,
+   "photo": null
+  },
+  {
+   "key": "RC_SIMPSON_BRITTANY_120011076552021",
+   "name": "Brittany Marie Simpson",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795481296,
+   "photo": "photos/RC_SIMPSON_BRITTANY_120011076552021.jpg"
+  },
+  {
+   "key": "MKE_NASHKELLY_JARVIS_246884",
+   "name": "Jarvis D Nash-Kelly",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795480080,
+   "photo": null
+  },
+  {
+   "key": "MKE_JACKSON_STENNEN_252006",
+   "name": "Stennen Norfleet Jackson",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795480078,
+   "photo": null
+  },
+  {
+   "key": "MKE_CROSS_LAPRADA_287376",
+   "name": "Laprada Jermaine Cross",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1795480075,
+   "photo": null
+  },
+  {
+   "key": "MKE_MOSLEY_SAMANTHA_610765",
+   "name": "Samantha R Mosley",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 2,
+   "ts": 1795480073,
+   "photo": null
+  },
+  {
+   "key": "MKE_RISER_DAYZHUN_646049",
+   "name": "Dayzhun Ahmoniee Riser",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carry Concealed Weapon",
+   "more": 0,
+   "ts": 1795480069,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_JAIVON_648471",
+   "name": "Jaivon T Smith",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795480066,
+   "photo": null
+  },
+  {
+   "key": "LINDSAY_THOMAS_2026-11-23",
+   "name": "Thomas L Lindsay",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Theft",
+   "more": 1,
+   "ts": 1795480025,
+   "photo": null
+  },
   {
    "key": "MAR_LUEDKE_CONNOR_2026-11-23_1820908",
    "name": "Connor Norman Luedke",
@@ -559,8 +669,8 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 6,
    "ts": 1795477687,
    "photo": "photos/RC_HEINTZ_JOSHUA_120011076550704.jpg"
   },
@@ -571,7 +681,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "OWI (3rd)",
-   "more": 2,
+   "more": 1,
    "ts": 1795476508,
    "photo": null
   },
@@ -581,7 +691,7 @@
    "age": "58",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Criminal Damage to Property",
+   "charge": "Disorderly Conduct",
    "more": 7,
    "ts": 1795476506,
    "photo": null
@@ -617,7 +727,7 @@
    "charge": "Failure to Support",
    "more": 1,
    "ts": 1795474652,
-   "photo": null
+   "photo": "photos/MKE_KLECKLEY_ROMAINE_371977.jpg"
   },
   {
    "key": "MKE_SABATAARZABAL_JULIANGREGORIO_648469",
@@ -746,10 +856,10 @@
    "age": "46",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Party to a Crime",
+   "charge": "Felony Murder-Armed Robbery",
    "more": 1,
    "ts": 1795471058,
-   "photo": null
+   "photo": "photos/MKE_HAMILTON_GREGORY_285503.jpg"
   },
   {
    "key": "MKE_THOMPSON_DEREK_299143",
