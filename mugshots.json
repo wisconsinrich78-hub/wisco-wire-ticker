@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-24T00:49:29+00:00",
+ "updated": "2026-11-24T01:18:27+00:00",
  "items": [
+  {
+   "key": "FDL_FITZSIMMONS_KILIAN_2026-11-23",
+   "name": "Kilian Michael Fitzsimmons",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795482974,
+   "photo": "photos/FDL_FITZSIMMONS_KILIAN_2026-11-23.jpg"
+  },
+  {
+   "key": "MAR_CREED_DRAVEN_2026-11-23",
+   "name": "Draven Zaine Creed",
+   "age": "27",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795482429,
+   "photo": "photos/MAR_CREED_DRAVEN_2026-11-23.jpg"
+  },
+  {
+   "key": "MKE_STINGLEY_SANTANA_394651",
+   "name": "Santana Nakeida Stingley",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795481877,
+   "photo": null
+  },
+  {
+   "key": "MKE_DANIELS_KENNETH_648472",
+   "name": "Kenneth Martin Daniels",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Entry into/onto Bldg/Constuct.Site/Room",
+   "more": 1,
+   "ts": 1795481874,
+   "photo": null
+  },
   {
    "key": "RC_PERRI_JENNIFER_120011076551561",
    "name": "Jennifer Dawn Perri",
@@ -40,8 +84,8 @@
    "age": "55",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1795480080,
    "photo": null
   },
@@ -96,7 +140,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 0,
+   "more": 1,
    "ts": 1795480066,
    "photo": null
   },
@@ -176,28 +220,6 @@
    "more": 0,
    "ts": 1795476503,
    "photo": null
-  },
-  {
-   "key": "MKE_RODRIGUEZ_MARIA_648470",
-   "name": "Maria Nathalin Rodriguez",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795476502,
-   "photo": null
-  },
-  {
-   "key": "MKE_KLECKLEY_ROMAINE_371977",
-   "name": "Romaine Orlando Kleckley",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 1,
-   "ts": 1795474652,
-   "photo": "photos/MKE_KLECKLEY_ROMAINE_371977.jpg"
   },
   {
    "key": "MAR_LUEDKE_CONNOR_2026-11-23",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1795402620,
    "photo": null
+  }
+ ],
+ "all_items": [
+  {
+   "key": "FDL_FITZSIMMONS_KILIAN_2026-11-23",
+   "name": "Kilian Michael Fitzsimmons",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795482974,
+   "photo": "photos/FDL_FITZSIMMONS_KILIAN_2026-11-23.jpg"
   },
   {
-   "key": "MAR_GALLION_ELIZABETH_2026-11-22",
-   "name": "Elizabeth Bernadette Gallion",
-   "age": "42",
+   "key": "MAR_CREED_DRAVEN_2026-11-23",
+   "name": "Draven Zaine Creed",
+   "age": "27",
    "county": "Marathon County",
    "region": "northwest",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1795402406,
-   "photo": "photos/MAR_GALLION_ELIZABETH_2026-11-22.jpg"
+   "ts": 1795482429,
+   "photo": "photos/MAR_CREED_DRAVEN_2026-11-23.jpg"
   },
   {
-   "key": "MCCLURG_CHRISLER_2026-11-22",
-   "name": "Chrisler W Mcclurg",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Retail Theft <$500",
-   "more": 2,
-   "ts": 1795400821,
+   "key": "MKE_STINGLEY_SANTANA_394651",
+   "name": "Santana Nakeida Stingley",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795481877,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "MKE_DANIELS_KENNETH_648472",
+   "name": "Kenneth Martin Daniels",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Entry into/onto Bldg/Constuct.Site/Room",
+   "more": 1,
+   "ts": 1795481874,
+   "photo": null
+  },
   {
    "key": "RC_PERRI_JENNIFER_120011076551561",
    "name": "Jennifer Dawn Perri",
@@ -570,8 +614,8 @@
    "age": "55",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1795480080,
    "photo": null
   },
@@ -626,7 +670,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 0,
+   "more": 1,
    "ts": 1795480066,
    "photo": null
   },
@@ -738,7 +782,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795474651,
-   "photo": null
+   "photo": "photos/MKE_SABATAARZABAL_JULIANGREGORIO_648469.jpg"
   },
   {
    "key": "KEN_MILLER_KENTRELL_2026-00006474",
@@ -757,8 +801,8 @@
    "age": "47",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Resisting or Obstructing an Officer",
+   "more": 1,
    "ts": 1795474502,
    "photo": "photos/KEN_HILLIARD_MICHELLE_2026-00006475.jpg"
   },
@@ -1032,10 +1076,10 @@
    "age": "28",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Criminal Damage to Property",
    "more": 2,
    "ts": 1795460257,
-   "photo": null
+   "photo": "photos/MKE_JEFFERSON_KAVION_648467.jpg"
   },
   {
    "key": "KEN_MORGAN_JORDAN_2026-00006472",
