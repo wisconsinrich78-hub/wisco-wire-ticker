@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-24T19:31:42+00:00",
+ "updated": "2026-11-24T19:49:30+00:00",
  "items": [
+  {
+   "key": "RC_FERRIS_MARY_120011076578634",
+   "name": "Mary Hannah Ferris",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795549697,
+   "photo": "photos/RC_FERRIS_MARY_120011076578634.jpg"
+  },
+  {
+   "key": "RC_BRUNO_SAMUEL_120011076579614",
+   "name": "Samuel David Bruno",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795549694,
+   "photo": "photos/RC_BRUNO_SAMUEL_120011076579614.jpg"
+  },
+  {
+   "key": "JACKSON_PARADISE_2026-11-24",
+   "name": "Paradise T Jackson",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold for Court",
+   "more": 0,
+   "ts": 1795549633,
+   "photo": null
+  },
+  {
+   "key": "HAUGEN_SIRI_2026-11-24",
+   "name": "Siri A Haugen",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1795549632,
+   "photo": null
+  },
+  {
+   "key": "CROSBY_RONALD_2026-11-24",
+   "name": "Ronald I Crosby",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold for Court",
+   "more": 0,
+   "ts": 1795549631,
+   "photo": null
+  },
   {
    "key": "STIKA_DYLAN_2026-11-24",
    "name": "Dylan E Stika",
@@ -40,8 +95,8 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 1,
    "ts": 1795546122,
    "photo": "photos/RC_COPELAND_CHRISTOPHER_120011076576321.jpg"
   },
@@ -241,28 +296,6 @@
    "charge": "Strangulation and Suffocation",
    "more": 0,
    "ts": 1795539332,
-   "photo": null
-  },
-  {
-   "key": "KEN_GARCIAGARCIA_ADRIAN_2026-00006484",
-   "name": "Adrian Garcia-Garcia",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Deviate from Designated Lane",
-   "more": 4,
-   "ts": 1795539291,
-   "photo": "photos/KEN_GARCIAGARCIA_ADRIAN_2026-00006484.jpg"
-  },
-  {
-   "key": "RC_ROBINSON_KIARA_120011076570010",
-   "name": "Kiara Ashanti Robinson",
-   "age": "24",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795538943,
    "photo": null
   },
   {
@@ -495,42 +528,64 @@
    "more": 0,
    "ts": 1795478028,
    "photo": "photos/MAR_LUEDKE_CONNOR_2026-11-23_1820908.jpg"
-  },
-  {
-   "key": "MAR_LUEDKE_CONNOR_2026-11-23",
-   "name": "Connor Norman Luedke",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795474389,
-   "photo": "photos/MAR_LUEDKE_CONNOR_2026-11-23.jpg"
-  },
-  {
-   "key": "LOPER_MACKENZIE_2026-11-23",
-   "name": "Mackenzie William Loper",
-   "age": "24",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795472818,
-   "photo": null
-  },
-  {
-   "key": "DOU_MCCUNE_ANTWONETTE_2026-11-23",
-   "name": "Antwonette A Mccune",
-   "age": "30",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1795472206,
-   "photo": "photos/DOU_MCCUNE_ANTWONETTE_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FERRIS_MARY_120011076578634",
+   "name": "Mary Hannah Ferris",
+   "age": "28",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795549697,
+   "photo": "photos/RC_FERRIS_MARY_120011076578634.jpg"
+  },
+  {
+   "key": "RC_BRUNO_SAMUEL_120011076579614",
+   "name": "Samuel David Bruno",
+   "age": "47",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795549694,
+   "photo": "photos/RC_BRUNO_SAMUEL_120011076579614.jpg"
+  },
+  {
+   "key": "JACKSON_PARADISE_2026-11-24",
+   "name": "Paradise T Jackson",
+   "age": "44",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold for Court",
+   "more": 0,
+   "ts": 1795549633,
+   "photo": null
+  },
+  {
+   "key": "HAUGEN_SIRI_2026-11-24",
+   "name": "Siri A Haugen",
+   "age": "22",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1795549632,
+   "photo": null
+  },
+  {
+   "key": "CROSBY_RONALD_2026-11-24",
+   "name": "Ronald I Crosby",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Hold for Court",
+   "more": 0,
+   "ts": 1795549631,
+   "photo": null
+  },
   {
    "key": "STIKA_DYLAN_2026-11-24",
    "name": "Dylan E Stika",
@@ -570,8 +625,8 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Misdemeanor Battery",
+   "more": 1,
    "ts": 1795546122,
    "photo": "photos/RC_COPELAND_CHRISTOPHER_120011076576321.jpg"
   },
