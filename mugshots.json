@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T20:37:36+00:00",
+ "updated": "2026-11-24T20:49:27+00:00",
  "items": [
+  {
+   "key": "RC_MACK_STEVEN_120011076579826",
+   "name": "Steven Mack",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795553292,
+   "photo": "photos/RC_MACK_STEVEN_120011076579826.jpg"
+  },
+  {
+   "key": "RC_CARTER_JOSEPH_120011076580613",
+   "name": "Joseph S Carter",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795553284,
+   "photo": "photos/RC_CARTER_JOSEPH_120011076580613.jpg"
+  },
+  {
+   "key": "RC_HERNANDEZ_CESAR_120011076580690",
+   "name": "Cesar O Hernandez",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795553275,
+   "photo": "photos/RC_HERNANDEZ_CESAR_120011076580690.jpg"
+  },
   {
    "key": "MKE_CEDENO_IRVING_379504",
    "name": "Irving Cedeno",
@@ -84,7 +117,7 @@
    "age": "28",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Retail Theft - Intentionally Take - (>$500-$5,000)",
    "more": 0,
    "ts": 1795549697,
    "photo": "photos/RC_FERRIS_MARY_120011076578634.jpg"
@@ -288,28 +321,6 @@
    "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24.jpg"
   },
   {
-   "key": "MKE_CARPIOCERVERA_LUIS_644949",
-   "name": "Luis E Carpio Cervera",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795541294,
-   "photo": null
-  },
-  {
-   "key": "MKE_RANSOM_GAIL_648477",
-   "name": "Gail Renee Ransom",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795541291,
-   "photo": "photos/MKE_RANSOM_GAIL_648477.jpg"
-  },
-  {
    "key": "FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24",
    "name": "Alfredo J Sanchez Gonzalez",
    "age": "",
@@ -319,17 +330,6 @@
    "more": 2,
    "ts": 1795540621,
    "photo": "photos/FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24.jpg"
-  },
-  {
-   "key": "MKE_BRADBERRY_AKEE_621497",
-   "name": "Akee Bradberry",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1795539496,
-   "photo": "photos/MKE_BRADBERRY_AKEE_621497.jpg"
   },
   {
    "key": "BACKSTROM_RUSSELL_2026-11-24",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "RC_MACK_STEVEN_120011076579826",
+   "name": "Steven Mack",
+   "age": "60",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795553292,
+   "photo": "photos/RC_MACK_STEVEN_120011076579826.jpg"
+  },
+  {
+   "key": "RC_CARTER_JOSEPH_120011076580613",
+   "name": "Joseph S Carter",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795553284,
+   "photo": "photos/RC_CARTER_JOSEPH_120011076580613.jpg"
+  },
+  {
+   "key": "RC_HERNANDEZ_CESAR_120011076580690",
+   "name": "Cesar O Hernandez",
+   "age": "53",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795553275,
+   "photo": "photos/RC_HERNANDEZ_CESAR_120011076580690.jpg"
+  },
+  {
    "key": "MKE_CEDENO_IRVING_379504",
    "name": "Irving Cedeno",
    "age": "48",
@@ -614,7 +647,7 @@
    "age": "28",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Retail Theft - Intentionally Take - (>$500-$5,000)",
    "more": 0,
    "ts": 1795549697,
    "photo": "photos/RC_FERRIS_MARY_120011076578634.jpg"
