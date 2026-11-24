@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T21:15:04+00:00",
+ "updated": "2026-11-24T21:49:34+00:00",
  "items": [
+  {
+   "key": "RC_ALLEN_MICHAEL_120011076582728",
+   "name": "Michael Dion Allen",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795556907,
+   "photo": "photos/RC_ALLEN_MICHAEL_120011076582728.jpg"
+  },
+  {
+   "key": "MKE_RICHARDS_HARRIETTE_528383",
+   "name": "Harriette Richards",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795555700,
+   "photo": null
+  },
+  {
+   "key": "MKE_JORDAN_ZOE_643777",
+   "name": "Zoe A Jordan",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795555698,
+   "photo": null
+  },
   {
    "key": "MAR_VANG_JIMMIE_2026-11-24_7922303",
    "name": "Jimmie Van Kai Vang",
@@ -255,28 +288,6 @@
    "photo": "photos/RC_SCHMITZ_EUGENE_120011076576973.jpg"
   },
   {
-   "key": "MKE_JORDAN_AARON_229020",
-   "name": "Aaron Lee Jordan",
-   "age": "57",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795545492,
-   "photo": "photos/MKE_JORDAN_AARON_229020.jpg"
-  },
-  {
-   "key": "MKE_MEINECKE_BRIAN_2057679",
-   "name": "Brian Richard Meinecke",
-   "age": "45",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795545490,
-   "photo": null
-  },
-  {
    "key": "VANDERSCHAAF_RYAN_2026-11-24",
    "name": "Ryan Joseph Vanderschaaf",
    "age": "43",
@@ -308,17 +319,6 @@
    "more": 0,
    "ts": 1795544205,
    "photo": "photos/FDL_JASSEREXQUIEL_LIRA_2026-11-24.jpg"
-  },
-  {
-   "key": "KEN_MAZUREK_RICHARD_2026-00006487",
-   "name": "RICHARD JOSEPH Junior MAZUREK",
-   "age": "66",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Return on Writ",
-   "more": 0,
-   "ts": 1795543072,
-   "photo": "photos/KEN_MAZUREK_RICHARD_2026-00006487.jpg"
   },
   {
    "key": "MAR_VANG_JIMMIE_2026-11-24",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ALLEN_MICHAEL_120011076582728",
+   "name": "Michael Dion Allen",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795556907,
+   "photo": "photos/RC_ALLEN_MICHAEL_120011076582728.jpg"
+  },
+  {
+   "key": "MKE_RICHARDS_HARRIETTE_528383",
+   "name": "Harriette Richards",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795555700,
+   "photo": null
+  },
+  {
+   "key": "MKE_JORDAN_ZOE_643777",
+   "name": "Zoe A Jordan",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795555698,
+   "photo": null
+  },
   {
    "key": "MAR_VANG_JIMMIE_2026-11-24_7922303",
    "name": "Jimmie Van Kai Vang",
@@ -4138,17 +4171,6 @@
    "more": 0,
    "ts": 1795298254,
    "photo": null
-  },
-  {
-   "key": "DOU_CROWE_WENDELL_2026-11-21",
-   "name": "Wendell J Crowe",
-   "age": "60",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Theft, Property, Shoplifting",
-   "more": 0,
-   "ts": 1795295809,
-   "photo": "photos/DOU_CROWE_WENDELL_2026-11-21.jpg"
   }
  ]
 }
