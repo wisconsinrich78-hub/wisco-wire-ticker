@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-24T16:49:33+00:00",
+ "updated": "2026-11-24T17:18:41+00:00",
  "items": [
+  {
+   "key": "FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24",
+   "name": "Alfredo J Sanchez Gonzalez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 2,
+   "ts": 1795540621,
+   "photo": "photos/FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24.jpg"
+  },
+  {
+   "key": "MKE_BRADBERRY_AKEE_621497",
+   "name": "Akee Bradberry",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795539496,
+   "photo": null
+  },
+  {
+   "key": "MKE_DODD_EXAVIER_622564",
+   "name": "Exavier L Dodd",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795539492,
+   "photo": null
+  },
+  {
+   "key": "KEN_WILLIAMS_LARRY_2026-00006486",
+   "name": "LARRY PAUL Junior WILLIAMS",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 2,
+   "ts": 1795539487,
+   "photo": "photos/KEN_WILLIAMS_LARRY_2026-00006486.jpg"
+  },
+  {
+   "key": "KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006482",
+   "name": "Maikoh Jose Martinez-Martinez",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out of County",
+   "more": 2,
+   "ts": 1795539406,
+   "photo": "photos/KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006482.jpg"
+  },
+  {
+   "key": "KEN_GARNER_JERCOVIOUS_2026-00006485",
+   "name": "Jercovious Cortevian Garner",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Strangulation and Suffocation",
+   "more": 0,
+   "ts": 1795539332,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIAGARCIA_ADRIAN_2026-00006484",
+   "name": "Adrian Garcia-Garcia",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Deviate from Designated Lane",
+   "more": 4,
+   "ts": 1795539291,
+   "photo": "photos/KEN_GARCIAGARCIA_ADRIAN_2026-00006484.jpg"
+  },
   {
    "key": "RC_ROBINSON_KIARA_120011076570010",
    "name": "Kiara Ashanti Robinson",
@@ -121,72 +198,6 @@
    "more": 2,
    "ts": 1795537672,
    "photo": "photos/MKE_JACKSON_JOSAIR_339667.jpg"
-  },
-  {
-   "key": "MKE_BURNETTE_RICHARD_365442",
-   "name": "Richard Ray Burnette",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795537670,
-   "photo": "photos/MKE_BURNETTE_RICHARD_365442.jpg"
-  },
-  {
-   "key": "MKE_CURRY_JULIA_381921",
-   "name": "Julia Mae Curry",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 7,
-   "ts": 1795537668,
-   "photo": null
-  },
-  {
-   "key": "MKE_SMITH_TYRISHA_601061",
-   "name": "Tyrisha Shamprielle Smith",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1795537666,
-   "photo": "photos/MKE_SMITH_TYRISHA_601061.jpg"
-  },
-  {
-   "key": "MKE_SUTTERS_SHANNON_628069",
-   "name": "Shannon Sutters",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 1,
-   "ts": 1795537663,
-   "photo": "photos/MKE_SUTTERS_SHANNON_628069.jpg"
-  },
-  {
-   "key": "MKE_ALLENWALTON_CHARITY_648473",
-   "name": "Charity Monique Allen Walton",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795537661,
-   "photo": "photos/MKE_ALLENWALTON_CHARITY_648473.jpg"
-  },
-  {
-   "key": "MKE_MORALESRODRIGUEZ_LUIS_648474",
-   "name": "Luis Enrique Morales Rodriguez",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795537659,
-   "photo": null
   },
   {
    "key": "FDL_EVANS_KEVION_2026-11-24",
@@ -517,20 +528,86 @@
    "more": 0,
    "ts": 1795461388,
    "photo": "photos/FDL_HENK_CHEYENNE_2026-11-23.jpg"
-  },
-  {
-   "key": "MAR_ZIEGEL_ALLAN_2026-11-23_1774513",
-   "name": "Allan Keith Ziegel",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ of Habeas Corpus",
-   "more": 0,
-   "ts": 1795456401,
-   "photo": "photos/MAR_ZIEGEL_ALLAN_2026-11-23_1774513.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24",
+   "name": "Alfredo J Sanchez Gonzalez",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 2,
+   "ts": 1795540621,
+   "photo": "photos/FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24.jpg"
+  },
+  {
+   "key": "MKE_BRADBERRY_AKEE_621497",
+   "name": "Akee Bradberry",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795539496,
+   "photo": null
+  },
+  {
+   "key": "MKE_DODD_EXAVIER_622564",
+   "name": "Exavier L Dodd",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795539492,
+   "photo": null
+  },
+  {
+   "key": "KEN_WILLIAMS_LARRY_2026-00006486",
+   "name": "LARRY PAUL Junior WILLIAMS",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operating While Suspended",
+   "more": 2,
+   "ts": 1795539487,
+   "photo": "photos/KEN_WILLIAMS_LARRY_2026-00006486.jpg"
+  },
+  {
+   "key": "KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006482",
+   "name": "Maikoh Jose Martinez-Martinez",
+   "age": "30",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Warrant Other Agency - Out of County",
+   "more": 2,
+   "ts": 1795539406,
+   "photo": "photos/KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006482.jpg"
+  },
+  {
+   "key": "KEN_GARNER_JERCOVIOUS_2026-00006485",
+   "name": "Jercovious Cortevian Garner",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Strangulation and Suffocation",
+   "more": 0,
+   "ts": 1795539332,
+   "photo": null
+  },
+  {
+   "key": "KEN_GARCIAGARCIA_ADRIAN_2026-00006484",
+   "name": "Adrian Garcia-Garcia",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Deviate from Designated Lane",
+   "more": 4,
+   "ts": 1795539291,
+   "photo": "photos/KEN_GARCIAGARCIA_ADRIAN_2026-00006484.jpg"
+  },
   {
    "key": "RC_ROBINSON_KIARA_120011076570010",
    "name": "Kiara Ashanti Robinson",
@@ -3863,17 +3940,6 @@
    "more": 2,
    "ts": 1795282064,
    "photo": "photos/MKE_VARNELL_ROBERT_648438.jpg"
-  },
-  {
-   "key": "MKE_CURRIN_LAVELLE_288835",
-   "name": "Lavelle D Currin",
-   "age": "42",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795280268,
-   "photo": null
   }
  ]
 }
