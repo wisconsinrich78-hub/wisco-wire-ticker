@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-24T07:49:28+00:00",
+ "updated": "2026-11-24T08:49:31+00:00",
  "items": [
+  {
+   "key": "SALINASSR_JUAN_2026-11-24",
+   "name": "Juan Francisco Salinas Sr",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1795510032,
+   "photo": null
+  },
+  {
+   "key": "MKE_LIGON_JAMES_173203",
+   "name": "James Alfred Ligon",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795508893,
+   "photo": null
+  },
+  {
+   "key": "DOU_WITZKE_NICHOLAS_2026-11-24",
+   "name": "Nicholas J Witzke",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795508273,
+   "photo": "photos/DOU_WITZKE_NICHOLAS_2026-11-24.jpg"
+  },
+  {
+   "key": "MAR_GULDAN_NICHOLAS_2026-11-24",
+   "name": "Nicholas Paul Guldan",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795506809,
+   "photo": "photos/MAR_GULDAN_NICHOLAS_2026-11-24.jpg"
+  },
   {
    "key": "RC_POLACK_JORDAN_120011076561107",
    "name": "Jordan Tyler Polack",
@@ -263,7 +307,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795485450,
-   "photo": null
+   "photo": "photos/MKE_PARR_JAVONTE_623959.jpg"
   },
   {
    "key": "KEN_COLEMAN_WILLIE_2026-00006476",
@@ -308,17 +352,6 @@
    "more": 0,
    "ts": 1795481877,
    "photo": "photos/MKE_STINGLEY_SANTANA_394651.jpg"
-  },
-  {
-   "key": "MKE_DANIELS_KENNETH_648472",
-   "name": "Kenneth Martin Daniels",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Entry into/onto Bldg/Constuct.Site/Room",
-   "more": 1,
-   "ts": 1795481874,
-   "photo": "photos/MKE_DANIELS_KENNETH_648472.jpg"
   },
   {
    "key": "LINDSAY_THOMAS_2026-11-23",
@@ -495,42 +528,53 @@
    "more": 1,
    "ts": 1795452907,
    "photo": "photos/MAR_SIMS_CARLA_2026-11-21_1232805.jpg"
-  },
-  {
-   "key": "MAR_ZIEGEL_ALLAN_2026-11-23",
-   "name": "Allan Keith Ziegel",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Writ of Habeas Corpus",
-   "more": 0,
-   "ts": 1795452864,
-   "photo": "photos/MAR_ZIEGEL_ALLAN_2026-11-23.jpg"
-  },
-  {
-   "key": "MAR_KREFT_JARED_2026-11-23",
-   "name": "Jared Matthew Kreft",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795452811,
-   "photo": "photos/MAR_KREFT_JARED_2026-11-23.jpg"
-  },
-  {
-   "key": "DOU_NGUYEN_HOANG_2026-11-23",
-   "name": "Hoang N Nguyen",
-   "age": "55",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
-   "more": 1,
-   "ts": 1795450616,
-   "photo": "photos/DOU_NGUYEN_HOANG_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "SALINASSR_JUAN_2026-11-24",
+   "name": "Juan Francisco Salinas Sr",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1795510032,
+   "photo": null
+  },
+  {
+   "key": "MKE_LIGON_JAMES_173203",
+   "name": "James Alfred Ligon",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795508893,
+   "photo": null
+  },
+  {
+   "key": "DOU_WITZKE_NICHOLAS_2026-11-24",
+   "name": "Nicholas J Witzke",
+   "age": "45",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795508273,
+   "photo": "photos/DOU_WITZKE_NICHOLAS_2026-11-24.jpg"
+  },
+  {
+   "key": "MAR_GULDAN_NICHOLAS_2026-11-24",
+   "name": "Nicholas Paul Guldan",
+   "age": "32",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795506809,
+   "photo": "photos/MAR_GULDAN_NICHOLAS_2026-11-24.jpg"
+  },
   {
    "key": "RC_POLACK_JORDAN_120011076561107",
    "name": "Jordan Tyler Polack",
@@ -793,7 +837,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795485450,
-   "photo": null
+   "photo": "photos/MKE_PARR_JAVONTE_623959.jpg"
   },
   {
    "key": "KEN_COLEMAN_WILLIE_2026-00006476",
@@ -903,7 +947,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795480078,
-   "photo": null
+   "photo": "photos/MKE_JACKSON_STENNEN_252006.jpg"
   },
   {
    "key": "MKE_CROSS_LAPRADA_287376",
@@ -1189,7 +1233,7 @@
    "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 1,
    "ts": 1795471056,
-   "photo": null
+   "photo": "photos/MKE_THOMPSON_DEREK_299143.jpg"
   },
   {
    "key": "MKE_CARTER_MARK_412012",
@@ -3896,61 +3940,6 @@
    "more": 1,
    "ts": 1795254490,
    "photo": null
-  },
-  {
-   "key": "MKE_CALDWELL_TERLAND_287770",
-   "name": "Terland Allen Caldwell",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795249650,
-   "photo": "photos/MKE_CALDWELL_TERLAND_287770.jpg"
-  },
-  {
-   "key": "MKE_LEWIS_CHARLES_370791",
-   "name": "Charles Edward Lewis",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795249649,
-   "photo": "photos/MKE_LEWIS_CHARLES_370791.jpg"
-  },
-  {
-   "key": "GADE_LANCE_2026-11-21",
-   "name": "Lance W Gade",
-   "age": "31",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence (3rd)",
-   "more": 0,
-   "ts": 1795249622,
-   "photo": null
-  },
-  {
-   "key": "MKE_TREINEN_ANDREW_331894",
-   "name": "Andrew Treinen",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Merchant Wilfully Permit Body Attachment",
-   "more": 0,
-   "ts": 1795247853,
-   "photo": "photos/MKE_TREINEN_ANDREW_331894.jpg"
-  },
-  {
-   "key": "MKE_ALLEN_MICHAEL_2064423",
-   "name": "Michael Dion Allen",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795247851,
-   "photo": "photos/MKE_ALLEN_MICHAEL_2064423.jpg"
   }
  ]
 }
