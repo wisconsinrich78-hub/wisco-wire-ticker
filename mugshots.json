@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T16:32:19+00:00",
+ "updated": "2026-11-25T16:49:24+00:00",
  "items": [
+  {
+   "key": "RC_DEMARS_JACYON_120011076597841",
+   "name": "Jacyon Jeremiah Demars",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Homicide by Veh. Use-Control. Substance",
+   "more": 0,
+   "ts": 1795625275,
+   "photo": "photos/RC_DEMARS_JACYON_120011076597841.jpg"
+  },
+  {
+   "key": "RC_SANTIAGO_WILLIAM_120011076605708",
+   "name": "William Santiago",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795625272,
+   "photo": "photos/RC_SANTIAGO_WILLIAM_120011076605708.jpg"
+  },
+  {
+   "key": "RC_OZUNA_BRANDY_120011076606501",
+   "name": "Brandy L Ozuna",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795625270,
+   "photo": "photos/RC_OZUNA_BRANDY_120011076606501.jpg"
+  },
+  {
+   "key": "TREM_VASQUEZGOMEZ_LESTER_6223",
+   "name": "Lester Alexander Vasquez Gomez",
+   "age": "26",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 7,
+   "ts": 1795625229,
+   "photo": "photos/TREM_VASQUEZGOMEZ_LESTER_6223.jpg"
+  },
   {
    "key": "MKE_KEARNEY_IAN_375839",
    "name": "Ian E Kearney",
@@ -200,17 +244,6 @@
    "photo": "photos/KEN_ROZIVKA_BRIAN_2026-00006497.jpg"
   },
   {
-   "key": "KEN_OVERSTREET_BRYAN_2026-00006498",
-   "name": "BRYAN C Junior OVERSTREET",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795597294,
-   "photo": "photos/KEN_OVERSTREET_BRYAN_2026-00006498.jpg"
-  },
-  {
    "key": "MAR_WILSON_ALFRED_2026-11-25",
    "name": "Alfred Wilson",
    "age": "44",
@@ -220,28 +253,6 @@
    "more": 0,
    "ts": 1795596799,
    "photo": "photos/MAR_WILSON_ALFRED_2026-11-25.jpg"
-  },
-  {
-   "key": "RC_GLOVER_MONTAVEON_120011076595074",
-   "name": "Montaveon Le'brian Glover",
-   "age": "20",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating W/Pac (1st)",
-   "more": 0,
-   "ts": 1795596501,
-   "photo": null
-  },
-  {
-   "key": "RC_AGUILAR_CHRISTOPHER_120011076595474",
-   "name": "Christopher Aguilar",
-   "age": "30",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Iid Tampering/Fail to Install/Violate Court Order",
-   "more": 2,
-   "ts": 1795596498,
-   "photo": "photos/RC_AGUILAR_CHRISTOPHER_120011076595474.jpg"
   },
   {
    "key": "DOU_STARSTEAD_CRYSTAL_2026-11-25",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1795553607,
    "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24_5258415.jpg"
-  },
-  {
-   "key": "NOONAN_JOSHUA_2026-11-24",
-   "name": "Joshua R Noonan",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "2nd Degree Sexual Assault/Use of Force",
-   "more": 0,
-   "ts": 1795551804,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_DEMARS_JACYON_120011076597841",
+   "name": "Jacyon Jeremiah Demars",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Homicide by Veh. Use-Control. Substance",
+   "more": 0,
+   "ts": 1795625275,
+   "photo": "photos/RC_DEMARS_JACYON_120011076597841.jpg"
+  },
+  {
+   "key": "RC_SANTIAGO_WILLIAM_120011076605708",
+   "name": "William Santiago",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795625272,
+   "photo": "photos/RC_SANTIAGO_WILLIAM_120011076605708.jpg"
+  },
+  {
+   "key": "RC_OZUNA_BRANDY_120011076606501",
+   "name": "Brandy L Ozuna",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795625270,
+   "photo": "photos/RC_OZUNA_BRANDY_120011076606501.jpg"
+  },
+  {
+   "key": "TREM_VASQUEZGOMEZ_LESTER_6223",
+   "name": "Lester Alexander Vasquez Gomez",
+   "age": "26",
+   "county": "Trempealeau County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 7,
+   "ts": 1795625229,
+   "photo": "photos/TREM_VASQUEZGOMEZ_LESTER_6223.jpg"
+  },
   {
    "key": "MKE_KEARNEY_IAN_375839",
    "name": "Ian E Kearney",
@@ -4457,72 +4501,6 @@
    "more": 0,
    "ts": 1795366519,
    "photo": "photos/MAR_BESSETTE_AMANDA_2026-11-22.jpg"
-  },
-  {
-   "key": "RC_RAMIREZMARTINEZ_BRIAN_120011076500957",
-   "name": "Brian M Ramirez-Martinez",
-   "age": "23",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Damage To Property",
-   "more": 0,
-   "ts": 1795366096,
-   "photo": "photos/RC_RAMIREZMARTINEZ_BRIAN_120011076500957.jpg"
-  },
-  {
-   "key": "RC_FULCE_DESMOND_120011076501091",
-   "name": "Desmond Marqui Fulce",
-   "age": "47",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 6,
-   "ts": 1795366093,
-   "photo": "photos/RC_FULCE_DESMOND_120011076501091.jpg"
-  },
-  {
-   "key": "RC_MARTINEZ_ALICIA_120011076504190",
-   "name": "Alicia Rae Martinez",
-   "age": "21",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Hit and Run-Involve Injury",
-   "more": 0,
-   "ts": 1795366091,
-   "photo": "photos/RC_MARTINEZ_ALICIA_120011076504190.jpg"
-  },
-  {
-   "key": "RC_KING_CAMARION_120011076505451",
-   "name": "Camarion D King",
-   "age": "22",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 0,
-   "ts": 1795366088,
-   "photo": "photos/RC_KING_CAMARION_120011076505451.jpg"
-  },
-  {
-   "key": "TREM_HIBBARD_ANGELA_2414",
-   "name": "Angela Marie Hibbard",
-   "age": "41",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia-Methamphet.",
-   "more": 1,
-   "ts": 1795366034,
-   "photo": "photos/TREM_HIBBARD_ANGELA_2414.jpg"
-  },
-  {
-   "key": "TREM_SAMPLES_CHARLES_6221",
-   "name": "Charles Edward Samples",
-   "age": "56",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possess Drug Paraphernalia-Methamphet.",
-   "more": 0,
-   "ts": 1795366032,
-   "photo": "photos/TREM_SAMPLES_CHARLES_6221.jpg"
   }
  ]
 }
