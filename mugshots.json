@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-25T01:56:51+00:00",
+ "updated": "2026-11-25T02:11:50+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_ALEX_401781",
+   "name": "Alex J Smith",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 0,
+   "ts": 1795571878,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_CHERISH_648481",
+   "name": "Cherish Kamari Lee",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795571874,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALDOROUGH_ABDULKAREEM_648482",
+   "name": "Abdulkareem M Al Dorough",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795571872,
+   "photo": null
+  },
   {
    "key": "MAR_JONES_TOREON_2026-11-24",
    "name": "Toreon Taron Jones",
@@ -288,39 +321,6 @@
    "photo": "photos/DOU_BRATTI_LARISSA_2026-11-24.jpg"
   },
   {
-   "key": "MKE_BANKS_JALEN_535935",
-   "name": "Jalen Christopher Banks",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1795557479,
-   "photo": "photos/MKE_BANKS_JALEN_535935.jpg"
-  },
-  {
-   "key": "MKE_ROBINSON_DOMINIQUE_648479",
-   "name": "Dominique Darnell Robinson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1795557476,
-   "photo": "photos/MKE_ROBINSON_DOMINIQUE_648479.jpg"
-  },
-  {
-   "key": "RC_ALLEN_MICHAEL_120011076582728",
-   "name": "Michael Dion Allen",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
-   "more": 0,
-   "ts": 1795556907,
-   "photo": "photos/RC_ALLEN_MICHAEL_120011076582728.jpg"
-  },
-  {
    "key": "MAR_VANG_JIMMIE_2026-11-24_7922303",
    "name": "Jimmie Van Kai Vang",
    "age": "27",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SMITH_ALEX_401781",
+   "name": "Alex J Smith",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Sex Registry Violation",
+   "more": 0,
+   "ts": 1795571878,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_CHERISH_648481",
+   "name": "Cherish Kamari Lee",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795571874,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALDOROUGH_ABDULKAREEM_648482",
+   "name": "Abdulkareem M Al Dorough",
+   "age": "33",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795571872,
+   "photo": null
+  },
   {
    "key": "MAR_JONES_TOREON_2026-11-24",
    "name": "Toreon Taron Jones",
