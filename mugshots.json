@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T08:49:26+00:00",
+ "updated": "2026-11-25T08:54:55+00:00",
  "items": [
+  {
+   "key": "MAR_WILSON_ALFRED_2026-11-25",
+   "name": "Alfred Wilson",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist Obstruct an Officer",
+   "more": 0,
+   "ts": 1795596799,
+   "photo": "photos/MAR_WILSON_ALFRED_2026-11-25.jpg"
+  },
   {
    "key": "RC_GLOVER_MONTAVEON_120011076595074",
    "name": "Montaveon Le'brian Glover",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795549631,
    "photo": "photos/CROSBY_RONALD_2026-11-24.jpg"
-  },
-  {
-   "key": "STIKA_DYLAN_2026-11-24",
-   "name": "Dylan E Stika",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795548201,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_WILSON_ALFRED_2026-11-25",
+   "name": "Alfred Wilson",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Resist Obstruct an Officer",
+   "more": 0,
+   "ts": 1795596799,
+   "photo": "photos/MAR_WILSON_ALFRED_2026-11-25.jpg"
+  },
   {
    "key": "RC_GLOVER_MONTAVEON_120011076595074",
    "name": "Montaveon Le'brian Glover",
