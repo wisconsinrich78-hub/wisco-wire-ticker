@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:31:53+00:00",
+ "updated": "2026-11-25T07:49:30+00:00",
  "items": [
   {
    "key": "FDL_HILL_MARTINA_2026-11-25",
@@ -40,7 +40,7 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under the Influence",
    "more": 0,
    "ts": 1795589285,
    "photo": "photos/RC_HUNTER_NIEAMA_120011076593312.jpg"
@@ -51,7 +51,7 @@
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resist Officer - Failure to Stop Vehicle",
    "more": 0,
    "ts": 1795589282,
    "photo": "photos/RC_VARGAS_JOSEPH_120011076593482.jpg"
@@ -570,7 +570,7 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating While Under the Influence",
    "more": 0,
    "ts": 1795589285,
    "photo": "photos/RC_HUNTER_NIEAMA_120011076593312.jpg"
@@ -581,7 +581,7 @@
    "age": "33",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resist Officer - Failure to Stop Vehicle",
    "more": 0,
    "ts": 1795589282,
    "photo": "photos/RC_VARGAS_JOSEPH_120011076593482.jpg"
@@ -4380,17 +4380,6 @@
    "more": 1,
    "ts": 1795334264,
    "photo": "photos/MKE_WILLIAMS_TERANCE_379109.jpg"
-  },
-  {
-   "key": "RC_WOODSVAUGHN_JUSTIN_120011076497710",
-   "name": "Justin Woods- Vaughn",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795333674,
-   "photo": "photos/RC_WOODSVAUGHN_JUSTIN_120011076497710.jpg"
   }
  ]
 }
