@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T03:49:29+00:00",
+ "updated": "2026-11-25T04:10:05+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_SAMUEL_618658",
+   "name": "Samuel R Williams",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795579071,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRUNO_WILDREDO_648484",
+   "name": "Wildredo GilbertRichard Bruno",
+   "age": "16",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795579068,
+   "photo": "photos/MKE_BRUNO_WILDREDO_648484.jpg"
+  },
   {
    "key": "MKE_SAVAGE_KEVIN_648483",
    "name": "Kevin Patrick Savage",
@@ -255,17 +277,6 @@
    "photo": "photos/MKE_SABOL_SHAUN_610676.jpg"
   },
   {
-   "key": "MKE_KONTNY_JASON_648480",
-   "name": "Jason James Kontny",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795562897,
-   "photo": "photos/MKE_KONTNY_JASON_648480.jpg"
-  },
-  {
    "key": "LITTLEWOLF_ENCHANTING_2026-11-24",
    "name": "Enchanting B Littlewolf",
    "age": "30",
@@ -297,17 +308,6 @@
    "more": 0,
    "ts": 1795562206,
    "photo": "photos/FDL_HECKERNEWMAN_SAMANTHA_2026-11-24.jpg"
-  },
-  {
-   "key": "KEN_RICHARDSON_DANIELLE_2026-00006490",
-   "name": "Danielle N Richardson",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 0,
-   "ts": 1795561727,
-   "photo": null
   },
   {
    "key": "MAR_ALTUZ_NICHOLAS_2026-11-24",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_SAMUEL_618658",
+   "name": "Samuel R Williams",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795579071,
+   "photo": null
+  },
+  {
+   "key": "MKE_BRUNO_WILDREDO_648484",
+   "name": "Wildredo GilbertRichard Bruno",
+   "age": "16",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795579068,
+   "photo": "photos/MKE_BRUNO_WILDREDO_648484.jpg"
+  },
   {
    "key": "MKE_SAVAGE_KEVIN_648483",
    "name": "Kevin Patrick Savage",
