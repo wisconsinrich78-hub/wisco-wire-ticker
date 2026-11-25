@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T16:49:24+00:00",
+ "updated": "2026-11-25T17:11:45+00:00",
  "items": [
+  {
+   "key": "KEN_CHAVEZ_BRITNEY_2026-00006500",
+   "name": "Britney Ann Chavez",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate Vehicle W/O Registration Lamps",
+   "more": 4,
+   "ts": 1795625974,
+   "photo": "photos/KEN_CHAVEZ_BRITNEY_2026-00006500.jpg"
+  },
+  {
+   "key": "KEN_BARKER_LANCE_2026-00006499",
+   "name": "Lance Patrick Barker",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 1,
+   "ts": 1795625902,
+   "photo": "photos/KEN_BARKER_LANCE_2026-00006499.jpg"
+  },
+  {
+   "key": "MKE_MINOR_SETH_648492",
+   "name": "Seth William Minor",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795625854,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILLIAMS_ANTONIO_2026-11-25",
+   "name": "Antonio Lamont Williams",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1795625603,
+   "photo": "photos/MAR_WILLIAMS_ANTONIO_2026-11-25.jpg"
+  },
   {
    "key": "RC_DEMARS_JACYON_120011076597841",
    "name": "Jacyon Jeremiah Demars",
@@ -189,17 +233,6 @@
    "photo": "photos/KEN_BARKER_WILLIE_2026-00006499.jpg"
   },
   {
-   "key": "RC_HOOSER_ZIGGY_120011076595917",
-   "name": "Ziggy Joe Hooser",
-   "age": "43",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Enforce The Duty Of Child Support Or Maintenance",
-   "more": 0,
-   "ts": 1795600076,
-   "photo": "photos/RC_HOOSER_ZIGGY_120011076595917.jpg"
-  },
-  {
    "key": "OLSON_ROBERT_2026-11-25",
    "name": "Robert D Olson",
    "age": "30",
@@ -211,17 +244,6 @@
    "photo": null
   },
   {
-   "key": "MKE_ZAMBRANODELGADO_ROSAS_648487",
-   "name": "Rosas Elard Zambrano Delgado",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795598849,
-   "photo": "photos/MKE_ZAMBRANODELGADO_ROSAS_648487.jpg"
-  },
-  {
    "key": "TRAYWICK_TERRANCE_2026-11-25",
    "name": "Terrance M Traywick",
    "age": "27",
@@ -231,17 +253,6 @@
    "more": 1,
    "ts": 1795598602,
    "photo": null
-  },
-  {
-   "key": "KEN_ROZIVKA_BRIAN_2026-00006497",
-   "name": "Brian William Rozivka",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795597366,
-   "photo": "photos/KEN_ROZIVKA_BRIAN_2026-00006497.jpg"
   },
   {
    "key": "MAR_WILSON_ALFRED_2026-11-25",
@@ -517,20 +528,53 @@
    "more": 1,
    "ts": 1795553647,
    "photo": "photos/MAR_VANG_JIMMIE_2026-11-24_7922303.jpg"
-  },
-  {
-   "key": "MAR_CURTINWEBER_NATASHA_2026-11-24_5258415",
-   "name": "Natasha Diann Curtin-Weber",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795553607,
-   "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24_5258415.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KEN_CHAVEZ_BRITNEY_2026-00006500",
+   "name": "Britney Ann Chavez",
+   "age": "35",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate Vehicle W/O Registration Lamps",
+   "more": 4,
+   "ts": 1795625974,
+   "photo": "photos/KEN_CHAVEZ_BRITNEY_2026-00006500.jpg"
+  },
+  {
+   "key": "KEN_BARKER_LANCE_2026-00006499",
+   "name": "Lance Patrick Barker",
+   "age": "49",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia",
+   "more": 1,
+   "ts": 1795625902,
+   "photo": "photos/KEN_BARKER_LANCE_2026-00006499.jpg"
+  },
+  {
+   "key": "MKE_MINOR_SETH_648492",
+   "name": "Seth William Minor",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795625854,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILLIAMS_ANTONIO_2026-11-25",
+   "name": "Antonio Lamont Williams",
+   "age": "26",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1795625603,
+   "photo": "photos/MAR_WILLIAMS_ANTONIO_2026-11-25.jpg"
+  },
   {
    "key": "RC_DEMARS_JACYON_120011076597841",
    "name": "Jacyon Jeremiah Demars",
@@ -779,8 +823,8 @@
    "age": "32",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Open Intoxicants in Mv-Driver",
+   "more": 5,
    "ts": 1795597294,
    "photo": "photos/KEN_OVERSTREET_BRYAN_2026-00006498.jpg"
   },
@@ -911,8 +955,8 @@
    "age": "29",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 4,
    "ts": 1795589634,
    "photo": "photos/KEN_MOLINARO_MEGAN_2026-00006494.jpg"
   },
@@ -4402,105 +4446,6 @@
    "more": 0,
    "ts": 1795370005,
    "photo": "photos/MAR_BESSETTE_AMANDA_2026-11-22_1300006.jpg"
-  },
-  {
-   "key": "KEN_SERRANOTRUJILLO_JESUS_2026-00006453",
-   "name": "Jesus David Serrano-Trujillo",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L",
-   "more": 3,
-   "ts": 1795367278,
-   "photo": "photos/KEN_SERRANOTRUJILLO_JESUS_2026-00006453.jpg"
-  },
-  {
-   "key": "KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006455",
-   "name": "Maikoh Jose Martinez-Martinez",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct (Elder Person Victim)",
-   "more": 1,
-   "ts": 1795367200,
-   "photo": "photos/KEN_MARTINEZMARTINEZ_MAIKOH_2026-00006455.jpg"
-  },
-  {
-   "key": "KEN_KRATOVIL_MAKAYLIN_2026-00006454",
-   "name": "Makaylin Nicole Kratovil",
-   "age": "18",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Causing Bodily Harm by Reckless Driving",
-   "more": 2,
-   "ts": 1795367118,
-   "photo": "photos/KEN_KRATOVIL_MAKAYLIN_2026-00006454.jpg"
-  },
-  {
-   "key": "KEN_HARRIS_DORIAN_2026-00006457",
-   "name": "Dorian Lamont Harris",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Retail Theft-Intentionally Take (<=$500)",
-   "more": 3,
-   "ts": 1795367045,
-   "photo": "photos/KEN_HARRIS_DORIAN_2026-00006457.jpg"
-  },
-  {
-   "key": "KEN_GARCIA_MIGUEL_2026-00006452",
-   "name": "Miguel Angel Garcia",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Contempt of Court - Disobey Order",
-   "more": 0,
-   "ts": 1795366931,
-   "photo": "photos/KEN_GARCIA_MIGUEL_2026-00006452.jpg"
-  },
-  {
-   "key": "KEN_FORD_TREMAR_2026-00006458",
-   "name": "Tremar Latwoine Ford",
-   "age": "30",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795366862,
-   "photo": "photos/KEN_FORD_TREMAR_2026-00006458.jpg"
-  },
-  {
-   "key": "MKE_SOTO_JONATHAN_648449",
-   "name": "Jonathan Soto",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795366654,
-   "photo": "photos/MKE_SOTO_JONATHAN_648449.jpg"
-  },
-  {
-   "key": "MAR_KIBLER_MALIEK_2026-11-21",
-   "name": "Maliek Jackson Kibler",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1795366629,
-   "photo": "photos/MAR_KIBLER_MALIEK_2026-11-21.jpg"
-  },
-  {
-   "key": "MAR_BESSETTE_AMANDA_2026-11-22",
-   "name": "Amanda Jean Bessette",
-   "age": "45",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 0,
-   "ts": 1795366519,
-   "photo": "photos/MAR_BESSETTE_AMANDA_2026-11-22.jpg"
   }
  ]
 }
