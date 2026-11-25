@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T03:10:28+00:00",
+ "updated": "2026-11-25T03:30:02+00:00",
  "items": [
+  {
+   "key": "MKE_SAVAGE_KEVIN_648483",
+   "name": "Kevin Patrick Savage",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795577253,
+   "photo": null
+  },
+  {
+   "key": "TRAYWICK_TERRANCE_2026-11-24",
+   "name": "Terrance M Traywick",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795577001,
+   "photo": null
+  },
   {
    "key": "MAR_JONES_TOREON_2026-11-24_15867701",
    "name": "Toreon Taron Jones",
@@ -299,17 +321,6 @@
    "photo": "photos/MAR_ALTUZ_NICHOLAS_2026-11-24.jpg"
   },
   {
-   "key": "RC_DURHAM_KELVIN_120011076583925",
-   "name": "Kelvin J Durham",
-   "age": "39",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795560479,
-   "photo": "photos/RC_DURHAM_KELVIN_120011076583925.jpg"
-  },
-  {
    "key": "LINK_DANNY_2026-11-24",
    "name": "Danny L Link",
    "age": "45",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1795538837,
    "photo": null
-  },
-  {
-   "key": "FDL_EVANS_KEVION_2026-11-24",
-   "name": "Kevion Walter Evans",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1795536992,
-   "photo": "photos/FDL_EVANS_KEVION_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SAVAGE_KEVIN_648483",
+   "name": "Kevin Patrick Savage",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795577253,
+   "photo": null
+  },
+  {
+   "key": "TRAYWICK_TERRANCE_2026-11-24",
+   "name": "Terrance M Traywick",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795577001,
+   "photo": null
+  },
   {
    "key": "MAR_JONES_TOREON_2026-11-24_15867701",
    "name": "Toreon Taron Jones",
