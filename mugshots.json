@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T00:49:37+00:00",
+ "updated": "2026-11-25T01:12:08+00:00",
  "items": [
+  {
+   "key": "MKE_JOHNSON_DEWAYNE_631815",
+   "name": "Dewayne M Johnson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carjacking: Possess Weapon",
+   "more": 1,
+   "ts": 1795568275,
+   "photo": null
+  },
   {
    "key": "KEN_KNIGHT_KAYLIE_2026-00006493",
    "name": "Kaylie Ashley Knight",
@@ -32,7 +43,7 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 4,
    "ts": 1795566464,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_SHAWN_364955.jpg"
   },
   {
    "key": "MKE_WASHINGTON_DONTAY_376631",
@@ -43,7 +54,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795566462,
-   "photo": null
+   "photo": "photos/MKE_WASHINGTON_DONTAY_376631.jpg"
   },
   {
    "key": "FDL_MIDDENDROP_DARIEN_2026-11-24",
@@ -98,7 +109,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795562909,
-   "photo": null
+   "photo": "photos/MKE_MAYFIELD_TIMEKA_500543.jpg"
   },
   {
    "key": "MKE_SABOL_SHAUN_610676",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1795555700,
    "photo": "photos/MKE_RICHARDS_HARRIETTE_528383.jpg"
-  },
-  {
-   "key": "MKE_JORDAN_ZOE_643777",
-   "name": "Zoe A Jordan",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795555698,
-   "photo": "photos/MKE_JORDAN_ZOE_643777.jpg"
   },
   {
    "key": "MAR_VANG_JIMMIE_2026-11-24_7922303",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "MKE_JOHNSON_DEWAYNE_631815",
+   "name": "Dewayne M Johnson",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Carjacking: Possess Weapon",
+   "more": 1,
+   "ts": 1795568275,
+   "photo": null
+  },
+  {
    "key": "KEN_KNIGHT_KAYLIE_2026-00006493",
    "name": "Kaylie Ashley Knight",
    "age": "25",
@@ -562,7 +573,7 @@
    "charge": "2nd-Degree Recklessly Endangering Safety",
    "more": 4,
    "ts": 1795566464,
-   "photo": null
+   "photo": "photos/MKE_HARRIS_SHAWN_364955.jpg"
   },
   {
    "key": "MKE_WASHINGTON_DONTAY_376631",
@@ -573,7 +584,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795566462,
-   "photo": null
+   "photo": "photos/MKE_WASHINGTON_DONTAY_376631.jpg"
   },
   {
    "key": "FDL_MIDDENDROP_DARIEN_2026-11-24",
@@ -628,7 +639,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795562909,
-   "photo": null
+   "photo": "photos/MKE_MAYFIELD_TIMEKA_500543.jpg"
   },
   {
    "key": "MKE_SABOL_SHAUN_610676",
