@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-25T19:32:38+00:00",
+ "updated": "2026-11-25T20:49:27+00:00",
  "items": [
+  {
+   "key": "RC_WADE_DAMARIUS_120011076612062",
+   "name": "Damarius Wade",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795639670,
+   "photo": "photos/RC_WADE_DAMARIUS_120011076612062.jpg"
+  },
+  {
+   "key": "FEYEN_DAVID_2026-11-25",
+   "name": "David J Feyen",
+   "age": "55",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795639627,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEAL_ANTHONY_648493",
+   "name": "Anthony Malik Neal",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795638457,
+   "photo": null
+  },
+  {
+   "key": "FDL_MORALES_JAQUELINE_2026-11-25",
+   "name": "Jaqueline Morales",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795637785,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOHANNON_DANNIE_166869",
+   "name": "Dannie Lamarr Bohannon",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795636670,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_JACQUES_407940",
+   "name": "Jacques R Johnson",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 0,
+   "ts": 1795636668,
+   "photo": "photos/MKE_JOHNSON_JACQUES_407940.jpg"
+  },
+  {
+   "key": "MKE_HENDERSON_MICHAEL_532155",
+   "name": "Michael A Henderson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795636667,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERNANDEZTAVAREZ_JUAN_615062",
+   "name": "Juan M Hernandez-Tavarez",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1795636665,
+   "photo": "photos/MKE_HERNANDEZTAVAREZ_JUAN_615062.jpg"
+  },
+  {
+   "key": "KEN_ROBINSON_LOUIS_2026-00006503",
+   "name": "Louis L Robinson",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Drive or Operate Vehicle W/O Consent",
+   "more": 1,
+   "ts": 1795636389,
+   "photo": null
+  },
   {
    "key": "DOU_HANSEL_TYLER_2026-11-25",
    "name": "Tyler J Hansel",
@@ -189,28 +288,6 @@
    "photo": "photos/RC_DEMARS_JACYON_120011076597841.jpg"
   },
   {
-   "key": "RC_SANTIAGO_WILLIAM_120011076605708",
-   "name": "William Santiago",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795625272,
-   "photo": "photos/RC_SANTIAGO_WILLIAM_120011076605708.jpg"
-  },
-  {
-   "key": "RC_OZUNA_BRANDY_120011076606501",
-   "name": "Brandy L Ozuna",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795625270,
-   "photo": "photos/RC_OZUNA_BRANDY_120011076606501.jpg"
-  },
-  {
    "key": "TREM_VASQUEZGOMEZ_LESTER_6223",
    "name": "Lester Alexander Vasquez Gomez",
    "age": "26",
@@ -220,61 +297,6 @@
    "more": 7,
    "ts": 1795625229,
    "photo": "photos/TREM_VASQUEZGOMEZ_LESTER_6223.jpg"
-  },
-  {
-   "key": "MKE_KEARNEY_IAN_375839",
-   "name": "Ian E Kearney",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Habitual Criminality",
-   "more": 11,
-   "ts": 1795624066,
-   "photo": "photos/MKE_KEARNEY_IAN_375839.jpg"
-  },
-  {
-   "key": "MKE_STOREY_JOSEPH_606639",
-   "name": "Joseph S Storey",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795624065,
-   "photo": "photos/MKE_STOREY_JOSEPH_606639.jpg"
-  },
-  {
-   "key": "MKE_BENNETTITHIER_ALTON_630118",
-   "name": "Alton Anthony Bennett-Ithier",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795624062,
-   "photo": "photos/MKE_BENNETTITHIER_ALTON_630118.jpg"
-  },
-  {
-   "key": "MKE_JACKSON_ANDREAL_648488",
-   "name": "Andreal E Jackson",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795624060,
-   "photo": "photos/MKE_JACKSON_ANDREAL_648488.jpg"
-  },
-  {
-   "key": "MKE_HUGHES_SYBIL_648489",
-   "name": "Sybil R Hughes",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795624058,
-   "photo": "photos/MKE_HUGHES_SYBIL_648489.jpg"
   },
   {
    "key": "OLSON_KYLE_2026-11-25",
@@ -506,31 +528,108 @@
    "more": 0,
    "ts": 1795564658,
    "photo": "photos/MAR_CONNER_BRANDON_2026-11-24_11207003.jpg"
-  },
-  {
-   "key": "MAR_ALTUZ_NICHOLAS_2026-11-24_7038808",
-   "name": "Nicholas Carlos Altuz",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Bail Jumping-Felony",
-   "more": 1,
-   "ts": 1795564513,
-   "photo": "photos/MAR_ALTUZ_NICHOLAS_2026-11-24_7038808.jpg"
-  },
-  {
-   "key": "ANDERSON_JASON_2026-11-24",
-   "name": "Jason W Anderson",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795564033,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WADE_DAMARIUS_120011076612062",
+   "name": "Damarius Wade",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795639670,
+   "photo": "photos/RC_WADE_DAMARIUS_120011076612062.jpg"
+  },
+  {
+   "key": "FEYEN_DAVID_2026-11-25",
+   "name": "David J Feyen",
+   "age": "55",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795639627,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEAL_ANTHONY_648493",
+   "name": "Anthony Malik Neal",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795638457,
+   "photo": null
+  },
+  {
+   "key": "FDL_MORALES_JAQUELINE_2026-11-25",
+   "name": "Jaqueline Morales",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795637785,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOHANNON_DANNIE_166869",
+   "name": "Dannie Lamarr Bohannon",
+   "age": "68",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795636670,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_JACQUES_407940",
+   "name": "Jacques R Johnson",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Burglary-Building or Dwelling",
+   "more": 0,
+   "ts": 1795636668,
+   "photo": "photos/MKE_JOHNSON_JACQUES_407940.jpg"
+  },
+  {
+   "key": "MKE_HENDERSON_MICHAEL_532155",
+   "name": "Michael A Henderson",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795636667,
+   "photo": null
+  },
+  {
+   "key": "MKE_HERNANDEZTAVAREZ_JUAN_615062",
+   "name": "Juan M Hernandez-Tavarez",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1795636665,
+   "photo": "photos/MKE_HERNANDEZTAVAREZ_JUAN_615062.jpg"
+  },
+  {
+   "key": "KEN_ROBINSON_LOUIS_2026-00006503",
+   "name": "Louis L Robinson",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Drive or Operate Vehicle W/O Consent",
+   "more": 1,
+   "ts": 1795636389,
+   "photo": null
+  },
   {
    "key": "DOU_HANSEL_TYLER_2026-11-25",
    "name": "Tyler J Hansel",
@@ -4314,83 +4413,6 @@
    "more": 1,
    "ts": 1795380812,
    "photo": null
-  },
-  {
-   "key": "MKE_GOLDMAN_SHELDON_310283",
-   "name": "Sheldon Jevon Goldman",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795379252,
-   "photo": "photos/MKE_GOLDMAN_SHELDON_310283.jpg"
-  },
-  {
-   "key": "MKE_PERKINS_CHRISTOPHER_526626",
-   "name": "Christopher David Perkins",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795379250,
-   "photo": "photos/MKE_PERKINS_CHRISTOPHER_526626.jpg"
-  },
-  {
-   "key": "FDL_BILLUPS_JOSEPH_2026-11-22",
-   "name": "Joseph David Billups",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795378564,
-   "photo": "photos/FDL_BILLUPS_JOSEPH_2026-11-22.jpg"
-  },
-  {
-   "key": "MKE_MCGHEE_MARSHALL_648452",
-   "name": "Marshall L McGhee",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795377459,
-   "photo": "photos/MKE_MCGHEE_MARSHALL_648452.jpg"
-  },
-  {
-   "key": "MKE_CASTROMONTANEZ_JAIRO_648453",
-   "name": "Jairo A Castro Montanez",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795377456,
-   "photo": "photos/MKE_CASTROMONTANEZ_JAIRO_648453.jpg"
-  },
-  {
-   "key": "MKE_GARCIAHERNANDEZ_ENRIQUE_648454",
-   "name": "Enrique Garcia Hernandez",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Battery",
-   "more": 5,
-   "ts": 1795377454,
-   "photo": "photos/MKE_GARCIAHERNANDEZ_ENRIQUE_648454.jpg"
-  },
-  {
-   "key": "MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22_17138201",
-   "name": "Holman Ramirez-Rodriguez",
-   "age": "26",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Warrant Other Jurisdiction",
-   "more": 1,
-   "ts": 1795377200,
-   "photo": "photos/MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22_17138201.jpg"
   }
  ]
 }
