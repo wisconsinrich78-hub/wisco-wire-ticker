@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T19:12:10+00:00",
+ "updated": "2026-11-25T19:32:38+00:00",
  "items": [
+  {
+   "key": "DOU_HANSEL_TYLER_2026-11-25",
+   "name": "Tyler J Hansel",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Housed for Other Agency",
+   "more": 0,
+   "ts": 1795634219,
+   "photo": "photos/DOU_HANSEL_TYLER_2026-11-25.jpg"
+  },
   {
    "key": "MKE_PETRIE_JOSHUA_1459",
    "name": "Joshua Raymond Petrie",
@@ -10,7 +21,7 @@
    "charge": "Criminal Trespass to Dwelling",
    "more": 0,
    "ts": 1795633108,
-   "photo": null
+   "photo": "photos/MKE_PETRIE_JOSHUA_1459.jpg"
   },
   {
    "key": "MAR_XIONG_PHONG_2026-11-25_10432304",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795564033,
    "photo": null
-  },
-  {
-   "key": "LITTLEWOLF_ENCHANTING_2026-11-24",
-   "name": "Enchanting B Littlewolf",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795562614,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_HANSEL_TYLER_2026-11-25",
+   "name": "Tyler J Hansel",
+   "age": "41",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Housed for Other Agency",
+   "more": 0,
+   "ts": 1795634219,
+   "photo": "photos/DOU_HANSEL_TYLER_2026-11-25.jpg"
+  },
   {
    "key": "MKE_PETRIE_JOSHUA_1459",
    "name": "Joshua Raymond Petrie",
@@ -540,7 +551,7 @@
    "charge": "Criminal Trespass to Dwelling",
    "more": 0,
    "ts": 1795633108,
-   "photo": null
+   "photo": "photos/MKE_PETRIE_JOSHUA_1459.jpg"
   },
   {
    "key": "MAR_XIONG_PHONG_2026-11-25_10432304",
@@ -4380,28 +4391,6 @@
    "more": 1,
    "ts": 1795377200,
    "photo": "photos/MAR_RAMIREZRODRIGUEZ_HOLMAN_2026-11-22_17138201.jpg"
-  },
-  {
-   "key": "SCHOENMANN_TREVOR_2026-11-22",
-   "name": "Trevor J Schoenmann",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 5,
-   "ts": 1795375623,
-   "photo": null
-  },
-  {
-   "key": "FDL_TURNER_GRAHAM_2026-11-22",
-   "name": "Graham Michael Turner",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct INTOXICATED",
-   "more": 0,
-   "ts": 1795374999,
-   "photo": "photos/FDL_TURNER_GRAHAM_2026-11-22.jpg"
   }
  ]
 }
