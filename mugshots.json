@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-25T18:49:26+00:00",
+ "updated": "2026-11-25T19:12:10+00:00",
  "items": [
+  {
+   "key": "MKE_PETRIE_JOSHUA_1459",
+   "name": "Joshua Raymond Petrie",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 0,
+   "ts": 1795633108,
+   "photo": null
+  },
+  {
+   "key": "MAR_XIONG_PHONG_2026-11-25_10432304",
+   "name": "Phong Xiong",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795632832,
+   "photo": "photos/MAR_XIONG_PHONG_2026-11-25_10432304.jpg"
+  },
+  {
+   "key": "MAR_JONES_NEVAEHA_2026-11-25_905216",
+   "name": "Nevaeha Sharon Jones",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795632795,
+   "photo": "photos/MAR_JONES_NEVAEHA_2026-11-25_905216.jpg"
+  },
   {
    "key": "RC_BUTLER_SARFINA_120011076609674",
    "name": "Sarfina M Butler",
@@ -231,17 +264,6 @@
    "more": 0,
    "ts": 1795624058,
    "photo": "photos/MKE_HUGHES_SYBIL_648489.jpg"
-  },
-  {
-   "key": "MKE_HILARIOCASTRO_ANGEL_648490",
-   "name": "Angel Hilario Castro",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795624057,
-   "photo": "photos/MKE_HILARIOCASTRO_ANGEL_648490.jpg"
   },
   {
    "key": "OLSON_KYLE_2026-11-25",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1795562614,
    "photo": null
-  },
-  {
-   "key": "DOU_DEFOE_DONOVAN_2026-11-24",
-   "name": "Donovan J Defoe",
-   "age": "31",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Child Abuse or Neglect",
-   "more": 0,
-   "ts": 1795562269,
-   "photo": "photos/DOU_DEFOE_DONOVAN_2026-11-24.jpg"
-  },
-  {
-   "key": "FDL_HECKERNEWMAN_SAMANTHA_2026-11-24",
-   "name": "Samantha R Hecker Newman",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795562206,
-   "photo": "photos/FDL_HECKERNEWMAN_SAMANTHA_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_PETRIE_JOSHUA_1459",
+   "name": "Joshua Raymond Petrie",
+   "age": "41",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Criminal Trespass to Dwelling",
+   "more": 0,
+   "ts": 1795633108,
+   "photo": null
+  },
+  {
+   "key": "MAR_XIONG_PHONG_2026-11-25_10432304",
+   "name": "Phong Xiong",
+   "age": "37",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795632832,
+   "photo": "photos/MAR_XIONG_PHONG_2026-11-25_10432304.jpg"
+  },
+  {
+   "key": "MAR_JONES_NEVAEHA_2026-11-25_905216",
+   "name": "Nevaeha Sharon Jones",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795632795,
+   "photo": "photos/MAR_JONES_NEVAEHA_2026-11-25_905216.jpg"
+  },
   {
    "key": "RC_BUTLER_SARFINA_120011076609674",
    "name": "Sarfina M Butler",
@@ -4369,50 +4402,6 @@
    "more": 0,
    "ts": 1795374999,
    "photo": "photos/FDL_TURNER_GRAHAM_2026-11-22.jpg"
-  },
-  {
-   "key": "MKE_RANDOLPH_JACQUES_397325",
-   "name": "Jacques Ferrod. Randolph",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795373860,
-   "photo": "photos/MKE_RANDOLPH_JACQUES_397325.jpg"
-  },
-  {
-   "key": "MKE_FAJARDOMARTINEZ_RAUL_399586",
-   "name": "Raul Edurardo Fajardo-martinez",
-   "age": "47",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795373857,
-   "photo": "photos/MKE_FAJARDOMARTINEZ_RAUL_399586.jpg"
-  },
-  {
-   "key": "MKE_CHEELY_CHARIANNA_648451",
-   "name": "Charianna N Cheely",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795373856,
-   "photo": "photos/MKE_CHEELY_CHARIANNA_648451.jpg"
-  },
-  {
-   "key": "MAR_MCDUFFY_DION_2026-11-22",
-   "name": "Dion Dwight Mcduffy",
-   "age": "31",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Assault by Prisoners-Confines/Restrains",
-   "more": 9,
-   "ts": 1795373604,
-   "photo": "photos/MAR_MCDUFFY_DION_2026-11-22.jpg"
   }
  ]
 }
