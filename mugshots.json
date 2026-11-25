@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-25T22:49:29+00:00",
+ "updated": "2026-11-25T23:19:29+00:00",
  "items": [
+  {
+   "key": "DOU_SMITH_CHRISTOPHER_2026-11-25",
+   "name": "Christopher C Smith",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
+   "more": 0,
+   "ts": 1795648632,
+   "photo": "photos/DOU_SMITH_CHRISTOPHER_2026-11-25.jpg"
+  },
+  {
+   "key": "FDL_GUELL_JACKSON_2026-11-25",
+   "name": "Jackson Jay Guell",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795648597,
+   "photo": "photos/FDL_GUELL_JACKSON_2026-11-25.jpg"
+  },
+  {
+   "key": "MKE_ROJAS_SAMUEL_513470",
+   "name": "Samuel Luis Rojas",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1795647456,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARPER_MILLION_618205",
+   "name": "Million D Harper",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795647454,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILSON_NICKOLAS_2026-11-25",
+   "name": "Nickolas P Wilson",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Use a Computer to Facilitate a Child Sex Crime",
+   "more": 1,
+   "ts": 1795647255,
+   "photo": null
+  },
+  {
+   "key": "MAR_VUE_NENG_2026-11-25",
+   "name": "Neng Vue",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795647198,
+   "photo": "photos/MAR_VUE_NENG_2026-11-25.jpg"
+  },
   {
    "key": "BANKSTON_SHYANNA_2026-11-25",
    "name": "Shyanna R Bankston",
@@ -255,17 +321,6 @@
    "photo": "photos/DOU_HANSEL_TYLER_2026-11-25.jpg"
   },
   {
-   "key": "MKE_PETRIE_JOSHUA_1459",
-   "name": "Joshua Raymond Petrie",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 0,
-   "ts": 1795633108,
-   "photo": "photos/MKE_PETRIE_JOSHUA_1459.jpg"
-  },
-  {
    "key": "MAR_XIONG_PHONG_2026-11-25_10432304",
    "name": "Phong Xiong",
    "age": "37",
@@ -286,17 +341,6 @@
    "more": 0,
    "ts": 1795632795,
    "photo": "photos/MAR_JONES_NEVAEHA_2026-11-25_905216.jpg"
-  },
-  {
-   "key": "RC_BUTLER_SARFINA_120011076609674",
-   "name": "Sarfina M Butler",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795632471,
-   "photo": "photos/RC_BUTLER_SARFINA_120011076609674.jpg"
   },
   {
    "key": "MAR_XIONG_PHONG_2026-11-25",
@@ -484,53 +528,75 @@
    "more": 0,
    "ts": 1795584202,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "THURSTON_THEODORE_2026-11-24",
-   "name": "Theodore David Thurston",
-   "age": "52",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
+   "key": "DOU_SMITH_CHRISTOPHER_2026-11-25",
+   "name": "Christopher C Smith",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Probation/Parole Violation",
    "more": 0,
-   "ts": 1795584202,
-   "photo": null
+   "ts": 1795648632,
+   "photo": "photos/DOU_SMITH_CHRISTOPHER_2026-11-25.jpg"
   },
   {
-   "key": "FDL_WEINSHROTT_ABBY_2026-11-24",
-   "name": "Abby R Weinshrott",
+   "key": "FDL_GUELL_JACKSON_2026-11-25",
+   "name": "Jackson Jay Guell",
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
    "charge": "Disorderly Conduct",
    "more": 0,
-   "ts": 1795583802,
-   "photo": "photos/FDL_WEINSHROTT_ABBY_2026-11-24.jpg"
+   "ts": 1795648597,
+   "photo": "photos/FDL_GUELL_JACKSON_2026-11-25.jpg"
   },
   {
-   "key": "LEWIS_TERRY_2026-11-24",
-   "name": "Terry J Lewis",
-   "age": "61",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Criminal Damage to Property",
-   "more": 1,
-   "ts": 1795582026,
+   "key": "MKE_ROJAS_SAMUEL_513470",
+   "name": "Samuel Luis Rojas",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 0,
+   "ts": 1795647456,
    "photo": null
   },
   {
-   "key": "MAR_JONES_TOREON_2026-11-24_15867701",
-   "name": "Toreon Taron Jones",
-   "age": "33",
+   "key": "MKE_HARPER_MILLION_618205",
+   "name": "Million D Harper",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795647454,
+   "photo": null
+  },
+  {
+   "key": "MAR_WILSON_NICKOLAS_2026-11-25",
+   "name": "Nickolas P Wilson",
+   "age": "42",
    "county": "Marathon County",
    "region": "northwest",
-   "charge": "Failure to Appear Warrant - Felony",
+   "charge": "Use a Computer to Facilitate a Child Sex Crime",
+   "more": 1,
+   "ts": 1795647255,
+   "photo": null
+  },
+  {
+   "key": "MAR_VUE_NENG_2026-11-25",
+   "name": "Neng Vue",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
    "more": 0,
-   "ts": 1795575189,
-   "photo": "photos/MAR_JONES_TOREON_2026-11-24_15867701.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795647198,
+   "photo": "photos/MAR_VUE_NENG_2026-11-25.jpg"
+  },
   {
    "key": "BANKSTON_SHYANNA_2026-11-25",
    "name": "Shyanna R Bankston",
@@ -4178,8 +4244,8 @@
    "age": "31",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
+   "charge": "Armed Robbery",
+   "more": 5,
    "ts": 1795400853,
    "photo": "photos/MKE_JONES_CHRISTOPHER_404133.jpg"
   },
@@ -4413,50 +4479,6 @@
    "more": 0,
    "ts": 1795390053,
    "photo": "photos/MKE_PACHECOROMAN_VICTOR_648456.jpg"
-  },
-  {
-   "key": "FDL_SPARKS_RACHEL_2026-11-22",
-   "name": "Rachel Catherine Sparks",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795389399,
-   "photo": "photos/FDL_SPARKS_RACHEL_2026-11-22.jpg"
-  },
-  {
-   "key": "FDL_CARTER_BRET_2026-11-22",
-   "name": "Bret James Carter",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 3,
-   "ts": 1795389367,
-   "photo": "photos/FDL_CARTER_BRET_2026-11-22.jpg"
-  },
-  {
-   "key": "MKE_FLAKES_CLAUDIA_411799",
-   "name": "Claudia J Flakes",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795388263,
-   "photo": "photos/MKE_FLAKES_CLAUDIA_411799.jpg"
-  },
-  {
-   "key": "MKE_JONES_TERREANINA_626881",
-   "name": "Terreanina T Jones",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795388259,
-   "photo": "photos/MKE_JONES_TERREANINA_626881.jpg"
   }
  ]
 }
