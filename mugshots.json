@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T18:31:55+00:00",
+ "updated": "2026-11-25T18:49:26+00:00",
  "items": [
+  {
+   "key": "RC_BUTLER_SARFINA_120011076609674",
+   "name": "Sarfina M Butler",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795632471,
+   "photo": "photos/RC_BUTLER_SARFINA_120011076609674.jpg"
+  },
   {
    "key": "MAR_XIONG_PHONG_2026-11-25",
    "name": "Phong Xiong",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1795624057,
    "photo": "photos/MKE_HILARIOCASTRO_ANGEL_648490.jpg"
-  },
-  {
-   "key": "MKE_RAMIREZRUIZ_LIZBETH_648491",
-   "name": "Lizbeth Guadalupe Ramirez Ruiz",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1795624055,
-   "photo": "photos/MKE_RAMIREZRUIZ_LIZBETH_648491.jpg"
   },
   {
    "key": "OLSON_KYLE_2026-11-25",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BUTLER_SARFINA_120011076609674",
+   "name": "Sarfina M Butler",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795632471,
+   "photo": "photos/RC_BUTLER_SARFINA_120011076609674.jpg"
+  },
   {
    "key": "MAR_XIONG_PHONG_2026-11-25",
    "name": "Phong Xiong",
@@ -4402,50 +4413,6 @@
    "more": 9,
    "ts": 1795373604,
    "photo": "photos/MAR_MCDUFFY_DION_2026-11-22.jpg"
-  },
-  {
-   "key": "RC_FOX_MORGAN_120011076508542",
-   "name": "Morgan Lee Fox",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795373295,
-   "photo": "photos/RC_FOX_MORGAN_120011076508542.jpg"
-  },
-  {
-   "key": "RC_FITZGIBBONS_RICHARD_120011076508564",
-   "name": "Richard M Fitzgibbons",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795373292,
-   "photo": "photos/RC_FITZGIBBONS_RICHARD_120011076508564.jpg"
-  },
-  {
-   "key": "RC_MARTZ_BILLY_120011076508579",
-   "name": "Billy Wayne Martz",
-   "age": "58",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 0,
-   "ts": 1795373289,
-   "photo": "photos/RC_MARTZ_BILLY_120011076508579.jpg"
-  },
-  {
-   "key": "RC_REAM_CHANTELL_120011076508664",
-   "name": "Chantell Patricia Ream",
-   "age": "56",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Criminal Trespass to Dwelling",
-   "more": 0,
-   "ts": 1795373286,
-   "photo": "photos/RC_REAM_CHANTELL_120011076508664.jpg"
   }
  ]
 }
