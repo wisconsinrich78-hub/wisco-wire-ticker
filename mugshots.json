@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T00:34:43+00:00",
+ "updated": "2026-11-25T00:49:37+00:00",
  "items": [
+  {
+   "key": "KEN_KNIGHT_KAYLIE_2026-00006493",
+   "name": "Kaylie Ashley Knight",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795567214,
+   "photo": "photos/KEN_KNIGHT_KAYLIE_2026-00006493.jpg"
+  },
+  {
+   "key": "KEN_GASTON_MARVEOUR_2026-00006492",
+   "name": "Marveour Deeshaydaniel Gaston",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795567006,
+   "photo": "photos/KEN_GASTON_MARVEOUR_2026-00006492.jpg"
+  },
   {
    "key": "MKE_HARRIS_SHAWN_364955",
    "name": "Shawn Stephon Harris",
@@ -33,17 +55,6 @@
    "more": 0,
    "ts": 1795565809,
    "photo": null
-  },
-  {
-   "key": "KEN_GASTON_MARVEOUR_2026-00006492",
-   "name": "Marveour Deeshaydaniel Gaston",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795565696,
-   "photo": "photos/KEN_GASTON_MARVEOUR_2026-00006492.jpg"
   },
   {
    "key": "MAR_CONNER_BRANDON_2026-11-24_11207003",
@@ -150,7 +161,7 @@
    "age": "42",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Criminal Trespass to Dwelling",
    "more": 0,
    "ts": 1795561727,
    "photo": null
@@ -297,17 +308,6 @@
    "more": 0,
    "ts": 1795553607,
    "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24_5258415.jpg"
-  },
-  {
-   "key": "RC_MACK_STEVEN_120011076579826",
-   "name": "Steven Mack",
-   "age": "60",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795553292,
-   "photo": "photos/RC_MACK_STEVEN_120011076579826.jpg"
   },
   {
    "key": "NOONAN_JOSHUA_2026-11-24",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "KEN_KNIGHT_KAYLIE_2026-00006493",
+   "name": "Kaylie Ashley Knight",
+   "age": "25",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795567214,
+   "photo": "photos/KEN_KNIGHT_KAYLIE_2026-00006493.jpg"
+  },
+  {
+   "key": "KEN_GASTON_MARVEOUR_2026-00006492",
+   "name": "Marveour Deeshaydaniel Gaston",
+   "age": "22",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795567006,
+   "photo": "photos/KEN_GASTON_MARVEOUR_2026-00006492.jpg"
+  },
+  {
    "key": "MKE_HARRIS_SHAWN_364955",
    "name": "Shawn Stephon Harris",
    "age": "35",
@@ -563,17 +585,6 @@
    "more": 0,
    "ts": 1795565809,
    "photo": null
-  },
-  {
-   "key": "KEN_GASTON_MARVEOUR_2026-00006492",
-   "name": "Marveour Deeshaydaniel Gaston",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795565696,
-   "photo": "photos/KEN_GASTON_MARVEOUR_2026-00006492.jpg"
   },
   {
    "key": "MAR_CONNER_BRANDON_2026-11-24_11207003",
@@ -680,7 +691,7 @@
    "age": "42",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Criminal Trespass to Dwelling",
    "more": 0,
    "ts": 1795561727,
    "photo": null
