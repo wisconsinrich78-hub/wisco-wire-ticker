@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T01:12:08+00:00",
+ "updated": "2026-11-25T01:29:38+00:00",
  "items": [
+  {
+   "key": "HEROD_JASMINE_2026-11-24",
+   "name": "Jasmine A Herod",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795569800,
+   "photo": null
+  },
+  {
+   "key": "FDL_MARTIN_DANIEL_2026-11-24",
+   "name": "Daniel L Martin",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct No Drugs or Alc",
+   "more": 1,
+   "ts": 1795569389,
+   "photo": null
+  },
   {
    "key": "MKE_JOHNSON_DEWAYNE_631815",
    "name": "Dewayne M Johnson",
@@ -506,31 +528,31 @@
    "more": 2,
    "ts": 1795510032,
    "photo": null
-  },
-  {
-   "key": "DOU_WITZKE_NICHOLAS_2026-11-24",
-   "name": "Nicholas J Witzke",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795508273,
-   "photo": "photos/DOU_WITZKE_NICHOLAS_2026-11-24.jpg"
-  },
-  {
-   "key": "MAR_GULDAN_NICHOLAS_2026-11-24",
-   "name": "Nicholas Paul Guldan",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795506809,
-   "photo": "photos/MAR_GULDAN_NICHOLAS_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "HEROD_JASMINE_2026-11-24",
+   "name": "Jasmine A Herod",
+   "age": "37",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795569800,
+   "photo": null
+  },
+  {
+   "key": "FDL_MARTIN_DANIEL_2026-11-24",
+   "name": "Daniel L Martin",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct No Drugs or Alc",
+   "more": 1,
+   "ts": 1795569389,
+   "photo": null
+  },
   {
    "key": "MKE_JOHNSON_DEWAYNE_631815",
    "name": "Dewayne M Johnson",
