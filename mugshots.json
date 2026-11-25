@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-25T21:49:28+00:00",
+ "updated": "2026-11-25T22:41:26+00:00",
  "items": [
+  {
+   "key": "MKE_LASSITERSCHNECK_TREVAUGHN_614308",
+   "name": "TreVaughn Lassiter-Schneck",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Repeater - Domestic Abuse/72 Hours",
+   "more": 3,
+   "ts": 1795643854,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIMENTELMACEDONIO_ERIK_648494",
+   "name": "Erik Pimentel Macedonio",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1795643853,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOPFENSPERGER_MAXIMUS_648495",
+   "name": "Maximus Payton Hopfensperger",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795643852,
+   "photo": "photos/MKE_HOPFENSPERGER_MAXIMUS_648495.jpg"
+  },
+  {
+   "key": "MKE_KELLY_LAJUNE_648496",
+   "name": "LaJune Kelly",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795643850,
+   "photo": null
+  },
+  {
+   "key": "KEN_OVERSTREET_DAIREION_2026-00006504",
+   "name": "Daireion Overstreet",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795643587,
+   "photo": "photos/KEN_OVERSTREET_DAIREION_2026-00006504.jpg"
+  },
   {
    "key": "RC_DOMINGUEZ_MICHAEL_120011076613924",
    "name": "Michael J Dominguez",
@@ -131,7 +186,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795636670,
-   "photo": null
+   "photo": "photos/MKE_BOHANNON_DANNIE_166869.jpg"
   },
   {
    "key": "MKE_JOHNSON_JACQUES_407940",
@@ -153,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795636667,
-   "photo": null
+   "photo": "photos/MKE_HENDERSON_MICHAEL_532155.jpg"
   },
   {
    "key": "MKE_HERNANDEZTAVAREZ_JUAN_615062",
@@ -255,28 +310,6 @@
    "photo": "photos/MAR_JONES_NEVAEHA_2026-11-25.jpg"
   },
   {
-   "key": "RC_BARNES_VIVIAN_120011076608243",
-   "name": "Vivian A Barnes",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795628877,
-   "photo": "photos/RC_BARNES_VIVIAN_120011076608243.jpg"
-  },
-  {
-   "key": "RC_HOFF_ERICA_120011076608289",
-   "name": "Erica Elizabeth Hoff",
-   "age": "44",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795628874,
-   "photo": "photos/RC_HOFF_ERICA_120011076608289.jpg"
-  },
-  {
    "key": "HOU_RANK_ZAKYAHDOUGLAS_6339",
    "name": "Zakyah Douglas Rank",
    "age": "24",
@@ -297,39 +330,6 @@
    "more": 0,
    "ts": 1795628828,
    "photo": null
-  },
-  {
-   "key": "MKE_GAMROTH_MITCHELL_540820",
-   "name": "Mitchell Lee Gamroth",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st-Degree Intentional Homicide",
-   "more": 5,
-   "ts": 1795627652,
-   "photo": null
-  },
-  {
-   "key": "KEN_CHAVEZ_BRITNEY_2026-00006500",
-   "name": "Britney Ann Chavez",
-   "age": "35",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate Vehicle W/O Registration Lamps",
-   "more": 4,
-   "ts": 1795625974,
-   "photo": "photos/KEN_CHAVEZ_BRITNEY_2026-00006500.jpg"
-  },
-  {
-   "key": "KEN_BARKER_LANCE_2026-00006499",
-   "name": "Lance Patrick Barker",
-   "age": "49",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possess Drug Paraphernalia",
-   "more": 1,
-   "ts": 1795625902,
-   "photo": "photos/KEN_BARKER_LANCE_2026-00006499.jpg"
   },
   {
    "key": "MAR_WILLIAMS_ANTONIO_2026-11-25",
@@ -532,6 +532,61 @@
  ],
  "all_items": [
   {
+   "key": "MKE_LASSITERSCHNECK_TREVAUGHN_614308",
+   "name": "TreVaughn Lassiter-Schneck",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Domestic Abuse Repeater - Domestic Abuse/72 Hours",
+   "more": 3,
+   "ts": 1795643854,
+   "photo": null
+  },
+  {
+   "key": "MKE_PIMENTELMACEDONIO_ERIK_648494",
+   "name": "Erik Pimentel Macedonio",
+   "age": "26",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1795643853,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOPFENSPERGER_MAXIMUS_648495",
+   "name": "Maximus Payton Hopfensperger",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795643852,
+   "photo": "photos/MKE_HOPFENSPERGER_MAXIMUS_648495.jpg"
+  },
+  {
+   "key": "MKE_KELLY_LAJUNE_648496",
+   "name": "LaJune Kelly",
+   "age": "66",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795643850,
+   "photo": null
+  },
+  {
+   "key": "KEN_OVERSTREET_DAIREION_2026-00006504",
+   "name": "Daireion Overstreet",
+   "age": "20",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795643587,
+   "photo": "photos/KEN_OVERSTREET_DAIREION_2026-00006504.jpg"
+  },
+  {
    "key": "RC_DOMINGUEZ_MICHAEL_120011076613924",
    "name": "Michael J Dominguez",
    "age": "32",
@@ -661,7 +716,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795636670,
-   "photo": null
+   "photo": "photos/MKE_BOHANNON_DANNIE_166869.jpg"
   },
   {
    "key": "MKE_JOHNSON_JACQUES_407940",
@@ -683,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795636667,
-   "photo": null
+   "photo": "photos/MKE_HENDERSON_MICHAEL_532155.jpg"
   },
   {
    "key": "MKE_HERNANDEZTAVAREZ_JUAN_615062",
@@ -4402,50 +4457,6 @@
    "more": 1,
    "ts": 1795387669,
    "photo": "photos/RC_DEMBOWSKI_MICHAEL_120011076513240.jpg"
-  },
-  {
-   "key": "DOU_GOODIEL_RANDY_2026-11-22",
-   "name": "Randy L Goodiel",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1795385808,
-   "photo": "photos/DOU_GOODIEL_RANDY_2026-11-22.jpg"
-  },
-  {
-   "key": "MKE_FIELDS_XAVIER_416285",
-   "name": "Xavier Davon Fields",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 2,
-   "ts": 1795384652,
-   "photo": "photos/MKE_FIELDS_XAVIER_416285.jpg"
-  },
-  {
-   "key": "MAR_KIBLER_MALIEK_2026-11-21_14015720",
-   "name": "Maliek Jackson Kibler",
-   "age": "28",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear Warrant - Misdemeanor",
-   "more": 0,
-   "ts": 1795384479,
-   "photo": "photos/MAR_KIBLER_MALIEK_2026-11-21_14015720.jpg"
-  },
-  {
-   "key": "MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22_17138501",
-   "name": "Miguel Angel Blandino Castillo",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 1st",
-   "more": 1,
-   "ts": 1795384402,
-   "photo": "photos/MAR_BLANDINOCASTILLO_MIGUEL_2026-11-22_17138501.jpg"
   }
  ]
 }
