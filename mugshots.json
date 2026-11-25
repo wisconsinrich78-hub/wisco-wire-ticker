@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T08:12:27+00:00",
+ "updated": "2026-11-25T08:32:23+00:00",
  "items": [
+  {
+   "key": "MKE_CLARK_CHARLES_513324",
+   "name": "Charles M Clark",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Strangulation and Suffocation",
+   "more": 7,
+   "ts": 1795595259,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHUH_MICHAEL_616406",
+   "name": "Michael Andrew Schuh",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795595256,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSS_BELYNTHIA_646946",
+   "name": "Belynthia R Ross",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795595254,
+   "photo": null
+  },
+  {
+   "key": "DOU_STARSTEAD_CRYSTAL_2026-11-25",
+   "name": "Crystal B Starstead",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Warrant",
+   "more": 0,
+   "ts": 1795595007,
+   "photo": "photos/DOU_STARSTEAD_CRYSTAL_2026-11-25.jpg"
+  },
   {
    "key": "MKE_STEWART_JEREMY_372731",
    "name": "Jeremy D Stewart",
@@ -222,17 +266,6 @@
    "photo": "photos/MKE_BRUNO_WILDREDO_648484.jpg"
   },
   {
-   "key": "MKE_SAVAGE_KEVIN_648483",
-   "name": "Kevin Patrick Savage",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795577253,
-   "photo": "photos/MKE_SAVAGE_KEVIN_648483.jpg"
-  },
-  {
    "key": "TRAYWICK_TERRANCE_2026-11-24",
    "name": "Terrance M Traywick",
    "age": "27",
@@ -253,28 +286,6 @@
    "more": 0,
    "ts": 1795575189,
    "photo": "photos/MAR_JONES_TOREON_2026-11-24_15867701.jpg"
-  },
-  {
-   "key": "RC_GORDON_ROBERT_120011076589304",
-   "name": "Robert B Gordon",
-   "age": "50",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Battery or Threat to Judge, Prosecutor or LE Officer",
-   "more": 4,
-   "ts": 1795574872,
-   "photo": "photos/RC_GORDON_ROBERT_120011076589304.jpg"
-  },
-  {
-   "key": "MKE_JAMES_PRECIOUS_356256",
-   "name": "Precious Monique James",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Criminal Damage to Property",
-   "more": 3,
-   "ts": 1795573659,
-   "photo": "photos/MKE_JAMES_PRECIOUS_356256.jpg"
   },
   {
    "key": "MAR_JONES_TOREON_2026-11-24",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1795548201,
    "photo": null
-  },
-  {
-   "key": "MAR_CONNER_BRANDON_2026-11-24",
-   "name": "Brandon Marquis Conner",
-   "age": "41",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Failure to Appear Warrant - Felony",
-   "more": 0,
-   "ts": 1795546401,
-   "photo": "photos/MAR_CONNER_BRANDON_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CLARK_CHARLES_513324",
+   "name": "Charles M Clark",
+   "age": "50",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Strangulation and Suffocation",
+   "more": 7,
+   "ts": 1795595259,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHUH_MICHAEL_616406",
+   "name": "Michael Andrew Schuh",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795595256,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROSS_BELYNTHIA_646946",
+   "name": "Belynthia R Ross",
+   "age": "43",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795595254,
+   "photo": null
+  },
+  {
+   "key": "DOU_STARSTEAD_CRYSTAL_2026-11-25",
+   "name": "Crystal B Starstead",
+   "age": "43",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Warrant",
+   "more": 0,
+   "ts": 1795595007,
+   "photo": "photos/DOU_STARSTEAD_CRYSTAL_2026-11-25.jpg"
+  },
   {
    "key": "MKE_STEWART_JEREMY_372731",
    "name": "Jeremy D Stewart",
@@ -4369,17 +4413,6 @@
    "more": 0,
    "ts": 1795337224,
    "photo": null
-  },
-  {
-   "key": "MKE_GERARD_DARRIEN_648446",
-   "name": "Darrien Jon Gerard",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795336049,
-   "photo": "photos/MKE_GERARD_DARRIEN_648446.jpg"
   }
  ]
 }
