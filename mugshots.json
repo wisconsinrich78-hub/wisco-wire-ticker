@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-25T04:49:25+00:00",
+ "updated": "2026-11-25T05:32:13+00:00",
  "items": [
+  {
+   "key": "MKE_PARKER_TAVION_636530",
+   "name": "Tavion J Parker",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795584454,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILL_SETH_648485",
+   "name": "Seth Gray Hill",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1795584452,
+   "photo": null
+  },
+  {
+   "key": "SIVERHUS_LANCE_2026-11-24",
+   "name": "Lance R Siverhus",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795584202,
+   "photo": null
+  },
+  {
+   "key": "THURSTON_THEODORE_2026-11-24",
+   "name": "Theodore David Thurston",
+   "age": "52",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795584202,
+   "photo": null
+  },
+  {
+   "key": "FDL_WEINSHROTT_ABBY_2026-11-24",
+   "name": "Abby R Weinshrott",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795583802,
+   "photo": "photos/FDL_WEINSHROTT_ABBY_2026-11-24.jpg"
+  },
+  {
+   "key": "MKE_BELTRANOYOLA_LUISENRIQUE_382014",
+   "name": "Luis Enrique Beltran Oyola",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft-Not Over $100.00",
+   "more": 0,
+   "ts": 1795582651,
+   "photo": null
+  },
   {
    "key": "LEWIS_TERRY_2026-11-24",
    "name": "Terry J Lewis",
@@ -120,7 +186,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795571872,
-   "photo": null
+   "photo": "photos/MKE_ALDOROUGH_ABDULKAREEM_648482.jpg"
   },
   {
    "key": "MAR_JONES_TOREON_2026-11-24",
@@ -211,17 +277,6 @@
    "photo": "photos/MKE_HARRIS_SHAWN_364955.jpg"
   },
   {
-   "key": "MKE_WASHINGTON_DONTAY_376631",
-   "name": "Dontay John Washington",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795566462,
-   "photo": "photos/MKE_WASHINGTON_DONTAY_376631.jpg"
-  },
-  {
    "key": "FDL_MIDDENDROP_DARIEN_2026-11-24",
    "name": "Darien K Middendrop",
    "age": "",
@@ -264,28 +319,6 @@
    "more": 0,
    "ts": 1795564033,
    "photo": null
-  },
-  {
-   "key": "MKE_MAYFIELD_TIMEKA_500543",
-   "name": "Timeka Cherice Mayfield",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795562909,
-   "photo": "photos/MKE_MAYFIELD_TIMEKA_500543.jpg"
-  },
-  {
-   "key": "MKE_SABOL_SHAUN_610676",
-   "name": "Shaun A Sabol",
-   "age": "49",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Hit and Run-Involve Injury",
-   "more": 1,
-   "ts": 1795562903,
-   "photo": "photos/MKE_SABOL_SHAUN_610676.jpg"
   },
   {
    "key": "LITTLEWOLF_ENCHANTING_2026-11-24",
@@ -495,42 +528,75 @@
    "more": 0,
    "ts": 1795544205,
    "photo": "photos/FDL_JASSEREXQUIEL_LIRA_2026-11-24.jpg"
-  },
-  {
-   "key": "MAR_VANG_JIMMIE_2026-11-24",
-   "name": "Jimmie Van Kai Vang",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1st Degree Child Sex Assault - Contact/Intercourse W/ Person",
-   "more": 1,
-   "ts": 1795542892,
-   "photo": "photos/MAR_VANG_JIMMIE_2026-11-24.jpg"
-  },
-  {
-   "key": "MAR_CURTINWEBER_NATASHA_2026-11-24",
-   "name": "Natasha Diann Curtin-Weber",
-   "age": "30",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795542819,
-   "photo": "photos/MAR_CURTINWEBER_NATASHA_2026-11-24.jpg"
-  },
-  {
-   "key": "FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24",
-   "name": "Alfredo J Sanchez Gonzalez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 2,
-   "ts": 1795540621,
-   "photo": "photos/FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_PARKER_TAVION_636530",
+   "name": "Tavion J Parker",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795584454,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILL_SETH_648485",
+   "name": "Seth Gray Hill",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1795584452,
+   "photo": null
+  },
+  {
+   "key": "SIVERHUS_LANCE_2026-11-24",
+   "name": "Lance R Siverhus",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795584202,
+   "photo": null
+  },
+  {
+   "key": "THURSTON_THEODORE_2026-11-24",
+   "name": "Theodore David Thurston",
+   "age": "52",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795584202,
+   "photo": null
+  },
+  {
+   "key": "FDL_WEINSHROTT_ABBY_2026-11-24",
+   "name": "Abby R Weinshrott",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795583802,
+   "photo": "photos/FDL_WEINSHROTT_ABBY_2026-11-24.jpg"
+  },
+  {
+   "key": "MKE_BELTRANOYOLA_LUISENRIQUE_382014",
+   "name": "Luis Enrique Beltran Oyola",
+   "age": "62",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Retail Theft-Not Over $100.00",
+   "more": 0,
+   "ts": 1795582651,
+   "photo": null
+  },
   {
    "key": "LEWIS_TERRY_2026-11-24",
    "name": "Terry J Lewis",
@@ -650,7 +716,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795571872,
-   "photo": null
+   "photo": "photos/MKE_ALDOROUGH_ABDULKAREEM_648482.jpg"
   },
   {
    "key": "MAR_JONES_TOREON_2026-11-24",
