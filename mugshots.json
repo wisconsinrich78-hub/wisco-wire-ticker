@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T17:11:45+00:00",
+ "updated": "2026-11-25T17:29:39+00:00",
  "items": [
+  {
+   "key": "MKE_GAMROTH_MITCHELL_540820",
+   "name": "Mitchell Lee Gamroth",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Intentional Homicide",
+   "more": 5,
+   "ts": 1795627652,
+   "photo": null
+  },
   {
    "key": "KEN_CHAVEZ_BRITNEY_2026-00006500",
    "name": "Britney Ann Chavez",
@@ -220,17 +231,6 @@
    "more": 0,
    "ts": 1795600649,
    "photo": "photos/MKE_HEARN_LAIDARIAN_416780.jpg"
-  },
-  {
-   "key": "KEN_BARKER_WILLIE_2026-00006499",
-   "name": "Willie Lamont Barker",
-   "age": "46",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795600411,
-   "photo": "photos/KEN_BARKER_WILLIE_2026-00006499.jpg"
   },
   {
    "key": "OLSON_ROBERT_2026-11-25",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_GAMROTH_MITCHELL_540820",
+   "name": "Mitchell Lee Gamroth",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Intentional Homicide",
+   "more": 5,
+   "ts": 1795627652,
+   "photo": null
+  },
   {
    "key": "KEN_CHAVEZ_BRITNEY_2026-00006500",
    "name": "Britney Ann Chavez",
