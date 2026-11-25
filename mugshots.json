@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T09:49:24+00:00",
+ "updated": "2026-11-25T10:11:13+00:00",
  "items": [
+  {
+   "key": "MKE_HEARN_LAIDARIAN_416780",
+   "name": "Laidarian L Hearn",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795600649,
+   "photo": null
+  },
+  {
+   "key": "KEN_BARKER_WILLIE_2026-00006499",
+   "name": "Willie Lamont Barker",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795600411,
+   "photo": "photos/KEN_BARKER_WILLIE_2026-00006499.jpg"
+  },
   {
    "key": "RC_HOOSER_ZIGGY_120011076595917",
    "name": "Ziggy Joe Hooser",
@@ -106,7 +128,7 @@
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Strangulation and Suffocation",
    "more": 7,
    "ts": 1795595259,
    "photo": null
@@ -131,7 +153,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795595254,
-   "photo": null
+   "photo": "photos/MKE_ROSS_BELYNTHIA_646946.jpg"
   },
   {
    "key": "DOU_STARSTEAD_CRYSTAL_2026-11-25",
@@ -153,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795593465,
-   "photo": null
+   "photo": "photos/MKE_STEWART_JEREMY_372731.jpg"
   },
   {
    "key": "KEN_WILLIAMS_JAMES_2026-00006495",
@@ -184,7 +206,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 19,
+   "more": 0,
    "ts": 1795589851,
    "photo": null
   },
@@ -211,17 +233,6 @@
    "photo": "photos/RC_HUNTER_NIEAMA_120011076593312.jpg"
   },
   {
-   "key": "RC_VARGAS_JOSEPH_120011076593482",
-   "name": "Joseph Daniel Vargas",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resist Officer - Failure to Stop Vehicle",
-   "more": 0,
-   "ts": 1795589282,
-   "photo": "photos/RC_VARGAS_JOSEPH_120011076593482.jpg"
-  },
-  {
    "key": "VANG_STEVEN_2026-11-25",
    "name": "Steven Vang",
    "age": "33",
@@ -231,17 +242,6 @@
    "more": 0,
    "ts": 1795589227,
    "photo": null
-  },
-  {
-   "key": "MKE_SMITH_KAMIYA_648486",
-   "name": "Kamiya Smith",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795588049,
-   "photo": "photos/MKE_SMITH_KAMIYA_648486.jpg"
   },
   {
    "key": "JOHNSON_ARMANDO_2026-11-24",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "MKE_HEARN_LAIDARIAN_416780",
+   "name": "Laidarian L Hearn",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795600649,
+   "photo": null
+  },
+  {
+   "key": "KEN_BARKER_WILLIE_2026-00006499",
+   "name": "Willie Lamont Barker",
+   "age": "46",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795600411,
+   "photo": "photos/KEN_BARKER_WILLIE_2026-00006499.jpg"
+  },
+  {
    "key": "RC_HOOSER_ZIGGY_120011076595917",
    "name": "Ziggy Joe Hooser",
    "age": "43",
@@ -636,7 +658,7 @@
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Surcharges",
+   "charge": "Strangulation and Suffocation",
    "more": 7,
    "ts": 1795595259,
    "photo": null
@@ -661,7 +683,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795595254,
-   "photo": null
+   "photo": "photos/MKE_ROSS_BELYNTHIA_646946.jpg"
   },
   {
    "key": "DOU_STARSTEAD_CRYSTAL_2026-11-25",
@@ -683,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795593465,
-   "photo": null
+   "photo": "photos/MKE_STEWART_JEREMY_372731.jpg"
   },
   {
    "key": "KEN_WILLIAMS_JAMES_2026-00006495",
@@ -714,7 +736,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 19,
+   "more": 0,
    "ts": 1795589851,
    "photo": null
   },
@@ -804,7 +826,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795584454,
-   "photo": null
+   "photo": "photos/MKE_PARKER_TAVION_636530.jpg"
   },
   {
    "key": "MKE_HILL_SETH_648485",
@@ -859,7 +881,7 @@
    "charge": "Retail Theft-Not Over $100.00",
    "more": 0,
    "ts": 1795582651,
-   "photo": null
+   "photo": "photos/MKE_BELTRANOYOLA_LUISENRIQUE_382014.jpg"
   },
   {
    "key": "LEWIS_TERRY_2026-11-24",
@@ -4435,17 +4457,6 @@
    "more": 0,
    "ts": 1795363191,
    "photo": "photos/MKE_PEOT_ANDREW_648448.jpg"
-  },
-  {
-   "key": "MKE_MCDONALD_SHERRICE_648447",
-   "name": "Sherrice R McDonald",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795341454,
-   "photo": "photos/MKE_MCDONALD_SHERRICE_648447.jpg"
   }
  ]
 }
