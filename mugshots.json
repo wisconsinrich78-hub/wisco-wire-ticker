@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-25T16:08:44+00:00",
+ "updated": "2026-11-25T16:29:41+00:00",
  "items": [
+  {
+   "key": "MKE_KEARNEY_IAN_375839",
+   "name": "Ian E Kearney",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 11,
+   "ts": 1795624066,
+   "photo": "photos/MKE_KEARNEY_IAN_375839.jpg"
+  },
+  {
+   "key": "MKE_STOREY_JOSEPH_606639",
+   "name": "Joseph S Storey",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795624065,
+   "photo": "photos/MKE_STOREY_JOSEPH_606639.jpg"
+  },
+  {
+   "key": "MKE_BENNETTITHIER_ALTON_630118",
+   "name": "Alton Anthony Bennett-Ithier",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795624062,
+   "photo": "photos/MKE_BENNETTITHIER_ALTON_630118.jpg"
+  },
+  {
+   "key": "MKE_JACKSON_ANDREAL_648488",
+   "name": "Andreal E Jackson",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795624060,
+   "photo": "photos/MKE_JACKSON_ANDREAL_648488.jpg"
+  },
+  {
+   "key": "MKE_HUGHES_SYBIL_648489",
+   "name": "Sybil R Hughes",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795624058,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILARIOCASTRO_ANGEL_648490",
+   "name": "Angel Hilario Castro",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795624057,
+   "photo": null
+  },
+  {
+   "key": "MKE_RAMIREZRUIZ_LIZBETH_648491",
+   "name": "Lizbeth Guadalupe Ramirez Ruiz",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1795624055,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOFF_ERICA_2050614",
+   "name": "Erica E Hoff",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795624053,
+   "photo": "photos/MKE_HOFF_ERICA_2050614.jpg"
+  },
+  {
+   "key": "OLSON_KYLE_2026-11-25",
+   "name": "Kyle Allen Olson",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 2,
+   "ts": 1795623802,
+   "photo": null
+  },
+  {
+   "key": "NAGEL_CHASE_2026-11-25",
+   "name": "Chase A Nagel",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795623801,
+   "photo": null
+  },
+  {
+   "key": "FDL_PARSON_LEVANDER_2026-11-25",
+   "name": "Levander Pierre Parson",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 1,
+   "ts": 1795623387,
+   "photo": "photos/FDL_PARSON_LEVANDER_2026-11-25.jpg"
+  },
   {
    "key": "MKE_HEARN_LAIDARIAN_416780",
    "name": "Laidarian L Hearn",
@@ -123,39 +244,6 @@
    "photo": "photos/RC_AGUILAR_CHRISTOPHER_120011076595474.jpg"
   },
   {
-   "key": "MKE_CLARK_CHARLES_513324",
-   "name": "Charles M Clark",
-   "age": "50",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Strangulation and Suffocation",
-   "more": 7,
-   "ts": 1795595259,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCHUH_MICHAEL_616406",
-   "name": "Michael Andrew Schuh",
-   "age": "27",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 10,
-   "ts": 1795595256,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROSS_BELYNTHIA_646946",
-   "name": "Belynthia R Ross",
-   "age": "43",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795595254,
-   "photo": "photos/MKE_ROSS_BELYNTHIA_646946.jpg"
-  },
-  {
    "key": "DOU_STARSTEAD_CRYSTAL_2026-11-25",
    "name": "Crystal B Starstead",
    "age": "43",
@@ -167,28 +255,6 @@
    "photo": "photos/DOU_STARSTEAD_CRYSTAL_2026-11-25.jpg"
   },
   {
-   "key": "MKE_STEWART_JEREMY_372731",
-   "name": "Jeremy D Stewart",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795593465,
-   "photo": "photos/MKE_STEWART_JEREMY_372731.jpg"
-  },
-  {
-   "key": "KEN_WILLIAMS_JAMES_2026-00006495",
-   "name": "JAMES LEE Third WILLIAMS",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795593206,
-   "photo": "photos/KEN_WILLIAMS_JAMES_2026-00006495.jpg"
-  },
-  {
    "key": "FDL_HILL_MARTINA_2026-11-25",
    "name": "Martina Renee Hill",
    "age": "",
@@ -198,39 +264,6 @@
    "more": 0,
    "ts": 1795590982,
    "photo": "photos/FDL_HILL_MARTINA_2026-11-25.jpg"
-  },
-  {
-   "key": "MKE_SHELTON_AISHA_419846",
-   "name": "Aisha Hanifa Shelton",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft - Intentionally Take (<=$500)",
-   "more": 0,
-   "ts": 1795589851,
-   "photo": null
-  },
-  {
-   "key": "KEN_MOLINARO_MEGAN_2026-00006494",
-   "name": "Megan Lillian Molinaro",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795589634,
-   "photo": "photos/KEN_MOLINARO_MEGAN_2026-00006494.jpg"
-  },
-  {
-   "key": "RC_HUNTER_NIEAMA_120011076593312",
-   "name": "Nieama L Hunter",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence",
-   "more": 0,
-   "ts": 1795589285,
-   "photo": "photos/RC_HUNTER_NIEAMA_120011076593312.jpg"
   },
   {
    "key": "VANG_STEVEN_2026-11-25",
@@ -495,42 +528,130 @@
    "more": 0,
    "ts": 1795551804,
    "photo": null
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MKE_KEARNEY_IAN_375839",
+   "name": "Ian E Kearney",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Habitual Criminality",
+   "more": 11,
+   "ts": 1795624066,
+   "photo": "photos/MKE_KEARNEY_IAN_375839.jpg"
   },
   {
-   "key": "FDL_MATHIEU_JAMES_2026-11-24",
-   "name": "James E Mathieu",
+   "key": "MKE_STOREY_JOSEPH_606639",
+   "name": "Joseph S Storey",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795624065,
+   "photo": "photos/MKE_STOREY_JOSEPH_606639.jpg"
+  },
+  {
+   "key": "MKE_BENNETTITHIER_ALTON_630118",
+   "name": "Alton Anthony Bennett-Ithier",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795624062,
+   "photo": "photos/MKE_BENNETTITHIER_ALTON_630118.jpg"
+  },
+  {
+   "key": "MKE_JACKSON_ANDREAL_648488",
+   "name": "Andreal E Jackson",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795624060,
+   "photo": "photos/MKE_JACKSON_ANDREAL_648488.jpg"
+  },
+  {
+   "key": "MKE_HUGHES_SYBIL_648489",
+   "name": "Sybil R Hughes",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795624058,
+   "photo": null
+  },
+  {
+   "key": "MKE_HILARIOCASTRO_ANGEL_648490",
+   "name": "Angel Hilario Castro",
+   "age": "35",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795624057,
+   "photo": null
+  },
+  {
+   "key": "MKE_RAMIREZRUIZ_LIZBETH_648491",
+   "name": "Lizbeth Guadalupe Ramirez Ruiz",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
+   "more": 0,
+   "ts": 1795624055,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOFF_ERICA_2050614",
+   "name": "Erica E Hoff",
+   "age": "44",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795624053,
+   "photo": "photos/MKE_HOFF_ERICA_2050614.jpg"
+  },
+  {
+   "key": "OLSON_KYLE_2026-11-25",
+   "name": "Kyle Allen Olson",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 2,
+   "ts": 1795623802,
+   "photo": null
+  },
+  {
+   "key": "NAGEL_CHASE_2026-11-25",
+   "name": "Chase A Nagel",
+   "age": "32",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795623801,
+   "photo": null
+  },
+  {
+   "key": "FDL_PARSON_LEVANDER_2026-11-25",
+   "name": "Levander Pierre Parson",
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
    "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795551387,
-   "photo": "photos/FDL_MATHIEU_JAMES_2026-11-24.jpg"
-  },
-  {
-   "key": "MAR_FERNANDEZ_JESUS_2026-11-23_12548703",
-   "name": "Jesus Manuel Fernandez",
-   "age": "47",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 1st",
    "more": 1,
-   "ts": 1795550003,
-   "photo": "photos/MAR_FERNANDEZ_JESUS_2026-11-23_12548703.jpg"
+   "ts": 1795623387,
+   "photo": "photos/FDL_PARSON_LEVANDER_2026-11-25.jpg"
   },
-  {
-   "key": "JACKSON_PARADISE_2026-11-24",
-   "name": "Paradise T Jackson",
-   "age": "44",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold for Court",
-   "more": 0,
-   "ts": 1795549633,
-   "photo": null
-  }
- ],
- "all_items": [
   {
    "key": "MKE_HEARN_LAIDARIAN_416780",
    "name": "Laidarian L Hearn",
@@ -4402,17 +4523,6 @@
    "more": 0,
    "ts": 1795366032,
    "photo": "photos/TREM_SAMPLES_CHARLES_6221.jpg"
-  },
-  {
-   "key": "FUNMAKER_DIXON_2026-11-22",
-   "name": "Dixon Harry Funmaker",
-   "age": "54",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1795364821,
-   "photo": null
   }
  ]
 }
