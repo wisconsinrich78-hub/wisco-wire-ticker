@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T02:49:25+00:00",
+ "updated": "2026-11-25T03:10:28+00:00",
  "items": [
+  {
+   "key": "MAR_JONES_TOREON_2026-11-24_15867701",
+   "name": "Toreon Taron Jones",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure to Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1795575189,
+   "photo": "photos/MAR_JONES_TOREON_2026-11-24_15867701.jpg"
+  },
   {
    "key": "RC_GORDON_ROBERT_120011076589304",
    "name": "Robert B Gordon",
@@ -32,7 +43,7 @@
    "charge": "Sex Registry Violation",
    "more": 0,
    "ts": 1795571878,
-   "photo": null
+   "photo": "photos/MKE_SMITH_ALEX_401781.jpg"
   },
   {
    "key": "MKE_LEE_CHERISH_648481",
@@ -109,7 +120,7 @@
    "charge": "Carjacking: Possess Weapon",
    "more": 1,
    "ts": 1795568275,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_DEWAYNE_631815.jpg"
   },
   {
    "key": "KEN_KNIGHT_KAYLIE_2026-00006493",
@@ -128,7 +139,7 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1795567006,
    "photo": "photos/KEN_GASTON_MARVEOUR_2026-00006492.jpg"
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1795536992,
    "photo": "photos/FDL_EVANS_KEVION_2026-11-24.jpg"
-  },
-  {
-   "key": "MAR_GULDAN_NICHOLAS_2026-11-24_8503504",
-   "name": "Nicholas Paul Guldan",
-   "age": "32",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795510467,
-   "photo": "photos/MAR_GULDAN_NICHOLAS_2026-11-24_8503504.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_JONES_TOREON_2026-11-24_15867701",
+   "name": "Toreon Taron Jones",
+   "age": "33",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Failure to Appear Warrant - Felony",
+   "more": 0,
+   "ts": 1795575189,
+   "photo": "photos/MAR_JONES_TOREON_2026-11-24_15867701.jpg"
+  },
   {
    "key": "RC_GORDON_ROBERT_120011076589304",
    "name": "Robert B Gordon",
@@ -562,7 +573,7 @@
    "charge": "Sex Registry Violation",
    "more": 0,
    "ts": 1795571878,
-   "photo": null
+   "photo": "photos/MKE_SMITH_ALEX_401781.jpg"
   },
   {
    "key": "MKE_LEE_CHERISH_648481",
@@ -639,7 +650,7 @@
    "charge": "Carjacking: Possess Weapon",
    "more": 1,
    "ts": 1795568275,
-   "photo": null
+   "photo": "photos/MKE_JOHNSON_DEWAYNE_631815.jpg"
   },
   {
    "key": "KEN_KNIGHT_KAYLIE_2026-00006493",
@@ -658,7 +669,7 @@
    "age": "22",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1795567006,
    "photo": "photos/KEN_GASTON_MARVEOUR_2026-00006492.jpg"
