@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T05:32:13+00:00",
+ "updated": "2026-11-25T05:49:27+00:00",
  "items": [
+  {
+   "key": "RC_JACKSON_LEONARD_120011076592148",
+   "name": "Leonard J Jackson",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Second Degree Recklessly Endangering Safety",
+   "more": 1,
+   "ts": 1795585678,
+   "photo": "photos/RC_JACKSON_LEONARD_120011076592148.jpg"
+  },
   {
    "key": "MKE_PARKER_TAVION_636530",
    "name": "Tavion J Parker",
@@ -266,17 +277,6 @@
    "photo": "photos/KEN_GASTON_MARVEOUR_2026-00006492.jpg"
   },
   {
-   "key": "MKE_HARRIS_SHAWN_364955",
-   "name": "Shawn Stephon Harris",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "2nd-Degree Recklessly Endangering Safety",
-   "more": 4,
-   "ts": 1795566464,
-   "photo": "photos/MKE_HARRIS_SHAWN_364955.jpg"
-  },
-  {
    "key": "FDL_MIDDENDROP_DARIEN_2026-11-24",
    "name": "Darien K Middendrop",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_JACKSON_LEONARD_120011076592148",
+   "name": "Leonard J Jackson",
+   "age": "34",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Second Degree Recklessly Endangering Safety",
+   "more": 1,
+   "ts": 1795585678,
+   "photo": "photos/RC_JACKSON_LEONARD_120011076592148.jpg"
+  },
   {
    "key": "MKE_PARKER_TAVION_636530",
    "name": "Tavion J Parker",
