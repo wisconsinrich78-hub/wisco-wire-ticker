@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T08:54:55+00:00",
+ "updated": "2026-11-25T09:09:32+00:00",
  "items": [
+  {
+   "key": "KEN_ROZIVKA_BRIAN_2026-00006497",
+   "name": "Brian William Rozivka",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795597366,
+   "photo": "photos/KEN_ROZIVKA_BRIAN_2026-00006497.jpg"
+  },
+  {
+   "key": "KEN_OVERSTREET_BRYAN_2026-00006498",
+   "name": "BRYAN C Junior OVERSTREET",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795597294,
+   "photo": "photos/KEN_OVERSTREET_BRYAN_2026-00006498.jpg"
+  },
   {
    "key": "MAR_WILSON_ALFRED_2026-11-25",
    "name": "Alfred Wilson",
@@ -35,23 +57,12 @@
    "photo": "photos/RC_AGUILAR_CHRISTOPHER_120011076595474.jpg"
   },
   {
-   "key": "KEN_OVERSTREET_BRYAN_2026-00006498",
-   "name": "BRYAN C Junior OVERSTREET",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795596358,
-   "photo": "photos/KEN_OVERSTREET_BRYAN_2026-00006498.jpg"
-  },
-  {
    "key": "MKE_CLARK_CHARLES_513324",
    "name": "Charles M Clark",
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Strangulation and Suffocation",
+   "charge": "Domestic Abuse Surcharges",
    "more": 7,
    "ts": 1795595259,
    "photo": null
@@ -62,8 +73,8 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 10,
    "ts": 1795595256,
    "photo": null
   },
@@ -128,7 +139,7 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 19,
    "ts": 1795589851,
    "photo": null
@@ -186,7 +197,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795588049,
-   "photo": null
+   "photo": "photos/MKE_SMITH_KAMIYA_648486.jpg"
   },
   {
    "key": "JOHNSON_ARMANDO_2026-11-24",
@@ -220,17 +231,6 @@
    "more": 3,
    "ts": 1795584454,
    "photo": null
-  },
-  {
-   "key": "MKE_HILL_SETH_648485",
-   "name": "Seth Gray Hill",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1795584452,
-   "photo": "photos/MKE_HILL_SETH_648485.jpg"
   },
   {
    "key": "SIVERHUS_LANCE_2026-11-24",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "KEN_ROZIVKA_BRIAN_2026-00006497",
+   "name": "Brian William Rozivka",
+   "age": "33",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Probation and Parole - Felony",
+   "more": 0,
+   "ts": 1795597366,
+   "photo": "photos/KEN_ROZIVKA_BRIAN_2026-00006497.jpg"
+  },
+  {
+   "key": "KEN_OVERSTREET_BRYAN_2026-00006498",
+   "name": "BRYAN C Junior OVERSTREET",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795597294,
+   "photo": "photos/KEN_OVERSTREET_BRYAN_2026-00006498.jpg"
+  },
+  {
    "key": "MAR_WILSON_ALFRED_2026-11-25",
    "name": "Alfred Wilson",
    "age": "44",
@@ -565,23 +587,12 @@
    "photo": "photos/RC_AGUILAR_CHRISTOPHER_120011076595474.jpg"
   },
   {
-   "key": "KEN_OVERSTREET_BRYAN_2026-00006498",
-   "name": "BRYAN C Junior OVERSTREET",
-   "age": "32",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795596358,
-   "photo": "photos/KEN_OVERSTREET_BRYAN_2026-00006498.jpg"
-  },
-  {
    "key": "MKE_CLARK_CHARLES_513324",
    "name": "Charles M Clark",
    "age": "50",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Strangulation and Suffocation",
+   "charge": "Domestic Abuse Surcharges",
    "more": 7,
    "ts": 1795595259,
    "photo": null
@@ -592,8 +603,8 @@
    "age": "27",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 10,
    "ts": 1795595256,
    "photo": null
   },
@@ -658,7 +669,7 @@
    "age": "32",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
+   "charge": "Retail Theft - Intentionally Take (<=$500)",
    "more": 19,
    "ts": 1795589851,
    "photo": null
@@ -716,7 +727,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795588049,
-   "photo": null
+   "photo": "photos/MKE_SMITH_KAMIYA_648486.jpg"
   },
   {
    "key": "JOHNSON_ARMANDO_2026-11-24",
