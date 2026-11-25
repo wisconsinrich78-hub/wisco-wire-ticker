@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T09:16:46+00:00",
+ "updated": "2026-11-25T09:49:24+00:00",
  "items": [
+  {
+   "key": "RC_HOOSER_ZIGGY_120011076595917",
+   "name": "Ziggy Joe Hooser",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Enforce The Duty Of Child Support Or Maintenance",
+   "more": 0,
+   "ts": 1795600076,
+   "photo": "photos/RC_HOOSER_ZIGGY_120011076595917.jpg"
+  },
+  {
+   "key": "OLSON_ROBERT_2026-11-25",
+   "name": "Robert D Olson",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Ignition Interlock Device Tampering",
+   "more": 2,
+   "ts": 1795600028,
+   "photo": null
+  },
+  {
+   "key": "MKE_ZAMBRANODELGADO_ROSAS_648487",
+   "name": "Rosas Elard Zambrano Delgado",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795598849,
+   "photo": null
+  },
+  {
+   "key": "TRAYWICK_TERRANCE_2026-11-25",
+   "name": "Terrance M Traywick",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1795598602,
+   "photo": null
+  },
   {
    "key": "KEN_ROZIVKA_BRIAN_2026-00006497",
    "name": "Brian William Rozivka",
@@ -40,7 +84,7 @@
    "age": "20",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating W/Pac (1st)",
    "more": 0,
    "ts": 1795596501,
    "photo": null
@@ -51,8 +95,8 @@
    "age": "30",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Iid Tampering/Fail to Install/Violate Court Order",
+   "more": 2,
    "ts": 1795596498,
    "photo": "photos/RC_AGUILAR_CHRISTOPHER_120011076595474.jpg"
   },
@@ -208,28 +252,6 @@
    "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
    "more": 1,
    "ts": 1795587799,
-   "photo": null
-  },
-  {
-   "key": "RC_JACKSON_LEONARD_120011076592148",
-   "name": "Leonard J Jackson",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Second Degree Recklessly Endangering Safety",
-   "more": 1,
-   "ts": 1795585678,
-   "photo": "photos/RC_JACKSON_LEONARD_120011076592148.jpg"
-  },
-  {
-   "key": "MKE_PARKER_TAVION_636530",
-   "name": "Tavion J Parker",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795584454,
    "photo": null
   },
   {
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1795549633,
    "photo": null
-  },
-  {
-   "key": "HAUGEN_SIRI_2026-11-24",
-   "name": "Siri A Haugen",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1795549632,
-   "photo": "photos/HAUGEN_SIRI_2026-11-24.jpg"
-  },
-  {
-   "key": "CROSBY_RONALD_2026-11-24",
-   "name": "Ronald I Crosby",
-   "age": "26",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Hold for Court",
-   "more": 0,
-   "ts": 1795549631,
-   "photo": "photos/CROSBY_RONALD_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_HOOSER_ZIGGY_120011076595917",
+   "name": "Ziggy Joe Hooser",
+   "age": "43",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Enforce The Duty Of Child Support Or Maintenance",
+   "more": 0,
+   "ts": 1795600076,
+   "photo": "photos/RC_HOOSER_ZIGGY_120011076595917.jpg"
+  },
+  {
+   "key": "OLSON_ROBERT_2026-11-25",
+   "name": "Robert D Olson",
+   "age": "30",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Ignition Interlock Device Tampering",
+   "more": 2,
+   "ts": 1795600028,
+   "photo": null
+  },
+  {
+   "key": "MKE_ZAMBRANODELGADO_ROSAS_648487",
+   "name": "Rosas Elard Zambrano Delgado",
+   "age": "65",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795598849,
+   "photo": null
+  },
+  {
+   "key": "TRAYWICK_TERRANCE_2026-11-25",
+   "name": "Terrance M Traywick",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 1,
+   "ts": 1795598602,
+   "photo": null
+  },
   {
    "key": "KEN_ROZIVKA_BRIAN_2026-00006497",
    "name": "Brian William Rozivka",
@@ -570,7 +614,7 @@
    "age": "20",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operating W/Pac (1st)",
    "more": 0,
    "ts": 1795596501,
    "photo": null
@@ -581,8 +625,8 @@
    "age": "30",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Iid Tampering/Fail to Install/Violate Court Order",
+   "more": 2,
    "ts": 1795596498,
    "photo": "photos/RC_AGUILAR_CHRISTOPHER_120011076595474.jpg"
   },
@@ -4402,28 +4446,6 @@
    "more": 0,
    "ts": 1795341454,
    "photo": "photos/MKE_MCDONALD_SHERRICE_648447.jpg"
-  },
-  {
-   "key": "MKE_PEREZ_DUSTIN_404614",
-   "name": "Dustin G Perez",
-   "age": "33",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795339654,
-   "photo": "photos/MKE_PEREZ_DUSTIN_404614.jpg"
-  },
-  {
-   "key": "HAHN_EMILY_2026-11-22",
-   "name": "Emily N Hahn",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Under the Influence",
-   "more": 0,
-   "ts": 1795339623,
-   "photo": null
   }
  ]
 }
