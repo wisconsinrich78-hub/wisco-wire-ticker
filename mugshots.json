@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T06:11:24+00:00",
+ "updated": "2026-11-25T06:31:22+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_KAMIYA_648486",
+   "name": "Kamiya Smith",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795588049,
+   "photo": null
+  },
+  {
+   "key": "JOHNSON_ARMANDO_2026-11-24",
+   "name": "Armando D Johnson",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
+   "more": 1,
+   "ts": 1795587799,
+   "photo": null
+  },
   {
    "key": "RC_JACKSON_LEONARD_120011076592148",
    "name": "Leonard J Jackson",
@@ -266,17 +288,6 @@
    "photo": "photos/KEN_KNIGHT_KAYLIE_2026-00006493.jpg"
   },
   {
-   "key": "KEN_GASTON_MARVEOUR_2026-00006492",
-   "name": "Marveour Deeshaydaniel Gaston",
-   "age": "22",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Probation and Parole - Felony",
-   "more": 0,
-   "ts": 1795567006,
-   "photo": "photos/KEN_GASTON_MARVEOUR_2026-00006492.jpg"
-  },
-  {
    "key": "FDL_MIDDENDROP_DARIEN_2026-11-24",
    "name": "Darien K Middendrop",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795544268,
    "photo": "photos/DOU_WICKLUND_APRIL_2026-11-24.jpg"
-  },
-  {
-   "key": "FDL_JASSEREXQUIEL_LIRA_2026-11-24",
-   "name": "Lira Pance Jasser Exquiel",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795544205,
-   "photo": "photos/FDL_JASSEREXQUIEL_LIRA_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_SMITH_KAMIYA_648486",
+   "name": "Kamiya Smith",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795588049,
+   "photo": null
+  },
+  {
+   "key": "JOHNSON_ARMANDO_2026-11-24",
+   "name": "Armando D Johnson",
+   "age": "20",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
+   "more": 1,
+   "ts": 1795587799,
+   "photo": null
+  },
   {
    "key": "RC_JACKSON_LEONARD_120011076592148",
    "name": "Leonard J Jackson",
