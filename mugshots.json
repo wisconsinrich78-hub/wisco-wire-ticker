@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-25T08:32:23+00:00",
+ "updated": "2026-11-25T08:49:26+00:00",
  "items": [
+  {
+   "key": "RC_GLOVER_MONTAVEON_120011076595074",
+   "name": "Montaveon Le'brian Glover",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795596501,
+   "photo": null
+  },
+  {
+   "key": "RC_AGUILAR_CHRISTOPHER_120011076595474",
+   "name": "Christopher Aguilar",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795596498,
+   "photo": "photos/RC_AGUILAR_CHRISTOPHER_120011076595474.jpg"
+  },
+  {
+   "key": "KEN_OVERSTREET_BRYAN_2026-00006498",
+   "name": "BRYAN C Junior OVERSTREET",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795596358,
+   "photo": "photos/KEN_OVERSTREET_BRYAN_2026-00006498.jpg"
+  },
   {
    "key": "MKE_CLARK_CHARLES_513324",
    "name": "Charles M Clark",
@@ -62,7 +95,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1795593206,
    "photo": "photos/KEN_WILLIAMS_JAMES_2026-00006495.jpg"
@@ -222,17 +255,6 @@
    "photo": "photos/FDL_WEINSHROTT_ABBY_2026-11-24.jpg"
   },
   {
-   "key": "MKE_BELTRANOYOLA_LUISENRIQUE_382014",
-   "name": "Luis Enrique Beltran Oyola",
-   "age": "62",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Retail Theft-Not Over $100.00",
-   "more": 0,
-   "ts": 1795582651,
-   "photo": null
-  },
-  {
    "key": "LEWIS_TERRY_2026-11-24",
    "name": "Terry J Lewis",
    "age": "61",
@@ -242,28 +264,6 @@
    "more": 1,
    "ts": 1795582026,
    "photo": null
-  },
-  {
-   "key": "MKE_WILLIAMS_SAMUEL_618658",
-   "name": "Samuel R Williams",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795579071,
-   "photo": "photos/MKE_WILLIAMS_SAMUEL_618658.jpg"
-  },
-  {
-   "key": "MKE_BRUNO_WILDREDO_648484",
-   "name": "Wildredo GilbertRichard Bruno",
-   "age": "16",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795579068,
-   "photo": "photos/MKE_BRUNO_WILDREDO_648484.jpg"
   },
   {
    "key": "TRAYWICK_TERRANCE_2026-11-24",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "RC_GLOVER_MONTAVEON_120011076595074",
+   "name": "Montaveon Le'brian Glover",
+   "age": "20",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795596501,
+   "photo": null
+  },
+  {
+   "key": "RC_AGUILAR_CHRISTOPHER_120011076595474",
+   "name": "Christopher Aguilar",
+   "age": "30",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795596498,
+   "photo": "photos/RC_AGUILAR_CHRISTOPHER_120011076595474.jpg"
+  },
+  {
+   "key": "KEN_OVERSTREET_BRYAN_2026-00006498",
+   "name": "BRYAN C Junior OVERSTREET",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795596358,
+   "photo": "photos/KEN_OVERSTREET_BRYAN_2026-00006498.jpg"
+  },
+  {
    "key": "MKE_CLARK_CHARLES_513324",
    "name": "Charles M Clark",
    "age": "50",
@@ -592,7 +625,7 @@
    "age": "27",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Probation and Parole - Felony",
    "more": 0,
    "ts": 1795593206,
    "photo": "photos/KEN_WILLIAMS_JAMES_2026-00006495.jpg"
@@ -4380,39 +4413,6 @@
    "more": 0,
    "ts": 1795339006,
    "photo": "photos/DOU_BROWN_JEREMY_2026-11-22.jpg"
-  },
-  {
-   "key": "RC_BLOCK_FORREST_120011076498405",
-   "name": "Forrest G Block",
-   "age": "31",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Terrorist Threats",
-   "more": 1,
-   "ts": 1795337274,
-   "photo": "photos/RC_BLOCK_FORREST_120011076498405.jpg"
-  },
-  {
-   "key": "RC_RODRIGUEZ_JESUS_120011076498757",
-   "name": "Jesus R Rodriguez",
-   "age": "34",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Operating While Under the Influence",
-   "more": 1,
-   "ts": 1795337272,
-   "photo": null
-  },
-  {
-   "key": "MUNYON_MIRIAH_2026-11-22",
-   "name": "Miriah Ann Munyon",
-   "age": "35",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "OWI (4th)",
-   "more": 0,
-   "ts": 1795337224,
-   "photo": null
   }
  ]
 }
