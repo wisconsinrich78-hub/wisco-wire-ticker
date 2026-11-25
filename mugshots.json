@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-25T06:31:22+00:00",
+ "updated": "2026-11-25T06:49:27+00:00",
  "items": [
+  {
+   "key": "RC_HUNTER_NIEAMA_120011076593312",
+   "name": "Nieama L Hunter",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795589285,
+   "photo": "photos/RC_HUNTER_NIEAMA_120011076593312.jpg"
+  },
+  {
+   "key": "RC_VARGAS_JOSEPH_120011076593482",
+   "name": "Joseph Daniel Vargas",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795589282,
+   "photo": "photos/RC_VARGAS_JOSEPH_120011076593482.jpg"
+  },
+  {
+   "key": "VANG_STEVEN_2026-11-25",
+   "name": "Steven Vang",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795589227,
+   "photo": null
+  },
   {
    "key": "MKE_SMITH_KAMIYA_648486",
    "name": "Kamiya Smith",
@@ -266,28 +299,6 @@
    "photo": null
   },
   {
-   "key": "MKE_JOHNSON_DEWAYNE_631815",
-   "name": "Dewayne M Johnson",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Carjacking: Possess Weapon",
-   "more": 1,
-   "ts": 1795568275,
-   "photo": "photos/MKE_JOHNSON_DEWAYNE_631815.jpg"
-  },
-  {
-   "key": "KEN_KNIGHT_KAYLIE_2026-00006493",
-   "name": "Kaylie Ashley Knight",
-   "age": "25",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operate W/O Valid D/L 2nd",
-   "more": 3,
-   "ts": 1795567214,
-   "photo": "photos/KEN_KNIGHT_KAYLIE_2026-00006493.jpg"
-  },
-  {
    "key": "FDL_MIDDENDROP_DARIEN_2026-11-24",
    "name": "Darien K Middendrop",
    "age": "",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795544607,
    "photo": null
-  },
-  {
-   "key": "DOU_WICKLUND_APRIL_2026-11-24",
-   "name": "April M Wicklund",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Warrant",
-   "more": 0,
-   "ts": 1795544268,
-   "photo": "photos/DOU_WICKLUND_APRIL_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_HUNTER_NIEAMA_120011076593312",
+   "name": "Nieama L Hunter",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795589285,
+   "photo": "photos/RC_HUNTER_NIEAMA_120011076593312.jpg"
+  },
+  {
+   "key": "RC_VARGAS_JOSEPH_120011076593482",
+   "name": "Joseph Daniel Vargas",
+   "age": "33",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795589282,
+   "photo": "photos/RC_VARGAS_JOSEPH_120011076593482.jpg"
+  },
+  {
+   "key": "VANG_STEVEN_2026-11-25",
+   "name": "Steven Vang",
+   "age": "33",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795589227,
+   "photo": null
+  },
   {
    "key": "MKE_SMITH_KAMIYA_648486",
    "name": "Kamiya Smith",
@@ -4347,17 +4380,6 @@
    "more": 1,
    "ts": 1795330655,
    "photo": "photos/MKE_MURSAL_YUSUT_648445.jpg"
-  },
-  {
-   "key": "RC_MATHEWS_MARSHAUN_120011076496759",
-   "name": "Marshaun Arron Mathews",
-   "age": "33",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 1,
-   "ts": 1795330076,
-   "photo": "photos/RC_MATHEWS_MARSHAUN_120011076496759.jpg"
   }
  ]
 }
