@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T01:29:38+00:00",
+ "updated": "2026-11-25T01:49:32+00:00",
  "items": [
+  {
+   "key": "RC_BURNSIDE_RICKEY_120011076588365",
+   "name": "Rickey Jermaine Burnside",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795571293,
+   "photo": "photos/RC_BURNSIDE_RICKEY_120011076588365.jpg"
+  },
   {
    "key": "HEROD_JASMINE_2026-11-24",
    "name": "Jasmine A Herod",
@@ -299,17 +310,6 @@
    "photo": "photos/RC_ALLEN_MICHAEL_120011076582728.jpg"
   },
   {
-   "key": "MKE_RICHARDS_HARRIETTE_528383",
-   "name": "Harriette Richards",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795555700,
-   "photo": "photos/MKE_RICHARDS_HARRIETTE_528383.jpg"
-  },
-  {
    "key": "MAR_VANG_JIMMIE_2026-11-24_7922303",
    "name": "Jimmie Van Kai Vang",
    "age": "27",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BURNSIDE_RICKEY_120011076588365",
+   "name": "Rickey Jermaine Burnside",
+   "age": "46",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795571293,
+   "photo": "photos/RC_BURNSIDE_RICKEY_120011076588365.jpg"
+  },
   {
    "key": "HEROD_JASMINE_2026-11-24",
    "name": "Jasmine A Herod",
