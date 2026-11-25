@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-25T23:19:29+00:00",
+ "updated": "2026-11-25T23:49:31+00:00",
  "items": [
+  {
+   "key": "MAR_WILSON_NICKOLAS_2026-11-25_17158702",
+   "name": "Nickolas Paul Wilson",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Use a Computer to Facilitate a Child Sex Crime",
+   "more": 1,
+   "ts": 1795649744,
+   "photo": null
+  },
+  {
+   "key": "MAR_VUE_NENG_2026-11-25_2550310",
+   "name": "Neng Vue",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795649712,
+   "photo": "photos/MAR_VUE_NENG_2026-11-25_2550310.jpg"
+  },
+  {
+   "key": "MKE_BERNARD_TERRANCE_386870",
+   "name": "Terrance Eric Bernard",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795649260,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSONIRVINGLENOIR_DJIMON_648497",
+   "name": "Djimon Johnson irving lenoir",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795649258,
+   "photo": null
+  },
+  {
+   "key": "HART_ISAIAH_2026-11-25",
+   "name": "Isaiah M Hart",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795649000,
+   "photo": null
+  },
   {
    "key": "DOU_SMITH_CHRISTOPHER_2026-11-25",
    "name": "Christopher C Smith",
@@ -84,10 +139,10 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Domestic Abuse/72 Hours",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 3,
    "ts": 1795643854,
-   "photo": null
+   "photo": "photos/MKE_LASSITERSCHNECK_TREVAUGHN_614308.jpg"
   },
   {
    "key": "MKE_PIMENTELMACEDONIO_ERIK_648494",
@@ -120,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795643850,
-   "photo": null
+   "photo": "photos/MKE_KELLY_LAJUNE_648496.jpg"
   },
   {
    "key": "KEN_OVERSTREET_DAIREION_2026-00006504",
@@ -153,7 +208,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795642051,
-   "photo": null
+   "photo": "photos/MKE_BROWN_PRENTICE_383020.jpg"
   },
   {
    "key": "MANSKE_BRIDGET_2026-11-25",
@@ -286,28 +341,6 @@
    "more": 2,
    "ts": 1795636667,
    "photo": "photos/MKE_HENDERSON_MICHAEL_532155.jpg"
-  },
-  {
-   "key": "MKE_HERNANDEZTAVAREZ_JUAN_615062",
-   "name": "Juan M Hernandez-Tavarez",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
-   "more": 0,
-   "ts": 1795636665,
-   "photo": "photos/MKE_HERNANDEZTAVAREZ_JUAN_615062.jpg"
-  },
-  {
-   "key": "KEN_ROBINSON_LOUIS_2026-00006503",
-   "name": "Louis L Robinson",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Drive or Operate Vehicle W/O Consent",
-   "more": 1,
-   "ts": 1795636389,
-   "photo": null
   },
   {
    "key": "DOU_HANSEL_TYLER_2026-11-25",
@@ -495,42 +528,64 @@
    "more": 0,
    "ts": 1795590982,
    "photo": "photos/FDL_HILL_MARTINA_2026-11-25.jpg"
-  },
-  {
-   "key": "VANG_STEVEN_2026-11-25",
-   "name": "Steven Vang",
-   "age": "33",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795589227,
-   "photo": null
-  },
-  {
-   "key": "JOHNSON_ARMANDO_2026-11-24",
-   "name": "Armando D Johnson",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Operating While Revoked (Rev Due to Alc/Cont Subst/Refusal)",
-   "more": 1,
-   "ts": 1795587799,
-   "photo": null
-  },
-  {
-   "key": "SIVERHUS_LANCE_2026-11-24",
-   "name": "Lance R Siverhus",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795584202,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAR_WILSON_NICKOLAS_2026-11-25_17158702",
+   "name": "Nickolas Paul Wilson",
+   "age": "42",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Use a Computer to Facilitate a Child Sex Crime",
+   "more": 1,
+   "ts": 1795649744,
+   "photo": null
+  },
+  {
+   "key": "MAR_VUE_NENG_2026-11-25_2550310",
+   "name": "Neng Vue",
+   "age": "34",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795649712,
+   "photo": "photos/MAR_VUE_NENG_2026-11-25_2550310.jpg"
+  },
+  {
+   "key": "MKE_BERNARD_TERRANCE_386870",
+   "name": "Terrance Eric Bernard",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795649260,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSONIRVINGLENOIR_DJIMON_648497",
+   "name": "Djimon Johnson irving lenoir",
+   "age": "19",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795649258,
+   "photo": null
+  },
+  {
+   "key": "HART_ISAIAH_2026-11-25",
+   "name": "Isaiah M Hart",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795649000,
+   "photo": null
+  },
   {
    "key": "DOU_SMITH_CHRISTOPHER_2026-11-25",
    "name": "Christopher C Smith",
@@ -614,10 +669,10 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Domestic Abuse Repeater - Domestic Abuse/72 Hours",
+   "charge": "Possession of Firearm - Convicted Felon in this State",
    "more": 3,
    "ts": 1795643854,
-   "photo": null
+   "photo": "photos/MKE_LASSITERSCHNECK_TREVAUGHN_614308.jpg"
   },
   {
    "key": "MKE_PIMENTELMACEDONIO_ERIK_648494",
@@ -650,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 2,
    "ts": 1795643850,
-   "photo": null
+   "photo": "photos/MKE_KELLY_LAJUNE_648496.jpg"
   },
   {
    "key": "KEN_OVERSTREET_DAIREION_2026-00006504",
@@ -683,7 +738,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795642051,
-   "photo": null
+   "photo": "photos/MKE_BROWN_PRENTICE_383020.jpg"
   },
   {
    "key": "MANSKE_BRIDGET_2026-11-25",
@@ -4424,61 +4479,6 @@
    "more": 1,
    "ts": 1795391615,
    "photo": null
-  },
-  {
-   "key": "RC_RILEY_CAREY_120011076514319",
-   "name": "Carey Riley",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795391278,
-   "photo": "photos/RC_RILEY_CAREY_120011076514319.jpg"
-  },
-  {
-   "key": "RC_ESPADASCRAMER_NANCY_120011076514461",
-   "name": "Nancy Gloria Espadas-Cramer",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Misdemeanor Battery",
-   "more": 0,
-   "ts": 1795391275,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCHROEDER_JAMON_353042",
-   "name": "Jamon C Schroeder",
-   "age": "52",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Child Sex Assault - Contact/Intercourse w/ Person under\u2026",
-   "more": 0,
-   "ts": 1795390058,
-   "photo": "photos/MKE_SCHROEDER_JAMON_353042.jpg"
-  },
-  {
-   "key": "MKE_BROWN_ROBERT_504365",
-   "name": "Robert C Brown",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795390055,
-   "photo": "photos/MKE_BROWN_ROBERT_504365.jpg"
-  },
-  {
-   "key": "MKE_PACHECOROMAN_VICTOR_648456",
-   "name": "Victor M Pacheco Roman",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
-   "more": 0,
-   "ts": 1795390053,
-   "photo": "photos/MKE_PACHECOROMAN_VICTOR_648456.jpg"
   }
  ]
 }
