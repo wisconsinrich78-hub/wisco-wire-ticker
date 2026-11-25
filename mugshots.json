@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T17:30:57+00:00",
+ "updated": "2026-11-25T17:49:28+00:00",
  "items": [
+  {
+   "key": "RC_BARNES_VIVIAN_120011076608243",
+   "name": "Vivian A Barnes",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795628877,
+   "photo": "photos/RC_BARNES_VIVIAN_120011076608243.jpg"
+  },
+  {
+   "key": "RC_HOFF_ERICA_120011076608289",
+   "name": "Erica Elizabeth Hoff",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795628874,
+   "photo": "photos/RC_HOFF_ERICA_120011076608289.jpg"
+  },
+  {
+   "key": "HOU_RANK_ZAKYAHDOUGLAS_6339",
+   "name": "Zakyah Douglas Rank",
+   "age": "24",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Possess child sexual abuse material - Compute (Sentenced)",
+   "more": 0,
+   "ts": 1795628833,
+   "photo": "photos/HOU_RANK_ZAKYAHDOUGLAS_6339.jpg"
+  },
+  {
+   "key": "MERCADO_ALFREDO_2026-11-25",
+   "name": "Alfredo Mercado",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795628828,
+   "photo": null
+  },
   {
    "key": "MKE_GAMROTH_MITCHELL_540820",
    "name": "Mitchell Lee Gamroth",
@@ -73,7 +117,7 @@
    "age": "26",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795625272,
    "photo": "photos/RC_SANTIAGO_WILLIAM_120011076605708.jpg"
@@ -178,17 +222,6 @@
    "photo": "photos/MKE_RAMIREZRUIZ_LIZBETH_648491.jpg"
   },
   {
-   "key": "MKE_HOFF_ERICA_2050614",
-   "name": "Erica E Hoff",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795624053,
-   "photo": "photos/MKE_HOFF_ERICA_2050614.jpg"
-  },
-  {
    "key": "OLSON_KYLE_2026-11-25",
    "name": "Kyle Allen Olson",
    "age": "41",
@@ -220,17 +253,6 @@
    "more": 1,
    "ts": 1795623387,
    "photo": "photos/FDL_PARSON_LEVANDER_2026-11-25.jpg"
-  },
-  {
-   "key": "MKE_HEARN_LAIDARIAN_416780",
-   "name": "Laidarian L Hearn",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795600649,
-   "photo": "photos/MKE_HEARN_LAIDARIAN_416780.jpg"
   },
   {
    "key": "OLSON_ROBERT_2026-11-25",
@@ -497,17 +519,6 @@
    "photo": "photos/MAR_ALTUZ_NICHOLAS_2026-11-24.jpg"
   },
   {
-   "key": "LINK_DANNY_2026-11-24",
-   "name": "Danny L Link",
-   "age": "45",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1795559002,
-   "photo": null
-  },
-  {
    "key": "DOU_BRATTI_LARISSA_2026-11-24",
    "name": "Larissa J Bratti",
    "age": "34",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1795558564,
    "photo": "photos/DOU_BRATTI_LARISSA_2026-11-24.jpg"
-  },
-  {
-   "key": "MAR_VANG_JIMMIE_2026-11-24_7922303",
-   "name": "Jimmie Van Kai Vang",
-   "age": "27",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "1st Degree Child Sex Assault - Contact/Intercourse W/ Person",
-   "more": 1,
-   "ts": 1795553647,
-   "photo": "photos/MAR_VANG_JIMMIE_2026-11-24_7922303.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_BARNES_VIVIAN_120011076608243",
+   "name": "Vivian A Barnes",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795628877,
+   "photo": "photos/RC_BARNES_VIVIAN_120011076608243.jpg"
+  },
+  {
+   "key": "RC_HOFF_ERICA_120011076608289",
+   "name": "Erica Elizabeth Hoff",
+   "age": "44",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795628874,
+   "photo": "photos/RC_HOFF_ERICA_120011076608289.jpg"
+  },
+  {
+   "key": "HOU_RANK_ZAKYAHDOUGLAS_6339",
+   "name": "Zakyah Douglas Rank",
+   "age": "24",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "Possess child sexual abuse material - Compute (Sentenced)",
+   "more": 0,
+   "ts": 1795628833,
+   "photo": "photos/HOU_RANK_ZAKYAHDOUGLAS_6339.jpg"
+  },
+  {
+   "key": "MERCADO_ALFREDO_2026-11-25",
+   "name": "Alfredo Mercado",
+   "age": "47",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795628828,
+   "photo": null
+  },
   {
    "key": "MKE_GAMROTH_MITCHELL_540820",
    "name": "Mitchell Lee Gamroth",
@@ -603,7 +647,7 @@
    "age": "26",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795625272,
    "photo": "photos/RC_SANTIAGO_WILLIAM_120011076605708.jpg"
