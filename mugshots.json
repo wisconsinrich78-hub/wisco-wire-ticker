@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T04:10:05+00:00",
+ "updated": "2026-11-25T04:49:25+00:00",
  "items": [
+  {
+   "key": "LEWIS_TERRY_2026-11-24",
+   "name": "Terry J Lewis",
+   "age": "61",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Damage to Property",
+   "more": 1,
+   "ts": 1795582026,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_SAMUEL_618658",
    "name": "Samuel R Williams",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1795540621,
    "photo": "photos/FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24.jpg"
-  },
-  {
-   "key": "BACKSTROM_RUSSELL_2026-11-24",
-   "name": "Russell S Backstrom",
-   "age": "64",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Lewd, Lascivious Behavior-Exposure",
-   "more": 1,
-   "ts": 1795538837,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "LEWIS_TERRY_2026-11-24",
+   "name": "Terry J Lewis",
+   "age": "61",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Criminal Damage to Property",
+   "more": 1,
+   "ts": 1795582026,
+   "photo": null
+  },
   {
    "key": "MKE_WILLIAMS_SAMUEL_618658",
    "name": "Samuel R Williams",
