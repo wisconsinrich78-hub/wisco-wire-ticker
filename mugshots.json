@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T02:35:10+00:00",
+ "updated": "2026-11-25T02:49:25+00:00",
  "items": [
+  {
+   "key": "RC_GORDON_ROBERT_120011076589304",
+   "name": "Robert B Gordon",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795574872,
+   "photo": "photos/RC_GORDON_ROBERT_120011076589304.jpg"
+  },
   {
    "key": "MKE_JAMES_PRECIOUS_356256",
    "name": "Precious Monique James",
@@ -62,7 +73,7 @@
    "age": "46",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795571293,
    "photo": "photos/RC_BURNSIDE_RICKEY_120011076588365.jpg"
@@ -286,17 +297,6 @@
    "more": 0,
    "ts": 1795560479,
    "photo": "photos/RC_DURHAM_KELVIN_120011076583925.jpg"
-  },
-  {
-   "key": "RC_BERNAL_MIGUEL_120011076583930",
-   "name": "Miguel A Bernal",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795560476,
-   "photo": "photos/RC_BERNAL_MIGUEL_120011076583930.jpg"
   },
   {
    "key": "LINK_DANNY_2026-11-24",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_GORDON_ROBERT_120011076589304",
+   "name": "Robert B Gordon",
+   "age": "50",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795574872,
+   "photo": "photos/RC_GORDON_ROBERT_120011076589304.jpg"
+  },
+  {
    "key": "MKE_JAMES_PRECIOUS_356256",
    "name": "Precious Monique James",
    "age": "44",
@@ -592,7 +603,7 @@
    "age": "46",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795571293,
    "photo": "photos/RC_BURNSIDE_RICKEY_120011076588365.jpg"
