@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-26T07:49:28+00:00",
+ "updated": "2026-11-26T08:49:30+00:00",
  "items": [
+  {
+   "key": "RC_SANTOS_JACKSON_120011076624196",
+   "name": "Jackson Tyler Santos",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795682870,
+   "photo": null
+  },
+  {
+   "key": "RC_GUYNN_LANEY_120011076624593",
+   "name": "Laney C Guynn",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795682868,
+   "photo": null
+  },
+  {
+   "key": "RC_BAHRS_CYRUS_120011076624752",
+   "name": "Cyrus Payton Bahrs",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795682866,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUSH_DAYWANDA_606969",
+   "name": "Daywanda Princess Bush",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795681651,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_JOSIYAH_648506",
+   "name": "Josiyah Deshawn Smith",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795681649,
+   "photo": null
+  },
   {
    "key": "RC_LITTLETON_MICHAEL_120011076623651",
    "name": "Michael Littleton",
@@ -84,7 +139,7 @@
    "age": "26",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1795675982,
    "photo": "photos/KEN_VARIBLEMARTINEZ_JORGE_2026-00006507.jpg"
@@ -197,61 +252,6 @@
    "charge": "SECOND DEGREE RECKLESSLY ENDANGERING SAFETY (x2)",
    "more": 2,
    "ts": 1795666596,
-   "photo": null
-  },
-  {
-   "key": "MKE_MCDONIAL_ANTONIO_227023",
-   "name": "Antonio Lamont McDonial",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795665493,
-   "photo": "photos/MKE_MCDONIAL_ANTONIO_227023.jpg"
-  },
-  {
-   "key": "MKE_BEARD_CHRISSHAWN_627719",
-   "name": "Chrisshawn Beard",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795665489,
-   "photo": "photos/MKE_BEARD_CHRISSHAWN_627719.jpg"
-  },
-  {
-   "key": "MKE_JAMESROBY_JOEY_648502",
-   "name": "Joey James roby",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795665484,
-   "photo": null
-  },
-  {
-   "key": "RC_KNIGHT_JOSHUA_120011076619761",
-   "name": "Joshua Richard Knight",
-   "age": "42",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795664914,
-   "photo": "photos/RC_KNIGHT_JOSHUA_120011076619761.jpg"
-  },
-  {
-   "key": "MKE_MCAFEE_JOSHUA_376770",
-   "name": "Joshua Jessie Mcafee",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 9,
-   "ts": 1795663671,
    "photo": null
   },
   {
@@ -532,6 +532,61 @@
  ],
  "all_items": [
   {
+   "key": "RC_SANTOS_JACKSON_120011076624196",
+   "name": "Jackson Tyler Santos",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795682870,
+   "photo": null
+  },
+  {
+   "key": "RC_GUYNN_LANEY_120011076624593",
+   "name": "Laney C Guynn",
+   "age": "36",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795682868,
+   "photo": null
+  },
+  {
+   "key": "RC_BAHRS_CYRUS_120011076624752",
+   "name": "Cyrus Payton Bahrs",
+   "age": "22",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795682866,
+   "photo": null
+  },
+  {
+   "key": "MKE_BUSH_DAYWANDA_606969",
+   "name": "Daywanda Princess Bush",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795681651,
+   "photo": null
+  },
+  {
+   "key": "MKE_SMITH_JOSIYAH_648506",
+   "name": "Josiyah Deshawn Smith",
+   "age": "17",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795681649,
+   "photo": null
+  },
+  {
    "key": "RC_LITTLETON_MICHAEL_120011076623651",
    "name": "Michael Littleton",
    "age": "21",
@@ -614,7 +669,7 @@
    "age": "26",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1795675982,
    "photo": "photos/KEN_VARIBLEMARTINEZ_JORGE_2026-00006507.jpg"
@@ -4446,17 +4501,6 @@
    "more": 0,
    "ts": 1795425365,
    "photo": "photos/FDL_BENZINE_TYLER_2026-11-23.jpg"
-  },
-  {
-   "key": "MALLETTE_CHRISTOPHER_2026-11-23",
-   "name": "Christopher A Mallette",
-   "age": "60",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795423627,
-   "photo": null
   }
  ]
 }
