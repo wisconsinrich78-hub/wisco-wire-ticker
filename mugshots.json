@@ -1,14 +1,25 @@
 {
- "updated": "2026-11-26T05:49:29+00:00",
+ "updated": "2026-11-26T06:49:29+00:00",
  "items": [
+  {
+   "key": "NOTH_ZARIA_2026-11-26",
+   "name": "Zaria A Noth",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795675662,
+   "photo": null
+  },
   {
    "key": "MKE_BETTIES_CHARLES_283252",
    "name": "Charles Edward Betties",
    "age": "53",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 12,
    "ts": 1795670997,
    "photo": null
   },
@@ -73,7 +84,7 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1795668564,
    "photo": "photos/RC_FOX_MORGAN_120011076621165.jpg"
@@ -164,7 +175,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795663667,
-   "photo": null
+   "photo": "photos/MKE_BYUMN_DERRICK_648501.jpg"
   },
   {
    "key": "MKE_MILLER_PETER_2010508",
@@ -175,7 +186,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 4,
    "ts": 1795663664,
-   "photo": null
+   "photo": "photos/MKE_MILLER_PETER_2010508.jpg"
   },
   {
    "key": "RC_LEAL_ISAIAH_120011076619032",
@@ -219,7 +230,7 @@
    "charge": "Pedestrian/Bike on Expressway/Prohibited",
    "more": 2,
    "ts": 1795660065,
-   "photo": null
+   "photo": "photos/MKE_FUNES_JUNIOR_642031.jpg"
   },
   {
    "key": "JOHNSON_ZACHARY_2026-11-25",
@@ -517,28 +528,28 @@
    "more": 7,
    "ts": 1795625229,
    "photo": "photos/TREM_VASQUEZGOMEZ_LESTER_6223.jpg"
-  },
-  {
-   "key": "OLSON_KYLE_2026-11-25",
-   "name": "Kyle Allen Olson",
-   "age": "41",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1795623802,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "NOTH_ZARIA_2026-11-26",
+   "name": "Zaria A Noth",
+   "age": "26",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795675662,
+   "photo": null
+  },
   {
    "key": "MKE_BETTIES_CHARLES_283252",
    "name": "Charles Edward Betties",
    "age": "53",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 12,
    "ts": 1795670997,
    "photo": null
   },
@@ -603,7 +614,7 @@
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Bail Jumping-Misdemeanor",
    "more": 0,
    "ts": 1795668564,
    "photo": "photos/RC_FOX_MORGAN_120011076621165.jpg"
@@ -694,7 +705,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795663667,
-   "photo": null
+   "photo": "photos/MKE_BYUMN_DERRICK_648501.jpg"
   },
   {
    "key": "MKE_MILLER_PETER_2010508",
@@ -705,7 +716,7 @@
    "charge": "Bail Jumping-Felony",
    "more": 4,
    "ts": 1795663664,
-   "photo": null
+   "photo": "photos/MKE_MILLER_PETER_2010508.jpg"
   },
   {
    "key": "RC_LEAL_ISAIAH_120011076619032",
@@ -749,7 +760,7 @@
    "charge": "Pedestrian/Bike on Expressway/Prohibited",
    "more": 2,
    "ts": 1795660065,
-   "photo": null
+   "photo": "photos/MKE_FUNES_JUNIOR_642031.jpg"
   },
   {
    "key": "JOHNSON_ZACHARY_2026-11-25",
@@ -4391,17 +4402,6 @@
    "more": 1,
    "ts": 1795417050,
    "photo": "photos/MKE_BLACKSHIRE_MARIAH_546285.jpg"
-  },
-  {
-   "key": "RC_JUTLEY_HARINDER_120011076523106",
-   "name": "Harinder S Jutley",
-   "age": "36",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795416480,
-   "photo": "photos/RC_JUTLEY_HARINDER_120011076523106.jpg"
   }
  ]
 }
