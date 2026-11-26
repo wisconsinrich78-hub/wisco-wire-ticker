@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-26T22:49:24+00:00",
+ "updated": "2026-11-26T23:49:30+00:00",
  "items": [
+  {
+   "key": "RC_ROUSE_DWIGHT_120011076637125",
+   "name": "Dwight D Rouse",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795736875,
+   "photo": "photos/RC_ROUSE_DWIGHT_120011076637125.jpg"
+  },
+  {
+   "key": "MKE_GUY_JOHN_378618",
+   "name": "John Marcus Guy",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795735652,
+   "photo": null
+  },
+  {
+   "key": "MKE_FREEMAN_FOREST_541929",
+   "name": "Forest Carter Freeman",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795735650,
+   "photo": null
+  },
+  {
+   "key": "MCPARKER_ALESIEA_2026-11-26",
+   "name": "Alesiea R Mcparker",
+   "age": "18",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Felony Retail Theft >$500-$5,000",
+   "more": 0,
+   "ts": 1795735401,
+   "photo": null
+  },
+  {
+   "key": "FDL_VANDESTREEK_SCOT_2026-11-26",
+   "name": "Scot Allen Vande Streek",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795735003,
+   "photo": null
+  },
+  {
+   "key": "MKE_NAVARRETE_ADRIAN_645222",
+   "name": "Adrian Navarrete",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795733847,
+   "photo": "photos/MKE_NAVARRETE_ADRIAN_645222.jpg"
+  },
   {
    "key": "FDL_MAHMUDI_RAHEEM_2026-11-26",
    "name": "Raheem Marcil Mahmudi",
@@ -255,50 +321,6 @@
    "photo": "photos/MKE_SMITH_MATTIE_322178.jpg"
   },
   {
-   "key": "MKE_JAMES_TRAVIS_370568",
-   "name": "Travis William James",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795710477,
-   "photo": "photos/MKE_JAMES_TRAVIS_370568.jpg"
-  },
-  {
-   "key": "MKE_ASHFORD_DEDRICK_370936",
-   "name": "Dedrick Alexander Ashford",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795710474,
-   "photo": "photos/MKE_ASHFORD_DEDRICK_370936.jpg"
-  },
-  {
-   "key": "MKE_LEWIS_DEVONTA_404076",
-   "name": "Devonta Derell Lewis",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795710472,
-   "photo": "photos/MKE_LEWIS_DEVONTA_404076.jpg"
-  },
-  {
-   "key": "MKE_SANDERS_FRANK_406706",
-   "name": "Frank Delane Sanders",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 6,
-   "ts": 1795710470,
-   "photo": "photos/MKE_SANDERS_FRANK_406706.jpg"
-  },
-  {
    "key": "DOU_NGUYEN_HOANG_2026-11-26",
    "name": "Hoang N Nguyen",
    "age": "55",
@@ -506,31 +528,75 @@
    "more": 1,
    "ts": 1795647255,
    "photo": null
-  },
-  {
-   "key": "MAR_VUE_NENG_2026-11-25",
-   "name": "Neng Vue",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795647198,
-   "photo": "photos/MAR_VUE_NENG_2026-11-25.jpg"
-  },
-  {
-   "key": "BANKSTON_SHYANNA_2026-11-25",
-   "name": "Shyanna R Bankston",
-   "age": "28",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 2,
-   "ts": 1795646824,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_ROUSE_DWIGHT_120011076637125",
+   "name": "Dwight D Rouse",
+   "age": "41",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795736875,
+   "photo": "photos/RC_ROUSE_DWIGHT_120011076637125.jpg"
+  },
+  {
+   "key": "MKE_GUY_JOHN_378618",
+   "name": "John Marcus Guy",
+   "age": "36",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795735652,
+   "photo": null
+  },
+  {
+   "key": "MKE_FREEMAN_FOREST_541929",
+   "name": "Forest Carter Freeman",
+   "age": "55",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795735650,
+   "photo": null
+  },
+  {
+   "key": "MCPARKER_ALESIEA_2026-11-26",
+   "name": "Alesiea R Mcparker",
+   "age": "18",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Felony Retail Theft >$500-$5,000",
+   "more": 0,
+   "ts": 1795735401,
+   "photo": null
+  },
+  {
+   "key": "FDL_VANDESTREEK_SCOT_2026-11-26",
+   "name": "Scot Allen Vande Streek",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 0,
+   "ts": 1795735003,
+   "photo": null
+  },
+  {
+   "key": "MKE_NAVARRETE_ADRIAN_645222",
+   "name": "Adrian Navarrete",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Failure to Support",
+   "more": 1,
+   "ts": 1795733847,
+   "photo": "photos/MKE_NAVARRETE_ADRIAN_645222.jpg"
+  },
   {
    "key": "FDL_MAHMUDI_RAHEEM_2026-11-26",
    "name": "Raheem Marcil Mahmudi",
