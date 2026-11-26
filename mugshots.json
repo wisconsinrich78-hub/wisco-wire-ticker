@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-26T00:28:52+00:00",
+ "updated": "2026-11-26T01:49:33+00:00",
  "items": [
+  {
+   "key": "KOTEK_SAMUEL_2026-11-25",
+   "name": "Samuel J Kotek",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Burglary",
+   "more": 2,
+   "ts": 1795656201,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_DELLVHON_648498",
+   "name": "Dellvhon Brown",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795654662,
+   "photo": null
+  },
+  {
+   "key": "MKE_WRIGHT_JACOB_648499",
+   "name": "Jacob Robert Wright",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1795654660,
+   "photo": null
+  },
+  {
+   "key": "KEN_VERAORTEGA_CRISTIAN_2026-00006505",
+   "name": "Cristian Vera-Ortega",
+   "age": "19",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795654386,
+   "photo": null
+  },
   {
    "key": "MKE_LACY_QUAISHAN_543231",
    "name": "Quaishan L Lacy",
@@ -43,7 +87,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795649260,
-   "photo": null
+   "photo": "photos/MKE_BERNARD_TERRANCE_386870.jpg"
   },
   {
    "key": "MKE_JOHNSONIRVINGLENOIR_DJIMON_648497",
@@ -54,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795649258,
-   "photo": null
+   "photo": "photos/MKE_JOHNSONIRVINGLENOIR_DJIMON_648497.jpg"
   },
   {
    "key": "HART_ISAIAH_2026-11-25",
@@ -109,7 +153,7 @@
    "charge": "Failure to Support",
    "more": 1,
    "ts": 1795647454,
-   "photo": null
+   "photo": "photos/MKE_HARPER_MILLION_618205.jpg"
   },
   {
    "key": "MAR_WILSON_NICKOLAS_2026-11-25",
@@ -194,8 +238,8 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1795643587,
    "photo": "photos/KEN_OVERSTREET_DAIREION_2026-00006504.jpg"
   },
@@ -299,17 +343,6 @@
    "photo": null
   },
   {
-   "key": "MKE_NEAL_ANTHONY_648493",
-   "name": "Anthony Malik Neal",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795638457,
-   "photo": null
-  },
-  {
    "key": "FDL_MORALES_JAQUELINE_2026-11-25",
    "name": "Jaqueline Morales",
    "age": "",
@@ -319,28 +352,6 @@
    "more": 0,
    "ts": 1795637785,
    "photo": null
-  },
-  {
-   "key": "MKE_BOHANNON_DANNIE_166869",
-   "name": "Dannie Lamarr Bohannon",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795636670,
-   "photo": "photos/MKE_BOHANNON_DANNIE_166869.jpg"
-  },
-  {
-   "key": "MKE_JOHNSON_JACQUES_407940",
-   "name": "Jacques R Johnson",
-   "age": "44",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Burglary-Building or Dwelling",
-   "more": 0,
-   "ts": 1795636668,
-   "photo": "photos/MKE_JOHNSON_JACQUES_407940.jpg"
   },
   {
    "key": "DOU_HANSEL_TYLER_2026-11-25",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1795595007,
    "photo": "photos/DOU_STARSTEAD_CRYSTAL_2026-11-25.jpg"
-  },
-  {
-   "key": "FDL_HILL_MARTINA_2026-11-25",
-   "name": "Martina Renee Hill",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795590982,
-   "photo": "photos/FDL_HILL_MARTINA_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "KOTEK_SAMUEL_2026-11-25",
+   "name": "Samuel J Kotek",
+   "age": "46",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Burglary",
+   "more": 2,
+   "ts": 1795656201,
+   "photo": null
+  },
+  {
+   "key": "MKE_BROWN_DELLVHON_648498",
+   "name": "Dellvhon Brown",
+   "age": "49",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795654662,
+   "photo": null
+  },
+  {
+   "key": "MKE_WRIGHT_JACOB_648499",
+   "name": "Jacob Robert Wright",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operating While Revoked (Rev due to alc/contr subst/refusal)",
+   "more": 0,
+   "ts": 1795654660,
+   "photo": null
+  },
+  {
+   "key": "KEN_VERAORTEGA_CRISTIAN_2026-00006505",
+   "name": "Cristian Vera-Ortega",
+   "age": "19",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795654386,
+   "photo": null
+  },
   {
    "key": "MKE_LACY_QUAISHAN_543231",
    "name": "Quaishan L Lacy",
@@ -573,7 +617,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795649260,
-   "photo": null
+   "photo": "photos/MKE_BERNARD_TERRANCE_386870.jpg"
   },
   {
    "key": "MKE_JOHNSONIRVINGLENOIR_DJIMON_648497",
@@ -584,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795649258,
-   "photo": null
+   "photo": "photos/MKE_JOHNSONIRVINGLENOIR_DJIMON_648497.jpg"
   },
   {
    "key": "HART_ISAIAH_2026-11-25",
@@ -639,7 +683,7 @@
    "charge": "Failure to Support",
    "more": 1,
    "ts": 1795647454,
-   "photo": null
+   "photo": "photos/MKE_HARPER_MILLION_618205.jpg"
   },
   {
    "key": "MAR_WILSON_NICKOLAS_2026-11-25",
@@ -724,8 +768,8 @@
    "age": "20",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 1,
    "ts": 1795643587,
    "photo": "photos/KEN_OVERSTREET_DAIREION_2026-00006504.jpg"
   },
@@ -837,7 +881,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795638457,
-   "photo": null
+   "photo": "photos/MKE_NEAL_ANTHONY_648493.jpg"
   },
   {
    "key": "FDL_MORALES_JAQUELINE_2026-11-25",
@@ -2902,8 +2946,8 @@
    "age": "60",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 7,
    "ts": 1795492657,
    "photo": "photos/MKE_COLLINS_KENNETH_645386.jpg"
   },
