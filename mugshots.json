@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-26T01:49:33+00:00",
+ "updated": "2026-11-26T02:49:31+00:00",
  "items": [
+  {
+   "key": "RC_LEAL_ISAIAH_120011076619032",
+   "name": "Isaiah Trinidad Leal",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols)",
+   "more": 0,
+   "ts": 1795661308,
+   "photo": null
+  },
+  {
+   "key": "RC_BOLLWAHN_JAMIE_120011076619607",
+   "name": "Jamie Lee Bollwahn",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795661304,
+   "photo": null
+  },
+  {
+   "key": "MKE_SOTO_FRANCISCO_607286",
+   "name": "Francisco Soto",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia (Forfeiture)",
+   "more": 1,
+   "ts": 1795660068,
+   "photo": null
+  },
+  {
+   "key": "MKE_FUNES_JUNIOR_642031",
+   "name": "Junior Fernando Funes",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Pedestrian/Bike on Expressway/Prohibited",
+   "more": 2,
+   "ts": 1795660065,
+   "photo": null
+  },
+  {
+   "key": "JOHNSON_ZACHARY_2026-11-25",
+   "name": "Zachary Christian Johnson",
+   "age": "25",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795659810,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_DAWONYAE_518618",
+   "name": "Dawonyae C Robinson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1795658284,
+   "photo": null
+  },
+  {
+   "key": "MKE_RANGEL_KEVIN_648500",
+   "name": "Kevin Rangel",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795658280,
+   "photo": null
+  },
+  {
+   "key": "MAR_GARINGER_DARCIA_2026-11-25",
+   "name": "Darcia Lynn Garinger",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 3,
+   "ts": 1795657999,
+   "photo": "photos/MAR_GARINGER_DARCIA_2026-11-25.jpg"
+  },
   {
    "key": "KOTEK_SAMUEL_2026-11-25",
    "name": "Samuel J Kotek",
@@ -40,8 +128,8 @@
    "age": "19",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 2,
    "ts": 1795654386,
    "photo": null
   },
@@ -211,61 +299,6 @@
    "photo": "photos/MKE_PIMENTELMACEDONIO_ERIK_648494.jpg"
   },
   {
-   "key": "MKE_HOPFENSPERGER_MAXIMUS_648495",
-   "name": "Maximus Payton Hopfensperger",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795643852,
-   "photo": "photos/MKE_HOPFENSPERGER_MAXIMUS_648495.jpg"
-  },
-  {
-   "key": "MKE_KELLY_LAJUNE_648496",
-   "name": "LaJune Kelly",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795643850,
-   "photo": "photos/MKE_KELLY_LAJUNE_648496.jpg"
-  },
-  {
-   "key": "KEN_OVERSTREET_DAIREION_2026-00006504",
-   "name": "Daireion Overstreet",
-   "age": "20",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795643587,
-   "photo": "photos/KEN_OVERSTREET_DAIREION_2026-00006504.jpg"
-  },
-  {
-   "key": "RC_DOMINGUEZ_MICHAEL_120011076613924",
-   "name": "Michael J Dominguez",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795643270,
-   "photo": "photos/RC_DOMINGUEZ_MICHAEL_120011076613924.jpg"
-  },
-  {
-   "key": "MKE_BROWN_PRENTICE_383020",
-   "name": "Prentice Frank Lamar Brown",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795642051,
-   "photo": "photos/MKE_BROWN_PRENTICE_383020.jpg"
-  },
-  {
    "key": "MANSKE_BRIDGET_2026-11-25",
    "name": "Bridget A Manske",
    "age": "31",
@@ -319,17 +352,6 @@
    "more": 0,
    "ts": 1795639994,
    "photo": "photos/MAR_STANKE_JONATHON_2026-11-25.jpg"
-  },
-  {
-   "key": "RC_WADE_DAMARIUS_120011076612062",
-   "name": "Damarius Wade",
-   "age": "26",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795639670,
-   "photo": "photos/RC_WADE_DAMARIUS_120011076612062.jpg"
   },
   {
    "key": "FEYEN_DAVID_2026-11-25",
@@ -506,31 +528,97 @@
    "more": 1,
    "ts": 1795598602,
    "photo": null
-  },
-  {
-   "key": "MAR_WILSON_ALFRED_2026-11-25",
-   "name": "Alfred Wilson",
-   "age": "44",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Resist Obstruct an Officer",
-   "more": 0,
-   "ts": 1795596799,
-   "photo": "photos/MAR_WILSON_ALFRED_2026-11-25.jpg"
-  },
-  {
-   "key": "DOU_STARSTEAD_CRYSTAL_2026-11-25",
-   "name": "Crystal B Starstead",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Warrant",
-   "more": 0,
-   "ts": 1795595007,
-   "photo": "photos/DOU_STARSTEAD_CRYSTAL_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_LEAL_ISAIAH_120011076619032",
+   "name": "Isaiah Trinidad Leal",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Possession of THC (Tetrahydrocannabinols)",
+   "more": 0,
+   "ts": 1795661308,
+   "photo": null
+  },
+  {
+   "key": "RC_BOLLWAHN_JAMIE_120011076619607",
+   "name": "Jamie Lee Bollwahn",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795661304,
+   "photo": null
+  },
+  {
+   "key": "MKE_SOTO_FRANCISCO_607286",
+   "name": "Francisco Soto",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possess Drug Paraphernalia (Forfeiture)",
+   "more": 1,
+   "ts": 1795660068,
+   "photo": null
+  },
+  {
+   "key": "MKE_FUNES_JUNIOR_642031",
+   "name": "Junior Fernando Funes",
+   "age": "29",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Pedestrian/Bike on Expressway/Prohibited",
+   "more": 2,
+   "ts": 1795660065,
+   "photo": null
+  },
+  {
+   "key": "JOHNSON_ZACHARY_2026-11-25",
+   "name": "Zachary Christian Johnson",
+   "age": "25",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795659810,
+   "photo": null
+  },
+  {
+   "key": "MKE_ROBINSON_DAWONYAE_518618",
+   "name": "Dawonyae C Robinson",
+   "age": "27",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Operate w/o Valid License (2nd w/in 3 Yrs)",
+   "more": 0,
+   "ts": 1795658284,
+   "photo": null
+  },
+  {
+   "key": "MKE_RANGEL_KEVIN_648500",
+   "name": "Kevin Rangel",
+   "age": "18",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795658280,
+   "photo": null
+  },
+  {
+   "key": "MAR_GARINGER_DARCIA_2026-11-25",
+   "name": "Darcia Lynn Garinger",
+   "age": "63",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 3,
+   "ts": 1795657999,
+   "photo": "photos/MAR_GARINGER_DARCIA_2026-11-25.jpg"
+  },
   {
    "key": "KOTEK_SAMUEL_2026-11-25",
    "name": "Samuel J Kotek",
@@ -570,8 +658,8 @@
    "age": "19",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Operating Motor Vehicle W/O Insurance",
+   "more": 2,
    "ts": 1795654386,
    "photo": null
   },
