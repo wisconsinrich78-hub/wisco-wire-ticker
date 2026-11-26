@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-26T03:49:32+00:00",
+ "updated": "2026-11-26T04:49:39+00:00",
  "items": [
+  {
+   "key": "RC_FOX_MORGAN_120011076621165",
+   "name": "Morgan Lee Fox",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795668564,
+   "photo": "photos/RC_FOX_MORGAN_120011076621165.jpg"
+  },
+  {
+   "key": "STEERS_RYAN_2026-11-25",
+   "name": "Ryan G Steers",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795667001,
+   "photo": null
+  },
+  {
+   "key": "FDL_PREIN_KRYSTAL_2026-11-25",
+   "name": "Krystal R Prein",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "SECOND DEGREE RECKLESSLY ENDANGERING SAFETY (x2)",
+   "more": 2,
+   "ts": 1795666596,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCDONIAL_ANTONIO_227023",
+   "name": "Antonio Lamont McDonial",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795665493,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEARD_CHRISSHAWN_627719",
+   "name": "Chrisshawn Beard",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795665489,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAMESROBY_JOEY_648502",
+   "name": "Joey James roby",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795665484,
+   "photo": null
+  },
   {
    "key": "RC_KNIGHT_JOSHUA_120011076619761",
    "name": "Joshua Richard Knight",
@@ -19,7 +85,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 9,
    "ts": 1795663671,
    "photo": null
   },
@@ -153,7 +219,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795654662,
-   "photo": null
+   "photo": "photos/MKE_BROWN_DELLVHON_648498.jpg"
   },
   {
    "key": "MKE_WRIGHT_JACOB_648499",
@@ -165,28 +231,6 @@
    "more": 0,
    "ts": 1795654660,
    "photo": "photos/MKE_WRIGHT_JACOB_648499.jpg"
-  },
-  {
-   "key": "KEN_VERAORTEGA_CRISTIAN_2026-00006505",
-   "name": "Cristian Vera-Ortega",
-   "age": "19",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 2,
-   "ts": 1795654386,
-   "photo": null
-  },
-  {
-   "key": "MKE_LACY_QUAISHAN_543231",
-   "name": "Quaishan L Lacy",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795652855,
-   "photo": "photos/MKE_LACY_QUAISHAN_543231.jpg"
   },
   {
    "key": "MAR_WILSON_NICKOLAS_2026-11-25_17158702",
@@ -209,28 +253,6 @@
    "more": 0,
    "ts": 1795649712,
    "photo": "photos/MAR_VUE_NENG_2026-11-25_2550310.jpg"
-  },
-  {
-   "key": "MKE_BERNARD_TERRANCE_386870",
-   "name": "Terrance Eric Bernard",
-   "age": "34",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795649260,
-   "photo": "photos/MKE_BERNARD_TERRANCE_386870.jpg"
-  },
-  {
-   "key": "MKE_JOHNSONIRVINGLENOIR_DJIMON_648497",
-   "name": "Djimon Johnson irving lenoir",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795649258,
-   "photo": "photos/MKE_JOHNSONIRVINGLENOIR_DJIMON_648497.jpg"
   },
   {
    "key": "HART_ISAIAH_2026-11-25",
@@ -506,31 +528,75 @@
    "more": 1,
    "ts": 1795623387,
    "photo": "photos/FDL_PARSON_LEVANDER_2026-11-25.jpg"
-  },
-  {
-   "key": "OLSON_ROBERT_2026-11-25",
-   "name": "Robert D Olson",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Ignition Interlock Device Tampering",
-   "more": 2,
-   "ts": 1795600028,
-   "photo": null
-  },
-  {
-   "key": "TRAYWICK_TERRANCE_2026-11-25",
-   "name": "Terrance M Traywick",
-   "age": "27",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 1,
-   "ts": 1795598602,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FOX_MORGAN_120011076621165",
+   "name": "Morgan Lee Fox",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795668564,
+   "photo": "photos/RC_FOX_MORGAN_120011076621165.jpg"
+  },
+  {
+   "key": "STEERS_RYAN_2026-11-25",
+   "name": "Ryan G Steers",
+   "age": "40",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795667001,
+   "photo": null
+  },
+  {
+   "key": "FDL_PREIN_KRYSTAL_2026-11-25",
+   "name": "Krystal R Prein",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "SECOND DEGREE RECKLESSLY ENDANGERING SAFETY (x2)",
+   "more": 2,
+   "ts": 1795666596,
+   "photo": null
+  },
+  {
+   "key": "MKE_MCDONIAL_ANTONIO_227023",
+   "name": "Antonio Lamont McDonial",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795665493,
+   "photo": null
+  },
+  {
+   "key": "MKE_BEARD_CHRISSHAWN_627719",
+   "name": "Chrisshawn Beard",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795665489,
+   "photo": null
+  },
+  {
+   "key": "MKE_JAMESROBY_JOEY_648502",
+   "name": "Joey James roby",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795665484,
+   "photo": null
+  },
   {
    "key": "RC_KNIGHT_JOSHUA_120011076619761",
    "name": "Joshua Richard Knight",
@@ -549,7 +615,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 3,
+   "more": 9,
    "ts": 1795663671,
    "photo": null
   },
@@ -683,7 +749,7 @@
    "charge": "Charges Pending",
    "more": 0,
    "ts": 1795654662,
-   "photo": null
+   "photo": "photos/MKE_BROWN_DELLVHON_648498.jpg"
   },
   {
    "key": "MKE_WRIGHT_JACOB_648499",
