@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-26T08:49:30+00:00",
+ "updated": "2026-11-26T09:49:28+00:00",
  "items": [
+  {
+   "key": "RC_STELLOH_BENJAMIN_120011076625058",
+   "name": "Benjamin William Stelloh",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795686471,
+   "photo": null
+  },
+  {
+   "key": "RC_FLODIN_LEVI_120011076625306",
+   "name": "Levi Page Flodin",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 1,
+   "ts": 1795686469,
+   "photo": null
+  },
+  {
+   "key": "RC_ALLEN_CELENA_120011076625673",
+   "name": "Celena Marie Allen",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795686467,
+   "photo": null
+  },
+  {
+   "key": "HOU_NOVAK_BENEDWARD_6344",
+   "name": "Ben Edward Novak",
+   "age": "39",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "DWI - Fourth-Degree Driving While Impaired; D (Book & Release)",
+   "more": 1,
+   "ts": 1795686427,
+   "photo": "photos/HOU_NOVAK_BENEDWARD_6344.jpg"
+  },
+  {
+   "key": "MKE_MILLER_ROBERT_170153",
+   "name": "Robert Lee Miller",
+   "age": "74",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 0,
+   "ts": 1795685261,
+   "photo": null
+  },
+  {
+   "key": "MKE_STERLING_CHRISTOPHER_645524",
+   "name": "Christopher J Sterling",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795685259,
+   "photo": null
+  },
+  {
+   "key": "KEN_MITCHELL_ELANTAE_2026-00006508",
+   "name": "Elantae Rmani Mitchell",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795683528,
+   "photo": "photos/KEN_MITCHELL_ELANTAE_2026-00006508.jpg"
+  },
+  {
+   "key": "MAR_LUSIAK_MICHAEL_2026-11-26",
+   "name": "Michael Lusiak",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795683191,
+   "photo": null
+  },
   {
    "key": "RC_SANTOS_JACKSON_120011076624196",
    "name": "Jackson Tyler Santos",
@@ -18,7 +106,7 @@
    "age": "36",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795682868,
    "photo": null
@@ -29,7 +117,7 @@
    "age": "22",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795682866,
    "photo": null
@@ -52,7 +140,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 4,
+   "more": 5,
    "ts": 1795681649,
    "photo": null
   },
@@ -120,7 +208,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795676252,
-   "photo": null
+   "photo": "photos/MKE_HORTON_BREYIA_648504.jpg"
   },
   {
    "key": "MKE_BYNDUM_CIARA_648505",
@@ -134,17 +222,6 @@
    "photo": null
   },
   {
-   "key": "KEN_VARIBLEMARTINEZ_JORGE_2026-00006507",
-   "name": "Jorge Varible-Martinez",
-   "age": "26",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1795675982,
-   "photo": "photos/KEN_VARIBLEMARTINEZ_JORGE_2026-00006507.jpg"
-  },
-  {
    "key": "NOTH_ZARIA_2026-11-26",
    "name": "Zaria A Noth",
    "age": "26",
@@ -154,50 +231,6 @@
    "more": 0,
    "ts": 1795675662,
    "photo": null
-  },
-  {
-   "key": "MKE_BETTIES_CHARLES_283252",
-   "name": "Charles Edward Betties",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 12,
-   "ts": 1795670997,
-   "photo": null
-  },
-  {
-   "key": "MKE_WINSTON_SHEAR_310529",
-   "name": "Shear Shawn Winston",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795670981,
-   "photo": null
-  },
-  {
-   "key": "MKE_BINK_CASPIAN_648503",
-   "name": "Caspian Bink",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795669126,
-   "photo": null
-  },
-  {
-   "key": "KEN_SECUNDINO_ENRIQUE_2026-00006506",
-   "name": "Enrique Secundino",
-   "age": "27",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Failure to Dim Multibeam Headlights to Oncoming Traffic",
-   "more": 6,
-   "ts": 1795668939,
-   "photo": "photos/KEN_SECUNDINO_ENRIQUE_2026-00006506.jpg"
   },
   {
    "key": "MAR_MALLUM_MICHAEL_2026-11-25",
@@ -220,17 +253,6 @@
    "more": 3,
    "ts": 1795668842,
    "photo": "photos/MAR_GARINGER_DARCIA_2026-11-25_3999605.jpg"
-  },
-  {
-   "key": "RC_FOX_MORGAN_120011076621165",
-   "name": "Morgan Lee Fox",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 0,
-   "ts": 1795668564,
-   "photo": "photos/RC_FOX_MORGAN_120011076621165.jpg"
   },
   {
    "key": "STEERS_RYAN_2026-11-25",
@@ -506,31 +528,97 @@
    "more": 0,
    "ts": 1795629193,
    "photo": "photos/MAR_JONES_NEVAEHA_2026-11-25.jpg"
-  },
-  {
-   "key": "HOU_RANK_ZAKYAHDOUGLAS_6339",
-   "name": "Zakyah Douglas Rank",
-   "age": "24",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "Possess child sexual abuse material - Compute (Sentenced)",
-   "more": 0,
-   "ts": 1795628833,
-   "photo": "photos/HOU_RANK_ZAKYAHDOUGLAS_6339.jpg"
-  },
-  {
-   "key": "MERCADO_ALFREDO_2026-11-25",
-   "name": "Alfredo Mercado",
-   "age": "47",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795628828,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_STELLOH_BENJAMIN_120011076625058",
+   "name": "Benjamin William Stelloh",
+   "age": "26",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795686471,
+   "photo": null
+  },
+  {
+   "key": "RC_FLODIN_LEVI_120011076625306",
+   "name": "Levi Page Flodin",
+   "age": "24",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Substantial Battery",
+   "more": 1,
+   "ts": 1795686469,
+   "photo": null
+  },
+  {
+   "key": "RC_ALLEN_CELENA_120011076625673",
+   "name": "Celena Marie Allen",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795686467,
+   "photo": null
+  },
+  {
+   "key": "HOU_NOVAK_BENEDWARD_6344",
+   "name": "Ben Edward Novak",
+   "age": "39",
+   "county": "Houston County, MN",
+   "region": "southwest",
+   "charge": "DWI - Fourth-Degree Driving While Impaired; D (Book & Release)",
+   "more": 1,
+   "ts": 1795686427,
+   "photo": "photos/HOU_NOVAK_BENEDWARD_6344.jpg"
+  },
+  {
+   "key": "MKE_MILLER_ROBERT_170153",
+   "name": "Robert Lee Miller",
+   "age": "74",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Possession of Cocaine/Coca",
+   "more": 0,
+   "ts": 1795685261,
+   "photo": null
+  },
+  {
+   "key": "MKE_STERLING_CHRISTOPHER_645524",
+   "name": "Christopher J Sterling",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795685259,
+   "photo": null
+  },
+  {
+   "key": "KEN_MITCHELL_ELANTAE_2026-00006508",
+   "name": "Elantae Rmani Mitchell",
+   "age": "23",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795683528,
+   "photo": "photos/KEN_MITCHELL_ELANTAE_2026-00006508.jpg"
+  },
+  {
+   "key": "MAR_LUSIAK_MICHAEL_2026-11-26",
+   "name": "Michael Lusiak",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795683191,
+   "photo": null
+  },
   {
    "key": "RC_SANTOS_JACKSON_120011076624196",
    "name": "Jackson Tyler Santos",
@@ -548,7 +636,7 @@
    "age": "36",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795682868,
    "photo": null
@@ -559,7 +647,7 @@
    "age": "22",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795682866,
    "photo": null
@@ -582,7 +670,7 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 4,
+   "more": 5,
    "ts": 1795681649,
    "photo": null
   },
@@ -650,7 +738,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795676252,
-   "photo": null
+   "photo": "photos/MKE_HORTON_BREYIA_648504.jpg"
   },
   {
    "key": "MKE_BYNDUM_CIARA_648505",
@@ -716,7 +804,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795669126,
-   "photo": null
+   "photo": "photos/MKE_BINK_CASPIAN_648503.jpg"
   },
   {
    "key": "KEN_SECUNDINO_ENRIQUE_2026-00006506",
@@ -4446,61 +4534,6 @@
    "more": 2,
    "ts": 1795427849,
    "photo": "photos/MKE_JACKSON_KIARA_614127.jpg"
-  },
-  {
-   "key": "MATTESON_RICHARD_2026-11-23",
-   "name": "Richard A Matteson",
-   "age": "40",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795427228,
-   "photo": null
-  },
-  {
-   "key": "MKE_JONES_DAMONTAE_612229",
-   "name": "Damontae Ellis Jones",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795426084,
-   "photo": "photos/MKE_JONES_DAMONTAE_612229.jpg"
-  },
-  {
-   "key": "MKE_HUMPHREY_BRIAN_635764",
-   "name": "Brian Keith Humphrey",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795426082,
-   "photo": "photos/MKE_HUMPHREY_BRIAN_635764.jpg"
-  },
-  {
-   "key": "MKE_DAVIS_ALBERT_648460",
-   "name": "Albert Lee Davis",
-   "age": "68",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795426081,
-   "photo": "photos/MKE_DAVIS_ALBERT_648460.jpg"
-  },
-  {
-   "key": "FDL_BENZINE_TYLER_2026-11-23",
-   "name": "Tyler Scott Benzine",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Felony Bail Jumping",
-   "more": 0,
-   "ts": 1795425365,
-   "photo": "photos/FDL_BENZINE_TYLER_2026-11-23.jpg"
   }
  ]
 }
