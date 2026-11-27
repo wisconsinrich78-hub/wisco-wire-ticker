@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-27T17:49:36+00:00",
+ "updated": "2026-11-27T18:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_HENNINGS_JENAY_386057",
+   "name": "Jenay Veejean Hennings",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795804073,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHROEDER_SEAN_611315",
+   "name": "Sean A Schroeder",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
+   "more": 4,
+   "ts": 1795804067,
+   "photo": null
+  },
+  {
+   "key": "MKE_DRAIN_TREVAIL_619310",
+   "name": "Trevail Christopher Drain",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 5,
+   "ts": 1795804064,
+   "photo": null
+  },
+  {
+   "key": "DOU_FREEMAN_TRAVIS_2026-11-27",
+   "name": "Travis J Freeman",
+   "age": "21",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795803368,
+   "photo": "photos/DOU_FREEMAN_TRAVIS_2026-11-27.jpg"
+  },
+  {
+   "key": "KEN_PETERSON_KAITLEN_2026-00006521",
+   "name": "Kaitlen Anne Peterson",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795802033,
+   "photo": "photos/KEN_PETERSON_KAITLEN_2026-00006521.jpg"
+  },
   {
    "key": "RC_FOLK_JUSTEN_120011076652140",
    "name": "Justen William Folk",
@@ -40,8 +95,8 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1795800534,
    "photo": null
   },
@@ -164,51 +219,7 @@
    "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1795796923,
-   "photo": null
-  },
-  {
-   "key": "MKE_KELLEY_DOUGLAS_639285",
-   "name": "Douglas Dwight Kelley",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 5,
-   "ts": 1795796918,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALLEN_LAMONT_641356",
-   "name": "Lamont Romell Allen",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795796912,
-   "photo": "photos/MKE_ALLEN_LAMONT_641356.jpg"
-  },
-  {
-   "key": "MKE_CELSULA_BRUNO_648519",
-   "name": "Bruno D Celsula",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795796909,
-   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
-  },
-  {
-   "key": "MKE_KEELER_ROMAINE_648520",
-   "name": "Romaine Keeler",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Intentionally Point Firearm At Person",
-   "more": 7,
-   "ts": 1795796904,
-   "photo": null
+   "photo": "photos/MKE_CARTYLOPEZ_JENSEN_630972.jpg"
   },
   {
    "key": "GARDNER_ROBERT_2026-11-27",
@@ -517,20 +528,64 @@
    "more": 1,
    "ts": 1795686427,
    "photo": "photos/HOU_NOVAK_BENEDWARD_6344.jpg"
-  },
-  {
-   "key": "MAR_LUSIAK_MICHAEL_2026-11-26",
-   "name": "Michael Lusiak",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795683191,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_HENNINGS_JENAY_386057",
+   "name": "Jenay Veejean Hennings",
+   "age": "39",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795804073,
+   "photo": null
+  },
+  {
+   "key": "MKE_SCHROEDER_SEAN_611315",
+   "name": "Sean A Schroeder",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Use Dangerous Weapon (Misdemeanor)",
+   "more": 4,
+   "ts": 1795804067,
+   "photo": null
+  },
+  {
+   "key": "MKE_DRAIN_TREVAIL_619310",
+   "name": "Trevail Christopher Drain",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 5,
+   "ts": 1795804064,
+   "photo": null
+  },
+  {
+   "key": "DOU_FREEMAN_TRAVIS_2026-11-27",
+   "name": "Travis J Freeman",
+   "age": "21",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795803368,
+   "photo": "photos/DOU_FREEMAN_TRAVIS_2026-11-27.jpg"
+  },
+  {
+   "key": "KEN_PETERSON_KAITLEN_2026-00006521",
+   "name": "Kaitlen Anne Peterson",
+   "age": "28",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795802033,
+   "photo": "photos/KEN_PETERSON_KAITLEN_2026-00006521.jpg"
+  },
   {
    "key": "RC_FOLK_JUSTEN_120011076652140",
    "name": "Justen William Folk",
@@ -570,8 +625,8 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1795800534,
    "photo": null
   },
@@ -694,7 +749,7 @@
    "charge": "Material Witness (Prisoner)",
    "more": 0,
    "ts": 1795796923,
-   "photo": null
+   "photo": "photos/MKE_CARTYLOPEZ_JENSEN_630972.jpg"
   },
   {
    "key": "MKE_KELLEY_DOUGLAS_639285",
@@ -705,7 +760,7 @@
    "charge": "Charges Pending",
    "more": 5,
    "ts": 1795796918,
-   "photo": null
+   "photo": "photos/MKE_KELLEY_DOUGLAS_639285.jpg"
   },
   {
    "key": "MKE_ALLEN_LAMONT_641356",
@@ -738,7 +793,7 @@
    "charge": "Intentionally Point Firearm At Person",
    "more": 7,
    "ts": 1795796904,
-   "photo": null
+   "photo": "photos/MKE_KEELER_ROMAINE_648520.jpg"
   },
   {
    "key": "GARDNER_ROBERT_2026-11-27",
@@ -3940,28 +3995,6 @@
    "more": 0,
    "ts": 1795544607,
    "photo": null
-  },
-  {
-   "key": "DOU_WICKLUND_APRIL_2026-11-24",
-   "name": "April M Wicklund",
-   "age": "42",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Warrant",
-   "more": 0,
-   "ts": 1795544268,
-   "photo": "photos/DOU_WICKLUND_APRIL_2026-11-24.jpg"
-  },
-  {
-   "key": "FDL_JASSEREXQUIEL_LIRA_2026-11-24",
-   "name": "Lira Pance Jasser Exquiel",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795544205,
-   "photo": "photos/FDL_JASSEREXQUIEL_LIRA_2026-11-24.jpg"
   },
   {
    "key": "KEN_MAZUREK_RICHARD_2026-00006487",
@@ -16260,17 +16293,6 @@
    "more": 0,
    "ts": 1794614064,
    "photo": "photos/MAR_MALONEY_BARBARA_2026-11-13_1712836.jpg"
-  },
-  {
-   "key": "RC_JOHNSON_KYLE_120011076258318",
-   "name": "Kyle Jean Johnson",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794613689,
-   "photo": "photos/RC_JOHNSON_KYLE_120011076258318.jpg"
   },
   {
    "key": "MKE_PARR_EDDIE_299243",
