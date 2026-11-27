@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-27T01:49:32+00:00",
+ "updated": "2026-11-27T02:49:30+00:00",
  "items": [
+  {
+   "key": "RC_PHILLIPS_PASHAWN_120011076639406",
+   "name": "Pashawn U Phillips",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795747696,
+   "photo": null
+  },
+  {
+   "key": "RC_PHILLIPS_TARRIAH_120011076639449",
+   "name": "Tarriah Artamiece Phillips",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795747692,
+   "photo": null
+  },
+  {
+   "key": "MKE_EDWARDS_OLIVER_2018642",
+   "name": "Oliver Conrad Edwards",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1795746455,
+   "photo": null
+  },
+  {
+   "key": "DOU_CROWE_WENDELL_2026-11-26",
+   "name": "Wendell J Crowe",
+   "age": "60",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Bail Jumping",
+   "more": 0,
+   "ts": 1795745774,
+   "photo": "photos/DOU_CROWE_WENDELL_2026-11-26.jpg"
+  },
+  {
+   "key": "FDL_FRANK_SHALYNN_2026-11-26",
+   "name": "Shalynn Marie Frank",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1795745771,
+   "photo": null
+  },
+  {
+   "key": "MAR_STREGE_TIMOTHY_2026-11-26_17159001",
+   "name": "Timothy Benjamin Strege",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1795744390,
+   "photo": "photos/MAR_STREGE_TIMOTHY_2026-11-26_17159001.jpg"
+  },
   {
    "key": "MKE_SCOTT_VAYTONIA_418052",
    "name": "Vaytonia S Scott",
@@ -10,7 +76,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795741425,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_VAYTONIA_418052.jpg"
   },
   {
    "key": "MAR_STREGE_TIMOTHY_2026-11-26",
@@ -32,7 +98,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795739259,
-   "photo": null
+   "photo": "photos/MKE_SMITH_JACQUES_635750.jpg"
   },
   {
    "key": "MKE_PARKER_APRIL_644525",
@@ -54,7 +120,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1795739255,
-   "photo": null
+   "photo": "photos/MKE_LANE_TYSON_645915.jpg"
   },
   {
    "key": "MKE_POWELL_FORLANDO_648518",
@@ -231,39 +297,6 @@
    "more": 2,
    "ts": 1795714052,
    "photo": "photos/MKE_CURTIS_ROLEXSEA_647170.jpg"
-  },
-  {
-   "key": "MKE_DOLAH_ABDUL_648515",
-   "name": "Abdul M Dolah",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Vehicle Operator Flee/Elude Officer",
-   "more": 0,
-   "ts": 1795714050,
-   "photo": "photos/MKE_DOLAH_ABDUL_648515.jpg"
-  },
-  {
-   "key": "MKE_TALBERT_JASON_209251",
-   "name": "Jason D Talbert",
-   "age": "58",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795712325,
-   "photo": "photos/MKE_TALBERT_JASON_209251.jpg"
-  },
-  {
-   "key": "MKE_HOLTON_RAVEN_648514",
-   "name": "Raven SP Holton",
-   "age": "48",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795712323,
-   "photo": "photos/MKE_HOLTON_RAVEN_648514.jpg"
   },
   {
    "key": "MAR_MALLUM_MICHAEL_2026-11-25_15218807",
@@ -495,42 +528,75 @@
    "more": 0,
    "ts": 1795649712,
    "photo": "photos/MAR_VUE_NENG_2026-11-25_2550310.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "HART_ISAIAH_2026-11-25",
-   "name": "Isaiah M Hart",
-   "age": "29",
-   "county": "La Crosse County",
-   "region": "southwest",
+   "key": "RC_PHILLIPS_PASHAWN_120011076639406",
+   "name": "Pashawn U Phillips",
+   "age": "19",
+   "county": "Racine County",
+   "region": "southeast",
    "charge": "",
    "more": 0,
-   "ts": 1795649000,
+   "ts": 1795747696,
    "photo": null
   },
   {
-   "key": "DOU_SMITH_CHRISTOPHER_2026-11-25",
-   "name": "Christopher C Smith",
-   "age": "43",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Probation/Parole Violation",
+   "key": "RC_PHILLIPS_TARRIAH_120011076639449",
+   "name": "Tarriah Artamiece Phillips",
+   "age": "18",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
    "more": 0,
-   "ts": 1795648632,
-   "photo": "photos/DOU_SMITH_CHRISTOPHER_2026-11-25.jpg"
+   "ts": 1795747692,
+   "photo": null
   },
   {
-   "key": "FDL_GUELL_JACKSON_2026-11-25",
-   "name": "Jackson Jay Guell",
+   "key": "MKE_EDWARDS_OLIVER_2018642",
+   "name": "Oliver Conrad Edwards",
+   "age": "53",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 6,
+   "ts": 1795746455,
+   "photo": null
+  },
+  {
+   "key": "DOU_CROWE_WENDELL_2026-11-26",
+   "name": "Wendell J Crowe",
+   "age": "60",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Bail Jumping",
+   "more": 0,
+   "ts": 1795745774,
+   "photo": "photos/DOU_CROWE_WENDELL_2026-11-26.jpg"
+  },
+  {
+   "key": "FDL_FRANK_SHALYNN_2026-11-26",
+   "name": "Shalynn Marie Frank",
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
    "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795648597,
-   "photo": "photos/FDL_GUELL_JACKSON_2026-11-25.jpg"
-  }
- ],
- "all_items": [
+   "more": 2,
+   "ts": 1795745771,
+   "photo": null
+  },
+  {
+   "key": "MAR_STREGE_TIMOTHY_2026-11-26_17159001",
+   "name": "Timothy Benjamin Strege",
+   "age": "44",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Battery - Simple Assault",
+   "more": 1,
+   "ts": 1795744390,
+   "photo": "photos/MAR_STREGE_TIMOTHY_2026-11-26_17159001.jpg"
+  },
   {
    "key": "MKE_SCOTT_VAYTONIA_418052",
    "name": "Vaytonia S Scott",
@@ -540,7 +606,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795741425,
-   "photo": null
+   "photo": "photos/MKE_SCOTT_VAYTONIA_418052.jpg"
   },
   {
    "key": "MAR_STREGE_TIMOTHY_2026-11-26",
@@ -562,7 +628,7 @@
    "charge": "Charges Pending",
    "more": 1,
    "ts": 1795739259,
-   "photo": null
+   "photo": "photos/MKE_SMITH_JACQUES_635750.jpg"
   },
   {
    "key": "MKE_PARKER_APRIL_644525",
@@ -584,7 +650,7 @@
    "charge": "Charges Pending",
    "more": 4,
    "ts": 1795739255,
-   "photo": null
+   "photo": "photos/MKE_LANE_TYSON_645915.jpg"
   },
   {
    "key": "MKE_POWELL_FORLANDO_648518",
