@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T10:49:33+00:00",
+ "updated": "2026-11-27T16:49:31+00:00",
  "items": [
+  {
+   "key": "RC_GARNICA_JUAN_120011076646593",
+   "name": "Juan F Garnica",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Strangulation and Suffocation",
+   "more": 3,
+   "ts": 1795798152,
+   "photo": "photos/RC_GARNICA_JUAN_120011076646593.jpg"
+  },
+  {
+   "key": "MKE_KELIIPIO_JENNIFER_338987",
+   "name": "Jennifer M Keliipio",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795796959,
+   "photo": "photos/MKE_KELIIPIO_JENNIFER_338987.jpg"
+  },
   {
    "key": "MKE_CROFT_GREGORY_350154",
    "name": "Gregory A Croft",
@@ -9,7 +31,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 3,
-   "ts": 1795773619,
+   "ts": 1795796956,
    "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
   },
   {
@@ -20,7 +42,117 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 3,
-   "ts": 1795773609,
+   "ts": 1795796952,
+   "photo": "photos/MKE_OFFICE_MICHAEL_356657.jpg"
+  },
+  {
+   "key": "MKE_SANTIAGO_JASMINE_502630",
+   "name": "Jasmine Magdalena Santiago",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Misappropriate ID Info - Obtain Money - Ordinance Violation",
+   "more": 0,
+   "ts": 1795796949,
+   "photo": "photos/MKE_SANTIAGO_JASMINE_502630.jpg"
+  },
+  {
+   "key": "MKE_GRIMES_LONNETTE_503952",
+   "name": "Lonnette V Grimes",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795796941,
+   "photo": "photos/MKE_GRIMES_LONNETTE_503952.jpg"
+  },
+  {
+   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
+   "name": "Christopher Jason Freeman",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795796936,
+   "photo": "photos/MKE_FREEMAN_CHRISTOPHER_621598.jpg"
+  },
+  {
+   "key": "MKE_CRUZRIVERA_WILLIAM_622840",
+   "name": "William Cruz-Rivera",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795796933,
+   "photo": "photos/MKE_CRUZRIVERA_WILLIAM_622840.jpg"
+  },
+  {
+   "key": "MKE_CARTYLOPEZ_JENSEN_630972",
+   "name": "Jensen O Carty-Lopez",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1795796923,
+   "photo": null
+  },
+  {
+   "key": "MKE_KELLEY_DOUGLAS_639285",
+   "name": "Douglas Dwight Kelley",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795796918,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_LAMONT_641356",
+   "name": "Lamont Romell Allen",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795796912,
+   "photo": "photos/MKE_ALLEN_LAMONT_641356.jpg"
+  },
+  {
+   "key": "MKE_CELSULA_BRUNO_648519",
+   "name": "Bruno D Celsula",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795796909,
+   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
+  },
+  {
+   "key": "MKE_KEELER_ROMAINE_648520",
+   "name": "Romaine Keeler",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Intentionally Point Firearm At Person",
+   "more": 7,
+   "ts": 1795796904,
+   "photo": null
+  },
+  {
+   "key": "GARDNER_ROBERT_2026-11-27",
+   "name": "Robert P Gardner",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795796612,
    "photo": null
   },
   {
@@ -33,39 +165,6 @@
    "more": 1,
    "ts": 1795773606,
    "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
-  },
-  {
-   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
-   "name": "Christopher Jason Freeman",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795773598,
-   "photo": "photos/MKE_FREEMAN_CHRISTOPHER_621598.jpg"
-  },
-  {
-   "key": "MKE_ALLEN_LAMONT_641356",
-   "name": "Lamont Romell Allen",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795773592,
-   "photo": "photos/MKE_ALLEN_LAMONT_641356.jpg"
-  },
-  {
-   "key": "MKE_CELSULA_BRUNO_648519",
-   "name": "Bruno D Celsula",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795773587,
-   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
   },
   {
    "key": "MAR_FELIPEGALLARDO_KELI_2026-11-27",
@@ -101,39 +200,6 @@
    "photo": "photos/RC_JOHNSON_SHAVEZE_120011076645483.jpg"
   },
   {
-   "key": "RC_TOWNSEND_JOSEPH_120011076645776",
-   "name": "Joseph Lee Townsend",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 2,
-   "ts": 1795772960,
-   "photo": "photos/RC_TOWNSEND_JOSEPH_120011076645776.jpg"
-  },
-  {
-   "key": "KEN_RUIZPEREZ_JOSE_2026-00006514",
-   "name": "Jose Francisco Ruiz-Perez",
-   "age": "31",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795769691,
-   "photo": "photos/KEN_RUIZPEREZ_JOSE_2026-00006514.jpg"
-  },
-  {
-   "key": "KEN_SHERWIN_JAMES_2026-00006513",
-   "name": "James Edward Sherwin",
-   "age": "55",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795766501,
-   "photo": "photos/KEN_SHERWIN_JAMES_2026-00006513.jpg"
-  },
-  {
    "key": "GERHARDT_KENNETH_2026-11-27",
    "name": "Kenneth J Gerhardt",
    "age": "43",
@@ -154,28 +220,6 @@
    "more": 0,
    "ts": 1795760302,
    "photo": "photos/FDL_REED_DONAJA_2026-11-26.jpg"
-  },
-  {
-   "key": "MKE_WILLIAMS_ODELL_245634",
-   "name": "Odell Ramone Williams",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1795757251,
-   "photo": null
-  },
-  {
-   "key": "MKE_LEE_KEVIN_389564",
-   "name": "Kevin L Lee",
-   "age": "37",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795757250,
-   "photo": null
   },
   {
    "key": "DOU_KASENO_LEO_2026-11-26",
@@ -200,28 +244,6 @@
    "photo": "photos/FDL_BALDERAS_MARTINA_2026-11-26.jpg"
   },
   {
-   "key": "MKE_WALLS_AMAREON_621904",
-   "name": "Amareon Terrell Walls",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795755449,
-   "photo": null
-  },
-  {
-   "key": "RC_PRICE_SHANTELL_120011076641650",
-   "name": "Shantell Vondae Price",
-   "age": "40",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct - Causing a Disturbance",
-   "more": 0,
-   "ts": 1795754896,
-   "photo": "photos/RC_PRICE_SHANTELL_120011076641650.jpg"
-  },
-  {
    "key": "DOU_MURPHY_MICHAEL_2026-11-26",
    "name": "Michael J Murphy",
    "age": "61",
@@ -231,17 +253,6 @@
    "more": 0,
    "ts": 1795753291,
    "photo": "photos/DOU_MURPHY_MICHAEL_2026-11-26.jpg"
-  },
-  {
-   "key": "RC_MOORE_DEMARKUS_120011076640708",
-   "name": "Demarkus Daniel Moore",
-   "age": "35",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795751322,
-   "photo": "photos/RC_MOORE_DEMARKUS_120011076640708.jpg"
   },
   {
    "key": "SNYDER_JOSHUA_2026-11-26",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795675662,
    "photo": null
-  },
-  {
-   "key": "MAR_MALLUM_MICHAEL_2026-11-25",
-   "name": "Michael Joseph Mallum",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795668880,
-   "photo": "photos/MAR_MALLUM_MICHAEL_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_GARNICA_JUAN_120011076646593",
+   "name": "Juan F Garnica",
+   "age": "45",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Strangulation and Suffocation",
+   "more": 3,
+   "ts": 1795798152,
+   "photo": "photos/RC_GARNICA_JUAN_120011076646593.jpg"
+  },
+  {
+   "key": "MKE_KELIIPIO_JENNIFER_338987",
+   "name": "Jennifer M Keliipio",
+   "age": "46",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795796959,
+   "photo": "photos/MKE_KELIIPIO_JENNIFER_338987.jpg"
+  },
   {
    "key": "MKE_CROFT_GREGORY_350154",
    "name": "Gregory A Croft",
@@ -539,7 +561,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 3,
-   "ts": 1795773619,
+   "ts": 1795796956,
    "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
   },
   {
@@ -550,7 +572,117 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 3,
-   "ts": 1795773609,
+   "ts": 1795796952,
+   "photo": "photos/MKE_OFFICE_MICHAEL_356657.jpg"
+  },
+  {
+   "key": "MKE_SANTIAGO_JASMINE_502630",
+   "name": "Jasmine Magdalena Santiago",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Misappropriate ID Info - Obtain Money - Ordinance Violation",
+   "more": 0,
+   "ts": 1795796949,
+   "photo": "photos/MKE_SANTIAGO_JASMINE_502630.jpg"
+  },
+  {
+   "key": "MKE_GRIMES_LONNETTE_503952",
+   "name": "Lonnette V Grimes",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795796941,
+   "photo": "photos/MKE_GRIMES_LONNETTE_503952.jpg"
+  },
+  {
+   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
+   "name": "Christopher Jason Freeman",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795796936,
+   "photo": "photos/MKE_FREEMAN_CHRISTOPHER_621598.jpg"
+  },
+  {
+   "key": "MKE_CRUZRIVERA_WILLIAM_622840",
+   "name": "William Cruz-Rivera",
+   "age": "51",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795796933,
+   "photo": "photos/MKE_CRUZRIVERA_WILLIAM_622840.jpg"
+  },
+  {
+   "key": "MKE_CARTYLOPEZ_JENSEN_630972",
+   "name": "Jensen O Carty-Lopez",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Material Witness (Prisoner)",
+   "more": 0,
+   "ts": 1795796923,
+   "photo": null
+  },
+  {
+   "key": "MKE_KELLEY_DOUGLAS_639285",
+   "name": "Douglas Dwight Kelley",
+   "age": "30",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795796918,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_LAMONT_641356",
+   "name": "Lamont Romell Allen",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795796912,
+   "photo": "photos/MKE_ALLEN_LAMONT_641356.jpg"
+  },
+  {
+   "key": "MKE_CELSULA_BRUNO_648519",
+   "name": "Bruno D Celsula",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795796909,
+   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
+  },
+  {
+   "key": "MKE_KEELER_ROMAINE_648520",
+   "name": "Romaine Keeler",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Intentionally Point Firearm At Person",
+   "more": 7,
+   "ts": 1795796904,
+   "photo": null
+  },
+  {
+   "key": "GARDNER_ROBERT_2026-11-27",
+   "name": "Robert P Gardner",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795796612,
    "photo": null
   },
   {
@@ -563,39 +695,6 @@
    "more": 1,
    "ts": 1795773606,
    "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
-  },
-  {
-   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
-   "name": "Christopher Jason Freeman",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795773598,
-   "photo": "photos/MKE_FREEMAN_CHRISTOPHER_621598.jpg"
-  },
-  {
-   "key": "MKE_ALLEN_LAMONT_641356",
-   "name": "Lamont Romell Allen",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795773592,
-   "photo": "photos/MKE_ALLEN_LAMONT_641356.jpg"
-  },
-  {
-   "key": "MKE_CELSULA_BRUNO_648519",
-   "name": "Bruno D Celsula",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795773587,
-   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
   },
   {
    "key": "MAR_FELIPEGALLARDO_KELI_2026-11-27",
@@ -4138,17 +4237,6 @@
    "more": 0,
    "ts": 1795537656,
    "photo": "photos/MKE_PATE_SEAN_648476.jpg"
-  },
-  {
-   "key": "FDL_EVANS_KEVION_2026-11-24",
-   "name": "Kevion Walter Evans",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1795536992,
-   "photo": "photos/FDL_EVANS_KEVION_2026-11-24.jpg"
   },
   {
    "key": "MAR_GULDAN_NICHOLAS_2026-11-24_8503504",
