@@ -1,14 +1,113 @@
 {
- "updated": "2026-11-27T20:49:29+00:00",
+ "updated": "2026-11-27T21:49:48+00:00",
  "items": [
+  {
+   "key": "RC_JENNINGS_JAVON_120011076656543",
+   "name": "Javon Jennings",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795816171,
+   "photo": "photos/RC_JENNINGS_JAVON_120011076656543.jpg"
+  },
+  {
+   "key": "HEMKER_JESSICA_2026-11-27",
+   "name": "Jessica A Hemker",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795816053,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEWMAN_KENNETH_623980",
+   "name": "Kenneth Wayne Newman",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795815000,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALL_PAIGE_631955",
+   "name": "Paige A Wall",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795814997,
+   "photo": null
+  },
+  {
+   "key": "STOFFLET_JESSICA_2026-11-27",
+   "name": "Jessica A Stofflet",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795814611,
+   "photo": null
+  },
+  {
+   "key": "FDL_POWELLS_DAVESHIA_2026-11-27",
+   "name": "Daveshia Shamir Powells",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure to Appear / Warrants",
+   "more": 0,
+   "ts": 1795814227,
+   "photo": "photos/FDL_POWELLS_DAVESHIA_2026-11-27.jpg"
+  },
+  {
+   "key": "MAR_VAUGHN_DEVLIN_2026-11-27",
+   "name": "Devlin James Vaughn",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Substantial Battery",
+   "more": 2,
+   "ts": 1795812870,
+   "photo": null
+  },
+  {
+   "key": "MAR_KING_KALLIE_2026-11-27",
+   "name": "Kallie Kristen King",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1795812835,
+   "photo": "photos/MAR_KING_KALLIE_2026-11-27.jpg"
+  },
+  {
+   "key": "MAR_WINTERS_ALVIS_2026-11-27_2686309",
+   "name": "Alvis Charles Winters",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795812797,
+   "photo": "photos/MAR_WINTERS_ALVIS_2026-11-27_2686309.jpg"
+  },
   {
    "key": "RC_BROWN_SHAMAR_120011076655162",
    "name": "Shamar Xavier Brown",
    "age": "27",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Drug Paraphernalia",
+   "more": 10,
    "ts": 1795812526,
    "photo": "photos/RC_BROWN_SHAMAR_120011076655162.jpg"
   },
@@ -117,7 +216,7 @@
    "age": "55",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1795809257,
    "photo": "photos/KEN_MCCALPINE_CYNTHIA_2026-00006522.jpg"
@@ -167,17 +266,6 @@
    "photo": "photos/MKE_HARDWRICT_JAYLIN_630248.jpg"
   },
   {
-   "key": "MKE_JEFF_LEO_2067609",
-   "name": "Leo Arnez Jeff",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Escape-Criminal Arrest",
-   "more": 0,
-   "ts": 1795805879,
-   "photo": "photos/MKE_JEFF_LEO_2067609.jpg"
-  },
-  {
    "key": "MAR_WINTERS_ALVIS_2026-11-27",
    "name": "Alvis Charles Winters",
    "age": "41",
@@ -187,28 +275,6 @@
    "more": 0,
    "ts": 1795805603,
    "photo": "photos/MAR_WINTERS_ALVIS_2026-11-27.jpg"
-  },
-  {
-   "key": "MKE_HENNINGS_JENAY_386057",
-   "name": "Jenay Veejean Hennings",
-   "age": "39",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795804073,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCHROEDER_SEAN_611315",
-   "name": "Sean A Schroeder",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Use Dangerous Weapon (Misdemeanor)",
-   "more": 4,
-   "ts": 1795804067,
-   "photo": "photos/MKE_SCHROEDER_SEAN_611315.jpg"
   },
   {
    "key": "DOU_FREEMAN_TRAVIS_2026-11-27",
@@ -462,83 +528,116 @@
    "more": 1,
    "ts": 1795718827,
    "photo": null
-  },
-  {
-   "key": "DOU_FISK_HUNTER_2026-11-26",
-   "name": "Hunter B Fisk",
-   "age": "24",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Warrant Arrest",
-   "more": 0,
-   "ts": 1795717008,
-   "photo": "photos/DOU_FISK_HUNTER_2026-11-26.jpg"
-  },
-  {
-   "key": "MAR_MALLUM_MICHAEL_2026-11-25_15218807",
-   "name": "Michael Joseph Mallum",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795712063,
-   "photo": "photos/MAR_MALLUM_MICHAEL_2026-11-25_15218807.jpg"
-  },
-  {
-   "key": "MAR_BUKOWSKI_SAMUEL_2026-11-26",
-   "name": "Samuel Bukowski",
-   "age": "33",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795712027,
-   "photo": "photos/MAR_BUKOWSKI_SAMUEL_2026-11-26.jpg"
-  },
-  {
-   "key": "MAR_LUSIAK_MICHAEL_2026-11-26_17158801",
-   "name": "Michael Lusiak",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795711993,
-   "photo": "photos/MAR_LUSIAK_MICHAEL_2026-11-26_17158801.jpg"
-  },
-  {
-   "key": "TREM_BOLTERMAN_ANDREW_2729",
-   "name": "Andrew Scott Bolterman",
-   "age": "42",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Possession of Narcotic Drugs",
-   "more": 1,
-   "ts": 1795711637,
-   "photo": "photos/TREM_BOLTERMAN_ANDREW_2729.jpg"
-  },
-  {
-   "key": "TREM_RALPH_NICOLE_5792",
-   "name": "Nicole Suzanne Ralph",
-   "age": "34",
-   "county": "Trempealeau County",
-   "region": "southwest",
-   "charge": "Operating While Intoxicated - 4th Offense in 5 Years",
-   "more": 0,
-   "ts": 1795711635,
-   "photo": "photos/TREM_RALPH_NICOLE_5792.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_JENNINGS_JAVON_120011076656543",
+   "name": "Javon Jennings",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795816171,
+   "photo": "photos/RC_JENNINGS_JAVON_120011076656543.jpg"
+  },
+  {
+   "key": "HEMKER_JESSICA_2026-11-27",
+   "name": "Jessica A Hemker",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795816053,
+   "photo": null
+  },
+  {
+   "key": "MKE_NEWMAN_KENNETH_623980",
+   "name": "Kenneth Wayne Newman",
+   "age": "34",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795815000,
+   "photo": null
+  },
+  {
+   "key": "MKE_WALL_PAIGE_631955",
+   "name": "Paige A Wall",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795814997,
+   "photo": null
+  },
+  {
+   "key": "STOFFLET_JESSICA_2026-11-27",
+   "name": "Jessica A Stofflet",
+   "age": "41",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795814611,
+   "photo": null
+  },
+  {
+   "key": "FDL_POWELLS_DAVESHIA_2026-11-27",
+   "name": "Daveshia Shamir Powells",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Failure to Appear / Warrants",
+   "more": 0,
+   "ts": 1795814227,
+   "photo": "photos/FDL_POWELLS_DAVESHIA_2026-11-27.jpg"
+  },
+  {
+   "key": "MAR_VAUGHN_DEVLIN_2026-11-27",
+   "name": "Devlin James Vaughn",
+   "age": "22",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Substantial Battery",
+   "more": 2,
+   "ts": 1795812870,
+   "photo": null
+  },
+  {
+   "key": "MAR_KING_KALLIE_2026-11-27",
+   "name": "Kallie Kristen King",
+   "age": "23",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 2,
+   "ts": 1795812835,
+   "photo": "photos/MAR_KING_KALLIE_2026-11-27.jpg"
+  },
+  {
+   "key": "MAR_WINTERS_ALVIS_2026-11-27_2686309",
+   "name": "Alvis Charles Winters",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795812797,
+   "photo": "photos/MAR_WINTERS_ALVIS_2026-11-27_2686309.jpg"
+  },
   {
    "key": "RC_BROWN_SHAMAR_120011076655162",
    "name": "Shamar Xavier Brown",
    "age": "27",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possess Drug Paraphernalia",
+   "more": 10,
    "ts": 1795812526,
    "photo": "photos/RC_BROWN_SHAMAR_120011076655162.jpg"
   },
@@ -647,7 +746,7 @@
    "age": "55",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct",
    "more": 0,
    "ts": 1795809257,
    "photo": "photos/KEN_MCCALPINE_CYNTHIA_2026-00006522.jpg"
@@ -6822,17 +6921,6 @@
    "more": 4,
    "ts": 1795314454,
    "photo": "photos/MKE_TREADWAY_DARONTE_505776.jpg"
-  },
-  {
-   "key": "MKE_LEONARD_KALEYAMARIE_648443",
-   "name": "Kaleya Marie Neveah Leonard",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795312652,
-   "photo": "photos/MKE_LEONARD_KALEYAMARIE_648443.jpg"
   },
   {
    "key": "RC_MILLER_CARLY_120011076492690",
