@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-27T06:56:35+00:00",
+ "updated": "2026-11-27T08:49:32+00:00",
  "items": [
+  {
+   "key": "MKE_CROFT_GREGORY_350154",
+   "name": "Gregory A Croft",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795768266,
+   "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
+  },
+  {
+   "key": "MKE_THORPE_LATASHA_606435",
+   "name": "Latasha Nicole Thorpe",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795768258,
+   "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
+  },
+  {
+   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
+   "name": "Christopher Jason Freeman",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795768240,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_LAMONT_641356",
+   "name": "Lamont Romell Allen",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795768235,
+   "photo": null
+  },
+  {
+   "key": "MKE_CELSULA_BRUNO_648519",
+   "name": "Bruno D Celsula",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795768229,
+   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
+  },
+  {
+   "key": "KEN_SHERWIN_JAMES_2026-00006513",
+   "name": "James Edward Sherwin",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795766501,
+   "photo": "photos/KEN_SHERWIN_JAMES_2026-00006513.jpg"
+  },
   {
    "key": "GERHARDT_KENNETH_2026-11-27",
    "name": "Kenneth J Gerhardt",
@@ -222,17 +288,6 @@
    "photo": "photos/MAR_STREGE_TIMOTHY_2026-11-26_17159001.jpg"
   },
   {
-   "key": "MKE_SCOTT_VAYTONIA_418052",
-   "name": "Vaytonia S Scott",
-   "age": "30",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795741425,
-   "photo": "photos/MKE_SCOTT_VAYTONIA_418052.jpg"
-  },
-  {
    "key": "MAR_STREGE_TIMOTHY_2026-11-26",
    "name": "Timothy Benjamin Strege",
    "age": "44",
@@ -242,61 +297,6 @@
    "more": 1,
    "ts": 1795740800,
    "photo": "photos/MAR_STREGE_TIMOTHY_2026-11-26.jpg"
-  },
-  {
-   "key": "MKE_SMITH_JACQUES_635750",
-   "name": "Jacques Lamar Smith",
-   "age": "23",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795739259,
-   "photo": "photos/MKE_SMITH_JACQUES_635750.jpg"
-  },
-  {
-   "key": "MKE_PARKER_APRIL_644525",
-   "name": "April Parker",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795739256,
-   "photo": "photos/MKE_PARKER_APRIL_644525.jpg"
-  },
-  {
-   "key": "MKE_LANE_TYSON_645915",
-   "name": "Tyson Edward Lane",
-   "age": "28",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 4,
-   "ts": 1795739255,
-   "photo": "photos/MKE_LANE_TYSON_645915.jpg"
-  },
-  {
-   "key": "MKE_POWELL_FORLANDO_648518",
-   "name": "Forlando Ernest Powell",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795739253,
-   "photo": "photos/MKE_POWELL_FORLANDO_648518.jpg"
-  },
-  {
-   "key": "RC_ROUSE_DWIGHT_120011076637125",
-   "name": "Dwight D Rouse",
-   "age": "41",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 0,
-   "ts": 1795736875,
-   "photo": "photos/RC_ROUSE_DWIGHT_120011076637125.jpg"
   },
   {
    "key": "MCPARKER_ALESIEA_2026-11-26",
@@ -531,6 +531,72 @@
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CROFT_GREGORY_350154",
+   "name": "Gregory A Croft",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795768266,
+   "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
+  },
+  {
+   "key": "MKE_THORPE_LATASHA_606435",
+   "name": "Latasha Nicole Thorpe",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795768258,
+   "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
+  },
+  {
+   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
+   "name": "Christopher Jason Freeman",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795768240,
+   "photo": null
+  },
+  {
+   "key": "MKE_ALLEN_LAMONT_641356",
+   "name": "Lamont Romell Allen",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795768235,
+   "photo": null
+  },
+  {
+   "key": "MKE_CELSULA_BRUNO_648519",
+   "name": "Bruno D Celsula",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795768229,
+   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
+  },
+  {
+   "key": "KEN_SHERWIN_JAMES_2026-00006513",
+   "name": "James Edward Sherwin",
+   "age": "55",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795766501,
+   "photo": "photos/KEN_SHERWIN_JAMES_2026-00006513.jpg"
+  },
   {
    "key": "GERHARDT_KENNETH_2026-11-27",
    "name": "Kenneth J Gerhardt",
@@ -4050,17 +4116,6 @@
    "more": 1,
    "ts": 1795508893,
    "photo": "photos/MKE_LIGON_JAMES_173203.jpg"
-  },
-  {
-   "key": "DOU_WITZKE_NICHOLAS_2026-11-24",
-   "name": "Nicholas J Witzke",
-   "age": "45",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795508273,
-   "photo": "photos/DOU_WITZKE_NICHOLAS_2026-11-24.jpg"
   },
   {
    "key": "MAR_GULDAN_NICHOLAS_2026-11-24",
