@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-27T09:49:43+00:00",
+ "updated": "2026-11-27T10:49:33+00:00",
  "items": [
+  {
+   "key": "MKE_CROFT_GREGORY_350154",
+   "name": "Gregory A Croft",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795773619,
+   "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
+  },
+  {
+   "key": "MKE_OFFICE_MICHAEL_356657",
+   "name": "Michael Maurice Office",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795773609,
+   "photo": null
+  },
+  {
+   "key": "MKE_THORPE_LATASHA_606435",
+   "name": "Latasha Nicole Thorpe",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795773606,
+   "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
+  },
+  {
+   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
+   "name": "Christopher Jason Freeman",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795773598,
+   "photo": "photos/MKE_FREEMAN_CHRISTOPHER_621598.jpg"
+  },
+  {
+   "key": "MKE_ALLEN_LAMONT_641356",
+   "name": "Lamont Romell Allen",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795773592,
+   "photo": "photos/MKE_ALLEN_LAMONT_641356.jpg"
+  },
+  {
+   "key": "MKE_CELSULA_BRUNO_648519",
+   "name": "Bruno D Celsula",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795773587,
+   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
+  },
+  {
+   "key": "MAR_FELIPEGALLARDO_KELI_2026-11-27",
+   "name": "Keli Felipe-Gallardo",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 1st",
+   "more": 0,
+   "ts": 1795773222,
+   "photo": "photos/MAR_FELIPEGALLARDO_KELI_2026-11-27.jpg"
+  },
+  {
+   "key": "KEN_HOVEY_PATRICIA_2026-00006518",
+   "name": "Patricia Ann Hovey",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Open intoxicant prohibited",
+   "more": 1,
+   "ts": 1795773208,
+   "photo": null
+  },
   {
    "key": "RC_JOHNSON_SHAVEZE_120011076645483",
    "name": "Shaveze Messiah Johnson",
@@ -22,61 +110,6 @@
    "more": 2,
    "ts": 1795772960,
    "photo": "photos/RC_TOWNSEND_JOSEPH_120011076645776.jpg"
-  },
-  {
-   "key": "MKE_CROFT_GREGORY_350154",
-   "name": "Gregory A Croft",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795771804,
-   "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
-  },
-  {
-   "key": "MKE_THORPE_LATASHA_606435",
-   "name": "Latasha Nicole Thorpe",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795771794,
-   "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
-  },
-  {
-   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
-   "name": "Christopher Jason Freeman",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795771782,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALLEN_LAMONT_641356",
-   "name": "Lamont Romell Allen",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795771774,
-   "photo": null
-  },
-  {
-   "key": "MKE_CELSULA_BRUNO_648519",
-   "name": "Bruno D Celsula",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795771767,
-   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
   },
   {
    "key": "KEN_RUIZPEREZ_JOSE_2026-00006514",
@@ -211,17 +244,6 @@
    "photo": "photos/RC_MOORE_DEMARKUS_120011076640708.jpg"
   },
   {
-   "key": "RC_ELAYAN_MAHMOUD_120011076640761",
-   "name": "Mahmoud T Elayan",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession Of Cocaine",
-   "more": 2,
-   "ts": 1795751317,
-   "photo": null
-  },
-  {
    "key": "SNYDER_JOSHUA_2026-11-26",
    "name": "Joshua A Snyder",
    "age": "42",
@@ -231,17 +253,6 @@
    "more": 3,
    "ts": 1795751246,
    "photo": null
-  },
-  {
-   "key": "MKE_WILSONPRICE_SHARON_639938",
-   "name": "Sharon Elaine Wilson-Price",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Trespass-Buildings/Premises",
-   "more": 3,
-   "ts": 1795750065,
-   "photo": "photos/MKE_WILSONPRICE_SHARON_639938.jpg"
   },
   {
    "key": "OLSEN_ANDREW_2026-11-26",
@@ -517,20 +528,97 @@
    "more": 0,
    "ts": 1795668880,
    "photo": "photos/MAR_MALLUM_MICHAEL_2026-11-25.jpg"
-  },
-  {
-   "key": "MAR_GARINGER_DARCIA_2026-11-25_3999605",
-   "name": "Darcia Lynn Garinger",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1795668842,
-   "photo": "photos/MAR_GARINGER_DARCIA_2026-11-25_3999605.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_CROFT_GREGORY_350154",
+   "name": "Gregory A Croft",
+   "age": "59",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795773619,
+   "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
+  },
+  {
+   "key": "MKE_OFFICE_MICHAEL_356657",
+   "name": "Michael Maurice Office",
+   "age": "38",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795773609,
+   "photo": null
+  },
+  {
+   "key": "MKE_THORPE_LATASHA_606435",
+   "name": "Latasha Nicole Thorpe",
+   "age": "40",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795773606,
+   "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
+  },
+  {
+   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
+   "name": "Christopher Jason Freeman",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795773598,
+   "photo": "photos/MKE_FREEMAN_CHRISTOPHER_621598.jpg"
+  },
+  {
+   "key": "MKE_ALLEN_LAMONT_641356",
+   "name": "Lamont Romell Allen",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795773592,
+   "photo": "photos/MKE_ALLEN_LAMONT_641356.jpg"
+  },
+  {
+   "key": "MKE_CELSULA_BRUNO_648519",
+   "name": "Bruno D Celsula",
+   "age": "31",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795773587,
+   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
+  },
+  {
+   "key": "MAR_FELIPEGALLARDO_KELI_2026-11-27",
+   "name": "Keli Felipe-Gallardo",
+   "age": "35",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Operating While Under the Influence 1st",
+   "more": 0,
+   "ts": 1795773222,
+   "photo": "photos/MAR_FELIPEGALLARDO_KELI_2026-11-27.jpg"
+  },
+  {
+   "key": "KEN_HOVEY_PATRICIA_2026-00006518",
+   "name": "Patricia Ann Hovey",
+   "age": "41",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Open intoxicant prohibited",
+   "more": 1,
+   "ts": 1795773208,
+   "photo": null
+  },
   {
    "key": "RC_JOHNSON_SHAVEZE_120011076645483",
    "name": "Shaveze Messiah Johnson",
@@ -552,61 +640,6 @@
    "more": 2,
    "ts": 1795772960,
    "photo": "photos/RC_TOWNSEND_JOSEPH_120011076645776.jpg"
-  },
-  {
-   "key": "MKE_CROFT_GREGORY_350154",
-   "name": "Gregory A Croft",
-   "age": "59",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795771804,
-   "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
-  },
-  {
-   "key": "MKE_THORPE_LATASHA_606435",
-   "name": "Latasha Nicole Thorpe",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795771794,
-   "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
-  },
-  {
-   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
-   "name": "Christopher Jason Freeman",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795771782,
-   "photo": null
-  },
-  {
-   "key": "MKE_ALLEN_LAMONT_641356",
-   "name": "Lamont Romell Allen",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795771774,
-   "photo": null
-  },
-  {
-   "key": "MKE_CELSULA_BRUNO_648519",
-   "name": "Bruno D Celsula",
-   "age": "31",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795771767,
-   "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
   },
   {
    "key": "KEN_RUIZPEREZ_JOSE_2026-00006514",
