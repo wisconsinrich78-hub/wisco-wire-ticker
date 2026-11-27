@@ -1,13 +1,68 @@
 {
- "updated": "2026-11-27T04:48:56+00:00",
+ "updated": "2026-11-27T05:49:28+00:00",
  "items": [
+  {
+   "key": "MKE_WILLIAMS_ODELL_245634",
+   "name": "Odell Ramone Williams",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1795757251,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_KEVIN_389564",
+   "name": "Kevin L Lee",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795757250,
+   "photo": null
+  },
+  {
+   "key": "DOU_KASENO_LEO_2026-11-26",
+   "name": "Leo G Kaseno",
+   "age": "46",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Bail Jumping",
+   "more": 0,
+   "ts": 1795756585,
+   "photo": "photos/DOU_KASENO_LEO_2026-11-26.jpg"
+  },
+  {
+   "key": "FDL_BALDERAS_MARTINA_2026-11-26",
+   "name": "Martina Marie Balderas",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795756561,
+   "photo": "photos/FDL_BALDERAS_MARTINA_2026-11-26.jpg"
+  },
+  {
+   "key": "MKE_WALLS_AMAREON_621904",
+   "name": "Amareon Terrell Walls",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795755449,
+   "photo": null
+  },
   {
    "key": "RC_PRICE_SHANTELL_120011076641650",
    "name": "Shantell Vondae Price",
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795754896,
    "photo": "photos/RC_PRICE_SHANTELL_120011076641650.jpg"
@@ -222,28 +277,6 @@
    "photo": "photos/RC_ROUSE_DWIGHT_120011076637125.jpg"
   },
   {
-   "key": "MKE_GUY_JOHN_378618",
-   "name": "John Marcus Guy",
-   "age": "36",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795735652,
-   "photo": "photos/MKE_GUY_JOHN_378618.jpg"
-  },
-  {
-   "key": "MKE_FREEMAN_FOREST_541929",
-   "name": "Forest Carter Freeman",
-   "age": "55",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795735650,
-   "photo": "photos/MKE_FREEMAN_FOREST_541929.jpg"
-  },
-  {
    "key": "MCPARKER_ALESIEA_2026-11-26",
    "name": "Alesiea R Mcparker",
    "age": "18",
@@ -264,17 +297,6 @@
    "more": 0,
    "ts": 1795735003,
    "photo": null
-  },
-  {
-   "key": "MKE_NAVARRETE_ADRIAN_645222",
-   "name": "Adrian Navarrete",
-   "age": "29",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Failure to Support",
-   "more": 1,
-   "ts": 1795733847,
-   "photo": "photos/MKE_NAVARRETE_ADRIAN_645222.jpg"
   },
   {
    "key": "FDL_MAHMUDI_RAHEEM_2026-11-26",
@@ -506,38 +528,71 @@
    "more": 2,
    "ts": 1795666596,
    "photo": null
-  },
-  {
-   "key": "JOHNSON_ZACHARY_2026-11-25",
-   "name": "Zachary Christian Johnson",
-   "age": "25",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795659810,
-   "photo": null
-  },
-  {
-   "key": "MAR_GARINGER_DARCIA_2026-11-25",
-   "name": "Darcia Lynn Garinger",
-   "age": "63",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Battery - Simple Assault",
-   "more": 3,
-   "ts": 1795657999,
-   "photo": "photos/MAR_GARINGER_DARCIA_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MKE_WILLIAMS_ODELL_245634",
+   "name": "Odell Ramone Williams",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 8,
+   "ts": 1795757251,
+   "photo": null
+  },
+  {
+   "key": "MKE_LEE_KEVIN_389564",
+   "name": "Kevin L Lee",
+   "age": "37",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795757250,
+   "photo": null
+  },
+  {
+   "key": "DOU_KASENO_LEO_2026-11-26",
+   "name": "Leo G Kaseno",
+   "age": "46",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Bail Jumping",
+   "more": 0,
+   "ts": 1795756585,
+   "photo": "photos/DOU_KASENO_LEO_2026-11-26.jpg"
+  },
+  {
+   "key": "FDL_BALDERAS_MARTINA_2026-11-26",
+   "name": "Martina Marie Balderas",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795756561,
+   "photo": "photos/FDL_BALDERAS_MARTINA_2026-11-26.jpg"
+  },
+  {
+   "key": "MKE_WALLS_AMAREON_621904",
+   "name": "Amareon Terrell Walls",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795755449,
+   "photo": null
+  },
   {
    "key": "RC_PRICE_SHANTELL_120011076641650",
    "name": "Shantell Vondae Price",
    "age": "40",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
    "more": 0,
    "ts": 1795754896,
    "photo": "photos/RC_PRICE_SHANTELL_120011076641650.jpg"
