@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T08:49:32+00:00",
+ "updated": "2026-11-27T09:49:43+00:00",
  "items": [
+  {
+   "key": "RC_JOHNSON_SHAVEZE_120011076645483",
+   "name": "Shaveze Messiah Johnson",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795772968,
+   "photo": "photos/RC_JOHNSON_SHAVEZE_120011076645483.jpg"
+  },
+  {
+   "key": "RC_TOWNSEND_JOSEPH_120011076645776",
+   "name": "Joseph Lee Townsend",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1795772960,
+   "photo": "photos/RC_TOWNSEND_JOSEPH_120011076645776.jpg"
+  },
   {
    "key": "MKE_CROFT_GREGORY_350154",
    "name": "Gregory A Croft",
@@ -9,7 +31,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 3,
-   "ts": 1795768266,
+   "ts": 1795771804,
    "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
   },
   {
@@ -20,7 +42,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 1,
-   "ts": 1795768258,
+   "ts": 1795771794,
    "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
   },
   {
@@ -31,7 +53,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 2,
-   "ts": 1795768240,
+   "ts": 1795771782,
    "photo": null
   },
   {
@@ -42,7 +64,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 2,
-   "ts": 1795768235,
+   "ts": 1795771774,
    "photo": null
   },
   {
@@ -53,8 +75,19 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 0,
-   "ts": 1795768229,
+   "ts": 1795771767,
    "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
+  },
+  {
+   "key": "KEN_RUIZPEREZ_JOSE_2026-00006514",
+   "name": "Jose Francisco Ruiz-Perez",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795769691,
+   "photo": "photos/KEN_RUIZPEREZ_JOSE_2026-00006514.jpg"
   },
   {
    "key": "KEN_SHERWIN_JAMES_2026-00006513",
@@ -220,39 +253,6 @@
    "more": 1,
    "ts": 1795749810,
    "photo": "photos/OLSEN_ANDREW_2026-11-26.jpg"
-  },
-  {
-   "key": "RC_PHILLIPS_PASHAWN_120011076639406",
-   "name": "Pashawn U Phillips",
-   "age": "19",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795747696,
-   "photo": null
-  },
-  {
-   "key": "RC_PHILLIPS_TARRIAH_120011076639449",
-   "name": "Tarriah Artamiece Phillips",
-   "age": "18",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795747692,
-   "photo": null
-  },
-  {
-   "key": "MKE_EDWARDS_OLIVER_2018642",
-   "name": "Oliver Conrad Edwards",
-   "age": "53",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 8,
-   "ts": 1795746455,
-   "photo": "photos/MKE_EDWARDS_OLIVER_2018642.jpg"
   },
   {
    "key": "DOU_CROWE_WENDELL_2026-11-26",
@@ -532,6 +532,28 @@
  ],
  "all_items": [
   {
+   "key": "RC_JOHNSON_SHAVEZE_120011076645483",
+   "name": "Shaveze Messiah Johnson",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795772968,
+   "photo": "photos/RC_JOHNSON_SHAVEZE_120011076645483.jpg"
+  },
+  {
+   "key": "RC_TOWNSEND_JOSEPH_120011076645776",
+   "name": "Joseph Lee Townsend",
+   "age": "54",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Bail Jumping-Misdemeanor",
+   "more": 2,
+   "ts": 1795772960,
+   "photo": "photos/RC_TOWNSEND_JOSEPH_120011076645776.jpg"
+  },
+  {
    "key": "MKE_CROFT_GREGORY_350154",
    "name": "Gregory A Croft",
    "age": "59",
@@ -539,7 +561,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 3,
-   "ts": 1795768266,
+   "ts": 1795771804,
    "photo": "photos/MKE_CROFT_GREGORY_350154.jpg"
   },
   {
@@ -550,7 +572,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 1,
-   "ts": 1795768258,
+   "ts": 1795771794,
    "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
   },
   {
@@ -561,7 +583,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 2,
-   "ts": 1795768240,
+   "ts": 1795771782,
    "photo": null
   },
   {
@@ -572,7 +594,7 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 2,
-   "ts": 1795768235,
+   "ts": 1795771774,
    "photo": null
   },
   {
@@ -583,8 +605,19 @@
    "region": "southeast",
    "charge": "Charges Pending",
    "more": 0,
-   "ts": 1795768229,
+   "ts": 1795771767,
    "photo": "photos/MKE_CELSULA_BRUNO_648519.jpg"
+  },
+  {
+   "key": "KEN_RUIZPEREZ_JOSE_2026-00006514",
+   "name": "Jose Francisco Ruiz-Perez",
+   "age": "31",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795769691,
+   "photo": "photos/KEN_RUIZPEREZ_JOSE_2026-00006514.jpg"
   },
   {
    "key": "KEN_SHERWIN_JAMES_2026-00006513",
