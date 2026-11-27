@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T04:28:59+00:00",
+ "updated": "2026-11-27T04:48:56+00:00",
  "items": [
+  {
+   "key": "RC_PRICE_SHANTELL_120011076641650",
+   "name": "Shantell Vondae Price",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795754896,
+   "photo": "photos/RC_PRICE_SHANTELL_120011076641650.jpg"
+  },
   {
    "key": "DOU_MURPHY_MICHAEL_2026-11-26",
    "name": "Michael J Murphy",
@@ -29,8 +40,8 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Cocaine",
+   "more": 2,
    "ts": 1795751317,
    "photo": null
   },
@@ -310,17 +321,6 @@
    "photo": null
   },
   {
-   "key": "MKE_CLARK_COREY_648516",
-   "name": "Corey E Clark",
-   "age": "32",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operating w/ PAC (2nd)",
-   "more": 2,
-   "ts": 1795717651,
-   "photo": "photos/MKE_CLARK_COREY_648516.jpg"
-  },
-  {
    "key": "DOU_FISK_HUNTER_2026-11-26",
    "name": "Hunter B Fisk",
    "age": "24",
@@ -532,6 +532,17 @@
  ],
  "all_items": [
   {
+   "key": "RC_PRICE_SHANTELL_120011076641650",
+   "name": "Shantell Vondae Price",
+   "age": "40",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795754896,
+   "photo": "photos/RC_PRICE_SHANTELL_120011076641650.jpg"
+  },
+  {
    "key": "DOU_MURPHY_MICHAEL_2026-11-26",
    "name": "Michael J Murphy",
    "age": "61",
@@ -559,8 +570,8 @@
    "age": "32",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Possession Of Cocaine",
+   "more": 2,
    "ts": 1795751317,
    "photo": null
   },
