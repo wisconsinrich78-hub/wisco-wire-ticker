@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T04:11:21+00:00",
+ "updated": "2026-11-27T04:28:59+00:00",
  "items": [
+  {
+   "key": "DOU_MURPHY_MICHAEL_2026-11-26",
+   "name": "Michael J Murphy",
+   "age": "61",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "OWI Alcohol or Drugs",
+   "more": 0,
+   "ts": 1795753291,
+   "photo": "photos/DOU_MURPHY_MICHAEL_2026-11-26.jpg"
+  },
   {
    "key": "RC_MOORE_DEMARKUS_120011076640708",
    "name": "Demarkus Daniel Moore",
@@ -517,20 +528,20 @@
    "more": 3,
    "ts": 1795657999,
    "photo": "photos/MAR_GARINGER_DARCIA_2026-11-25.jpg"
-  },
-  {
-   "key": "KOTEK_SAMUEL_2026-11-25",
-   "name": "Samuel J Kotek",
-   "age": "46",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Burglary",
-   "more": 2,
-   "ts": 1795656201,
-   "photo": "photos/KOTEK_SAMUEL_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "DOU_MURPHY_MICHAEL_2026-11-26",
+   "name": "Michael J Murphy",
+   "age": "61",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "OWI Alcohol or Drugs",
+   "more": 0,
+   "ts": 1795753291,
+   "photo": "photos/DOU_MURPHY_MICHAEL_2026-11-26.jpg"
+  },
   {
    "key": "RC_MOORE_DEMARKUS_120011076640708",
    "name": "Demarkus Daniel Moore",
