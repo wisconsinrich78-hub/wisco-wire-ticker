@@ -1,13 +1,57 @@
 {
- "updated": "2026-11-26T23:49:30+00:00",
+ "updated": "2026-11-27T00:49:30+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_JACQUES_635750",
+   "name": "Jacques Lamar Smith",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795739259,
+   "photo": null
+  },
+  {
+   "key": "MKE_PARKER_APRIL_644525",
+   "name": "April Parker",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795739256,
+   "photo": null
+  },
+  {
+   "key": "MKE_LANE_TYSON_645915",
+   "name": "Tyson Edward Lane",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795739255,
+   "photo": null
+  },
+  {
+   "key": "MKE_POWELL_FORLANDO_648518",
+   "name": "Forlando Ernest Powell",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795739253,
+   "photo": "photos/MKE_POWELL_FORLANDO_648518.jpg"
+  },
   {
    "key": "RC_ROUSE_DWIGHT_120011076637125",
    "name": "Dwight D Rouse",
    "age": "41",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 0,
    "ts": 1795736875,
    "photo": "photos/RC_ROUSE_DWIGHT_120011076637125.jpg"
@@ -21,7 +65,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795735652,
-   "photo": null
+   "photo": "photos/MKE_GUY_JOHN_378618.jpg"
   },
   {
    "key": "MKE_FREEMAN_FOREST_541929",
@@ -29,8 +73,8 @@
    "age": "55",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1795735650,
    "photo": null
   },
@@ -211,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "KEN_ROBERSON_TAMAR_2026-00006511",
-   "name": "Tamar Charmelle Roberson",
-   "age": "33",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "No Parking 4 Ft Ent Alley/Private Road/Driveway",
-   "more": 2,
-   "ts": 1795712090,
-   "photo": "photos/KEN_ROBERSON_TAMAR_2026-00006511.jpg"
-  },
-  {
    "key": "MAR_MALLUM_MICHAEL_2026-11-25_15218807",
    "name": "Michael Joseph Mallum",
    "age": "42",
@@ -244,17 +277,6 @@
    "photo": "photos/MAR_BUKOWSKI_SAMUEL_2026-11-26.jpg"
   },
   {
-   "key": "KEN_PULIZZANO_DAISY_2026-00006510",
-   "name": "Daisy Lynn Pulizzano",
-   "age": "29",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Operating Motor Vehicle W/O Insurance",
-   "more": 11,
-   "ts": 1795712018,
-   "photo": "photos/KEN_PULIZZANO_DAISY_2026-00006510.jpg"
-  },
-  {
    "key": "MAR_LUSIAK_MICHAEL_2026-11-26_17158801",
    "name": "Michael Lusiak",
    "age": "39",
@@ -264,17 +286,6 @@
    "more": 0,
    "ts": 1795711993,
    "photo": "photos/MAR_LUSIAK_MICHAEL_2026-11-26_17158801.jpg"
-  },
-  {
-   "key": "RC_SPEARS_JOSEPH_120011076629688",
-   "name": "Joseph Jerell Spears",
-   "age": "45",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Injunctions for Individuals at Risk - Injunction",
-   "more": 0,
-   "ts": 1795711688,
-   "photo": "photos/RC_SPEARS_JOSEPH_120011076629688.jpg"
   },
   {
    "key": "TREM_BOLTERMAN_ANDREW_2729",
@@ -308,17 +319,6 @@
    "more": 0,
    "ts": 1795711632,
    "photo": "photos/TREM_SVEEN_TREVOR_5886.jpg"
-  },
-  {
-   "key": "MKE_SMITH_MATTIE_322178",
-   "name": "Mattie Mae Smith",
-   "age": "54",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795710481,
-   "photo": "photos/MKE_SMITH_MATTIE_322178.jpg"
   },
   {
    "key": "DOU_NGUYEN_HOANG_2026-11-26",
@@ -532,12 +532,56 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SMITH_JACQUES_635750",
+   "name": "Jacques Lamar Smith",
+   "age": "23",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 1,
+   "ts": 1795739259,
+   "photo": null
+  },
+  {
+   "key": "MKE_PARKER_APRIL_644525",
+   "name": "April Parker",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 2,
+   "ts": 1795739256,
+   "photo": null
+  },
+  {
+   "key": "MKE_LANE_TYSON_645915",
+   "name": "Tyson Edward Lane",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 4,
+   "ts": 1795739255,
+   "photo": null
+  },
+  {
+   "key": "MKE_POWELL_FORLANDO_648518",
+   "name": "Forlando Ernest Powell",
+   "age": "32",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795739253,
+   "photo": "photos/MKE_POWELL_FORLANDO_648518.jpg"
+  },
+  {
    "key": "RC_ROUSE_DWIGHT_120011076637125",
    "name": "Dwight D Rouse",
    "age": "41",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Resisting or Obstructing an Officer",
    "more": 0,
    "ts": 1795736875,
    "photo": "photos/RC_ROUSE_DWIGHT_120011076637125.jpg"
@@ -551,7 +595,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795735652,
-   "photo": null
+   "photo": "photos/MKE_GUY_JOHN_378618.jpg"
   },
   {
    "key": "MKE_FREEMAN_FOREST_541929",
@@ -559,8 +603,8 @@
    "age": "55",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Charges Pending",
+   "more": 2,
    "ts": 1795735650,
    "photo": null
   },
@@ -3887,17 +3931,6 @@
    "photo": null
   },
   {
-   "key": "DOU_WHITE_ROBERT_2026-11-23",
-   "name": "Robert A White",
-   "age": "57",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Trespass of Real Property",
-   "more": 1,
-   "ts": 1795493760,
-   "photo": "photos/DOU_WHITE_ROBERT_2026-11-23.jpg"
-  },
-  {
    "key": "MKE_ZYLKA_BRANDON_623976",
    "name": "Brandon Robert Zylka",
    "age": "47",
@@ -3907,28 +3940,6 @@
    "more": 1,
    "ts": 1795492659,
    "photo": "photos/MKE_ZYLKA_BRANDON_623976.jpg"
-  },
-  {
-   "key": "MKE_COLLINS_KENNETH_645386",
-   "name": "Kenneth Junior Collins",
-   "age": "60",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Bail Jumping-Misdemeanor",
-   "more": 7,
-   "ts": 1795492657,
-   "photo": "photos/MKE_COLLINS_KENNETH_645386.jpg"
-  },
-  {
-   "key": "MCKEETH_REMINGTON_2026-11-23",
-   "name": "Remington K Mckeeth",
-   "age": "22",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795492622,
-   "photo": null
   },
   {
    "key": "MAR_FERNANDEZ_JESUS_2026-11-23",
@@ -3951,28 +3962,6 @@
    "more": 0,
    "ts": 1795490823,
    "photo": null
-  },
-  {
-   "key": "BENOIT_DAMON_2026-11-23",
-   "name": "Damon P Benoit",
-   "age": "26",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795490822,
-   "photo": null
-  },
-  {
-   "key": "FDL_SPRINGER_JESSE_2026-11-23",
-   "name": "Jesse Benjamin Springer",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Writ",
-   "more": 0,
-   "ts": 1795490211,
-   "photo": "photos/FDL_SPRINGER_JESSE_2026-11-23.jpg"
   },
   {
    "key": "KEN_WELLS_CORY_2026-00006477",
@@ -4072,17 +4061,6 @@
    "more": 0,
    "ts": 1795485216,
    "photo": "photos/MAR_CREED_DRAVEN_2026-11-23.jpg"
-  },
-  {
-   "key": "FDL_FITZSIMMONS_KILIAN_2026-11-23",
-   "name": "Kilian Michael Fitzsimmons",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795482974,
-   "photo": "photos/FDL_FITZSIMMONS_KILIAN_2026-11-23.jpg"
   },
   {
    "key": "MKE_STINGLEY_SANTANA_394651",
