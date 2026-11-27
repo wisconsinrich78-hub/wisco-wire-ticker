@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-27T16:49:31+00:00",
+ "updated": "2026-11-27T17:49:36+00:00",
  "items": [
+  {
+   "key": "RC_FOLK_JUSTEN_120011076652140",
+   "name": "Justen William Folk",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795801745,
+   "photo": "photos/RC_FOLK_JUSTEN_120011076652140.jpg"
+  },
+  {
+   "key": "BETZ_MATTHEW_2026-11-27",
+   "name": "Matthew John Betz",
+   "age": "49",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possession of Narcotic Drugs - Heroin",
+   "more": 0,
+   "ts": 1795801639,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRADY_BOBBY_214585",
+   "name": "Bobby Joe Grady",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795800538,
+   "photo": null
+  },
+  {
+   "key": "MKE_KIMBLE_ANIYAH_619621",
+   "name": "Aniyah L Kimble",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795800534,
+   "photo": null
+  },
+  {
+   "key": "DOU_DETLEFSEN_SHAWN_2026-11-27",
+   "name": "Shawn A Detlefsen",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Cont Substance/Possess Cocaine",
+   "more": 1,
+   "ts": 1795799931,
+   "photo": "photos/DOU_DETLEFSEN_SHAWN_2026-11-27.jpg"
+  },
+  {
+   "key": "MAR_LEE_VANG_2026-11-27",
+   "name": "Vang Tong Lee",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795798411,
+   "photo": "photos/MAR_LEE_VANG_2026-11-27.jpg"
+  },
   {
    "key": "RC_GARNICA_JUAN_120011076646593",
    "name": "Juan F Garnica",
@@ -156,17 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_THORPE_LATASHA_606435",
-   "name": "Latasha Nicole Thorpe",
-   "age": "40",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795773606,
-   "photo": "photos/MKE_THORPE_LATASHA_606435.jpg"
-  },
-  {
    "key": "MAR_FELIPEGALLARDO_KELI_2026-11-27",
    "name": "Keli Felipe-Gallardo",
    "age": "35",
@@ -176,28 +231,6 @@
    "more": 0,
    "ts": 1795773222,
    "photo": "photos/MAR_FELIPEGALLARDO_KELI_2026-11-27.jpg"
-  },
-  {
-   "key": "KEN_HOVEY_PATRICIA_2026-00006518",
-   "name": "Patricia Ann Hovey",
-   "age": "41",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Open intoxicant prohibited",
-   "more": 1,
-   "ts": 1795773208,
-   "photo": null
-  },
-  {
-   "key": "RC_JOHNSON_SHAVEZE_120011076645483",
-   "name": "Shaveze Messiah Johnson",
-   "age": "32",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795772968,
-   "photo": "photos/RC_JOHNSON_SHAVEZE_120011076645483.jpg"
   },
   {
    "key": "GERHARDT_KENNETH_2026-11-27",
@@ -495,42 +528,75 @@
    "more": 0,
    "ts": 1795683191,
    "photo": null
-  },
-  {
-   "key": "DEWESTER_ISABELL_2026-11-26",
-   "name": "Isabell A Dewester",
-   "age": "20",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "Battery",
-   "more": 1,
-   "ts": 1795677802,
-   "photo": null
-  },
-  {
-   "key": "FDL_SCHINSKE_ERIC_2026-11-26",
-   "name": "Eric Steven Schinske",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1795677402,
-   "photo": "photos/FDL_SCHINSKE_ERIC_2026-11-26.jpg"
-  },
-  {
-   "key": "NOTH_ZARIA_2026-11-26",
-   "name": "Zaria A Noth",
-   "age": "26",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795675662,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "RC_FOLK_JUSTEN_120011076652140",
+   "name": "Justen William Folk",
+   "age": "25",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795801745,
+   "photo": "photos/RC_FOLK_JUSTEN_120011076652140.jpg"
+  },
+  {
+   "key": "BETZ_MATTHEW_2026-11-27",
+   "name": "Matthew John Betz",
+   "age": "49",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Possession of Narcotic Drugs - Heroin",
+   "more": 0,
+   "ts": 1795801639,
+   "photo": null
+  },
+  {
+   "key": "MKE_GRADY_BOBBY_214585",
+   "name": "Bobby Joe Grady",
+   "age": "54",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795800538,
+   "photo": null
+  },
+  {
+   "key": "MKE_KIMBLE_ANIYAH_619621",
+   "name": "Aniyah L Kimble",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795800534,
+   "photo": null
+  },
+  {
+   "key": "DOU_DETLEFSEN_SHAWN_2026-11-27",
+   "name": "Shawn A Detlefsen",
+   "age": "38",
+   "county": "Douglas County",
+   "region": "northwest",
+   "charge": "Cont Substance/Possess Cocaine",
+   "more": 1,
+   "ts": 1795799931,
+   "photo": "photos/DOU_DETLEFSEN_SHAWN_2026-11-27.jpg"
+  },
+  {
+   "key": "MAR_LEE_VANG_2026-11-27",
+   "name": "Vang Tong Lee",
+   "age": "46",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795798411,
+   "photo": "photos/MAR_LEE_VANG_2026-11-27.jpg"
+  },
   {
    "key": "RC_GARNICA_JUAN_120011076646593",
    "name": "Juan F Garnica",
@@ -746,8 +812,8 @@
    "age": "31",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Hit and Run Property Adjacent to Highway",
+   "more": 7,
    "ts": 1795769691,
    "photo": "photos/KEN_RUIZPEREZ_JOSE_2026-00006514.jpg"
   },
@@ -793,7 +859,7 @@
    "charge": "Charges Pending",
    "more": 8,
    "ts": 1795757251,
-   "photo": null
+   "photo": "photos/MKE_WILLIAMS_ODELL_245634.jpg"
   },
   {
    "key": "MKE_LEE_KEVIN_389564",
@@ -804,7 +870,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795757250,
-   "photo": null
+   "photo": "photos/MKE_LEE_KEVIN_389564.jpg"
   },
   {
    "key": "DOU_KASENO_LEO_2026-11-26",
@@ -837,7 +903,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795755449,
-   "photo": null
+   "photo": "photos/MKE_WALLS_AMAREON_621904.jpg"
   },
   {
    "key": "RC_PRICE_SHANTELL_120011076641650",
@@ -3951,17 +4017,6 @@
    "more": 2,
    "ts": 1795541291,
    "photo": "photos/MKE_RANSOM_GAIL_648477.jpg"
-  },
-  {
-   "key": "FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24",
-   "name": "Alfredo J Sanchez Gonzalez",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Warrant",
-   "more": 2,
-   "ts": 1795540621,
-   "photo": "photos/FDL_SANCHEZGONZALEZ_ALFREDO_2026-11-24.jpg"
   },
   {
    "key": "MKE_BRADBERRY_AKEE_621497",
