@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-27T18:49:32+00:00",
+ "updated": "2026-11-27T19:49:33+00:00",
  "items": [
+  {
+   "key": "RC_WATERS_MICHAEL_120011076653699",
+   "name": "Michael E Waters",
+   "age": "64",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795808916,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_QUAYVONNE_614243",
+   "name": "Quayvonne Johnson",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Reckless Homicide",
+   "more": 2,
+   "ts": 1795805886,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARDWRICT_JAYLIN_630248",
+   "name": "Jaylin Tyrone Hardwrict",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resist Officer - Substantial Bodily Harm/Soft Tissue Injury",
+   "more": 3,
+   "ts": 1795805882,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEFF_LEO_2067609",
+   "name": "Leo Arnez Jeff",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Escape-Criminal Arrest",
+   "more": 0,
+   "ts": 1795805879,
+   "photo": null
+  },
+  {
+   "key": "MAR_WINTERS_ALVIS_2026-11-27",
+   "name": "Alvis Charles Winters",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795805603,
+   "photo": "photos/MAR_WINTERS_ALVIS_2026-11-27.jpg"
+  },
   {
    "key": "MKE_HENNINGS_JENAY_386057",
    "name": "Jenay Veejean Hennings",
@@ -51,7 +106,7 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1795802033,
    "photo": "photos/KEN_PETERSON_KAITLEN_2026-00006521.jpg"
@@ -87,7 +142,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795800538,
-   "photo": null
+   "photo": "photos/MKE_GRADY_BOBBY_214585.jpg"
   },
   {
    "key": "MKE_KIMBLE_ANIYAH_619621",
@@ -176,50 +231,6 @@
    "more": 0,
    "ts": 1795796949,
    "photo": "photos/MKE_SANTIAGO_JASMINE_502630.jpg"
-  },
-  {
-   "key": "MKE_GRIMES_LONNETTE_503952",
-   "name": "Lonnette V Grimes",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795796941,
-   "photo": "photos/MKE_GRIMES_LONNETTE_503952.jpg"
-  },
-  {
-   "key": "MKE_FREEMAN_CHRISTOPHER_621598",
-   "name": "Christopher Jason Freeman",
-   "age": "22",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795796936,
-   "photo": "photos/MKE_FREEMAN_CHRISTOPHER_621598.jpg"
-  },
-  {
-   "key": "MKE_CRUZRIVERA_WILLIAM_622840",
-   "name": "William Cruz-Rivera",
-   "age": "51",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795796933,
-   "photo": "photos/MKE_CRUZRIVERA_WILLIAM_622840.jpg"
-  },
-  {
-   "key": "MKE_CARTYLOPEZ_JENSEN_630972",
-   "name": "Jensen O Carty-Lopez",
-   "age": "20",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Material Witness (Prisoner)",
-   "more": 0,
-   "ts": 1795796923,
-   "photo": "photos/MKE_CARTYLOPEZ_JENSEN_630972.jpg"
   },
   {
    "key": "GARDNER_ROBERT_2026-11-27",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1795709818,
    "photo": "photos/DOU_NGUYEN_HOANG_2026-11-26.jpg"
-  },
-  {
-   "key": "HOU_NOVAK_BENEDWARD_6344",
-   "name": "Ben Edward Novak",
-   "age": "39",
-   "county": "Houston County, MN",
-   "region": "southwest",
-   "charge": "DWI - Fourth-Degree Driving While Impaired; D (Book & Release)",
-   "more": 1,
-   "ts": 1795686427,
-   "photo": "photos/HOU_NOVAK_BENEDWARD_6344.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_WATERS_MICHAEL_120011076653699",
+   "name": "Michael E Waters",
+   "age": "64",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct - Causing a Disturbance",
+   "more": 0,
+   "ts": 1795808916,
+   "photo": null
+  },
+  {
+   "key": "MKE_JOHNSON_QUAYVONNE_614243",
+   "name": "Quayvonne Johnson",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "1st-Degree Reckless Homicide",
+   "more": 2,
+   "ts": 1795805886,
+   "photo": null
+  },
+  {
+   "key": "MKE_HARDWRICT_JAYLIN_630248",
+   "name": "Jaylin Tyrone Hardwrict",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Resist Officer - Substantial Bodily Harm/Soft Tissue Injury",
+   "more": 3,
+   "ts": 1795805882,
+   "photo": null
+  },
+  {
+   "key": "MKE_JEFF_LEO_2067609",
+   "name": "Leo Arnez Jeff",
+   "age": "28",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Escape-Criminal Arrest",
+   "more": 0,
+   "ts": 1795805879,
+   "photo": null
+  },
+  {
+   "key": "MAR_WINTERS_ALVIS_2026-11-27",
+   "name": "Alvis Charles Winters",
+   "age": "41",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795805603,
+   "photo": "photos/MAR_WINTERS_ALVIS_2026-11-27.jpg"
+  },
   {
    "key": "MKE_HENNINGS_JENAY_386057",
    "name": "Jenay Veejean Hennings",
@@ -581,7 +636,7 @@
    "age": "28",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Return on Writ",
    "more": 0,
    "ts": 1795802033,
    "photo": "photos/KEN_PETERSON_KAITLEN_2026-00006521.jpg"
@@ -617,7 +672,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795800538,
-   "photo": null
+   "photo": "photos/MKE_GRADY_BOBBY_214585.jpg"
   },
   {
    "key": "MKE_KIMBLE_ANIYAH_619621",
@@ -3896,17 +3951,6 @@
    "more": 0,
    "ts": 1795549631,
    "photo": "photos/CROSBY_RONALD_2026-11-24.jpg"
-  },
-  {
-   "key": "STIKA_DYLAN_2026-11-24",
-   "name": "Dylan E Stika",
-   "age": "34",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795548201,
-   "photo": null
   },
   {
    "key": "MKE_MITCHELL_DARNELL_295993",
@@ -18020,17 +18064,6 @@
    "more": 0,
    "ts": 1794509281,
    "photo": "photos/RC_WALRUP_JOHNNY_120011076212530.jpg"
-  },
-  {
-   "key": "RC_COPPENS_CHARLES_120011076212852",
-   "name": "Charles Coppens",
-   "age": "65",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794509277,
-   "photo": null
   },
   {
    "key": "HISTER_DOMINIQUE_2026-11-12",
