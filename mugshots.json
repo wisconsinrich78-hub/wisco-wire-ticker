@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-27T02:49:30+00:00",
+ "updated": "2026-11-27T03:49:33+00:00",
  "items": [
+  {
+   "key": "RC_MOORE_DEMARKUS_120011076640708",
+   "name": "Demarkus Daniel Moore",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795751322,
+   "photo": "photos/RC_MOORE_DEMARKUS_120011076640708.jpg"
+  },
+  {
+   "key": "RC_ELAYAN_MAHMOUD_120011076640761",
+   "name": "Mahmoud T Elayan",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795751317,
+   "photo": null
+  },
+  {
+   "key": "SNYDER_JOSHUA_2026-11-26",
+   "name": "Joshua A Snyder",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1795751246,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILSONPRICE_SHARON_639938",
+   "name": "Sharon Elaine Wilson-Price",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Trespass-Buildings/Premises",
+   "more": 3,
+   "ts": 1795750065,
+   "photo": null
+  },
+  {
+   "key": "OLSEN_ANDREW_2026-11-26",
+   "name": "Andrew R Olsen",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Theft >$2,500-$5,000",
+   "more": 1,
+   "ts": 1795749810,
+   "photo": null
+  },
   {
    "key": "RC_PHILLIPS_PASHAWN_120011076639406",
    "name": "Pashawn U Phillips",
@@ -30,9 +85,9 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 6,
+   "more": 8,
    "ts": 1795746455,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_OLIVER_2018642.jpg"
   },
   {
    "key": "DOU_CROWE_WENDELL_2026-11-26",
@@ -255,17 +310,6 @@
    "photo": "photos/MKE_CLARK_COREY_648516.jpg"
   },
   {
-   "key": "MKE_HERRERA_MARIADELCARMAN_648517",
-   "name": "Maria Del Carman Alanis Herrera",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 3,
-   "ts": 1795717649,
-   "photo": "photos/MKE_HERRERA_MARIADELCARMAN_648517.jpg"
-  },
-  {
    "key": "DOU_FISK_HUNTER_2026-11-26",
    "name": "Hunter B Fisk",
    "age": "24",
@@ -275,28 +319,6 @@
    "more": 0,
    "ts": 1795717008,
    "photo": "photos/DOU_FISK_HUNTER_2026-11-26.jpg"
-  },
-  {
-   "key": "MKE_STEVENSON_ROBERT_643774",
-   "name": "Robert S Stevenson",
-   "age": "41",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Operate with Restricted Controlled Substance (2nd)",
-   "more": 6,
-   "ts": 1795714054,
-   "photo": "photos/MKE_STEVENSON_ROBERT_643774.jpg"
-  },
-  {
-   "key": "MKE_CURTIS_ROLEXSEA_647170",
-   "name": "Rolexsea W Curtis",
-   "age": "26",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 2,
-   "ts": 1795714052,
-   "photo": "photos/MKE_CURTIS_ROLEXSEA_647170.jpg"
   },
   {
    "key": "MAR_MALLUM_MICHAEL_2026-11-25_15218807",
@@ -506,31 +528,64 @@
    "more": 2,
    "ts": 1795656201,
    "photo": "photos/KOTEK_SAMUEL_2026-11-25.jpg"
-  },
-  {
-   "key": "MAR_WILSON_NICKOLAS_2026-11-25_17158702",
-   "name": "Nickolas Paul Wilson",
-   "age": "42",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Use a Computer to Facilitate a Child Sex Crime",
-   "more": 1,
-   "ts": 1795649744,
-   "photo": null
-  },
-  {
-   "key": "MAR_VUE_NENG_2026-11-25_2550310",
-   "name": "Neng Vue",
-   "age": "34",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795649712,
-   "photo": "photos/MAR_VUE_NENG_2026-11-25_2550310.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_MOORE_DEMARKUS_120011076640708",
+   "name": "Demarkus Daniel Moore",
+   "age": "35",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795751322,
+   "photo": "photos/RC_MOORE_DEMARKUS_120011076640708.jpg"
+  },
+  {
+   "key": "RC_ELAYAN_MAHMOUD_120011076640761",
+   "name": "Mahmoud T Elayan",
+   "age": "32",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795751317,
+   "photo": null
+  },
+  {
+   "key": "SNYDER_JOSHUA_2026-11-26",
+   "name": "Joshua A Snyder",
+   "age": "42",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Bail Jumping-Felony",
+   "more": 3,
+   "ts": 1795751246,
+   "photo": null
+  },
+  {
+   "key": "MKE_WILSONPRICE_SHARON_639938",
+   "name": "Sharon Elaine Wilson-Price",
+   "age": "22",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Trespass-Buildings/Premises",
+   "more": 3,
+   "ts": 1795750065,
+   "photo": null
+  },
+  {
+   "key": "OLSEN_ANDREW_2026-11-26",
+   "name": "Andrew R Olsen",
+   "age": "27",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Theft >$2,500-$5,000",
+   "more": 1,
+   "ts": 1795749810,
+   "photo": null
+  },
   {
    "key": "RC_PHILLIPS_PASHAWN_120011076639406",
    "name": "Pashawn U Phillips",
@@ -560,9 +615,9 @@
    "county": "Milwaukee County",
    "region": "southeast",
    "charge": "Charges Pending",
-   "more": 6,
+   "more": 8,
    "ts": 1795746455,
-   "photo": null
+   "photo": "photos/MKE_EDWARDS_OLIVER_2018642.jpg"
   },
   {
    "key": "DOU_CROWE_WENDELL_2026-11-26",
