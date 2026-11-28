@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-28T03:49:31+00:00",
+ "updated": "2026-11-28T04:07:55+00:00",
  "items": [
+  {
+   "key": "MKE_SMITH_WALTER_628598",
+   "name": "Walter Louis Smith",
+   "age": "73",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795838286,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOEFFEL_JACK_641652",
+   "name": "Jack Henry Hoeffel",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795838280,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTRORAMIREZ_JOSE_648528",
+   "name": "Jose Castro Ramirez",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795838276,
+   "photo": null
+  },
   {
    "key": "RC_OLDCOYOTE_MARCOANTONIO_120011076660093",
    "name": "Marco-Antonio Jose Oldcoyote",
@@ -128,8 +161,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1795834473,
    "photo": "photos/KEN_EDWARDS_JENNIFER_2026-00006525.jpg"
   },
@@ -244,17 +277,6 @@
    "photo": "photos/MKE_VIVERETTE_CURTIS_631783.jpg"
   },
   {
-   "key": "MKE_DIGGS_ASHANTEE_648523",
-   "name": "Ashantee Alandria Diggs",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795825704,
-   "photo": null
-  },
-  {
    "key": "FDL_DAVIS_DERRICK_2026-11-27",
    "name": "Derrick Deonte Davis",
    "age": "",
@@ -275,28 +297,6 @@
    "more": 0,
    "ts": 1795824978,
    "photo": "photos/FDL_COOK_TAKARIE_2026-11-27.jpg"
-  },
-  {
-   "key": "MKE_MORENO_SHANE_385130",
-   "name": "Shane Alexander Moreno",
-   "age": "35",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Resisting or Obstructing an Officer",
-   "more": 4,
-   "ts": 1795822100,
-   "photo": null
-  },
-  {
-   "key": "MKE_DAVISMOORE_MILANA_643052",
-   "name": "Milana Unique Davis-Moore",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 3,
-   "ts": 1795822094,
-   "photo": "photos/MKE_DAVISMOORE_MILANA_643052.jpg"
   },
   {
    "key": "FDL_TEGROOTENHUIS_JULIE_2026-11-27",
@@ -532,6 +532,39 @@
  ],
  "all_items": [
   {
+   "key": "MKE_SMITH_WALTER_628598",
+   "name": "Walter Louis Smith",
+   "age": "73",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1795838286,
+   "photo": null
+  },
+  {
+   "key": "MKE_HOEFFEL_JACK_641652",
+   "name": "Jack Henry Hoeffel",
+   "age": "25",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795838280,
+   "photo": null
+  },
+  {
+   "key": "MKE_CASTRORAMIREZ_JOSE_648528",
+   "name": "Jose Castro Ramirez",
+   "age": "48",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795838276,
+   "photo": null
+  },
+  {
    "key": "RC_OLDCOYOTE_MARCOANTONIO_120011076660093",
    "name": "Marco-Antonio Jose Oldcoyote",
    "age": "27",
@@ -658,8 +691,8 @@
    "age": "34",
    "county": "Kenosha County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 2,
    "ts": 1795834473,
    "photo": "photos/KEN_EDWARDS_JENNIFER_2026-00006525.jpg"
   },
