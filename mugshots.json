@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-28T05:33:49+00:00",
+ "updated": "2026-11-28T05:49:34+00:00",
  "items": [
+  {
+   "key": "HAGEN_ZACHARIAH_2026-11-27",
+   "name": "Zachariah J Hagen",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795844835,
+   "photo": null
+  },
   {
    "key": "MKE_FOSTER_TRAVON_648530",
    "name": "Travon Foster",
@@ -40,7 +51,7 @@
    "age": "54",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of a Controlled Substance (Other than a Schedule I or II\u2026",
    "more": 0,
    "ts": 1795841326,
    "photo": null
@@ -51,8 +62,8 @@
    "age": "25",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Distribute/Deliver Drugs within 1000 Ft of a Jail",
+   "more": 6,
    "ts": 1795841323,
    "photo": "photos/RC_PERSON_DEONTE_120011076662145.jpg"
   },
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795796612,
    "photo": null
-  },
-  {
-   "key": "MAR_FELIPEGALLARDO_KELI_2026-11-27",
-   "name": "Keli Felipe-Gallardo",
-   "age": "35",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Operating While Under the Influence 1st",
-   "more": 0,
-   "ts": 1795773222,
-   "photo": "photos/MAR_FELIPEGALLARDO_KELI_2026-11-27.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "HAGEN_ZACHARIAH_2026-11-27",
+   "name": "Zachariah J Hagen",
+   "age": "29",
+   "county": "La Crosse County",
+   "region": "southwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795844835,
+   "photo": null
+  },
   {
    "key": "MKE_FOSTER_TRAVON_648530",
    "name": "Travon Foster",
@@ -570,7 +581,7 @@
    "age": "54",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Possession of a Controlled Substance (Other than a Schedule I or II\u2026",
    "more": 0,
    "ts": 1795841326,
    "photo": null
@@ -581,8 +592,8 @@
    "age": "25",
    "county": "Racine County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Distribute/Deliver Drugs within 1000 Ft of a Jail",
+   "more": 6,
    "ts": 1795841323,
    "photo": "photos/RC_PERSON_DEONTE_120011076662145.jpg"
   },
