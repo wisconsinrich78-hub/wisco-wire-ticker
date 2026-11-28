@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-28T08:49:28+00:00",
+ "updated": "2026-11-28T09:49:27+00:00",
  "items": [
+  {
+   "key": "RC_JONES_FAIRLEIGH_120011076665801",
+   "name": "Fairleigh AUSBORN Jones",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795859269,
+   "photo": "photos/RC_JONES_FAIRLEIGH_120011076665801.jpg"
+  },
+  {
+   "key": "RC_WIER_JONATHAN_120011076666037",
+   "name": "Jonathan Luc Wier",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795859267,
+   "photo": "photos/RC_WIER_JONATHAN_120011076666037.jpg"
+  },
+  {
+   "key": "MKE_GIEGLER_THOMAS_199446",
+   "name": "Thomas Louie Giegler",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795858052,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOOKER_DERRICK_648531",
+   "name": "Derrick Q Booker",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795858050,
+   "photo": null
+  },
+  {
+   "key": "MAR_LUSIAK_MICHAEL_2026-11-26_17158801",
+   "name": "Michael Kenneth Lusiak",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795855996,
+   "photo": "photos/MAR_LUSIAK_MICHAEL_2026-11-26_17158801.jpg"
+  },
+  {
+   "key": "KEN_KENNEDY_ALEXIS_2026-00006530",
+   "name": "Alexis Kennedy",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795855950,
+   "photo": null
+  },
   {
    "key": "RC_MURRY_RUBEN_120011076664832",
    "name": "Ruben J Murry",
@@ -29,7 +95,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 0,
    "ts": 1795854452,
    "photo": null
@@ -43,7 +109,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795854450,
-   "photo": null
+   "photo": "photos/MKE_TURNER_JAMORIAN_648532.jpg"
   },
   {
    "key": "MKE_JOHNSON_LAURA_355558",
@@ -145,17 +211,6 @@
    "photo": "photos/KEN_HILL_ONNYX_2026-00006526.jpg"
   },
   {
-   "key": "KEN_DION_RUSS_2026-00006528",
-   "name": "Russ H Dion",
-   "age": "42",
-   "county": "Kenosha County",
-   "region": "southeast",
-   "charge": "Possession of Drug Paraphernalia",
-   "more": 1,
-   "ts": 1795845230,
-   "photo": "photos/KEN_DION_RUSS_2026-00006528.jpg"
-  },
-  {
    "key": "HAGEN_ZACHARIAH_2026-11-27",
    "name": "Zachariah J Hagen",
    "age": "29",
@@ -167,17 +222,6 @@
    "photo": null
   },
   {
-   "key": "MKE_FOSTER_TRAVON_648530",
-   "name": "Travon Foster",
-   "age": "25",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795843685,
-   "photo": "photos/MKE_FOSTER_TRAVON_648530.jpg"
-  },
-  {
    "key": "DOU_ONEILL_COLTON_2026-11-27",
    "name": "Colton T Oneill",
    "age": "35",
@@ -187,39 +231,6 @@
    "more": 0,
    "ts": 1795843055,
    "photo": "photos/DOU_ONEILL_COLTON_2026-11-27.jpg"
-  },
-  {
-   "key": "MKE_KILBERT_DENIM_648529",
-   "name": "Denim Kilbert",
-   "age": "24",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795841871,
-   "photo": "photos/MKE_KILBERT_DENIM_648529.jpg"
-  },
-  {
-   "key": "RC_REVELESVARGAS_JACOBO_120011076661499",
-   "name": "Jacobo Reveles VARGAS",
-   "age": "54",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Possession of a Controlled Substance (Other than a Schedule I or II\u2026",
-   "more": 0,
-   "ts": 1795841326,
-   "photo": null
-  },
-  {
-   "key": "RC_PERSON_DEONTE_120011076662145",
-   "name": "Deonte L Person",
-   "age": "25",
-   "county": "Racine County",
-   "region": "southeast",
-   "charge": "Distribute/Deliver Drugs within 1000 Ft of a Jail",
-   "more": 6,
-   "ts": 1795841323,
-   "photo": "photos/RC_PERSON_DEONTE_120011076662145.jpg"
   },
   {
    "key": "LEVI_VLADIMIR_2026-11-27",
@@ -517,20 +528,75 @@
    "more": 0,
    "ts": 1795801639,
    "photo": null
-  },
-  {
-   "key": "DOU_DETLEFSEN_SHAWN_2026-11-27",
-   "name": "Shawn A Detlefsen",
-   "age": "38",
-   "county": "Douglas County",
-   "region": "northwest",
-   "charge": "Cont Substance/Possess Cocaine",
-   "more": 1,
-   "ts": 1795799931,
-   "photo": "photos/DOU_DETLEFSEN_SHAWN_2026-11-27.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "RC_JONES_FAIRLEIGH_120011076665801",
+   "name": "Fairleigh AUSBORN Jones",
+   "age": "49",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795859269,
+   "photo": "photos/RC_JONES_FAIRLEIGH_120011076665801.jpg"
+  },
+  {
+   "key": "RC_WIER_JONATHAN_120011076666037",
+   "name": "Jonathan Luc Wier",
+   "age": "31",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795859267,
+   "photo": "photos/RC_WIER_JONATHAN_120011076666037.jpg"
+  },
+  {
+   "key": "MKE_GIEGLER_THOMAS_199446",
+   "name": "Thomas Louie Giegler",
+   "age": "60",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 3,
+   "ts": 1795858052,
+   "photo": null
+  },
+  {
+   "key": "MKE_BOOKER_DERRICK_648531",
+   "name": "Derrick Q Booker",
+   "age": "20",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795858050,
+   "photo": null
+  },
+  {
+   "key": "MAR_LUSIAK_MICHAEL_2026-11-26_17158801",
+   "name": "Michael Kenneth Lusiak",
+   "age": "39",
+   "county": "Marathon County",
+   "region": "northwest",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1795855996,
+   "photo": "photos/MAR_LUSIAK_MICHAEL_2026-11-26_17158801.jpg"
+  },
+  {
+   "key": "KEN_KENNEDY_ALEXIS_2026-00006530",
+   "name": "Alexis Kennedy",
+   "age": "21",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795855950,
+   "photo": null
+  },
   {
    "key": "RC_MURRY_RUBEN_120011076664832",
    "name": "Ruben J Murry",
@@ -559,7 +625,7 @@
    "age": "26",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
+   "charge": "Operate w/o Valid License (3rd+ w/in 3Yrs)",
    "more": 0,
    "ts": 1795854452,
    "photo": null
@@ -573,7 +639,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795854450,
-   "photo": null
+   "photo": "photos/MKE_TURNER_JAMORIAN_648532.jpg"
   },
   {
    "key": "MKE_JOHNSON_LAURA_355558",
@@ -2380,17 +2446,6 @@
    "photo": "photos/KEN_PULIZZANO_DAISY_2026-00006510.jpg"
   },
   {
-   "key": "MAR_LUSIAK_MICHAEL_2026-11-26_17158801",
-   "name": "Michael Lusiak",
-   "age": "39",
-   "county": "Marathon County",
-   "region": "northwest",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795711993,
-   "photo": "photos/MAR_LUSIAK_MICHAEL_2026-11-26_17158801.jpg"
-  },
-  {
    "key": "RC_SPEARS_JOSEPH_120011076629688",
    "name": "Joseph Jerell Spears",
    "age": "45",
@@ -3896,17 +3951,6 @@
    "more": 2,
    "ts": 1795600028,
    "photo": null
-  },
-  {
-   "key": "MKE_ZAMBRANODELGADO_ROSAS_648487",
-   "name": "Rosas Elard Zambrano Delgado",
-   "age": "65",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795598849,
-   "photo": "photos/MKE_ZAMBRANODELGADO_ROSAS_648487.jpg"
   },
   {
    "key": "TRAYWICK_TERRANCE_2026-11-25",
