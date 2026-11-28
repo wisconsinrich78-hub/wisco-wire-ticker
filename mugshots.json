@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-27T23:49:36+00:00",
+ "updated": "2026-11-28T00:49:34+00:00",
  "items": [
+  {
+   "key": "MKE_VIVERETTE_CURTIS_631783",
+   "name": "Curtis Durraund Viverette",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795825705,
+   "photo": null
+  },
+  {
+   "key": "MKE_DIGGS_ASHANTEE_648523",
+   "name": "Ashantee Alandria Diggs",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795825704,
+   "photo": null
+  },
+  {
+   "key": "FDL_DAVIS_DERRICK_2026-11-27",
+   "name": "Derrick Deonte Davis",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Transport - Warrant",
+   "more": 2,
+   "ts": 1795824980,
+   "photo": "photos/FDL_DAVIS_DERRICK_2026-11-27.jpg"
+  },
+  {
+   "key": "FDL_COOK_TAKARIE_2026-11-27",
+   "name": "Takarie Dion Cook",
+   "age": "",
+   "county": "Fond du Lac County",
+   "region": "northeast",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795824978,
+   "photo": "photos/FDL_COOK_TAKARIE_2026-11-27.jpg"
+  },
   {
    "key": "MKE_MORENO_SHANE_385130",
    "name": "Shane Alexander Moreno",
@@ -18,10 +62,10 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 3,
    "ts": 1795822094,
-   "photo": null
+   "photo": "photos/MKE_DAVISMOORE_MILANA_643052.jpg"
   },
   {
    "key": "MKE_CATES_ALLYAH_648522",
@@ -32,7 +76,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795822091,
-   "photo": null
+   "photo": "photos/MKE_CATES_ALLYAH_648522.jpg"
   },
   {
    "key": "FDL_TEGROOTENHUIS_JULIE_2026-11-27",
@@ -84,7 +128,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>15-40g)",
+   "charge": "Party to a Crime",
    "more": 6,
    "ts": 1795816714,
    "photo": null
@@ -252,18 +296,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795811290,
-   "photo": null
-  },
-  {
-   "key": "MKE_ROBINSON_JAVON_648521",
-   "name": "Javon Robinson",
-   "age": "38",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795811287,
-   "photo": "photos/MKE_ROBINSON_JAVON_648521.jpg"
+   "photo": "photos/MKE_TATUM_TRAVON_392089.jpg"
   },
   {
    "key": "SCHOCK_CINDY_2026-11-27",
@@ -286,17 +319,6 @@
    "more": 1,
    "ts": 1795810580,
    "photo": null
-  },
-  {
-   "key": "MKE_WARNE_ELANA_289956",
-   "name": "Elana Christina Warne",
-   "age": "46",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 2,
-   "ts": 1795809505,
-   "photo": "photos/MKE_WARNE_ELANA_289956.jpg"
   },
   {
    "key": "MAR_WINTERS_ALVIS_2026-11-27",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1795735401,
    "photo": null
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MKE_VIVERETTE_CURTIS_631783",
+   "name": "Curtis Durraund Viverette",
+   "age": "21",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 5,
+   "ts": 1795825705,
+   "photo": null
   },
   {
-   "key": "FDL_VANDESTREEK_SCOT_2026-11-26",
-   "name": "Scot Allen Vande Streek",
+   "key": "MKE_DIGGS_ASHANTEE_648523",
+   "name": "Ashantee Alandria Diggs",
+   "age": "24",
+   "county": "Milwaukee County",
+   "region": "southeast",
+   "charge": "Charges Pending",
+   "more": 0,
+   "ts": 1795825704,
+   "photo": null
+  },
+  {
+   "key": "FDL_DAVIS_DERRICK_2026-11-27",
+   "name": "Derrick Deonte Davis",
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
    "charge": "Transport - Warrant",
-   "more": 0,
-   "ts": 1795735003,
-   "photo": null
+   "more": 2,
+   "ts": 1795824980,
+   "photo": "photos/FDL_DAVIS_DERRICK_2026-11-27.jpg"
   },
   {
-   "key": "FDL_MAHMUDI_RAHEEM_2026-11-26",
-   "name": "Raheem Marcil Mahmudi",
+   "key": "FDL_COOK_TAKARIE_2026-11-27",
+   "name": "Takarie Dion Cook",
    "age": "",
    "county": "Fond du Lac County",
    "region": "northeast",
    "charge": "Probation Violation",
    "more": 0,
-   "ts": 1795731381,
-   "photo": "photos/FDL_MAHMUDI_RAHEEM_2026-11-26.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795824978,
+   "photo": "photos/FDL_COOK_TAKARIE_2026-11-27.jpg"
+  },
   {
    "key": "MKE_MORENO_SHANE_385130",
    "name": "Shane Alexander Moreno",
@@ -548,10 +592,10 @@
    "age": "25",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "",
-   "more": 0,
+   "charge": "Disorderly Conduct",
+   "more": 3,
    "ts": 1795822094,
-   "photo": null
+   "photo": "photos/MKE_DAVISMOORE_MILANA_643052.jpg"
   },
   {
    "key": "MKE_CATES_ALLYAH_648522",
@@ -562,7 +606,7 @@
    "charge": "",
    "more": 0,
    "ts": 1795822091,
-   "photo": null
+   "photo": "photos/MKE_CATES_ALLYAH_648522.jpg"
   },
   {
    "key": "FDL_TEGROOTENHUIS_JULIE_2026-11-27",
@@ -614,7 +658,7 @@
    "age": "30",
    "county": "Milwaukee County",
    "region": "southeast",
-   "charge": "Possess w/Intent-Cocaine (>15-40g)",
+   "charge": "Party to a Crime",
    "more": 6,
    "ts": 1795816714,
    "photo": null
@@ -782,7 +826,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795811290,
-   "photo": null
+   "photo": "photos/MKE_TATUM_TRAVON_392089.jpg"
   },
   {
    "key": "MKE_ROBINSON_JAVON_648521",
@@ -848,7 +892,7 @@
    "charge": "Charges Pending",
    "more": 3,
    "ts": 1795809493,
-   "photo": null
+   "photo": "photos/MKE_MUNIZALVAREZ_RENE_611783.jpg"
   },
   {
    "key": "MKE_NEWSOME_JERMAINE_621451",
@@ -3590,17 +3634,6 @@
    "photo": "photos/RC_JACKSON_LEONARD_120011076592148.jpg"
   },
   {
-   "key": "MKE_PARKER_TAVION_636530",
-   "name": "Tavion J Parker",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1795584454,
-   "photo": "photos/MKE_PARKER_TAVION_636530.jpg"
-  },
-  {
    "key": "MKE_HILL_SETH_648485",
    "name": "Seth Gray Hill",
    "age": "24",
@@ -3610,39 +3643,6 @@
    "more": 1,
    "ts": 1795584452,
    "photo": "photos/MKE_HILL_SETH_648485.jpg"
-  },
-  {
-   "key": "SIVERHUS_LANCE_2026-11-24",
-   "name": "Lance R Siverhus",
-   "age": "30",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795584202,
-   "photo": null
-  },
-  {
-   "key": "THURSTON_THEODORE_2026-11-24",
-   "name": "Theodore David Thurston",
-   "age": "52",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795584202,
-   "photo": null
-  },
-  {
-   "key": "FDL_WEINSHROTT_ABBY_2026-11-24",
-   "name": "Abby R Weinshrott",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 0,
-   "ts": 1795583802,
-   "photo": "photos/FDL_WEINSHROTT_ABBY_2026-11-24.jpg"
   },
   {
    "key": "MKE_BELTRANOYOLA_LUISENRIQUE_382014",
@@ -3676,28 +3676,6 @@
    "more": 2,
    "ts": 1795579071,
    "photo": "photos/MKE_WILLIAMS_SAMUEL_618658.jpg"
-  },
-  {
-   "key": "MKE_BRUNO_WILDREDO_648484",
-   "name": "Wildredo GilbertRichard Bruno",
-   "age": "16",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795579068,
-   "photo": "photos/MKE_BRUNO_WILDREDO_648484.jpg"
-  },
-  {
-   "key": "MKE_SAVAGE_KEVIN_648483",
-   "name": "Kevin Patrick Savage",
-   "age": "21",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "1st Degree Reckless Injury",
-   "more": 1,
-   "ts": 1795577253,
-   "photo": "photos/MKE_SAVAGE_KEVIN_648483.jpg"
   },
   {
    "key": "TRAYWICK_TERRANCE_2026-11-24",
@@ -3755,17 +3733,6 @@
    "photo": "photos/MKE_SMITH_ALEX_401781.jpg"
   },
   {
-   "key": "MKE_LEE_CHERISH_648481",
-   "name": "Cherish Kamari Lee",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 1,
-   "ts": 1795571874,
-   "photo": "photos/MKE_LEE_CHERISH_648481.jpg"
-  },
-  {
    "key": "MKE_ALDOROUGH_ABDULKAREEM_648482",
    "name": "Abdulkareem M Al Dorough",
    "age": "33",
@@ -3797,28 +3764,6 @@
    "more": 0,
    "ts": 1795571293,
    "photo": "photos/RC_BURNSIDE_RICKEY_120011076588365.jpg"
-  },
-  {
-   "key": "HEROD_JASMINE_2026-11-24",
-   "name": "Jasmine A Herod",
-   "age": "37",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795569800,
-   "photo": null
-  },
-  {
-   "key": "FDL_MARTIN_DANIEL_2026-11-24",
-   "name": "Daniel L Martin",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct No Drugs or Alc",
-   "more": 1,
-   "ts": 1795569389,
-   "photo": null
   },
   {
    "key": "MKE_JOHNSON_DEWAYNE_631815",
@@ -3874,17 +3819,6 @@
    "more": 1,
    "ts": 1795566462,
    "photo": "photos/MKE_WASHINGTON_DONTAY_376631.jpg"
-  },
-  {
-   "key": "FDL_MIDDENDROP_DARIEN_2026-11-24",
-   "name": "Darien K Middendrop",
-   "age": "",
-   "county": "Fond du Lac County",
-   "region": "northeast",
-   "charge": "Transport - Detainer",
-   "more": 0,
-   "ts": 1795565809,
-   "photo": null
   },
   {
    "key": "MAR_CONNER_BRANDON_2026-11-24_11207003",
