@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-28T05:49:34+00:00",
+ "updated": "2026-11-28T06:49:27+00:00",
  "items": [
+  {
+   "key": "RC_PRINN_AUSTIN_120011076663383",
+   "name": "Austin Riley Prinn",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795848504,
+   "photo": null
+  },
+  {
+   "key": "KEN_TURNER_JAMES_2026-00006527",
+   "name": "James Michael Turner",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid D/L 3rd + Offense",
+   "more": 0,
+   "ts": 1795845364,
+   "photo": null
+  },
+  {
+   "key": "KEN_HILL_ONNYX_2026-00006526",
+   "name": "Onnyx Auxzavior Hill",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess W/Intent THC Less Than 200 Grams or Less Than 4 Plants",
+   "more": 1,
+   "ts": 1795845318,
+   "photo": "photos/KEN_HILL_ONNYX_2026-00006526.jpg"
+  },
+  {
+   "key": "KEN_DION_RUSS_2026-00006528",
+   "name": "Russ H Dion",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 1,
+   "ts": 1795845230,
+   "photo": "photos/KEN_DION_RUSS_2026-00006528.jpg"
+  },
   {
    "key": "HAGEN_ZACHARIAH_2026-11-27",
    "name": "Zachariah J Hagen",
@@ -187,50 +231,6 @@
    "more": 0,
    "ts": 1795836509,
    "photo": "photos/MKE_LEE_DAVID_648524.jpg"
-  },
-  {
-   "key": "MKE_CARTER_JOURNEE_648525",
-   "name": "Journee C Carter",
-   "age": "18",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795836504,
-   "photo": null
-  },
-  {
-   "key": "MKE_THOMASDAVIS_ANAIYJAH_648526",
-   "name": "Anaiyjah AM Thomas-Davis",
-   "age": "19",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795836499,
-   "photo": null
-  },
-  {
-   "key": "MKE_SCOTT_CHRISTOPHER_648527",
-   "name": "Christopher N Scott",
-   "age": "17",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Party to a Crime",
-   "more": 6,
-   "ts": 1795836495,
-   "photo": null
-  },
-  {
-   "key": "MKE_BOHNERT_MICHAEL_2004058",
-   "name": "Michael Scott Bohnert",
-   "age": "66",
-   "county": "Milwaukee County",
-   "region": "southeast",
-   "charge": "Charges Pending",
-   "more": 0,
-   "ts": 1795836491,
-   "photo": null
   },
   {
    "key": "DOU_STAHL_JOSHUA_2026-11-27",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "RC_PRINN_AUSTIN_120011076663383",
+   "name": "Austin Riley Prinn",
+   "age": "29",
+   "county": "Racine County",
+   "region": "southeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795848504,
+   "photo": null
+  },
+  {
+   "key": "KEN_TURNER_JAMES_2026-00006527",
+   "name": "James Michael Turner",
+   "age": "27",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Operate W/O Valid D/L 3rd + Offense",
+   "more": 0,
+   "ts": 1795845364,
+   "photo": null
+  },
+  {
+   "key": "KEN_HILL_ONNYX_2026-00006526",
+   "name": "Onnyx Auxzavior Hill",
+   "age": "32",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possess W/Intent THC Less Than 200 Grams or Less Than 4 Plants",
+   "more": 1,
+   "ts": 1795845318,
+   "photo": "photos/KEN_HILL_ONNYX_2026-00006526.jpg"
+  },
+  {
+   "key": "KEN_DION_RUSS_2026-00006528",
+   "name": "Russ H Dion",
+   "age": "42",
+   "county": "Kenosha County",
+   "region": "southeast",
+   "charge": "Possession of Drug Paraphernalia",
+   "more": 1,
+   "ts": 1795845230,
+   "photo": "photos/KEN_DION_RUSS_2026-00006528.jpg"
+  },
   {
    "key": "HAGEN_ZACHARIAH_2026-11-27",
    "name": "Zachariah J Hagen",
@@ -3940,17 +3984,6 @@
    "more": 0,
    "ts": 1795589282,
    "photo": "photos/RC_VARGAS_JOSEPH_120011076593482.jpg"
-  },
-  {
-   "key": "VANG_STEVEN_2026-11-25",
-   "name": "Steven Vang",
-   "age": "33",
-   "county": "La Crosse County",
-   "region": "southwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795589227,
-   "photo": null
   },
   {
    "key": "MKE_SMITH_KAMIYA_648486",
